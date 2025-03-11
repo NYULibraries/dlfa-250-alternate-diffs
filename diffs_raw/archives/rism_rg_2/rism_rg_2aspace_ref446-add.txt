@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref71</field>
+     <field name="parent_ssm">aspace_ref347</field>
+     <field name="parent_unittitles_ssm">Series II: Professional Papers</field>
+-    <field name="parent_unittitles_ssm">Subseries G: Benet's U.S. Aging and Longevity Studies</field>
++    <field name="parent_unittitles_ssm">Subseries G: Benet&amp;#39;s U.S. Aging and Longevity Studies</field>
+     <field name="parent_unittitles_teim">Series II: Professional Papers</field>
+-    <field name="parent_unittitles_teim">Subseries G: Benet's U.S. Aging and Longevity Studies</field>
++    <field name="parent_unittitles_teim">Subseries G: Benet&amp;#39;s U.S. Aging and Longevity Studies</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Sula Benet Papers</field>
+@@ -25,10 +25,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Sula Benet Papers</field>
++    <field name="author_teim">RISM staff.  Inventory revised by Margaret Fraser and Samantha Gibson, September 2010.</field>
+     <field name="collection_unitid_teim">RISM.RG.2</field>
+     <field name="series_sim">Series II: Professional Papers</field>
+-    <field name="series_sim">Subseries G: Benet's U.S. Aging and Longevity Studies</field>
+-    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries G: Benet's U.S. Aging and Longevity Studies &gt;&gt; Subsubseries II: New York Department of Aging</field>
++    <field name="series_sim">Subseries G: Benet&amp;#39;s U.S. Aging and Longevity Studies</field>
++    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries G: Benet&#39;s U.S. Aging and Longevity Studies &gt;&gt; Subsubseries II: New York Department of Aging</field>
+     <field name="heading_ssm">Subsubseries II: New York Department of Aging</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

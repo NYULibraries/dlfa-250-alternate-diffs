@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Executive Escapes: The Atlantic's Guide to Winter "Get Away" Vacation Spots</field>
+-    <field name="unittitle_teim">Executive Escapes: The Atlantic's Guide to Winter "Get Away" Vacation Spots</field>
++    <field name="unittitle_ssm">Executive Escapes: The Atlantic&#39;s Guide to Winter &#34;Get Away&#34; Vacation Spots</field>
++    <field name="unittitle_teim">Executive Escapes: The Atlantic&#39;s Guide to Winter &#34;Get Away&#34; Vacation Spots</field>
+     <field name="unitid_teim">RISM 17341</field>
+     <field name="unitid_ssm">RISM 17341</field>
+     <field name="creator_teim">Showker, Kay</field>
+@@ -45,11 +45,12 @@
+     <field name="place_ssm">Caribbean Area.</field>
+     <field name="place_sim">Caribbean Area.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Caribbean Area</field>
+     <field name="series_sim">Caribbean Area: Description and Travel (1 of 2)</field>
+-    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Description and Travel (1 of 2) &gt;&gt; Executive Escapes: The Atlantic's Guide to Winter "Get Away" Vacation Spots</field>
+-    <field name="heading_ssm">Executive Escapes: The Atlantic's Guide to Winter "Get Away" Vacation Spots</field>
++    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Description and Travel (1 of 2) &gt;&gt; Executive Escapes: The Atlantic&#39;s Guide to Winter &#34;Get Away&#34; Vacation Spots</field>
++    <field name="heading_ssm">Executive Escapes: The Atlantic&#39;s Guide to Winter &#34;Get Away&#34; Vacation Spots</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

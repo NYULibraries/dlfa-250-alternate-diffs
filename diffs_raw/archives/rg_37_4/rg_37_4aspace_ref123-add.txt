@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref77</field>
+     <field name="parent_ssm">aspace_ref18</field>
+     <field name="parent_ssm">aspace_ref77</field>
+-    <field name="parent_unittitles_ssm">Series I: Director's Files</field>
++    <field name="parent_unittitles_ssm">Series I: Director&amp;#39;s Files</field>
+     <field name="parent_unittitles_ssm">Subseries B: Individuals</field>
+-    <field name="parent_unittitles_teim">Series I: Director's Files</field>
++    <field name="parent_unittitles_teim">Series I: Director&amp;#39;s Files</field>
+     <field name="parent_unittitles_teim">Subseries B: Individuals</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -33,10 +33,11 @@
+     <field name="location_ssm">Box: 5, Folder: 20</field>
+     <field name="location_si">Box: 5, Folder: 20</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+-    <field name="series_sim">Series I: Director's Files</field>
++    <field name="series_sim">Series I: Director&amp;#39;s Files</field>
+     <field name="series_sim">Subseries B: Individuals</field>
+-    <field name="series_si">Series I: Director's Files &gt;&gt; Subseries B: Individuals &gt;&gt; F.G. Friedman</field>
++    <field name="series_si">Series I: Director&#39;s Files &gt;&gt; Subseries B: Individuals &gt;&gt; F.G. Friedman</field>
+     <field name="heading_ssm">F.G. Friedman</field>
+     <field name="unitdate_start_sim">1978</field>
+     <field name="unitdate_start_ssm">1978</field>

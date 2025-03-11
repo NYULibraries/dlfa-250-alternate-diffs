@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">'Royal Family' and the Mayoral Election</field>
+-    <field name="unittitle_teim">'Royal Family' and the Mayoral Election</field>
++    <field name="unittitle_ssm">&#39;Royal Family&#39; and the Mayoral Election</field>
++    <field name="unittitle_teim">&#39;Royal Family&#39; and the Mayoral Election</field>
+     <field name="unitdate_normal_ssm">1963/1963</field>
+     <field name="unitdate_normal_teim">1963/1963</field>
+     <field name="unitdate_normal_sim">1963/1963</field>
+@@ -39,11 +39,12 @@
+     <field name="place_sim">Jamaica.</field>
+     <field name="subject_sim">Elections.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Jamaica</field>
+     <field name="series_sim">Jamaica: Elections</field>
+-    <field name="series_si">Jamaica &gt;&gt; Jamaica: Elections &gt;&gt; 'Royal Family' and the Mayoral Election</field>
+-    <field name="heading_ssm">'Royal Family' and the Mayoral Election</field>
++    <field name="series_si">Jamaica &gt;&gt; Jamaica: Elections &gt;&gt; &#39;Royal Family&#39; and the Mayoral Election</field>
++    <field name="heading_ssm">&#39;Royal Family&#39; and the Mayoral Election</field>
+     <field name="unitdate_start_sim">1963</field>
+     <field name="unitdate_start_ssm">1963</field>
+     <field name="unitdate_start_si">1963</field>

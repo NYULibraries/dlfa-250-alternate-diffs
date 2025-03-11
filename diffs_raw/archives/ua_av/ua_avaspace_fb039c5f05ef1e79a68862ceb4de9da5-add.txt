@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,9 +20,8 @@
+     <field name="unitdate_normal_ssm">2018/2018</field>
+     <field name="unitdate_normal_teim">2018/2018</field>
+     <field name="unitdate_normal_sim">2018/2018</field>
+-    <field name="unitdate_teim"> </field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 17 min.</field>
++    <field name="phystech_teim">Original Format: ¼&#34; Open Reel Audio, Duration: 17 min.</field>
+     <field name="ref_ssi">aspace_fb039c5f05ef1e79a68862ceb4de9da5</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,6 +32,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV73</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV73</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Wilkins, Roy</field>
+@@ -43,7 +43,6 @@
+     <field name="unitdate_end_sim">2018</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm"> </field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

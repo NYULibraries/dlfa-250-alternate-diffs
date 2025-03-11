@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of the President (Harry Woodburn Chase)</field>
+     <field name="collection_unitid_ssm">RG.3.0.5</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Speeches from Chancellor Chase's old files at the University of Illinois,</field>
+-    <field name="unittitle_teim">Speeches from Chancellor Chase's old files at the University of Illinois,</field>
++    <field name="unittitle_ssm">Speeches from Chancellor Chase&#39;s old files at the University of Illinois,</field>
++    <field name="unittitle_teim">Speeches from Chancellor Chase&#39;s old files at the University of Illinois,</field>
+     <field name="unitdate_normal_ssm">1930/1933</field>
+     <field name="unitdate_normal_teim">1930/1933</field>
+     <field name="unitdate_normal_sim">1930/1933</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 76, Folder: 1</field>
+     <field name="location_si">Box: 76, Folder: 1</field>
+     <field name="collection_teim">Records of the Office of the President (Harry Woodburn Chase)</field>
++    <field name="author_teim">Phyllis A. Klein, 1978. Finding aid amended by Nancy Greenberg, 2007.</field>
+     <field name="collection_unitid_teim">RG.3.0.5</field>
+     <field name="series_sim">Series IV: Adresses and Published Writings</field>
+-    <field name="series_si">Series IV: Adresses and Published Writings &gt;&gt; Speeches from Chancellor Chase's old files at the University of Illinois,</field>
+-    <field name="heading_ssm">Speeches from Chancellor Chase's old files at the University of Illinois,</field>
++    <field name="series_si">Series IV: Adresses and Published Writings &gt;&gt; Speeches from Chancellor Chase&#39;s old files at the University of Illinois,</field>
++    <field name="heading_ssm">Speeches from Chancellor Chase&#39;s old files at the University of Illinois,</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>

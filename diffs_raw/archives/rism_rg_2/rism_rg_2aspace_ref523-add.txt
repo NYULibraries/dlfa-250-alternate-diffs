@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Sula Benet Papers</field>
+     <field name="collection_unitid_ssm">RISM.RG.2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Report on my trip to the Soviet Union"</field>
+-    <field name="unittitle_teim">"Report on my trip to the Soviet Union"</field>
++    <field name="unittitle_ssm">&#34;Report on my trip to the Soviet Union&#34;</field>
++    <field name="unittitle_teim">&#34;Report on my trip to the Soviet Union&#34;</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 39, Folder: 11</field>
+     <field name="location_si">Box: 39, Folder: 11</field>
+     <field name="collection_teim">Sula Benet Papers</field>
++    <field name="author_teim">RISM staff.  Inventory revised by Margaret Fraser and Samantha Gibson, September 2010.</field>
+     <field name="collection_unitid_teim">RISM.RG.2</field>
+     <field name="series_sim">Series II: Professional Papers</field>
+     <field name="series_sim">Subseries L: Unorganized Papers and Articles</field>
+-    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries L: Unorganized Papers and Articles &gt;&gt; "Report on my trip to the Soviet Union"</field>
+-    <field name="heading_ssm">"Report on my trip to the Soviet Union"</field>
++    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries L: Unorganized Papers and Articles &gt;&gt; &#34;Report on my trip to the Soviet Union&#34;</field>
++    <field name="heading_ssm">&#34;Report on my trip to the Soviet Union&#34;</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

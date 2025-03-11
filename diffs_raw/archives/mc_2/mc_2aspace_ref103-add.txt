@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref42</field>
+     <field name="parent_ssm">aspace_ref101</field>
+     <field name="parent_unittitles_ssm">Series II: James Buell Munn</field>
+-    <field name="parent_unittitles_ssm">Subseries E: Organizations (cont'd.)</field>
++    <field name="parent_unittitles_ssm">Subseries E: Organizations (cont&amp;#39;d.)</field>
+     <field name="parent_unittitles_teim">Series II: James Buell Munn</field>
+-    <field name="parent_unittitles_teim">Subseries E: Organizations (cont'd.)</field>
++    <field name="parent_unittitles_teim">Subseries E: Organizations (cont&amp;#39;d.)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James Buell Munn Papers</field>
+@@ -17,7 +17,8 @@
+     <field name="collection_unitid_ssm">MC.2</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">First Presbyterian Church of New York City - George Alexander  Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
+-    <field name="unittitle_teim">First Presbyterian Church of New York City - George Alexander  Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
++    <field name="unittitle_teim">First Presbyterian Church of New York City - George Alexander 
++ Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
+     <field name="unitdate_normal_ssm">1930/1938</field>
+     <field name="unitdate_normal_teim">1930/1938</field>
+     <field name="unitdate_normal_sim">1930/1938</field>
+@@ -31,11 +32,13 @@
+     <field name="location_ssm">Box: 6, Folder: 2</field>
+     <field name="location_si">Box: 6, Folder: 2</field>
+     <field name="collection_teim">James Buell Munn Papers</field>
++    <field name="author_teim">Brenda Parnes</field>
+     <field name="collection_unitid_teim">MC.2</field>
+     <field name="series_sim">Series II: James Buell Munn</field>
+-    <field name="series_sim">Subseries E: Organizations (cont'd.)</field>
+-    <field name="series_si">Series II: James Buell Munn &gt;&gt; Subseries E: Organizations (cont'd.) &gt;&gt; First Presbyterian Church of New York City - George Alexander  Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
+-    <field name="heading_ssm">First Presbyterian Church of New York City - George Alexander  Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
++    <field name="series_sim">Subseries E: Organizations (cont&amp;#39;d.)</field>
++    <field name="series_si">Series II: James Buell Munn &gt;&gt; Subseries E: Organizations (cont&#39;d.) &gt;&gt; First Presbyterian Church of New York City - George Alexander  Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
++    <field name="heading_ssm">First Presbyterian Church of New York City - George Alexander 
++ Includes eulogy, no author; dedication booklet - Alexander Memorial Chapel; notations by JBM (for memorial plaque?).</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>

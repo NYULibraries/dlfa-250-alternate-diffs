@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Columbia University and New York University Film Schools: Free Film Voices"</field>
+-    <field name="unittitle_teim">"Columbia University and New York University Film Schools: Free Film Voices"</field>
++    <field name="unittitle_ssm">&#34;Columbia University and New York University Film Schools: Free Film Voices&#34;</field>
++    <field name="unittitle_teim">&#34;Columbia University and New York University Film Schools: Free Film Voices&#34;</field>
+     <field name="unitid_teim">AV3354</field>
+     <field name="unitid_ssm">AV3354</field>
+     <field name="unitdate_teim">2000</field>
+-    <field name="scopecontent_teim">Documentary about the pros and cons of going to film school. Should a film maker spend money on the tuition of film school or just make a feature length motion picture for the same cost? These questions are asked and answered by students, alumni, and professors from Tisch School of Arts and Columbia University's film program.</field>
++    <field name="scopecontent_teim">Documentary about the pros and cons of going to film school. Should a film maker spend money on the tuition of film school or just make a feature length motion picture for the same cost? These questions are asked and answered by students, alumni, and professors from Tisch School of Arts and Columbia University&#39;s film program.</field>
+     <field name="corpname_teim">Columbia University</field>
+     <field name="corpname_teim">Columbia University -- Faculty</field>
+     <field name="corpname_teim">New York University</field>
+@@ -76,10 +76,11 @@
+     <field name="name_teim">Insdorf, Annette</field>
+     <field name="subject_sim">filmmaking</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "Columbia University and New York University Film Schools: Free Film Voices"</field>
+-    <field name="heading_ssm">"Columbia University and New York University Film Schools: Free Film Voices"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;Columbia University and New York University Film Schools: Free Film Voices&#34;</field>
++    <field name="heading_ssm">&#34;Columbia University and New York University Film Schools: Free Film Voices&#34;</field>
+     <field name="unitdate_ssm">2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

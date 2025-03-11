@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">2013/2015</field>
+     <field name="unitdate_normal_sim">2013/2015</field>
+     <field name="unitdate_inclusive_teim">2013-2015</field>
+-    <field name="scopecontent_teim">Series consists of event announcements held by NYU's student organizations.</field>
++    <field name="scopecontent_teim">Series consists of event announcements held by NYU&#39;s student organizations.</field>
+     <field name="ref_ssi">aspace_939e4fdd078fd5bfa159f3c24308b817</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York University Student Organizations Web Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">MC.375</field>
+     <field name="series_si">Series II: Student Organization Event Ephemera</field>
+     <field name="heading_ssm">Series II: Student Organization Event Ephemera</field>

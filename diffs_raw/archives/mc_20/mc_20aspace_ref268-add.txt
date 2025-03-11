@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Financial Records</field>
+     <field name="unittitle_teim">Series III: Financial Records</field>
+-    <field name="scopecontent_teim">This series contains Treasurer's Reports (1871-1883), Checks (1882-1884), Letters of Receipt (1882-1884), and miscellaneous records (1856-1871). Each type of record is arranged in chronological order.</field>
++    <field name="scopecontent_teim">This series contains Treasurer&#39;s Reports (1871-1883), Checks (1882-1884), Letters of Receipt (1882-1884), and miscellaneous records (1856-1871). Each type of record is arranged in chronological order.</field>
+     <field name="ref_ssi">aspace_ref268</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the American and Foreign Christian Union</field>
++    <field name="author_teim">Susan Meier</field>
+     <field name="collection_unitid_teim">MC.20</field>
+     <field name="series_si">Series III: Financial Records</field>
+     <field name="heading_ssm">Series III: Financial Records</field>

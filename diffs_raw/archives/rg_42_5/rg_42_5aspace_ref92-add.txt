@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Grey Art Gallery and Study Center</field>
+     <field name="collection_unitid_ssm">RG.42.5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Parviz Tanavoli -- Bob's File</field>
+-    <field name="unittitle_teim">Parviz Tanavoli -- Bob's File</field>
++    <field name="unittitle_ssm">Parviz Tanavoli -- Bob&#39;s File</field>
++    <field name="unittitle_teim">Parviz Tanavoli -- Bob&#39;s File</field>
+     <field name="unitid_teim">cuid2349</field>
+     <field name="unitid_ssm">cuid2349</field>
+     <field name="unitdate_normal_ssm">1976/1976</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: I:2, Folder: 18</field>
+     <field name="location_si">Box: I:2, Folder: 18</field>
+     <field name="collection_teim">Records of the Grey Art Gallery and Study Center</field>
++    <field name="author_teim">Aleksandr Gelfand. Additional description by Michael Wong and Deborah Shapiro.</field>
+     <field name="collection_unitid_teim">RG.42.5</field>
+     <field name="series_sim">Series I: Exhibition Files</field>
+-    <field name="series_si">Series I: Exhibition Files &gt;&gt; Parviz Tanavoli -- Bob's File</field>
+-    <field name="heading_ssm">Parviz Tanavoli -- Bob's File</field>
++    <field name="series_si">Series I: Exhibition Files &gt;&gt; Parviz Tanavoli -- Bob&#39;s File</field>
++    <field name="heading_ssm">Parviz Tanavoli -- Bob&#39;s File</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

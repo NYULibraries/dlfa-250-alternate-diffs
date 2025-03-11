@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+     <field name="unitdate_inclusive_teim">22-Sept-1981</field>
+-    <field name="scopecontent_teim">This event was a panel discussion on politics and writing featuring Czesław Miłosz, Joseph Brodsky and Robert Silvers. This is the first of two tapes from this event. President Brademus gives brief introductory welcome. This is one of the first academic occassions Brademas participated in as NYU's 13th president.</field>
++    <field name="scopecontent_teim">This event was a panel discussion on politics and writing featuring Czesław Miłosz, Joseph Brodsky and Robert Silvers. This is the first of two tapes from this event. President Brademus gives brief introductory welcome. This is one of the first academic occassions Brademas participated in as NYU&#39;s 13th president.</field>
+     <field name="persname_teim">Brademas, John,  1927-2016</field>
+     <field name="persname_teim">Miłosz, Czesław</field>
+     <field name="persname_teim">Brodsky, Joseph, 1940-1996</field>
+@@ -54,6 +54,7 @@
+     <field name="name_teim">Silvers, Robert B.</field>
+     <field name="subject_sim">Politics and government.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries B: 1/4 Inch Reels (3 3/4 IPS)</field>

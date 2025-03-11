@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_ssm">MC.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;New York University Art Collection Catalog&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      New York University Art Collection Catalog
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;New York University Art Collection Catalog&lt;/em&gt;</field>
++    <field name="unittitle_teim">New York University Art Collection Catalog</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/952171</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/952171</field>
+     <field name="unitdate_normal_ssm">1960/1973</field>
+@@ -34,14 +30,11 @@
+     <field name="location_ssm">Box: 428, Folder: 1-7</field>
+     <field name="location_si">Box: 428, Folder: 1-7</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
++    <field name="author_teim">Stacey Flatt, Nicole Greenhouse, Emma Griffin, and Oana Capatina.</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_sim">RG 42.8. NYU Art Collection</field>
+-    <field name="series_si">RG 42.8. NYU Art Collection &gt;&gt; 
+-      &lt;em&gt;New York University Art Collection Catalog&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      New York University Art Collection Catalog
+-    </field>
++    <field name="series_si">RG 42.8. NYU Art Collection &gt;&gt; &lt;em&gt;New York University Art Collection Catalog&lt;/em&gt;</field>
++    <field name="heading_ssm">New York University Art Collection Catalog</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>

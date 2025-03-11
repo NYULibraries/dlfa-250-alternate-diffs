@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Late 19th Century Photographic Materials</field>
+     <field name="collection_unitid_ssm">MC.230</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Book Page Reproduction -- "Chapter 7"</field>
+-    <field name="unittitle_teim">Book Page Reproduction -- "Chapter 7"</field>
++    <field name="unittitle_ssm">Book Page Reproduction -- &#34;Chapter 7&#34;</field>
++    <field name="unittitle_teim">Book Page Reproduction -- &#34;Chapter 7&#34;</field>
+     <field name="unitid_teim">cuid14895</field>
+     <field name="unitid_ssm">cuid14895</field>
+     <field name="unitdate_normal_ssm">1885/1905</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1885/1905</field>
+     <field name="unitdate_normal_sim">1885/1905</field>
+     <field name="unitdate_inclusive_teim">circa 1890s</field>
+-    <field name="dao_teim">Reproduction of an unidentified document "Chapter 7" (damaged): circa 1890s</field>
+-    <field name="dao_ssm">Reproduction of an unidentified document "Chapter 7" (damaged): circa 1890s</field>
++    <field name="dao_teim">Reproduction of an unidentified document &#34;Chapter 7&#34; (damaged): circa 1890s</field>
++    <field name="dao_ssm">Reproduction of an unidentified document &#34;Chapter 7&#34; (damaged): circa 1890s</field>
+     <field name="ref_ssi">aspace_b87c004557ac36fdeb809837fa3a1106</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,10 +33,11 @@
+     <field name="location_si">Box: 30, Folder: 10</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.230</field>
+     <field name="series_sim">Series IX.  Document Reproductions and Memorial Images</field>
+-    <field name="series_si">Series IX.  Document Reproductions and Memorial Images &gt;&gt; Book Page Reproduction -- "Chapter 7"</field>
+-    <field name="heading_ssm">Book Page Reproduction -- "Chapter 7"</field>
++    <field name="series_si">Series IX.  Document Reproductions and Memorial Images &gt;&gt; Book Page Reproduction -- &#34;Chapter 7&#34;</field>
++    <field name="heading_ssm">Book Page Reproduction -- &#34;Chapter 7&#34;</field>
+     <field name="unitdate_start_sim">1885</field>
+     <field name="unitdate_start_ssm">1885</field>
+     <field name="unitdate_start_si">1885</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1986/2002</field>
+     <field name="unitdate_normal_sim">1986/2002</field>
+     <field name="unitdate_inclusive_teim">1986-2002</field>
+-    <field name="scopecontent_teim">This series includes correspondence, budgets, admissions statistics, and annual reports collected by the Office of the President on individual NYU Schools and Divisions, including the Office of Undergraduate Admissions, NYU Medical Center, and Tisch School of the Arts, among others. It illustrates Oliva's interaction and involvement with every aspect of the university, academic and administrative.</field>
++    <field name="scopecontent_teim">This series includes correspondence, budgets, admissions statistics, and annual reports collected by the Office of the President on individual NYU Schools and Divisions, including the Office of Undergraduate Admissions, NYU Medical Center, and Tisch School of the Arts, among others. It illustrates Oliva&#39;s interaction and involvement with every aspect of the university, academic and administrative.</field>
+     <field name="ref_ssi">aspace_7666ca3d8490df97b58dc0bcd23dcc44</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Office of the President (Oliva)</field>
++    <field name="author_teim">Finding aid prepared by University Archives staff. Inventory prepared by Stephanie Schmeling with assistance from Hester Goodwin. Final container list prepared by Lauren Stark.</field>
+     <field name="collection_unitid_teim">RG.3.0.11</field>
+     <field name="series_si">Series VIII. Schools, Offices, and Divisions</field>
+     <field name="heading_ssm">Series VIII. Schools, Offices, and Divisions</field>

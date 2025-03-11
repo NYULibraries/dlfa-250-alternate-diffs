@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of WNYU</field>
+     <field name="collection_unitid_ssm">RG.39.5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Shake 'Em On Down: World Famous Blue Jays</field>
+-    <field name="unittitle_teim">Shake 'Em On Down: World Famous Blue Jays</field>
++    <field name="unittitle_ssm">Shake &#39;Em On Down: World Famous Blue Jays</field>
++    <field name="unittitle_teim">Shake &#39;Em On Down: World Famous Blue Jays</field>
+     <field name="unitdate_normal_ssm">1989-07/1989-07</field>
+     <field name="unitdate_normal_teim">1989-07/1989-07</field>
+     <field name="unitdate_normal_sim">1989-07/1989-07</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 16, Quarter_Inch_Audio_Reel: 39_5_0198</field>
+     <field name="location_si">Box: 16, Quarter_Inch_Audio_Reel: 39_5_0198</field>
+     <field name="collection_teim">Records of WNYU</field>
++    <field name="author_teim">University Archives staff in 2000. Revised by Katie Senft in 2003.</field>
+     <field name="collection_unitid_teim">RG.39.5</field>
+     <field name="series_sim">Series V: Recorded Programs</field>
+-    <field name="series_si">Series V: Recorded Programs &gt;&gt; Shake 'Em On Down: World Famous Blue Jays</field>
+-    <field name="heading_ssm">Shake 'Em On Down: World Famous Blue Jays</field>
++    <field name="series_si">Series V: Recorded Programs &gt;&gt; Shake &#39;Em On Down: World Famous Blue Jays</field>
++    <field name="heading_ssm">Shake &#39;Em On Down: World Famous Blue Jays</field>
+     <field name="unitdate_ssm">circa July, 1989</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">494</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Jamaica: Political Parties, People's Political Party</field>
+-    <field name="unittitle_teim">Jamaica: Political Parties, People's Political Party</field>
++    <field name="unittitle_ssm">Jamaica: Political Parties, People&#39;s Political Party</field>
++    <field name="unittitle_teim">Jamaica: Political Parties, People&#39;s Political Party</field>
+     <field name="ref_ssi">aspace_ref13337</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 15</field>
+     <field name="location_si">Box: 15</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Jamaica</field>
+-    <field name="series_si">Jamaica &gt;&gt; Jamaica: Political Parties, People's Political Party</field>
+-    <field name="heading_ssm">Jamaica: Political Parties, People's Political Party</field>
++    <field name="series_si">Jamaica &gt;&gt; Jamaica: Political Parties, People&#39;s Political Party</field>
++    <field name="heading_ssm">Jamaica: Political Parties, People&#39;s Political Party</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

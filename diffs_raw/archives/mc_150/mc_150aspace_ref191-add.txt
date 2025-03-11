@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/6/archival_objects/603634</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/603634</field>
+     <field name="unitdate_teim">undated, [1959]</field>
+-    <field name="scopecontent_teim">Part of a letter detailing Courant's attempts to get restitution/reparations after WWII. Also includes letter from Herbert Beyer.</field>
++    <field name="scopecontent_teim">Part of a letter detailing Courant&#39;s attempts to get restitution/reparations after WWII. Also includes letter from Herbert Beyer.</field>
+     <field name="ref_ssi">aspace_ref191</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 14, Folder: 4</field>
+     <field name="location_si">Box: 14, Folder: 4</field>
+     <field name="collection_teim">Richard Courant Papers</field>
++    <field name="author_teim">Katie Ehrlich. Additional processing and German translation by Ryan Dahn</field>
+     <field name="collection_unitid_teim">MC.150</field>
+     <field name="series_sim">Series I: Files from the Home of Ernst Courant</field>
+     <field name="series_sim">Subseries B: Subject Files</field>

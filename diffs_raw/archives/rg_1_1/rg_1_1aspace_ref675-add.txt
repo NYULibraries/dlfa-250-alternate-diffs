@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Faculty Publications</field>
+     <field name="collection_unitid_ssm">RG.1.1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Heaton, Harry Clifton; Lope de Vega's Part 27 Extravagant</field>
+-    <field name="unittitle_teim">Heaton, Harry Clifton; Lope de Vega's Part 27 Extravagant</field>
++    <field name="unittitle_ssm">Heaton, Harry Clifton; Lope de Vega&#39;s Part 27 Extravagant</field>
++    <field name="unittitle_teim">Heaton, Harry Clifton; Lope de Vega&#39;s Part 27 Extravagant</field>
+     <field name="unitdate_normal_ssm">1924/1924</field>
+     <field name="unitdate_normal_teim">1924/1924</field>
+     <field name="unitdate_normal_sim">1924/1924</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 13, Folder: 9</field>
+     <field name="location_si">Box: 13, Folder: 9</field>
+     <field name="collection_teim">New York University Archives Collection of Faculty Publications</field>
++    <field name="author_teim">Janet Bunde and Eva McCausland.</field>
+     <field name="collection_unitid_teim">RG.1.1</field>
+     <field name="series_sim">Faculty Publications</field>
+-    <field name="series_si">Faculty Publications &gt;&gt; Heaton, Harry Clifton; Lope de Vega's Part 27 Extravagant</field>
+-    <field name="heading_ssm">Heaton, Harry Clifton; Lope de Vega's Part 27 Extravagant</field>
++    <field name="series_si">Faculty Publications &gt;&gt; Heaton, Harry Clifton; Lope de Vega&#39;s Part 27 Extravagant</field>
++    <field name="heading_ssm">Heaton, Harry Clifton; Lope de Vega&#39;s Part 27 Extravagant</field>
+     <field name="unitdate_start_sim">1924</field>
+     <field name="unitdate_start_ssm">1924</field>
+     <field name="unitdate_start_si">1924</field>

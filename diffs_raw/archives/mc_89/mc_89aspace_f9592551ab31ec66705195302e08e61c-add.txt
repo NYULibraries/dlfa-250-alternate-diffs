@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Women in Communications, Inc. (WICI) Records</field>
+     <field name="collection_unitid_ssm">MC.89</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Other Chapters' News and Newsletters</field>
+-    <field name="unittitle_teim">Other Chapters' News and Newsletters</field>
++    <field name="unittitle_ssm">Other Chapters&#39; News and Newsletters</field>
++    <field name="unittitle_teim">Other Chapters&#39; News and Newsletters</field>
+     <field name="unitdate_normal_ssm">1959/1980</field>
+     <field name="unitdate_normal_teim">1959/1980</field>
+     <field name="unitdate_normal_sim">1959/1980</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 31, Folder: 4</field>
+     <field name="location_si">Box: 31, Folder: 4</field>
+     <field name="collection_teim">Women in Communications, Inc. (WICI) Records</field>
++    <field name="author_teim">Lauren Stark</field>
+     <field name="collection_unitid_teim">MC.89</field>
+     <field name="series_sim">Series VI. Publications</field>
+-    <field name="series_si">Series VI. Publications &gt;&gt; Other Chapters' News and Newsletters</field>
+-    <field name="heading_ssm">Other Chapters' News and Newsletters</field>
++    <field name="series_si">Series VI. Publications &gt;&gt; Other Chapters&#39; News and Newsletters</field>
++    <field name="heading_ssm">Other Chapters&#39; News and Newsletters</field>
+     <field name="unitdate_start_sim">1959</field>
+     <field name="unitdate_start_ssm">1959</field>
+     <field name="unitdate_start_si">1959</field>

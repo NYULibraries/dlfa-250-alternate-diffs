@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Faculty Publications</field>
+     <field name="collection_unitid_ssm">RG.1.1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Stahl, William Harris; "The Ancient Greek Astronomers" (from the Classical Journal)</field>
+-    <field name="unittitle_teim">Stahl, William Harris; "The Ancient Greek Astronomers" (from the Classical Journal)</field>
++    <field name="unittitle_ssm">Stahl, William Harris; &#34;The Ancient Greek Astronomers&#34; (from the Classical Journal)</field>
++    <field name="unittitle_teim">Stahl, William Harris; &#34;The Ancient Greek Astronomers&#34; (from the Classical Journal)</field>
+     <field name="unitdate_normal_ssm">1951/1951</field>
+     <field name="unitdate_normal_teim">1951/1951</field>
+     <field name="unitdate_normal_sim">1951/1951</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 20, Folder: 11</field>
+     <field name="location_si">Box: 20, Folder: 11</field>
+     <field name="collection_teim">New York University Archives Collection of Faculty Publications</field>
++    <field name="author_teim">Janet Bunde and Eva McCausland.</field>
+     <field name="collection_unitid_teim">RG.1.1</field>
+     <field name="series_sim">Faculty Publications</field>
+-    <field name="series_si">Faculty Publications &gt;&gt; Stahl, William Harris; "The Ancient Greek Astronomers" (from the Classical Journal)</field>
+-    <field name="heading_ssm">Stahl, William Harris; "The Ancient Greek Astronomers" (from the Classical Journal)</field>
++    <field name="series_si">Faculty Publications &gt;&gt; Stahl, William Harris; &#34;The Ancient Greek Astronomers&#34; (from the Classical Journal)</field>
++    <field name="heading_ssm">Stahl, William Harris; &#34;The Ancient Greek Astronomers&#34; (from the Classical Journal)</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>
+     <field name="unitdate_start_si">1951</field>

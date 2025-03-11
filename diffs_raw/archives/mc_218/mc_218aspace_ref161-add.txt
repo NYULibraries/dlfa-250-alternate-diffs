@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Glass plate negatives</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Sailors' Snug Harbor Image Collection</field>
+-    <field name="collection_ssm">Sailors' Snug Harbor Image Collection</field>
++    <field name="collection_sim">Sailors&#39; Snug Harbor Image Collection</field>
++    <field name="collection_ssm">Sailors&#39; Snug Harbor Image Collection</field>
+     <field name="collection_unitid_ssm">MC.218</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Plate 46</field>
+@@ -32,7 +32,8 @@
+     <field name="location_ssm">Box: 6, Item: 7</field>
+     <field name="location_si">Box: 6, Item: 7</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">Sailors' Snug Harbor Image Collection</field>
++    <field name="collection_teim">Sailors&#39; Snug Harbor Image Collection</field>
++    <field name="author_teim">Nancy Cricco and Dale Rejtmar</field>
+     <field name="collection_unitid_teim">MC.218</field>
+     <field name="series_sim">Glass plate negatives</field>
+     <field name="series_si">Glass plate negatives &gt;&gt; Plate 46</field>

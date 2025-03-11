@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1951/1961</field>
+     <field name="unitdate_normal_sim">1951/1961</field>
+     <field name="unitdate_inclusive_teim">1951-1961</field>
+-    <field name="scopecontent_teim">Series III consists of two groups of materials: minutes, statements, handbills, and correspondence between 1952 and 1954 concerning Burgum's suspension and dismissal; and correspondence between New York University and the American Association of University Professors concerning AAUP's investigation of the Burgum and Bradley cases. Copies of material from the Office of the Chancellor sent to Vice Chancellor Harold Oliver Voorhis constitute the bulk of this series. The series also contains correspondence between Burgum and Voorhis concerning his suspension and dismissal.</field>
++    <field name="scopecontent_teim">Series III consists of two groups of materials: minutes, statements, handbills, and correspondence between 1952 and 1954 concerning Burgum&#39;s suspension and dismissal; and correspondence between New York University and the American Association of University Professors concerning AAUP&#39;s investigation of the Burgum and Bradley cases. Copies of material from the Office of the Chancellor sent to Vice Chancellor Harold Oliver Voorhis constitute the bulk of this series. The series also contains correspondence between Burgum and Voorhis concerning his suspension and dismissal.</field>
+     <field name="ref_ssi">aspace_ref116</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Edwin Berry Burgum Academic Freedom Case</field>
++    <field name="author_teim">Peter Arnade</field>
+     <field name="collection_unitid_teim">RG.19.1</field>
+     <field name="series_si">Series III. Office of the Vice Chancellor</field>
+     <field name="heading_ssm">Series III. Office of the Vice Chancellor</field>

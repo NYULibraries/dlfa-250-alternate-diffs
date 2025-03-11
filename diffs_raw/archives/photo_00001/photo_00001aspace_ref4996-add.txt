@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,15 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">McDonald's, West 3rd Street</field>
+-    <field name="unittitle_teim">McDonald's, West 3rd Street</field>
++    <field name="unittitle_ssm">McDonald&#39;s, West 3rd Street</field>
++    <field name="unittitle_teim">McDonald&#39;s, West 3rd Street</field>
+     <field name="unitid_teim">wsa_5_3_13</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636472</field>
+     <field name="unitid_ssm">wsa_5_3_13</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/636472</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="dao_teim">McDonald's, West 3rd Street: undated</field>
+-    <field name="dao_ssm">McDonald's, West 3rd Street: undated</field>
++    <field name="dao_teim">McDonald&#39;s, West 3rd Street: undated</field>
++    <field name="dao_ssm">McDonald&#39;s, West 3rd Street: undated</field>
+     <field name="ref_ssi">aspace_ref4996</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -35,11 +35,12 @@
+     <field name="location_si">Box: 181, Folder: 3, Item: 13</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">West 3rd Street</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; West 3rd Street &gt;&gt; McDonald's, West 3rd Street</field>
+-    <field name="heading_ssm">McDonald's, West 3rd Street</field>
++    <field name="series_si">Washington Square Area &gt;&gt; West 3rd Street &gt;&gt; McDonald&#39;s, West 3rd Street</field>
++    <field name="heading_ssm">McDonald&#39;s, West 3rd Street</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">University College Senior Theses</field>
+     <field name="collection_unitid_ssm">MC.24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Altman, Joseph, "History of the Origin of the North West Ordinance"</field>
+-    <field name="unittitle_teim">Altman, Joseph, "History of the Origin of the North West Ordinance"</field>
++    <field name="unittitle_ssm">Altman, Joseph, &#34;History of the Origin of the North West Ordinance&#34;</field>
++    <field name="unittitle_teim">Altman, Joseph, &#34;History of the Origin of the North West Ordinance&#34;</field>
+     <field name="unitdate_teim">Apr 1900</field>
+     <field name="ref_ssi">aspace_ref30</field>
+     <field name="repository_ssi">archives</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">University College Senior Theses</field>
++    <field name="author_teim">Steven A. Walker.</field>
+     <field name="collection_unitid_teim">MC.24</field>
+-    <field name="series_si">Altman, Joseph, "History of the Origin of the North West Ordinance"</field>
+-    <field name="heading_ssm">Altman, Joseph, "History of the Origin of the North West Ordinance"</field>
++    <field name="series_si">Altman, Joseph, &#34;History of the Origin of the North West Ordinance&#34;</field>
++    <field name="heading_ssm">Altman, Joseph, &#34;History of the Origin of the North West Ordinance&#34;</field>
+     <field name="unitdate_ssm">Apr 1900</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">12</field>

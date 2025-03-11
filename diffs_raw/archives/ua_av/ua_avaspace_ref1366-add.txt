@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">AV3343</field>
+     <field name="unitid_ssm">AV3343</field>
+     <field name="unitdate_teim">circa 1995</field>
+-    <field name="scopecontent_teim">This is a promotional video for the William H. Cosby Future Filmmakers Workshop; a high school summer program at Tisch School of the Arts. It features interviews with alumni of the program and clips from some of the films the students made. "Special Thanks" are given to Clive Davis, Peter Lund and Harvey Weinstein, and William H. Cosby in end credits.</field>
++    <field name="scopecontent_teim">This is a promotional video for the William H. Cosby Future Filmmakers Workshop; a high school summer program at Tisch School of the Arts. It features interviews with alumni of the program and clips from some of the films the students made. &#34;Special Thanks&#34; are given to Clive Davis, Peter Lund and Harvey Weinstein, and William H. Cosby in end credits.</field>
+     <field name="corpname_teim">Tisch School of the Arts</field>
+     <field name="corpname_ssm">Tisch School of the Arts</field>
+     <field name="persname_teim">Cosby, Bill, 1937-</field>
+@@ -52,6 +52,7 @@
+     <field name="name_teim">Lund, Peter</field>
+     <field name="subject_sim">filmmaking</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; The William H. Cosby Future Filmmakers Workshop promotional video</field>

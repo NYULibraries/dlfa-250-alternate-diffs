@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Grey Art Gallery and Study Center</field>
+     <field name="collection_unitid_ssm">RG.42.5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ben Shahn's New York: The Photography of Modern Times</field>
+-    <field name="unittitle_teim">Ben Shahn's New York: The Photography of Modern Times</field>
++    <field name="unittitle_ssm">Ben Shahn&#39;s New York: The Photography of Modern Times</field>
++    <field name="unittitle_teim">Ben Shahn&#39;s New York: The Photography of Modern Times</field>
+     <field name="unitid_teim">cuid3261</field>
+     <field name="unitid_ssm">cuid3261</field>
+     <field name="unitdate_normal_ssm">1999/2001</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: I:32, Folder: 8-10</field>
+     <field name="location_si">Box: I:32, Folder: 8-10</field>
+     <field name="collection_teim">Records of the Grey Art Gallery and Study Center</field>
++    <field name="author_teim">Aleksandr Gelfand. Additional description by Michael Wong and Deborah Shapiro.</field>
+     <field name="collection_unitid_teim">RG.42.5</field>
+     <field name="series_sim">Series I: Exhibition Files</field>
+-    <field name="series_si">Series I: Exhibition Files &gt;&gt; Ben Shahn's New York: The Photography of Modern Times</field>
+-    <field name="heading_ssm">Ben Shahn's New York: The Photography of Modern Times</field>
++    <field name="series_si">Series I: Exhibition Files &gt;&gt; Ben Shahn&#39;s New York: The Photography of Modern Times</field>
++    <field name="heading_ssm">Ben Shahn&#39;s New York: The Photography of Modern Times</field>
+     <field name="unitdate_start_sim">1999</field>
+     <field name="unitdate_start_ssm">1999</field>
+     <field name="unitdate_start_si">1999</field>

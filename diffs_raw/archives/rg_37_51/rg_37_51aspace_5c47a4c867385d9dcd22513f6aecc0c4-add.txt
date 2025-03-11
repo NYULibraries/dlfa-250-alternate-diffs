@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">2015-11-16/2015-11-16</field>
+     <field name="unitdate_inclusive_teim">2015-11-16</field>
+     <field name="scopecontent_teim">Event Type: Seminar on Ballet</field>
+-    <field name="scopecontent_teim">Speaker: Tarik O'Regan</field>
++    <field name="scopecontent_teim">Speaker: Tarik O&#39;Regan</field>
+     <field name="scopecontent_teim">Speaker Type: Resident Fellow, CBA</field>
+     <field name="scopecontent_teim">Location: 20 Cooper Square</field>
+     <field name="dao_teim">Mata Hari: 2015-11-16-</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">E-records: Electronic records, E-records: UA_RG_37-51_ER_18</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records for the Center for Ballet and the Arts</field>
++    <field name="author_teim">Rachel Searcy and Bess Pittman</field>
+     <field name="collection_unitid_teim">RG.37.51</field>
+     <field name="series_sim">Center for Ballet and the Arts Videos</field>
+     <field name="series_si">Center for Ballet and the Arts Videos &gt;&gt; Mata Hari</field>

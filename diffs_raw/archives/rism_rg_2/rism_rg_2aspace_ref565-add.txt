@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Sula Benet Papers</field>
+     <field name="collection_unitid_ssm">RISM.RG.2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Small box of slides labeled "Hasan"</field>
+-    <field name="unittitle_teim">Small box of slides labeled "Hasan"</field>
++    <field name="unittitle_ssm">Small box of slides labeled &#34;Hasan&#34;</field>
++    <field name="unittitle_teim">Small box of slides labeled &#34;Hasan&#34;</field>
+     <field name="unitid_teim">cuid9</field>
+     <field name="unitid_ssm">cuid9</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 34</field>
+     <field name="location_si">Box: 34</field>
+     <field name="collection_teim">Sula Benet Papers</field>
++    <field name="author_teim">RISM staff.  Inventory revised by Margaret Fraser and Samantha Gibson, September 2010.</field>
+     <field name="collection_unitid_teim">RISM.RG.2</field>
+     <field name="series_sim">Series II: Professional Papers</field>
+     <field name="series_sim">Subseries I: Audiovisual Materials</field>
+-    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries I: Audiovisual Materials &gt;&gt; Small box of slides labeled "Hasan"</field>
+-    <field name="heading_ssm">Small box of slides labeled "Hasan"</field>
++    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries I: Audiovisual Materials &gt;&gt; Small box of slides labeled &#34;Hasan&#34;</field>
++    <field name="heading_ssm">Small box of slides labeled &#34;Hasan&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

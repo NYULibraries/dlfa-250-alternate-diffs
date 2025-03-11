@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1940/1988</field>
+     <field name="unitdate_normal_sim">1940/1988</field>
+     <field name="unitdate_inclusive_teim">1940-1988</field>
+-    <field name="scopecontent_teim">Series I consists of Gorn's correspondence with Adolph E. Mayer, George Nelson, Geoffrey Bruun, and Walter MacKellar.</field>
++    <field name="scopecontent_teim">Series I consists of Gorn&#39;s correspondence with Adolph E. Mayer, George Nelson, Geoffrey Bruun, and Walter MacKellar.</field>
+     <field name="ref_ssi">aspace_ref63</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Janice Gorn Papers</field>
++    <field name="author_teim">Alison Lotto</field>
+     <field name="collection_unitid_teim">MC.98</field>
+     <field name="series_si">Series I. Correspondence</field>
+     <field name="heading_ssm">Series I. Correspondence</field>

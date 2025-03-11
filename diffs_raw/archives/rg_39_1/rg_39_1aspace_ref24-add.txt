@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Eucleian Society</field>
+     <field name="collection_unitid_ssm">RG.39.1</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Adelphic and Eucleian Treasurer's accounts</field>
+-    <field name="unittitle_teim">Adelphic and Eucleian Treasurer's accounts</field>
++    <field name="unittitle_ssm">Adelphic and Eucleian Treasurer&#39;s accounts</field>
++    <field name="unittitle_teim">Adelphic and Eucleian Treasurer&#39;s accounts</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/675935</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/675935</field>
+     <field name="unitdate_normal_ssm">1832/1847</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Records of the Eucleian Society</field>
++    <field name="author_teim">Processed by Stuart Sammis and NYU Archives Staff</field>
+     <field name="collection_unitid_teim">RG.39.1</field>
+     <field name="series_sim">Series 1: Official records and correspondence</field>
+-    <field name="series_si">Series 1: Official records and correspondence &gt;&gt; Adelphic and Eucleian Treasurer's accounts</field>
+-    <field name="heading_ssm">Adelphic and Eucleian Treasurer's accounts</field>
++    <field name="series_si">Series 1: Official records and correspondence &gt;&gt; Adelphic and Eucleian Treasurer&#39;s accounts</field>
++    <field name="heading_ssm">Adelphic and Eucleian Treasurer&#39;s accounts</field>
+     <field name="unitdate_start_sim">1832</field>
+     <field name="unitdate_start_ssm">1832</field>
+     <field name="unitdate_start_si">1832</field>

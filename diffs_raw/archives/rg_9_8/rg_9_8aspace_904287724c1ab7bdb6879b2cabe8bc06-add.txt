@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1970-07-15/1970-07-15</field>
+     <field name="unitdate_normal_sim">1970-07-15/1970-07-15</field>
+     <field name="unitdate_teim">1970-07-15</field>
+-    <field name="scopecontent_teim">Housing annotation: Recorded at 3 3/4 IPS and full track for Lynn Sharpe "Patterns."</field>
++    <field name="scopecontent_teim">Housing annotation: Recorded at 3 3/4 IPS and full track for Lynn Sharpe &#34;Patterns.&#34;</field>
+     <field name="dao_teim">Martin Hamer Lecture -- Reel 1</field>
+     <field name="dao_ssm">Martin Hamer Lecture -- Reel 1</field>
+     <field name="ref_ssi">aspace_904287724c1ab7bdb6879b2cabe8bc06</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 39, reel: cuid17299</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.B. Events Recordings</field>

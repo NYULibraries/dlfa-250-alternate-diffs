@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/6/archival_objects/603931</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/603931</field>
+     <field name="unitdate_teim">1945-1947</field>
+-    <field name="scopecontent_teim">Correspondents include Klaus Clusius, Courant's daughter Gertrude and Wilhelm Flügge</field>
++    <field name="scopecontent_teim">Correspondents include Klaus Clusius, Courant&#39;s daughter Gertrude and Wilhelm Flügge</field>
+     <field name="ref_ssi">aspace_ref491</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 36, Folder: 9</field>
+     <field name="location_si">Box: 36, Folder: 9</field>
+     <field name="collection_teim">Richard Courant Papers</field>
++    <field name="author_teim">Katie Ehrlich. Additional processing and German translation by Ryan Dahn</field>
+     <field name="collection_unitid_teim">MC.150</field>
+     <field name="series_sim">Series II: Files from the Office of Richard Courant</field>
+     <field name="series_sim">Subseries A: General Files</field>

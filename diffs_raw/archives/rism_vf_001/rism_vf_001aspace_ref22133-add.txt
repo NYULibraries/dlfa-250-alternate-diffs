@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Letter on "The Debt"</field>
+-    <field name="unittitle_teim">Letter on "The Debt"</field>
++    <field name="unittitle_ssm">Letter on &#34;The Debt&#34;</field>
++    <field name="unittitle_teim">Letter on &#34;The Debt&#34;</field>
+     <field name="unitid_teim">RISM 22978</field>
+     <field name="unitid_ssm">RISM 22978</field>
+     <field name="creator_teim">Antrobus, Peggy</field>
+@@ -45,11 +45,12 @@
+     <field name="name_teim">Antrobus, Peggy</field>
+     <field name="subject_sim">Women.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">General Subject Files</field>
+     <field name="series_sim">Women</field>
+-    <field name="series_si">General Subject Files &gt;&gt; Women &gt;&gt; Letter on "The Debt"</field>
+-    <field name="heading_ssm">Letter on "The Debt"</field>
++    <field name="series_si">General Subject Files &gt;&gt; Women &gt;&gt; Letter on &#34;The Debt&#34;</field>
++    <field name="heading_ssm">Letter on &#34;The Debt&#34;</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

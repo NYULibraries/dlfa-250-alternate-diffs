@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;New Day Chicago&lt;/em&gt; (WBBM-TV): "Dr. Brademas, President of NYU"</field>
+-    <field name="unittitle_teim">New Day Chicago (WBBM-TV): "Dr. Brademas, President of NYU"</field>
++    <field name="unittitle_ssm">&lt;em&gt;New Day Chicago&lt;/em&gt; (WBBM-TV): &#34;Dr. Brademas, President of NYU&#34;</field>
++    <field name="unittitle_teim">New Day Chicago (WBBM-TV): &#34;Dr. Brademas, President of NYU&#34;</field>
+     <field name="unitid_teim">AV3275</field>
+     <field name="unitid_ssm">AV3275</field>
+     <field name="creator_teim">Brademas, John,  1927-2016</field>
+@@ -34,10 +34,11 @@
+     <field name="name_sim">Brademas, John,  1927-2016</field>
+     <field name="name_teim">Brademas, John,  1927-2016</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; &lt;em&gt;New Day Chicago&lt;/em&gt; (WBBM-TV): "Dr. Brademas, President of NYU"</field>
+-    <field name="heading_ssm">New Day Chicago (WBBM-TV): "Dr. Brademas, President of NYU"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &lt;em&gt;New Day Chicago&lt;/em&gt; (WBBM-TV): &#34;Dr. Brademas, President of NYU&#34;</field>
++    <field name="heading_ssm">New Day Chicago (WBBM-TV): &#34;Dr. Brademas, President of NYU&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

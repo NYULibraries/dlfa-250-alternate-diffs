@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia's 13th Anniversary Assembly</field>
+-    <field name="unittitle_teim">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia's 13th Anniversary Assembly</field>
++    <field name="unittitle_ssm">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia&#39;s 13th Anniversary Assembly</field>
++    <field name="unittitle_teim">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia&#39;s 13th Anniversary Assembly</field>
+     <field name="unitid_teim">RISM 18323</field>
+     <field name="unitid_ssm">RISM 18323</field>
+     <field name="creator_teim">Best, Lloyd</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Trinidad and Tobago.</field>
+     <field name="subject_sim">Elections.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Trinidad and Tobago</field>
+     <field name="series_sim">Trinidad and Tobago: Elections</field>
+-    <field name="series_si">Trinidad and Tobago &gt;&gt; Trinidad and Tobago: Elections &gt;&gt; A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia's 13th Anniversary Assembly</field>
+-    <field name="heading_ssm">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia's 13th Anniversary Assembly</field>
++    <field name="series_si">Trinidad and Tobago &gt;&gt; Trinidad and Tobago: Elections &gt;&gt; A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia&#39;s 13th Anniversary Assembly</field>
++    <field name="heading_ssm">A National Party for Trinidad and Tobago: The General Elections 1981; Address Made to Tapia&#39;s 13th Anniversary Assembly</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/6/archival_objects/603592</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/603592</field>
+     <field name="unitdate_teim">1934-1935, undated</field>
+-    <field name="scopecontent_teim">Contains copies of Courant's marriage certificate, childrens' birth certificates. Also includes correspndence from early years at NYU.</field>
++    <field name="scopecontent_teim">Contains copies of Courant&#39;s marriage certificate, childrens&#39; birth certificates. Also includes correspndence from early years at NYU.</field>
+     <field name="ref_ssi">aspace_ref152</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 11, Folder: 7</field>
+     <field name="location_si">Box: 11, Folder: 7</field>
+     <field name="collection_teim">Richard Courant Papers</field>
++    <field name="author_teim">Katie Ehrlich. Additional processing and German translation by Ryan Dahn</field>
+     <field name="collection_unitid_teim">MC.150</field>
+     <field name="series_sim">Series I: Files from the Home of Ernst Courant</field>
+     <field name="series_sim">Subseries B: Subject Files</field>

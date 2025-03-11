@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1974 NYU "Goals Conference" - Tape 1</field>
+-    <field name="unittitle_teim">1974 NYU "Goals Conference" - Tape 1</field>
++    <field name="unittitle_ssm">1974 NYU &#34;Goals Conference&#34; - Tape 1</field>
++    <field name="unittitle_teim">1974 NYU &#34;Goals Conference&#34; - Tape 1</field>
+     <field name="unitid_teim">AV301</field>
+     <field name="unitid_ssm">AV301</field>
+     <field name="unitdate_normal_ssm">1974-02-26/1974-02-26</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1974-02-26/1974-02-26</field>
+     <field name="unitdate_teim">1974-02-26</field>
+     <field name="scopecontent_teim">Housing annotation: 1st Speaker - President Hester, 9 am</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 33 min.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 33 min.</field>
+     <field name="ref_ssi">aspace_8519bb5a33297739ea34a99904cfa35a</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,10 +33,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV301</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV301</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; 1974 NYU "Goals Conference" - Tape 1</field>
+-    <field name="heading_ssm">1974 NYU "Goals Conference" - Tape 1</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; 1974 NYU &#34;Goals Conference&#34; - Tape 1</field>
++    <field name="heading_ssm">1974 NYU &#34;Goals Conference&#34; - Tape 1</field>
+     <field name="unitdate_ssm">1974-02-26</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">283</field>

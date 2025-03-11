@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Mr. Brademas Goes to Washington" (4) MC 168-88</field>
+-    <field name="unittitle_teim">"Mr. Brademas Goes to Washington" (4) MC 168-88</field>
++    <field name="unittitle_ssm">&#34;Mr. Brademas Goes to Washington&#34; (4) MC 168-88</field>
++    <field name="unittitle_teim">&#34;Mr. Brademas Goes to Washington&#34; (4) MC 168-88</field>
+     <field name="unitid_teim">cuid10627</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/614047</field>
+     <field name="unitid_ssm">cuid10627</field>
+@@ -37,11 +37,12 @@
+     <field name="location_si">Box: III:30, Folder: 
+ </field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries V: Audiovisual Materials</field>
+-    <field name="series_si">Series III: Media &gt;&gt; Subseries V: Audiovisual Materials &gt;&gt; "Mr. Brademas Goes to Washington" (4) MC 168-88</field>
+-    <field name="heading_ssm">"Mr. Brademas Goes to Washington" (4) MC 168-88</field>
++    <field name="series_si">Series III: Media &gt;&gt; Subseries V: Audiovisual Materials &gt;&gt; &#34;Mr. Brademas Goes to Washington&#34; (4) MC 168-88</field>
++    <field name="heading_ssm">&#34;Mr. Brademas Goes to Washington&#34; (4) MC 168-88</field>
+     <field name="unitdate_start_sim">1958</field>
+     <field name="unitdate_start_ssm">1958</field>
+     <field name="unitdate_start_si">1958</field>

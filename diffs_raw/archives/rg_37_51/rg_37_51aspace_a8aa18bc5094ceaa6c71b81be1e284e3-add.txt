@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="scopecontent_teim">Event Type: Open Class</field>
+     <field name="scopecontent_teim">Speaker: Alonzo King</field>
+     <field name="scopecontent_teim">Speaker Type: Invited guest speaker</field>
+-    <field name="scopecontent_teim">Collaborators: Dancers from Alonzo King's company</field>
++    <field name="scopecontent_teim">Collaborators: Dancers from Alonzo King&#39;s company</field>
+     <field name="scopecontent_teim">Location: Joan Weill Center for Dance; Alvin Ailey American Dance Theater</field>
+     <field name="dao_teim">Open Class with Alonzo King: 2016-03-31-</field>
+     <field name="dao_teim">Open Class with Alonzo King: 2016-03-31</field>
+@@ -40,6 +40,7 @@
+     <field name="location_si">E-records: Electronic records, E-records: UA_RG_37-51_ER_26</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records for the Center for Ballet and the Arts</field>
++    <field name="author_teim">Rachel Searcy and Bess Pittman</field>
+     <field name="collection_unitid_teim">RG.37.51</field>
+     <field name="series_sim">Center for Ballet and the Arts Videos</field>
+     <field name="series_si">Center for Ballet and the Arts Videos &gt;&gt; Open Class with Alonzo King</field>

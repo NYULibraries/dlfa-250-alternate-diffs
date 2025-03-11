@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_286</field>
+     <field name="parent_ssi">aspace_7d1dae15f787bb33f9ca932ddc32011c</field>
+     <field name="parent_ssm">aspace_7d1dae15f787bb33f9ca932ddc32011c</field>
+-    <field name="parent_unittitles_ssm">Women's Law Class (RG 22.1)</field>
+-    <field name="parent_unittitles_teim">Women's Law Class (RG 22.1)</field>
++    <field name="parent_unittitles_ssm">Women&amp;#39;s Law Class (RG 22.1)</field>
++    <field name="parent_unittitles_teim">Women&amp;#39;s Law Class (RG 22.1)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Collection of Course Bulletins</field>
+@@ -30,9 +30,10 @@
+     <field name="location_ssm">Box: 60</field>
+     <field name="location_si">Box: 60</field>
+     <field name="collection_teim">New York University Archives Collection of Course Bulletins</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">MC.286</field>
+-    <field name="series_sim">Women's Law Class (RG 22.1)</field>
+-    <field name="series_si">Women's Law Class (RG 22.1) &gt;&gt; Bulletins</field>
++    <field name="series_sim">Women&amp;#39;s Law Class (RG 22.1)</field>
++    <field name="series_si">Women&#39;s Law Class (RG 22.1) &gt;&gt; Bulletins</field>
+     <field name="heading_ssm">Bulletins</field>
+     <field name="unitdate_start_sim">1901</field>
+     <field name="unitdate_start_ssm">1901</field>

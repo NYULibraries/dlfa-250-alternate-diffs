@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of Senior Vice President for Administration</field>
+     <field name="collection_unitid_ssm">RG.8.0.3</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Brademas's Friends</field>
+-    <field name="unittitle_teim">Brademas's Friends</field>
++    <field name="unittitle_ssm">Brademas&#39;s Friends</field>
++    <field name="unittitle_teim">Brademas&#39;s Friends</field>
+     <field name="unitdate_normal_ssm">1981/1983</field>
+     <field name="unitdate_normal_teim">1981/1983</field>
+     <field name="unitdate_normal_sim">1981/1983</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">Records of the Office of Senior Vice President for Administration</field>
++    <field name="author_teim">University Archives Staff.</field>
+     <field name="collection_unitid_teim">RG.8.0.3</field>
+     <field name="series_sim">Inventory</field>
+-    <field name="series_si">Inventory &gt;&gt; Brademas's Friends</field>
+-    <field name="heading_ssm">Brademas's Friends</field>
++    <field name="series_si">Inventory &gt;&gt; Brademas&#39;s Friends</field>
++    <field name="heading_ssm">Brademas&#39;s Friends</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

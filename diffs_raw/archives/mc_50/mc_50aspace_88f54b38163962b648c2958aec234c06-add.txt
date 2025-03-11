@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Henry Heald Speeches</field>
+     <field name="collection_unitid_ssm">MC.50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">HTH, "Science Looks Ahead," Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
+-    <field name="unittitle_teim">HTH, "Science Looks Ahead," Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
++    <field name="unittitle_ssm">HTH, &#34;Science Looks Ahead,&#34; Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
++    <field name="unittitle_teim">HTH, &#34;Science Looks Ahead,&#34; Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
+     <field name="unitdate_normal_ssm">1952-07-15/1952-07-15</field>
+     <field name="unitdate_normal_teim">1952-07-15/1952-07-15</field>
+     <field name="unitdate_normal_sim">1952-07-15/1952-07-15</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">Henry Heald Speeches</field>
++    <field name="author_teim">Claire Wolford.</field>
+     <field name="collection_unitid_teim">MC.50</field>
+-    <field name="series_si">HTH, "Science Looks Ahead," Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
+-    <field name="heading_ssm">HTH, "Science Looks Ahead," Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
++    <field name="series_si">HTH, &#34;Science Looks Ahead,&#34; Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
++    <field name="heading_ssm">HTH, &#34;Science Looks Ahead,&#34; Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</field>
+     <field name="unitdate_ssm">1952-07-15</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

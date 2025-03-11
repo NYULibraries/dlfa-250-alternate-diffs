@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4143</field>
+     <field name="unitid_ssm">cuid4143</field>
+     <field name="unitdate_teim">Probably 2002</field>
+-    <field name="scopecontent_teim">Ren Weschler and Joel Meyerowitz discuss Meyerowitz's work photographing the aftermath of the 9/11 attacks on the World Trade Center. Labeled April 7, this recorded, one-on-one private conversation probably took place in preparation for the Meyerowitz's public NYIH lecture that took place in May of 2002. (see related materials note)</field>
++    <field name="scopecontent_teim">Ren Weschler and Joel Meyerowitz discuss Meyerowitz&#39;s work photographing the aftermath of the 9/11 attacks on the World Trade Center. Labeled April 7, this recorded, one-on-one private conversation probably took place in preparation for the Meyerowitz&#39;s public NYIH lecture that took place in May of 2002. (see related materials note)</field>
+     <field name="genreform_teim">Photographs.</field>
+     <field name="genreform_ssm">Photographs.</field>
+     <field name="persname_teim">Meyerowitz, Joel, 1938-</field>
+@@ -37,8 +37,8 @@
+     <field name="subject_teim">Joel Meyerowitz book</field>
+     <field name="subject_teim">World Trade Center Site (New York, N.Y.)</field>
+     <field name="subject_teim">Photographers -- United States.</field>
+-    <field name="subject_teim">Photographers -- United States -- Biography.</field>
+-    <field name="subject_teim">Photography -- United States.</field>
++    <field name="subject_teim">Photographers --United States --Biography.</field>
++    <field name="subject_teim">Photography --United States.</field>
+     <field name="subject_teim">Photography</field>
+     <field name="subject_ssm">Joel Meyerowitz book</field>
+     <field name="subject_ssm">World Trade Center Site (New York, N.Y.)</field>
+@@ -62,10 +62,11 @@
+     <field name="subject_sim">Joel Meyerowitz book</field>
+     <field name="subject_sim">World Trade Center Site (New York, N.Y.)</field>
+     <field name="subject_sim">Photographers -- United States.</field>
+-    <field name="subject_sim">Photographers -- United States -- Biography.</field>
+-    <field name="subject_sim">Photography -- United States.</field>
++    <field name="subject_sim">Photographers --United States --Biography.</field>
++    <field name="subject_sim">Photography --United States.</field>
+     <field name="subject_sim">Photography</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

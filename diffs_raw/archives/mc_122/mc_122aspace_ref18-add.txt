@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I. Addresses.</field>
+     <field name="unittitle_teim">Series I. Addresses.</field>
+-    <field name="scopecontent_teim">Series I consists of addresses given by Dr. Newsom at various functions, meetings, and conferences, many of which correlate with the conference programs found in Series III. These addresses span Newsom's entire early career, but are particularly abundant during his tenure at NYU and during the 1960's in general. The address topics are diverse, but primarily concern pedagogy(including educational television) and mathematics.</field>
++    <field name="scopecontent_teim">Series I consists of addresses given by Dr. Newsom at various functions, meetings, and conferences, many of which correlate with the conference programs found in Series III. These addresses span Newsom&#39;s entire early career, but are particularly abundant during his tenure at NYU and during the 1960&#39;s in general. The address topics are diverse, but primarily concern pedagogy(including educational television) and mathematics.</field>
+     <field name="corpname_teim">NYU</field>
+     <field name="corpname_ssm">NYU</field>
+     <field name="subject_teim">pedagogy</field>
+@@ -35,6 +35,7 @@
+     <field name="subject_sim">educational television</field>
+     <field name="subject_sim">mathematics</field>
+     <field name="collection_teim">Carroll Newsom Papers</field>
++    <field name="author_teim">Peter M. Braunstein</field>
+     <field name="collection_unitid_teim">MC.122</field>
+     <field name="series_si">Series I. Addresses.</field>
+     <field name="heading_ssm">Series I. Addresses.</field>

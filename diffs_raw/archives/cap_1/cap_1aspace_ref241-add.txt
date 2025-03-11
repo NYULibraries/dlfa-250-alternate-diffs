@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+     <field name="collection_unitid_ssm">CAP.1</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Delamotte's Practice of Photography A Manual for Students and Amatuers</field>
+-    <field name="unittitle_teim">Delamotte's Practice of Photography A Manual for Students and Amatuers</field>
++    <field name="unittitle_ssm">Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers</field>
++    <field name="unittitle_teim">Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers</field>
+     <field name="unitid_teim">cap1_ref241</field>
+     <field name="unitid_ssm">cap1_ref241</field>
+     <field name="creator_teim">Low, Son &amp; Co</field>
+@@ -31,8 +31,8 @@
+     <field name="corpname_ssm">Low, Son &amp; Co</field>
+     <field name="persname_teim">Delamotte, Philip H. (Philip Henry), 1821-1889</field>
+     <field name="persname_ssm">Delamotte, Philip H. (Philip Henry), 1821-1889</field>
+-    <field name="dao_teim">Delamotte's Practice of Photography A Manual for Students and Amatuers: 1856</field>
+-    <field name="dao_ssm">Delamotte's Practice of Photography A Manual for Students and Amatuers: 1856</field>
++    <field name="dao_teim">Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers: 1856</field>
++    <field name="dao_ssm">Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers: 1856</field>
+     <field name="ref_ssi">aspace_ref241</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -49,10 +49,11 @@
+     <field name="name_teim">Delamotte, Philip H. (Philip Henry), 1821-1889</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
++    <field name="author_teim">Jonathan Lawler, Olivia Jane Mueller, and John Zarrillo</field>
+     <field name="collection_unitid_teim">CAP.1</field>
+     <field name="series_sim">Digitized Publications</field>
+-    <field name="series_si">Digitized Publications &gt;&gt; Delamotte's Practice of Photography A Manual for Students and Amatuers</field>
+-    <field name="heading_ssm">Delamotte's Practice of Photography A Manual for Students and Amatuers</field>
++    <field name="series_si">Digitized Publications &gt;&gt; Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers</field>
++    <field name="heading_ssm">Delamotte&#39;s Practice of Photography A Manual for Students and Amatuers</field>
+     <field name="unitdate_start_sim">1856</field>
+     <field name="unitdate_start_ssm">1856</field>
+     <field name="unitdate_start_si">1856</field>

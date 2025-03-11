@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1977-01-12/1977-01-12</field>
+     <field name="unitdate_normal_sim">1977-01-12/1977-01-12</field>
+     <field name="unitdate_teim">1977-01-12</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Percy Sutton discuss political opportunities and responsibilities of minorities during the Carter administration. They also discuss Sutton's plans for running for the Mayor of New York City.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Percy Sutton discuss political opportunities and responsibilities of minorities during the Carter administration. They also discuss Sutton&#39;s plans for running for the Mayor of New York City.</field>
+     <field name="dao_teim">Sutton, Honorable Percy E. -- Borough President of Manhattan.: 1977 January 12</field>
+     <field name="dao_ssm">Sutton, Honorable Percy E. -- Borough President of Manhattan.: 1977 January 12</field>
+     <field name="ref_ssi">aspace_ref3976</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 53, Folder: 161</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

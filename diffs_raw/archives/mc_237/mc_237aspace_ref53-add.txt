@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Early Alumni Materials Collection</field>
+     <field name="collection_unitid_ssm">MC.237</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons"</field>
+-    <field name="unittitle_teim">"A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons"</field>
++    <field name="unittitle_ssm">&#34;A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons&#34;</field>
++    <field name="unittitle_teim">&#34;A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons&#34;</field>
+     <field name="unitdate_normal_ssm">1954/1954</field>
+     <field name="unitdate_normal_teim">1954/1954</field>
+     <field name="unitdate_normal_sim">1954/1954</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4, Folder: 3</field>
+     <field name="location_si">Box: 4, Folder: 3</field>
+     <field name="collection_teim">Early Alumni Materials Collection</field>
++    <field name="author_teim">Celeste Brewer.</field>
+     <field name="collection_unitid_teim">MC.237</field>
+     <field name="series_sim">Series IV:  Publications</field>
+-    <field name="series_si">Series IV:  Publications &gt;&gt; "A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons"</field>
+-    <field name="heading_ssm">"A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons"</field>
++    <field name="series_si">Series IV:  Publications &gt;&gt; &#34;A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons&#34;</field>
++    <field name="heading_ssm">&#34;A Student at New York University in 1847:  Excerpts from the Diary of John E. Parsons&#34;</field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>

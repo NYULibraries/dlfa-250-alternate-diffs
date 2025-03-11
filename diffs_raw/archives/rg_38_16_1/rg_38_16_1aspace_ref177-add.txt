@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">NYU TV and Media Services Video Recordings</field>
+     <field name="collection_unitid_ssm">RG.38.16.1</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series II: Commencement and Founder's Day</field>
+-    <field name="unittitle_teim">Series II: Commencement and Founder's Day</field>
++    <field name="unittitle_ssm">Series II: Commencement and Founder&#39;s Day</field>
++    <field name="unittitle_teim">Series II: Commencement and Founder&#39;s Day</field>
+     <field name="unitdate_normal_ssm">1995/2009</field>
+     <field name="unitdate_normal_teim">1995/2009</field>
+     <field name="unitdate_normal_sim">1995/2009</field>
+@@ -22,9 +22,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">NYU TV and Media Services Video Recordings</field>
++    <field name="author_teim">Lindsay Dumas. Later accessions processed by Claire Wolford and Shannon McDonald. </field>
+     <field name="collection_unitid_teim">RG.38.16.1</field>
+-    <field name="series_si">Series II: Commencement and Founder's Day</field>
+-    <field name="heading_ssm">Series II: Commencement and Founder's Day</field>
++    <field name="series_si">Series II: Commencement and Founder&#39;s Day</field>
++    <field name="heading_ssm">Series II: Commencement and Founder&#39;s Day</field>
+     <field name="unitdate_start_sim">1995</field>
+     <field name="unitdate_start_ssm">1995</field>
+     <field name="unitdate_start_si">1995</field>

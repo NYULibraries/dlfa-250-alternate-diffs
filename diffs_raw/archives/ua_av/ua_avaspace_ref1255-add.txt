@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"The TV Frame"</field>
+-    <field name="unittitle_teim">"The TV Frame"</field>
++    <field name="unittitle_ssm">&#34;The TV Frame&#34;</field>
++    <field name="unittitle_teim">&#34;The TV Frame&#34;</field>
+     <field name="unitid_teim">AV4449</field>
+     <field name="unitid_ssm">AV4449</field>
+     <field name="creator_teim">Postman, Neil</field>
+@@ -37,10 +37,11 @@
+     <field name="name_sim">Postman, Neil</field>
+     <field name="name_teim">Postman, Neil</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "The TV Frame"</field>
+-    <field name="heading_ssm">"The TV Frame"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;The TV Frame&#34;</field>
++    <field name="heading_ssm">&#34;The TV Frame&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

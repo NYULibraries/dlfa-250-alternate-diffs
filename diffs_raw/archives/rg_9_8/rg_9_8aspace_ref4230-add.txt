@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1974-03-12/1974-03-12</field>
+     <field name="unitdate_normal_sim">1974-03-12/1974-03-12</field>
+     <field name="unitdate_teim">1974-03-12</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and singer Maxine Sullivan discuss Sullivan's singing career and the history of Black music.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and singer Maxine Sullivan discuss Sullivan&#39;s singing career and the history of Black music.</field>
+     <field name="dao_teim">Sullivan, Maxine -- singer.: 1974 March 12</field>
+     <field name="dao_ssm">Sullivan, Maxine -- singer.: 1974 March 12</field>
+     <field name="ref_ssi">aspace_ref4230</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 51, Folder: 207</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

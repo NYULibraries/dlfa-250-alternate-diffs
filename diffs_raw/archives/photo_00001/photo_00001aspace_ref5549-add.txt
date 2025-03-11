@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -29,7 +29,7 @@
+     <field name="corpname_teim">New York University -- Buildings</field>
+     <field name="corpname_ssm">New York University -- Buildings</field>
+     <field name="subject_teim">Physics |x Study and teaching |y 19th century.</field>
+-    <field name="subject_teim">Physics -- Study and teaching -- 19th century.</field>
++    <field name="subject_teim">Physics --Study and teaching --19th century.</field>
+     <field name="subject_ssm">Physics |x Study and teaching |y 19th century.</field>
+     <field name="dao_teim">University Building, Interior - Physics Lab: 1894</field>
+     <field name="dao_ssm">University Building, Interior - Physics Lab: 1894</field>
+@@ -44,8 +44,9 @@
+     <field name="name_sim">New York University -- Buildings</field>
+     <field name="name_teim">New York University -- Buildings</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">Physics -- Study and teaching -- 19th century.</field>
++    <field name="subject_sim">Physics --Study and teaching --19th century.</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">University Building</field>
+     <field name="series_sim">University Building - Interior, Physics Lab</field>

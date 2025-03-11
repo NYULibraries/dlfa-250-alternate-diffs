@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Department of French Literature, Thought and Culture</field>
+     <field name="collection_unitid_ssm">RG.37.13</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Genette, Gérard: "La définition du style"</field>
+-    <field name="unittitle_teim">Genette, Gérard: "La définition du style"</field>
++    <field name="unittitle_ssm">Genette, Gérard: &#34;La définition du style&#34;</field>
++    <field name="unittitle_teim">Genette, Gérard: &#34;La définition du style&#34;</field>
+     <field name="unitdate_normal_ssm">1990-04-17/1990-04-17</field>
+     <field name="unitdate_normal_teim">1990-04-17/1990-04-17</field>
+     <field name="unitdate_normal_sim">1990-04-17/1990-04-17</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 9, audiocassette: 37-13.0154</field>
+     <field name="location_si">Box: 9, audiocassette: 37-13.0154</field>
+     <field name="collection_teim">Records of the Department of French Literature, Thought and Culture</field>
++    <field name="author_teim">Jennipher Ambrose, Samantha Rowe, Rachel Searcy</field>
+     <field name="collection_unitid_teim">RG.37.13</field>
+     <field name="series_sim">La Maison Française Sound Recordings</field>
+-    <field name="series_si">La Maison Française Sound Recordings &gt;&gt; Genette, Gérard: "La définition du style"</field>
+-    <field name="heading_ssm">Genette, Gérard: "La définition du style"</field>
++    <field name="series_si">La Maison Française Sound Recordings &gt;&gt; Genette, Gérard: &#34;La définition du style&#34;</field>
++    <field name="heading_ssm">Genette, Gérard: &#34;La définition du style&#34;</field>
+     <field name="unitdate_ssm">April 17, 1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">139</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_ssm">MC.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Revue&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Revue
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Revue&lt;/em&gt;</field>
++    <field name="unittitle_teim">Revue</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/949088</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/949088</field>
+     <field name="unitdate_normal_ssm">1991/1991</field>
+@@ -34,14 +30,11 @@
+     <field name="location_ssm">Box: 358, Folder: 2</field>
+     <field name="location_si">Box: 358, Folder: 2</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
++    <field name="author_teim">Stacey Flatt, Nicole Greenhouse, Emma Griffin, and Oana Capatina.</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_sim">RG 37.12. Institute of French Studies</field>
+-    <field name="series_si">RG 37.12. Institute of French Studies &gt;&gt; 
+-      &lt;em&gt;Revue&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Revue
+-    </field>
++    <field name="series_si">RG 37.12. Institute of French Studies &gt;&gt; &lt;em&gt;Revue&lt;/em&gt;</field>
++    <field name="heading_ssm">Revue</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>
+     <field name="unitdate_start_si">1991</field>

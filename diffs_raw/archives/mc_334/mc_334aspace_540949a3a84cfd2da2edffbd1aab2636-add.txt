@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1976/2019</field>
+     <field name="unitdate_normal_sim">1976/2019</field>
+     <field name="unitdate_inclusive_teim">1976-1979, 1991-2019</field>
+-    <field name="bioghist_teim">The American Institute for Verdi Studies is America's leading research center for the life and works of Giuseppe Verdi. The AIVS was inaugurated at New York University in 1976.</field>
++    <field name="bioghist_teim">The American Institute for Verdi Studies is America&#39;s leading research center for the life and works of Giuseppe Verdi. The AIVS was inaugurated at New York University in 1976.</field>
+     <field name="ref_ssi">aspace_540949a3a84cfd2da2edffbd1aab2636</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
++    <field name="author_teim">Stacey Flatt, Nicole Greenhouse, Emma Griffin, and Oana Capatina.</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_si">RG 37.16. American Institute for Verdi Studies</field>
+     <field name="heading_ssm">RG 37.16. American Institute for Verdi Studies</field>

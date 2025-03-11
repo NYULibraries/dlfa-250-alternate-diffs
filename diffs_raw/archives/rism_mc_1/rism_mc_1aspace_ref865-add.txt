@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Carl L. Withers Manuscript Collection</field>
+     <field name="collection_unitid_ssm">RISM.MC.1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Campaign signs read "Varona"]</field>
+-    <field name="unittitle_teim">[Campaign signs read "Varona"]</field>
++    <field name="unittitle_ssm">[Campaign signs read &#34;Varona&#34;]</field>
++    <field name="unittitle_teim">[Campaign signs read &#34;Varona&#34;]</field>
+     <field name="unitdate_normal_ssm">1947/1984</field>
+     <field name="unitdate_normal_teim">1947/1984</field>
+     <field name="unitdate_normal_sim">1947/1984</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">Box: 6, object: C-5 -  1</field>
+     <field name="location_si">Box: 6, object: C-5 -  1</field>
+     <field name="collection_teim">Carl L. Withers Manuscript Collection</field>
++    <field name="author_teim">Emilyn L. Brown, Sep 2005.  Inventory revised by John Bence and Margaret Fraser, Oct 2010.  Series X processed by Catriona Schlosser.</field>
+     <field name="collection_unitid_teim">RISM.MC.1</field>
+     <field name="series_sim">Series V. Photographs</field>
+     <field name="series_sim">Subseries D. Camaguey - N.Y.</field>
+     <field name="series_sim">Group 5</field>
+-    <field name="series_si">Series V. Photographs &gt;&gt; Subseries D. Camaguey - N.Y. &gt;&gt; Group 5 &gt;&gt; [Campaign signs read "Varona"]</field>
+-    <field name="heading_ssm">[Campaign signs read "Varona"]</field>
++    <field name="series_si">Series V. Photographs &gt;&gt; Subseries D. Camaguey - N.Y. &gt;&gt; Group 5 &gt;&gt; [Campaign signs read &#34;Varona&#34;]</field>
++    <field name="heading_ssm">[Campaign signs read &#34;Varona&#34;]</field>
+     <field name="unitdate_start_sim">1947</field>
+     <field name="unitdate_start_ssm">1947</field>
+     <field name="unitdate_start_si">1947</field>

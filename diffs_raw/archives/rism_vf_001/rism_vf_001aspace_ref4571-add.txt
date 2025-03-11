@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Black Supremacy's Registered Table of Contents by the King of Kings</field>
+-    <field name="unittitle_teim">Black Supremacy's Registered Table of Contents by the King of Kings</field>
++    <field name="unittitle_ssm">Black Supremacy&#39;s Registered Table of Contents by the King of Kings</field>
++    <field name="unittitle_teim">Black Supremacy&#39;s Registered Table of Contents by the King of Kings</field>
+     <field name="unitid_teim">RISM 24642</field>
+     <field name="unitid_ssm">RISM 24642</field>
+     <field name="creator_teim">Pettersburgh, Fitz Balintine</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Caribbean Area.</field>
+     <field name="subject_sim">Rastafari movement.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Caribbean Area</field>
+     <field name="series_sim">Caribbean Area: Rastafari Movement</field>
+-    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Rastafari Movement &gt;&gt; Black Supremacy's Registered Table of Contents by the King of Kings</field>
+-    <field name="heading_ssm">Black Supremacy's Registered Table of Contents by the King of Kings</field>
++    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Rastafari Movement &gt;&gt; Black Supremacy&#39;s Registered Table of Contents by the King of Kings</field>
++    <field name="heading_ssm">Black Supremacy&#39;s Registered Table of Contents by the King of Kings</field>
+     <field name="unitdate_start_sim">1925</field>
+     <field name="unitdate_start_ssm">1925</field>
+     <field name="unitdate_start_si">1925</field>

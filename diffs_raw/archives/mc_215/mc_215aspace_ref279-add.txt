@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2010/2010</field>
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">2010, undated</field>
+-    <field name="scopecontent_teim">This disc contains over 200 digital images of Edith Kramer's works of art.</field>
++    <field name="scopecontent_teim">This disc contains over 200 digital images of Edith Kramer&#39;s works of art.</field>
+     <field name="ref_ssi">aspace_ref279</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 9, disc: 1</field>
+     <field name="location_si">Box: 9, disc: 1</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+     <field name="series_sim">Series IV: Audiovisual Material </field>
+     <field name="series_si">Series IV: Audiovisual Material  &gt;&gt; Edith Kramer Artwork</field>

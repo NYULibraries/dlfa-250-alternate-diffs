@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Venezuela's Role in Caribbean Basin Migrations: Recent Trends</field>
+-    <field name="unittitle_teim">Venezuela's Role in Caribbean Basin Migrations: Recent Trends</field>
++    <field name="unittitle_ssm">Venezuela&#39;s Role in Caribbean Basin Migrations: Recent Trends</field>
++    <field name="unittitle_teim">Venezuela&#39;s Role in Caribbean Basin Migrations: Recent Trends</field>
+     <field name="unitid_teim">RISM 17414</field>
+     <field name="unitid_ssm">RISM 17414</field>
+     <field name="creator_teim">Roy, Ralph van</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Caribbean Area.</field>
+     <field name="subject_sim">Emigration and immigration.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Caribbean Area</field>
+     <field name="series_sim">Caribbean Area: Emigration and Immigration</field>
+-    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Emigration and Immigration &gt;&gt; Venezuela's Role in Caribbean Basin Migrations: Recent Trends</field>
+-    <field name="heading_ssm">Venezuela's Role in Caribbean Basin Migrations: Recent Trends</field>
++    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Emigration and Immigration &gt;&gt; Venezuela&#39;s Role in Caribbean Basin Migrations: Recent Trends</field>
++    <field name="heading_ssm">Venezuela&#39;s Role in Caribbean Basin Migrations: Recent Trends</field>
+     <field name="unitdate_start_sim">1982</field>
+     <field name="unitdate_start_ssm">1982</field>
+     <field name="unitdate_start_si">1982</field>

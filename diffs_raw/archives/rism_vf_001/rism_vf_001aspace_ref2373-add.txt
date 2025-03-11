@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">St. Lucia's and St. Vincent's Prime Ministers Agree to Creat Hub</field>
+-    <field name="unittitle_teim">St. Lucia's and St. Vincent's Prime Ministers Agree to Creat Hub</field>
++    <field name="unittitle_ssm">St. Lucia&#39;s and St. Vincent&#39;s Prime Ministers Agree to Creat Hub</field>
++    <field name="unittitle_teim">St. Lucia&#39;s and St. Vincent&#39;s Prime Ministers Agree to Creat Hub</field>
+     <field name="unitid_teim">RISM 26920</field>
+     <field name="unitid_ssm">RISM 26920</field>
+     <field name="unitdate_normal_ssm">2002/2002</field>
+@@ -41,11 +41,12 @@
+     <field name="place_sim">Caribbean Area.</field>
+     <field name="subject_sim">Airlines.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Caribbean Area</field>
+     <field name="series_sim">Caribbean Area: Airlines</field>
+-    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Airlines &gt;&gt; St. Lucia's and St. Vincent's Prime Ministers Agree to Creat Hub</field>
+-    <field name="heading_ssm">St. Lucia's and St. Vincent's Prime Ministers Agree to Creat Hub</field>
++    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Airlines &gt;&gt; St. Lucia&#39;s and St. Vincent&#39;s Prime Ministers Agree to Creat Hub</field>
++    <field name="heading_ssm">St. Lucia&#39;s and St. Vincent&#39;s Prime Ministers Agree to Creat Hub</field>
+     <field name="unitdate_start_sim">2002</field>
+     <field name="unitdate_start_ssm">2002</field>
+     <field name="unitdate_start_si">2002</field>

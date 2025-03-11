@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_teim">1979/1979</field>
+     <field name="unitdate_normal_sim">1979/1979</field>
+     <field name="unitdate_inclusive_teim">21-Nov-79</field>
+-    <field name="scopecontent_teim">Russian American poet &amp; essayist, Joseph Brodsky gives an untitled lecture that the introducer says will demonstrate why Brodsky had said "Not all James lectures are alike." Brodsky speaks mostly in Russian. Barry Rubin, a lecturer in the Slavic Languages department at Queens College reads Brodsky's poems in English, throughout the lecture.</field>
++    <field name="scopecontent_teim">Russian American poet &amp; essayist, Joseph Brodsky gives an untitled lecture that the introducer says will demonstrate why Brodsky had said &#34;Not all James lectures are alike.&#34; Brodsky speaks mostly in Russian. Barry Rubin, a lecturer in the Slavic Languages department at Queens College reads Brodsky&#39;s poems in English, throughout the lecture.</field>
+     <field name="scopecontent_teim">Good audio. </field>
+     <field name="scopecontent_teim">No Q&amp;A.</field>
+     <field name="genreform_teim">Audiotapes.</field>
+@@ -55,6 +55,7 @@
+     <field name="subject_sim">tape reels</field>
+     <field name="subject_sim">Russian American Poetry</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries B: 1/4 Inch Reels (3 3/4 IPS)</field>

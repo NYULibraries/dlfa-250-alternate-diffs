@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems' Disease and Long Term Care and Treatment</field>
+-    <field name="unittitle_teim">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems' Disease and Long Term Care and Treatment</field>
++    <field name="unittitle_ssm">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems&#39; Disease and Long Term Care and Treatment</field>
++    <field name="unittitle_teim">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems&#39; Disease and Long Term Care and Treatment</field>
+     <field name="unitid_teim">AV2123</field>
+     <field name="unitid_ssm">AV2123</field>
+     <field name="unitdate_teim">May 18, 1988</field>
+@@ -61,10 +61,11 @@
+     <field name="subject_sim">Public health.</field>
+     <field name="subject_sim">HIV infections</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems' Disease and Long Term Care and Treatment</field>
+-    <field name="heading_ssm">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems' Disease and Long Term Care and Treatment</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems&#39; Disease and Long Term Care and Treatment</field>
++    <field name="heading_ssm">Medical Teleconference #2; Neuropsychiatric, Pulmonary, and Other Systems&#39; Disease and Long Term Care and Treatment</field>
+     <field name="unitdate_ssm">May 18, 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

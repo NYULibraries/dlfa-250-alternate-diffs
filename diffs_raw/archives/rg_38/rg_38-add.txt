@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">New York Universities Libraries Archived Website</field>
+     <field name="unitid_teim">RG.38</field>
+     <field name="unitid_ssm">RG.38</field>
+-    <field name="abstract_teim">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library's resources and services.</field>
+-    <field name="abstract_ssm">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library's resources and services.</field>
++    <field name="abstract_teim">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library&#39;s resources and services.</field>
++    <field name="abstract_ssm">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library&#39;s resources and services.</field>
+     <field name="creator_teim">New York University. Libraries</field>
+     <field name="creator_ssm">New York University. Libraries</field>
+     <field name="creator_ssm">New York University. Libraries</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">2009/2022</field>
+     <field name="unitdate_normal_sim">2009/2022</field>
+     <field name="unitdate_inclusive_teim">2009-2022</field>
+-    <field name="scopecontent_teim">The NYU Libraries website is made up of information about Bobst Library resources and affiliate libraries in New York City and abroad. In 2016 the website was redesigned. The website contains information on how to use databases, Bobcat (the library's catalog), floor maps of Bobst, ebooks, journals, Special Collections, course reserves, interlibrary loan, print and copy services, audiovisual materials, study space and computing reservations, borrowing privileges, and other library materials and services. Other resources include research guides, data services, digital studio, citation and formatting tools, teaching support, accessibility services, and Ask a Librarian chat service. The website also has news from the library, stratgic plan, event listings, blog posts highlighting materials and services, and listings of library staff and departments.</field>
++    <field name="scopecontent_teim">The NYU Libraries website is made up of information about Bobst Library resources and affiliate libraries in New York City and abroad. In 2016 the website was redesigned. The website contains information on how to use databases, Bobcat (the library&#39;s catalog), floor maps of Bobst, ebooks, journals, Special Collections, course reserves, interlibrary loan, print and copy services, audiovisual materials, study space and computing reservations, borrowing privileges, and other library materials and services. Other resources include research guides, data services, digital studio, citation and formatting tools, teaching support, accessibility services, and Ask a Librarian chat service. The website also has news from the library, stratgic plan, event listings, blog posts highlighting materials and services, and listings of library staff and departments.</field>
+     <field name="bioghist_teim">In 1973, a major gift from Elmer Holmes Bobst and his wife, Mamdouha, led to the establishment of a new library on Washington Square South, uniting multiple library collection throughout New York University. The library was designed by Philip Johnson and Richard Foster. Additional libraries under the perview of NYU Libraries include the Courant Institute of Mathematical Sciences Library, Stephen Chan Library of the Institute of Fine Arts, Jack Brause Library at the School of Professional Studies, the Library of the Institute for the Study of the Ancient World (ISAW), Bern Dibner Library at NYU Tandon, the Health Sciences Libraries, the Law Library, and the NYU Abu Dhabi Library and NYU Shanghai Library.</field>
+     <field name="acqinfo_teim">The website was selected for capture by Lorena A. Ramirez-Lopez in January 2016. There is no accession number associated with this website.</field>
+     <field name="appraisal_teim">guides.nyu.edu, nyu.libcal.com, and bobcat.library.nyu.edu were excluded from the crawl.</field>

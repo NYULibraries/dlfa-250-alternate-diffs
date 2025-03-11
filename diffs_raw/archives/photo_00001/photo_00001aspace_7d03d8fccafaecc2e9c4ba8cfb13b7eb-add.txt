@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Theatre, Educational, "Wonderful Town" - "Cabaret"</field>
+-    <field name="unittitle_teim">Theatre, Educational, "Wonderful Town" - "Cabaret"</field>
++    <field name="unittitle_ssm">Theatre, Educational, &#34;Wonderful Town&#34; - &#34;Cabaret&#34;</field>
++    <field name="unittitle_teim">Theatre, Educational, &#34;Wonderful Town&#34; - &#34;Cabaret&#34;</field>
+     <field name="unitid_teim">cuid17716</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/842375</field>
+     <field name="unitid_ssm">cuid17716</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 73</field>
+     <field name="location_si">Box: 73</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Steinhardt School of Culture, Education, and Human Development</field>
+-    <field name="series_si">Steinhardt School of Culture, Education, and Human Development &gt;&gt; Theatre, Educational, "Wonderful Town" - "Cabaret"</field>
+-    <field name="heading_ssm">Theatre, Educational, "Wonderful Town" - "Cabaret"</field>
++    <field name="series_si">Steinhardt School of Culture, Education, and Human Development &gt;&gt; Theatre, Educational, &#34;Wonderful Town&#34; - &#34;Cabaret&#34;</field>
++    <field name="heading_ssm">Theatre, Educational, &#34;Wonderful Town&#34; - &#34;Cabaret&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2569</field>
+   </doc>

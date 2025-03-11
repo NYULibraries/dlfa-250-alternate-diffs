@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4159</field>
+     <field name="unitid_ssm">cuid4159</field>
+     <field name="unitdate_teim">Probably 2002</field>
+-    <field name="scopecontent_teim">Neil DeGrasse Tyson discusses his work on the Commission on the Future of the United States Aerospace Industry and the report the Commission produced, entitled "Anyone, Anything, Anywhere, Anytime."  The commission sought to find the reasons behind the decline in the American aerospace industry and suggestions on how to reverse the negative trend.</field>
++    <field name="scopecontent_teim">Neil DeGrasse Tyson discusses his work on the Commission on the Future of the United States Aerospace Industry and the report the Commission produced, entitled &#34;Anyone, Anything, Anywhere, Anytime.&#34;  The commission sought to find the reasons behind the decline in the American aerospace industry and suggestions on how to reverse the negative trend.</field>
+     <field name="corpname_teim">Commission on the Future of the United States Aerospace Industry</field>
+     <field name="corpname_ssm">Commission on the Future of the United States Aerospace Industry</field>
+     <field name="persname_teim">Tyson, Neil deGrasse</field>
+@@ -43,6 +43,7 @@
+     <field name="name_teim">Tyson, Neil deGrasse</field>
+     <field name="subject_sim">Aerospace industries</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

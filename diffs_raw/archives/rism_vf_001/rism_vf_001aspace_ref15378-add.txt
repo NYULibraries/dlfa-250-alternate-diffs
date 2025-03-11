@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Profile of a Bronx Salsero: Salsa's Still Alive!</field>
+-    <field name="unittitle_teim">The Profile of a Bronx Salsero: Salsa's Still Alive!</field>
++    <field name="unittitle_ssm">The Profile of a Bronx Salsero: Salsa&#39;s Still Alive!</field>
++    <field name="unittitle_teim">The Profile of a Bronx Salsero: Salsa&#39;s Still Alive!</field>
+     <field name="unitid_teim">RISM 23106</field>
+     <field name="unitid_ssm">RISM 23106</field>
+     <field name="creator_teim">Boggs, Vernon</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">New York (N.Y.).</field>
+     <field name="subject_sim">Popular music.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">New York City</field>
+     <field name="series_sim">New York City: Popular Music</field>
+-    <field name="series_si">New York City &gt;&gt; New York City: Popular Music &gt;&gt; The Profile of a Bronx Salsero: Salsa's Still Alive!</field>
+-    <field name="heading_ssm">The Profile of a Bronx Salsero: Salsa's Still Alive!</field>
++    <field name="series_si">New York City &gt;&gt; New York City: Popular Music &gt;&gt; The Profile of a Bronx Salsero: Salsa&#39;s Still Alive!</field>
++    <field name="heading_ssm">The Profile of a Bronx Salsero: Salsa&#39;s Still Alive!</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

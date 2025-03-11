@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_ssm">MC.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Calendar&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Calendar
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Calendar&lt;/em&gt;</field>
++    <field name="unittitle_teim">Calendar</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/948985</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/948985</field>
+     <field name="unitdate_normal_ssm">1980/2003</field>
+@@ -34,14 +30,11 @@
+     <field name="location_ssm">Box: 329, Folder: 1-4</field>
+     <field name="location_si">Box: 329, Folder: 1-4</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
++    <field name="author_teim">Stacey Flatt, Nicole Greenhouse, Emma Griffin, and Oana Capatina.</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_sim">RG 35.0. Tisch School of the Arts</field>
+-    <field name="series_si">RG 35.0. Tisch School of the Arts &gt;&gt; 
+-      &lt;em&gt;Calendar&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Calendar
+-    </field>
++    <field name="series_si">RG 35.0. Tisch School of the Arts &gt;&gt; &lt;em&gt;Calendar&lt;/em&gt;</field>
++    <field name="heading_ssm">Calendar</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>

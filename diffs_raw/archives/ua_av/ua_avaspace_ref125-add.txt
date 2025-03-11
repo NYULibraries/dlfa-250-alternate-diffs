@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Urban League Presents: Can Mayor's Contract Compliance Program Work?, part 1</field>
+-    <field name="unittitle_teim">Urban League Presents: Can Mayor's Contract Compliance Program Work?, part 1</field>
++    <field name="unittitle_ssm">Urban League Presents: Can Mayor&#39;s Contract Compliance Program Work?, part 1</field>
++    <field name="unittitle_teim">Urban League Presents: Can Mayor&#39;s Contract Compliance Program Work?, part 1</field>
+     <field name="unitid_teim">AV508</field>
+     <field name="unitid_ssm">AV508</field>
+     <field name="creator_teim">WNYU (Radio station : New York, N.Y.)</field>
+@@ -38,10 +38,11 @@
+     <field name="name_sim">WNYU (Radio station : New York, N.Y.)</field>
+     <field name="name_teim">WNYU (Radio station : New York, N.Y.)</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Urban League Presents: Can Mayor's Contract Compliance Program Work?, part 1</field>
+-    <field name="heading_ssm">Urban League Presents: Can Mayor's Contract Compliance Program Work?, part 1</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Urban League Presents: Can Mayor&#39;s Contract Compliance Program Work?, part 1</field>
++    <field name="heading_ssm">Urban League Presents: Can Mayor&#39;s Contract Compliance Program Work?, part 1</field>
+     <field name="unitdate_start_sim">1962</field>
+     <field name="unitdate_start_ssm">1962</field>
+     <field name="unitdate_start_si">1962</field>

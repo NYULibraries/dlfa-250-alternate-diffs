@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Still from the film "Children of the Corn"</field>
+-    <field name="unittitle_teim">Still from the film "Children of the Corn"</field>
++    <field name="unittitle_ssm">Still from the film &#34;Children of the Corn&#34;</field>
++    <field name="unittitle_teim">Still from the film &#34;Children of the Corn&#34;</field>
+     <field name="unitid_teim">wsa_2_5_11</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636134</field>
+     <field name="unitid_ssm">wsa_2_5_11</field>
+@@ -43,11 +43,12 @@
+     <field name="name_sim">New World Pictures (Firm)</field>
+     <field name="name_teim">New World Pictures (Firm)</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Films and Filming in NYU Area</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Still from the film "Children of the Corn"</field>
+-    <field name="heading_ssm">Still from the film "Children of the Corn"</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Still from the film &#34;Children of the Corn&#34;</field>
++    <field name="heading_ssm">Still from the film &#34;Children of the Corn&#34;</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

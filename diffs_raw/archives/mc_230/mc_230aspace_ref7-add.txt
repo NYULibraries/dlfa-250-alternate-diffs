@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1873/1882</field>
+     <field name="unitdate_normal_sim">1873/1882</field>
+     <field name="unitdate_inclusive_teim">1873-1882</field>
+-    <field name="scopecontent_teim">This series contains images dating from 1873 to 1882 taken by New York University professor, dean of medicine, and amateur astrophotographer, Henry Draper. This images in this series are related to Draper's pursuit of astrophotography and his related experiments. Subjects include spectra and solar spectra contrasted with various gases and elements.</field>
++    <field name="scopecontent_teim">This series contains images dating from 1873 to 1882 taken by New York University professor, dean of medicine, and amateur astrophotographer, Henry Draper. This images in this series are related to Draper&#39;s pursuit of astrophotography and his related experiments. Subjects include spectra and solar spectra contrasted with various gases and elements.</field>
+     <field name="ref_ssi">aspace_ref7</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.230</field>
+     <field name="series_si">Series I. Henry Draper Spectra Images</field>
+     <field name="heading_ssm">Series I. Henry Draper Spectra Images</field>

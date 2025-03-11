@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4147</field>
+     <field name="unitid_ssm">cuid4147</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">Barbara Ehrenreich and Allen Hunter act as "co-conveners" of this New Right Seminar on the Equal Rights Amendment of 1972 and how the political right reacted to it.</field>
++    <field name="scopecontent_teim">Barbara Ehrenreich and Allen Hunter act as &#34;co-conveners&#34; of this New Right Seminar on the Equal Rights Amendment of 1972 and how the political right reacted to it.</field>
+     <field name="persname_teim">Hunter, Allen, 1944-</field>
+     <field name="persname_teim">Ehrenreich, Barbara</field>
+     <field name="persname_ssm">Hunter, Allen, 1944-</field>
+@@ -53,6 +53,7 @@
+     <field name="subject_sim">Conservatism</field>
+     <field name="subject_sim">New Right</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4111</field>
+     <field name="unitid_ssm">cuid4111</field>
+     <field name="unitdate_teim">May 22, 2002</field>
+-    <field name="scopecontent_teim">Side A has the episode of the NPR show This American Life, "Pimp Anthology". Side B holds a 2004 episode of "All Things Considered," also on NPR. Judging by one of the labels (Tony Grafton on Kircher ATC May 22, 2002), the content that was targeted as the intended recording begins at 18:27 on side B (Or ACCESS CD 7:23). Anthony Grafton discusses a NYIH symposium on the life of Athanaseus Kircher. The story can actually be found here: http://www.npr.org/templates/story/story.php?storyId=1143769. (See related materials note for symposium)</field>
++    <field name="scopecontent_teim">Side A has the episode of the NPR show This American Life, &#34;Pimp Anthology&#34;. Side B holds a 2004 episode of &#34;All Things Considered,&#34; also on NPR. Judging by one of the labels (Tony Grafton on Kircher ATC May 22, 2002), the content that was targeted as the intended recording begins at 18:27 on side B (Or ACCESS CD 7:23). Anthony Grafton discusses a NYIH symposium on the life of Athanaseus Kircher. The story can actually be found here: http://www.npr.org/templates/story/story.php?storyId=1143769. (See related materials note for symposium)</field>
+     <field name="ref_ssi">aspace_ref2252</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: Shared University Archives 110, Item: 23</field>
+     <field name="location_si">Box: Shared University Archives 110, Item: 23</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

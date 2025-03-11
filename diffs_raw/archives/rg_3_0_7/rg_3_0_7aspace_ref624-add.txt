@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of the President (Dr. James McNaughton Hester)</field>
+     <field name="collection_unitid_ssm">RG.3.0.7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">President's Councils - Center for Int. Study</field>
+-    <field name="unittitle_teim">President's Councils - Center for Int. Study</field>
++    <field name="unittitle_ssm">President&#39;s Councils - Center for Int. Study</field>
++    <field name="unittitle_teim">President&#39;s Councils - Center for Int. Study</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/665847</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/665847</field>
+     <field name="unitdate_normal_ssm">1965/1972</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 55, Folder: 8</field>
+     <field name="location_si">Box: 55, Folder: 8</field>
+     <field name="collection_teim">Records of the Office of the President (Dr. James McNaughton Hester)</field>
++    <field name="author_teim">Finding aid prepared by Rob Dishon, Jeane Mixon, and Darren W. Johnson. </field>
+     <field name="collection_unitid_teim">RG.3.0.7</field>
+     <field name="series_sim">Series VII: Governance, 1951-1975 (Boxes 51-59)</field>
+-    <field name="series_si">Series VII: Governance, 1951-1975 (Boxes 51-59) &gt;&gt; President's Councils - Center for Int. Study</field>
+-    <field name="heading_ssm">President's Councils - Center for Int. Study</field>
++    <field name="series_si">Series VII: Governance, 1951-1975 (Boxes 51-59) &gt;&gt; President&#39;s Councils - Center for Int. Study</field>
++    <field name="heading_ssm">President&#39;s Councils - Center for Int. Study</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

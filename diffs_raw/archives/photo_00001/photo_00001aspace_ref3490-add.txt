@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">McBell's Kitchen</field>
+-    <field name="unittitle_teim">McBell's Kitchen</field>
++    <field name="unittitle_ssm">McBell&#39;s Kitchen</field>
++    <field name="unittitle_teim">McBell&#39;s Kitchen</field>
+     <field name="unitid_teim">wsa_2_2_14</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636066</field>
+     <field name="unitid_ssm">wsa_2_2_14</field>
+@@ -26,8 +26,8 @@
+     <field name="unitdate_normal_teim">1975/1975</field>
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">1975</field>
+-    <field name="dao_teim">McBell's Kitchen: 1975</field>
+-    <field name="dao_ssm">McBell's Kitchen: 1975</field>
++    <field name="dao_teim">McBell&#39;s Kitchen: 1975</field>
++    <field name="dao_ssm">McBell&#39;s Kitchen: 1975</field>
+     <field name="ref_ssi">aspace_ref3490</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -38,11 +38,12 @@
+     <field name="location_si">Box: 176, Folder: 2, Item: 14</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Diners, Cafes, Restaurants (2 of 2)</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Diners, Cafes, Restaurants (2 of 2) &gt;&gt; McBell's Kitchen</field>
+-    <field name="heading_ssm">McBell's Kitchen</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Diners, Cafes, Restaurants (2 of 2) &gt;&gt; McBell&#39;s Kitchen</field>
++    <field name="heading_ssm">McBell&#39;s Kitchen</field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>
+     <field name="unitdate_start_si">1975</field>

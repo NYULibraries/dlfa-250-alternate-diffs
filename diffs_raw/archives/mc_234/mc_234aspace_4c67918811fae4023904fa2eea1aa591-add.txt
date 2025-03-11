@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Measuring tape in the shape of a robin-egg blue, plastic pig with red hat; text across back reads "This Little Piggy Comes from Waco, Texas"</field>
++    <field name="scopecontent_teim">Measuring tape in the shape of a robin-egg blue, plastic pig with red hat; text across back reads &#34;This Little Piggy Comes from Waco, Texas&#34;</field>
+     <field name="ref_ssi">aspace_4c67918811fae4023904fa2eea1aa591</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 11, Item: 13</field>
+     <field name="location_si">Box: 11, Item: 13</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series III: Utilitarian Objects</field>
+     <field name="series_sim">Subseries III L: Mixed Objects</field>

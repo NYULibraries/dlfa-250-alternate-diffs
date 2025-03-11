@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Anguilla's Tradition of Independence</field>
+-    <field name="unittitle_teim">Anguilla's Tradition of Independence</field>
++    <field name="unittitle_ssm">Anguilla&#39;s Tradition of Independence</field>
++    <field name="unittitle_teim">Anguilla&#39;s Tradition of Independence</field>
+     <field name="unitid_teim">RISM 16901</field>
+     <field name="unitid_ssm">RISM 16901</field>
+     <field name="creator_teim">Harris, David</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Anguilla</field>
+     <field name="subject_sim">Autonomy.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Anguilla</field>
+     <field name="series_sim">Anguilla: Autonomy</field>
+-    <field name="series_si">Anguilla &gt;&gt; Anguilla: Autonomy &gt;&gt; Anguilla's Tradition of Independence</field>
+-    <field name="heading_ssm">Anguilla's Tradition of Independence</field>
++    <field name="series_si">Anguilla &gt;&gt; Anguilla: Autonomy &gt;&gt; Anguilla&#39;s Tradition of Independence</field>
++    <field name="heading_ssm">Anguilla&#39;s Tradition of Independence</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

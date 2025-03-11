@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tony Judt Papers</field>
+     <field name="collection_unitid_ssm">MC.233</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Aronson 'Sartre/Camus' 2004 &lt;em&gt;NYR&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Aronson 'Sartre/Camus' 2004 NYR</field>
++    <field name="unittitle_ssm">Aronson &#39;Sartre/Camus&#39; 2004 &lt;em&gt;NYR&lt;/em&gt;</field>
++    <field name="unittitle_teim">Aronson &#39;Sartre/Camus&#39; 2004 NYR</field>
+     <field name="unitdate_teim">circa 2003</field>
+     <field name="ref_ssi">aspace_ref1222</field>
+     <field name="repository_ssi">archives</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 16, Folder: 98</field>
+     <field name="location_si">Box: 16, Folder: 98</field>
+     <field name="collection_teim">Tony Judt Papers</field>
++    <field name="author_teim">Katie Ehrlich</field>
+     <field name="collection_unitid_teim">MC.233</field>
+     <field name="series_sim">Series III: Subject Files</field>
+-    <field name="series_si">Series III: Subject Files &gt;&gt; Aronson 'Sartre/Camus' 2004 &lt;em&gt;NYR&lt;/em&gt;</field>
+-    <field name="heading_ssm">Aronson 'Sartre/Camus' 2004 NYR</field>
++    <field name="series_si">Series III: Subject Files &gt;&gt; Aronson &#39;Sartre/Camus&#39; 2004 &lt;em&gt;NYR&lt;/em&gt;</field>
++    <field name="heading_ssm">Aronson &#39;Sartre/Camus&#39; 2004 NYR</field>
+     <field name="unitdate_ssm">circa 2003</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

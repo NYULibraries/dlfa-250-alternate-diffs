@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Abby Weed Grey Papers</field>
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Shore Fragments" Fred Brian</field>
+-    <field name="unittitle_teim">"Shore Fragments" Fred Brian</field>
++    <field name="unittitle_ssm">&#34;Shore Fragments&#34; Fred Brian</field>
++    <field name="unittitle_teim">&#34;Shore Fragments&#34; Fred Brian</field>
+     <field name="unitid_teim">AWGP_CTA_15_7_15</field>
+     <field name="unitid_ssm">AWGP_CTA_15_7_15</field>
+     <field name="ref_ssi">aspace_ref2169</field>
+@@ -32,12 +32,13 @@
+     <field name="location_ssm">Box: 38, Folder: 7, Item: 15</field>
+     <field name="location_si">Box: 38, Folder: 7, Item: 15</field>
+     <field name="collection_teim">Abby Weed Grey Papers</field>
++    <field name="author_teim">Amy Surak. Additional processing by Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVII: Abby Weed Grey Photographs</field>
+     <field name="series_sim">Subseries A: Exhibitions 1962-1972</field>
+     <field name="series_sim">Communication Thru Art</field>
+-    <field name="series_si">Series XVII: Abby Weed Grey Photographs &gt;&gt; Subseries A: Exhibitions 1962-1972 &gt;&gt; Communication Thru Art &gt;&gt; "Shore Fragments" Fred Brian</field>
+-    <field name="heading_ssm">"Shore Fragments" Fred Brian</field>
++    <field name="series_si">Series XVII: Abby Weed Grey Photographs &gt;&gt; Subseries A: Exhibitions 1962-1972 &gt;&gt; Communication Thru Art &gt;&gt; &#34;Shore Fragments&#34; Fred Brian</field>
++    <field name="heading_ssm">&#34;Shore Fragments&#34; Fred Brian</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

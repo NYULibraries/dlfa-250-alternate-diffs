@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Office of Media Production</field>
+     <field name="collection_unitid_ssm">RG.7.3.4</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">B-roll of Daniel Weinberg at President's Picnic/B-Roll Washington Square Buildings</field>
+-    <field name="unittitle_teim">B-roll of Daniel Weinberg at President's Picnic/B-Roll Washington Square Buildings</field>
++    <field name="unittitle_ssm">B-roll of Daniel Weinberg at President&#39;s Picnic/B-Roll Washington Square Buildings</field>
++    <field name="unittitle_teim">B-roll of Daniel Weinberg at President&#39;s Picnic/B-Roll Washington Square Buildings</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/885056</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/885056</field>
+     <field name="creator_teim">Garland, Jimmy</field>
+@@ -49,11 +49,12 @@
+     <field name="name_teim">Garland, Jimmy</field>
+     <field name="name_teim">Mihai, Adrian</field>
+     <field name="collection_teim">Records of the Office of Media Production</field>
++    <field name="author_teim">University Archives staff. Additional description by Katie Ehrlich.</field>
+     <field name="collection_unitid_teim">RG.7.3.4</field>
+     <field name="series_sim">Series I: Projects</field>
+     <field name="series_sim">Development Campaign Video (Project 0420)</field>
+-    <field name="series_si">Series I: Projects &gt;&gt; Development Campaign Video (Project 0420) &gt;&gt; B-roll of Daniel Weinberg at President's Picnic/B-Roll Washington Square Buildings</field>
+-    <field name="heading_ssm">B-roll of Daniel Weinberg at President's Picnic/B-Roll Washington Square Buildings</field>
++    <field name="series_si">Series I: Projects &gt;&gt; Development Campaign Video (Project 0420) &gt;&gt; B-roll of Daniel Weinberg at President&#39;s Picnic/B-Roll Washington Square Buildings</field>
++    <field name="heading_ssm">B-roll of Daniel Weinberg at President&#39;s Picnic/B-Roll Washington Square Buildings</field>
+     <field name="unitdate_start_sim">2004</field>
+     <field name="unitdate_start_ssm">2004</field>
+     <field name="unitdate_start_si">2004</field>

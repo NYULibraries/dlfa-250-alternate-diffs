@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Census of Mental Hospitals in the Caribbean</field>
+     <field name="collection_unitid_ssm">RISM.RG.10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</field>
+-    <field name="unittitle_teim">Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</field>
++    <field name="unittitle_ssm">Correspondence, &#34;Remarks on Community Health,&#34; by Marvin E. Perkins, M.D.</field>
++    <field name="unittitle_teim">Correspondence, &#34;Remarks on Community Health,&#34; by Marvin E. Perkins, M.D.</field>
+     <field name="unitdate_normal_ssm">1963/1963</field>
+     <field name="unitdate_normal_teim">1963/1963</field>
+     <field name="unitdate_normal_sim">1963/1963</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 16</field>
+     <field name="location_si">Box: 2, Folder: 16</field>
+     <field name="collection_teim">Records of the Census of Mental Hospitals in the Caribbean</field>
++    <field name="author_teim">Emilyn L. Brown.  Revision by Rebecca Robbins.  Inventory revised by Katie Ehrlich and Stephanie Schmeling, September 2010.</field>
+     <field name="collection_unitid_teim">RISM.RG.10</field>
+     <field name="series_sim">Series IV: Conference Papers</field>
+-    <field name="series_si">Series IV: Conference Papers &gt;&gt; Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</field>
+-    <field name="heading_ssm">Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</field>
++    <field name="series_si">Series IV: Conference Papers &gt;&gt; Correspondence, &#34;Remarks on Community Health,&#34; by Marvin E. Perkins, M.D.</field>
++    <field name="heading_ssm">Correspondence, &#34;Remarks on Community Health,&#34; by Marvin E. Perkins, M.D.</field>
+     <field name="unitdate_start_sim">1963</field>
+     <field name="unitdate_start_ssm">1963</field>
+     <field name="unitdate_start_si">1963</field>

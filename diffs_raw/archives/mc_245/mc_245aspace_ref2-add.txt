@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1930/1939</field>
+     <field name="unitdate_normal_sim">1930/1939</field>
+     <field name="unitdate_inclusive_teim">circa 1930s</field>
+-    <field name="scopecontent_teim">Series I includes postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city's churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch.</field>
++    <field name="scopecontent_teim">Series I includes postcards depicting New York City landmarks as they appeared in the 1930s. Landmarks that are particularly well documented in the collection include the city&#39;s churches, bridges, museums, hotels, and theaters, as well as the Chrysler Building, Empire State Building, Rockefeller Center, and the Washington Square Arch.</field>
+     <field name="ref_ssi">aspace_ref2</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">H. Robert Otness Collection of New York City Postcards and Photographs</field>
++    <field name="author_teim">Celeste Brewer</field>
+     <field name="collection_unitid_teim">MC.245</field>
+     <field name="series_si">Series I:  Postcards</field>
+     <field name="heading_ssm">Series I:  Postcards</field>

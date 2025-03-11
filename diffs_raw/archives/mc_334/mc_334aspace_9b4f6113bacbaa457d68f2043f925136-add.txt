@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_334</field>
+     <field name="parent_ssi">aspace_1c8539a0b33a124199fc723c000c5846</field>
+     <field name="parent_ssm">aspace_1c8539a0b33a124199fc723c000c5846</field>
+-    <field name="parent_unittitles_ssm">RG 21.33. Women's Studies / Women's History</field>
+-    <field name="parent_unittitles_teim">RG 21.33. Women's Studies / Women's History</field>
++    <field name="parent_unittitles_ssm">RG 21.33. Women&amp;#39;s Studies / Women&amp;#39;s History</field>
++    <field name="parent_unittitles_teim">RG 21.33. Women&amp;#39;s Studies / Women&amp;#39;s History</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
+@@ -30,9 +30,10 @@
+     <field name="location_ssm">Box: 156, Folder: 6</field>
+     <field name="location_si">Box: 156, Folder: 6</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
++    <field name="author_teim">Stacey Flatt, Nicole Greenhouse, Emma Griffin, and Oana Capatina.</field>
+     <field name="collection_unitid_teim">MC.334</field>
+-    <field name="series_sim">RG 21.33. Women's Studies / Women's History</field>
+-    <field name="series_si">RG 21.33. Women's Studies / Women's History &gt;&gt; Promotional Material and Ephemera</field>
++    <field name="series_sim">RG 21.33. Women&amp;#39;s Studies / Women&amp;#39;s History</field>
++    <field name="series_si">RG 21.33. Women&#39;s Studies / Women&#39;s History &gt;&gt; Promotional Material and Ephemera</field>
+     <field name="heading_ssm">Promotional Material and Ephemera</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>

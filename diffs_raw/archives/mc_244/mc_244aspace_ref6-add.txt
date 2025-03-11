@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1951/2012</field>
+     <field name="unitdate_normal_sim">1951/2012</field>
+     <field name="unitdate_inclusive_teim">1951-2012</field>
+-    <field name="scopecontent_teim">This series includes news clippings, interview transcriptions, and biographical articles and books written about Reddy. Among the books is "Krishna's Cosmos," a 2003 photographic biography of Reddy.</field>
++    <field name="scopecontent_teim">This series includes news clippings, interview transcriptions, and biographical articles and books written about Reddy. Among the books is &#34;Krishna&#39;s Cosmos,&#34; a 2003 photographic biography of Reddy.</field>
+     <field name="ref_ssi">aspace_ref6</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Krishna Reddy Papers</field>
++    <field name="author_teim">Deborah Shapiro</field>
+     <field name="collection_unitid_teim">MC.244</field>
+     <field name="series_si">Series III: Publicity and Biographical Materials</field>
+     <field name="heading_ssm">Series III: Publicity and Biographical Materials</field>

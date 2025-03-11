@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">AV5173_3</field>
+     <field name="unitid_ssm">AV5173_3</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Note on canister reads "Neg"</field>
++    <field name="phystech_teim">Note on canister reads &#34;Neg&#34;</field>
+     <field name="ref_ssi">aspace_8cdb249a58a1c4961f1ca1886bc6cfe4</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 161, reel: AV5173_3</field>
+     <field name="location_si">Box: 161, reel: AV5173_3</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; [Unlabeled]</field>

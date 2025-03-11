@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Travel: Soviet Union, Romania, Yugoslavia (Speaker's Trip) -4</field>
+-    <field name="unittitle_teim">Travel: Soviet Union, Romania, Yugoslavia (Speaker's Trip) -4</field>
++    <field name="unittitle_ssm">Travel: Soviet Union, Romania, Yugoslavia (Speaker&#39;s Trip) -4</field>
++    <field name="unittitle_teim">Travel: Soviet Union, Romania, Yugoslavia (Speaker&#39;s Trip) -4</field>
+     <field name="unitid_teim">cuid9049</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/612463</field>
+     <field name="unitid_ssm">cuid9049</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: II:38, Folder: 3</field>
+     <field name="location_si">Box: II:38, Folder: 3</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series II: Personal/Political/Official</field>
+     <field name="series_sim">Subseries III: Personal</field>
+-    <field name="series_si">Series II: Personal/Political/Official &gt;&gt; Subseries III: Personal &gt;&gt; Travel: Soviet Union, Romania, Yugoslavia (Speaker's Trip) -4</field>
+-    <field name="heading_ssm">Travel: Soviet Union, Romania, Yugoslavia (Speaker's Trip) -4</field>
++    <field name="series_si">Series II: Personal/Political/Official &gt;&gt; Subseries III: Personal &gt;&gt; Travel: Soviet Union, Romania, Yugoslavia (Speaker&#39;s Trip) -4</field>
++    <field name="heading_ssm">Travel: Soviet Union, Romania, Yugoslavia (Speaker&#39;s Trip) -4</field>
+     <field name="unitdate_ssm">Aug 1975</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3851</field>

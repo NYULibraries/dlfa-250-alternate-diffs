@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Public History Program</field>
+     <field name="collection_unitid_ssm">RG.20.9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">'La Quinta,' Maria Slena Howard, Material Culture of America, 12/13/2005</field>
+-    <field name="unittitle_teim">'La Quinta,' Maria Slena Howard, Material Culture of America, 12/13/2005</field>
++    <field name="unittitle_ssm">&#39;La Quinta,&#39; Maria Slena Howard, Material Culture of America, 12/13/2005</field>
++    <field name="unittitle_teim">&#39;La Quinta,&#39; Maria Slena Howard, Material Culture of America, 12/13/2005</field>
+     <field name="unitid_teim">cuid3583</field>
+     <field name="unitid_ssm">cuid3583</field>
+     <field name="unitdate_normal_ssm">2005/2005</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 16, object: 38</field>
+     <field name="location_si">Box: 16, object: 38</field>
+     <field name="collection_teim">Records of the Public History Program</field>
++    <field name="author_teim">Ashley Jones and Julianna Monjeau. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">RG.20.9</field>
+     <field name="series_sim">Series VI: Media</field>
+     <field name="series_sim">2000-2007</field>
+-    <field name="series_si">Series VI: Media &gt;&gt; 2000-2007 &gt;&gt; 'La Quinta,' Maria Slena Howard, Material Culture of America, 12/13/2005</field>
+-    <field name="heading_ssm">'La Quinta,' Maria Slena Howard, Material Culture of America, 12/13/2005</field>
++    <field name="series_si">Series VI: Media &gt;&gt; 2000-2007 &gt;&gt; &#39;La Quinta,&#39; Maria Slena Howard, Material Culture of America, 12/13/2005</field>
++    <field name="heading_ssm">&#39;La Quinta,&#39; Maria Slena Howard, Material Culture of America, 12/13/2005</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>
+     <field name="unitdate_start_si">2005</field>

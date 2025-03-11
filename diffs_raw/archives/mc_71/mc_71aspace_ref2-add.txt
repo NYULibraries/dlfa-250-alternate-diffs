@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Frederick G. Nichols Manuscript</field>
+     <field name="collection_unitid_ssm">MC.71</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Manuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View</field>
+-    <field name="unittitle_teim">Manuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View</field>
++    <field name="unittitle_ssm">Manuscript of Frederick G. Nichols&#39; Memoirs, Business Education: An Early View</field>
++    <field name="unittitle_teim">Manuscript of Frederick G. Nichols&#39; Memoirs, Business Education: An Early View</field>
+     <field name="unitdate_normal_ssm">1951/1951</field>
+     <field name="unitdate_normal_teim">1951/1951</field>
+     <field name="unitdate_normal_sim">1951/1951</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 2-5</field>
+     <field name="location_si">Box: 1, Folder: 2-5</field>
+     <field name="collection_teim">Frederick G. Nichols Manuscript</field>
++    <field name="author_teim">Leslie Barnes</field>
+     <field name="collection_unitid_teim">MC.71</field>
+-    <field name="series_si">Manuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View</field>
+-    <field name="heading_ssm">Manuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View</field>
++    <field name="series_si">Manuscript of Frederick G. Nichols&#39; Memoirs, Business Education: An Early View</field>
++    <field name="heading_ssm">Manuscript of Frederick G. Nichols&#39; Memoirs, Business Education: An Early View</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>
+     <field name="unitdate_start_si">1951</field>

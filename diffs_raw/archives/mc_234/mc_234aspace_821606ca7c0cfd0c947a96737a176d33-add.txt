@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Rubber pig on blue stand; rusty crank underneath the platform animates the pig; sticky residue all over; inscription that reads "Pinky Centaur Productions"</field>
++    <field name="scopecontent_teim">Rubber pig on blue stand; rusty crank underneath the platform animates the pig; sticky residue all over; inscription that reads &#34;Pinky Centaur Productions&#34;</field>
+     <field name="ref_ssi">aspace_821606ca7c0cfd0c947a96737a176d33</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 29, Item: 8</field>
+     <field name="location_si">Box: 29, Item: 8</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series I: Single Pig Figurines</field>
+     <field name="series_sim">Subseries I F: Plastic and Rubber Pig Figurines</field>

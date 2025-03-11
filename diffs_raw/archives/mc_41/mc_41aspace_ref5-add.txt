@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1914/1937</field>
+     <field name="unitdate_normal_sim">1914/1937</field>
+     <field name="unitdate_inclusive_teim">1914-1937</field>
+-    <field name="scopecontent_teim">Series II includes a menu for a dinner given Stoddard's honor in 1914 and a copy of his biographical sketch in the 1939 National Cyclopedia of American Biography.</field>
++    <field name="scopecontent_teim">Series II includes a menu for a dinner given Stoddard&#39;s honor in 1914 and a copy of his biographical sketch in the 1939 National Cyclopedia of American Biography.</field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Francis Hovey Stoddard Papers</field>
++    <field name="author_teim">Ashley Sena-Levine</field>
+     <field name="collection_unitid_teim">MC.41</field>
+     <field name="series_si">Series 2: Biographical Materials </field>
+     <field name="heading_ssm">Series 2: Biographical Materials </field>

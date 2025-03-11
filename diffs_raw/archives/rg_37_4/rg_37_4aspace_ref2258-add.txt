@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_normal_sim">2002/2002</field>
+     <field name="unitdate_inclusive_teim">15-Nov-02</field>
+     <field name="scopecontent_teim">Art historian Michael Fried discusses the topic of a book he recently published with Yale University Press about 19th century German artist, Adolph Menzel.</field>
+-    <field name="bioghist_teim">Preeminent art historian, Michael Fried discusses the subject of a recently published book Adolph Menzel. The book, published by Yale University Press is titled Menzel's Realism: Art and Embodiment in Nineteenth-Century Berlin.</field>
++    <field name="bioghist_teim">Preeminent art historian, Michael Fried discusses the subject of a recently published book Adolph Menzel. The book, published by Yale University Press is titled Menzel&#39;s Realism: Art and Embodiment in Nineteenth-Century Berlin.</field>
+     <field name="persname_teim">Fried, Michael M., 1939-</field>
+     <field name="persname_teim">Menzel, Adolph, 1815-1905</field>
+     <field name="persname_ssm">Fried, Michael M., 1939-</field>
+@@ -52,6 +52,7 @@
+     <field name="subject_sim">Painting, German -- 19th century</field>
+     <field name="subject_sim">Art, German -- 19th century</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

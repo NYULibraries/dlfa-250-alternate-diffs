@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4205</field>
+     <field name="unitid_ssm">cuid4205</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">Recording is a section of a play reading. Consists mostly of dialog between a younger man and and older man about their trust or distrust of women. The younger man appears to have feelings for the older man's wife. The younger man is leaving soon for Australia, a trip which will first take him by train and then by ship, indicating that it is a period piece or written during the days of ocean liners. A Google search for quotes from the script yielded no identifying results.</field>
++    <field name="scopecontent_teim">Recording is a section of a play reading. Consists mostly of dialog between a younger man and and older man about their trust or distrust of women. The younger man appears to have feelings for the older man&#39;s wife. The younger man is leaving soon for Australia, a trip which will first take him by train and then by ship, indicating that it is a period piece or written during the days of ocean liners. A Google search for quotes from the script yielded no identifying results.</field>
+     <field name="ref_ssi">aspace_ref2367</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 72, Folder: 111</field>
+     <field name="location_si">Box: 72, Folder: 111</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

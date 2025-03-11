@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Women's Labor March, Washington Square Park</field>
+-    <field name="unittitle_teim">Women's Labor March, Washington Square Park</field>
++    <field name="unittitle_ssm">Women&#39;s Labor March, Washington Square Park</field>
++    <field name="unittitle_teim">Women&#39;s Labor March, Washington Square Park</field>
+     <field name="unitid_teim">wsp_ln_7_2_01</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/635526</field>
+     <field name="unitid_ssm">wsp_ln_7_2_01</field>
+@@ -34,8 +34,8 @@
+     <field name="unitdate_inclusive_teim">1912</field>
+     <field name="corpname_teim">Brown Brothers Photo Archives</field>
+     <field name="corpname_ssm">Brown Brothers Photo Archives</field>
+-    <field name="dao_teim">Women's Labor March, Washington Square Park: 1912</field>
+-    <field name="dao_ssm">Women's Labor March, Washington Square Park: 1912</field>
++    <field name="dao_teim">Women&#39;s Labor March, Washington Square Park: 1912</field>
++    <field name="dao_ssm">Women&#39;s Labor March, Washington Square Park: 1912</field>
+     <field name="ref_ssi">aspace_ref1771</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -49,12 +49,13 @@
+     <field name="name_teim">Brown Brothers Photo Archives</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Park</field>
+     <field name="series_sim">Subseries F: Looking North</field>
+     <field name="series_sim">Looking North, 1910-1919</field>
+-    <field name="series_si">Washington Square Park &gt;&gt; Subseries F: Looking North &gt;&gt; Looking North, 1910-1919 &gt;&gt; Women's Labor March, Washington Square Park</field>
+-    <field name="heading_ssm">Women's Labor March, Washington Square Park</field>
++    <field name="series_si">Washington Square Park &gt;&gt; Subseries F: Looking North &gt;&gt; Looking North, 1910-1919 &gt;&gt; Women&#39;s Labor March, Washington Square Park</field>
++    <field name="heading_ssm">Women&#39;s Labor March, Washington Square Park</field>
+     <field name="unitdate_start_sim">1912</field>
+     <field name="unitdate_start_ssm">1912</field>
+     <field name="unitdate_start_si">1912</field>

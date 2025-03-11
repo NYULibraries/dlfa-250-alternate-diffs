@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_100</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">John "The Cop" Quigley Collection</field>
+-    <field name="collection_ssm">John "The Cop" Quigley Collection</field>
++    <field name="collection_sim">John &#34;The Cop&#34; Quigley Collection</field>
++    <field name="collection_ssm">John &#34;The Cop&#34; Quigley Collection</field>
+     <field name="collection_unitid_ssm">MC.100</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">George J. Viertel - Questionnaire</field>
+@@ -20,7 +20,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 62</field>
+     <field name="location_si">Box: 1, Folder: 62</field>
+-    <field name="collection_teim">John "The Cop" Quigley Collection</field>
++    <field name="collection_teim">John &#34;The Cop&#34; Quigley Collection</field>
++    <field name="author_teim">Leslie Barnes.</field>
+     <field name="collection_unitid_teim">MC.100</field>
+     <field name="series_si">George J. Viertel - Questionnaire</field>
+     <field name="heading_ssm">George J. Viertel - Questionnaire</field>

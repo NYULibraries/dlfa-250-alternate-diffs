@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Office of the President (Harry Woodburn Chase)</field>
+     <field name="collection_unitid_ssm">RG.3.0.5</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Veteran's Counselling Service,</field>
+-    <field name="unittitle_teim">Veteran's Counselling Service,</field>
++    <field name="unittitle_ssm">Veteran&#39;s Counselling Service,</field>
++    <field name="unittitle_teim">Veteran&#39;s Counselling Service,</field>
+     <field name="unitdate_normal_ssm">1944/1946</field>
+     <field name="unitdate_normal_teim">1944/1946</field>
+     <field name="unitdate_normal_sim">1944/1946</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 18, Folder:  5 - 7</field>
+     <field name="location_si">Box: 18, Folder:  5 - 7</field>
+     <field name="collection_teim">Records of the Office of the President (Harry Woodburn Chase)</field>
++    <field name="author_teim">Phyllis A. Klein, 1978. Finding aid amended by Nancy Greenberg, 2007.</field>
+     <field name="collection_unitid_teim">RG.3.0.5</field>
+     <field name="series_sim">Series I: World War II</field>
+     <field name="series_sim">Selective Service</field>
+-    <field name="series_si">Series I: World War II &gt;&gt; Selective Service &gt;&gt; Veteran's Counselling Service,</field>
+-    <field name="heading_ssm">Veteran's Counselling Service,</field>
++    <field name="series_si">Series I: World War II &gt;&gt; Selective Service &gt;&gt; Veteran&#39;s Counselling Service,</field>
++    <field name="heading_ssm">Veteran&#39;s Counselling Service,</field>
+     <field name="unitdate_start_sim">1944</field>
+     <field name="unitdate_start_ssm">1944</field>
+     <field name="unitdate_start_si">1944</field>

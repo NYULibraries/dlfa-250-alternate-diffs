@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">University Heights Time Capsule</field>
+     <field name="collection_unitid_ssm">MC.269</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NYU Press Release Announcing University College of Arts and Science Dean's List</field>
+-    <field name="unittitle_teim">NYU Press Release Announcing University College of Arts and Science Dean's List</field>
++    <field name="unittitle_ssm">NYU Press Release Announcing University College of Arts and Science Dean&#39;s List</field>
++    <field name="unittitle_teim">NYU Press Release Announcing University College of Arts and Science Dean&#39;s List</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/738276</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/738276</field>
+     <field name="unitdate_normal_ssm">1963-12-12/1963-12-12</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">University Heights Time Capsule</field>
++    <field name="author_teim">Janet Bunde and Rachel Searcy</field>
+     <field name="collection_unitid_teim">MC.269</field>
+-    <field name="series_si">NYU Press Release Announcing University College of Arts and Science Dean's List</field>
+-    <field name="heading_ssm">NYU Press Release Announcing University College of Arts and Science Dean's List</field>
++    <field name="series_si">NYU Press Release Announcing University College of Arts and Science Dean&#39;s List</field>
++    <field name="heading_ssm">NYU Press Release Announcing University College of Arts and Science Dean&#39;s List</field>
+     <field name="unitdate_ssm">1963-12-12</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

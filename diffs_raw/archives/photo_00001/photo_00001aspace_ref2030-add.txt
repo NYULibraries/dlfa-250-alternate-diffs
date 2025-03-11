@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,15 +19,15 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Child in Street Performer's Act</field>
+-    <field name="unittitle_teim">Child in Street Performer's Act</field>
++    <field name="unittitle_ssm">Child in Street Performer&#39;s Act</field>
++    <field name="unittitle_teim">Child in Street Performer&#39;s Act</field>
+     <field name="unitid_teim">wsp_gv_8_1_15</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/635684</field>
+     <field name="unitid_ssm">wsp_gv_8_1_15</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/635684</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="dao_teim">Child in Street Performer's Act: undated</field>
+-    <field name="dao_ssm">Child in Street Performer's Act: undated</field>
++    <field name="dao_teim">Child in Street Performer&#39;s Act: undated</field>
++    <field name="dao_ssm">Child in Street Performer&#39;s Act: undated</field>
+     <field name="ref_ssi">aspace_ref2030</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -38,12 +38,13 @@
+     <field name="location_si">Box: 215, Folder: 1, Item: 15</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Park</field>
+     <field name="series_sim">Subseries G: General Views</field>
+     <field name="series_sim">General Views - Children</field>
+-    <field name="series_si">Washington Square Park &gt;&gt; Subseries G: General Views &gt;&gt; General Views - Children &gt;&gt; Child in Street Performer's Act</field>
+-    <field name="heading_ssm">Child in Street Performer's Act</field>
++    <field name="series_si">Washington Square Park &gt;&gt; Subseries G: General Views &gt;&gt; General Views - Children &gt;&gt; Child in Street Performer&#39;s Act</field>
++    <field name="heading_ssm">Child in Street Performer&#39;s Act</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
+-    <field name="unittitle_teim">"NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
++    <field name="unittitle_ssm">&#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
++    <field name="unittitle_teim">&#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
+     <field name="unitid_teim">AV244</field>
+     <field name="unitid_ssm">AV244</field>
+     <field name="unitdate_normal_ssm">1979-06-07/1979-06-07</field>
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_sim">1979-06-07/1979-06-07</field>
+     <field name="unitdate_teim">1979-06-07</field>
+     <field name="phystech_teim">Duration: 32 minutes</field>
+-    <field name="dao_teim">"NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
+-    <field name="dao_ssm">"NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
++    <field name="dao_teim">&#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
++    <field name="dao_ssm">&#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
+     <field name="ref_ssi">aspace_7334c083728b88f76c9284d7cecbd702</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -34,10 +34,11 @@
+     <field name="location_si">Box: 6, Quarter_Inch_Audio_Reel: AV244</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
+-    <field name="heading_ssm">"NYU 147th Commencement From Washington Square Park." Reel I of III.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
++    <field name="heading_ssm">&#34;NYU 147th Commencement From Washington Square Park.&#34; Reel I of III.</field>
+     <field name="unitdate_ssm">1979-06-07</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">226</field>

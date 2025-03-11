@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1997/2003</field>
+     <field name="unitdate_normal_sim">1997/2003</field>
+     <field name="unitdate_inclusive_teim">1997-2003</field>
+-    <field name="scopecontent_teim">This series consists of administrative documents, as well as flyers, posters, and other ephemera documenting the organization's events, particularly Asian Film Night and Java House.</field>
++    <field name="scopecontent_teim">This series consists of administrative documents, as well as flyers, posters, and other ephemera documenting the organization&#39;s events, particularly Asian Film Night and Java House.</field>
+     <field name="ref_ssi">aspace_fd0e8fd1302d501222c16d70e91d8e13</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Laura Chen-Schultz Collection on Asian Working Artists</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MC.369</field>
+     <field name="series_si">Series I. Administrative Records</field>
+     <field name="heading_ssm">Series I. Administrative Records</field>

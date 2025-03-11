@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_88</field>
+     <field name="parent_ssi">aspace_ref67</field>
+     <field name="parent_ssm">aspace_ref67</field>
+-    <field name="parent_unittitles_ssm">Series V: Library and Cafeteria Workers--National Students' Strike of 1970</field>
+-    <field name="parent_unittitles_teim">Series V: Library and Cafeteria Workers--National Students' Strike of 1970</field>
++    <field name="parent_unittitles_ssm">Series V: Library and Cafeteria Workers--National Students&amp;#39; Strike of 1970</field>
++    <field name="parent_unittitles_teim">Series V: Library and Cafeteria Workers--National Students&amp;#39; Strike of 1970</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John G. Mason Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 4, Folder: 19</field>
+     <field name="location_si">Box: 4, Folder: 19</field>
+     <field name="collection_teim">John G. Mason Papers</field>
++    <field name="author_teim">Peter Braunstein.</field>
+     <field name="collection_unitid_teim">MC.88</field>
+-    <field name="series_sim">Series V: Library and Cafeteria Workers--National Students' Strike of 1970</field>
+-    <field name="series_si">Series V: Library and Cafeteria Workers--National Students' Strike of 1970 &gt;&gt; National Students Strike: Kimball</field>
++    <field name="series_sim">Series V: Library and Cafeteria Workers--National Students&amp;#39; Strike of 1970</field>
++    <field name="series_si">Series V: Library and Cafeteria Workers--National Students&#39; Strike of 1970 &gt;&gt; National Students Strike: Kimball</field>
+     <field name="heading_ssm">National Students Strike: Kimball</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>

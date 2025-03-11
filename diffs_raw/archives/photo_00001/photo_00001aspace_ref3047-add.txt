@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,15 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Ganga's Used Clothing Store</field>
+-    <field name="unittitle_teim">Ganga's Used Clothing Store</field>
++    <field name="unittitle_ssm">Ganga&#39;s Used Clothing Store</field>
++    <field name="unittitle_teim">Ganga&#39;s Used Clothing Store</field>
+     <field name="unitid_teim">wsa_1_4_19</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/635951</field>
+     <field name="unitid_ssm">wsa_1_4_19</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/635951</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="dao_teim">Ganga's Used Clothing Store: Undated</field>
+-    <field name="dao_ssm">Ganga's Used Clothing Store: Undated</field>
++    <field name="dao_teim">Ganga&#39;s Used Clothing Store: Undated</field>
++    <field name="dao_ssm">Ganga&#39;s Used Clothing Store: Undated</field>
+     <field name="ref_ssi">aspace_ref3047</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -35,11 +35,12 @@
+     <field name="location_si">Box: 175, Folder: 4, Item: 19</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Bleecker Street</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Bleecker Street &gt;&gt; Ganga's Used Clothing Store</field>
+-    <field name="heading_ssm">Ganga's Used Clothing Store</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Bleecker Street &gt;&gt; Ganga&#39;s Used Clothing Store</field>
++    <field name="heading_ssm">Ganga&#39;s Used Clothing Store</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

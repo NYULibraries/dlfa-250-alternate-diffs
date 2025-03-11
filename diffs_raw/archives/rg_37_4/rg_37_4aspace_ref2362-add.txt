@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,8 +34,8 @@
+     <field name="subject_teim">Economic development |z Latin America.</field>
+     <field name="subject_teim">Economic assistance, American |z Latin America.</field>
+     <field name="subject_teim">Economics.</field>
+-    <field name="subject_teim">Economic development -- Latin America.</field>
+-    <field name="subject_teim">Economic assistance, American -- Latin America.</field>
++    <field name="subject_teim">Economic development --Latin America.</field>
++    <field name="subject_teim">Economic assistance, American --Latin America.</field>
+     <field name="subject_ssm">Economics.</field>
+     <field name="subject_ssm">Economic development |z Latin America.</field>
+     <field name="subject_ssm">Economic assistance, American |z Latin America.</field>
+@@ -56,9 +56,10 @@
+     <field name="place_sim">Latin America.</field>
+     <field name="place_sim">Latin America -- Economic conditions.</field>
+     <field name="subject_sim">Economics.</field>
+-    <field name="subject_sim">Economic development -- Latin America.</field>
+-    <field name="subject_sim">Economic assistance, American -- Latin America.</field>
++    <field name="subject_sim">Economic development --Latin America.</field>
++    <field name="subject_sim">Economic assistance, American --Latin America.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

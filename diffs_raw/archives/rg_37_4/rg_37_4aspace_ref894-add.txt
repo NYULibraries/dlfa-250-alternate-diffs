@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="unitdate_normal_sim">2018-02/2018-02</field>
+     <field name="unitdate_teim">2018-02</field>
+     <field name="unitdate_inclusive_teim">1987</field>
+-    <field name="phystech_teim">Original Format: 1/8" Audiocassette, Duration: 95 min.</field>
++    <field name="phystech_teim">Original Format: 1/8&#34; Audiocassette, Duration: 95 min.</field>
+     <field name="ref_ssi">aspace_ref894</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -41,6 +41,7 @@
+     <field name="location_ssm">Box: Shared University Archives 118, CD: rg37.4_cuid473_000002</field>
+     <field name="location_si">Box: Shared University Archives 118, CD: rg37.4_cuid473_000002</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>
+@@ -53,7 +54,6 @@
+     <field name="unitdate_end_ssm">1987</field>
+     <field name="unitdate_end_si">1987</field>
+     <field name="unitdate_ssm">2018-02</field>
+-    <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">877</field>
+   </doc>

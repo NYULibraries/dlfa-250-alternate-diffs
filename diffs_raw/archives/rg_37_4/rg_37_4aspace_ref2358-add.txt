@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4196</field>
+     <field name="unitid_ssm">cuid4196</field>
+     <field name="unitdate_teim">Around 1998</field>
+-    <field name="scopecontent_teim">Rosalind Krauss discusses the life and works of Pablo Picasso. She had recently written a book entitled The Picasso Papers. While the tape itself is labeled "William Finnegan", he only introduces Krauss.</field>
++    <field name="scopecontent_teim">Rosalind Krauss discusses the life and works of Pablo Picasso. She had recently written a book entitled The Picasso Papers. While the tape itself is labeled &#34;William Finnegan&#34;, he only introduces Krauss.</field>
+     <field name="persname_teim">Picasso, Pablo, 1881-1973</field>
+     <field name="persname_teim">Krauss, Rosalind E.</field>
+     <field name="persname_ssm">Picasso, Pablo, 1881-1973</field>
+@@ -43,6 +43,7 @@
+     <field name="name_teim">Krauss, Rosalind E.</field>
+     <field name="subject_sim">Art.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

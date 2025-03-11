@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1990/2014</field>
+     <field name="unitdate_normal_sim">1990/2014</field>
+     <field name="unitdate_inclusive_teim">1990-2014</field>
+-    <field name="scopecontent_teim">This series consists of City-As-School catalogs dating from 1990-2013. The catalogs describe the school's mission, courses, faculty and staff, and showcase select school programs.</field>
++    <field name="scopecontent_teim">This series consists of City-As-School catalogs dating from 1990-2013. The catalogs describe the school&#39;s mission, courses, faculty and staff, and showcase select school programs.</field>
+     <field name="ref_ssi">aspace_f4a9bed8cf768e51734efc658dc1dc33</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of City-As-School</field>
++    <field name="author_teim">The finding aid was created in March 2017 by Rachel Searcy and was updated by Samantha Houck in July 2017 with information pertaining to accession 2017.029.</field>
+     <field name="collection_unitid_teim">MC.271</field>
+     <field name="series_si">Series II. Catalogs</field>
+     <field name="heading_ssm">Series II. Catalogs</field>

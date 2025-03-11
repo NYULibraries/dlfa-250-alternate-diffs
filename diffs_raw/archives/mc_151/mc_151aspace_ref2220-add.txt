@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,9 @@
+     <field name="collection_ssm">Abby Weed Grey Papers</field>
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Poets and Prophets from Athens to Katmandu"- St. Louis Park Women's Club , "Communication Through Art," New Century Club gallery talk</field>
+-    <field name="unittitle_teim">"Poets and Prophets from Athens to Katmandu"- St. Louis Park Women's Club , "Communication Through Art," New Century Club gallery talk</field>
++    <field name="unittitle_ssm">&#34;Poets and Prophets from Athens to Katmandu&#34;- St. Louis Park Women&#39;s Club , &#34;Communication Through Art,&#34; New Century Club gallery talk</field>
++    <field name="unittitle_teim">&#34;Poets and Prophets from Athens to Katmandu&#34;- St. Louis Park Women&#39;s Club 
++, &#34;Communication Through Art,&#34; New Century Club gallery talk</field>
+     <field name="unitid_teim">MC151_ref1463_000001 and MC151_ref1463_000002</field>
+     <field name="unitid_ssm">MC151_ref1463_000001 and MC151_ref1463_000002</field>
+     <field name="unitdate_normal_ssm">1964/1964</field>
+@@ -21,7 +22,7 @@
+     <field name="unitdate_normal_teim">1964/1964</field>
+     <field name="unitdate_normal_sim">1964/1964</field>
+     <field name="unitdate_inclusive_teim">1964 January 5-6</field>
+-    <field name="scopecontent_teim">Abby Weed Grey is practicing a talk that she will be giving to the St. Louis Park Women's Club on January 5, 1964. Grey is using slides of places that she has been to and of artwork from artists that she has befriended to show how artists are coping with the modern age.</field>
++    <field name="scopecontent_teim">Abby Weed Grey is practicing a talk that she will be giving to the St. Louis Park Women&#39;s Club on January 5, 1964. Grey is using slides of places that she has been to and of artwork from artists that she has befriended to show how artists are coping with the modern age.</field>
+     <field name="geogname_teim">Tibet</field>
+     <field name="geogname_teim">Kathmandu (Nepal)</field>
+     <field name="geogname_teim">India</field>
+@@ -77,10 +78,12 @@
+     <field name="subject_sim">Religious poetry.</field>
+     <field name="subject_sim">Tibetan poetry</field>
+     <field name="collection_teim">Abby Weed Grey Papers</field>
++    <field name="author_teim">Amy Surak. Additional processing by Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVI: Audiovisual Materials</field>
+-    <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; "Poets and Prophets from Athens to Katmandu"- St. Louis Park Women's Club , "Communication Through Art," New Century Club gallery talk</field>
+-    <field name="heading_ssm">"Poets and Prophets from Athens to Katmandu"- St. Louis Park Women's Club , "Communication Through Art," New Century Club gallery talk</field>
++    <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; &#34;Poets and Prophets from Athens to Katmandu&#34;- St. Louis Park Women&#39;s Club , &#34;Communication Through Art,&#34; New Century Club gallery talk</field>
++    <field name="heading_ssm">&#34;Poets and Prophets from Athens to Katmandu&#34;- St. Louis Park Women&#39;s Club 
++, &#34;Communication Through Art,&#34; New Century Club gallery talk</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>
+     <field name="unitdate_start_si">1964</field>

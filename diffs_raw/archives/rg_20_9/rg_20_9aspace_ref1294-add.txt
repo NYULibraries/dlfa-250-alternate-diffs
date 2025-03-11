@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,9 +26,8 @@
+     <field name="unitdate_normal_teim">2018/2018</field>
+     <field name="unitdate_normal_sim">1992/1992</field>
+     <field name="unitdate_normal_sim">2018/2018</field>
+-    <field name="unitdate_teim"> </field>
+     <field name="unitdate_inclusive_teim">1992</field>
+-    <field name="phystech_teim">Format: 1/8" audiocassette, Duration: 91 min.</field>
++    <field name="phystech_teim">Format: 1/8&#34; audiocassette, Duration: 91 min.</field>
+     <field name="ref_ssi">aspace_ref1294</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -39,6 +38,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: cuid3446</field>
+     <field name="location_si">Box: Digitized Access Files, file: cuid3446</field>
+     <field name="collection_teim">Records of the Public History Program</field>
++    <field name="author_teim">Ashley Jones and Julianna Monjeau. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">RG.20.9</field>
+     <field name="series_sim">Series VI: Media</field>
+     <field name="series_sim">1989-1993</field>
+@@ -54,7 +54,6 @@
+     <field name="unitdate_end_ssm">1992</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm"> </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="language_sim">English</field>

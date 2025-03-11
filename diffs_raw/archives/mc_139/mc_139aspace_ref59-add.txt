@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Alice Keliher Papers</field>
+     <field name="collection_unitid_ssm">MC.139</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Care and Education of America's Young Children</field>
+-    <field name="unittitle_teim">Care and Education of America's Young Children</field>
++    <field name="unittitle_ssm">Care and Education of America&#39;s Young Children</field>
++    <field name="unittitle_teim">Care and Education of America&#39;s Young Children</field>
+     <field name="unitdate_teim">1991</field>
+     <field name="ref_ssi">aspace_ref59</field>
+     <field name="repository_ssi">archives</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: data_value_missing_3b9f04f114ebf87ab5c12aeb88a80482</field>
+     <field name="location_si">Box: 2, Folder: data_value_missing_3b9f04f114ebf87ab5c12aeb88a80482</field>
+     <field name="collection_teim">Alice Keliher Papers</field>
++    <field name="author_teim">University Archives staff. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">MC.139</field>
+     <field name="series_sim">Series I: Printed Material</field>
+     <field name="series_sim">Subseries A: National Society for Education Yearbooks</field>
+-    <field name="series_si">Series I: Printed Material &gt;&gt; Subseries A: National Society for Education Yearbooks &gt;&gt; Care and Education of America's Young Children</field>
+-    <field name="heading_ssm">Care and Education of America's Young Children</field>
++    <field name="series_si">Series I: Printed Material &gt;&gt; Subseries A: National Society for Education Yearbooks &gt;&gt; Care and Education of America&#39;s Young Children</field>
++    <field name="heading_ssm">Care and Education of America&#39;s Young Children</field>
+     <field name="unitdate_ssm">1991</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Untitled Anatomy lecture</field>
+     <field name="unitid_teim">AV2023c</field>
+     <field name="unitid_ssm">AV2023c</field>
+-    <field name="scopecontent_teim">The first 7:30 of recording appear to be part of an anatomy class in which the lecturer discusses several bones and muscle groups and even has a drummer perform in order to demonstrate how parts of the body work. Original tape held this recording and two lectures by Floyd Zulli for his "Have You Read...?" class on Sunrise Semester. Recordings on this reel can be identified by Unique Identifiers beginning with 2023.</field>
++    <field name="scopecontent_teim">The first 7:30 of recording appear to be part of an anatomy class in which the lecturer discusses several bones and muscle groups and even has a drummer perform in order to demonstrate how parts of the body work. Original tape held this recording and two lectures by Floyd Zulli for his &#34;Have You Read...?&#34; class on Sunrise Semester. Recordings on this reel can be identified by Unique Identifiers beginning with 2023.</field>
+     <field name="subject_teim">Anatomy.</field>
+     <field name="subject_teim">Anatomy.</field>
+     <field name="subject_ssm">Anatomy.</field>
+@@ -31,6 +31,7 @@
+     <field name="location_si">Box: 2</field>
+     <field name="subject_sim">Anatomy.</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Untitled Anatomy lecture</field>

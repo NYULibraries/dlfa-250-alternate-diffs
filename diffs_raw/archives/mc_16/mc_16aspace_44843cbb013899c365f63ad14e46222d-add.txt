@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Elmer Ellsworth Brown Papers</field>
+     <field name="collection_unitid_ssm">MC.16</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photostat of Clipping relating to Chancellor Brown's Resignation</field>
+-    <field name="unittitle_teim">Photostat of Clipping relating to Chancellor Brown's Resignation</field>
++    <field name="unittitle_ssm">Photostat of Clipping relating to Chancellor Brown&#39;s Resignation</field>
++    <field name="unittitle_teim">Photostat of Clipping relating to Chancellor Brown&#39;s Resignation</field>
+     <field name="unitdate_normal_ssm">1932/1932</field>
+     <field name="unitdate_normal_teim">1932/1932</field>
+     <field name="unitdate_normal_sim">1932/1932</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 29, Folder: 10</field>
+     <field name="location_si">Box: 29, Folder: 10</field>
+     <field name="collection_teim">Elmer Ellsworth Brown Papers</field>
++    <field name="author_teim">Archives Staff.</field>
+     <field name="collection_unitid_teim">MC.16</field>
+     <field name="series_sim">Series XI: Printed and Published Materials</field>
+-    <field name="series_si">Series XI: Printed and Published Materials &gt;&gt; Photostat of Clipping relating to Chancellor Brown's Resignation</field>
+-    <field name="heading_ssm">Photostat of Clipping relating to Chancellor Brown's Resignation</field>
++    <field name="series_si">Series XI: Printed and Published Materials &gt;&gt; Photostat of Clipping relating to Chancellor Brown&#39;s Resignation</field>
++    <field name="heading_ssm">Photostat of Clipping relating to Chancellor Brown&#39;s Resignation</field>
+     <field name="unitdate_start_sim">1932</field>
+     <field name="unitdate_start_ssm">1932</field>
+     <field name="unitdate_start_si">1932</field>

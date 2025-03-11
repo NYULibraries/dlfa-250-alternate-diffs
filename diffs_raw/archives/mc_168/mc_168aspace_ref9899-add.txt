@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">National Town Meeting on "Education Today-How Relevant," John F. Kennedy Center</field>
+-    <field name="unittitle_teim">National Town Meeting on "Education Today-How Relevant," John F. Kennedy Center</field>
++    <field name="unittitle_ssm">National Town Meeting on &#34;Education Today-How Relevant,&#34; John F. Kennedy Center</field>
++    <field name="unittitle_teim">National Town Meeting on &#34;Education Today-How Relevant,&#34; John F. Kennedy Center</field>
+     <field name="unitid_teim">cuid10142</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/613559</field>
+     <field name="unitid_ssm">cuid10142</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: III:14, Folder: 50</field>
+     <field name="location_si">Box: III:14, Folder: 50</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries II: Speeches and Appearances</field>
+-    <field name="series_si">Series III: Media &gt;&gt; Subseries II: Speeches and Appearances &gt;&gt; National Town Meeting on "Education Today-How Relevant," John F. Kennedy Center</field>
+-    <field name="heading_ssm">National Town Meeting on "Education Today-How Relevant," John F. Kennedy Center</field>
++    <field name="series_si">Series III: Media &gt;&gt; Subseries II: Speeches and Appearances &gt;&gt; National Town Meeting on &#34;Education Today-How Relevant,&#34; John F. Kennedy Center</field>
++    <field name="heading_ssm">National Town Meeting on &#34;Education Today-How Relevant,&#34; John F. Kennedy Center</field>
+     <field name="unitdate_ssm">Mar 31, 1976</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4947</field>
