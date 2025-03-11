@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_ssm">MC.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The NYPIRG News&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The NYPIRG News
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The NYPIRG News&lt;/em&gt;</field>
++    <field name="unittitle_teim">The NYPIRG News</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/951819</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/951819</field>
+     <field name="unitdate_normal_ssm">1977/1978</field>
+@@ -37,12 +33,8 @@
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_sim">RG 39.49. New York Public Interest Group at NYU</field>
+-    <field name="series_si">RG 39.49. New York Public Interest Group at NYU &gt;&gt; 
+-      &lt;em&gt;The NYPIRG News&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The NYPIRG News
+-    </field>
++    <field name="series_si">RG 39.49. New York Public Interest Group at NYU &gt;&gt; &lt;em&gt;The NYPIRG News&lt;/em&gt;</field>
++    <field name="heading_ssm">The NYPIRG News</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

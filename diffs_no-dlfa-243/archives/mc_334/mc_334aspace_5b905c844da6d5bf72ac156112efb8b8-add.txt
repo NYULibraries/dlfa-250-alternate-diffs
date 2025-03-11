@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_ssm">MC.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The Medical Dialogue Review&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The Medical Dialogue Review
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Medical Dialogue Review&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Medical Dialogue Review</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/952044</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/952044</field>
+     <field name="unitdate_normal_ssm">2007/2019</field>
+@@ -36,12 +32,8 @@
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_teim">MC.334</field>
+     <field name="series_sim">RG 39.152. The Medical Dialogue Review</field>
+-    <field name="series_si">RG 39.152. The Medical Dialogue Review &gt;&gt; 
+-      &lt;em&gt;The Medical Dialogue Review&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The Medical Dialogue Review
+-    </field>
++    <field name="series_si">RG 39.152. The Medical Dialogue Review &gt;&gt; &lt;em&gt;The Medical Dialogue Review&lt;/em&gt;</field>
++    <field name="heading_ssm">The Medical Dialogue Review</field>
+     <field name="unitdate_start_sim">2007</field>
+     <field name="unitdate_start_ssm">2007</field>
+     <field name="unitdate_start_si">2007</field>

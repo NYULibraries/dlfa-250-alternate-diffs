@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe.
+-Guadeloupe Foire-Exposition 
+-(1960:Pointe-a-Pitre).
+-40.0 pages
+-map</field>
+-    <field name="unittitle_teim">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe.
+-Guadeloupe Foire-Exposition 
+-(1960:Pointe-a-Pitre).
+-40.0 pages
+-map</field>
++    <field name="unittitle_ssm">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe. Guadeloupe Foire-Exposition (1960:Pointe-a-Pitre). 40.0 pages map</field>
++    <field name="unittitle_teim">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe. Guadeloupe Foire-Exposition (1960:Pointe-a-Pitre). 40.0 pages map</field>
+     <field name="unitdate_teim">1960</field>
+     <field name="geogname_teim">Guadeloupe |x Description and travel.</field>
+     <field name="geogname_ssm">Guadeloupe |x Description and travel.</field>
+@@ -43,16 +35,8 @@
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Guadeloupe</field>
+     <field name="series_sim">Guadeloupe: Description and Travel</field>
+-    <field name="series_si">Guadeloupe &gt;&gt; Guadeloupe: Description and Travel &gt;&gt; La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe.
+-Guadeloupe Foire-Exposition 
+-(1960:Pointe-a-Pitre).
+-40.0 pages
+-map</field>
+-    <field name="heading_ssm">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe.
+-Guadeloupe Foire-Exposition 
+-(1960:Pointe-a-Pitre).
+-40.0 pages
+-map</field>
++    <field name="series_si">Guadeloupe &gt;&gt; Guadeloupe: Description and Travel &gt;&gt; La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe. Guadeloupe Foire-Exposition (1960:Pointe-a-Pitre). 40.0 pages map</field>
++    <field name="heading_ssm">La Municipalite vous Souhaite la Beinvenue a Pointe-A-Pitre;La Guadeloupe. Guadeloupe Foire-Exposition (1960:Pointe-a-Pitre). 40.0 pages map</field>
+     <field name="unitdate_ssm">1960</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

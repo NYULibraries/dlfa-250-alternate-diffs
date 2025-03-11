@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,9 +31,9 @@
+     <field name="geogname_ssm">United States.</field>
+     <field name="persname_teim">London, Clement B. G.</field>
+     <field name="persname_ssm">London, Clement B. G.</field>
+-    <field name="subject_teim">Immigrants |x Education. </field>
+-    <field name="subject_teim">Immigrants -- Education. </field>
+-    <field name="subject_ssm">Immigrants |x Education. </field>
++    <field name="subject_teim">Immigrants |x Education.</field>
++    <field name="subject_teim">Immigrants -- Education.</field>
++    <field name="subject_ssm">Immigrants |x Education.</field>
+     <field name="ref_ssi">aspace_ref19812</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -47,7 +47,7 @@
+     <field name="name_teim">London, Clement B. G.</field>
+     <field name="place_ssm">United States.</field>
+     <field name="place_sim">United States.</field>
+-    <field name="subject_sim">Immigrants -- Education. </field>
++    <field name="subject_sim">Immigrants -- Education.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">United States</field>

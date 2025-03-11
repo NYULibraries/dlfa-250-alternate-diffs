@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Fogelson, Mr. &amp;amp; Fidler, Gail</field>
++    <field name="unittitle_ssm">Fogelson, Mr. &amp; Fidler, Gail</field>
+     <field name="unittitle_teim">Fogelson, Mr. &amp; Fidler, Gail</field>
+     <field name="unitid_teim">AV51</field>
+     <field name="unitid_ssm">AV51</field>
+@@ -28,7 +28,7 @@
+     <field name="unitdate_normal_sim">2018/2018</field>
+     <field name="unitdate_teim">March 24, 1968</field>
+     <field name="unitdate_teim">April 1, 1968</field>
+-    <field name="unitdate_teim"> </field>
++    <field name="unitdate_teim"></field>
+     <field name="scopecontent_teim">Housing annotations: "Mr. Fogelson - Sachs Quality Stores, taped March 24, 1968; Gail Fidler - NYU State Psychiatric Institute, Psych. Occupational Therapy - taped 4/1/68 at 1PM"</field>
+     <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 32 min.</field>
+     <field name="ref_ssi">aspace_cbc274289fd6800cdae080dde3122e6a</field>
+@@ -43,7 +43,7 @@
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Fogelson, Mr. &amp;amp; Fidler, Gail</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Fogelson, Mr. &amp; Fidler, Gail</field>
+     <field name="heading_ssm">Fogelson, Mr. &amp; Fidler, Gail</field>
+     <field name="unitdate_start_sim">2018</field>
+     <field name="unitdate_start_ssm">2018</field>
+@@ -51,8 +51,7 @@
+     <field name="unitdate_end_sim">2018</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm">March 24, 1968 April 1, 1968  </field>
+-    <field name="date_range_sim">2001-2100</field>
++    <field name="unitdate_ssm">March 24, 1968 April 1, 1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>
