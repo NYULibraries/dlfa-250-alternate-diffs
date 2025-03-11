@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Engin Ozendes Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.012</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, "The blessed child of the Arzuman family 1905"). 18.7 x 13.7 cm</field>
+-    <field name="unittitle_teim">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, "The blessed child of the Arzuman family 1905"). 18.7 x 13.7 cm</field>
++    <field name="unittitle_ssm">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34;). 18.7 x 13.7 cm</field>
++    <field name="unittitle_teim">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34;). 18.7 x 13.7 cm</field>
+     <field name="creator_teim">Abdullah Frères, Constantinople (Beyoglu, Istanbul, Turkey)</field>
+     <field name="creator_ssm">Abdullah Frères, Constantinople (Beyoglu, Istanbul, Turkey)</field>
+     <field name="creator_ssm">Abdullah Frères, Constantinople (Beyoglu, Istanbul, Turkey)</field>
+@@ -43,10 +43,10 @@
+     <field name="subject_ssm">French Writing</field>
+     <field name="subject_ssm">Hats</field>
+     <field name="subject_ssm">Women</field>
+-    <field name="dao_teim">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, "The blessed child of the Arzuman family 1905" 18.7 x 13.7 cm: 1905</field>
+-    <field name="dao_teim">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, "The blessed child of the Arzuman family 1905" 18.7 x 13.7 cm: 1905</field>
+-    <field name="dao_ssm">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, "The blessed child of the Arzuman family 1905" 18.7 x 13.7 cm: 1905</field>
+-    <field name="dao_ssm">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, "The blessed child of the Arzuman family 1905" 18.7 x 13.7 cm: 1905</field>
++    <field name="dao_teim">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34; 18.7 x 13.7 cm: 1905</field>
++    <field name="dao_teim">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34; 18.7 x 13.7 cm: 1905</field>
++    <field name="dao_ssm">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34; 18.7 x 13.7 cm: 1905</field>
++    <field name="dao_ssm">Woman in hat with a bow on her collar holding a baby in a gown. French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34; 18.7 x 13.7 cm: 1905</field>
+     <field name="ref_ssi">aspace_ref102_e6t</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -68,8 +68,9 @@
+     <field name="subject_sim">Hats</field>
+     <field name="subject_sim">Women</field>
+     <field name="collection_teim">Engin Ozendes Collection</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.012</field>
+-    <field name="series_si">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, "The blessed child of the Arzuman family 1905"). 18.7 x 13.7 cm</field>
++    <field name="series_si">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34;). 18.7 x 13.7 cm</field>
+     <field name="material_type_sim">Albumen Prints</field>
+     <field name="material_type_sim">Carte de Visite/Cabinet Card</field>
+     <field name="material_type_sim">Photographic Prints</field>
+@@ -76,7 +77,7 @@
+     <field name="material_type_ssm">Albumen Prints</field>
+     <field name="material_type_ssm">Carte de Visite/Cabinet Card</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, "The blessed child of the Arzuman family 1905"). 18.7 x 13.7 cm</field>
++    <field name="heading_ssm">Woman in hat with a bow on her collar holding a baby in a gown. (French writing on the back, &#34;The blessed child of the Arzuman family 1905&#34;). 18.7 x 13.7 cm</field>
+     <field name="unitdate_ssm">1905</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">102</field>

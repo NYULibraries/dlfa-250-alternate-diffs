@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Engin Ozendes Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.012</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm</field>
+-    <field name="unittitle_teim">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm</field>
++    <field name="unittitle_ssm">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm</field>
++    <field name="unittitle_teim">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm</field>
+     <field name="unitdate_teim">31 December 1902</field>
+     <field name="genreform_teim">Carte de Visite/Cabinet Card</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -49,10 +49,10 @@
+     <field name="subject_ssm">Furnishings</field>
+     <field name="subject_ssm">Books</field>
+     <field name="subject_ssm">Boys</field>
+-    <field name="dao_teim">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm: 31 December 1902</field>
+-    <field name="dao_teim">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm: 31 December 1902</field>
+-    <field name="dao_ssm">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm: 31 December 1902</field>
+-    <field name="dao_ssm">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm: 31 December 1902</field>
++    <field name="dao_teim">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm: 31 December 1902</field>
++    <field name="dao_teim">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm: 31 December 1902</field>
++    <field name="dao_ssm">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm: 31 December 1902</field>
++    <field name="dao_ssm">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm: 31 December 1902</field>
+     <field name="ref_ssi">aspace_ref98_zoo</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -76,8 +76,9 @@
+     <field name="subject_sim">Books</field>
+     <field name="subject_sim">Boys</field>
+     <field name="collection_teim">Engin Ozendes Collection</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.012</field>
+-    <field name="series_si">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm</field>
++    <field name="series_si">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm</field>
+     <field name="material_type_sim">Carte de Visite/Cabinet Card</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Albumen Prints</field>
+@@ -84,7 +85,7 @@
+     <field name="material_type_ssm">Carte de Visite/Cabinet Card</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Albumen Prints</field>
+-    <field name="heading_ssm">Haldun. "Souvenir to my dear aunt" 16.1 x 10.5 cm</field>
++    <field name="heading_ssm">Haldun. &#34;Souvenir to my dear aunt&#34; 16.1 x 10.5 cm</field>
+     <field name="unitdate_ssm">31 December 1902</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">98</field>

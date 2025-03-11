@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Syria Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A team portrait of a girls' basketball team (linked ref991).</field>
+-    <field name="unittitle_teim">A team portrait of a girls' basketball team (linked ref991).</field>
++    <field name="unittitle_ssm">A team portrait of a girls&#39; basketball team (linked ref991).</field>
++    <field name="unittitle_teim">A team portrait of a girls&#39; basketball team (linked ref991).</field>
+     <field name="unitid_teim">ref990</field>
+     <field name="unitid_ssm">ref990</field>
+     <field name="creator_teim">Studio Al Ahram, Aleppo, (Syria) </field>
+@@ -50,8 +50,8 @@
+     <field name="subject_ssm">Group Portraits</field>
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Men</field>
+-    <field name="dao_teim">A team portrait of a girls' basketball team (linked ref991).: 4 March 1976</field>
+-    <field name="dao_ssm">A team portrait of a girls' basketball team (linked ref991).: 4 March 1976</field>
++    <field name="dao_teim">A team portrait of a girls&#39; basketball team (linked ref991).: 4 March 1976</field>
++    <field name="dao_ssm">A team portrait of a girls&#39; basketball team (linked ref991).: 4 March 1976</field>
+     <field name="ref_ssi">aspace_882e7d343621f2c28a9f25449386a8c9</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -74,14 +74,15 @@
+     <field name="subject_sim">Women</field>
+     <field name="subject_sim">Men</field>
+     <field name="collection_teim">Syria Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad, with additional edits by Jonathan Burr and Ozge Calafato for Akkasah: Center for Photography at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.036</field>
+     <field name="series_sim">Studio Series III</field>
+-    <field name="series_si">Studio Series III &gt;&gt; A team portrait of a girls' basketball team (linked ref991).</field>
++    <field name="series_si">Studio Series III &gt;&gt; A team portrait of a girls&#39; basketball team (linked ref991).</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">A team portrait of a girls' basketball team (linked ref991).</field>
++    <field name="heading_ssm">A team portrait of a girls&#39; basketball team (linked ref991).</field>
+     <field name="unitdate_ssm">4 March 1976</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1173</field>

@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_061</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
+-    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
+     <field name="collection_unitid_ssm">AD.MC.061</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
+-    <field name="unittitle_teim">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
++    <field name="unittitle_ssm">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
++    <field name="unittitle_teim">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
+     <field name="unitid_teim">AD_MC_061_ref77</field>
+     <field name="unitid_ssm">AD_MC_061_ref77</field>
+     <field name="creator_teim">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+@@ -43,10 +43,10 @@
+     <field name="persname_teim">Thomson, John</field>
+     <field name="persname_ssm">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+     <field name="persname_ssm">Thomson, John</field>
+-    <field name="dao_teim">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_teim">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_ssm">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_ssm">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
++    <field name="dao_teim">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_teim">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_ssm">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_ssm">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
+     <field name="ref_ssi">aspace_d8edcac4e047ad5cd7b6e7cb5ddbf195</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -74,14 +74,15 @@
+     <field name="place_sim">Yerevan (Armenia)</field>
+     <field name="place_sim">Caucasus</field>
+     <field name="place_sim">Tbilisi, Georgia</field>
+-    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.061</field>
+-    <field name="series_si">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
++    <field name="series_si">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">The inside back cover of the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
++    <field name="heading_ssm">The inside back cover of the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
+     <field name="unitdate_start_sim">1890</field>
+     <field name="unitdate_start_ssm">1890</field>
+     <field name="unitdate_start_si">1890</field>

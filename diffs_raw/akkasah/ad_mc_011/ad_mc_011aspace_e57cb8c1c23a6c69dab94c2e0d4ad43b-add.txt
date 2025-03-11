@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">According to One's Means</field>
+-    <field name="unittitle_teim">According to One's Means</field>
++    <field name="unittitle_ssm">According to One&#39;s Means</field>
++    <field name="unittitle_teim">According to One&#39;s Means</field>
+     <field name="unitid_teim">ref32</field>
+     <field name="unitid_ssm">ref32</field>
+     <field name="unitdate_teim">1949</field>
+@@ -21,9 +21,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_si">According to One's Means</field>
+-    <field name="heading_ssm">According to One's Means</field>
++    <field name="series_si">According to One&#39;s Means</field>
++    <field name="heading_ssm">According to One&#39;s Means</field>
+     <field name="unitdate_ssm">1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">230</field>

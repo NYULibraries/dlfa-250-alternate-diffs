@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm</field>
+-    <field name="unittitle_teim">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm</field>
++    <field name="unittitle_ssm">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm</field>
++    <field name="unittitle_teim">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm</field>
+     <field name="unitdate_teim">April 26th 1946</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -47,10 +47,10 @@
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">Group Portraits</field>
+     <field name="subject_ssm">Palm Trees</field>
+-    <field name="dao_teim">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm: April 26th 1946</field>
+-    <field name="dao_teim">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm: April 26th 1946</field>
+-    <field name="dao_ssm">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm: April 26th 1946</field>
+-    <field name="dao_ssm">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm: April 26th 1946</field>
++    <field name="dao_teim">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm: April 26th 1946</field>
++    <field name="dao_teim">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm: April 26th 1946</field>
++    <field name="dao_ssm">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm: April 26th 1946</field>
++    <field name="dao_ssm">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm: April 26th 1946</field>
+     <field name="ref_ssi">aspace_ref170_frv</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -74,13 +74,14 @@
+     <field name="subject_sim">Group Portraits</field>
+     <field name="subject_sim">Palm Trees</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm</field>
++    <field name="series_si">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Street view of 'Casa Bugeya' in the Suez Canal previously known as the 'Chelsea Pension'. 16.3 x 23.7 cm</field>
++    <field name="heading_ssm">Street view of &#39;Casa Bugeya&#39; in the Suez Canal previously known as the &#39;Chelsea Pension&#39;. 16.3 x 23.7 cm</field>
+     <field name="unitdate_ssm">April 26th 1946</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">170</field>

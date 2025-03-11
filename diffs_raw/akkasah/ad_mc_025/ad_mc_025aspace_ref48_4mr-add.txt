@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -36,10 +36,10 @@
+     <field name="subject_ssm">Girls</field>
+     <field name="subject_ssm">Radios</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">A girl looking at her mother, who is holding a 'X-Bass' radio and talking with a friend.: December 2016</field>
+-    <field name="dao_teim">A girl looking at her mother, who is holding a 'X-Bass' radio and talking with a friend.: December 2016</field>
+-    <field name="dao_ssm">A girl looking at her mother, who is holding a 'X-Bass' radio and talking with a friend.: December 2016</field>
+-    <field name="dao_ssm">A girl looking at her mother, who is holding a 'X-Bass' radio and talking with a friend.: December 2016</field>
++    <field name="dao_teim">A girl looking at her mother, who is holding a &#39;X-Bass&#39; radio and talking with a friend.: December 2016</field>
++    <field name="dao_teim">A girl looking at her mother, who is holding a &#39;X-Bass&#39; radio and talking with a friend.: December 2016</field>
++    <field name="dao_ssm">A girl looking at her mother, who is holding a &#39;X-Bass&#39; radio and talking with a friend.: December 2016</field>
++    <field name="dao_ssm">A girl looking at her mother, who is holding a &#39;X-Bass&#39; radio and talking with a friend.: December 2016</field>
+     <field name="ref_ssi">aspace_ref48_4mr</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -58,6 +58,7 @@
+     <field name="subject_sim">Radios</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">Markazi</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.025</field>
+     <field name="series_si">A child looking up at a woman holding a portable MP3 radio.</field>
+     <field name="material_type_sim">Digital Photographs</field>

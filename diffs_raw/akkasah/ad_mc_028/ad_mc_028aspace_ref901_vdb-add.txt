@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -54,10 +54,10 @@
+     <field name="subject_ssm">Italian Writing</field>
+     <field name="subject_ssm">Transportation</field>
+     <field name="subject_ssm">Facial Hair</field>
+-    <field name="dao_teim">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_teim">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_ssm">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_ssm">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_teim">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_teim">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_ssm">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_ssm">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+     <field name="ref_ssi">aspace_ref901_vdb</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -82,6 +82,7 @@
+     <field name="subject_sim">Transportation</field>
+     <field name="subject_sim">Facial Hair</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+     <field name="series_si">Group photo of clergymen in the desert. 39.5 x 29.7 cm </field>
+     <field name="material_type_sim">Photographic Prints</field>

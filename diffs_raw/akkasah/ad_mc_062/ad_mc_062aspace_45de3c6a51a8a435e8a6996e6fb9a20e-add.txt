@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Orientreise 1898</field>
+     <field name="collection_unitid_ssm">AD.MC.062</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
+-    <field name="unittitle_teim">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
++    <field name="unittitle_ssm">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
++    <field name="unittitle_teim">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
+     <field name="unitid_teim">AD_MC_062_ref34</field>
+     <field name="unitid_ssm">AD_MC_062_ref34</field>
+     <field name="unitdate_teim">1898</field>
+@@ -69,8 +69,8 @@
+     <field name="subject_ssm">Flags</field>
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">Mountains/Hills</field>
+-    <field name="dao_teim">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.: 1898</field>
+-    <field name="dao_ssm">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.: 1898</field>
++    <field name="dao_teim">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.: 1898</field>
++    <field name="dao_ssm">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.: 1898</field>
+     <field name="ref_ssi">aspace_45de3c6a51a8a435e8a6996e6fb9a20e</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -102,13 +102,14 @@
+     <field name="subject_sim">Men</field>
+     <field name="subject_sim">Mountains/Hills</field>
+     <field name="collection_teim">Orientreise 1898</field>
++    <field name="author_teim">Jasmine Soliman, Jonathan Burr and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.062</field>
+-    <field name="series_si">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
++    <field name="series_si">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Top: a view of Istanbul's coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
++    <field name="heading_ssm">Top: a view of Istanbul&#39;s coast including the Hagia Sophia and Topkapi Palace taken from the Bosphorus. Bottom: a cargo ship from Hamburg docked at a harbor in Piran.</field>
+     <field name="unitdate_ssm">1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>

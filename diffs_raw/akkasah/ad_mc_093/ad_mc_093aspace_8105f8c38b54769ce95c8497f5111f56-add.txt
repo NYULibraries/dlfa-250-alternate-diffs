@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_093</field>
+     <field name="parent_ssi">aspace_b3ef81c16eb98b216c6116e57019accc</field>
+     <field name="parent_ssm">aspace_b3ef81c16eb98b216c6116e57019accc</field>
+-    <field name="parent_unittitles_ssm">H.E. Butti Bin Bishr's Passport Issued by the Government of Dubai</field>
+-    <field name="parent_unittitles_teim">H.E. Butti Bin Bishr's Passport Issued by the Government of Dubai</field>
++    <field name="parent_unittitles_ssm">H.E. Butti Bin Bishr&amp;#39;s Passport Issued by the Government of Dubai</field>
++    <field name="parent_unittitles_teim">H.E. Butti Bin Bishr&amp;#39;s Passport Issued by the Government of Dubai</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">H.E. Butti Bin Bishr Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">H.E. Butti Bin Bishr Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.093</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">H.E. Butti Bin Bishr's passport issued by the government of Dubai.</field>
+-    <field name="unittitle_teim">H.E. Butti Bin Bishr's passport issued by the government of Dubai.</field>
++    <field name="unittitle_ssm">H.E. Butti Bin Bishr&#39;s passport issued by the government of Dubai.</field>
++    <field name="unittitle_teim">H.E. Butti Bin Bishr&#39;s passport issued by the government of Dubai.</field>
+     <field name="unitid_teim">AD_MC_093_ref54_000001_000001</field>
+     <field name="unitid_ssm">AD_MC_093_ref54_000001_000001</field>
+     <field name="unitdate_teim">7 October 1969</field>
+@@ -41,12 +41,13 @@
+     <field name="subject_sim">Arabic Writing</field>
+     <field name="subject_sim">Passport/ID card</field>
+     <field name="collection_teim">H.E. Butti Bin Bishr Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad</field>
+     <field name="collection_unitid_teim">AD.MC.093</field>
+-    <field name="series_sim">H.E. Butti Bin Bishr's Passport Issued by the Government of Dubai</field>
+-    <field name="series_si">H.E. Butti Bin Bishr's Passport Issued by the Government of Dubai &gt;&gt; H.E. Butti Bin Bishr's passport issued by the government of Dubai.</field>
++    <field name="series_sim">H.E. Butti Bin Bishr&amp;#39;s Passport Issued by the Government of Dubai</field>
++    <field name="series_si">H.E. Butti Bin Bishr&#39;s Passport Issued by the Government of Dubai &gt;&gt; H.E. Butti Bin Bishr&#39;s passport issued by the government of Dubai.</field>
+     <field name="material_type_sim">Printed Materials</field>
+     <field name="material_type_ssm">Printed Materials</field>
+-    <field name="heading_ssm">H.E. Butti Bin Bishr's passport issued by the government of Dubai.</field>
++    <field name="heading_ssm">H.E. Butti Bin Bishr&#39;s passport issued by the government of Dubai.</field>
+     <field name="unitdate_ssm">7 October 1969</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">821</field>

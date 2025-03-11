@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_1e7010cfef3597abce648a0770ead4f8</field>
+     <field name="parent_ssm">aspace_1e7010cfef3597abce648a0770ead4f8</field>
+-    <field name="parent_unittitles_ssm">Lover's Walk</field>
+-    <field name="parent_unittitles_teim">Lover's Walk</field>
++    <field name="parent_unittitles_ssm">Lover&amp;#39;s Walk</field>
++    <field name="parent_unittitles_teim">Lover&amp;#39;s Walk</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lover's Walk 
+-| Actors in Image: Thuraya Fakhry, Shokry Sarhan</field>
+-    <field name="unittitle_teim">Lover's Walk 
++    <field name="unittitle_ssm">Lover&#39;s Walk 
++| Actors in Image: Thuraya Fakhry, Shokry Sarhan</field>
++    <field name="unittitle_teim">Lover&#39;s Walk 
+ | Actors in Image: Thuraya Fakhry, Shokry Sarhan</field>
+     <field name="unitid_teim">ref89_000003</field>
+     <field name="unitid_ssm">ref89_000003</field>
+@@ -51,13 +51,13 @@
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">Costumes</field>
+-    <field name="dao_teim">Lover's Walk 
+-| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
+-    <field name="dao_teim">Lover's Walk 
+-| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
+-    <field name="dao_ssm">Lover's Walk 
+-| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
+-    <field name="dao_ssm">Lover's Walk 
++    <field name="dao_teim">Lover&#39;s Walk 
++| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
++    <field name="dao_teim">Lover&#39;s Walk 
++| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
++    <field name="dao_ssm">Lover&#39;s Walk 
++| Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
++    <field name="dao_ssm">Lover&#39;s Walk 
+ | Actors in Image: Thuraya Fakhry, Shokry Sarhan: 1957-</field>
+     <field name="ref_ssi">aspace_5d62b659dc5320862e2bb25164e85db3</field>
+     <field name="repository_ssi">akkasah</field>
+@@ -79,13 +79,14 @@
+     <field name="subject_sim">Men</field>
+     <field name="subject_sim">Costumes</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">Lover's Walk</field>
+-    <field name="series_si">Lover's Walk &gt;&gt; Lover's Walk 
++    <field name="series_sim">Lover&amp;#39;s Walk</field>
++    <field name="series_si">Lover&#39;s Walk &gt;&gt; Lover&#39;s Walk 
+ | Actors in Image: Thuraya Fakhry, Shokry Sarhan</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">Lover's Walk 
++    <field name="heading_ssm">Lover&#39;s Walk 
+ | Actors in Image: Thuraya Fakhry, Shokry Sarhan</field>
+     <field name="unitdate_start_sim">1957</field>
+     <field name="unitdate_start_ssm">1957</field>

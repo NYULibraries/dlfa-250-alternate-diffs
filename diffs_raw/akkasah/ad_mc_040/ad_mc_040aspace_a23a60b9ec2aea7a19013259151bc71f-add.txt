@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_040</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">'A trip in Algeria' by H. E. Irving Taylor</field>
+-    <field name="collection_ssm">'A trip in Algeria' by H. E. Irving Taylor</field>
++    <field name="collection_sim">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
++    <field name="collection_ssm">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
+     <field name="collection_unitid_ssm">AD.MC.040</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">A portrait of a woman standing amongst Algerian fennel. </field>
+@@ -63,7 +63,8 @@
+     <field name="subject_sim">Women</field>
+     <field name="subject_sim">Countryside/Rural</field>
+     <field name="subject_sim">Hats</field>
+-    <field name="collection_teim">'A trip in Algeria' by H. E. Irving Taylor</field>
++    <field name="collection_teim">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad, with further additions by Jasmine Soliman in 2023.</field>
+     <field name="collection_unitid_teim">AD.MC.040</field>
+     <field name="series_si">A portrait of a woman standing amongst Algerian fennel. </field>
+     <field name="material_type_sim">Photographic Prints</field>

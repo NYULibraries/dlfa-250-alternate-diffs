@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_12c09fd70f9823d2404878f216031383</field>
+     <field name="parent_ssm">aspace_12c09fd70f9823d2404878f216031383</field>
+-    <field name="parent_unittitles_ssm">People's Gossip</field>
+-    <field name="parent_unittitles_teim">People's Gossip</field>
++    <field name="parent_unittitles_ssm">People&amp;#39;s Gossip</field>
++    <field name="parent_unittitles_teim">People&amp;#39;s Gossip</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">People's Gossip 
+-| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein</field>
+-    <field name="unittitle_teim">People's Gossip 
++    <field name="unittitle_ssm">People&#39;s Gossip 
++| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein</field>
++    <field name="unittitle_teim">People&#39;s Gossip 
+ | Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein</field>
+     <field name="unitid_teim">ref39_000003</field>
+     <field name="unitid_ssm">ref39_000003</field>
+@@ -63,13 +63,13 @@
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Radios</field>
+     <field name="subject_ssm">Hats</field>
+-    <field name="dao_teim">People's Gossip 
+-| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
+-    <field name="dao_teim">People's Gossip 
+-| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
+-    <field name="dao_ssm">People's Gossip 
+-| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
+-    <field name="dao_ssm">People's Gossip 
++    <field name="dao_teim">People&#39;s Gossip 
++| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
++    <field name="dao_teim">People&#39;s Gossip 
++| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
++    <field name="dao_ssm">People&#39;s Gossip 
++| Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
++    <field name="dao_ssm">People&#39;s Gossip 
+ | Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein: 1949-</field>
+     <field name="ref_ssi">aspace_2a56d9ad7e151c7abfe8c83d04f445e4</field>
+     <field name="repository_ssi">akkasah</field>
+@@ -95,13 +95,14 @@
+     <field name="subject_sim">Radios</field>
+     <field name="subject_sim">Hats</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">People's Gossip</field>
+-    <field name="series_si">People's Gossip &gt;&gt; People's Gossip 
++    <field name="series_sim">People&amp;#39;s Gossip</field>
++    <field name="series_si">People&#39;s Gossip &gt;&gt; People&#39;s Gossip 
+ | Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">People's Gossip 
++    <field name="heading_ssm">People&#39;s Gossip 
+ | Actors in Image: Shadya, Ibrahim Hamouda, Mohsen Hassanein</field>
+     <field name="unitdate_start_sim">1949</field>
+     <field name="unitdate_start_ssm">1949</field>

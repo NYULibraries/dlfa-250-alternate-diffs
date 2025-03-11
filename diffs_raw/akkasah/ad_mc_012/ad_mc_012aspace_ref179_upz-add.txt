@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,10 +47,10 @@
+     <field name="subject_ssm">Hats</field>
+     <field name="subject_ssm">Eye Glasses/Sunglasses</field>
+     <field name="subject_ssm">Studio Photography</field>
+-    <field name="dao_teim">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: "Underground Photography Studio." 17.6 x 12.3 cm: Undated</field>
+-    <field name="dao_teim">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: "Underground Photography Studio." 17.6 x 12.3 cm: Undated</field>
+-    <field name="dao_ssm">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: "Underground Photography Studio." 17.6 x 12.3 cm: Undated</field>
+-    <field name="dao_ssm">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: "Underground Photography Studio." 17.6 x 12.3 cm: Undated</field>
++    <field name="dao_teim">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: &#34;Underground Photography Studio.&#34; 17.6 x 12.3 cm: Undated</field>
++    <field name="dao_teim">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: &#34;Underground Photography Studio.&#34; 17.6 x 12.3 cm: Undated</field>
++    <field name="dao_ssm">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: &#34;Underground Photography Studio.&#34; 17.6 x 12.3 cm: Undated</field>
++    <field name="dao_ssm">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. Turkish writing on front: &#34;Underground Photography Studio.&#34; 17.6 x 12.3 cm: Undated</field>
+     <field name="ref_ssi">aspace_ref179_upz</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -74,6 +74,7 @@
+     <field name="subject_sim">Eye Glasses/Sunglasses</field>
+     <field name="subject_sim">Studio Photography</field>
+     <field name="collection_teim">Engin Ozendes Collection</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.012</field>
+     <field name="series_si">Woman in a dark dress and eyeglasses, emerging through a divide in a curtain. 17.6 x 12.3 cm</field>
+     <field name="material_type_sim">Photographic Prints</field>

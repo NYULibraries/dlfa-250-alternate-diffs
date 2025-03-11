@@ -1,0 +1,89 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -3,17 +3,17 @@
+   <doc>
+     <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="author_ssm">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+-    <field name="unittitle_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="unittitle_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="unittitle_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="unittitle_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="unitid_teim">AD.MC.043</field>
+     <field name="unitid_ssm">AD.MC.043</field>
+-    <field name="abstract_teim">A travel album of a trip to Tunisia from Marseille on the ship "Kairouan" circa 1950s, containing 107 gelatin silver photographs. Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douiret, Djerba, Gafsa, Medenine and Kairouan. Creator unknown.</field>
+-    <field name="abstract_ssm">A travel album of a trip to Tunisia from Marseille on the ship "Kairouan" circa 1950s, containing 107 gelatin silver photographs. Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douiret, Djerba, Gafsa, Medenine and Kairouan. Creator unknown.</field>
++    <field name="abstract_teim">A travel album of a trip to Tunisia from Marseille on the ship &#34;Kairouan&#34; circa 1950s, containing 107 gelatin silver photographs. Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douiret, Djerba, Gafsa, Medenine and Kairouan. Creator unknown.</field>
++    <field name="abstract_ssm">A travel album of a trip to Tunisia from Marseille on the ship &#34;Kairouan&#34; circa 1950s, containing 107 gelatin silver photographs. Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douiret, Djerba, Gafsa, Medenine and Kairouan. Creator unknown.</field>
+     <field name="unitdate_normal_ssm">1950/1955</field>
+     <field name="unitdate_normal_teim">1950/1955</field>
+     <field name="unitdate_normal_sim">1950/1955</field>
+     <field name="unitdate_bulk_teim">Circa 1951</field>
+-    <field name="scopecontent_teim">A travel album of Tunisia containing 107 gelatin silver photographs as well as clippings and postcards. The journey from Marseille, France to Tunis, Tunisia, was made on the ship "Kairouan". Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douirot, Djerba, Gafsa, Medenine and Kairouan. The images focus on historical sites, architecture, mosques, a synagogue and the local population - many of these include Tunisian artisans, market traders and agricultural workers. The clippings and postcards mainly depict orientalist tropes.</field>
++    <field name="scopecontent_teim">A travel album of Tunisia containing 107 gelatin silver photographs as well as clippings and postcards. The journey from Marseille, France to Tunis, Tunisia, was made on the ship &#34;Kairouan&#34;. Places visited are: Tunis, Carthage, Sidi Bou Said, Nabeul, Hammamet, Monastie, Mahdia, Sousse,El Djem, Gabes, Sfax, Matmatas, Douirot, Djerba, Gafsa, Medenine and Kairouan. The images focus on historical sites, architecture, mosques, a synagogue and the local population - many of these include Tunisian artisans, market traders and agricultural workers. The clippings and postcards mainly depict orientalist tropes.</field>
+     <field name="bioghist_teim">Creator unknown. Photographs taken during a trip from Marseille to Tunis, circa 1950s. Captions are in French and contain racist and culturally insensitive remarks.</field>
+     <field name="corpname_teim">Akkasah: Photography Archive (NYU Abu Dhabi)</field>
+     <field name="corpname_ssm">Akkasah: Photography Archive (NYU Abu Dhabi)</field>
+@@ -115,9 +115,9 @@
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Regional/National Dress</field>
+     <field name="subject_ssm">Travel</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="id">ad_mc_043</field>
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="repository_ssi">akkasah</field>
+@@ -127,19 +127,19 @@
+     <field name="format_ssm">Archival Collection</field>
+     <field name="format_ii">0</field>
+     <field name="creator_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+-    <field name="creator_ssm">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="creator_ssm">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="creator_ssm">Alain</field>
+     <field name="creator_ssm">Cim - Combier Imprimeur (Jean Combier), Mâcon</field>
+     <field name="creator_ssm">EPA (Éditions Photos Africaines), Alger</field>
+     <field name="creator_ssm">G. Fouquet</field>
+     <field name="creator_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+-    <field name="creator_sim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="creator_sim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="creator_sim">Alain</field>
+     <field name="creator_sim">Cim - Combier Imprimeur (Jean Combier), Mâcon</field>
+     <field name="creator_sim">EPA (Éditions Photos Africaines), Alger</field>
+     <field name="creator_sim">G. Fouquet</field>
+     <field name="name_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+-    <field name="name_sim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="name_sim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="name_sim">Alain</field>
+     <field name="name_sim">Cim - Combier Imprimeur (Jean Combier), Mâcon</field>
+     <field name="name_sim">EPA (Éditions Photos Africaines), Alger</field>
+@@ -146,7 +146,7 @@
+     <field name="name_sim">Lejeune, Nathalie</field>
+     <field name="name_sim">G. Fouquet</field>
+     <field name="name_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+-    <field name="name_teim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="name_teim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="name_teim">Alain</field>
+     <field name="name_teim">Cim - Combier Imprimeur (Jean Combier), Mâcon</field>
+     <field name="name_teim">EPA (Éditions Photos Africaines), Alger</field>
+@@ -263,7 +263,7 @@
+     <field name="material_type_ssm">Newspaper Clippings</field>
+     <field name="material_type_ssm">Postcards</field>
+     <field name="material_type_ssm">Hand-colored Photographs/Hand-tinting</field>
+-    <field name="heading_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="heading_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="unitdate_start_sim">1950</field>
+     <field name="unitdate_start_ssm">1950</field>
+     <field name="unitdate_start_si">1950</field>
+@@ -270,7 +270,7 @@
+     <field name="unitdate_end_sim">1955</field>
+     <field name="unitdate_end_ssm">1955</field>
+     <field name="unitdate_end_si">1955</field>
+-    <field name="unitdate_ssm">Inclusive,  ; Circa 1951</field>
++    <field name="unitdate_ssm">Inclusive, ; Circa 1951</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="language_sim">French</field>
+     <field name="language_ssm">French</field>

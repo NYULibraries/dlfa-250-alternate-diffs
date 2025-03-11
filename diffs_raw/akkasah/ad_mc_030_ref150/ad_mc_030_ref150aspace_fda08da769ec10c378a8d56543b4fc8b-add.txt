@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mediterranean Pilgrimage Association - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref150</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tram Services and Excursions from Parker's Hotel, Naples.</field>
+-    <field name="unittitle_teim">Tram Services and Excursions from Parker's Hotel, Naples.</field>
++    <field name="unittitle_ssm">Tram Services and Excursions from Parker&#39;s Hotel, Naples.</field>
++    <field name="unittitle_teim">Tram Services and Excursions from Parker&#39;s Hotel, Naples.</field>
+     <field name="unitid_teim">ref150_000004</field>
+     <field name="unitid_ssm">ref150_000004</field>
+     <field name="unitdate_normal_ssm">1928/1928</field>
+@@ -49,10 +49,10 @@
+     <field name="subject_ssm">Trams</field>
+     <field name="subject_ssm">Museums</field>
+     <field name="subject_ssm">Archaeological Sites/Artifacts</field>
+-    <field name="dao_teim">Tram Services and Excursions from Parker's Hotel, Naples.: Circa 1928</field>
+-    <field name="dao_teim">Tram Services and Excursions from Parker's Hotel, Naples.: Circa 1928</field>
+-    <field name="dao_ssm">Tram Services and Excursions from Parker's Hotel, Naples.: Circa 1928</field>
+-    <field name="dao_ssm">Tram Services and Excursions from Parker's Hotel, Naples.: Circa 1928</field>
++    <field name="dao_teim">Tram Services and Excursions from Parker&#39;s Hotel, Naples.: Circa 1928</field>
++    <field name="dao_teim">Tram Services and Excursions from Parker&#39;s Hotel, Naples.: Circa 1928</field>
++    <field name="dao_ssm">Tram Services and Excursions from Parker&#39;s Hotel, Naples.: Circa 1928</field>
++    <field name="dao_ssm">Tram Services and Excursions from Parker&#39;s Hotel, Naples.: Circa 1928</field>
+     <field name="ref_ssi">aspace_fda08da769ec10c378a8d56543b4fc8b</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -73,12 +73,13 @@
+     <field name="subject_sim">Museums</field>
+     <field name="subject_sim">Archaeological Sites/Artifacts</field>
+     <field name="collection_teim">Mediterranean Pilgrimage Association - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref150</field>
+     <field name="series_sim">Mediterranean Pilgrimage Association </field>
+-    <field name="series_si">Mediterranean Pilgrimage Association  &gt;&gt; Tram Services and Excursions from Parker's Hotel, Naples.</field>
++    <field name="series_si">Mediterranean Pilgrimage Association  &gt;&gt; Tram Services and Excursions from Parker&#39;s Hotel, Naples.</field>
+     <field name="material_type_sim">Printed Materials</field>
+     <field name="material_type_ssm">Printed Materials</field>
+-    <field name="heading_ssm">Tram Services and Excursions from Parker's Hotel, Naples.</field>
++    <field name="heading_ssm">Tram Services and Excursions from Parker&#39;s Hotel, Naples.</field>
+     <field name="unitdate_start_sim">1928</field>
+     <field name="unitdate_start_ssm">1928</field>
+     <field name="unitdate_start_si">1928</field>
+@@ -85,7 +86,7 @@
+     <field name="unitdate_end_sim">1928</field>
+     <field name="unitdate_end_ssm">1928</field>
+     <field name="unitdate_end_si">1928</field>
+-    <field name="unitdate_ssm">Inclusive,  ; Circa 1928</field>
++    <field name="unitdate_ssm">Inclusive, ; Circa 1928</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">5</field>
+   </doc>

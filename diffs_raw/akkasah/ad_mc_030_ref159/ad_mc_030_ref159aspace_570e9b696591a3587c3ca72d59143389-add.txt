@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -44,10 +44,10 @@
+     <field name="subject_ssm">Outdoors</field>
+     <field name="subject_ssm">Royal Air Force</field>
+     <field name="subject_ssm">Military/Soldiers</field>
+-    <field name="dao_teim">Team Portrait of a hockey team called, 'Depot Hockey XI', : 1936-1939</field>
+-    <field name="dao_teim">Team Portrait of a hockey team called, 'Depot Hockey XI', : 1936-1939</field>
+-    <field name="dao_ssm">Team Portrait of a hockey team called, 'Depot Hockey XI', : 1936-1939</field>
+-    <field name="dao_ssm">Team Portrait of a hockey team called, 'Depot Hockey XI', : 1936-1939</field>
++    <field name="dao_teim">Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, : 1936-1939</field>
++    <field name="dao_teim">Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, : 1936-1939</field>
++    <field name="dao_ssm">Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, : 1936-1939</field>
++    <field name="dao_ssm">Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, : 1936-1939</field>
+     <field name="ref_ssi">aspace_570e9b696591a3587c3ca72d59143389</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,6 +67,7 @@
+     <field name="subject_sim">Royal Air Force</field>
+     <field name="subject_sim">Military/Soldiers</field>
+     <field name="collection_teim">RAF tour on MV Dilwara - compiled by L. Wells - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref159</field>
+     <field name="series_si">Team Portrait of a hockey team.</field>
+     <field name="material_type_sim">Photographic Prints</field>

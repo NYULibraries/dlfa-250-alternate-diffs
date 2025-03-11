@@ -1,0 +1,57 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="collection_unitid_ssm">AD.MC.043</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.</field>
+-    <field name="unittitle_teim">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.</field>
++    <field name="unittitle_ssm">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.</field>
++    <field name="unittitle_teim">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.</field>
+     <field name="unitid_teim">AD_MC_043_ref31</field>
+     <field name="unitid_ssm">AD_MC_043_ref31</field>
+     <field name="unitdate_inclusive_teim">Circa 1950s</field>
+@@ -44,10 +44,10 @@
+     <field name="subject_ssm">Group Portraits</field>
+     <field name="subject_ssm">French Writing</field>
+     <field name="subject_ssm">Fishing</field>
+-    <field name="dao_teim">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.: Circa 1950s</field>
+-    <field name="dao_teim">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.: Circa 1950s</field>
+-    <field name="dao_ssm">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.: Circa 1950s</field>
+-    <field name="dao_ssm">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.: Circa 1950s</field>
++    <field name="dao_teim">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.: Circa 1950s</field>
++    <field name="dao_teim">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.: Circa 1950s</field>
++    <field name="dao_ssm">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.: Circa 1950s</field>
++    <field name="dao_ssm">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.: Circa 1950s</field>
+     <field name="ref_ssi">aspace_7f05ceac438bab9abeb8ff89b8ed765f</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -69,9 +69,10 @@
+     <field name="subject_sim">Group Portraits</field>
+     <field name="subject_sim">French Writing</field>
+     <field name="subject_sim">Fishing</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.043</field>
+-    <field name="series_si">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.</field>
++    <field name="series_si">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Newspaper Clippings</field>
+@@ -78,7 +79,7 @@
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Newspaper Clippings</field>
+-    <field name="heading_ssm">Left: a newspaper clipping captioned "In Sfax, Mahdia and Monastir, there are sponge fishermen's cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.". Right: sponges on the coast.</field>
++    <field name="heading_ssm">Left: a newspaper clipping captioned &#34;In Sfax, Mahdia and Monastir, there are sponge fishermen&#39;s cooperatives. The diving school in Bizerte has renewed the technique of this maritime craft.&#34;. Right: sponges on the coast.</field>
+     <field name="unitdate_ssm">Inclusive, Circa 1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>

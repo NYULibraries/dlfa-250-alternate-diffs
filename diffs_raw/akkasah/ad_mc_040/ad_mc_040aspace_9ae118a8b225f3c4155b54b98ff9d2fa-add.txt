@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_040</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">'A trip in Algeria' by H. E. Irving Taylor</field>
+-    <field name="collection_ssm">'A trip in Algeria' by H. E. Irving Taylor</field>
++    <field name="collection_sim">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
++    <field name="collection_ssm">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
+     <field name="collection_unitid_ssm">AD.MC.040</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A view of the 'modern' section of Biskra taken from the Royal Hotel. </field>
+-    <field name="unittitle_teim">A view of the 'modern' section of Biskra taken from the Royal Hotel. </field>
++    <field name="unittitle_ssm">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. </field>
++    <field name="unittitle_teim">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. </field>
+     <field name="unitid_teim">AD_MC_040_ref29</field>
+     <field name="unitid_ssm">AD_MC_040_ref29</field>
+     <field name="creator_teim">Taylor, H.E. Irving</field>
+@@ -52,10 +52,10 @@
+     <field name="subject_ssm">Camels</field>
+     <field name="subject_ssm">Food</field>
+     <field name="subject_ssm">Statues/Sculptures</field>
+-    <field name="dao_teim">A view of the 'modern' section of Biskra taken from the Royal Hotel. : Jan 1902</field>
+-    <field name="dao_teim">A view of the 'modern' section of Biskra taken from the Royal Hotel. : Jan 1902</field>
+-    <field name="dao_ssm">A view of the 'modern' section of Biskra taken from the Royal Hotel. : Jan 1902</field>
+-    <field name="dao_ssm">A view of the 'modern' section of Biskra taken from the Royal Hotel. : Jan 1902</field>
++    <field name="dao_teim">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. : Jan 1902</field>
++    <field name="dao_teim">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. : Jan 1902</field>
++    <field name="dao_ssm">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. : Jan 1902</field>
++    <field name="dao_ssm">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. : Jan 1902</field>
+     <field name="ref_ssi">aspace_9ae118a8b225f3c4155b54b98ff9d2fa</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -79,14 +79,15 @@
+     <field name="subject_sim">Camels</field>
+     <field name="subject_sim">Food</field>
+     <field name="subject_sim">Statues/Sculptures</field>
+-    <field name="collection_teim">'A trip in Algeria' by H. E. Irving Taylor</field>
++    <field name="collection_teim">&#39;A trip in Algeria&#39; by H. E. Irving Taylor</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad, with further additions by Jasmine Soliman in 2023.</field>
+     <field name="collection_unitid_teim">AD.MC.040</field>
+-    <field name="series_si">A view of the 'modern' section of Biskra taken from the Royal Hotel. </field>
++    <field name="series_si">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">A view of the 'modern' section of Biskra taken from the Royal Hotel. </field>
++    <field name="heading_ssm">A view of the &#39;modern&#39; section of Biskra taken from the Royal Hotel. </field>
+     <field name="unitdate_ssm">Jan 1902</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>

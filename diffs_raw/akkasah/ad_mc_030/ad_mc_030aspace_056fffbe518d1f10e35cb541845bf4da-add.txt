@@ -1,0 +1,56 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hisham Khatib Collection - Prints</field>
+     <field name="collection_unitid_ssm">AD.MC.030</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Fontaine d'Elise - Elisa's fountain.</field>
+-    <field name="unittitle_teim">Fontaine d'Elise - Elisa's fountain.</field>
++    <field name="unittitle_ssm">Fontaine d&#39;Elise - Elisa&#39;s fountain.</field>
++    <field name="unittitle_teim">Fontaine d&#39;Elise - Elisa&#39;s fountain.</field>
+     <field name="unitid_teim">ref389</field>
+     <field name="unitid_ssm">ref389</field>
+     <field name="creator_teim">Bonfils, Felix</field>
+@@ -45,10 +45,10 @@
+     <field name="subject_ssm">Mountains/Hills</field>
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">English Writing</field>
+-    <field name="dao_teim">Fontaine d'Elise - Elisa's fountain.: Circa 1867-1880</field>
+-    <field name="dao_teim">Fontaine d'Elise - Elisa's fountain.: Circa 1867-1880</field>
+-    <field name="dao_ssm">Fontaine d'Elise - Elisa's fountain.: Circa 1867-1880</field>
+-    <field name="dao_ssm">Fontaine d'Elise - Elisa's fountain.: Circa 1867-1880</field>
++    <field name="dao_teim">Fontaine d&#39;Elise - Elisa&#39;s fountain.: Circa 1867-1880</field>
++    <field name="dao_teim">Fontaine d&#39;Elise - Elisa&#39;s fountain.: Circa 1867-1880</field>
++    <field name="dao_ssm">Fontaine d&#39;Elise - Elisa&#39;s fountain.: Circa 1867-1880</field>
++    <field name="dao_ssm">Fontaine d&#39;Elise - Elisa&#39;s fountain.: Circa 1867-1880</field>
+     <field name="ref_ssi">aspace_056fffbe518d1f10e35cb541845bf4da</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,14 +67,15 @@
+     <field name="subject_sim">Men</field>
+     <field name="subject_sim">English Writing</field>
+     <field name="collection_teim">Hisham Khatib Collection - Prints</field>
++    <field name="author_teim">Finding aid prepared by Jasmine Soliman and Jonathan Burr for Akkasah: Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030</field>
+     <field name="series_sim">Palestine, Damascus and Lebanon - Bonfils</field>
+-    <field name="series_si">Palestine, Damascus and Lebanon - Bonfils &gt;&gt; Fontaine d'Elise - Elisa's fountain.</field>
++    <field name="series_si">Palestine, Damascus and Lebanon - Bonfils &gt;&gt; Fontaine d&#39;Elise - Elisa&#39;s fountain.</field>
+     <field name="material_type_sim">Albumen Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Albumen Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Fontaine d'Elise - Elisa's fountain.</field>
++    <field name="heading_ssm">Fontaine d&#39;Elise - Elisa&#39;s fountain.</field>
+     <field name="unitdate_start_sim">1867</field>
+     <field name="unitdate_start_ssm">1867</field>
+     <field name="unitdate_start_si">1867</field>
+@@ -81,7 +82,7 @@
+     <field name="unitdate_end_sim">1880</field>
+     <field name="unitdate_end_ssm">1880</field>
+     <field name="unitdate_end_si">1880</field>
+-    <field name="unitdate_ssm">Inclusive,  ; Circa 1867-1880</field>
++    <field name="unitdate_ssm">Inclusive, ; Circa 1867-1880</field>
+     <field name="date_range_sim">1801-1900</field>
+     <field name="sort_ii">377</field>
+   </doc>

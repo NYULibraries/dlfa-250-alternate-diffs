@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_061</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
+-    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
+     <field name="collection_unitid_ssm">AD.MC.061</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
+-    <field name="unittitle_teim">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
++    <field name="unittitle_ssm">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
++    <field name="unittitle_teim">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
+     <field name="unitid_teim">AD_MC_061_ref3</field>
+     <field name="unitid_ssm">AD_MC_061_ref3</field>
+     <field name="creator_teim">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+@@ -37,10 +37,10 @@
+     <field name="persname_teim">Thomson, John</field>
+     <field name="persname_ssm">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+     <field name="persname_ssm">Thomson, John</field>
+-    <field name="dao_teim">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_teim">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_ssm">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
+-    <field name="dao_ssm">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.': 1890-1891</field>
++    <field name="dao_teim">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_teim">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_ssm">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
++    <field name="dao_ssm">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;: 1890-1891</field>
+     <field name="ref_ssi">aspace_3344fa97e17e6833c9055418a7ebcf86</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -66,10 +66,11 @@
+     <field name="place_sim">Yerevan (Armenia)</field>
+     <field name="place_sim">Istanbul, Turkey</field>
+     <field name="place_sim">Tbilisi, Georgia</field>
+-    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.061</field>
+-    <field name="series_si">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
+-    <field name="heading_ssm">A blank page in the album 'Photographs of Iran, Iraq, Caucasus, and Turkey.'</field>
++    <field name="series_si">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
++    <field name="heading_ssm">A blank page in the album &#39;Photographs of Iran, Iraq, Caucasus, and Turkey.&#39;</field>
+     <field name="unitdate_start_sim">1890</field>
+     <field name="unitdate_start_ssm">1890</field>
+     <field name="unitdate_start_si">1890</field>

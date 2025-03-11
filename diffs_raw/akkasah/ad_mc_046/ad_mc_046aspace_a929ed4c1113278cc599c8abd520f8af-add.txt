@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Iraq and Kurdistan - compiled by an RAF serviceman</field>
+     <field name="collection_unitid_ssm">AD.MC.046</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A group portrait of nine children, captioned "Assyrian children."</field>
+-    <field name="unittitle_teim">A group portrait of nine children, captioned "Assyrian children."</field>
++    <field name="unittitle_ssm">A group portrait of nine children, captioned &#34;Assyrian children.&#34;</field>
++    <field name="unittitle_teim">A group portrait of nine children, captioned &#34;Assyrian children.&#34;</field>
+     <field name="unitid_teim">AD_MC_046_ref14</field>
+     <field name="unitid_ssm">AD_MC_046_ref14</field>
+     <field name="creator_teim">Wells, Les, Active 1929 - 1939</field>
+@@ -55,8 +55,8 @@
+     <field name="subject_ssm">Hats</field>
+     <field name="subject_ssm">Countryside/Rural</field>
+     <field name="subject_ssm">English Writing</field>
+-    <field name="dao_teim">A group portrait of nine children, captioned "Assyrian children.": Circa 1936-1938</field>
+-    <field name="dao_ssm">A group portrait of nine children, captioned "Assyrian children.": Circa 1936-1938</field>
++    <field name="dao_teim">A group portrait of nine children, captioned &#34;Assyrian children.&#34;: Circa 1936-1938</field>
++    <field name="dao_ssm">A group portrait of nine children, captioned &#34;Assyrian children.&#34;: Circa 1936-1938</field>
+     <field name="ref_ssi">aspace_a929ed4c1113278cc599c8abd520f8af</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -81,13 +81,14 @@
+     <field name="subject_sim">Countryside/Rural</field>
+     <field name="subject_sim">English Writing</field>
+     <field name="collection_teim">Iraq and Kurdistan - compiled by an RAF serviceman</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr, with assistance from Emily Broad, for Akkasah: Center for Photography at NYUAD </field>
+     <field name="collection_unitid_teim">AD.MC.046</field>
+-    <field name="series_si">A group portrait of nine children, captioned "Assyrian children."</field>
++    <field name="series_si">A group portrait of nine children, captioned &#34;Assyrian children.&#34;</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">A group portrait of nine children, captioned "Assyrian children."</field>
++    <field name="heading_ssm">A group portrait of nine children, captioned &#34;Assyrian children.&#34;</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>
+     <field name="unitdate_start_si">1936</field>

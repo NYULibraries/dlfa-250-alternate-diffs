@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Boys' gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
+-    <field name="unittitle_teim">Boys' gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
++    <field name="unittitle_ssm">Boys&#39; gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
++    <field name="unittitle_teim">Boys&#39; gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
+     <field name="unitdate_teim">1950</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -45,10 +45,10 @@
+     <field name="subject_ssm">Boys</field>
+     <field name="subject_ssm">Schools/Education</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">Boys' gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
+-    <field name="dao_teim">Boys' gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
+-    <field name="dao_ssm">Boys' gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
+-    <field name="dao_ssm">Boys' gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
++    <field name="dao_teim">Boys&#39; gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
++    <field name="dao_teim">Boys&#39; gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
++    <field name="dao_ssm">Boys&#39; gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
++    <field name="dao_ssm">Boys&#39; gymnastics class with Father Rodrigo. 9.1 cm x 13.8 cm: 1950</field>
+     <field name="ref_ssi">aspace_ref9_9ev</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -70,13 +70,14 @@
+     <field name="subject_sim">Schools/Education</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">Boys' gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
++    <field name="series_si">Boys&#39; gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Boys' gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
++    <field name="heading_ssm">Boys&#39; gymnastics class with Father Rodrigo. 9.1 x 13.8 cm</field>
+     <field name="unitdate_ssm">1950</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

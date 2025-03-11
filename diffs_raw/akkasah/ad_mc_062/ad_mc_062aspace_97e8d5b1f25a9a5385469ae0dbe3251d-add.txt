@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Orientreise 1898</field>
+     <field name="collection_unitid_ssm">AD.MC.062</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.</field>
+-    <field name="unittitle_teim">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.</field>
++    <field name="unittitle_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.</field>
++    <field name="unittitle_teim">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.</field>
+     <field name="unitid_teim">AD_MC_062_ref42</field>
+     <field name="unitid_ssm">AD_MC_062_ref42</field>
+     <field name="unitdate_teim">1898</field>
+@@ -44,8 +44,8 @@
+     <field name="subject_ssm">Buildings</field>
+     <field name="subject_ssm">Mountains/Hills</field>
+     <field name="subject_ssm">Water</field>
+-    <field name="dao_teim">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.: 1898</field>
+-    <field name="dao_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.: 1898</field>
++    <field name="dao_teim">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.: 1898</field>
++    <field name="dao_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.: 1898</field>
+     <field name="ref_ssi">aspace_97e8d5b1f25a9a5385469ae0dbe3251d</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -66,13 +66,14 @@
+     <field name="subject_sim">Mountains/Hills</field>
+     <field name="subject_sim">Water</field>
+     <field name="collection_teim">Orientreise 1898</field>
++    <field name="author_teim">Jasmine Soliman, Jonathan Burr and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.062</field>
+-    <field name="series_si">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.</field>
++    <field name="series_si">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the "Auguste-Victoria" ship.</field>
++    <field name="heading_ssm">Top: a view of three boats off the coast of Palermo near Mount Pellegrino. Bottom: a body of water with ships and a city in the distance, taken from the &#34;Auguste-Victoria&#34; ship.</field>
+     <field name="unitdate_ssm">1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">41</field>

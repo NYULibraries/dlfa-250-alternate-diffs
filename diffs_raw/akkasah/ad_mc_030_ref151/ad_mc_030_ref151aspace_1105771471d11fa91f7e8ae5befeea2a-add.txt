@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">A Tour of Palestine, 1903 - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jacob's Well.</field>
+-    <field name="unittitle_teim">Jacob's Well.</field>
++    <field name="unittitle_ssm">Jacob&#39;s Well.</field>
++    <field name="unittitle_teim">Jacob&#39;s Well.</field>
+     <field name="unitid_teim">ref151_000010</field>
+     <field name="unitid_ssm">ref151_000010</field>
+     <field name="unitdate_normal_ssm">1903/1903</field>
+@@ -56,10 +56,10 @@
+     <field name="subject_ssm">Buildings</field>
+     <field name="subject_ssm">Regional/National Dress</field>
+     <field name="subject_ssm">Hats</field>
+-    <field name="dao_teim">Jacob's Well.: March 1903</field>
+-    <field name="dao_teim">Jacob's Well.: March 1903</field>
+-    <field name="dao_ssm">Jacob's Well.: March 1903</field>
+-    <field name="dao_ssm">Jacob's Well.: March 1903</field>
++    <field name="dao_teim">Jacob&#39;s Well.: March 1903</field>
++    <field name="dao_teim">Jacob&#39;s Well.: March 1903</field>
++    <field name="dao_ssm">Jacob&#39;s Well.: March 1903</field>
++    <field name="dao_ssm">Jacob&#39;s Well.: March 1903</field>
+     <field name="ref_ssi">aspace_1105771471d11fa91f7e8ae5befeea2a</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -83,14 +83,15 @@
+     <field name="subject_sim">Regional/National Dress</field>
+     <field name="subject_sim">Hats</field>
+     <field name="collection_teim">A Tour of Palestine, 1903 - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD </field>
+     <field name="collection_unitid_teim">AD.MC.030_ref151</field>
+     <field name="series_sim">A Tour of Palestine, 1903 </field>
+-    <field name="series_si">A Tour of Palestine, 1903  &gt;&gt; Jacob's Well.</field>
++    <field name="series_si">A Tour of Palestine, 1903  &gt;&gt; Jacob&#39;s Well.</field>
+     <field name="material_type_sim">Albumen Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Albumen Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Jacob's Well.</field>
++    <field name="heading_ssm">Jacob&#39;s Well.</field>
+     <field name="unitdate_start_sim">1903</field>
+     <field name="unitdate_start_ssm">1903</field>
+     <field name="unitdate_start_si">1903</field>

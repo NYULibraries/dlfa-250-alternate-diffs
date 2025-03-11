@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm</field>
+-    <field name="unittitle_teim">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm</field>
++    <field name="unittitle_ssm">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm</field>
++    <field name="unittitle_teim">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm</field>
+     <field name="unitdate_teim">1888</field>
+     <field name="genreform_teim">Postcards</field>
+     <field name="genreform_ssm">Postcards</field>
+@@ -37,10 +37,10 @@
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm: 1888</field>
+-    <field name="dao_teim">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm: 1888</field>
+-    <field name="dao_ssm">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm: 1888</field>
+-    <field name="dao_ssm">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm: 1888</field>
++    <field name="dao_teim">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm: 1888</field>
++    <field name="dao_teim">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm: 1888</field>
++    <field name="dao_ssm">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm: 1888</field>
++    <field name="dao_ssm">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm: 1888</field>
+     <field name="ref_ssi">aspace_ref893_u12</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -60,11 +60,12 @@
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm</field>
++    <field name="series_si">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm</field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_ssm">Postcards</field>
+-    <field name="heading_ssm">Postcard of "The first establishment for sulphureous baths". 15 x 10.5 cm</field>
++    <field name="heading_ssm">Postcard of &#34;The first establishment for sulphureous baths&#34;. 15 x 10.5 cm</field>
+     <field name="unitdate_ssm">1888</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">891</field>

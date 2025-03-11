@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Ozge Calafato Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">402 T - Jeune Mauresque - Postcard of a "young Moorish woman" standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
+-    <field name="unittitle_teim">402 T - Jeune Mauresque - Postcard of a "young Moorish woman" standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
++    <field name="unittitle_ssm">402 T - Jeune Mauresque - Postcard of a &#34;young Moorish woman&#34; standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
++    <field name="unittitle_teim">402 T - Jeune Mauresque - Postcard of a &#34;young Moorish woman&#34; standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
+     <field name="unitdate_teim">18 May 1915</field>
+     <field name="genreform_teim">Postcards</field>
+     <field name="genreform_ssm">Postcards</field>
+@@ -52,11 +52,12 @@
+     <field name="subject_sim">The Moors</field>
+     <field name="subject_sim">Signatures</field>
+     <field name="collection_teim">Ozge Calafato Collection</field>
++    <field name="author_teim">Ozge Calafato, Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.007</field>
+-    <field name="series_si">402 T - Jeune Mauresque - Postcard of a "young Moorish woman" standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
++    <field name="series_si">402 T - Jeune Mauresque - Postcard of a &#34;young Moorish woman&#34; standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_ssm">Postcards</field>
+-    <field name="heading_ssm">402 T - Jeune Mauresque - Postcard of a "young Moorish woman" standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
++    <field name="heading_ssm">402 T - Jeune Mauresque - Postcard of a &#34;young Moorish woman&#34; standing in front of a wall. French writing on the front and back.13.9 x 9.0 cm</field>
+     <field name="unitdate_ssm">18 May 1915</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">683</field>

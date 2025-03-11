@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Orientreise 1898</field>
+     <field name="collection_unitid_ssm">AD.MC.062</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The inside back cover of the album 'Orientreise, 1898'.</field>
+-    <field name="unittitle_teim">The inside back cover of the album 'Orientreise, 1898'.</field>
++    <field name="unittitle_ssm">The inside back cover of the album &#39;Orientreise, 1898&#39;.</field>
++    <field name="unittitle_teim">The inside back cover of the album &#39;Orientreise, 1898&#39;.</field>
+     <field name="unitid_teim">AD_MC_062_ref55</field>
+     <field name="unitid_ssm">AD_MC_062_ref55</field>
+     <field name="unitdate_teim">1898</field>
+@@ -28,8 +28,8 @@
+     <field name="geogname_ssm">Syria</field>
+     <field name="geogname_ssm">Italy</field>
+     <field name="geogname_ssm">Istanbul, Turkey</field>
+-    <field name="dao_teim">The inside back cover of the album 'Orientreise, 1898'.: 1898</field>
+-    <field name="dao_ssm">The inside back cover of the album 'Orientreise, 1898'.: 1898</field>
++    <field name="dao_teim">The inside back cover of the album &#39;Orientreise, 1898&#39;.: 1898</field>
++    <field name="dao_ssm">The inside back cover of the album &#39;Orientreise, 1898&#39;.: 1898</field>
+     <field name="ref_ssi">aspace_5f01086457a9586c03738ff288d68917</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -54,9 +54,10 @@
+     <field name="place_sim">Italy</field>
+     <field name="place_sim">Istanbul, Turkey</field>
+     <field name="collection_teim">Orientreise 1898</field>
++    <field name="author_teim">Jasmine Soliman, Jonathan Burr and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.062</field>
+-    <field name="series_si">The inside back cover of the album 'Orientreise, 1898'.</field>
+-    <field name="heading_ssm">The inside back cover of the album 'Orientreise, 1898'.</field>
++    <field name="series_si">The inside back cover of the album &#39;Orientreise, 1898&#39;.</field>
++    <field name="heading_ssm">The inside back cover of the album &#39;Orientreise, 1898&#39;.</field>
+     <field name="unitdate_ssm">1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">54</field>
