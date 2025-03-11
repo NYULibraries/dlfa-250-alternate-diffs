@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">My Barbarian presents "Ashik Kerib," - Introduction and Q&amp;amp;A</field>
+-    <field name="unittitle_teim">My Barbarian presents "Ashik Kerib," - Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">My Barbarian presents &#34;Ashik Kerib,&#34; - Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">My Barbarian presents &#34;Ashik Kerib,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0057</field>
+     <field name="unitid_ssm">ID: 327.0057</field>
+     <field name="unitdate_normal_ssm">2013/2013</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">March 18, 2013</field>
+     <field name="scopecontent_teim">Featured: Adam Baran (Introduction, Q&amp;A), Ira Sachs (Introduction, Q&amp;A), Alex Segade and Malik Gaines of My Barbarian (Introduction, Q&amp;A)</field>
+     <field name="scopecontent_teim">Videographer: Jackie Zimmerman</field>
+-    <field name="scopecontent_teim">Program Content: The Los Angeles-based performance group My Barbarian presents "Ashik Kerib," the last completed film by Sergei Parajanov ("The Color of Pomegranates"). The director was influential on My Barbarian, in large part because of his "ability to imbue depictions of folk cultural forms with a queer sensibility and magical eroticism in the face of Soviet power."</field>
++    <field name="scopecontent_teim">Program Content: The Los Angeles-based performance group My Barbarian presents &#34;Ashik Kerib,&#34; the last completed film by Sergei Parajanov (&#34;The Color of Pomegranates&#34;). The director was influential on My Barbarian, in large part because of his &#34;ability to imbue depictions of folk cultural forms with a queer sensibility and magical eroticism in the face of Soviet power.&#34;</field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: unknown</field>
+     <field name="ref_ssi">aspace_ref227</field>
+@@ -38,11 +38,12 @@
+     <field name="location_ssm">Box: 2, Media: ID: 327.0057</field>
+     <field name="location_si">Box: 2, Media: ID: 327.0057</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; My Barbarian presents "Ashik Kerib," - Introduction and Q&amp;amp;A</field>
+-    <field name="heading_ssm">My Barbarian presents "Ashik Kerib," - Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; My Barbarian presents &#34;Ashik Kerib,&#34; - Introduction and Q&amp;A</field>
++    <field name="heading_ssm">My Barbarian presents &#34;Ashik Kerib,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2013</field>
+     <field name="unitdate_start_ssm">2013</field>
+     <field name="unitdate_start_si">2013</field>

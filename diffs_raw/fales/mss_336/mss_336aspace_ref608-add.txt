@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwall Foundation Archive</field>
+     <field name="collection_unitid_ssm">MSS.336</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Bruce Odland - "Time Tunnels"</field>
+-    <field name="unittitle_teim">Bruce Odland - "Time Tunnels"</field>
++    <field name="unittitle_ssm">Bruce Odland - &#34;Time Tunnels&#34;</field>
++    <field name="unittitle_teim">Bruce Odland - &#34;Time Tunnels&#34;</field>
+     <field name="unitid_teim">ID: 336.0054</field>
+     <field name="unitid_ssm">ID: 336.0054</field>
+     <field name="unitdate_teim">undated</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: Shared Fales 063, Media: ID: 336.0054</field>
+     <field name="location_si">Box: Shared Fales 063, Media: ID: 336.0054</field>
+     <field name="collection_teim">Greenwall Foundation Archive</field>
++    <field name="author_teim">Laura Newsome</field>
+     <field name="collection_unitid_teim">MSS.336</field>
+     <field name="series_sim">Series II: Media</field>
+     <field name="series_sim">Subseries A: Media</field>
+-    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; Bruce Odland - "Time Tunnels"</field>
+-    <field name="heading_ssm">Bruce Odland - "Time Tunnels"</field>
++    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; Bruce Odland - &#34;Time Tunnels&#34;</field>
++    <field name="heading_ssm">Bruce Odland - &#34;Time Tunnels&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">460</field>

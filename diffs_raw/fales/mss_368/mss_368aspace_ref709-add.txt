@@ -1,0 +1,56 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.368</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Alice's Adventures Under Ground:
+-Excerpts from the Original Lewis Carroll
+-Manuscript in the British Museum
+-</field>
+-    <field name="unittitle_teim">Alice's Adventures Under Ground:
++    <field name="unittitle_ssm">Alice&#39;s Adventures Under Ground:
++Excerpts from the Original Lewis Carroll
++Manuscript in the British Museum
++</field>
++    <field name="unittitle_teim">Alice&#39;s Adventures Under Ground:
+ Excerpts from the Original Lewis Carroll
+ Manuscript in the British Museum
+ </field>
+@@ -30,11 +30,11 @@
+     <field name="unitdate_normal_teim">1965/1965</field>
+     <field name="unitdate_normal_sim">1965/1965</field>
+     <field name="unitdate_inclusive_teim">1965</field>
+-    <field name="scopecontent_teim">Title:  Alice's Adventures Under Ground: Excerpts from the Original Lewis Carroll Manuscript in the British Museum</field>
+-    <field name="scopecontent_teim">Description: Circular jigsaw-puzzle, publisher's circular (cylindrical) box 14¼ inches (diameter) printed in
++    <field name="scopecontent_teim">Title:  Alice&#39;s Adventures Under Ground: Excerpts from the Original Lewis Carroll Manuscript in the British Museum</field>
++    <field name="scopecontent_teim">Description: Circular jigsaw-puzzle, publisher&#39;s circular (cylindrical) box 14¼ inches (diameter) printed in
+ black and white-reserve on salmon-pink ground.</field>
+     <field name="scopecontent_teim">
+-Dimensions:  20.25" diameter</field>
++Dimensions:  20.25&#34; diameter</field>
+     <field name="ref_ssi">aspace_ref709</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -44,14 +44,15 @@
+     <field name="location_ssm">Box: 26, Item: 1</field>
+     <field name="location_si">Box: 26, Item: 1</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+     <field name="series_sim">Subseries B: Print Ephemera</field>
+-    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Alice's Adventures Under Ground:
+-Excerpts from the Original Lewis Carroll
+-Manuscript in the British Museum
+-</field>
+-    <field name="heading_ssm">Alice's Adventures Under Ground:
++    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Alice&#39;s Adventures Under Ground:
++Excerpts from the Original Lewis Carroll
++Manuscript in the British Museum
++</field>
++    <field name="heading_ssm">Alice&#39;s Adventures Under Ground:
+ Excerpts from the Original Lewis Carroll
+ Manuscript in the British Museum
+ </field>

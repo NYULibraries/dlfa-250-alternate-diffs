@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" </field>
+-    <field name="unittitle_teim">Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" </field>
++    <field name="unittitle_ssm">Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; </field>
++    <field name="unittitle_teim">Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; </field>
+     <field name="unitid_teim">cuid3680</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/511653</field>
+     <field name="unitid_ssm">cuid3680</field>
+@@ -29,8 +29,8 @@
+     <field name="unitdate_normal_teim">1893/1900</field>
+     <field name="unitdate_normal_sim">1893/1900</field>
+     <field name="unitdate_inclusive_teim">1893 October</field>
+-    <field name="dao_teim">Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" : 1893 October</field>
+-    <field name="dao_ssm">Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" : 1893 October</field>
++    <field name="dao_teim">Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; : 1893 October</field>
++    <field name="dao_ssm">Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; : 1893 October</field>
+     <field name="ref_ssi">aspace_ref4051</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,12 +41,13 @@
+     <field name="location_si">Box: 96, Folder: 2</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series C: Phoebe Dayton Gardiner Horsford</field>
+     <field name="series_sim">Subseries 2: Financial and Legal </field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 2: Financial and Legal  &gt;&gt; Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" </field>
+-    <field name="heading_ssm">Account Book: "Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company" </field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 2: Financial and Legal  &gt;&gt; Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; </field>
++    <field name="heading_ssm">Account Book: &#34;Valuations Made for Phoebe [Dayton Gardiner] Horsford by Lee, Higginson and Company&#34; </field>
+     <field name="unitdate_start_sim">1893</field>
+     <field name="unitdate_start_ssm">1893</field>
+     <field name="unitdate_start_si">1893</field>

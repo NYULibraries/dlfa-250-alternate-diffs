@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NYS Governor's Office for M.R. and T.V. Development</field>
+-    <field name="unittitle_teim">NYS Governor's Office for M.R. and T.V. Development</field>
++    <field name="unittitle_ssm">NYS Governor&#39;s Office for M.R. and T.V. Development</field>
++    <field name="unittitle_teim">NYS Governor&#39;s Office for M.R. and T.V. Development</field>
+     <field name="unitdate_normal_ssm">1998/1998</field>
+     <field name="unitdate_normal_teim">1998/1998</field>
+     <field name="unitdate_normal_sim">1998/1998</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 93, Folder: 67</field>
+     <field name="location_si">Box: 93, Folder: 67</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series VII. Fiscal Sponsorship</field>
+     <field name="series_sim">Subseries B. Emerging Organizations</field>
+-    <field name="series_si">Series VII. Fiscal Sponsorship &gt;&gt; Subseries B. Emerging Organizations &gt;&gt; NYS Governor's Office for M.R. and T.V. Development</field>
+-    <field name="heading_ssm">NYS Governor's Office for M.R. and T.V. Development</field>
++    <field name="series_si">Series VII. Fiscal Sponsorship &gt;&gt; Subseries B. Emerging Organizations &gt;&gt; NYS Governor&#39;s Office for M.R. and T.V. Development</field>
++    <field name="heading_ssm">NYS Governor&#39;s Office for M.R. and T.V. Development</field>
+     <field name="unitdate_start_sim">1998</field>
+     <field name="unitdate_start_ssm">1998</field>
+     <field name="unitdate_start_si">1998</field>

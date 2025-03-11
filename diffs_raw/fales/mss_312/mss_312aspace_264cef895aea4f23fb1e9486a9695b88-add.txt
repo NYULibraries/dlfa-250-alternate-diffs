@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;America Behind Bars&lt;/em&gt; -- "The Last Graduation" </field>
+-    <field name="unittitle_teim">America Behind Bars -- "The Last Graduation" </field>
++    <field name="unittitle_ssm">&lt;em&gt;America Behind Bars&lt;/em&gt; -- &#34;The Last Graduation&#34; </field>
++    <field name="unittitle_teim">America Behind Bars -- &#34;The Last Graduation&#34; </field>
+     <field name="unitid_teim">cuid39376</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974599</field>
+     <field name="unitid_ssm">cuid39376</field>
+@@ -24,8 +24,8 @@
+     <field name="unitdate_normal_sim">1996/2001</field>
+     <field name="unitdate_inclusive_teim">Circa 1996-2001</field>
+     <field name="scopecontent_teim">Produced by Zahm Productions and Deep Dish Television</field>
+-    <field name="dao_teim">America Behind Bars -- "The Last Graduation" : Circa 1996-2001</field>
+-    <field name="dao_ssm">America Behind Bars -- "The Last Graduation" : Circa 1996-2001</field>
++    <field name="dao_teim">America Behind Bars -- &#34;The Last Graduation&#34; : Circa 1996-2001</field>
++    <field name="dao_ssm">America Behind Bars -- &#34;The Last Graduation&#34; : Circa 1996-2001</field>
+     <field name="ref_ssi">aspace_264cef895aea4f23fb1e9486a9695b88</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -42,10 +42,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_116</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;America Behind Bars&lt;/em&gt; -- "The Last Graduation" </field>
+-    <field name="heading_ssm">America Behind Bars -- "The Last Graduation" </field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;America Behind Bars&lt;/em&gt; -- &#34;The Last Graduation&#34; </field>
++    <field name="heading_ssm">America Behind Bars -- &#34;The Last Graduation&#34; </field>
+     <field name="unitdate_start_sim">1996</field>
+     <field name="unitdate_start_ssm">1996</field>
+     <field name="unitdate_start_si">1996</field>

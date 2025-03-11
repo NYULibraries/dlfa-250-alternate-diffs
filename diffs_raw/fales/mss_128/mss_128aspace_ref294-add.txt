@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+     <field name="collection_unitid_ssm">MSS.128</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Slammin'</field>
+-    <field name="unittitle_teim">Slammin'</field>
++    <field name="unittitle_ssm">Slammin&#39;</field>
++    <field name="unittitle_teim">Slammin&#39;</field>
+     <field name="unitid_teim">ID: 128.0123</field>
+     <field name="unitid_ssm">ID: 128.0123</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 5, Media: ID: 128.0123</field>
+     <field name="location_si">Box: 5, Media: ID: 128.0123</field>
+     <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
++    <field name="author_teim">Zachary Dabbs, 2009; collection processed by Brent Phillips, 2009. Media updates by Rhyannon Rodriguez, 2009.</field>
+     <field name="collection_unitid_teim">MSS.128</field>
+     <field name="series_sim">Series I: Spoken Word Tapes of/ Produced by Bob Holman</field>
+     <field name="series_sim">Subseries B: Originals  (Video)</field>
+-    <field name="series_si">Series I: Spoken Word Tapes of/ Produced by Bob Holman &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Slammin'</field>
+-    <field name="heading_ssm">Slammin'</field>
++    <field name="series_si">Series I: Spoken Word Tapes of/ Produced by Bob Holman &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Slammin&#39;</field>
++    <field name="heading_ssm">Slammin&#39;</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">145</field>

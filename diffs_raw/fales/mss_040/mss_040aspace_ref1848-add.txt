@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitid_ssm">ID: 040.0291</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/398962</field>
+     <field name="unitdate_teim">October 4, 2007</field>
+-    <field name="phystech_teim">Original Format: 1/4" audiocassette, Sony HF 60</field>
++    <field name="phystech_teim">Original Format: 1/4&#34; audiocassette, Sony HF 60</field>
+     <field name="phystech_teim">Duration: 9 minutes</field>
+     <field name="ref_ssi">aspace_ref1848</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,9 +32,10 @@
+     <field name="location_ssm">case: 040.0291</field>
+     <field name="location_si">case: 040.0291</field>
+     <field name="collection_teim">John Canemaker Animation Collection</field>
++    <field name="author_teim">Robert A. Landau (1992). Updated: Daniel Sokolow (1997), Michael Zimmer (2003-2004), YZ Chin (2008), and Timothy M. Woitas (2013).</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+     <field name="series_sim">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection</field>
+-    <field name="series_si">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection &gt;&gt; Diane Castrup, New York City</field>
++    <field name="series_si">Accretions 2012 - Series V: Audio &amp; Video Tape Collection &gt;&gt; Diane Castrup, New York City</field>
+     <field name="heading_ssm">Diane Castrup, New York City</field>
+     <field name="unitdate_ssm">October 4, 2007</field>
+     <field name="date_range_sim">undated &amp; other</field>

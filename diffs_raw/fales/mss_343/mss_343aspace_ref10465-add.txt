@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sagan, Francoise: "la vie immediate" Press Release</field>
+-    <field name="unittitle_teim">Sagan, Francoise: "la vie immediate" Press Release</field>
++    <field name="unittitle_ssm">Sagan, Francoise: &#34;la vie immediate&#34; Press Release</field>
++    <field name="unittitle_teim">Sagan, Francoise: &#34;la vie immediate&#34; Press Release</field>
+     <field name="unitid_teim">cuid14683</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/568101</field>
+     <field name="unitid_ssm">cuid14683</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 341, Folder: 11</field>
+     <field name="location_si">Box: 341, Folder: 11</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series IV: Artists Files </field>
+-    <field name="series_si">Series IV: Artists Files  &gt;&gt; Sagan, Francoise: "la vie immediate" Press Release</field>
+-    <field name="heading_ssm">Sagan, Francoise: "la vie immediate" Press Release</field>
++    <field name="series_si">Series IV: Artists Files  &gt;&gt; Sagan, Francoise: &#34;la vie immediate&#34; Press Release</field>
++    <field name="heading_ssm">Sagan, Francoise: &#34;la vie immediate&#34; Press Release</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5154</field>

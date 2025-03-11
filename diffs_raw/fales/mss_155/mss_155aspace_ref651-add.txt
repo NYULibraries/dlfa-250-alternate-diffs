@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Jaime Davidovich Collection</field>
+     <field name="collection_unitid_ssm">MSS.155</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Jaime Davidovich to Kim Smith. File labeled "Saludos Ameigos '85, N.J. Paik."</field>
+-    <field name="unittitle_teim">Jaime Davidovich to Kim Smith. File labeled "Saludos Ameigos '85, N.J. Paik."</field>
++    <field name="unittitle_ssm">Jaime Davidovich to Kim Smith. File labeled &#34;Saludos Ameigos &#39;85, N.J. Paik.&#34;</field>
++    <field name="unittitle_teim">Jaime Davidovich to Kim Smith. File labeled &#34;Saludos Ameigos &#39;85, N.J. Paik.&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/478994</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/478994</field>
+     <field name="unitdate_teim">1986</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 13, Folder: 648</field>
+     <field name="location_si">Box: 13, Folder: 648</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series III: The Live! Show</field>
+     <field name="series_sim">Subseries F: Correspondence</field>
+-    <field name="series_si">Series III: The Live! Show &gt;&gt; Subseries F: Correspondence &gt;&gt; Jaime Davidovich to Kim Smith. File labeled "Saludos Ameigos '85, N.J. Paik."</field>
+-    <field name="heading_ssm">Jaime Davidovich to Kim Smith. File labeled "Saludos Ameigos '85, N.J. Paik."</field>
++    <field name="series_si">Series III: The Live! Show &gt;&gt; Subseries F: Correspondence &gt;&gt; Jaime Davidovich to Kim Smith. File labeled &#34;Saludos Ameigos &#39;85, N.J. Paik.&#34;</field>
++    <field name="heading_ssm">Jaime Davidovich to Kim Smith. File labeled &#34;Saludos Ameigos &#39;85, N.J. Paik.&#34;</field>
+     <field name="unitdate_ssm">1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">640</field>

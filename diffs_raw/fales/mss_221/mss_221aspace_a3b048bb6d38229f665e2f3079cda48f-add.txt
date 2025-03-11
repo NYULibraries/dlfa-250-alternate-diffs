@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -29,8 +29,7 @@
+     <field name="unitdate_normal_sim">1989-10-10/1989-10-10</field>
+     <field name="unitdate_normal_sim">2018-05/2018-05</field>
+     <field name="unitdate_teim">1989-10-10</field>
+-    <field name="unitdate_teim"> </field>
+-    <field name="phystech_teim">1/8" audiocassette, 107 minutes</field>
++    <field name="phystech_teim">1/8&#34; audiocassette, 107 minutes</field>
+     <field name="ref_ssi">aspace_a3b048bb6d38229f665e2f3079cda48f</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -40,6 +39,7 @@
+     <field name="location_ssm">Box: 120, Cassette: cuid7161</field>
+     <field name="location_si">Box: 120, Cassette: cuid7161</field>
+     <field name="collection_teim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
++    <field name="author_teim">Christine M. Woody; data entry completed by Laura Newsome and Liza Harrell-Edge, 2011.</field>
+     <field name="collection_unitid_teim">MSS.221</field>
+     <field name="series_sim">Series XI: Audio</field>
+     <field name="series_sim">Subseries B: Originals - Audio</field>

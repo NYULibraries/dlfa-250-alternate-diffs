@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mueller's Egg Noodles; Mount Vernon Cream Company</field>
+-    <field name="unittitle_teim">Mueller's Egg Noodles; Mount Vernon Cream Company</field>
++    <field name="unittitle_ssm">Mueller&#39;s Egg Noodles; Mount Vernon Cream Company</field>
++    <field name="unittitle_teim">Mueller&#39;s Egg Noodles; Mount Vernon Cream Company</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729736</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729736</field>
+     <field name="unitdate_normal_ssm">1900/1929</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1900/1929</field>
+     <field name="unitdate_inclusive_teim">circa 1900, circa 1920s</field>
+     <field name="scopecontent_teim">Mount Vernon Cream Co. Mount Vernon Milk Recipe Book. Seattle, WA: Mount Vernon Cream Co., undated.</field>
+-    <field name="scopecontent_teim"> Mueller's Egg Noodles. Mueller's Modern Process Egg Noodles. Place of publication unknown: Mueller's Egg Noodles, undated.</field>
++    <field name="scopecontent_teim"> Mueller&#39;s Egg Noodles. Mueller&#39;s Modern Process Egg Noodles. Place of publication unknown: Mueller&#39;s Egg Noodles, undated.</field>
+     <field name="ref_ssi">aspace_ref1029</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 26, Folder: 12</field>
+     <field name="location_si">Box: 26, Folder: 12</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Mueller's Egg Noodles; Mount Vernon Cream Company</field>
+-    <field name="heading_ssm">Mueller's Egg Noodles; Mount Vernon Cream Company</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Mueller&#39;s Egg Noodles; Mount Vernon Cream Company</field>
++    <field name="heading_ssm">Mueller&#39;s Egg Noodles; Mount Vernon Cream Company</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>
+     <field name="unitdate_start_si">1900</field>

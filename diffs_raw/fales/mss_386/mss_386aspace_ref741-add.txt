@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Linda Mary Montano Papers</field>
+     <field name="collection_unitid_ssm">MSS.386</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mitchell's Death: Condolences</field>
+-    <field name="unittitle_teim">Mitchell's Death: Condolences</field>
++    <field name="unittitle_ssm">Mitchell&#39;s Death: Condolences</field>
++    <field name="unittitle_teim">Mitchell&#39;s Death: Condolences</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/580059</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/580059</field>
+     <field name="unitdate_normal_ssm">1977/1979</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 40, Folder: 15</field>
+     <field name="location_si">Box: 40, Folder: 15</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series II: Inspirational People and Collaborators</field>
+-    <field name="series_si">Series II: Inspirational People and Collaborators &gt;&gt; Mitchell's Death: Condolences</field>
+-    <field name="heading_ssm">Mitchell's Death: Condolences</field>
++    <field name="series_si">Series II: Inspirational People and Collaborators &gt;&gt; Mitchell&#39;s Death: Condolences</field>
++    <field name="heading_ssm">Mitchell&#39;s Death: Condolences</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

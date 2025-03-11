@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,8 +20,9 @@
+     <field name="unitid_ssm">ID: 293.1768</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/550140</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Tracklist: A: "Darkstar, Death Letter Blues, Lovelight, Jam, Drumz" B: "Drumz, The Other One, Death Don't Have No Mercy, with Marvin Harmonica Jam, Walkin' Cane"</field>
+-    <field name="phystech_teim">Original format: Audiocassette</field>
++    <field name="scopecontent_teim">Tracklist: A: &#34;Darkstar, Death Letter Blues, Lovelight, Jam, Drumz&#34; B: &#34;Drumz, The Other One, Death Don&#39;t Have No Mercy, with Marvin Harmonica Jam, Walkin&#39; Cane&#34;</field>
++    <field name="phystech_teim">Original format: Audiocassette
++</field>
+     <field name="phystech_teim">Duration: 90 minutes</field>
+     <field name="ref_ssi">aspace_ref8959</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,6 +33,7 @@
+     <field name="location_ssm">Box: 157, Media: ID: 293.1768</field>
+     <field name="location_si">Box: 157, Media: ID: 293.1768</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XIV: Sound recordings</field>
+     <field name="series_si">Series XIV: Sound recordings &gt;&gt; The Matrix, San Francisco, Halloween 1968</field>

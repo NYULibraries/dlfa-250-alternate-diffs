@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ubu Repertory Theater Script Collection</field>
+     <field name="collection_unitid_ssm">MSS.120</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dupoyet, Pierrette. 'Madame Guillotin'</field>
+-    <field name="unittitle_teim">Dupoyet, Pierrette. 'Madame Guillotin'</field>
++    <field name="unittitle_ssm">Dupoyet, Pierrette. &#39;Madame Guillotin&#39;</field>
++    <field name="unittitle_teim">Dupoyet, Pierrette. &#39;Madame Guillotin&#39;</field>
+     <field name="unitid_teim">31142040610464</field>
+     <field name="unitid_ssm">31142040610464</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: II.4, Folder: 137</field>
+     <field name="location_si">Box: II.4, Folder: 137</field>
+     <field name="collection_teim">Ubu Repertory Theater Script Collection</field>
++    <field name="author_teim">Processed by Scott Spencer, Yookyung Kwon from Sept. 2001 through Feb. 2002</field>
+     <field name="collection_unitid_teim">MSS.120</field>
+     <field name="series_sim">Series II: English Manuscripts</field>
+-    <field name="series_si">Series II: English Manuscripts &gt;&gt; Dupoyet, Pierrette. 'Madame Guillotin'</field>
+-    <field name="heading_ssm">Dupoyet, Pierrette. 'Madame Guillotin'</field>
++    <field name="series_si">Series II: English Manuscripts &gt;&gt; Dupoyet, Pierrette. &#39;Madame Guillotin&#39;</field>
++    <field name="heading_ssm">Dupoyet, Pierrette. &#39;Madame Guillotin&#39;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1069</field>

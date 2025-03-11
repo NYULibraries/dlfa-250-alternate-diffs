@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1961/1961</field>
+     <field name="unitdate_normal_sim">1961/1961</field>
+     <field name="unitdate_inclusive_teim">1961</field>
+-    <field name="scopecontent_teim">"Given in Washington April  1961," according to annotations.</field>
++    <field name="scopecontent_teim">&#34;Given in Washington April  1961,&#34; according to annotations.</field>
+     <field name="ref_ssi">aspace_ref6413</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 20, Folder: 38</field>
+     <field name="location_si">Box: 20, Folder: 38</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries A: Works by Larry Rivers</field>
+-    <field name="series_si">Series II: Manuscripts &amp;amp; Writings &gt;&gt; Subseries A: Works by Larry Rivers &gt;&gt; Salute to the Arts Talk</field>
++    <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries A: Works by Larry Rivers &gt;&gt; Salute to the Arts Talk</field>
+     <field name="heading_ssm">Salute to the Arts Talk</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>

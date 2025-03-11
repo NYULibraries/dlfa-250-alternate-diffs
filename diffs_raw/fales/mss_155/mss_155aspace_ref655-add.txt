@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,10 +22,10 @@
+     <field name="unitdate_normal_ssm">1970/1979</field>
+     <field name="unitdate_normal_teim">1970/1979</field>
+     <field name="unitdate_normal_sim">1970/1979</field>
+-    <field name="unitdate_inclusive_teim">1970's</field>
++    <field name="unitdate_inclusive_teim">1970&#39;s</field>
+     <field name="phystech_teim">Videodisc DVD, 4 3/4 in.; Sound, color,</field>
+     <field name="phystech_teim">Duration:36 minutes</field>
+-    <field name="phystech_teim">Original format:1/2" Open Reel</field>
++    <field name="phystech_teim">Original format:1/2&#34; Open Reel</field>
+     <field name="ref_ssi">aspace_ref655</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">case: 155.0144</field>
+     <field name="location_si">case: 155.0144</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series IV: Video recordings</field>
+     <field name="series_si">Series IV: Video recordings &gt;&gt; &lt;strong&gt;Title: &lt;/strong&gt;Bath</field>
+@@ -45,7 +46,7 @@
+     <field name="unitdate_end_sim">1979</field>
+     <field name="unitdate_end_ssm">1979</field>
+     <field name="unitdate_end_si">1979</field>
+-    <field name="unitdate_ssm">Inclusive, 1970's</field>
++    <field name="unitdate_ssm">Inclusive, 1970&#39;s</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">643</field>
+   </doc>

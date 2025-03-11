@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/984982</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/984982</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Drawing of a women's body</field>
++    <field name="scopecontent_teim">Drawing of a women&#39;s body</field>
+     <field name="ref_ssi">aspace_41a68f45b967d75e12f544725ada873f</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 92, Folder: 3</field>
+     <field name="location_si">Box: 92, Folder: 3</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_sim">Series 5: Drawings</field>
+     <field name="series_si">Series 5: Drawings &gt;&gt; Untitled</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Hara, Frank &amp;amp; Joseph Rivers</field>
+-    <field name="unittitle_teim">O'Hara, Frank &amp; Joseph Rivers</field>
++    <field name="unittitle_ssm">O&#39;Hara, Frank &amp; Joseph Rivers</field>
++    <field name="unittitle_teim">O&#39;Hara, Frank &amp; Joseph Rivers</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/547780</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547780</field>
+     <field name="unitdate_normal_ssm">1953/1953</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 23, Folder: 35</field>
+     <field name="location_si">Box: 23, Folder: 35</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries B: Works by Others</field>
+-    <field name="series_si">Series II: Manuscripts &amp;amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; O'Hara, Frank &amp;amp; Joseph Rivers</field>
+-    <field name="heading_ssm">O'Hara, Frank &amp; Joseph Rivers</field>
++    <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; O&#39;Hara, Frank &amp; Joseph Rivers</field>
++    <field name="heading_ssm">O&#39;Hara, Frank &amp; Joseph Rivers</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>
+     <field name="unitdate_start_si">1953</field>

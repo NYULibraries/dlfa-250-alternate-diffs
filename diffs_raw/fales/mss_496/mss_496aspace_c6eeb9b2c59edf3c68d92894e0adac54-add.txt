@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Kirst, Patrick</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2014-02-12/2014-02-12</field>
+     <field name="unitdate_normal_sim">2014-02-12/2014-02-12</field>
+     <field name="unitdate_teim">February 2014-ongoing</field>
+-    <field name="scopecontent_teim">Professional website for film composer Patrick Kirst, which features the composer's film credits, embeded audio samples of a selection of Kirst's work, a biography, and a blog for news and personal updates.  The site was first captured in February 2014.  The site was updated significantly in 2017, but crawls before that point are not viewable in Wayback due to a playback error which may be resolved at a later date.</field>
++    <field name="scopecontent_teim">Professional website for film composer Patrick Kirst, which features the composer&#39;s film credits, embeded audio samples of a selection of Kirst&#39;s work, a biography, and a blog for news and personal updates.  The site was first captured in February 2014.  The site was updated significantly in 2017, but crawls before that point are not viewable in Wayback due to a playback error which may be resolved at a later date.</field>
+     <field name="appraisal_teim">Crawl was limited to domains and subdomains of patrickkirst.com and wix.com in order to remain within the collection scope and data constraints.</field>
+     <field name="dao_teim">Patrick Kirst Archived Website: February 2014-ongoing</field>
+     <field name="dao_ssm">Patrick Kirst Archived Website: February 2014-ongoing</field>
+@@ -28,7 +28,8 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Kirst, Patrick</field>
+     <field name="heading_ssm">Kirst, Patrick</field>

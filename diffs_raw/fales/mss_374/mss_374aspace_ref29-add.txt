@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fales Zine Collection</field>
+     <field name="collection_unitid_ssm">MSS.374</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</field>
+-    <field name="unittitle_teim">Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</field>
++    <field name="unittitle_ssm">Static Zine, Toronto&#39;s Arts and Culture Magazine, Issue # 7</field>
++    <field name="unittitle_teim">Static Zine, Toronto&#39;s Arts and Culture Magazine, Issue # 7</field>
+     <field name="unitdate_normal_ssm">2013/2013</field>
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Fales Zine Collection</field>
++    <field name="author_teim">Megan O&#39;Shea</field>
+     <field name="collection_unitid_teim">MSS.374</field>
+     <field name="series_sim">Series IV: Various Zine Donations</field>
+-    <field name="series_si">Series IV: Various Zine Donations &gt;&gt; Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</field>
+-    <field name="heading_ssm">Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</field>
++    <field name="series_si">Series IV: Various Zine Donations &gt;&gt; Static Zine, Toronto&#39;s Arts and Culture Magazine, Issue # 7</field>
++    <field name="heading_ssm">Static Zine, Toronto&#39;s Arts and Culture Magazine, Issue # 7</field>
+     <field name="unitdate_start_sim">2013</field>
+     <field name="unitdate_start_ssm">2013</field>
+     <field name="unitdate_start_si">2013</field>

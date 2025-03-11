@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
+     <field name="collection_unitid_ssm">MSS.385</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">That's Post-Modernism for Ya</field>
+-    <field name="unittitle_teim">That's Post-Modernism for Ya</field>
++    <field name="unittitle_ssm">That&#39;s Post-Modernism for Ya</field>
++    <field name="unittitle_teim">That&#39;s Post-Modernism for Ya</field>
+     <field name="unitid_teim">cuid34249</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/773622</field>
+     <field name="unitid_ssm">cuid34249</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 136, Folder: 7</field>
+     <field name="location_si">Box: 136, Folder: 7</field>
+     <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
++    <field name="author_teim">Stacey Flatt and Samantha Rowe.</field>
+     <field name="collection_unitid_teim">MSS.385</field>
+     <field name="series_sim">Series II. Cartoons/Collages</field>
+-    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; That's Post-Modernism for Ya</field>
+-    <field name="heading_ssm">That's Post-Modernism for Ya</field>
++    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; That&#39;s Post-Modernism for Ya</field>
++    <field name="heading_ssm">That&#39;s Post-Modernism for Ya</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

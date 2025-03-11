@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Hammond Film Script Collection</field>
+     <field name="collection_unitid_ssm">MSS.076</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries 4: Various Writers &amp;amp; Directors</field>
++    <field name="unittitle_ssm">Subseries 4: Various Writers &amp; Directors</field>
+     <field name="unittitle_teim">Subseries 4: Various Writers &amp; Directors</field>
+-    <field name="scopecontent_teim">Film scripts with various directors or screenwriters. Director's name (if provided) is listed after name of film.</field>
++    <field name="scopecontent_teim">Film scripts with various directors or screenwriters. Director&#39;s name (if provided) is listed after name of film.</field>
+     <field name="ref_ssi">aspace_ref777</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,9 +23,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Hammond Film Script Collection</field>
++    <field name="author_teim">Michael Zimmer, March – April, 2003</field>
+     <field name="collection_unitid_teim">MSS.076</field>
+     <field name="series_sim">Series D: English Language Film Scripts</field>
+-    <field name="series_si">Series D: English Language Film Scripts &gt;&gt; Subseries 4: Various Writers &amp;amp; Directors</field>
++    <field name="series_si">Series D: English Language Film Scripts &gt;&gt; Subseries 4: Various Writers &amp; Directors</field>
+     <field name="heading_ssm">Subseries 4: Various Writers &amp; Directors</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">385</field>

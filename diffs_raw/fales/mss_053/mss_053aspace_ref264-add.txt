@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">The Howard Brubaker Papers</field>
+     <field name="collection_unitid_ssm">MSS.053</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Woman's Home Companion&lt;/em&gt;: 
+-
+-April, 1925</field>
+-    <field name="unittitle_teim">Woman's Home Companion: 
++    <field name="unittitle_ssm">&lt;em&gt;Woman&#39;s Home Companion&lt;/em&gt;: 
++
++April, 1925</field>
++    <field name="unittitle_teim">Woman&#39;s Home Companion: 
+ 
+ April, 1925</field>
+     <field name="unitdate_teim">1925</field>
+@@ -29,12 +29,13 @@
+     <field name="location_ssm">Box: 4, Folder: data_value_missing_9cf69a089c05b36fdb0e63b7f4b3540f</field>
+     <field name="location_si">Box: 4, Folder: data_value_missing_9cf69a089c05b36fdb0e63b7f4b3540f</field>
+     <field name="collection_teim">The Howard Brubaker Papers</field>
++    <field name="author_teim">Rob Fellman, Marvin Taylor</field>
+     <field name="collection_unitid_teim">MSS.053</field>
+     <field name="series_sim">Series II: Magazines, Newspapers and Miscellaneous Periodicals</field>
+-    <field name="series_si">Series II: Magazines, Newspapers and Miscellaneous Periodicals &gt;&gt; &lt;em&gt;Woman's Home Companion&lt;/em&gt;: 
+-
+-April, 1925</field>
+-    <field name="heading_ssm">Woman's Home Companion: 
++    <field name="series_si">Series II: Magazines, Newspapers and Miscellaneous Periodicals &gt;&gt; &lt;em&gt;Woman&#39;s Home Companion&lt;/em&gt;: 
++
++April, 1925</field>
++    <field name="heading_ssm">Woman&#39;s Home Companion: 
+ 
+ April, 1925</field>
+     <field name="unitdate_ssm">1925</field>

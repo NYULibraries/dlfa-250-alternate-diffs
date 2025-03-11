@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">January 1984</field>
+     <field name="phystech_teim">Duration: [unknown]</field>
+     <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+-    <field name="phystech_teim">Program content: Wimps of the '80s</field>
++    <field name="phystech_teim">Program content: Wimps of the &#39;80s</field>
+     <field name="ref_ssi">aspace_ref2165</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 58, Media: ID: 231.0903</field>
+     <field name="location_si">Box: 58, Media: ID: 231.0903</field>
+     <field name="collection_teim">Gay Cable Network Archives</field>
++    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+     <field name="collection_unitid_teim">MSS.231</field>
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">Other tapes related to Pride and Progress and The Right Stuff</field>

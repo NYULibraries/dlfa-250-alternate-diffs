@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">2001/2001</field>
+     <field name="unitdate_inclusive_teim">2001</field>
+     <field name="scopecontent_teim">end of discussion Norma Coen
+-D. Marie's wrap up</field>
++D. Marie&#39;s wrap up</field>
+     <field name="phystech_teim">TRT: Unknown</field>
+     <field name="phystech_teim">Original Format: Mini-DV</field>
+     <field name="phystech_teim">Original Number: </field>
+@@ -40,6 +40,7 @@
+     <field name="location_ssm">Box: 17, Media: ID: 326.0869</field>
+     <field name="location_si">Box: 17, Media: ID: 326.0869</field>
+     <field name="collection_teim">Robert Flaherty Film Seminar Archive</field>
++    <field name="author_teim">Julia Kim, 2013; Laura Newsome, 2014</field>
+     <field name="collection_unitid_teim">MSS.326</field>
+     <field name="series_sim">Series I: Flaherty Film Seminars</field>
+     <field name="series_sim">Subseries B: Video Recordings</field>

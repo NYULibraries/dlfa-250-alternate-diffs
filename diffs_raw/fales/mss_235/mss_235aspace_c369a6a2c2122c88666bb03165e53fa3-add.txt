@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1977/2002</field>
+     <field name="unitdate_normal_sim">1977/2002</field>
+     <field name="unitdate_inclusive_teim">1977-2002</field>
+-    <field name="scopecontent_teim">Series IV: Patient Files contains the files Yamamoto created for patients she consulted and treated for various ailments. The files consist of index cards with patients' contact information and reason(s) for consultation. The materials contain sensitive data and researchers wishing to view these materials should contact fales.library@nyu.edu for more information. Materials date from 1977 to 2002.</field>
++    <field name="scopecontent_teim">Series IV: Patient Files contains the files Yamamoto created for patients she consulted and treated for various ailments. The files consist of index cards with patients&#39; contact information and reason(s) for consultation. The materials contain sensitive data and researchers wishing to view these materials should contact fales.library@nyu.edu for more information. Materials date from 1977 to 2002.</field>
+     <field name="ref_ssi">aspace_c369a6a2c2122c88666bb03165e53fa3</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Shizuko Yamamoto Papers</field>
++    <field name="author_teim">Jasmine Larkin</field>
+     <field name="collection_unitid_teim">MSS.235</field>
+     <field name="series_si">Series IV: Patient Files</field>
+     <field name="heading_ssm">Series IV: Patient Files</field>

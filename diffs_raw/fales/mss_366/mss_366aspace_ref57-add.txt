@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,9 @@
+     <field name="collection_ssm">Sheila Heti Riot Grrrl Collection</field>
+     <field name="collection_unitid_ssm">MSS.366</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jurisz, Rebecca  "Vilde Chaya" Winter 1995</field>
+-    <field name="unittitle_teim">Jurisz, Rebecca  "Vilde Chaya" Winter 1995</field>
++    <field name="unittitle_ssm">Jurisz, Rebecca  &#34;Vilde Chaya&#34; Winter 1995</field>
++    <field name="unittitle_teim">Jurisz, Rebecca 
++ &#34;Vilde Chaya&#34; Winter 1995</field>
+     <field name="unitdate_normal_ssm">1995/1995</field>
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+@@ -28,10 +29,12 @@
+     <field name="location_ssm">Box: 2, Folder: 21</field>
+     <field name="location_si">Box: 2, Folder: 21</field>
+     <field name="collection_teim">Sheila Heti Riot Grrrl Collection</field>
++    <field name="author_teim">Emily Dunlay, 2013.</field>
+     <field name="collection_unitid_teim">MSS.366</field>
+     <field name="series_sim">Series I: Anthology Submissions</field>
+-    <field name="series_si">Series I: Anthology Submissions &gt;&gt; Jurisz, Rebecca  "Vilde Chaya" Winter 1995</field>
+-    <field name="heading_ssm">Jurisz, Rebecca  "Vilde Chaya" Winter 1995</field>
++    <field name="series_si">Series I: Anthology Submissions &gt;&gt; Jurisz, Rebecca  &#34;Vilde Chaya&#34; Winter 1995</field>
++    <field name="heading_ssm">Jurisz, Rebecca 
++ &#34;Vilde Chaya&#34; Winter 1995</field>
+     <field name="unitdate_start_sim">1995</field>
+     <field name="unitdate_start_ssm">1995</field>
+     <field name="unitdate_start_si">1995</field>

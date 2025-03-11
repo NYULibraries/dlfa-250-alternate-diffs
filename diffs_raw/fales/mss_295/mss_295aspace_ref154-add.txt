@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1934/1934</field>
+     <field name="unitdate_inclusive_teim">1934</field>
+     <field name="scopecontent_teim">Connecticut Dairy and Food Council. Lunches for School Children. Hartford, CT: Connecticut Dairy and Food Council, undated.</field>
+-    <field name="scopecontent_teim"> Continental Baking Company. The Wonder Book of Good Meals; World's Fair Edition. New York, NY: Continental Baking Company, Inc., 1934.</field>
++    <field name="scopecontent_teim"> Continental Baking Company. The Wonder Book of Good Meals; World&#39;s Fair Edition. New York, NY: Continental Baking Company, Inc., 1934.</field>
+     <field name="ref_ssi">aspace_ref154</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 8, Folder: 13</field>
+     <field name="location_si">Box: 8, Folder: 13</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Connecticut Dairy and Food Council; Continental Baking Company, Inc.</field>

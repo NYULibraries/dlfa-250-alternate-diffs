@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2004/2010</field>
+     <field name="unitdate_normal_sim">2004/2010</field>
+     <field name="unitdate_inclusive_teim">2004-2010</field>
+-    <field name="scopecontent_teim">This series contains artwork created by Dzubilo using various mediums on paper and cloth. Majority of the work relates to life or advocacy for people with HIV/AIDS and transgender people. Some art also is either created with or about Dzubilo's partner T De Long.</field>
++    <field name="scopecontent_teim">This series contains artwork created by Dzubilo using various mediums on paper and cloth. Majority of the work relates to life or advocacy for people with HIV/AIDS and transgender people. Some art also is either created with or about Dzubilo&#39;s partner T De Long.</field>
+     <field name="ref_ssi">aspace_ref1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Chloe Faith Dzubilo Papers</field>
++    <field name="author_teim">Sana Masood, 2015.</field>
+     <field name="collection_unitid_teim">MSS.397</field>
+     <field name="series_si">Series I: Artwork</field>
+     <field name="heading_ssm">Series I: Artwork</field>

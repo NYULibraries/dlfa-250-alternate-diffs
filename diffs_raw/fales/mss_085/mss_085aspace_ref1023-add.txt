@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,12 @@
+     <field name="collection_ssm">Dennis Cooper Papers</field>
+     <field name="collection_unitid_ssm">MSS.085</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;J.D.s.&lt;/em&gt;Ontario, Canada: J.D.s. N.d., #4; n.d.. &lt;em&gt;Joezine.&lt;/em&gt;New York: joezine. N.d., Second Tissue. &lt;em&gt;johnny tomorrow.&lt;/em&gt;Chicago, IL: Davey Houle. 1996 &lt;em&gt;Swish! Toronto, Canada: J.D.'s.&lt;/em&gt;No. 8 1991 </field>
+-    <field name="unittitle_teim">J.D.s.Ontario, Canada: J.D.s. N.d., #4; n.d.. Joezine.New York: joezine. N.d., Second Tissue. johnny tomorrow.Chicago, IL: Davey Houle. 1996 Swish! Toronto, Canada: J.D.'s.No. 8 1991 </field>
++    <field name="unittitle_ssm">&lt;em&gt;J.D.s.&lt;/em&gt;Ontario, Canada: J.D.s. N.d., #4; n.d.. &lt;em&gt;Joezine.&lt;/em&gt;New York: joezine. N.d., Second Tissue. &lt;em&gt;johnny tomorrow.&lt;/em&gt;Chicago, IL: Davey Houle. 1996 &lt;em&gt;Swish! Toronto, Canada: J.D.&#39;s.&lt;/em&gt;No. 8 1991 </field>
++    <field name="unittitle_teim">J.D.s.Ontario, Canada: J.D.s. N.d., #4; n.d.. 
++Joezine.New York: joezine. N.d., Second Tissue. 
++johnny tomorrow.Chicago, IL: Davey Houle. 1996 
++
++Swish! Toronto, Canada: J.D.&#39;s.No. 8 1991 </field>
+     <field name="unitid_teim">/repositories/3/archival_objects/420455</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/420455</field>
+     <field name="unitdate_teim">1996</field>
+@@ -27,10 +31,15 @@
+     <field name="location_ssm">Box: 14, Folder: 944</field>
+     <field name="location_si">Box: 14, Folder: 944</field>
+     <field name="collection_teim">Dennis Cooper Papers</field>
++    <field name="author_teim">Camilla Fojas (1997-1998); 2002 Accretion processed by Brandon Stosuy, 2002. Media Material updated by Luke Martin and Brent Phillips, 2008.</field>
+     <field name="collection_unitid_teim">MSS.085</field>
+     <field name="series_sim">Series VIII: Zines</field>
+-    <field name="series_si">Series VIII: Zines &gt;&gt; &lt;em&gt;J.D.s.&lt;/em&gt;Ontario, Canada: J.D.s. N.d., #4; n.d.. &lt;em&gt;Joezine.&lt;/em&gt;New York: joezine. N.d., Second Tissue. &lt;em&gt;johnny tomorrow.&lt;/em&gt;Chicago, IL: Davey Houle. 1996 &lt;em&gt;Swish! Toronto, Canada: J.D.'s.&lt;/em&gt;No. 8 1991 </field>
+-    <field name="heading_ssm">J.D.s.Ontario, Canada: J.D.s. N.d., #4; n.d.. Joezine.New York: joezine. N.d., Second Tissue. johnny tomorrow.Chicago, IL: Davey Houle. 1996 Swish! Toronto, Canada: J.D.'s.No. 8 1991 </field>
++    <field name="series_si">Series VIII: Zines &gt;&gt; &lt;em&gt;J.D.s.&lt;/em&gt;Ontario, Canada: J.D.s. N.d., #4; n.d.. &lt;em&gt;Joezine.&lt;/em&gt;New York: joezine. N.d., Second Tissue. &lt;em&gt;johnny tomorrow.&lt;/em&gt;Chicago, IL: Davey Houle. 1996 &lt;em&gt;Swish! Toronto, Canada: J.D.&#39;s.&lt;/em&gt;No. 8 1991 </field>
++    <field name="heading_ssm">J.D.s.Ontario, Canada: J.D.s. N.d., #4; n.d.. 
++Joezine.New York: joezine. N.d., Second Tissue. 
++johnny tomorrow.Chicago, IL: Davey Houle. 1996 
++
++Swish! Toronto, Canada: J.D.&#39;s.No. 8 1991 </field>
+     <field name="unitdate_ssm">1996</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1049</field>

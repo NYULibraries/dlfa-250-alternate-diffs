@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1977/2018</field>
+     <field name="unitdate_normal_sim">1977/2018</field>
+     <field name="unitdate_inclusive_teim">1977-1997, undated</field>
+-    <field name="scopecontent_teim">Series VII consists of audio recordings related to Paul Langland's performances, largely of his own choreography and from his time performing with Meredith Monk's company. Sound recordings are currently unavailable until duplication occurs.</field>
++    <field name="scopecontent_teim">Series VII consists of audio recordings related to Paul Langland&#39;s performances, largely of his own choreography and from his time performing with Meredith Monk&#39;s company. Sound recordings are currently unavailable until duplication occurs.</field>
+     <field name="ref_ssi">aspace_ref394</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+     <field name="series_si">Series VII: Sound recordings</field>
+     <field name="heading_ssm">Series VII: Sound recordings</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+     <field name="collection_unitid_ssm">MSS.383</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ester d'Engaddi</field>
+-    <field name="unittitle_teim">Ester d'Engaddi</field>
++    <field name="unittitle_ssm">Ester d&#39;Engaddi</field>
++    <field name="unittitle_teim">Ester d&#39;Engaddi</field>
+     <field name="unitdate_normal_ssm">1847/1847</field>
+     <field name="unitdate_normal_teim">1847/1847</field>
+     <field name="unitdate_normal_sim">1847/1847</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 7, Folder: 10</field>
+     <field name="location_si">Box: 7, Folder: 10</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series XLIV: Pacini</field>
+-    <field name="series_si">Series XLIV: Pacini &gt;&gt; Ester d'Engaddi</field>
+-    <field name="heading_ssm">Ester d'Engaddi</field>
++    <field name="series_si">Series XLIV: Pacini &gt;&gt; Ester d&#39;Engaddi</field>
++    <field name="heading_ssm">Ester d&#39;Engaddi</field>
+     <field name="unitdate_start_sim">1847</field>
+     <field name="unitdate_start_ssm">1847</field>
+     <field name="unitdate_start_si">1847</field>

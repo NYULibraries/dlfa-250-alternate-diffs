@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1984/2000</field>
+     <field name="unitdate_normal_sim">1984/2000</field>
+     <field name="unitdate_inclusive_teim">1984-2000</field>
+-    <field name="scopecontent_teim">This series contains all of the elements from three of Jack Waters' films, Diotima,  The Male Gayze, and  Berlin/NY.</field>
++    <field name="scopecontent_teim">This series contains all of the elements from three of Jack Waters&#39; films, Diotima,  The Male Gayze, and  Berlin/NY.</field>
+     <field name="ref_ssi">aspace_68dd4d1797788bdaef09244b7c28061b</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jack Waters Papers</field>
++    <field name="author_teim">Fales Staff</field>
+     <field name="collection_unitid_teim">MSS.111</field>
+     <field name="series_si">Series II: Film and Audio</field>
+     <field name="heading_ssm">Series II: Film and Audio</field>

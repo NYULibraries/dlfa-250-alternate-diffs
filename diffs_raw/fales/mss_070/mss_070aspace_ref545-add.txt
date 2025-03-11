@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New American Library Archive</field>
+     <field name="collection_unitid_ssm">MSS.070</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Cunliffe, Marcus, "George Washington,"</field>
+-    <field name="unittitle_teim">Cunliffe, Marcus, "George Washington,"</field>
++    <field name="unittitle_ssm">Cunliffe, Marcus, &#34;George Washington,&#34;</field>
++    <field name="unittitle_teim">Cunliffe, Marcus, &#34;George Washington,&#34;</field>
+     <field name="unitdate_teim">1958-1960</field>
+     <field name="ref_ssi">aspace_ref545</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 33, Folder: 437</field>
+     <field name="location_si">Box: 33, Folder: 437</field>
+     <field name="collection_teim">New American Library Archive</field>
++    <field name="author_teim">Jenny Hillyer, from September-October 2000. Updated by Nicholas Martin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.070</field>
+     <field name="series_sim">Series II: New American Library, Editorial/Author Files</field>
+-    <field name="series_si">Series II: New American Library, Editorial/Author Files &gt;&gt; Cunliffe, Marcus, "George Washington,"</field>
+-    <field name="heading_ssm">Cunliffe, Marcus, "George Washington,"</field>
++    <field name="series_si">Series II: New American Library, Editorial/Author Files &gt;&gt; Cunliffe, Marcus, &#34;George Washington,&#34;</field>
++    <field name="heading_ssm">Cunliffe, Marcus, &#34;George Washington,&#34;</field>
+     <field name="unitdate_ssm">1958-1960</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">534</field>

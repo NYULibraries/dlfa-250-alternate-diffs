@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Erich Maria Remarque Papers</field>
+     <field name="collection_unitid_ssm">MSS.095</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">PG - Sotheby's</field>
+-    <field name="unittitle_teim">PG - Sotheby's</field>
++    <field name="unittitle_ssm">PG - Sotheby&#39;s</field>
++    <field name="unittitle_teim">PG - Sotheby&#39;s</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435167</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435167</field>
+     <field name="unitdate_teim">1979-1990</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 35, Folder: 3</field>
+     <field name="location_si">Box: 35, Folder: 3</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_sim">2003 Accretion </field>
+     <field name="series_sim">Series III: Art, textile and jewelry collections</field>
+     <field name="series_sim">Subseries A: Correspondence and financial statements</field>
+-    <field name="series_si">2003 Accretion  &gt;&gt; Series III: Art, textile and jewelry collections &gt;&gt; Subseries A: Correspondence and financial statements &gt;&gt; PG - Sotheby's</field>
+-    <field name="heading_ssm">PG - Sotheby's</field>
++    <field name="series_si">2003 Accretion  &gt;&gt; Series III: Art, textile and jewelry collections &gt;&gt; Subseries A: Correspondence and financial statements &gt;&gt; PG - Sotheby&#39;s</field>
++    <field name="heading_ssm">PG - Sotheby&#39;s</field>
+     <field name="unitdate_ssm">1979-1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4125</field>

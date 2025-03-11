@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Cendrillon</field>
+     <field name="unitdate_teim">1899</field>
+     <field name="scopecontent_teim">Librettist: Cain, Henri</field>
+-    <field name="scopecontent_teim">Performance City/Venue:  Theatre National de L'Opera-Comique</field>
++    <field name="scopecontent_teim">Performance City/Venue:  Theatre National de L&#39;Opera-Comique</field>
+     <field name="scopecontent_teim">Performance Season/Date: May 1899</field>
+     <field name="scopecontent_teim">Publication City: Paris </field>
+     <field name="ref_ssi">aspace_ref301</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 5, Folder: 15</field>
+     <field name="location_si">Box: 5, Folder: 15</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series XXXVII: Massenet</field>
+     <field name="series_si">Series XXXVII: Massenet &gt;&gt; Cendrillon</field>

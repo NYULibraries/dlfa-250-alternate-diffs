@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1910/1929</field>
+     <field name="unitdate_inclusive_teim">1910, 1920s</field>
+     <field name="scopecontent_teim">E. C. Harley Company. The Chef. Dayton, OH: E. C. Harley Company, 1910.</field>
+-    <field name="scopecontent_teim"> E. C. Rich. Rich's Tryphosa. New York, NY: E. C. Rich, 1920s.</field>
++    <field name="scopecontent_teim"> E. C. Rich. Rich&#39;s Tryphosa. New York, NY: E. C. Rich, 1920s.</field>
+     <field name="ref_ssi">aspace_ref222</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 13, Folder: 10</field>
+     <field name="location_si">Box: 13, Folder: 10</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; E.C. Harley Company; E.C. Rich</field>

@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,13 @@
+     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
+     <field name="collection_unitid_ssm">MSS.057</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dodgson, Charles To Blakemore, Edith , "Dolly" Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
+-    <field name="unittitle_teim">Dodgson, Charles To Blakemore, Edith , "Dolly" Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
++    <field name="unittitle_ssm">Dodgson, Charles To Blakemore, Edith , &#34;Dolly&#34; Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
++    <field name="unittitle_teim">Dodgson, Charles 
++To Blakemore, Edith , &#34;Dolly&#34; 
++Envelopes (2) 
++Guildford, December 26, 1886 
++(VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 
++(VI 96) Possibly a mistaken date.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/408712</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/408712</field>
+     <field name="unitdate_teim">1886</field>
+@@ -30,11 +35,17 @@
+     <field name="location_ssm">Box: 1, Folder: 28</field>
+     <field name="location_si">Box: 1, Folder: 28</field>
+     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
++    <field name="author_teim">Chatham Ewing, October 1997 - February 1998</field>
+     <field name="collection_unitid_teim">MSS.057</field>
+     <field name="series_sim">Series 1: Correspondence</field>
+     <field name="series_sim">Subseries 1A: Correspondence from Charles L. Dodgson</field>
+-    <field name="series_si">Series 1: Correspondence &gt;&gt; Subseries 1A: Correspondence from Charles L. Dodgson &gt;&gt; Dodgson, Charles To Blakemore, Edith , "Dolly" Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
+-    <field name="heading_ssm">Dodgson, Charles To Blakemore, Edith , "Dolly" Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
++    <field name="series_si">Series 1: Correspondence &gt;&gt; Subseries 1A: Correspondence from Charles L. Dodgson &gt;&gt; Dodgson, Charles To Blakemore, Edith , &#34;Dolly&#34; Envelopes (2) Guildford, December 26, 1886 (VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 (VI 96) Possibly a mistaken date.</field>
++    <field name="heading_ssm">Dodgson, Charles 
++To Blakemore, Edith , &#34;Dolly&#34; 
++Envelopes (2) 
++Guildford, December 26, 1886 
++(VI 104), Probably a mistaken number. Eastbourne, August 29, 1880 
++(VI 96) Possibly a mistaken date.</field>
+     <field name="unitdate_ssm">1886</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>

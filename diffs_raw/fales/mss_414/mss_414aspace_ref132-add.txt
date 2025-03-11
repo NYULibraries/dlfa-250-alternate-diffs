@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Christopher Knowles Papers</field>
+     <field name="collection_unitid_ssm">MSS.414</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Angie's Waltz</field>
+-    <field name="unittitle_teim">Angie's Waltz</field>
++    <field name="unittitle_ssm">Angie&#39;s Waltz</field>
++    <field name="unittitle_teim">Angie&#39;s Waltz</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/582654</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/582654</field>
+     <field name="unitdate_teim">c. 1977</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 3, Folder: 38</field>
+     <field name="location_si">Box: 3, Folder: 38</field>
+     <field name="collection_teim">Christopher Knowles Papers</field>
++    <field name="author_teim">Sophie Glidden-Lyon. </field>
+     <field name="collection_unitid_teim">MSS.414</field>
+     <field name="series_sim">Series II: Performance</field>
+     <field name="series_sim">Subseries B: Performance without Christopher Knowles</field>
+-    <field name="series_si">Series II: Performance &gt;&gt; Subseries B: Performance without Christopher Knowles &gt;&gt; Angie's Waltz</field>
+-    <field name="heading_ssm">Angie's Waltz</field>
++    <field name="series_si">Series II: Performance &gt;&gt; Subseries B: Performance without Christopher Knowles &gt;&gt; Angie&#39;s Waltz</field>
++    <field name="heading_ssm">Angie&#39;s Waltz</field>
+     <field name="unitdate_ssm">c. 1977</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">98</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Martin Wong Papers</field>
+     <field name="collection_unitid_ssm">MSS.102</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Art in Altered Book: "Bible in a Wet Towel"/"Razor in a Toothbrush;" "We had a gas station out on the Mojave"</field>
+-    <field name="unittitle_teim">Art in Altered Book: "Bible in a Wet Towel"/"Razor in a Toothbrush;" "We had a gas station out on the Mojave"</field>
++    <field name="unittitle_ssm">Art in Altered Book: &#34;Bible in a Wet Towel&#34;/&#34;Razor in a Toothbrush;&#34; &#34;We had a gas station out on the Mojave&#34;</field>
++    <field name="unittitle_teim">Art in Altered Book: &#34;Bible in a Wet Towel&#34;/&#34;Razor in a Toothbrush;&#34; &#34;We had a gas station out on the Mojave&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435956</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435956</field>
+     <field name="unitdate_teim">undated</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 30, Folder: 9</field>
+     <field name="location_si">Box: 30, Folder: 9</field>
+     <field name="collection_teim">Martin Wong Papers</field>
++    <field name="author_teim">Jenny Hillyer. Updated by Joseph Gallucci, 2007.  Accretion processed by Colin Wells, 2009.</field>
+     <field name="collection_unitid_teim">MSS.102</field>
+     <field name="series_sim">Series II: Artwork</field>
+     <field name="series_sim">Subseries II.A: Art by Wong</field>
+-    <field name="series_si">Series II: Artwork &gt;&gt; Subseries II.A: Art by Wong &gt;&gt; Art in Altered Book: "Bible in a Wet Towel"/"Razor in a Toothbrush;" "We had a gas station out on the Mojave"</field>
+-    <field name="heading_ssm">Art in Altered Book: "Bible in a Wet Towel"/"Razor in a Toothbrush;" "We had a gas station out on the Mojave"</field>
++    <field name="series_si">Series II: Artwork &gt;&gt; Subseries II.A: Art by Wong &gt;&gt; Art in Altered Book: &#34;Bible in a Wet Towel&#34;/&#34;Razor in a Toothbrush;&#34; &#34;We had a gas station out on the Mojave&#34;</field>
++    <field name="heading_ssm">Art in Altered Book: &#34;Bible in a Wet Towel&#34;/&#34;Razor in a Toothbrush;&#34; &#34;We had a gas station out on the Mojave&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">166</field>

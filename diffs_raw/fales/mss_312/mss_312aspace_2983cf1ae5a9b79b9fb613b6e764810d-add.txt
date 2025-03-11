@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Eric Learner's PBS FrontLine "On Torture"</field>
+-    <field name="unittitle_teim">Eric Learner's PBS FrontLine "On Torture"</field>
++    <field name="unittitle_ssm">Eric Learner&#39;s PBS FrontLine &#34;On Torture&#34;</field>
++    <field name="unittitle_teim">Eric Learner&#39;s PBS FrontLine &#34;On Torture&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974998</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/974998</field>
+     <field name="unitdate_normal_ssm">2005-10-19/2005-10-19</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 148, MiniDV: 312_0935</field>
+     <field name="location_si">Box: 148, MiniDV: 312_0935</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; Eric Learner's PBS FrontLine "On Torture"</field>
+-    <field name="heading_ssm">Eric Learner's PBS FrontLine "On Torture"</field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; Eric Learner&#39;s PBS FrontLine &#34;On Torture&#34;</field>
++    <field name="heading_ssm">Eric Learner&#39;s PBS FrontLine &#34;On Torture&#34;</field>
+     <field name="unitdate_ssm">October 19, 2005</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">693</field>

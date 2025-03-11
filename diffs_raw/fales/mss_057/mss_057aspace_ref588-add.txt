@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,13 @@
+     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
+     <field name="collection_unitid_ssm">MSS.057</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dodgson, Charles ""Tis the Voice of the Lobster" Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
+-    <field name="unittitle_teim">Dodgson, Charles ""Tis the Voice of the Lobster" Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
++    <field name="unittitle_ssm">Dodgson, Charles &#34;&#34;Tis the Voice of the Lobster&#34; Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
++    <field name="unittitle_teim">Dodgson, Charles 
++&#34;&#34;Tis the Voice of the Lobster&#34; 
++Ms, 1p 
++[n.p.], October 31, 1886 
++(343) 
++9 x 7</field>
+     <field name="unitid_teim">1806</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/409258</field>
+     <field name="unitid_ssm">1806</field>
+@@ -32,11 +37,17 @@
+     <field name="location_ssm">Box: 6, Folder: 505</field>
+     <field name="location_si">Box: 6, Folder: 505</field>
+     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
++    <field name="author_teim">Chatham Ewing, October 1997 - February 1998</field>
+     <field name="collection_unitid_teim">MSS.057</field>
+     <field name="series_sim">Series 2: Manuscripts</field>
+     <field name="series_sim">Subseries 2A: Manuscripts by Charles L. Dodgson.</field>
+-    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles ""Tis the Voice of the Lobster" Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
+-    <field name="heading_ssm">Dodgson, Charles ""Tis the Voice of the Lobster" Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
++    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles &#34;&#34;Tis the Voice of the Lobster&#34; Ms, 1p [n.p.], October 31, 1886 (343) 9 x 7</field>
++    <field name="heading_ssm">Dodgson, Charles 
++&#34;&#34;Tis the Voice of the Lobster&#34; 
++Ms, 1p 
++[n.p.], October 31, 1886 
++(343) 
++9 x 7</field>
+     <field name="unitdate_ssm">1886</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">578</field>

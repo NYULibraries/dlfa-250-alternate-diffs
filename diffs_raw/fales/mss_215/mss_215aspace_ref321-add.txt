@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Group Material Archive</field>
+     <field name="collection_unitid_ssm">MSS.215</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">T-shirt - ACT UP - "Planet Earth" - black text on white shirt - continental map on back</field>
+-    <field name="unittitle_teim">T-shirt - ACT UP - "Planet Earth" - black text on white shirt - continental map on back</field>
++    <field name="unittitle_ssm">T-shirt - ACT UP - &#34;Planet Earth&#34; - black text on white shirt - continental map on back</field>
++    <field name="unittitle_teim">T-shirt - ACT UP - &#34;Planet Earth&#34; - black text on white shirt - continental map on back</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/519631</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/519631</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 32, object: ID: 215.2.0050</field>
+     <field name="location_si">Box: 32, object: ID: 215.2.0050</field>
+     <field name="collection_teim">Group Material Archive</field>
++    <field name="author_teim">Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.215</field>
+     <field name="series_sim">Series X: Objects</field>
+-    <field name="series_si">Series X: Objects &gt;&gt; T-shirt - ACT UP - "Planet Earth" - black text on white shirt - continental map on back</field>
+-    <field name="heading_ssm">T-shirt - ACT UP - "Planet Earth" - black text on white shirt - continental map on back</field>
++    <field name="series_si">Series X: Objects &gt;&gt; T-shirt - ACT UP - &#34;Planet Earth&#34; - black text on white shirt - continental map on back</field>
++    <field name="heading_ssm">T-shirt - ACT UP - &#34;Planet Earth&#34; - black text on white shirt - continental map on back</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">479</field>

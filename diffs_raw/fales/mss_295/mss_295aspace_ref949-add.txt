@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_sim">1912/1999</field>
+     <field name="unitdate_inclusive_teim">1912-1999</field>
+     <field name="scopecontent_teim">Heinz. Pickle card advertising tomato soup. Place of publication unknown: publisher unknown, undated.</field>
+-    <field name="scopecontent_teim"> Heinz. Salads by the World's Best Chefs. Pittsburgh, PA: H. J. Heinz Co., 1912.</field>
+-    <field name="scopecontent_teim"> Heinz. "Compare, and you'll know they're better Heinz Soups." Place of publication unknown: publisher unknown, undated.</field>
++    <field name="scopecontent_teim"> Heinz. Salads by the World&#39;s Best Chefs. Pittsburgh, PA: H. J. Heinz Co., 1912.</field>
++    <field name="scopecontent_teim"> Heinz. &#34;Compare, and you&#39;ll know they&#39;re better Heinz Soups.&#34; Place of publication unknown: publisher unknown, undated.</field>
+     <field name="scopecontent_teim"> Heinz. The Heinz Book of Salads. Pittsburgh, PA: The H. J. Heinz Company, 1925.</field>
+     <field name="scopecontent_teim"> Heinz. The Heinz Book of Salads. Pittsburgh, PA: The H. J. Heinz Company, 1930.</field>
+     <field name="scopecontent_teim"> Heinz. The Story of the 57. Pittsburgh, PA: H. J. Heinz Co., 1927.</field>
+@@ -45,6 +45,7 @@
+     <field name="location_ssm">Box: 19, Folder: 1-4</field>
+     <field name="location_si">Box: 19, Folder: 1-4</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; H. J. Heinz Company</field>

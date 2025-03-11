@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series One: Correspondence</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+-    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_sim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="collection_ssm">Jill &#34;Billy&#34; Rainsford Papers</field>
+     <field name="collection_unitid_ssm">MSS.030</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries A. General Correspondence</field>
+@@ -25,7 +25,8 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_teim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="author_teim">Colleen Eklow.</field>
+     <field name="collection_unitid_teim">MSS.030</field>
+     <field name="series_sim">Series One: Correspondence</field>
+     <field name="series_si">Series One: Correspondence &gt;&gt; Subseries A. General Correspondence</field>
+@@ -36,7 +37,7 @@
+     <field name="unitdate_end_sim">1938</field>
+     <field name="unitdate_end_ssm">1938</field>
+     <field name="unitdate_end_si">1938</field>
+-    <field name="unitdate_ssm">Inclusive,  ; 1922-1938</field>
++    <field name="unitdate_ssm">Inclusive, ; 1922-1938</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">2</field>
+   </doc>

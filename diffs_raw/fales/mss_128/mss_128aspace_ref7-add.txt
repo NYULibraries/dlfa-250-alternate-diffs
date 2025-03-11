@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_128</field>
+     <field name="parent_ssi">aspace_ref5</field>
+     <field name="parent_ssm">aspace_ref5</field>
+-    <field name="parent_unittitles_ssm">Series II: WNYC-TV "Poetry Spots"</field>
+-    <field name="parent_unittitles_teim">Series II: WNYC-TV "Poetry Spots"</field>
++    <field name="parent_unittitles_ssm">Series II: WNYC-TV &amp;#34;Poetry Spots&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series II: WNYC-TV &amp;#34;Poetry Spots&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Bob Holman Audio/Video Poetry Collection</field>
+@@ -22,9 +22,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
++    <field name="author_teim">Zachary Dabbs, 2009; collection processed by Brent Phillips, 2009. Media updates by Rhyannon Rodriguez, 2009.</field>
+     <field name="collection_unitid_teim">MSS.128</field>
+-    <field name="series_sim">Series II: WNYC-TV "Poetry Spots"</field>
+-    <field name="series_si">Series II: WNYC-TV "Poetry Spots" &gt;&gt; Subseries B: Originals  (Video)</field>
++    <field name="series_sim">Series II: WNYC-TV &amp;#34;Poetry Spots&amp;#34;</field>
++    <field name="series_si">Series II: WNYC-TV &#34;Poetry Spots&#34; &gt;&gt; Subseries B: Originals  (Video)</field>
+     <field name="heading_ssm">Subseries B: Originals  (Video)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">211</field>

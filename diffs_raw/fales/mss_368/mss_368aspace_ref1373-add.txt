@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,9 +22,9 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/578488</field>
+     <field name="unitdate_teim">[Undated]</field>
+     <field name="scopecontent_teim">1. Lewis Carroll Exhibit at Pratt Institute Library, celebrating the 100th anniversary
+-of Alice in Wonderland, designed by Willa Percival. 2. Forest Theatre Production of Pygmalion and Galatea and Alice in Wonderland.  3. Alice in Wonderland Presented by the Young People's Theater.</field>
++of Alice in Wonderland, designed by Willa Percival. 2. Forest Theatre Production of Pygmalion and Galatea and Alice in Wonderland.  3. Alice in Wonderland Presented by the Young People&#39;s Theater.</field>
+     <field name="scopecontent_teim">
+-Dimensions: 1. 13"x 16.5". 2. 11"x 15.5". 3. 17"x 11".</field>
++Dimensions: 1. 13&#34;x 16.5&#34;. 2. 11&#34;x 15.5&#34;. 3. 17&#34;x 11&#34;.</field>
+     <field name="ref_ssi">aspace_ref1373</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 38, Folder: 3</field>
+     <field name="location_si">Box: 38, Folder: 3</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+     <field name="series_sim">Subseries C: Posters</field>

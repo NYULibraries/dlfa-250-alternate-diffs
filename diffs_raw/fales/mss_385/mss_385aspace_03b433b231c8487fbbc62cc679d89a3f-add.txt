@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
+     <field name="collection_unitid_ssm">MSS.385</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">My Grandfather's Cock</field>
+-    <field name="unittitle_teim">My Grandfather's Cock</field>
++    <field name="unittitle_ssm">My Grandfather&#39;s Cock</field>
++    <field name="unittitle_teim">My Grandfather&#39;s Cock</field>
+     <field name="unitid_teim">cuid34750</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/947992</field>
+     <field name="unitid_ssm">cuid34750</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">1968-08/1968-08</field>
+     <field name="unitdate_normal_sim">1968-08/1968-08</field>
+     <field name="unitdate_teim">August 1968</field>
+-    <field name="dao_teim">My Grandfather's Cock</field>
+-    <field name="dao_ssm">My Grandfather's Cock</field>
++    <field name="dao_teim">My Grandfather&#39;s Cock</field>
++    <field name="dao_ssm">My Grandfather&#39;s Cock</field>
+     <field name="ref_ssi">aspace_03b433b231c8487fbbc62cc679d89a3f</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,10 +35,11 @@
+     <field name="location_si">Box: 204, Quarter_Inch_Audio_Reel: 385_103</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
++    <field name="author_teim">Stacey Flatt and Samantha Rowe.</field>
+     <field name="collection_unitid_teim">MSS.385</field>
+     <field name="series_sim">Series IV. Projects</field>
+-    <field name="series_si">Series IV. Projects &gt;&gt; My Grandfather's Cock</field>
+-    <field name="heading_ssm">My Grandfather's Cock</field>
++    <field name="series_si">Series IV. Projects &gt;&gt; My Grandfather&#39;s Cock</field>
++    <field name="heading_ssm">My Grandfather&#39;s Cock</field>
+     <field name="unitdate_ssm">August 1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2427</field>

@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.357</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+-    <field name="unittitle_teim">New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="unittitle_ssm">New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="unittitle_teim">New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+     <field name="unitid_teim">ID: 357.0440</field>
+     <field name="unitid_ssm">ID: 357.0440</field>
+     <field name="unitdate_normal_ssm">1988/1989</field>
+@@ -21,10 +21,10 @@
+     <field name="unitdate_normal_teim">1988/1989</field>
+     <field name="unitdate_normal_sim">1988/1989</field>
+     <field name="unitdate_inclusive_teim">1988-1989</field>
+-    <field name="scopecontent_teim">[1] -- New Year's Eve at Mars, 12/31/1988 [2] -- Christina at 5 Ninth- Florent, 1/6/1989 [3] -- Revelers, 1/7/1989</field>
++    <field name="scopecontent_teim">[1] -- New Year&#39;s Eve at Mars, 12/31/1988 [2] -- Christina at 5 Ninth- Florent, 1/6/1989 [3] -- Revelers, 1/7/1989</field>
+     <field name="phystech_teim">Original format: Video8mm</field>
+-    <field name="dao_teim">New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+-    <field name="dao_ssm">New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="dao_teim">New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="dao_ssm">New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+     <field name="ref_ssi">aspace_ref1511</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,10 +36,11 @@
+     <field name="location_si">case: 357.0440</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+-    <field name="series_si">Series I: Video recordings &gt;&gt; New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+-    <field name="heading_ssm">New Year's Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="series_si">Series I: Video recordings &gt;&gt; New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
++    <field name="heading_ssm">New Year&#39;s Eve at Mars, Christina at 5 Ninth- Florent, Revelers</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Dennis Cooper Papers</field>
+     <field name="collection_unitid_ssm">MSS.085</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Out: Mea Culpa, "Queer King"</field>
+-    <field name="unittitle_teim">Out: Mea Culpa, "Queer King"</field>
++    <field name="unittitle_ssm">Out: Mea Culpa, &#34;Queer King&#34;</field>
++    <field name="unittitle_teim">Out: Mea Culpa, &#34;Queer King&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/420094</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/420094</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 9, Folder: 585</field>
+     <field name="location_si">Box: 9, Folder: 585</field>
+     <field name="collection_teim">Dennis Cooper Papers</field>
++    <field name="author_teim">Camilla Fojas (1997-1998); 2002 Accretion processed by Brandon Stosuy, 2002. Media Material updated by Luke Martin and Brent Phillips, 2008.</field>
+     <field name="collection_unitid_teim">MSS.085</field>
+     <field name="series_sim">Series III: Journalism</field>
+     <field name="series_sim">Subseries D: New York Native</field>
+-    <field name="series_si">Series III: Journalism &gt;&gt; Subseries D: New York Native &gt;&gt; Out: Mea Culpa, "Queer King"</field>
+-    <field name="heading_ssm">Out: Mea Culpa, "Queer King"</field>
++    <field name="series_si">Series III: Journalism &gt;&gt; Subseries D: New York Native &gt;&gt; Out: Mea Culpa, &#34;Queer King&#34;</field>
++    <field name="heading_ssm">Out: Mea Culpa, &#34;Queer King&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">684</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">2004/2004</field>
+     <field name="unitdate_normal_sim">2004/2004</field>
+     <field name="unitdate_inclusive_teim">July 10, 2004</field>
+-    <field name="scopecontent_teim">(78'28")</field>
++    <field name="scopecontent_teim">(78&#39;28&#34;)</field>
+     <field name="phystech_teim">Original format: (1 sound disc) digital, 4 3/4 in.</field>
+     <field name="ref_ssi">aspace_ref1578</field>
+     <field name="repository_ssi">fales</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Box: 42, Media: ID: 350.0139</field>
+     <field name="location_si">Box: 42, Media: ID: 350.0139</field>
+     <field name="collection_teim">Malcolm Goldstein Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter</field>
+     <field name="collection_unitid_teim">MSS.350</field>
+     <field name="series_sim">Series VI: Non-commercially Released Audio</field>
+     <field name="series_sim">Subseries B: Interviews</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">mss_367</field>
+     <field name="parent_ssi">aspace_ref79</field>
+     <field name="parent_ssm">aspace_ref79</field>
+-    <field name="parent_unittitles_ssm">Series III: Media
+-</field>
+-    <field name="parent_unittitles_teim">Series III: Media
+-</field>
++    <field name="parent_unittitles_ssm">Series III: Media&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series III: Media&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Epoxy Art Group Archive</field>
+@@ -28,9 +26,9 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Epoxy Art Group Archive</field>
++    <field name="author_teim">Rachel Corbman, 2013.</field>
+     <field name="collection_unitid_teim">MSS.367</field>
+-    <field name="series_sim">Series III: Media
+-</field>
++    <field name="series_sim">Series III: Media&amp;#xA;</field>
+     <field name="series_si">Series III: Media
+  &gt;&gt; Subseries A: Sound recordings
+ </field>

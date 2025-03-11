@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1975/1995</field>
+     <field name="unitdate_normal_sim">1975/1995</field>
+     <field name="unitdate_inclusive_teim">1975-1995</field>
+-    <field name="scopecontent_teim">Photocopy of holograph score from Foran Notebook and several sets of photocopied parts, also in composer's hand, of a piece for saxophone quartet (soprano, alto, tenor, baritone).</field>
++    <field name="scopecontent_teim">Photocopy of holograph score from Foran Notebook and several sets of photocopied parts, also in composer&#39;s hand, of a piece for saxophone quartet (soprano, alto, tenor, baritone).</field>
+     <field name="ref_ssi">aspace_ca86cc158d92259ca6f6f937e24edc29</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 34</field>
+     <field name="location_si">Box: 1, Folder: 34</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">Choo Choo</field>
+     <field name="heading_ssm">Choo Choo</field>

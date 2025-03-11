@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,10 +23,12 @@
+     <field name="unitid_ssm">ID: 293.0274_a</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/550756</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Rivers interviews Bianca Jagger in the Jaggers' residence in Montauk. Bianca puts on make up for a photo session with photographer Peter Beard, and speaks with Rivers during and in between photo shoots.</field>
++    <field name="scopecontent_teim">Rivers interviews Bianca Jagger in the Jaggers&#39; residence in Montauk. Bianca puts on make up for a photo session with photographer Peter Beard, and speaks with Rivers during and in between photo shoots.</field>
+     <field name="scopecontent_teim">Bianca</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 34 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 34 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref797</field>
+     <field name="repository_ssi">fales</field>
+@@ -38,6 +40,7 @@
+     <field name="location_ssm">case: 293.0274_a</field>
+     <field name="location_si">case: 293.0274_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

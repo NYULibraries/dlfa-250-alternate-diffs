@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Michael Musto presents "Pay It No Mind: Marsha P. Johnson," Introduction and Q&amp;amp;A</field>
+-    <field name="unittitle_teim">Michael Musto presents "Pay It No Mind: Marsha P. Johnson," Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">Michael Musto presents &#34;Pay It No Mind: Marsha P. Johnson,&#34; Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">Michael Musto presents &#34;Pay It No Mind: Marsha P. Johnson,&#34; Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0014</field>
+     <field name="unitid_ssm">ID: 327.0014</field>
+     <field name="unitdate_normal_ssm">2011/2011</field>
+@@ -25,9 +25,9 @@
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">November 28, 2011</field>
+     <field name="scopecontent_teim">Featured (Introduction): Adam Baran (Queer/Art/Film Curator), Michael Musto (Presenter)
+-Featured (Q&amp;A): Panel Discussion with Adam Baran, Michael Musto, Randy Wicker (Marsha's former companion), Agosto Machado, and Jimmy Camicia (Co-founder of the Hot Peaches Theatre Troupe)</field>
++Featured (Q&amp;A): Panel Discussion with Adam Baran, Michael Musto, Randy Wicker (Marsha&#39;s former companion), Agosto Machado, and Jimmy Camicia (Co-founder of the Hot Peaches Theatre Troupe)</field>
+     <field name="scopecontent_teim">Videographer: Ryan Colletti </field>
+-    <field name="scopecontent_teim">Program Content:  Columnist Michael Musto, with Marsha P. Johnson's friends and companions, presents the world premiere of Michael Kasino and Richard Morrison's powerful documentary, "Pay It No Mind," which depicts the life of Marsha P. Johnson.  Johnson was a revolutionary trans activist, Stonewall instigator, Andy Warhol model, drag queen, prostitute, and Saint, as well as a downtown NYC fixture from the 1960's through her death in 1992.  </field>
++    <field name="scopecontent_teim">Program Content:  Columnist Michael Musto, with Marsha P. Johnson&#39;s friends and companions, presents the world premiere of Michael Kasino and Richard Morrison&#39;s powerful documentary, &#34;Pay It No Mind,&#34; which depicts the life of Marsha P. Johnson.  Johnson was a revolutionary trans activist, Stonewall instigator, Andy Warhol model, drag queen, prostitute, and Saint, as well as a downtown NYC fixture from the 1960&#39;s through her death in 1992.  </field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: 40 minutes</field>
+     <field name="phystech_teim">Color, Sound </field>
+@@ -41,11 +41,12 @@
+     <field name="location_ssm">case: 327.0014</field>
+     <field name="location_si">case: 327.0014</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Michael Musto presents "Pay It No Mind: Marsha P. Johnson," Introduction and Q&amp;amp;A</field>
+-    <field name="heading_ssm">Michael Musto presents "Pay It No Mind: Marsha P. Johnson," Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Michael Musto presents &#34;Pay It No Mind: Marsha P. Johnson,&#34; Introduction and Q&amp;A</field>
++    <field name="heading_ssm">Michael Musto presents &#34;Pay It No Mind: Marsha P. Johnson,&#34; Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2011</field>
+     <field name="unitdate_start_ssm">2011</field>
+     <field name="unitdate_start_si">2011</field>

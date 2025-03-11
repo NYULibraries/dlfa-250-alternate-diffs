@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,15 +5,15 @@
+     <field name="ead_ssi">mss_030</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+-    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_sim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="collection_ssm">Jill &#34;Billy&#34; Rainsford Papers</field>
+     <field name="collection_unitid_ssm">MSS.030</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series Two: Music</field>
+     <field name="unittitle_teim">Series Two: Music</field>
+     <field name="unitdate_teim">circa 1930</field>
+-    <field name="scopecontent_teim">Subseries A includes lyrics, mostly typewritten, and in many cases revisions. These are arranged alphabetically by song title and include such titles as; "Contented Cows", "I Want to be Bad", and "The Subway Masher".</field>
+-    <field name="scopecontent_teim">Subseries B includes handwritten music scores. Many accompany the lyrics found in subseries A. Music scores are arranged alphabetically by title, with the exception of one folder which contains music written by Billy and Jim Diamondo. Also included in subseries B is multiple copies of the sheet music for "High Flight" (music written by Jim Diamondo).</field>
++    <field name="scopecontent_teim">Subseries A includes lyrics, mostly typewritten, and in many cases revisions. These are arranged alphabetically by song title and include such titles as; &#34;Contented Cows&#34;, &#34;I Want to be Bad&#34;, and &#34;The Subway Masher&#34;.</field>
++    <field name="scopecontent_teim">Subseries B includes handwritten music scores. Many accompany the lyrics found in subseries A. Music scores are arranged alphabetically by title, with the exception of one folder which contains music written by Billy and Jim Diamondo. Also included in subseries B is multiple copies of the sheet music for &#34;High Flight&#34; (music written by Jim Diamondo).</field>
+     <field name="scopecontent_teim">Subseries C includes business records relating to song lyrics, including handwritten lists and records of sales and some correspondence to the Library of Congress for copyrights.</field>
+     <field name="ref_ssi">aspace_ref33</field>
+     <field name="repository_ssi">fales</field>
+@@ -21,7 +21,8 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_teim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="author_teim">Colleen Eklow.</field>
+     <field name="collection_unitid_teim">MSS.030</field>
+     <field name="series_si">Series Two: Music</field>
+     <field name="heading_ssm">Series Two: Music</field>

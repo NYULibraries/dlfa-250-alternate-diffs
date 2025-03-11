@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1823/1823</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Performance City and Venue:  Teatro alla Scala</field>
+-    <field name="scopecontent_teim">Performance Season/Date: Primavera dell' anno 1823</field>
++    <field name="scopecontent_teim">Performance Season/Date: Primavera dell&#39; anno 1823</field>
+     <field name="scopecontent_teim">Publication City and Publisher: Milan: Giacomo Pirola</field>
+     <field name="ref_ssi">aspace_ref485</field>
+     <field name="repository_ssi">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 8, Folder: 22</field>
+     <field name="location_si">Box: 8, Folder: 22</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series LV: Rossini</field>
+     <field name="series_si">Series LV: Rossini &gt;&gt; La Gazza Ladra</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Palladium Flyers Collection</field>
+     <field name="collection_unitid_ssm">MSS.441</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sandro Chia's Birthday</field>
+-    <field name="unittitle_teim">Sandro Chia's Birthday</field>
++    <field name="unittitle_ssm">Sandro Chia&#39;s Birthday</field>
++    <field name="unittitle_teim">Sandro Chia&#39;s Birthday</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/584270</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/584270</field>
+     <field name="unitdate_teim">April 19</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 130</field>
+     <field name="location_si">Box: 1, Folder: 130</field>
+     <field name="collection_teim">Palladium Flyers Collection</field>
++    <field name="author_teim">Laurainne Ojo-Ohikuare, 2015.</field>
+     <field name="collection_unitid_teim">MSS.441</field>
+     <field name="series_sim">Series VII: Parties</field>
+-    <field name="series_si">Series VII: Parties &gt;&gt; Sandro Chia's Birthday</field>
+-    <field name="heading_ssm">Sandro Chia's Birthday</field>
++    <field name="series_si">Series VII: Parties &gt;&gt; Sandro Chia&#39;s Birthday</field>
++    <field name="heading_ssm">Sandro Chia&#39;s Birthday</field>
+     <field name="unitdate_ssm">April 19</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">138</field>

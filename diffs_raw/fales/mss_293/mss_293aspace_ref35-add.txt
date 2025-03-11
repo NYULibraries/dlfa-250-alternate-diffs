@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,9 +26,11 @@
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">1976</field>
+-    <field name="scopecontent_teim">Home movie-style footage from a trip to Sarasota, Florida, in advance of a Rivers print show at a gallery there. Rivers talks to vacationers and locals visits with a local environmental preservation group, and visits an artist's studio.</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 33 minutes</field>
++    <field name="scopecontent_teim">Home movie-style footage from a trip to Sarasota, Florida, in advance of a Rivers print show at a gallery there. Rivers talks to vacationers and locals visits with a local environmental preservation group, and visits an artist&#39;s studio.</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 33 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref35</field>
+     <field name="repository_ssi">fales</field>
+@@ -40,6 +42,7 @@
+     <field name="location_ssm">case: 293.0016_a</field>
+     <field name="location_si">case: 293.0016_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

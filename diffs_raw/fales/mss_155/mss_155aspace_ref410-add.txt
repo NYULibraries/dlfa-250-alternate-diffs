@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Jaime Davidovich Collection</field>
+     <field name="collection_unitid_ssm">MSS.155</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries F: Publication of Jaime Davidovich's Work</field>
+-    <field name="unittitle_teim">Subseries F: Publication of Jaime Davidovich's Work</field>
++    <field name="unittitle_ssm">Subseries F: Publication of Jaime Davidovich&#39;s Work</field>
++    <field name="unittitle_teim">Subseries F: Publication of Jaime Davidovich&#39;s Work</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/478755</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/478755</field>
+     <field name="ref_ssi">aspace_ref410</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series I: Jaime Davidovich Art Files</field>
+-    <field name="series_si">Series I: Jaime Davidovich Art Files &gt;&gt; Subseries F: Publication of Jaime Davidovich's Work</field>
+-    <field name="heading_ssm">Subseries F: Publication of Jaime Davidovich's Work</field>
++    <field name="series_si">Series I: Jaime Davidovich Art Files &gt;&gt; Subseries F: Publication of Jaime Davidovich&#39;s Work</field>
++    <field name="heading_ssm">Subseries F: Publication of Jaime Davidovich&#39;s Work</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">400</field>
+   </doc>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The American Anthropologist&lt;/em&gt;, Vol. XI, No. 1, [Horsford's Acid Phosphate Advertisement]</field>
+-    <field name="unittitle_teim">The American Anthropologist, Vol. XI, No. 1, [Horsford's Acid Phosphate Advertisement]</field>
++    <field name="unittitle_ssm">&lt;em&gt;The American Anthropologist&lt;/em&gt;, Vol. XI, No. 1, [Horsford&#39;s Acid Phosphate Advertisement]</field>
++    <field name="unittitle_teim">The American Anthropologist, Vol. XI, No. 1, [Horsford&#39;s Acid Phosphate Advertisement]</field>
+     <field name="unitid_teim">cuid4316</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/512312</field>
+     <field name="unitid_ssm">cuid4316</field>
+@@ -38,12 +38,13 @@
+     <field name="location_ssm">Box: 114, Folder: 32</field>
+     <field name="location_si">Box: 114, Folder: 32</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series I: Assorted Horsford Materials</field>
+     <field name="series_sim">Subseries 6: Poetry and Manuscripts</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series I: Assorted Horsford Materials &gt;&gt; Subseries 6: Poetry and Manuscripts &gt;&gt; &lt;em&gt;The American Anthropologist&lt;/em&gt;, Vol. XI, No. 1, [Horsford's Acid Phosphate Advertisement]</field>
+-    <field name="heading_ssm">The American Anthropologist, Vol. XI, No. 1, [Horsford's Acid Phosphate Advertisement]</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series I: Assorted Horsford Materials &gt;&gt; Subseries 6: Poetry and Manuscripts &gt;&gt; &lt;em&gt;The American Anthropologist&lt;/em&gt;, Vol. XI, No. 1, [Horsford&#39;s Acid Phosphate Advertisement]</field>
++    <field name="heading_ssm">The American Anthropologist, Vol. XI, No. 1, [Horsford&#39;s Acid Phosphate Advertisement]</field>
+     <field name="unitdate_start_sim">1898</field>
+     <field name="unitdate_start_ssm">1898</field>
+     <field name="unitdate_start_si">1898</field>

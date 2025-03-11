@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Winslow, Conrad</field>
+@@ -31,7 +31,8 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Winslow, Conrad</field>
+     <field name="heading_ssm">Winslow, Conrad</field>

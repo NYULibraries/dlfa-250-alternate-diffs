@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1975-10-12/1975-10-12</field>
+     <field name="unitdate_normal_sim">1975-10-12/1975-10-12</field>
+     <field name="unitdate_inclusive_teim">1975-10-12</field>
+-    <field name="phystech_teim">Format: 1/2 Open Reel Video, Duration: 15min., Reel Size: 5"</field>
++    <field name="phystech_teim">Format: 1/2 Open Reel Video, Duration: 15min., Reel Size: 5&#34;</field>
+     <field name="ref_ssi">aspace_f73ccfc83e89506502e9a17cb8e5efd0</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 11, reel: 334.0215</field>
+     <field name="location_si">Box: 11, reel: 334.0215</field>
+     <field name="collection_teim">Elliot Glass and Ken Marsh Video Collection</field>
++    <field name="author_teim">Megan O&#39;Shea</field>
+     <field name="collection_unitid_teim">MSS.334</field>
+     <field name="series_si">FITE-OPUS 40, II of II</field>
+     <field name="heading_ssm">FITE-OPUS 40, II of II</field>

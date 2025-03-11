@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+     <field name="collection_unitid_ssm">MSS.383</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">L'amico Fritz</field>
+-    <field name="unittitle_teim">L'amico Fritz</field>
++    <field name="unittitle_ssm">L&#39;amico Fritz</field>
++    <field name="unittitle_teim">L&#39;amico Fritz</field>
+     <field name="unitdate_teim">1902</field>
+     <field name="scopecontent_teim">Librettist: Suardon, P.</field>
+     <field name="scopecontent_teim">Publication City and Publisher: Milano: Stabilimento della Societa Editrice Sonzogno</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 5, Folder: 11</field>
+     <field name="location_si">Box: 5, Folder: 11</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series XXXVI: Mascagni</field>
+-    <field name="series_si">Series XXXVI: Mascagni &gt;&gt; L'amico Fritz</field>
+-    <field name="heading_ssm">L'amico Fritz</field>
++    <field name="series_si">Series XXXVI: Mascagni &gt;&gt; L&#39;amico Fritz</field>
++    <field name="heading_ssm">L&#39;amico Fritz</field>
+     <field name="unitdate_ssm">1902</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">173</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Canemaker Animation Collection</field>
+     <field name="collection_unitid_ssm">MSS.040</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker's 1977 book, &lt;em&gt;The Animated Raggedy Ann and Andy&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker's 1977 book, The Animated Raggedy Ann and Andy</field>
++    <field name="unittitle_ssm">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker&#39;s 1977 book, &lt;em&gt;The Animated Raggedy Ann and Andy&lt;/em&gt;</field>
++    <field name="unittitle_teim">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker&#39;s 1977 book, The Animated Raggedy Ann and Andy</field>
+     <field name="unitid_teim">ID: 040.0068</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/398042</field>
+     <field name="unitid_ssm">ID: 040.0068</field>
+@@ -37,11 +37,12 @@
+     <field name="location_ssm">case: 040.0068</field>
+     <field name="location_si">case: 040.0068</field>
+     <field name="collection_teim">John Canemaker Animation Collection</field>
++    <field name="author_teim">Robert A. Landau (1992). Updated: Daniel Sokolow (1997), Michael Zimmer (2003-2004), YZ Chin (2008), and Timothy M. Woitas (2013).</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+     <field name="series_sim">Series V: Audio &amp;amp; Video Tape Collection.</field>
+     <field name="series_sim">Subseries A: Audio Interviews</field>
+-    <field name="series_si">Series V: Audio &amp;amp; Video Tape Collection. &gt;&gt; Subseries A: Audio Interviews &gt;&gt; Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker's 1977 book, &lt;em&gt;The Animated Raggedy Ann and Andy&lt;/em&gt;</field>
+-    <field name="heading_ssm">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker's 1977 book, The Animated Raggedy Ann and Andy</field>
++    <field name="series_si">Series V: Audio &amp; Video Tape Collection. &gt;&gt; Subseries A: Audio Interviews &gt;&gt; Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker&#39;s 1977 book, &lt;em&gt;The Animated Raggedy Ann and Andy&lt;/em&gt;</field>
++    <field name="heading_ssm">Fred Stuthman, Richard Horner, and Cozmo Anzillotti, interviewed as part of research for John Canemaker&#39;s 1977 book, The Animated Raggedy Ann and Andy</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

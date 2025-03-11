@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Surveyor's Map - Shelter Island</field>
+-    <field name="unittitle_teim">Surveyor's Map - Shelter Island</field>
++    <field name="unittitle_ssm">Surveyor&#39;s Map - Shelter Island</field>
++    <field name="unittitle_teim">Surveyor&#39;s Map - Shelter Island</field>
+     <field name="unitid_teim">cuid4515</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/512532</field>
+     <field name="unitid_ssm">cuid4515</field>
+@@ -29,8 +29,8 @@
+     <field name="unitdate_normal_teim">1920/1920</field>
+     <field name="unitdate_normal_sim">1920/1920</field>
+     <field name="unitdate_inclusive_teim">circa 1920</field>
+-    <field name="dao_teim">Surveyor's Map - Shelter Island: circa 1920</field>
+-    <field name="dao_ssm">Surveyor's Map - Shelter Island: circa 1920</field>
++    <field name="dao_teim">Surveyor&#39;s Map - Shelter Island: circa 1920</field>
++    <field name="dao_ssm">Surveyor&#39;s Map - Shelter Island: circa 1920</field>
+     <field name="ref_ssi">aspace_ref6315</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,12 +41,13 @@
+     <field name="location_si">Folder: 12</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Horsford: Oversize </field>
+     <field name="series_sim">Oversize Series I, Subseries 3: Financial and Sylvester Manor Materials</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Horsford: Oversize  &gt;&gt; Oversize Series I, Subseries 3: Financial and Sylvester Manor Materials &gt;&gt; Surveyor's Map - Shelter Island</field>
+-    <field name="heading_ssm">Surveyor's Map - Shelter Island</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Horsford: Oversize  &gt;&gt; Oversize Series I, Subseries 3: Financial and Sylvester Manor Materials &gt;&gt; Surveyor&#39;s Map - Shelter Island</field>
++    <field name="heading_ssm">Surveyor&#39;s Map - Shelter Island</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>
+     <field name="unitdate_start_si">1920</field>

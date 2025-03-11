@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Institute on the Arts and Civic Dialogue Archive</field>
+     <field name="collection_unitid_ssm">MSS.127</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Thank You" to Applicants</field>
+-    <field name="unittitle_teim">"Thank You" to Applicants</field>
++    <field name="unittitle_ssm">&#34;Thank You&#34; to Applicants</field>
++    <field name="unittitle_teim">&#34;Thank You&#34; to Applicants</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref928</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 10, Folder: 867</field>
+     <field name="location_si">Box: 10, Folder: 867</field>
+     <field name="collection_teim">Institute on the Arts and Civic Dialogue Archive</field>
++    <field name="author_teim">Jonathan Lill</field>
+     <field name="collection_unitid_teim">MSS.127</field>
+     <field name="series_sim">Series 3: 2000</field>
+     <field name="series_sim">Subseries 3.4: Appointment Protocol</field>
+-    <field name="series_si">Series 3: 2000 &gt;&gt; Subseries 3.4: Appointment Protocol &gt;&gt; "Thank You" to Applicants</field>
+-    <field name="heading_ssm">"Thank You" to Applicants</field>
++    <field name="series_si">Series 3: 2000 &gt;&gt; Subseries 3.4: Appointment Protocol &gt;&gt; &#34;Thank You&#34; to Applicants</field>
++    <field name="heading_ssm">&#34;Thank You&#34; to Applicants</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">892</field>

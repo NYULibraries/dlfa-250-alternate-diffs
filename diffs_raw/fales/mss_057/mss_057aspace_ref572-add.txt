@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,14 @@
+     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
+     <field name="collection_unitid_ssm">MSS.057</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dodgson, Charles "A master of a man"s parent is that man"s superior " Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
+-    <field name="unittitle_teim">Dodgson, Charles "A master of a man"s parent is that man"s superior " Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
++    <field name="unittitle_ssm">Dodgson, Charles &#34;A master of a man&#34;s parent is that man&#34;s superior &#34; Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
++    <field name="unittitle_teim">Dodgson, Charles 
++&#34;A master of a man&#34;s parent is that man&#34;s superior 
++&#34; 
++Ms, 1p 
++[n.p.], March 5, 1897 
++(XIX 563) Originally written to Louisa Dodgson. Logic problem. 
++4.25 x 7</field>
+     <field name="unitid_teim">1779</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/409242</field>
+     <field name="unitid_ssm">1779</field>
+@@ -32,11 +38,18 @@
+     <field name="location_ssm">Box: 6, Folder: 490</field>
+     <field name="location_si">Box: 6, Folder: 490</field>
+     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
++    <field name="author_teim">Chatham Ewing, October 1997 - February 1998</field>
+     <field name="collection_unitid_teim">MSS.057</field>
+     <field name="series_sim">Series 2: Manuscripts</field>
+     <field name="series_sim">Subseries 2A: Manuscripts by Charles L. Dodgson.</field>
+-    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles "A master of a man"s parent is that man"s superior " Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
+-    <field name="heading_ssm">Dodgson, Charles "A master of a man"s parent is that man"s superior " Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
++    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles &#34;A master of a man&#34;s parent is that man&#34;s superior &#34; Ms, 1p [n.p.], March 5, 1897 (XIX 563) Originally written to Louisa Dodgson. Logic problem. 4.25 x 7</field>
++    <field name="heading_ssm">Dodgson, Charles 
++&#34;A master of a man&#34;s parent is that man&#34;s superior 
++&#34; 
++Ms, 1p 
++[n.p.], March 5, 1897 
++(XIX 563) Originally written to Louisa Dodgson. Logic problem. 
++4.25 x 7</field>
+     <field name="unitdate_ssm">1897</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">562</field>

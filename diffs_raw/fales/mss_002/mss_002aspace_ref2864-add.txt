@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Rugg's Klondike Gold Fields</field>
+-    <field name="unittitle_teim">Rugg's Klondike Gold Fields</field>
++    <field name="unittitle_ssm">Rugg&#39;s Klondike Gold Fields</field>
++    <field name="unittitle_teim">Rugg&#39;s Klondike Gold Fields</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389477</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389477</field>
+     <field name="ref_ssi">aspace_ref2864</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Folder: 16</field>
+     <field name="location_si">Folder: 16</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Mapcase - Series XII: Printed Material</field>
+     <field name="series_sim">Subseries G: Alaska</field>
+-    <field name="series_si">Mapcase - Series XII: Printed Material &gt;&gt; Subseries G: Alaska &gt;&gt; Rugg's Klondike Gold Fields</field>
+-    <field name="heading_ssm">Rugg's Klondike Gold Fields</field>
++    <field name="series_si">Mapcase - Series XII: Printed Material &gt;&gt; Subseries G: Alaska &gt;&gt; Rugg&#39;s Klondike Gold Fields</field>
++    <field name="heading_ssm">Rugg&#39;s Klondike Gold Fields</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2440</field>
+   </doc>

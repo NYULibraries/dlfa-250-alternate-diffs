@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/547902</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547902</field>
+     <field name="unitdate_teim">1963-88, undated</field>
+-    <field name="scopecontent_teim">Larry Rivers, Picasso Sucks Shirt, Studio Scenes, L.R. at Work, Box 16: Exhibitions (Dwan '63, Horwitch '83, Simms '87).</field>
++    <field name="scopecontent_teim">Larry Rivers, Picasso Sucks Shirt, Studio Scenes, L.R. at Work, Box 16: Exhibitions (Dwan &#39;63, Horwitch &#39;83, Simms &#39;87).</field>
+     <field name="ref_ssi">aspace_ref4841</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">binder: A11</field>
+     <field name="location_si">binder: A11</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series III: Photographic Material</field>
+     <field name="series_sim">Subseries A: Slide Cases</field>

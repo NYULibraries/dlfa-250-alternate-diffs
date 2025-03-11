@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Paton, Hugh--Etching of London's Tower Bridge</field>
+-    <field name="unittitle_teim">Paton, Hugh--Etching of London's Tower Bridge</field>
++    <field name="unittitle_ssm">Paton, Hugh--Etching of London&#39;s Tower Bridge</field>
++    <field name="unittitle_teim">Paton, Hugh--Etching of London&#39;s Tower Bridge</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389438</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389438</field>
+     <field name="unitdate_normal_ssm">1906/1906</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 274, Folder: 4</field>
+     <field name="location_si">Box: 274, Folder: 4</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Oversize - Series XIII: Ephemera and Artifacts</field>
+     <field name="series_sim">Subseries A: Artifacts</field>
+-    <field name="series_si">Oversize - Series XIII: Ephemera and Artifacts &gt;&gt; Subseries A: Artifacts &gt;&gt; Paton, Hugh--Etching of London's Tower Bridge</field>
+-    <field name="heading_ssm">Paton, Hugh--Etching of London's Tower Bridge</field>
++    <field name="series_si">Oversize - Series XIII: Ephemera and Artifacts &gt;&gt; Subseries A: Artifacts &gt;&gt; Paton, Hugh--Etching of London&#39;s Tower Bridge</field>
++    <field name="heading_ssm">Paton, Hugh--Etching of London&#39;s Tower Bridge</field>
+     <field name="unitdate_start_sim">1906</field>
+     <field name="unitdate_start_ssm">1906</field>
+     <field name="unitdate_start_si">1906</field>

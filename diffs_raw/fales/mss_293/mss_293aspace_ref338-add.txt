@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Diana's Tattoo 1</field>
+-    <field name="unittitle_teim">Diana's Tattoo 1</field>
++    <field name="unittitle_ssm">Diana&#39;s Tattoo 1</field>
++    <field name="unittitle_teim">Diana&#39;s Tattoo 1</field>
+     <field name="unitid_teim">ID: 293.0167_a</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/550649</field>
+     <field name="unitid_ssm">ID: 293.0167_a</field>
+@@ -24,8 +24,10 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550649</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Diana Molinari gets a tattoo. Rivers films the process and interviews the artist, Spider Webb.</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 31 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 31 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref338</field>
+     <field name="repository_ssi">fales</field>
+@@ -37,11 +39,12 @@
+     <field name="location_ssm">case: 293.0167_a </field>
+     <field name="location_si">case: 293.0167_a </field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>
+-    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Diana's Tattoo 1</field>
+-    <field name="heading_ssm">Diana's Tattoo 1</field>
++    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Diana&#39;s Tattoo 1</field>
++    <field name="heading_ssm">Diana&#39;s Tattoo 1</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3636</field>

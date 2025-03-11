@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Ribot, Marc</field>
+@@ -19,8 +19,8 @@
+     <field name="unitdate_normal_teim">2017-05/2017-05</field>
+     <field name="unitdate_normal_sim">2017-05/2017-05</field>
+     <field name="unitdate_teim">May 2017- ongoing</field>
+-    <field name="scopecontent_teim">This is the archived website of New York City-based musician Marc Ribot, which documents his professional career as a composer and guitarist from the 1980's to the present. It includes a brief biography of Ribot, descriptions of his past and current projects, his discography, links to articles written about him and his works, information about getting active in the music community, a store with band merchandise for sale, and contact information for the artist. 
+-Ribot is prominent as a guitarist and composer in New York's Downtown scene and free improvisational music internationally, as well as being well-known as a performer in many more traditional styles and genres. Capture of the site began in May 2017. This description is based on the May 2017 capture of the site.</field>
++    <field name="scopecontent_teim">This is the archived website of New York City-based musician Marc Ribot, which documents his professional career as a composer and guitarist from the 1980&#39;s to the present. It includes a brief biography of Ribot, descriptions of his past and current projects, his discography, links to articles written about him and his works, information about getting active in the music community, a store with band merchandise for sale, and contact information for the artist. 
++Ribot is prominent as a guitarist and composer in New York&#39;s Downtown scene and free improvisational music internationally, as well as being well-known as a performer in many more traditional styles and genres. Capture of the site began in May 2017. This description is based on the May 2017 capture of the site.</field>
+     <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. 
+  
+ Crawl was limited to domains and subdomains of http://marcribot.com/, https://vimeo.com/marcribot and https://soundcloud.com/marcribot in order to remain within the collection scope and data constraints.</field>
+@@ -35,7 +35,8 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Ribot, Marc</field>
+     <field name="heading_ssm">Ribot, Marc</field>

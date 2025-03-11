@@ -1,0 +1,196 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,63 +13,114 @@
+     <field name="unittitle_teim">Clark Wolf</field>
+     <field name="scopecontent_teim">A food and hospitality consultant, Clark Wolf has advised a wide range of clients including restaurants, hotels, casinos, public institutions, and specialty food companies.
+  
+-Wolf was a far-sighted cheese purveyor in San Francisco when James Beard walked into his cheese shop one day. The meeting launched a friendship that lasted from the early 1980s until Beard's death in 1985.
+- 
+-Encouraged by Beard to come to New York, Wolf made the move in 1982 when Barbara Kafka invited him to open her specialty shop, Star Spangled Foods. Although he kept a home in Northern California, Wolf has maintained a New York presence ever since. An enthusiastic supporter of and fundraiser for New York University's Food Studies program, Wolf created the popular Critical Topics series on food studies for the Fales Library. He is the author of the 2008 American Cheeses.</field>
++Wolf was a far-sighted cheese purveyor in San Francisco when James Beard walked into his cheese shop one day. The meeting launched a friendship that lasted from the early 1980s until Beard&#39;s death in 1985.
++ 
++Encouraged by Beard to come to New York, Wolf made the move in 1982 when Barbara Kafka invited him to open her specialty shop, Star Spangled Foods. Although he kept a home in Northern California, Wolf has maintained a New York presence ever since. An enthusiastic supporter of and fundraiser for New York University&#39;s Food Studies program, Wolf created the popular Critical Topics series on food studies for the Fales Library. He is the author of the 2008 American Cheeses.</field>
+     <field name="scopecontent_teim">These interviews track his early years, his life in San Francisco, his first meeting with James Beard, his arrival in New York, his work as a food and restaurant consultant, and his longtime friendship with Beard. </field>
+     <field name="scopecontent_teim">People:
++
+ Baum, Joseph
++
+ Beard, James, 1903-1985
++
+ Burros, Marian Fox
++
+ Carroll, John
++
+ Cofacci, Gino
++
+ Cunningham, Marion
++
+ Gilder, Emily
++
+ Glaser, Milton
++
+ Grimes, William 
++
+ Kafka, Barbara 
++
+ Kump, Peter
++
+ Lewis, Bob
++
+ Mariani, John F.
++
+ Nestle, Marion
++
+ Phelps, Joseph 
++
+ Reichl, Ruth 
++
+ Rogers, Judy 
++
+ Santo, Joseph 
++
+ Spector, Stephen
++
+ Taylor, Marvin J.
++
+ Tower Jeremiah 
++
+ Waters , Alice
+-Wolf, Clark</field>
++
++Wolf, Clark
++
++</field>
+     <field name="scopecontent_teim">Organizations:
++
+ American Cheese Society
++
+ American Institute of Wine &amp; Food
++
+ Arizona 266 (Restaurant)
+-Bloomingdale's (Firm) 
+-Cook's Magazine
++
++Bloomingdale&#39;s (Firm) 
++
++Cook&#39;s Magazine
++
+ Loews Hotels
++
+ Markham (Restaurant)
++
+ New York University
++
+ Oakville Grocery
++
+ Sign of the Dove (Restaurant) 
+-Yellowfingers (Restaurant)</field>
++
++Yellowfingers (Restaurant)
++
++</field>
+     <field name="scopecontent_teim">Subjects:
++
+ Cheese
++
+ Cooking, American -- California style 
++
+ Cooking, American -- History -- 20th century
++
+ Cooking -- Study and teaching
++
+ Food habits
++
+ Food industry and trade -- United States
++
+ Food service
++
+ Gastronomy
++
+ Homosexuality
++
+ Restaurants -- California -- San Francisco
++
+ Restaurant management
+-Restaurants -- New York (State) -- New York</field>
++
++Restaurants -- New York (State) -- New York
++</field>
+     <field name="corpname_teim">American Cheese Society</field>
+     <field name="corpname_teim">American Institute of Wine &amp; Food</field>
+     <field name="corpname_teim">Arizona 266 (Restaurant)</field>
+-    <field name="corpname_teim">Bloomingdale's (Firm)</field>
++    <field name="corpname_teim">Bloomingdale&#39;s (Firm)</field>
+     <field name="corpname_teim">Markham (Restaurant)</field>
+     <field name="corpname_teim">Leows Hotels</field>
+     <field name="corpname_teim">Oakville Grocery</field>
+@@ -79,7 +130,7 @@
+     <field name="corpname_ssm">American Cheese Society</field>
+     <field name="corpname_ssm">American Institute of Wine &amp; Food</field>
+     <field name="corpname_ssm">Arizona 266 (Restaurant)</field>
+-    <field name="corpname_ssm">Bloomingdale's (Firm)</field>
++    <field name="corpname_ssm">Bloomingdale&#39;s (Firm)</field>
+     <field name="corpname_ssm">Markham (Restaurant)</field>
+     <field name="corpname_ssm">Leows Hotels</field>
+     <field name="corpname_ssm">Oakville Grocery</field>
+@@ -144,14 +195,14 @@
+     <field name="subject_teim">Gastronomy.</field>
+     <field name="subject_teim">Food service</field>
+     <field name="subject_teim">Food industry and trade -- United States.</field>
+-    <field name="subject_teim">Restaurants -- California -- San Francisco</field>
+-    <field name="subject_teim">Restaurant management</field>
+-    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
+-    <field name="subject_teim">Cheese</field>
+-    <field name="subject_teim">Food habits</field>
+-    <field name="subject_teim">Cooking -- Study and teaching</field>
+-    <field name="subject_teim">Cooking, American -- History -- 20th century</field>
+-    <field name="subject_teim">Cooking, American -- California style</field>
++    <field name="subject_teim">Restaurants --California --San Francisco</field>
++    <field name="subject_teim">Restaurant management</field>
++    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
++    <field name="subject_teim">Cheese</field>
++    <field name="subject_teim">Food habits</field>
++    <field name="subject_teim">Cooking --Study and teaching</field>
++    <field name="subject_teim">Cooking, American --History --20th century</field>
++    <field name="subject_teim">Cooking, American --California style</field>
+     <field name="subject_teim">Homosexuality</field>
+     <field name="subject_teim">Gastronomy.</field>
+     <field name="subject_teim">Food service</field>
+@@ -177,7 +228,7 @@
+     <field name="name_sim">American Cheese Society</field>
+     <field name="name_sim">American Institute of Wine &amp; Food</field>
+     <field name="name_sim">Arizona 266 (Restaurant)</field>
+-    <field name="name_sim">Bloomingdale's (Firm)</field>
++    <field name="name_sim">Bloomingdale&#39;s (Firm)</field>
+     <field name="name_sim">Markham (Restaurant)</field>
+     <field name="name_sim">Leows Hotels</field>
+     <field name="name_sim">Oakville Grocery</field>
+@@ -210,7 +261,7 @@
+     <field name="name_teim">American Cheese Society</field>
+     <field name="name_teim">American Institute of Wine &amp; Food</field>
+     <field name="name_teim">Arizona 266 (Restaurant)</field>
+-    <field name="name_teim">Bloomingdale's (Firm)</field>
++    <field name="name_teim">Bloomingdale&#39;s (Firm)</field>
+     <field name="name_teim">Markham (Restaurant)</field>
+     <field name="name_teim">Leows Hotels</field>
+     <field name="name_teim">Oakville Grocery</field>
+@@ -240,14 +291,14 @@
+     <field name="name_teim">Cunningham, Marion</field>
+     <field name="name_teim">Gilder, Emily</field>
+     <field name="name_teim">Glaser, Milton</field>
+-    <field name="subject_sim">Restaurants -- California -- San Francisco</field>
++    <field name="subject_sim">Restaurants --California --San Francisco</field>
+     <field name="subject_sim">Restaurant management</field>
+     <field name="subject_sim">Restaurants -- New York (State) -- New York</field>
+     <field name="subject_sim">Cheese</field>
+     <field name="subject_sim">Food habits</field>
+-    <field name="subject_sim">Cooking -- Study and teaching</field>
+-    <field name="subject_sim">Cooking, American -- History -- 20th century</field>
+-    <field name="subject_sim">Cooking, American -- California style</field>
++    <field name="subject_sim">Cooking --Study and teaching</field>
++    <field name="subject_sim">Cooking, American --History --20th century</field>
++    <field name="subject_sim">Cooking, American --California style</field>
+     <field name="subject_sim">Homosexuality</field>
+     <field name="subject_sim">Gastronomy.</field>
+     <field name="subject_sim">Food service</field>

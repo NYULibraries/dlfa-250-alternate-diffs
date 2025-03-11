@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1953/1979</field>
+     <field name="unitdate_normal_sim">1953/1979</field>
+     <field name="unitdate_inclusive_teim">1953, circa 1970s</field>
+-    <field name="scopecontent_teim">Roman Meal Co. The World's Greatest Sandwiches and a Roman Heritage of 2,000 Years. Tacoma, WA: Roman Meal Co., undated.</field>
++    <field name="scopecontent_teim">Roman Meal Co. The World&#39;s Greatest Sandwiches and a Roman Heritage of 2,000 Years. Tacoma, WA: Roman Meal Co., undated.</field>
+     <field name="ref_ssi">aspace_ref619</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 33, Folder: 21</field>
+     <field name="location_si">Box: 33, Folder: 21</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Romanoff Caviar Company; Roman Meal Company</field>

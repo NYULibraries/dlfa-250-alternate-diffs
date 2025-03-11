@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Darinka Archive</field>
+     <field name="collection_unitid_ssm">MSS.340</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Purple Geezus, "Jennifer Polanski"</field>
+-    <field name="unittitle_teim">Purple Geezus, "Jennifer Polanski"</field>
++    <field name="unittitle_ssm">Purple Geezus, &#34;Jennifer Polanski&#34;</field>
++    <field name="unittitle_teim">Purple Geezus, &#34;Jennifer Polanski&#34;</field>
+     <field name="unitid_teim">ID: 340.0062</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/562053</field>
+     <field name="unitid_ssm">ID: 340.0062</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Box: 7, Media: ID: 340.0062</field>
+     <field name="location_si">Box: 7, Media: ID: 340.0062</field>
+     <field name="collection_teim">Darinka Archive</field>
++    <field name="author_teim">Colin Torre; Finding aid created by Laura Newsome. Media updates by Rhyannon J. Rodriguez.</field>
+     <field name="collection_unitid_teim">MSS.340</field>
+     <field name="series_sim">Series III: Audio Recordings</field>
+     <field name="series_sim">Subseries A: Performance </field>
+-    <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries A: Performance  &gt;&gt; Purple Geezus, "Jennifer Polanski"</field>
+-    <field name="heading_ssm">Purple Geezus, "Jennifer Polanski"</field>
++    <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries A: Performance  &gt;&gt; Purple Geezus, &#34;Jennifer Polanski&#34;</field>
++    <field name="heading_ssm">Purple Geezus, &#34;Jennifer Polanski&#34;</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

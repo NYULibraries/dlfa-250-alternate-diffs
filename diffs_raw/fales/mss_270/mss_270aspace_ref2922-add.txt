@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Public Art Fund Archive</field>
+     <field name="collection_unitid_ssm">MSS.270</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Cool Hunting - Lisa Kereszi - Governor's Island</field>
+-    <field name="unittitle_teim">Cool Hunting - Lisa Kereszi - Governor's Island</field>
++    <field name="unittitle_ssm">Cool Hunting - Lisa Kereszi - Governor&#39;s Island</field>
++    <field name="unittitle_teim">Cool Hunting - Lisa Kereszi - Governor&#39;s Island</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/537555</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/537555</field>
+     <field name="unitdate_teim">undated</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 110, Media: ID: 270.3.0077</field>
+     <field name="location_si">Box: 110, Media: ID: 270.3.0077</field>
+     <field name="collection_teim">Public Art Fund Archive</field>
++    <field name="author_teim">Tara Hart, 2011. Previous processing by David Kim, Jaclyn Barcewski, Joey Cabrera, Peter Loring, Craig P. Savino, Lilli Schestag. Finding aid created by Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.270</field>
+     <field name="series_sim">Series XIII: Data Storage</field>
+-    <field name="series_si">Series XIII: Data Storage &gt;&gt; Cool Hunting - Lisa Kereszi - Governor's Island</field>
+-    <field name="heading_ssm">Cool Hunting - Lisa Kereszi - Governor's Island</field>
++    <field name="series_si">Series XIII: Data Storage &gt;&gt; Cool Hunting - Lisa Kereszi - Governor&#39;s Island</field>
++    <field name="heading_ssm">Cool Hunting - Lisa Kereszi - Governor&#39;s Island</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2319</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Martha Wilson Papers</field>
+     <field name="collection_unitid_ssm">MSS.175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">America's Funniest Home Videos </field>
+-    <field name="unittitle_teim">America's Funniest Home Videos </field>
++    <field name="unittitle_ssm">America&#39;s Funniest Home Videos </field>
++    <field name="unittitle_teim">America&#39;s Funniest Home Videos </field>
+     <field name="unitid_teim">/repositories/3/archival_objects/490369</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/490369</field>
+     <field name="unitdate_teim">1990</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 7, Folder: 38</field>
+     <field name="location_si">Box: 7, Folder: 38</field>
+     <field name="collection_teim">Martha Wilson Papers</field>
++    <field name="author_teim">Lydia Brawner (2011); Finding aid completed by Rachel Greer (2012).</field>
+     <field name="collection_unitid_teim">MSS.175</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_sim">Subseries A: General Correspondence </field>
+-    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries A: General Correspondence  &gt;&gt; America's Funniest Home Videos </field>
+-    <field name="heading_ssm">America's Funniest Home Videos </field>
++    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries A: General Correspondence  &gt;&gt; America&#39;s Funniest Home Videos </field>
++    <field name="heading_ssm">America&#39;s Funniest Home Videos </field>
+     <field name="unitdate_ssm">1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">191</field>

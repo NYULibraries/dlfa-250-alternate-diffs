@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_inclusive_teim">March 23, 1986 / May 1, 1986</field>
+-    <field name="scopecontent_teim">This video documents the March 23, 1986 at The Zulu Lounge, including a performance by Shazork (Lady Bunny, DJ Dmitri Brill, and Sister Dimension's band). After the show, Nelson spends a little time backstage with the band. It also shows the May 1, 1986, Lady Bunny and Dimetri performance at Southern Funk Cafe.</field>
++    <field name="scopecontent_teim">This video documents the March 23, 1986 at The Zulu Lounge, including a performance by Shazork (Lady Bunny, DJ Dmitri Brill, and Sister Dimension&#39;s band). After the show, Nelson spends a little time backstage with the band. It also shows the May 1, 1986, Lady Bunny and Dimetri performance at Southern Funk Cafe.</field>
+     <field name="phystech_teim">Original format: VHS</field>
+     <field name="ref_ssi">aspace_ref73</field>
+     <field name="repository_ssi">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">case: 357.0017</field>
+     <field name="location_si">case: 357.0017</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Shazork at Zulu Lounde and Lady Bunny and Dimetri at Southern Funk</field>

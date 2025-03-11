@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1877/1877</field>
+     <field name="unitdate_normal_sim">1877/1877</field>
+     <field name="unitdate_inclusive_teim">1877</field>
+-    <field name="scopecontent_teim">Notice of the birth of Laurencia, daughter of Nicenta, a criolla woman, and an unknown father who was enslaved by J. Godinez. The child's godmother is Maria Mincheta, a criolla woman enslaved by Sofia Perran.</field>
++    <field name="scopecontent_teim">Notice of the birth of Laurencia, daughter of Nicenta, a criolla woman, and an unknown father who was enslaved by J. Godinez. The child&#39;s godmother is Maria Mincheta, a criolla woman enslaved by Sofia Perran.</field>
+     <field name="ref_ssi">aspace_837dc59b6c11a2612b79ad49bf43dc5d</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 71</field>
+     <field name="location_si">Box: 2, Folder: 71</field>
+     <field name="collection_teim">Collection on Enslavement in Cuba</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.569</field>
+     <field name="series_si">Birth Notice of Laurecia</field>
+     <field name="heading_ssm">Birth Notice of Laurecia</field>

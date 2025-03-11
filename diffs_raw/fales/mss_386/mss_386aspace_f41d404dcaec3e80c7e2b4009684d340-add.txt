@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Linda Mary Montano Papers</field>
+     <field name="collection_unitid_ssm">MSS.386</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Cohn, Terri. Artist's Response: Portraits and Self-Portraits</field>
+-    <field name="unittitle_teim">Cohn, Terri. Artist's Response: Portraits and Self-Portraits</field>
++    <field name="unittitle_ssm">Cohn, Terri. Artist&#39;s Response: Portraits and Self-Portraits</field>
++    <field name="unittitle_teim">Cohn, Terri. Artist&#39;s Response: Portraits and Self-Portraits</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/733104</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/733104</field>
+     <field name="unitdate_inclusive_teim">2010</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 101, Folder: 7</field>
+     <field name="location_si">Box: 101, Folder: 7</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series X: Library</field>
+-    <field name="series_si">Series X: Library &gt;&gt; Cohn, Terri. Artist's Response: Portraits and Self-Portraits</field>
+-    <field name="heading_ssm">Cohn, Terri. Artist's Response: Portraits and Self-Portraits</field>
++    <field name="series_si">Series X: Library &gt;&gt; Cohn, Terri. Artist&#39;s Response: Portraits and Self-Portraits</field>
++    <field name="heading_ssm">Cohn, Terri. Artist&#39;s Response: Portraits and Self-Portraits</field>
+     <field name="unitdate_ssm">Inclusive, 2010</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1723</field>

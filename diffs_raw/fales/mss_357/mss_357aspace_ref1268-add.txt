@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_inclusive_teim">1986</field>
+-    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Notes: "Excessive dropouts; baked in scientific oven"</field>
++    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Notes: &#34;Excessive dropouts; baked in scientific oven&#34;</field>
+     <field name="dao_teim">Gay Day Pyramid People</field>
+     <field name="dao_ssm">Gay Day Pyramid People</field>
+     <field name="ref_ssi">aspace_ref1268</field>
+@@ -35,6 +35,7 @@
+     <field name="location_si">case: 357.0371</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Gay Day Pyramid People</field>

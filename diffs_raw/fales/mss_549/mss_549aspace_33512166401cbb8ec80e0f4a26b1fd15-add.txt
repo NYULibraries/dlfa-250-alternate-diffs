@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1996/2012</field>
+     <field name="unitdate_normal_sim">1996/2012</field>
+     <field name="unitdate_inclusive_teim">1996-2000, 2012</field>
+-    <field name="scopecontent_teim">These folders contain materials related to Mary Beth Edelson's exhibition at the Galleri Nicolai Wallner, as well as materials related to workshops she facilited in Copenhagen.</field>
++    <field name="scopecontent_teim">These folders contain materials related to Mary Beth Edelson&#39;s exhibition at the Galleri Nicolai Wallner, as well as materials related to workshops she facilited in Copenhagen.</field>
+     <field name="ref_ssi">aspace_33512166401cbb8ec80e0f4a26b1fd15</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Flat-File-Folder: 3 Right</field>
+     <field name="location_si">Flat-File-Folder: 3 Right</field>
+     <field name="collection_teim">Mary Beth Edelson Papers</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder</field>
+     <field name="collection_unitid_teim">MSS.549</field>
+     <field name="series_sim">Series I: Professional Activities</field>
+     <field name="series_sim">Sub-Series I.B: Exhibitions and Performances</field>

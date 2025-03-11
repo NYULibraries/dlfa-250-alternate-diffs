@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Laura Foreman Papers</field>
+     <field name="collection_unitid_ssm">MSS.122</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Men's Auditions #1</field>
+-    <field name="unittitle_teim">Men's Auditions #1</field>
++    <field name="unittitle_ssm">Men&#39;s Auditions #1</field>
++    <field name="unittitle_teim">Men&#39;s Auditions #1</field>
+     <field name="unitid_teim">ID: 122.0222</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/448874</field>
+     <field name="unitid_ssm">ID: 122.0222</field>
+@@ -35,11 +35,12 @@
+     <field name="location_ssm">Box: 137, Media: ID: 122.0222</field>
+     <field name="location_si">Box: 137, Media: ID: 122.0222</field>
+     <field name="collection_teim">Laura Foreman Papers</field>
++    <field name="author_teim">Nicholas Martin, 2010.</field>
+     <field name="collection_unitid_teim">MSS.122</field>
+     <field name="series_sim">Series VI: Video recordings</field>
+     <field name="series_sim">Subseries A: Original tapes</field>
+-    <field name="series_si">Series VI: Video recordings &gt;&gt; Subseries A: Original tapes &gt;&gt; Men's Auditions #1</field>
+-    <field name="heading_ssm">Men's Auditions #1</field>
++    <field name="series_si">Series VI: Video recordings &gt;&gt; Subseries A: Original tapes &gt;&gt; Men&#39;s Auditions #1</field>
++    <field name="heading_ssm">Men&#39;s Auditions #1</field>
+     <field name="unitdate_start_sim">1978</field>
+     <field name="unitdate_start_ssm">1978</field>
+     <field name="unitdate_start_si">1978</field>

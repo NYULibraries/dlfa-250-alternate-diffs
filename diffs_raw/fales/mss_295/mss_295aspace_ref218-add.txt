@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Dunbar &amp;amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar's Sons</field>
+-    <field name="unittitle_teim">Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar's Sons</field>
++    <field name="unittitle_ssm">Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar&#39;s Sons</field>
++    <field name="unittitle_teim">Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar&#39;s Sons</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729470</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729470</field>
+     <field name="unitdate_normal_ssm">1915/1927</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1915/1927</field>
+     <field name="unitdate_normal_sim">1915/1927</field>
+     <field name="unitdate_inclusive_teim">1915-1927</field>
+-    <field name="scopecontent_teim">Dunbar &amp; Co. Established 1900. "Steam Operated Popcorn Wagons &amp; Poppers and Peanut Roasters 1927 Catalog." Chicago, IL: Dunbar &amp; Co, 1927. Reprint, New York: The Vestal Press, undated.</field>
+-    <field name="scopecontent_teim"> Dunbar-Dukate Co. Original Dunbar Shrimp. New Orleans, LA; Biloxi, MS: G. W. Dunbar's Sons, after 1915.</field>
++    <field name="scopecontent_teim">Dunbar &amp; Co. Established 1900. &#34;Steam Operated Popcorn Wagons &amp; Poppers and Peanut Roasters 1927 Catalog.&#34; Chicago, IL: Dunbar &amp; Co, 1927. Reprint, New York: The Vestal Press, undated.</field>
++    <field name="scopecontent_teim"> Dunbar-Dukate Co. Original Dunbar Shrimp. New Orleans, LA; Biloxi, MS: G. W. Dunbar&#39;s Sons, after 1915.</field>
+     <field name="ref_ssi">aspace_ref218</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 13, Folder: 5</field>
+     <field name="location_si">Box: 13, Folder: 5</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Dunbar &amp;amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar's Sons</field>
+-    <field name="heading_ssm">Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar's Sons</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar&#39;s Sons</field>
++    <field name="heading_ssm">Dunbar &amp; Company--Popcorn; Dunbar-Dukate Company--G.W. Dunbar&#39;s Sons</field>
+     <field name="unitdate_start_sim">1915</field>
+     <field name="unitdate_start_ssm">1915</field>
+     <field name="unitdate_start_si">1915</field>

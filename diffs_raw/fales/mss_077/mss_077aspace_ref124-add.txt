@@ -1,0 +1,57 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_077</field>
+     <field name="parent_ssi">aspace_ref121</field>
+     <field name="parent_ssm">aspace_ref121</field>
+-    <field name="parent_unittitles_ssm">Series III: "Illustrated Amateur Magazine"</field>
+-    <field name="parent_unittitles_teim">Series III: "Illustrated Amateur Magazine"</field>
++    <field name="parent_unittitles_ssm">Series III: &amp;#34;Illustrated Amateur Magazine&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series III: &amp;#34;Illustrated Amateur Magazine&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Margaret Strickland Papers</field>
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Margaret Strickland Papers</field>
+     <field name="collection_unitid_ssm">MSS.077</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Illustrated Amateur Magazine: The Christmas Number of the I.A.M," Volume I, Number 3  - with Ephemera 
+-</field>
+-    <field name="unittitle_teim">"Illustrated Amateur Magazine: The Christmas Number of the I.A.M," Volume I, Number 3  - with Ephemera 
++    <field name="unittitle_ssm">&#34;Illustrated Amateur Magazine: The Christmas Number of the I.A.M,&#34; Volume I, Number 3  - with Ephemera 
++</field>
++    <field name="unittitle_teim">&#34;Illustrated Amateur Magazine: The Christmas Number of the I.A.M,&#34; Volume I, Number 3  - with Ephemera 
+ </field>
+     <field name="unitdate_normal_ssm">1897/1897</field>
+     <field name="unitdate_normal_teim">1897/1897</field>
+@@ -23,10 +23,10 @@
+     <field name="unitdate_inclusive_teim">1897 December</field>
+     <field name="scopecontent_teim">[Proprietors: The Misses Strickland, of Holmdale, Tweedy Road, Bromley, Kent England]</field>
+     <field name="scopecontent_teim">Contributors: Agnes Strickland, Diana Mary Strickland, E. Linging, Joseph Heap, Margaret Strickland, Maud Kelvin, Otto B. Hatchard, Stanley Hastings Tatham</field>
+-    <field name="scopecontent_teim">Featuring: 1 "National Society for the Prevention of Cruelty to Children" Pamphlet, Announcements, Art Supplement - Tower of London Etching, Cartoon Illustrations, Correspondence, Editorial, Fictional Serial, Images, Ink Drawings, Poetry, "The I.A.M." Sheet Music, Watercolor Paintings - Landscapes, Portraits</field>
++    <field name="scopecontent_teim">Featuring: 1 &#34;National Society for the Prevention of Cruelty to Children&#34; Pamphlet, Announcements, Art Supplement - Tower of London Etching, Cartoon Illustrations, Correspondence, Editorial, Fictional Serial, Images, Ink Drawings, Poetry, &#34;The I.A.M.&#34; Sheet Music, Watercolor Paintings - Landscapes, Portraits</field>
+     <field name="scopecontent_teim">33 Pages, Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 7.75" x 10"</field>
++    <field name="scopecontent_teim">Measurements: 7.75&#34; x 10&#34;</field>
+     <field name="ref_ssi">aspace_ref124</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Box: 6, Folder: 9</field>
+     <field name="location_si">Box: 6, Folder: 9</field>
+     <field name="collection_teim">Margaret Strickland Papers</field>
++    <field name="author_teim">Matt Moore, 2001. Edited by Rhyannon J. Rodriguez 2012, 2014, and 2015.</field>
+     <field name="collection_unitid_teim">MSS.077</field>
+-    <field name="series_sim">Series III: "Illustrated Amateur Magazine"</field>
+-    <field name="series_si">Series III: "Illustrated Amateur Magazine" &gt;&gt; "Illustrated Amateur Magazine: The Christmas Number of the I.A.M," Volume I, Number 3  - with Ephemera 
+-</field>
+-    <field name="heading_ssm">"Illustrated Amateur Magazine: The Christmas Number of the I.A.M," Volume I, Number 3  - with Ephemera 
++    <field name="series_sim">Series III: &amp;#34;Illustrated Amateur Magazine&amp;#34;</field>
++    <field name="series_si">Series III: &#34;Illustrated Amateur Magazine&#34; &gt;&gt; &#34;Illustrated Amateur Magazine: The Christmas Number of the I.A.M,&#34; Volume I, Number 3  - with Ephemera 
++</field>
++    <field name="heading_ssm">&#34;Illustrated Amateur Magazine: The Christmas Number of the I.A.M,&#34; Volume I, Number 3  - with Ephemera 
+ </field>
+     <field name="unitdate_start_sim">1897</field>
+     <field name="unitdate_start_ssm">1897</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">G. P. Gundlach &amp;amp; Company; G. P. Putnam's Sons</field>
+-    <field name="unittitle_teim">G. P. Gundlach &amp; Company; G. P. Putnam's Sons</field>
++    <field name="unittitle_ssm">G. P. Gundlach &amp; Company; G. P. Putnam&#39;s Sons</field>
++    <field name="unittitle_teim">G. P. Gundlach &amp; Company; G. P. Putnam&#39;s Sons</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729530</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729530</field>
+     <field name="unitdate_normal_ssm">1881/1949</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 17, Folder: 7</field>
+     <field name="location_si">Box: 17, Folder: 7</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; G. P. Gundlach &amp;amp; Company; G. P. Putnam's Sons</field>
+-    <field name="heading_ssm">G. P. Gundlach &amp; Company; G. P. Putnam's Sons</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; G. P. Gundlach &amp; Company; G. P. Putnam&#39;s Sons</field>
++    <field name="heading_ssm">G. P. Gundlach &amp; Company; G. P. Putnam&#39;s Sons</field>
+     <field name="unitdate_start_sim">1881</field>
+     <field name="unitdate_start_ssm">1881</field>
+     <field name="unitdate_start_si">1881</field>

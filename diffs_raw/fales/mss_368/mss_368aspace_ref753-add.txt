@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">1971</field>
+     <field name="scopecontent_teim">Title: Alice Holding a Pig</field>
+     <field name="scopecontent_teim">Description: An imaginative jigsaw puzzle with big pieces for little fingers. </field>
+-    <field name="scopecontent_teim">Dimensions: 12"x8"</field>
++    <field name="scopecontent_teim">Dimensions: 12&#34;x8&#34;</field>
+     <field name="ref_ssi">aspace_ref753</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Box: 31, Item: 11</field>
+     <field name="location_si">Box: 31, Item: 11</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Oversize Series III: Games/Dolls/Toys/Puppets</field>
+     <field name="series_sim">Subseries B: Games/Puzzles</field>

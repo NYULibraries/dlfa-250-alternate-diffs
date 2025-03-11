@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Martha Wilson Papers</field>
+     <field name="collection_unitid_ssm">MSS.175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Who's Who in American Art</field>
+-    <field name="unittitle_teim">Who's Who in American Art</field>
++    <field name="unittitle_ssm">Who&#39;s Who in American Art</field>
++    <field name="unittitle_teim">Who&#39;s Who in American Art</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/492445</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/492445</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 23, Folder: 1</field>
+     <field name="location_si">Box: 23, Folder: 1</field>
+     <field name="collection_teim">Martha Wilson Papers</field>
++    <field name="author_teim">Lydia Brawner (2011); Finding aid completed by Rachel Greer (2012).</field>
+     <field name="collection_unitid_teim">MSS.175</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_sim">Subseries A: General Correspondence </field>
+-    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries A: General Correspondence  &gt;&gt; Who's Who in American Art</field>
+-    <field name="heading_ssm">Who's Who in American Art</field>
++    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries A: General Correspondence  &gt;&gt; Who&#39;s Who in American Art</field>
++    <field name="heading_ssm">Who&#39;s Who in American Art</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2266</field>

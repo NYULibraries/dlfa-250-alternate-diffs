@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,11 +26,13 @@
+     <field name="unitdate_normal_teim">1973/1973</field>
+     <field name="unitdate_normal_sim">1973/1973</field>
+     <field name="unitdate_inclusive_teim">1973</field>
+-    <field name="scopecontent_teim">Abbie Hoffman visits the doctor for a follow-up after his vasectomy operation. After ten minutes, tape cuts to footage of two cats, and scenes from Alfred Hitchcock's "The Birds".</field>
+-    <field name="scopecontent_teim">Ab's Vas</field>
+-    <field name="phystech_teim">Black &amp; White/Sound</field>
+-    <field name="phystech_teim">Duration: 32 minutes</field>
+-    <field name="phystech_teim">Original format: 1/2" Open Reel</field>
++    <field name="scopecontent_teim">Abbie Hoffman visits the doctor for a follow-up after his vasectomy operation. After ten minutes, tape cuts to footage of two cats, and scenes from Alfred Hitchcock&#39;s &#34;The Birds&#34;.</field>
++    <field name="scopecontent_teim">Ab&#39;s Vas</field>
++    <field name="phystech_teim">Black &amp; White/Sound
++</field>
++    <field name="phystech_teim">Duration: 32 minutes
++</field>
++    <field name="phystech_teim">Original format: 1/2&#34; Open Reel</field>
+     <field name="ref_ssi">aspace_ref125</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,6 +43,7 @@
+     <field name="location_ssm">case: 293.0061_a</field>
+     <field name="location_si">case: 293.0061_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

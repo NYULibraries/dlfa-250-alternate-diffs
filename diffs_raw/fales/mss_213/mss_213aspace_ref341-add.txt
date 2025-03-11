@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">May 7, 1975</field>
+     <field name="phystech_teim">Format: 1/4 in. Audiocassette</field>
+-    <field name="phystech_teim">Content: 1- Sweet Jane, I Wanna Be Black, For The Coach, Glory of Love, Waiting for the Man, You Can Dance, How Do You Think It Feels?, Uptown Dirt. 2- Walk on the Wild Side, What's Your Style?, Complete Tthis Story Now, White Light</field>
++    <field name="phystech_teim">Content: 1- Sweet Jane, I Wanna Be Black, For The Coach, Glory of Love, Waiting for the Man, You Can Dance, How Do You Think It Feels?, Uptown Dirt. 2- Walk on the Wild Side, What&#39;s Your Style?, Complete Tthis Story Now, White Light</field>
+     <field name="ref_ssi">aspace_ref341</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">case: 213.0158</field>
+     <field name="location_si">case: 213.0158</field>
+     <field name="collection_teim">Peter Dougherty Collection</field>
++    <field name="author_teim">Caroline Partamian with Rhyannon J. Rodriguez, 2012.</field>
+     <field name="collection_unitid_teim">MSS.213</field>
+     <field name="series_sim">Series I: Sound recordings</field>
+     <field name="series_sim">Subseries A: Audio Works</field>

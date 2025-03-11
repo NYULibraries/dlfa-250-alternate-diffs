@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Canemaker Animation Collection</field>
+     <field name="collection_unitid_ssm">MSS.040</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries A: Animators' Artwork</field>
+-    <field name="unittitle_teim">Subseries A: Animators' Artwork</field>
++    <field name="unittitle_ssm">Subseries A: Animators&#39; Artwork</field>
++    <field name="unittitle_teim">Subseries A: Animators&#39; Artwork</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/398421</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/398421</field>
+     <field name="ref_ssi">aspace_ref1178</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Canemaker Animation Collection</field>
++    <field name="author_teim">Robert A. Landau (1992). Updated: Daniel Sokolow (1997), Michael Zimmer (2003-2004), YZ Chin (2008), and Timothy M. Woitas (2013).</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+     <field name="series_sim">Accretions 2003 - Series II: Graphic Material</field>
+-    <field name="series_si">Accretions 2003 - Series II: Graphic Material &gt;&gt; Subseries A: Animators' Artwork</field>
+-    <field name="heading_ssm">Subseries A: Animators' Artwork</field>
++    <field name="series_si">Accretions 2003 - Series II: Graphic Material &gt;&gt; Subseries A: Animators&#39; Artwork</field>
++    <field name="heading_ssm">Subseries A: Animators&#39; Artwork</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">883</field>
+   </doc>

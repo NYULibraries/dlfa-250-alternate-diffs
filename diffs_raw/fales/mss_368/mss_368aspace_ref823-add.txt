@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.368</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Mock Turtle's Song</field>
+-    <field name="unittitle_teim">The Mock Turtle's Song</field>
++    <field name="unittitle_ssm">The Mock Turtle&#39;s Song</field>
++    <field name="unittitle_teim">The Mock Turtle&#39;s Song</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/578299</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/578299</field>
+     <field name="unitdate_teim">[Undated]</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 51, Folder: 2</field>
+     <field name="location_si">Box: 51, Folder: 2</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Series VII: Books/Magazines/Clippings/Newspapers</field>
+     <field name="series_sim">Subseries D: Books</field>
+-    <field name="series_si">Series VII: Books/Magazines/Clippings/Newspapers &gt;&gt; Subseries D: Books &gt;&gt; The Mock Turtle's Song</field>
+-    <field name="heading_ssm">The Mock Turtle's Song</field>
++    <field name="series_si">Series VII: Books/Magazines/Clippings/Newspapers &gt;&gt; Subseries D: Books &gt;&gt; The Mock Turtle&#39;s Song</field>
++    <field name="heading_ssm">The Mock Turtle&#39;s Song</field>
+     <field name="unitdate_ssm">[Undated]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">753</field>

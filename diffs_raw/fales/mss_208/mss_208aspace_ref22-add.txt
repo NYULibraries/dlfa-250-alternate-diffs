@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Legal Record with Notation &amp;amp; Seal</field>
++    <field name="unittitle_ssm">Legal Record with Notation &amp; Seal</field>
+     <field name="unittitle_teim">Legal Record with Notation &amp; Seal</field>
+     <field name="unitid_teim">cuid4758</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/507245</field>
+@@ -30,10 +30,10 @@
+     <field name="scopecontent_teim">Acquisition: Horse Neck, Oyster Bay, [Lloyd Neck, Long Island, NY]</field>
+     <field name="scopecontent_teim">Buyers: Nathaniel Sylvester of Shelter Island, Thomas Hart of Barbados, Latimer Sampson of Long Island</field>
+     <field name="scopecontent_teim">Sales Party: John Richbell with wife Ann Richbell </field>
+-    <field name="scopecontent_teim">In Reference To: Business / Financial / Professional / Real Estate; Transaction for Horse Neck, Oyster Bay to the limits of Hogg Island, Long Island; Purchase Obligation, Payment Agreement; the properties of John Underhill, Mathias Davies, David Godderson, Samuel Anderson, Richard Harcourt; "Sealed &amp; Delivered in the presence of John Youngs; Recorded by Matthias Nicolls, Secretary" </field>
++    <field name="scopecontent_teim">In Reference To: Business / Financial / Professional / Real Estate; Transaction for Horse Neck, Oyster Bay to the limits of Hogg Island, Long Island; Purchase Obligation, Payment Agreement; the properties of John Underhill, Mathias Davies, David Godderson, Samuel Anderson, Richard Harcourt; &#34;Sealed &amp; Delivered in the presence of John Youngs; Recorded by Matthias Nicolls, Secretary&#34; </field>
+     <field name="scopecontent_teim">1 Page, Unbound</field>
+     <field name="scopecontent_teim">Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 17.5" x 22"</field>
++    <field name="scopecontent_teim">Measurements: 17.5&#34; x 22&#34;</field>
+     <field name="dao_teim">Legal Record with Notation &amp; Seal: 1666 November 17; 1667 June 1</field>
+     <field name="dao_ssm">Legal Record with Notation &amp; Seal: 1666 November 17; 1667 June 1</field>
+     <field name="ref_ssi">aspace_ref22</field>
+@@ -46,10 +46,11 @@
+     <field name="location_si">Box: 154, Folder: 5</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+     <field name="series_sim">Series A: Sylvester Family </field>
+-    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Legal Record with Notation &amp;amp; Seal</field>
++    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Legal Record with Notation &amp; Seal</field>
+     <field name="heading_ssm">Legal Record with Notation &amp; Seal</field>
+     <field name="unitdate_start_sim">1666</field>
+     <field name="unitdate_start_ssm">1666</field>

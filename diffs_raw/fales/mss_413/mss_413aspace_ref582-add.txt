@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Maria Irene Fornés Papers</field>
+     <field name="collection_unitid_ssm">MSS.413</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"President John F. Kennedy"--Assassination</field>
+-    <field name="unittitle_teim">"President John F. Kennedy"--Assassination</field>
++    <field name="unittitle_ssm">&#34;President John F. Kennedy&#34;--Assassination</field>
++    <field name="unittitle_teim">&#34;President John F. Kennedy&#34;--Assassination</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/582550</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/582550</field>
+     <field name="unitdate_teim">1963</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Folder: 1 Left</field>
+     <field name="location_si">Folder: 1 Left</field>
+     <field name="collection_teim">Maria Irene Fornés Papers</field>
++    <field name="author_teim">Erika Gottfried</field>
+     <field name="collection_unitid_teim">MSS.413</field>
+     <field name="series_sim">Series VIII: Subject/Research Files</field>
+-    <field name="series_si">Series VIII: Subject/Research Files &gt;&gt; "President John F. Kennedy"--Assassination</field>
+-    <field name="heading_ssm">"President John F. Kennedy"--Assassination</field>
++    <field name="series_si">Series VIII: Subject/Research Files &gt;&gt; &#34;President John F. Kennedy&#34;--Assassination</field>
++    <field name="heading_ssm">&#34;President John F. Kennedy&#34;--Assassination</field>
+     <field name="unitdate_ssm">1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">210</field>

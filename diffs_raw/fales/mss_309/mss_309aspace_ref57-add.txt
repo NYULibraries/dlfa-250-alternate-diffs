@@ -1,0 +1,139 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,41 +12,77 @@
+     <field name="unittitle_ssm">Jacques Pepin</field>
+     <field name="unittitle_teim">Jacques Pepin</field>
+     <field name="scopecontent_teim">Long before cable reality programs brought chefs into American homes, Jacques Pepin was already there, starring in his own multiple cooking series on public television.</field>
+-    <field name="scopecontent_teim">Pepin's father was a cabinetmaker and his mother ran a restaurant. When his family sent him out as a restaurant apprentice, their goal was both to feed him and to teach him a trade. He discovered a passion for the work and his talent soon propelled him from the provinces, to the kitchens of French presidents, to one of New York's best restaurants. When a serious automobile accident made long hours in a restaurant impossible, he turned to teaching and then television.</field>
+-    <field name="scopecontent_teim">Along the way he became a husband and father, an American citizen, a bestselling writer, and one of the guiding spirits of both the prestigious French Culinary Institute in Manhattan and the culinary program at Boston University.</field>
++    <field name="scopecontent_teim">Pepin&#39;s father was a cabinetmaker and his mother ran a restaurant. When his family sent him out as a restaurant apprentice, their goal was both to feed him and to teach him a trade. He discovered a passion for the work and his talent soon propelled him from the provinces, to the kitchens of French presidents, to one of New York&#39;s best restaurants. When a serious automobile accident made long hours in a restaurant impossible, he turned to teaching and then television.
++</field>
++    <field name="scopecontent_teim">Along the way he became a husband and father, an American citizen, a bestselling writer, and one of the guiding spirits of both the prestigious French Culinary Institute in Manhattan and the culinary program at Boston University.
++</field>
+     <field name="scopecontent_teim">Included among his more than 20 books are arguably two of the most influential on cooking techniques ever written in this country, La Technique and La Methode. His eleven television series, with more on the way, have reflected both his years in America and a wide range of culinary possibilities, from cooking for celebrations to cooking with Julia Child.</field>
+     <field name="scopecontent_teim">People:
++
+ Beard, James, 1903-1985 
++
+ Claiborne, Craig 
++
+ Child, Julia 
++
+ Curnonsky, 1872-1956
++
+ Gaulle, Charles de, 1890-1970
++
+ Gaulle, Yvonne de, 1900-1979
++
+ Franey, Pierre 
++
+ McCully, Helen 
+-Pépin, Jacques </field>
++
++Pépin, Jacques 
++
++</field>
+     <field name="scopecontent_teim">Organizations:
++
+ Boston University
++
+ French Culinary Institute (New York, N.Y.)
++
+ Howard Johnson Co. 
++
+ New York Times
++
+ Pavillon (Restaurant : New York, N.Y.) 
++
+ Plaza Athénée 
+-Société Des Cuisiniers  </field>
++
++Société Des Cuisiniers  
++
++</field>
+     <field name="scopecontent_teim">Subjects:
++
+ Authorship
++
+ Cookbooks
++
+ Cooking, American -- History -- 20th century
++
+ Cooking, French
++
+ Cooking -- Periodicals
++
+ Cooking -- Study and teaching
++
+ Dinners and dining
++
+ Food writing
++
+ Gastronomy
++
+ Publishers and publishing
++
+ Restaurants -- France -- Paris
++
+ Restaurants -- New York (State) -- New York
+-Television cooking shows </field>
++
++Television cooking shows 
++</field>
+     <field name="corpname_teim">French Culinary Institute (New York, N.Y.)</field>
+     <field name="corpname_teim">Howard Johnson (Firm)</field>
+     <field name="corpname_teim">Boston University</field>
+@@ -93,15 +129,15 @@
+     <field name="subject_teim">Cooking |x Study and teaching</field>
+     <field name="subject_teim">Authorship</field>
+     <field name="subject_teim">Publishers and publishing</field>
+-    <field name="subject_teim">Restaurants -- France -- Paris</field>
+-    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
+-    <field name="subject_teim">Television cooking shows</field>
+-    <field name="subject_teim">Cooking, French</field>
+-    <field name="subject_teim">Cooking, American -- History -- 20th century</field>
+-    <field name="subject_teim">Gastronomy.</field>
+-    <field name="subject_teim">Food writing.</field>
+-    <field name="subject_teim">Dinners and dining</field>
+-    <field name="subject_teim">Cooking -- Study and teaching</field>
++    <field name="subject_teim">Restaurants --France --Paris</field>
++    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
++    <field name="subject_teim">Television cooking shows</field>
++    <field name="subject_teim">Cooking, French</field>
++    <field name="subject_teim">Cooking, American --History --20th century</field>
++    <field name="subject_teim">Gastronomy.</field>
++    <field name="subject_teim">Food writing.</field>
++    <field name="subject_teim">Dinners and dining</field>
++    <field name="subject_teim">Cooking --Study and teaching</field>
+     <field name="subject_teim">Authorship</field>
+     <field name="subject_ssm">Publishers and publishing</field>
+     <field name="subject_ssm">Restaurants |z France |z Paris</field>
+@@ -155,22 +191,22 @@
+     <field name="name_teim">Claiborne, Craig</field>
+     <field name="name_teim">Beard, James, 1903-1985</field>
+     <field name="subject_sim">Publishers and publishing</field>
+-    <field name="subject_sim">Restaurants -- France -- Paris</field>
++    <field name="subject_sim">Restaurants --France --Paris</field>
+     <field name="subject_sim">Restaurants -- New York (State) -- New York</field>
+     <field name="subject_sim">Television cooking shows</field>
+     <field name="subject_sim">Cooking, French</field>
+-    <field name="subject_sim">Cooking, American -- History -- 20th century</field>
++    <field name="subject_sim">Cooking, American --History --20th century</field>
+     <field name="subject_sim">Gastronomy.</field>
+     <field name="subject_sim">Food writing.</field>
+     <field name="subject_sim">Dinners and dining</field>
+-    <field name="subject_sim">Cooking -- Study and teaching</field>
++    <field name="subject_sim">Cooking --Study and teaching</field>
+     <field name="subject_sim">Authorship</field>
+     <field name="collection_teim">Voices from the Food Revolution: People Who Changed The Way Americans Eat--An oral history project conducted by Judith Weinraub</field>
+     <field name="collection_unitid_teim">MSS.309</field>
+     <field name="series_si">Jacques Pepin</field>
+-    <field name="material_type_sim">Cooking -- Periodicals</field>
++    <field name="material_type_sim">Cooking --Periodicals</field>
+     <field name="material_type_sim">Cookbooks.</field>
+-    <field name="material_type_ssm">Cooking -- Periodicals</field>
++    <field name="material_type_ssm">Cooking --Periodicals</field>
+     <field name="material_type_ssm">Cookbooks.</field>
+     <field name="heading_ssm">Jacques Pepin</field>
+     <field name="date_range_sim">undated &amp; other</field>

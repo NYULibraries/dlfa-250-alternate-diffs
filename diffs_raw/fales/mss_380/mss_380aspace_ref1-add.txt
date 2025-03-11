@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Jack Smith Research</field>
+     <field name="unittitle_teim">Series I: Jack Smith Research</field>
+-    <field name="scopecontent_teim">Series I contains correspondence between Jack Smith and his contemporaries as well as follow-up from Leffingwell, copies of notebooks and scripts written by Smith, flyers and posters advertising Smith performances and screenings, interviews with Smith from periodicals or transcribed by Leffingwell, articles about Smith written by critics, journalists and fellow artists, and some contextual information, including Smith's censorship and accusations of obscenity.</field>
++    <field name="scopecontent_teim">Series I contains correspondence between Jack Smith and his contemporaries as well as follow-up from Leffingwell, copies of notebooks and scripts written by Smith, flyers and posters advertising Smith performances and screenings, interviews with Smith from periodicals or transcribed by Leffingwell, articles about Smith written by critics, journalists and fellow artists, and some contextual information, including Smith&#39;s censorship and accusations of obscenity.</field>
+     <field name="ref_ssi">aspace_ref1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Ed Leffingwell Jack Smith Curatorial Files</field>
++    <field name="author_teim">David Hobbs</field>
+     <field name="collection_unitid_teim">MSS.380</field>
+     <field name="series_si">Series I: Jack Smith Research</field>
+     <field name="heading_ssm">Series I: Jack Smith Research</field>

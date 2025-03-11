@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Marion Nestle Papers</field>
+     <field name="collection_unitid_ssm">MSS.159</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Evanger's Dog &amp;amp; Cat Food Co.</field>
+-    <field name="unittitle_teim">Evanger's Dog &amp; Cat Food Co.</field>
++    <field name="unittitle_ssm">Evanger&#39;s Dog &amp; Cat Food Co.</field>
++    <field name="unittitle_teim">Evanger&#39;s Dog &amp; Cat Food Co.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/482513</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/482513</field>
+     <field name="unitdate_teim">April 25, 2008</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 36, Folder: 4</field>
+     <field name="location_si">Box: 36, Folder: 4</field>
+     <field name="collection_teim">Marion Nestle Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter. Finding aid completed by Sophie Glidden-Lyon and Sana Masood.</field>
+     <field name="collection_unitid_teim">MSS.159</field>
+     <field name="series_sim">Series IV: Pet Food Politics</field>
+     <field name="series_sim">Subseries B: Research Files</field>
+-    <field name="series_si">Series IV: Pet Food Politics &gt;&gt; Subseries B: Research Files &gt;&gt; Evanger's Dog &amp;amp; Cat Food Co.</field>
+-    <field name="heading_ssm">Evanger's Dog &amp; Cat Food Co.</field>
++    <field name="series_si">Series IV: Pet Food Politics &gt;&gt; Subseries B: Research Files &gt;&gt; Evanger&#39;s Dog &amp; Cat Food Co.</field>
++    <field name="heading_ssm">Evanger&#39;s Dog &amp; Cat Food Co.</field>
+     <field name="unitdate_ssm">April 25, 2008</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">293</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ed Leffingwell Jack Smith Curatorial Files</field>
+     <field name="collection_unitid_ssm">MSS.380</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Introduction to Biography 'Jack Smith: Flaming Creature'</field>
+-    <field name="unittitle_teim">Introduction to Biography 'Jack Smith: Flaming Creature'</field>
++    <field name="unittitle_ssm">Introduction to Biography &#39;Jack Smith: Flaming Creature&#39;</field>
++    <field name="unittitle_teim">Introduction to Biography &#39;Jack Smith: Flaming Creature&#39;</field>
+     <field name="unitdate_normal_ssm">1996/1996</field>
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 10</field>
+     <field name="location_si">Box: 2, Folder: 10</field>
+     <field name="collection_teim">Ed Leffingwell Jack Smith Curatorial Files</field>
++    <field name="author_teim">David Hobbs</field>
+     <field name="collection_unitid_teim">MSS.380</field>
+     <field name="series_sim">Series II: Leffingwell Correspondence &amp;amp; Writing</field>
+-    <field name="series_si">Series II: Leffingwell Correspondence &amp;amp; Writing &gt;&gt; Introduction to Biography 'Jack Smith: Flaming Creature'</field>
+-    <field name="heading_ssm">Introduction to Biography 'Jack Smith: Flaming Creature'</field>
++    <field name="series_si">Series II: Leffingwell Correspondence &amp; Writing &gt;&gt; Introduction to Biography &#39;Jack Smith: Flaming Creature&#39;</field>
++    <field name="heading_ssm">Introduction to Biography &#39;Jack Smith: Flaming Creature&#39;</field>
+     <field name="unitdate_start_sim">1996</field>
+     <field name="unitdate_start_ssm">1996</field>
+     <field name="unitdate_start_si">1996</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Fales Library Collection of Publishers Galleys</field>
+     <field name="collection_unitid_ssm">MSS.553</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Senator's Last Night&lt;/em&gt; by Francis Hackett</field>
+-    <field name="unittitle_teim">The Senator's Last Night by Francis Hackett</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Senator&#39;s Last Night&lt;/em&gt; by Francis Hackett</field>
++    <field name="unittitle_teim">The Senator&#39;s Last Night by Francis Hackett</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/926061</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/926061</field>
+     <field name="ref_ssi">aspace_16dc55b6ef4ba6f67fb3658db698b164</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 4, Folder: 9</field>
+     <field name="location_si">Box: 4, Folder: 9</field>
+     <field name="collection_teim">Fales Library Collection of Publishers Galleys</field>
++    <field name="author_teim">Anna Björnsson McCormick</field>
+     <field name="collection_unitid_teim">MSS.553</field>
+-    <field name="series_si">&lt;em&gt;The Senator's Last Night&lt;/em&gt; by Francis Hackett</field>
+-    <field name="heading_ssm">The Senator's Last Night by Francis Hackett</field>
++    <field name="series_si">&lt;em&gt;The Senator&#39;s Last Night&lt;/em&gt; by Francis Hackett</field>
++    <field name="heading_ssm">The Senator&#39;s Last Night by Francis Hackett</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>
+   </doc>

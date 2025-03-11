@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Subseries C: Interviews</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/579799</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/579799</field>
+-    <field name="scopecontent_teim">Subseries C includes interviews Montano conducted for her book project entitled Performance Artists Talking in the '80s. It also contains material related to interviews of Montano by others for articles, both published and unpublished.</field>
++    <field name="scopecontent_teim">Subseries C includes interviews Montano conducted for her book project entitled Performance Artists Talking in the &#39;80s. It also contains material related to interviews of Montano by others for articles, both published and unpublished.</field>
+     <field name="ref_ssi">aspace_ref13</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series I: Art Practice</field>
+     <field name="series_si">Series I: Art Practice &gt;&gt; Subseries C: Interviews</field>

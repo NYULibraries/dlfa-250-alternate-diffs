@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sir William Jones Manuscripts</field>
+     <field name="collection_unitid_ssm">MSS.301</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Slokas about the 'chatak' birds' love for the pure rain water and clouds</field>
+-    <field name="unittitle_teim">Slokas about the 'chatak' birds' love for the pure rain water and clouds</field>
++    <field name="unittitle_ssm">Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds</field>
++    <field name="unittitle_teim">Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds</field>
+     <field name="unitid_teim">cuid36312</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/553922</field>
+     <field name="unitid_ssm">cuid36312</field>
+@@ -21,8 +21,8 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/553922</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Sanskrit in Bengali characters</field>
+-    <field name="dao_teim">Slokas about the 'chatak' birds' love for the pure rain water and clouds: undated</field>
+-    <field name="dao_ssm">Slokas about the 'chatak' birds' love for the pure rain water and clouds: undated</field>
++    <field name="dao_teim">Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds: undated</field>
++    <field name="dao_ssm">Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds: undated</field>
+     <field name="ref_ssi">aspace_ref23</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,10 +33,11 @@
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sir William Jones Manuscripts</field>
++    <field name="author_teim">Cassandra Brewer and Ashley Todd</field>
+     <field name="collection_unitid_teim">MSS.301</field>
+     <field name="series_sim">Series I: Manuscripts</field>
+-    <field name="series_si">Series I: Manuscripts &gt;&gt; Slokas about the 'chatak' birds' love for the pure rain water and clouds</field>
+-    <field name="heading_ssm">Slokas about the 'chatak' birds' love for the pure rain water and clouds</field>
++    <field name="series_si">Series I: Manuscripts &gt;&gt; Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds</field>
++    <field name="heading_ssm">Slokas about the &#39;chatak&#39; birds&#39; love for the pure rain water and clouds</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">11</field>

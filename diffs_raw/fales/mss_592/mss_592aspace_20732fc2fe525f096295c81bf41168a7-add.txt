@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_sim">1980/1989</field>
+     <field name="unitdate_bulk_teim">1980-1989</field>
+     <field name="unitdate_inclusive_teim">1940-2013</field>
+-    <field name="scopecontent_teim">This series consists of personal correspondence, research files and manuscript drafts on Haiti after the overthrow of President Jean-Claude Duvalier, a Boy Scouts merit badge sash, a 1956 senior high yearbook, and photographic prints, negatives, and slides. The photographic prints, negatives, and slides document Mass's own personal trips to places like Lourdes, France; Barcelona, Spain; Miami Beach, Florida; and Newton Falls, Ohio, as well as photographic subjects of street scenes and people.</field>
++    <field name="scopecontent_teim">This series consists of personal correspondence, research files and manuscript drafts on Haiti after the overthrow of President Jean-Claude Duvalier, a Boy Scouts merit badge sash, a 1956 senior high yearbook, and photographic prints, negatives, and slides. The photographic prints, negatives, and slides document Mass&#39;s own personal trips to places like Lourdes, France; Barcelona, Spain; Miami Beach, Florida; and Newton Falls, Ohio, as well as photographic subjects of street scenes and people.</field>
+     <field name="ref_ssi">aspace_20732fc2fe525f096295c81bf41168a7</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Stephen Mass Papers</field>
++    <field name="author_teim">Rachel Searcy, Amy C. Vo</field>
+     <field name="collection_unitid_teim">MSS.592</field>
+     <field name="series_si">Series IV. Personal</field>
+     <field name="heading_ssm">Series IV. Personal</field>

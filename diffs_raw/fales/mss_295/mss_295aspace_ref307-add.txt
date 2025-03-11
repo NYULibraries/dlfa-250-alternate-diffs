@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Harvey's Famous Restaurant</field>
+-    <field name="unittitle_teim">Harvey's Famous Restaurant</field>
++    <field name="unittitle_ssm">Harvey&#39;s Famous Restaurant</field>
++    <field name="unittitle_teim">Harvey&#39;s Famous Restaurant</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729546</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729546</field>
+     <field name="unitdate_normal_ssm">1970/1989</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1970/1989</field>
+     <field name="unitdate_normal_sim">1970/1989</field>
+     <field name="unitdate_inclusive_teim">circa 1970-1980s</field>
+-    <field name="scopecontent_teim">Harvey's. Romer, Frank. The History of Harvey's [Restaurant]. WA, DC: Harvey's Restaurant, undated.</field>
++    <field name="scopecontent_teim">Harvey&#39;s. Romer, Frank. The History of Harvey&#39;s [Restaurant]. WA, DC: Harvey&#39;s Restaurant, undated.</field>
+     <field name="ref_ssi">aspace_ref307</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 18, Folder: 3</field>
+     <field name="location_si">Box: 18, Folder: 3</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Harvey's Famous Restaurant</field>
+-    <field name="heading_ssm">Harvey's Famous Restaurant</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Harvey&#39;s Famous Restaurant</field>
++    <field name="heading_ssm">Harvey&#39;s Famous Restaurant</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>
+     <field name="unitdate_start_si">1970</field>

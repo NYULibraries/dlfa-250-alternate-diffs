@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Erich Maria Remarque Papers</field>
+     <field name="collection_unitid_ssm">MSS.095</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Remarque estate - clients' papers</field>
+-    <field name="unittitle_teim">Remarque estate - clients' papers</field>
++    <field name="unittitle_ssm">Remarque estate - clients&#39; papers</field>
++    <field name="unittitle_teim">Remarque estate - clients&#39; papers</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435066</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435066</field>
+     <field name="unitdate_teim">1948-1971</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 23, Folder: 5</field>
+     <field name="location_si">Box: 23, Folder: 5</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_sim">2003 Accretion </field>
+     <field name="series_sim">Series II: General financial and legal</field>
+-    <field name="series_si">2003 Accretion  &gt;&gt; Series II: General financial and legal &gt;&gt; Remarque estate - clients' papers</field>
+-    <field name="heading_ssm">Remarque estate - clients' papers</field>
++    <field name="series_si">2003 Accretion  &gt;&gt; Series II: General financial and legal &gt;&gt; Remarque estate - clients&#39; papers</field>
++    <field name="heading_ssm">Remarque estate - clients&#39; papers</field>
+     <field name="unitdate_ssm">1948-1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4024</field>

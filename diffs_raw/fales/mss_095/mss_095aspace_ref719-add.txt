@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Erich Maria Remarque Papers</field>
+     <field name="collection_unitid_ssm">MSS.095</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photos from "Black Leather Album"</field>
+-    <field name="unittitle_teim">Photos from "Black Leather Album"</field>
++    <field name="unittitle_ssm">Photos from &#34;Black Leather Album&#34;</field>
++    <field name="unittitle_teim">Photos from &#34;Black Leather Album&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435344</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435344</field>
+     <field name="unitdate_teim">1957, 1958, undated</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 44, Folder: 11</field>
+     <field name="location_si">Box: 44, Folder: 11</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_sim">2003 Accretion </field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">Subseries A: Foldered Photographs</field>
+-    <field name="series_si">2003 Accretion  &gt;&gt; Series VII: Photographs &gt;&gt; Subseries A: Foldered Photographs &gt;&gt; Photos from "Black Leather Album"</field>
+-    <field name="heading_ssm">Photos from "Black Leather Album"</field>
++    <field name="series_si">2003 Accretion  &gt;&gt; Series VII: Photographs &gt;&gt; Subseries A: Foldered Photographs &gt;&gt; Photos from &#34;Black Leather Album&#34;</field>
++    <field name="heading_ssm">Photos from &#34;Black Leather Album&#34;</field>
+     <field name="unitdate_ssm">1957, 1958, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4303</field>

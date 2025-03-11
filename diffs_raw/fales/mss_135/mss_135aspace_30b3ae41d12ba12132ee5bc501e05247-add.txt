@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1983/2001</field>
+     <field name="unitdate_normal_sim">1983/2001</field>
+     <field name="unitdate_inclusive_teim">1983-2001</field>
+-    <field name="scopecontent_teim">This accretion to the Frank Moore Papers consists of slides of Moore's artwork, photographs, and promotional materials for art exhibitions.</field>
++    <field name="scopecontent_teim">This accretion to the Frank Moore Papers consists of slides of Moore&#39;s artwork, photographs, and promotional materials for art exhibitions.</field>
+     <field name="ref_ssi">aspace_30b3ae41d12ba12132ee5bc501e05247</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Frank Moore Papers</field>
++    <field name="author_teim">Tania Friedel (August 2003); Jessica Shimmin (May-December 2004); Luke Martin (2008), Brent Phillips (2008) updated by Zachary Dabbs (2009)</field>
+     <field name="collection_unitid_teim">MSS.135</field>
+     <field name="series_si">Series XI: 2023 Accretion</field>
+     <field name="heading_ssm">Series XI: 2023 Accretion</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Horde "Pilgrimage"</field>
+-    <field name="unittitle_teim">Horde "Pilgrimage"</field>
++    <field name="unittitle_ssm">Horde &#34;Pilgrimage&#34;</field>
++    <field name="unittitle_teim">Horde &#34;Pilgrimage&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/388663</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/388663</field>
+     <field name="ref_ssi">aspace_ref1801</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 200, Folder: 16</field>
+     <field name="location_si">Box: 200, Folder: 16</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Series VII: Literary Productions</field>
+     <field name="series_sim">Sources for Literary Productions</field>
+-    <field name="series_si">Series VII: Literary Productions &gt;&gt; Sources for Literary Productions &gt;&gt; Horde "Pilgrimage"</field>
+-    <field name="heading_ssm">Horde "Pilgrimage"</field>
++    <field name="series_si">Series VII: Literary Productions &gt;&gt; Sources for Literary Productions &gt;&gt; Horde &#34;Pilgrimage&#34;</field>
++    <field name="heading_ssm">Horde &#34;Pilgrimage&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1626</field>
+   </doc>

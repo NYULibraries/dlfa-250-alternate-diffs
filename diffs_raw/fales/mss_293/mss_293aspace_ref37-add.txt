@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,8 +28,10 @@
+     <field name="unitdate_inclusive_teim">1976</field>
+     <field name="scopecontent_teim">Rivers and Michel Auder drive from Sarasota to Miami, Florida. Along the way they stop to interview locals in various towns; Rivers receives a speeding ticket on the Florida turnpike. In Miami, they visit the Hafts on the north bay.</field>
+     <field name="scopecontent_teim">FLA II</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 30 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 30 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref37</field>
+     <field name="repository_ssi">fales</field>
+@@ -41,6 +43,7 @@
+     <field name="location_ssm">case: 293.0017_a</field>
+     <field name="location_si">case: 293.0017_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

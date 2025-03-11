@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,10 +26,12 @@
+     <field name="unitdate_normal_teim">1977/1977</field>
+     <field name="unitdate_normal_sim">1977/1977</field>
+     <field name="unitdate_inclusive_teim">November 17, 1977</field>
+-    <field name="scopecontent_teim">More footage from the Grey Gallery "New Deal for Art" exhibition opening.</field>
++    <field name="scopecontent_teim">More footage from the Grey Gallery &#34;New Deal for Art&#34; exhibition opening.</field>
+     <field name="scopecontent_teim">WPA 5</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 25 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 25 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel.</field>
+     <field name="ref_ssi">aspace_ref918</field>
+     <field name="repository_ssi">fales</field>
+@@ -41,6 +43,7 @@
+     <field name="location_ssm">case: 293.0323_a</field>
+     <field name="location_si">case: 293.0323_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

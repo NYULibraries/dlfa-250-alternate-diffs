@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/470330</field>
+     <field name="unitdate_teim">Screened: Unknown</field>
+     <field name="phystech_teim"> Old number:  </field>
+-    <field name="phystech_teim"> Director:  The Women's AIDS Video Enterprise </field>
++    <field name="phystech_teim"> Director:  The Women&#39;s AIDS Video Enterprise </field>
+     <field name="phystech_teim"> Distributor:  </field>
+     <field name="phystech_teim"> Format:  VHS </field>
+     <field name="phystech_teim"> Duration:  [60] minutes </field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 82, Folder: ID: 143.1732</field>
+     <field name="location_si">Box: 82, Folder: ID: 143.1732</field>
+     <field name="collection_teim">The Mix Collection</field>
++    <field name="author_teim">Collection processed by Joseph Gallucci, 2005-2006, Joe Ketner, 2005. Megan Wacha, 2006, Luke Martin, 2008, Brent Phillips, 2008, and Cristina Vignone, 2013.</field>
+     <field name="collection_unitid_teim">MSS.143</field>
+     <field name="series_sim">SERIES XIX: Miscellaneous</field>
+     <field name="series_sim">Subseries L: Media - Video and Audio</field>

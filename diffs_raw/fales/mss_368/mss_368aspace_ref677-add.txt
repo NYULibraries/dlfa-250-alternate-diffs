@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.368</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Children's Book Digest; The Junior Reader's Companion</field>
+-    <field name="unittitle_teim">Children's Book Digest; The Junior Reader's Companion</field>
++    <field name="unittitle_ssm">Children&#39;s Book Digest; The Junior Reader&#39;s Companion</field>
++    <field name="unittitle_teim">Children&#39;s Book Digest; The Junior Reader&#39;s Companion</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/578239</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/578239</field>
+     <field name="unitdate_normal_ssm">1946/1946</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 22, Folder: 4</field>
+     <field name="location_si">Box: 22, Folder: 4</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Series VII: Books/Magazines/Clippings/Newspapers</field>
+     <field name="series_sim">Subseries C: Magazines/Pamphlets</field>
+-    <field name="series_si">Series VII: Books/Magazines/Clippings/Newspapers &gt;&gt; Subseries C: Magazines/Pamphlets &gt;&gt; Children's Book Digest; The Junior Reader's Companion</field>
+-    <field name="heading_ssm">Children's Book Digest; The Junior Reader's Companion</field>
++    <field name="series_si">Series VII: Books/Magazines/Clippings/Newspapers &gt;&gt; Subseries C: Magazines/Pamphlets &gt;&gt; Children&#39;s Book Digest; The Junior Reader&#39;s Companion</field>
++    <field name="heading_ssm">Children&#39;s Book Digest; The Junior Reader&#39;s Companion</field>
+     <field name="unitdate_start_sim">1946</field>
+     <field name="unitdate_start_ssm">1946</field>
+     <field name="unitdate_start_si">1946</field>

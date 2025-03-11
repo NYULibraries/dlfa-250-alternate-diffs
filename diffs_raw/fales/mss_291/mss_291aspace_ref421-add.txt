@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">U.S. Projects: "Lost Dance Steps" by Bruce Charlesworth, "Rock" by Tad Savinar</field>
+-    <field name="unittitle_teim">U.S. Projects: "Lost Dance Steps" by Bruce Charlesworth, "Rock" by Tad Savinar</field>
++    <field name="unittitle_ssm">U.S. Projects: &#34;Lost Dance Steps&#34; by Bruce Charlesworth, &#34;Rock&#34; by Tad Savinar</field>
++    <field name="unittitle_teim">U.S. Projects: &#34;Lost Dance Steps&#34; by Bruce Charlesworth, &#34;Rock&#34; by Tad Savinar</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/542081</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/542081</field>
+     <field name="unitdate_teim">April 10, 1982</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 12, Folder: 7</field>
+     <field name="location_si">Box: 12, Folder: 7</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series I: Exhibition Files</field>
+-    <field name="series_si">Series I: Exhibition Files &gt;&gt; U.S. Projects: "Lost Dance Steps" by Bruce Charlesworth, "Rock" by Tad Savinar</field>
+-    <field name="heading_ssm">U.S. Projects: "Lost Dance Steps" by Bruce Charlesworth, "Rock" by Tad Savinar</field>
++    <field name="series_si">Series I: Exhibition Files &gt;&gt; U.S. Projects: &#34;Lost Dance Steps&#34; by Bruce Charlesworth, &#34;Rock&#34; by Tad Savinar</field>
++    <field name="heading_ssm">U.S. Projects: &#34;Lost Dance Steps&#34; by Bruce Charlesworth, &#34;Rock&#34; by Tad Savinar</field>
+     <field name="unitdate_ssm">April 10, 1982</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">232</field>

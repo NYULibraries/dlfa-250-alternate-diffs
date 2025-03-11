@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Special Interest Newspaper &amp;amp; Magazine Articles"</field>
+-    <field name="unittitle_teim">"Special Interest Newspaper &amp; Magazine Articles"</field>
++    <field name="unittitle_ssm">&#34;Special Interest Newspaper &amp; Magazine Articles&#34;</field>
++    <field name="unittitle_teim">&#34;Special Interest Newspaper &amp; Magazine Articles&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/549322</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/549322</field>
+     <field name="unitdate_teim">1999-2001, undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 78, Folder: 24</field>
+     <field name="location_si">Box: 78, Folder: 24</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series VI: Clippings</field>
+-    <field name="series_si">Series VI: Clippings &gt;&gt; "Special Interest Newspaper &amp;amp; Magazine Articles"</field>
+-    <field name="heading_ssm">"Special Interest Newspaper &amp; Magazine Articles"</field>
++    <field name="series_si">Series VI: Clippings &gt;&gt; &#34;Special Interest Newspaper &amp; Magazine Articles&#34;</field>
++    <field name="heading_ssm">&#34;Special Interest Newspaper &amp; Magazine Articles&#34;</field>
+     <field name="unitdate_ssm">1999-2001, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2485</field>

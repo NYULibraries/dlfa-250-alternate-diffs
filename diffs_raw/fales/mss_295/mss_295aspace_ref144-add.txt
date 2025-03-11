@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Church &amp;amp; Dwight Company, Inc.</field>
++    <field name="unittitle_ssm">Church &amp; Dwight Company, Inc.</field>
+     <field name="unittitle_teim">Church &amp; Dwight Company, Inc.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729400</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729400</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_inclusive_teim">1913-1959</field>
+     <field name="scopecontent_teim">Church &amp; Dwight Co. Cow Brand Soda Cook Book and Facts Worth Knowing. New York, NY: Arm &amp; Hammer, circa 1913.</field>
+     <field name="scopecontent_teim"> Church &amp; Dwight. Anderson, Martha Lee. New-Fashioned Old-Fashioned Recipes. New York, NY: Church &amp; Dwight Company, Inc., 1948.</field>
+-    <field name="scopecontent_teim"> Church &amp; Dwight. The Soda Almanac of Household Uses. Dublin, NH: The Old Farmer's Almanac, 1959.</field>
++    <field name="scopecontent_teim"> Church &amp; Dwight. The Soda Almanac of Household Uses. Dublin, NH: The Old Farmer&#39;s Almanac, 1959.</field>
+     <field name="scopecontent_teim"> Church &amp; Dwight. Recipes to Stretch Your Sugar Ration. New York, NY: Church &amp; Dwight Co., 1942.</field>
+     <field name="scopecontent_teim"> Church &amp; Dwight Co. Cow Brand Soda Cook Book and Facts Worth Knowing. New York, NY: Arm &amp; Hammer, circa 1919.</field>
+     <field name="scopecontent_teim"> Church &amp; Dwight. Anderson, Martha Lee, comp. Good Things to Eat. 77th edition. New York, NY: Church &amp; Dwight, 1933.</field>
+@@ -51,9 +51,10 @@
+     <field name="location_ssm">Box: 7, Folder: 13-15</field>
+     <field name="location_si">Box: 7, Folder: 13-15</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Church &amp;amp; Dwight Company, Inc.</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Church &amp; Dwight Company, Inc.</field>
+     <field name="heading_ssm">Church &amp; Dwight Company, Inc.</field>
+     <field name="unitdate_start_sim">1913</field>
+     <field name="unitdate_start_ssm">1913</field>

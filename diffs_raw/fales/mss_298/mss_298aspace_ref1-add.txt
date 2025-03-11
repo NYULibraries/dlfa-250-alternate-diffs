@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">1976/2006</field>
+     <field name="unitdate_normal_sim">1976/2006</field>
+     <field name="unitdate_inclusive_teim">1976-2006</field>
+-    <field name="scopecontent_teim">Series comprises files created in the gallery's process of buying works, taking works on consignment, and selling works.</field>
+-    <field name="scopecontent_teim">The subseries reflect the gallery's original organization.</field>
++    <field name="scopecontent_teim">Series comprises files created in the gallery&#39;s process of buying works, taking works on consignment, and selling works.</field>
++    <field name="scopecontent_teim">The subseries reflect the gallery&#39;s original organization.</field>
+     <field name="ref_ssi">aspace_ref1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -26,6 +26,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Annina Nosei Gallery Archive</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.298</field>
+     <field name="series_si">Series I: Transaction Records</field>
+     <field name="heading_ssm">Series I: Transaction Records</field>

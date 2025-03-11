@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Legal and Financial</field>
+     <field name="unittitle_teim">Series II: Legal and Financial</field>
+-    <field name="scopecontent_teim">This series consists of legal and financial documentation such as apartment leases, tax returns, bank account information, and Sherman's will.</field>
++    <field name="scopecontent_teim">This series consists of legal and financial documentation such as apartment leases, tax returns, bank account information, and Sherman&#39;s will.</field>
+     <field name="ref_ssi">aspace_ref26</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Stuart Sherman Papers</field>
++    <field name="author_teim">Luke Martin and Brent Phillips, 2008-2009</field>
+     <field name="collection_unitid_teim">MSS.192</field>
+     <field name="series_si">Series II: Legal and Financial</field>
+     <field name="heading_ssm">Series II: Legal and Financial</field>

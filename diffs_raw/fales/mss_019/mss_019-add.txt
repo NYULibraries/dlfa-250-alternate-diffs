@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">&lt;em&gt;New York Review&lt;/em&gt; Archive</field>
+     <field name="unitid_teim">MSS.019</field>
+     <field name="unitid_ssm">MSS.019</field>
+-    <field name="abstract_teim">The New York Review Archive is a small collection of correspondence to the New York Review's editor, Peter McCurtin. McCurtin edited the New York Review with William Atkins in 1958.</field>
+-    <field name="abstract_ssm">The New York Review Archive is a small collection of correspondence to the New York Review's editor, Peter McCurtin. McCurtin edited the New York Review with William Atkins in 1958.</field>
++    <field name="abstract_teim">The New York Review Archive is a small collection of correspondence to the New York Review&#39;s editor, Peter McCurtin. McCurtin edited the New York Review with William Atkins in 1958.</field>
++    <field name="abstract_ssm">The New York Review Archive is a small collection of correspondence to the New York Review&#39;s editor, Peter McCurtin. McCurtin edited the New York Review with William Atkins in 1958.</field>
+     <field name="creator_teim">New York Review (1958)</field>
+     <field name="creator_ssm">New York Review (1958)</field>
+     <field name="creator_ssm">New York Review (1958)</field>
+@@ -20,7 +20,6 @@
+     <field name="scopecontent_teim">SERIES DESCRIPTION</field>
+     <field name="scopecontent_teim">Series I: Correspondence: includes a copy of the New York Review (box 1, folder 1).</field>
+     <field name="bioghist_teim">The New York Review existed in the years 1957 and 1958 at 279 Houston Street in Manhattan and was edited by Peter McCurtin and William Atkins. In the spring of 1957, McCurtin solicited material from top shelf writers of the time including: Aldous Huxley, Muriel Spark, C.S. Lewis, Norman Mailer, Margaret Mead, James A. Michener, J.D. Salinger, and Robert Penn Warren; many of whom replied to the solicitation though many declined contributing. The issue that was published did contain contributions from an impressive array of writers and poets.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">New York Review (1958)</field>
+     <field name="corpname_teim">New York Review (1958)</field>
+@@ -43,8 +42,8 @@
+     <field name="subject_teim">Literature |x History and criticism |v Periodicals.</field>
+     <field name="subject_teim">Literature |v Periodicals.</field>
+     <field name="subject_teim">Small presses -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Literature -- History and criticism -- Periodicals.</field>
+-    <field name="subject_teim">Literature -- Periodicals.</field>
++    <field name="subject_teim">Literature --History and criticism --Periodicals.</field>
++    <field name="subject_teim">Literature --Periodicals.</field>
+     <field name="subject_ssm">Small presses -- New York (State) -- New York.</field>
+     <field name="subject_ssm">Literature |x History and criticism |v Periodicals.</field>
+     <field name="subject_ssm">Literature |v Periodicals.</field>
+@@ -68,8 +67,8 @@
+     <field name="name_teim">McCurtin, Peter, 1935-</field>
+     <field name="place_sim">New York (N.Y.).</field>
+     <field name="subject_sim">Small presses -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Literature -- History and criticism -- Periodicals.</field>
+-    <field name="subject_sim">Literature -- Periodicals.</field>
++    <field name="subject_sim">Literature --History and criticism --Periodicals.</field>
++    <field name="subject_sim">Literature --Periodicals.</field>
+     <field name="material_type_sim">Magazines (Periodicals)</field>
+     <field name="material_type_sim">Postcards.</field>
+     <field name="material_type_sim">Correspondence.</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_normal_sim">1980/1980</field>
+     <field name="unitdate_inclusive_teim">[1980]</field>
+     <field name="scopecontent_teim">Alice in Wonderland toy china tea set for children, ten pieces (wrapped in tissue) in original box
+-lettered in print Walt Disney's Alice in Wonderland toy china tea set, stock no. "0223-9001". Anaheim? ca 1980?
++lettered in print Walt Disney&#39;s Alice in Wonderland toy china tea set, stock no. &#34;0223-9001&#34;. Anaheim? ca 1980?
+ Includes: teapot, top, saucer, creamer, three teacups, and three saucers.</field>
+     <field name="ref_ssi">aspace_ref427</field>
+     <field name="repository_ssi">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Box: 15, Item: 1</field>
+     <field name="location_si">Box: 15, Item: 1</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Series II: Housewares/Decorations</field>
+     <field name="series_sim">Subseries B: China</field>

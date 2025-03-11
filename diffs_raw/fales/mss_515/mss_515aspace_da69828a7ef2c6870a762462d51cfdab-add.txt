@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Governor's Arts Awards Reception</field>
+-    <field name="unittitle_teim">Governor's Arts Awards Reception</field>
++    <field name="unittitle_ssm">Governor&#39;s Arts Awards Reception</field>
++    <field name="unittitle_teim">Governor&#39;s Arts Awards Reception</field>
+     <field name="unitdate_normal_ssm">1998/1998</field>
+     <field name="unitdate_normal_teim">1998/1998</field>
+     <field name="unitdate_normal_sim">1998/1998</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 124, Folder: 2</field>
+     <field name="location_si">Box: 124, Folder: 2</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series III. Development</field>
+     <field name="series_sim">Subseries B. Events</field>
+-    <field name="series_si">Series III. Development &gt;&gt; Subseries B. Events &gt;&gt; Governor's Arts Awards Reception</field>
+-    <field name="heading_ssm">Governor's Arts Awards Reception</field>
++    <field name="series_si">Series III. Development &gt;&gt; Subseries B. Events &gt;&gt; Governor&#39;s Arts Awards Reception</field>
++    <field name="heading_ssm">Governor&#39;s Arts Awards Reception</field>
+     <field name="unitdate_start_sim">1998</field>
+     <field name="unitdate_start_ssm">1998</field>
+     <field name="unitdate_start_si">1998</field>

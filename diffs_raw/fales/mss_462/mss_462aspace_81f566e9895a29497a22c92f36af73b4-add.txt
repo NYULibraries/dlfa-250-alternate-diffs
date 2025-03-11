@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_462</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Samuel R. Delany, Jr. ("Chip") Correspondence and Portrait</field>
+-    <field name="collection_ssm">Samuel R. Delany, Jr. ("Chip") Correspondence and Portrait</field>
++    <field name="collection_sim">Samuel R. Delany, Jr. (&#34;Chip&#34;) Correspondence and Portrait</field>
++    <field name="collection_ssm">Samuel R. Delany, Jr. (&#34;Chip&#34;) Correspondence and Portrait</field>
+     <field name="collection_unitid_ssm">MSS.462</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Correspondence</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+-    <field name="collection_teim">Samuel R. Delany, Jr. ("Chip") Correspondence and Portrait</field>
++    <field name="collection_teim">Samuel R. Delany, Jr. (&#34;Chip&#34;) Correspondence and Portrait</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.462</field>
+     <field name="series_si">Correspondence</field>
+     <field name="heading_ssm">Correspondence</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/548022</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/548022</field>
+     <field name="unitdate_teim">1963-86, undated</field>
+-    <field name="scopecontent_teim">Contains 35mm slides and laser prints from the extensive "Dutch Masters" series.</field>
++    <field name="scopecontent_teim">Contains 35mm slides and laser prints from the extensive &#34;Dutch Masters&#34; series.</field>
+     <field name="ref_ssi">aspace_ref6652</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">binder: D4</field>
+     <field name="location_si">binder: D4</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series III: Photographic Material</field>
+     <field name="series_sim">Subseries D: Photographic Material by Subject</field>

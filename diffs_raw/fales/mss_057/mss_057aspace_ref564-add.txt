@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,12 @@
+     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
+     <field name="collection_unitid_ssm">MSS.057</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dodgson, Charles "Formulae F" Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
+-    <field name="unittitle_teim">Dodgson, Charles "Formulae F" Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
++    <field name="unittitle_ssm">Dodgson, Charles &#34;Formulae F&#34; Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
++    <field name="unittitle_teim">Dodgson, Charles 
++&#34;Formulae F&#34; 
++Ms, 1pp 
++[n.p.], [n.d.] 
++Portion of document pasted on cardboard backing.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/409234</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/409234</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +34,16 @@
+     <field name="location_ssm">Box: 6, Folder: 482</field>
+     <field name="location_si">Box: 6, Folder: 482</field>
+     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
++    <field name="author_teim">Chatham Ewing, October 1997 - February 1998</field>
+     <field name="collection_unitid_teim">MSS.057</field>
+     <field name="series_sim">Series 2: Manuscripts</field>
+     <field name="series_sim">Subseries 2A: Manuscripts by Charles L. Dodgson.</field>
+-    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles "Formulae F" Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
+-    <field name="heading_ssm">Dodgson, Charles "Formulae F" Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
++    <field name="series_si">Series 2: Manuscripts &gt;&gt; Subseries 2A: Manuscripts by Charles L. Dodgson. &gt;&gt; Dodgson, Charles &#34;Formulae F&#34; Ms, 1pp [n.p.], [n.d.] Portion of document pasted on cardboard backing.</field>
++    <field name="heading_ssm">Dodgson, Charles 
++&#34;Formulae F&#34; 
++Ms, 1pp 
++[n.p.], [n.d.] 
++Portion of document pasted on cardboard backing.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">554</field>

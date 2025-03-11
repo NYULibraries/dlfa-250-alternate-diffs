@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Amos Poe Papers</field>
+     <field name="collection_unitid_ssm">MSS.203</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">CBGB New Year's Eve, 1978, reel #1</field>
+-    <field name="unittitle_teim">CBGB New Year's Eve, 1978, reel #1</field>
++    <field name="unittitle_ssm">CBGB New Year&#39;s Eve, 1978, reel #1</field>
++    <field name="unittitle_teim">CBGB New Year&#39;s Eve, 1978, reel #1</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/737308</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/737308</field>
+     <field name="unitdate_normal_ssm">2010-03-05/2010-03-05</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: Shared Fales PM 69, case: 203.0472</field>
+     <field name="location_si">Box: Shared Fales PM 69, case: 203.0472</field>
+     <field name="collection_teim">Amos Poe Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2009 - 2010. Finding aid completed by Ashley Todd, 2010</field>
+     <field name="collection_unitid_teim">MSS.203</field>
+     <field name="series_sim">Series IX: Video</field>
+     <field name="series_sim">Subseries E: Preservation Masters - CLOSED</field>
+-    <field name="series_si">Series IX: Video &gt;&gt; Subseries E: Preservation Masters - CLOSED &gt;&gt; CBGB New Year's Eve, 1978, reel #1</field>
+-    <field name="heading_ssm">CBGB New Year's Eve, 1978, reel #1</field>
++    <field name="series_si">Series IX: Video &gt;&gt; Subseries E: Preservation Masters - CLOSED &gt;&gt; CBGB New Year&#39;s Eve, 1978, reel #1</field>
++    <field name="heading_ssm">CBGB New Year&#39;s Eve, 1978, reel #1</field>
+     <field name="unitdate_ssm">2010-03-05</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1350</field>

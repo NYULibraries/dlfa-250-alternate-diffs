@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,8 +26,8 @@
+     <field name="unitdate_normal_teim">1988/1988</field>
+     <field name="unitdate_normal_sim">1988/1988</field>
+     <field name="unitdate_inclusive_teim">January 10, 1988</field>
+-    <field name="scopecontent_teim">violin solo: 18'05" and 10'00"</field>
+-    <field name="phystech_teim">Original format: 1/4" audiocassette</field>
++    <field name="scopecontent_teim">violin solo: 18&#39;05&#34; and 10&#39;00&#34;</field>
++    <field name="phystech_teim">Original format: 1/4&#34; audiocassette</field>
+     <field name="ref_ssi">aspace_ref1117</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Box: 40, Media: ID: 350.0053</field>
+     <field name="location_si">Box: 40, Media: ID: 350.0053</field>
+     <field name="collection_teim">Malcolm Goldstein Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter</field>
+     <field name="collection_unitid_teim">MSS.350</field>
+     <field name="series_sim">Series VI: Non-commercially Released Audio</field>
+     <field name="series_sim">Subseries A: Performances</field>

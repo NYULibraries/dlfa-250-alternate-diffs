@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Brer Rabbit; Breuker &amp;amp; Kessler Company Philadelphia--E. H. Jacob</field>
++    <field name="unittitle_ssm">Brer Rabbit; Breuker &amp; Kessler Company Philadelphia--E. H. Jacob</field>
+     <field name="unittitle_teim">Brer Rabbit; Breuker &amp; Kessler Company Philadelphia--E. H. Jacob</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729344</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729344</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1900/1910</field>
+     <field name="unitdate_normal_sim">1900/1910</field>
+     <field name="unitdate_inclusive_teim">circa 1900s</field>
+-    <field name="scopecontent_teim">E. H. Jacob. "Jacob's Hothouse Mushrooms." Westchester, PA: E. H. Jacob, undated.</field>
++    <field name="scopecontent_teim">E. H. Jacob. &#34;Jacob&#39;s Hothouse Mushrooms.&#34; Westchester, PA: E. H. Jacob, undated.</field>
+     <field name="ref_ssi">aspace_ref92</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,9 +31,10 @@
+     <field name="location_ssm">Box: 4, Folder: 16</field>
+     <field name="location_si">Box: 4, Folder: 16</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Brer Rabbit; Breuker &amp;amp; Kessler Company Philadelphia--E. H. Jacob</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Brer Rabbit; Breuker &amp; Kessler Company Philadelphia--E. H. Jacob</field>
+     <field name="heading_ssm">Brer Rabbit; Breuker &amp; Kessler Company Philadelphia--E. H. Jacob</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>

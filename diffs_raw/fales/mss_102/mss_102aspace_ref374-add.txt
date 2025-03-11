@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">1982/1999</field>
+     <field name="unitdate_normal_sim">1982/1999</field>
+     <field name="unitdate_inclusive_teim">1982-1999</field>
+-    <field name="scopecontent_teim">Series IV: Biographical contains material related to Wong's life and personal. The series includes Wong's curriculum vitae, artist profiles, a copy of Wong's birth certificate and high school reunion program, and his poetry and prose.</field>
+-    <field name="scopecontent_teim">NOTE: Box 7A is labeled "Special Projects"</field>
++    <field name="scopecontent_teim">Series IV: Biographical contains material related to Wong&#39;s life and personal. The series includes Wong&#39;s curriculum vitae, artist profiles, a copy of Wong&#39;s birth certificate and high school reunion program, and his poetry and prose.</field>
++    <field name="scopecontent_teim">NOTE: Box 7A is labeled &#34;Special Projects&#34;</field>
+     <field name="ref_ssi">aspace_ref374</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -26,6 +26,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Martin Wong Papers</field>
++    <field name="author_teim">Jenny Hillyer. Updated by Joseph Gallucci, 2007.  Accretion processed by Colin Wells, 2009.</field>
+     <field name="collection_unitid_teim">MSS.102</field>
+     <field name="series_si">Series IV: Biographical</field>
+     <field name="heading_ssm">Series IV: Biographical</field>

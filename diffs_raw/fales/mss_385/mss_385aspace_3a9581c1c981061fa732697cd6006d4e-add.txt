@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
+     <field name="collection_unitid_ssm">MSS.385</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">He's a Pedestrian</field>
+-    <field name="unittitle_teim">He's a Pedestrian</field>
++    <field name="unittitle_ssm">He&#39;s a Pedestrian</field>
++    <field name="unittitle_teim">He&#39;s a Pedestrian</field>
+     <field name="unitid_teim">cuid33756</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/773129</field>
+     <field name="unitid_ssm">cuid33756</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 124, Folder: 30</field>
+     <field name="location_si">Box: 124, Folder: 30</field>
+     <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
++    <field name="author_teim">Stacey Flatt and Samantha Rowe.</field>
+     <field name="collection_unitid_teim">MSS.385</field>
+     <field name="series_sim">Series II. Cartoons/Collages</field>
+-    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; He's a Pedestrian</field>
+-    <field name="heading_ssm">He's a Pedestrian</field>
++    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; He&#39;s a Pedestrian</field>
++    <field name="heading_ssm">He&#39;s a Pedestrian</field>
+     <field name="unitdate_start_sim">1993</field>
+     <field name="unitdate_start_ssm">1993</field>
+     <field name="unitdate_start_si">1993</field>

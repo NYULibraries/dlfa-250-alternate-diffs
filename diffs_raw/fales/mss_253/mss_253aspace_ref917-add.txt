@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/532070</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/532070</field>
+     <field name="unitdate_inclusive_teim">1926-1943, 1998-2004, undated</field>
+-    <field name="scopecontent_teim">Series V contains both material belonging to Allan Wayne and material created by Paul Langland regarding his teaching of Allan Wayne's technique. The material belonging to Allan Wanye consists largely of dance programs featuring Wayne as a dancer. The material created by Paul Langland consists of notes and flyers regarding his classes on "Allan Wayne Work," as well as some biographical information on Allan Wayne</field>
++    <field name="scopecontent_teim">Series V contains both material belonging to Allan Wayne and material created by Paul Langland regarding his teaching of Allan Wayne&#39;s technique. The material belonging to Allan Wanye consists largely of dance programs featuring Wayne as a dancer. The material created by Paul Langland consists of notes and flyers regarding his classes on &#34;Allan Wayne Work,&#34; as well as some biographical information on Allan Wayne</field>
+     <field name="ref_ssi">aspace_ref917</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+     <field name="series_si">Series V: Allan Wayne Material</field>
+     <field name="heading_ssm">Series V: Allan Wayne Material</field>

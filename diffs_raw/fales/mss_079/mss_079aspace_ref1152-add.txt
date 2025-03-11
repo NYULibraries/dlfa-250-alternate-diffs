@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ron Kolm Papers</field>
+     <field name="collection_unitid_ssm">MSS.079</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">High Risk/Serpent's Tail Books</field>
+-    <field name="unittitle_teim">High Risk/Serpent's Tail Books</field>
++    <field name="unittitle_ssm">High Risk/Serpent&#39;s Tail Books</field>
++    <field name="unittitle_teim">High Risk/Serpent&#39;s Tail Books</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/416985</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/416985</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 12, Folder: 31</field>
+     <field name="location_si">Box: 12, Folder: 31</field>
+     <field name="collection_teim">Ron Kolm Papers</field>
++    <field name="author_teim">Marvin J. Taylor and Tom Savage 1997; Tania Friedel and Alyssa Shirley (1995-1999); Matt Moore 2000-2001; Leif Sorensen 2002-2003; Tori Peterson and Anne Marie Blum 2014.</field>
+     <field name="collection_unitid_teim">MSS.079</field>
+     <field name="series_sim">Series XII: Catalogs</field>
+-    <field name="series_si">Series XII: Catalogs &gt;&gt; High Risk/Serpent's Tail Books</field>
+-    <field name="heading_ssm">High Risk/Serpent's Tail Books</field>
++    <field name="series_si">Series XII: Catalogs &gt;&gt; High Risk/Serpent&#39;s Tail Books</field>
++    <field name="heading_ssm">High Risk/Serpent&#39;s Tail Books</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1158</field>

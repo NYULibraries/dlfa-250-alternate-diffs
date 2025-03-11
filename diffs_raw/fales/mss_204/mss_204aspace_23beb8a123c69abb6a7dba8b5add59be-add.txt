@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Elaine Equi and Jerome Sala Papers</field>
+     <field name="collection_unitid_ssm">MSS.204</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Includes Skanky Possum, Virgin Mule, The World, b city, Diana's Fourth Almanac, Oink</field>
+-    <field name="unittitle_teim">Includes Skanky Possum, Virgin Mule, The World, b city, Diana's Fourth Almanac, Oink</field>
++    <field name="unittitle_ssm">Includes Skanky Possum, Virgin Mule, The World, b city, Diana&#39;s Fourth Almanac, Oink</field>
++    <field name="unittitle_teim">Includes Skanky Possum, Virgin Mule, The World, b city, Diana&#39;s Fourth Almanac, Oink</field>
+     <field name="unitdate_normal_ssm">1977/2004</field>
+     <field name="unitdate_normal_teim">1977/2004</field>
+     <field name="unitdate_normal_sim">1977/2004</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+     <field name="collection_teim">Elaine Equi and Jerome Sala Papers</field>
++    <field name="author_teim">Jacqueline Rider</field>
+     <field name="collection_unitid_teim">MSS.204</field>
+     <field name="series_sim">Series II: Published Works and Publications</field>
+-    <field name="series_si">Series II: Published Works and Publications &gt;&gt; Includes Skanky Possum, Virgin Mule, The World, b city, Diana's Fourth Almanac, Oink</field>
+-    <field name="heading_ssm">Includes Skanky Possum, Virgin Mule, The World, b city, Diana's Fourth Almanac, Oink</field>
++    <field name="series_si">Series II: Published Works and Publications &gt;&gt; Includes Skanky Possum, Virgin Mule, The World, b city, Diana&#39;s Fourth Almanac, Oink</field>
++    <field name="heading_ssm">Includes Skanky Possum, Virgin Mule, The World, b city, Diana&#39;s Fourth Almanac, Oink</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

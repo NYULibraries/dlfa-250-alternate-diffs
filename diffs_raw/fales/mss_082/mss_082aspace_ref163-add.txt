@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">2001/2005</field>
+     <field name="unitdate_normal_sim">2001/2005</field>
+     <field name="unitdate_inclusive_teim">2001-2005, undated</field>
+-    <field name="scopecontent_teim">This series includes electronic files which include Nostrand's bibliography dated January 2005, and other unpublished writings from 2001.</field>
++    <field name="scopecontent_teim">This series includes electronic files which include Nostrand&#39;s bibliography dated January 2005, and other unpublished writings from 2001.</field>
+     <field name="ref_ssi">aspace_ref163</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jennifer (Sudie) Nostrand Papers</field>
++    <field name="author_teim">David Hobbs. Finding aid created by Emily Kramer, 2014.</field>
+     <field name="collection_unitid_teim">MSS.082</field>
+     <field name="series_si">Series IV: Data Storage</field>
+     <field name="heading_ssm">Series IV: Data Storage</field>

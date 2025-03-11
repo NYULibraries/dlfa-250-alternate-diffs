@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Fearless TV for the 90s&lt;/em&gt; -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea"</field>
+-    <field name="unittitle_teim">Fearless TV for the 90s -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Fearless TV for the 90s&lt;/em&gt; -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;</field>
++    <field name="unittitle_teim">Fearless TV for the 90s -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;</field>
+     <field name="unitid_teim">cuid39312</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974019</field>
+     <field name="unitid_ssm">cuid39312</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">1990-03/1990-03</field>
+     <field name="unitdate_normal_sim">1990-03/1990-03</field>
+     <field name="unitdate_teim">March, 1990</field>
+-    <field name="dao_teim">Fearless TV for the 90s -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea": March, 1990</field>
+-    <field name="dao_ssm">Fearless TV for the 90s -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea": March, 1990</field>
++    <field name="dao_teim">Fearless TV for the 90s -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;: March, 1990</field>
++    <field name="dao_ssm">Fearless TV for the 90s -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;: March, 1990</field>
+     <field name="ref_ssi">aspace_34edcf75a747dc6df2202d014bfa072b</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -39,10 +39,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_37</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Fearless TV for the 90s&lt;/em&gt; -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea"</field>
+-    <field name="heading_ssm">Fearless TV for the 90s -- "Stone's Throw: TV From Cuba, Island in Goliath's Sea"</field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Fearless TV for the 90s&lt;/em&gt; -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;</field>
++    <field name="heading_ssm">Fearless TV for the 90s -- &#34;Stone&#39;s Throw: TV From Cuba, Island in Goliath&#39;s Sea&#34;</field>
+     <field name="unitdate_ssm">March, 1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>

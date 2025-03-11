@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_067</field>
+     <field name="parent_ssi">aspace_ref14</field>
+     <field name="parent_ssm">aspace_ref14</field>
+-    <field name="parent_unittitles_ssm">Series I: Photograph Albums, Scrapbooks, and Ships' Logs.</field>
+-    <field name="parent_unittitles_teim">Series I: Photograph Albums, Scrapbooks, and Ships' Logs.</field>
++    <field name="parent_unittitles_ssm">Series I: Photograph Albums, Scrapbooks, and Ships&amp;#39; Logs.</field>
++    <field name="parent_unittitles_teim">Series I: Photograph Albums, Scrapbooks, and Ships&amp;#39; Logs.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Elmer Holmes Bobst Collection</field>
+@@ -30,9 +30,10 @@
+     <field name="location_ssm">Box: 8</field>
+     <field name="location_si">Box: 8</field>
+     <field name="collection_teim">Elmer Holmes Bobst Collection</field>
++    <field name="author_teim">Nancy Cricco</field>
+     <field name="collection_unitid_teim">MSS.067</field>
+-    <field name="series_sim">Series I: Photograph Albums, Scrapbooks, and Ships' Logs.</field>
+-    <field name="series_si">Series I: Photograph Albums, Scrapbooks, and Ships' Logs. &gt;&gt; Scrapbook: Newspapers clippings, speeches, photographs. Includes letters from Dwight D. Eisenhower and Grover Whalen</field>
++    <field name="series_sim">Series I: Photograph Albums, Scrapbooks, and Ships&amp;#39; Logs.</field>
++    <field name="series_si">Series I: Photograph Albums, Scrapbooks, and Ships&#39; Logs. &gt;&gt; Scrapbook: Newspapers clippings, speeches, photographs. Includes letters from Dwight D. Eisenhower and Grover Whalen</field>
+     <field name="heading_ssm">Scrapbook: Newspapers clippings, speeches, photographs. Includes letters from Dwight D. Eisenhower and Grover Whalen</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

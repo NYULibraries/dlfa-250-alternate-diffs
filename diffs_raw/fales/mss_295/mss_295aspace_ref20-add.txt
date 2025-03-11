@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1900/1921</field>
+     <field name="unitdate_inclusive_teim">1900, 1921</field>
+     <field name="scopecontent_teim">Albert Dickinson Company. Pop It Yourself. Minneapolis and Chicago: The Albert Dickinson Co., circa 1900.</field>
+-    <field name="scopecontent_teim"> Dickinson. "Little Buster Hull-Less Pop Corn." Chicago, IL: The Albert Dickinson Co., 1921.</field>
++    <field name="scopecontent_teim"> Dickinson. &#34;Little Buster Hull-Less Pop Corn.&#34; Chicago, IL: The Albert Dickinson Co., 1921.</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The Albert Dickinson Company Pop Corn</field>

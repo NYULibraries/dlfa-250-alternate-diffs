@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_inclusive_teim">March 15, 1986</field>
+-    <field name="scopecontent_teim">Nelson records performers getting ready for the March 15, 1986 show of Ethyl Eichelberger's campy comedy Casanova at the Performing Garage, starring Eichelberger, Lady Bunny, Lola Pashalinski, Katy Dierlam, and Barbara Wise. Nelson briefly goes backstage after the performance, where among the crowds, Sylvia Miles and Peter Hujar are present.</field>
++    <field name="scopecontent_teim">Nelson records performers getting ready for the March 15, 1986 show of Ethyl Eichelberger&#39;s campy comedy Casanova at the Performing Garage, starring Eichelberger, Lady Bunny, Lola Pashalinski, Katy Dierlam, and Barbara Wise. Nelson briefly goes backstage after the performance, where among the crowds, Sylvia Miles and Peter Hujar are present.</field>
+     <field name="phystech_teim">Original format: VHS</field>
+     <field name="ref_ssi">aspace_ref50</field>
+     <field name="repository_ssi">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">case: 357.0011</field>
+     <field name="location_si">case: 357.0011</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Casanova by Ethyl Eichelberger</field>

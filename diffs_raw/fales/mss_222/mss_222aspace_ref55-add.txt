@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Joe Campbell Collection of Dorothy Dean Letters</field>
+     <field name="collection_unitid_ssm">MSS.222</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Libby" to Joe Campbell</field>
+-    <field name="unittitle_teim">"Libby" to Joe Campbell</field>
++    <field name="unittitle_ssm">&#34;Libby&#34; to Joe Campbell</field>
++    <field name="unittitle_teim">&#34;Libby&#34; to Joe Campbell</field>
+     <field name="unitdate_normal_ssm">1987-02-25/1987-02-25</field>
+     <field name="unitdate_normal_teim">1987-02-25/1987-02-25</field>
+     <field name="unitdate_normal_sim">1987-02-25/1987-02-25</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 45</field>
+     <field name="location_si">Box: 1, Folder: 45</field>
+     <field name="collection_teim">Joe Campbell Collection of Dorothy Dean Letters</field>
++    <field name="author_teim">Processed by Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.222</field>
+-    <field name="series_si">"Libby" to Joe Campbell</field>
+-    <field name="heading_ssm">"Libby" to Joe Campbell</field>
++    <field name="series_si">&#34;Libby&#34; to Joe Campbell</field>
++    <field name="heading_ssm">&#34;Libby&#34; to Joe Campbell</field>
+     <field name="unitdate_ssm">1987-02-25</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">45</field>

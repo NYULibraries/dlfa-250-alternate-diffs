@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,11 @@
+     <field name="collection_unitid_ssm">MSS.015</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Aldan, Daisy Bergé, Carol Dawson, Robert Dawson, Ruth</field>
+-    <field name="unittitle_teim">Aldan, Daisy Bergé, Carol Dawson, Robert Dawson, Ruth</field>
++    <field name="unittitle_teim">Aldan, Daisy
++ Bergé, Carol
++ Dawson, Robert
++ Dawson, Ruth
++</field>
+     <field name="unitdate_teim">1966</field>
+     <field name="ref_ssi">aspace_ref13</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +29,15 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Hika Archive</field>
++    <field name="author_teim">Amber Creger, February 1999. Finding aid updated by Zachary Dabbs and Lawrence Giffin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.015</field>
+     <field name="series_sim">Series I: Correspondence to Michael Kirchberger</field>
+     <field name="series_si">Series I: Correspondence to Michael Kirchberger &gt;&gt; Aldan, Daisy Bergé, Carol Dawson, Robert Dawson, Ruth</field>
+-    <field name="heading_ssm">Aldan, Daisy Bergé, Carol Dawson, Robert Dawson, Ruth</field>
++    <field name="heading_ssm">Aldan, Daisy
++ Bergé, Carol
++ Dawson, Robert
++ Dawson, Ruth
++</field>
+     <field name="unitdate_ssm">1966</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

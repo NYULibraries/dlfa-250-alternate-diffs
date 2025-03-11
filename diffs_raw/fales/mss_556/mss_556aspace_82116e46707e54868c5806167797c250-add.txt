@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1944/2018</field>
+     <field name="unitdate_normal_sim">1944/2018</field>
+     <field name="unitdate_inclusive_teim">1944-2018</field>
+-    <field name="scopecontent_teim">Sub-series II.C contains Walter's research and lecture notes, as well as some essays and articles he authored.</field>
++    <field name="scopecontent_teim">Sub-series II.C contains Walter&#39;s research and lecture notes, as well as some essays and articles he authored.</field>
+     <field name="ref_ssi">aspace_82116e46707e54868c5806167797c250</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Walter and Naomi Rosenblum Collection of Photography and Photographic History</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder</field>
+     <field name="collection_unitid_teim">MSS.556</field>
+     <field name="series_sim">Series II: Walter Rosenblum</field>
+     <field name="series_si">Series II: Walter Rosenblum &gt;&gt; Sub-series II.C: Lecture and  Publication Materials</field>

@@ -1,0 +1,63 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="genreform_teim">Clippings (information artifacts)</field>
+     <field name="genreform_teim">Clippings (information artifacts)</field>
+     <field name="genreform_teim">Notes.</field>
+-    <field name="genreform_teim">Signatures (binders' notations).</field>
++    <field name="genreform_teim">Signatures (binders&#39; notations).</field>
+     <field name="genreform_teim">Guidebooks</field>
+     <field name="genreform_teim">Calendars.</field>
+     <field name="genreform_teim">Account books</field>
+@@ -61,7 +61,7 @@
+     <field name="genreform_ssm">Clippings (information artifacts)</field>
+     <field name="genreform_ssm">Clippings (information artifacts)</field>
+     <field name="genreform_ssm">Notes.</field>
+-    <field name="genreform_ssm">Signatures (binders' notations).</field>
++    <field name="genreform_ssm">Signatures (binders&#39; notations).</field>
+     <field name="genreform_ssm">Guidebooks</field>
+     <field name="genreform_ssm">Calendars.</field>
+     <field name="genreform_ssm">Account books</field>
+@@ -89,8 +89,8 @@
+     <field name="subject_teim">Photography of cats.</field>
+     <field name="subject_teim">Portrait photography.</field>
+     <field name="subject_teim">Photography of children.</field>
+-    <field name="subject_teim">Portrait photography -- Great Britain.</field>
+-    <field name="subject_teim">English poetry -- 19th century.</field>
++    <field name="subject_teim">Portrait photography --Great Britain.</field>
++    <field name="subject_teim">English poetry --19th century.</field>
+     <field name="subject_ssm">Photography of dogs.</field>
+     <field name="subject_ssm">Photography of cats.</field>
+     <field name="subject_ssm">Portrait photography.</field>
+@@ -107,9 +107,10 @@
+     <field name="subject_sim">Photography of cats.</field>
+     <field name="subject_sim">Portrait photography.</field>
+     <field name="subject_sim">Photography of children.</field>
+-    <field name="subject_sim">Portrait photography -- Great Britain.</field>
+-    <field name="subject_sim">English poetry -- 19th century.</field>
++    <field name="subject_sim">Portrait photography --Great Britain.</field>
++    <field name="subject_sim">English poetry --19th century.</field>
+     <field name="collection_teim">Margaret Strickland Papers</field>
++    <field name="author_teim">Matt Moore, 2001. Edited by Rhyannon J. Rodriguez 2012, 2014, and 2015.</field>
+     <field name="collection_unitid_teim">MSS.077</field>
+     <field name="series_si">Series IV: Diaries, Ephemera, Scrapbooks</field>
+     <field name="material_type_sim">Printed ephemera.</field>
+@@ -125,7 +126,7 @@
+     <field name="material_type_sim">Scrapbooks.</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Notes.</field>
+-    <field name="material_type_sim">Signatures (binders' notations).</field>
++    <field name="material_type_sim">Signatures (binders&#39; notations).</field>
+     <field name="material_type_sim">Guidebooks</field>
+     <field name="material_type_sim">Calendars.</field>
+     <field name="material_type_sim">Account books</field>
+@@ -156,7 +157,7 @@
+     <field name="material_type_ssm">Scrapbooks.</field>
+     <field name="material_type_ssm">Clippings (information artifacts)</field>
+     <field name="material_type_ssm">Notes.</field>
+-    <field name="material_type_ssm">Signatures (binders' notations).</field>
++    <field name="material_type_ssm">Signatures (binders&#39; notations).</field>
+     <field name="material_type_ssm">Guidebooks</field>
+     <field name="material_type_ssm">Calendars.</field>
+     <field name="material_type_ssm">Account books</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Librettist: Tottola, Andrea Leone</field>
+     <field name="scopecontent_teim">Performance City and Venue: Bergamo: Teatro Riccardi</field>
+-    <field name="scopecontent_teim">Performance Season/Date: L'Estate 1822</field>
++    <field name="scopecontent_teim">Performance Season/Date: L&#39;Estate 1822</field>
+     <field name="scopecontent_teim">Publication City and Publisher: Bergamo: dalla stamperia Mazzoleni</field>
+     <field name="ref_ssi">aspace_ref503</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 9, Folder: 7</field>
+     <field name="location_si">Box: 9, Folder: 7</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series LV: Rossini</field>
+     <field name="series_si">Series LV: Rossini &gt;&gt; Mose in Egitto</field>

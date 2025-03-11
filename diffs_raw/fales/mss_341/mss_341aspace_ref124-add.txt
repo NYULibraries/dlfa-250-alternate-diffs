@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bern Boyle Papers</field>
+     <field name="collection_unitid_ssm">MSS.341</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Bern's Haircut"</field>
+-    <field name="unittitle_teim">"Bern's Haircut"</field>
++    <field name="unittitle_ssm">&#34;Bern&#39;s Haircut&#34;</field>
++    <field name="unittitle_teim">&#34;Bern&#39;s Haircut&#34;</field>
+     <field name="unitid_teim">ID: 341.0001</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/562358</field>
+     <field name="unitid_ssm">ID: 341.0001</field>
+@@ -22,9 +22,9 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="phystech_teim">Original format: 8mm, 400 ft</field>
+     <field name="phystech_teim">Original Container Annotation: 
+-[1] "Bern's Haircut (camera: Rob Roll)"
+-[2] "Gay Parade"
+-[3] "Breast Cancer (complete)"</field>
++[1] &#34;Bern&#39;s Haircut (camera: Rob Roll)&#34;
++[2] &#34;Gay Parade&#34;
++[3] &#34;Breast Cancer (complete)&#34;</field>
+     <field name="ref_ssi">aspace_ref124</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 42, Media: ID: 341.0001</field>
+     <field name="location_si">Box: 42, Media: ID: 341.0001</field>
+     <field name="collection_teim">Bern Boyle Papers</field>
++    <field name="author_teim">Nancy Aravecz with Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.341</field>
+     <field name="series_sim">Series IV: Film </field>
+-    <field name="series_si">Series IV: Film  &gt;&gt; "Bern's Haircut"</field>
+-    <field name="heading_ssm">"Bern's Haircut"</field>
++    <field name="series_si">Series IV: Film  &gt;&gt; &#34;Bern&#39;s Haircut&#34;</field>
++    <field name="heading_ssm">&#34;Bern&#39;s Haircut&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>

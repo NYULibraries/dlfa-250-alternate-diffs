@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Group Material Archive</field>
+     <field name="collection_unitid_ssm">MSS.215</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">George H. W. Bush "AIDS &amp;amp; Insurance" Bus advertisement</field>
+-    <field name="unittitle_teim">George H. W. Bush "AIDS &amp; Insurance" Bus advertisement</field>
++    <field name="unittitle_ssm">George H. W. Bush &#34;AIDS &amp; Insurance&#34; Bus advertisement</field>
++    <field name="unittitle_teim">George H. W. Bush &#34;AIDS &amp; Insurance&#34; Bus advertisement</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/519695</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/519695</field>
+     <field name="unitdate_normal_ssm">1990/1990</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">roll-storage: Shared Fales 047</field>
+     <field name="location_si">roll-storage: Shared Fales 047</field>
+     <field name="collection_teim">Group Material Archive</field>
++    <field name="author_teim">Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.215</field>
+     <field name="series_sim">Oversize Series I: Project Files</field>
+-    <field name="series_si">Oversize Series I: Project Files &gt;&gt; George H. W. Bush "AIDS &amp;amp; Insurance" Bus advertisement</field>
+-    <field name="heading_ssm">George H. W. Bush "AIDS &amp; Insurance" Bus advertisement</field>
++    <field name="series_si">Oversize Series I: Project Files &gt;&gt; George H. W. Bush &#34;AIDS &amp; Insurance&#34; Bus advertisement</field>
++    <field name="heading_ssm">George H. W. Bush &#34;AIDS &amp; Insurance&#34; Bus advertisement</field>
+     <field name="unitdate_start_sim">1990</field>
+     <field name="unitdate_start_ssm">1990</field>
+     <field name="unitdate_start_si">1990</field>

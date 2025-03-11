@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Parasite Archive</field>
+     <field name="collection_unitid_ssm">MSS.333</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Herstory - A Documentary"</field>
+-    <field name="unittitle_teim">"Herstory - A Documentary"</field>
++    <field name="unittitle_ssm">&#34;Herstory - A Documentary&#34;</field>
++    <field name="unittitle_teim">&#34;Herstory - A Documentary&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/560860</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/560860</field>
+     <field name="unitdate_teim">1970 -1971</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 4, Folder: 48</field>
+     <field name="location_si">Box: 4, Folder: 48</field>
+     <field name="collection_teim">Parasite Archive</field>
++    <field name="author_teim">Rachel Pedderson and Rhyannon J. Rodriguez, 2012. </field>
+     <field name="collection_unitid_teim">MSS.333</field>
+     <field name="series_sim">Series II: Services: A Working-Group Exhibition</field>
+-    <field name="series_si">Series II: Services: A Working-Group Exhibition &gt;&gt; "Herstory - A Documentary"</field>
+-    <field name="heading_ssm">"Herstory - A Documentary"</field>
++    <field name="series_si">Series II: Services: A Working-Group Exhibition &gt;&gt; &#34;Herstory - A Documentary&#34;</field>
++    <field name="heading_ssm">&#34;Herstory - A Documentary&#34;</field>
+     <field name="unitdate_ssm">1970 -1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">109</field>

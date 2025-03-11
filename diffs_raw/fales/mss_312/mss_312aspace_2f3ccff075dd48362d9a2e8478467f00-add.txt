@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1985/2020</field>
+     <field name="unitdate_normal_sim">1985/2020</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Includes four "Videos for Waging Peace"</field>
++    <field name="scopecontent_teim">Includes four &#34;Videos for Waging Peace&#34;</field>
+     <field name="dao_teim">Media Organizations -- American Friends Service Committee: Undated</field>
+     <field name="dao_ssm">Media Organizations -- American Friends Service Committee: Undated</field>
+     <field name="ref_ssi">aspace_2f3ccff075dd48362d9a2e8478467f00</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_398</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series V. Subject Files</field>
+     <field name="series_si">Series V. Subject Files &gt;&gt; Media Organizations -- American Friends Service Committee</field>

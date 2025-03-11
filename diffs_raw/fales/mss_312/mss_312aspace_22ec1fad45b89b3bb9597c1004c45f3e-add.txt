@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_teim">Circa 1993</field>
+-    <field name="scopecontent_teim">These tapes include "Not MTV: Music Videos With A Message" and "My Sin is Loving You"</field>
++    <field name="scopecontent_teim">These tapes include &#34;Not MTV: Music Videos With A Message&#34; and &#34;My Sin is Loving You&#34;</field>
+     <field name="ref_ssi">aspace_22ec1fad45b89b3bb9597c1004c45f3e</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 144, MiniDV: 312_0689</field>
+     <field name="location_si">Box: 144, MiniDV: 312_0689</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Democracy in Communications&lt;/em&gt; -- Compilation Tape</field>

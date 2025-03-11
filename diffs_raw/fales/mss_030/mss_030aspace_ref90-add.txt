@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,13 +5,13 @@
+     <field name="ead_ssi">mss_030</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+-    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_sim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="collection_ssm">Jill &#34;Billy&#34; Rainsford Papers</field>
+     <field name="collection_unitid_ssm">MSS.030</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series Five: Julia D. Rainsford Papers</field>
+     <field name="unittitle_teim">Series Five: Julia D. Rainsford Papers</field>
+-    <field name="scopecontent_teim">Series Five includes correspondence arranged by "subject" and time period and arranged chronologically within each file. German language letters are grouped together. One folder comprises the Rainsford family papers which includes the marriage license of Henry and Julia Rainsford, citizenship papers of the maternal grandmother of Rainsford, and family burial plot information. A diary of a family cross country trip during 1908-1909 is also included.</field>
++    <field name="scopecontent_teim">Series Five includes correspondence arranged by &#34;subject&#34; and time period and arranged chronologically within each file. German language letters are grouped together. One folder comprises the Rainsford family papers which includes the marriage license of Henry and Julia Rainsford, citizenship papers of the maternal grandmother of Rainsford, and family burial plot information. A diary of a family cross country trip during 1908-1909 is also included.</field>
+     <field name="ref_ssi">aspace_ref90</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -18,7 +18,8 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_teim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="author_teim">Colleen Eklow.</field>
+     <field name="collection_unitid_teim">MSS.030</field>
+     <field name="series_si">Series Five: Julia D. Rainsford Papers</field>
+     <field name="heading_ssm">Series Five: Julia D. Rainsford Papers</field>

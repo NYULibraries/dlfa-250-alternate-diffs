@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">2009/2015</field>
+     <field name="unitdate_normal_sim">2009/2015</field>
+     <field name="unitdate_inclusive_teim">2009-2015</field>
+-    <field name="scopecontent_teim">These files include articles and interviews about the "Peace Pentagon" office building in Manhattan that Deep Dish TV and Paper Tiger TV operated out of.</field>
++    <field name="scopecontent_teim">These files include articles and interviews about the &#34;Peace Pentagon&#34; office building in Manhattan that Deep Dish TV and Paper Tiger TV operated out of.</field>
+     <field name="dao_teim">Peace Pentagon Building Files: 2009-2015</field>
+     <field name="dao_ssm">Peace Pentagon Building Files: 2009-2015</field>
+     <field name="ref_ssi">aspace_e4a6063f1caa9904750610a0a3c9b7e2</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_256</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series II. Administrative Files</field>
+     <field name="series_si">Series II. Administrative Files &gt;&gt; Peace Pentagon Building Files</field>

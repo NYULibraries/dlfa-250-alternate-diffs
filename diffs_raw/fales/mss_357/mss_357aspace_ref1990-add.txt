@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+     <field name="unitdate_inclusive_teim">December 22, 1987</field>
+-    <field name="scopecontent_teim">During the holiday season, LaHoma and Nelson are driving to the Limelight. After bumping into Michael Musto, they leave to go to the "Rock and Roll Fag Bar Party" at The World nightclub to see the band "The People Tree" perform.</field>
++    <field name="scopecontent_teim">During the holiday season, LaHoma and Nelson are driving to the Limelight. After bumping into Michael Musto, they leave to go to the &#34;Rock and Roll Fag Bar Party&#34; at The World nightclub to see the band &#34;The People Tree&#34; perform.</field>
+     <field name="phystech_teim">Original format: Video8mm</field>
+     <field name="dao_teim">People Tree at The World, Sauvage at Limelight</field>
+     <field name="dao_ssm">People Tree at The World, Sauvage at Limelight</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">case: 357.0583</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; People Tree at The World, Sauvage at Limelight</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1982/2000</field>
+     <field name="unitdate_normal_sim">1982/2000</field>
+     <field name="unitdate_inclusive_teim">1982-2000</field>
+-    <field name="scopecontent_teim">This subseries consists of some of Jack Waters' writings for various publications, including articles and drafts thereof.</field>
++    <field name="scopecontent_teim">This subseries consists of some of Jack Waters&#39; writings for various publications, including articles and drafts thereof.</field>
+     <field name="ref_ssi">aspace_2c0fe3edf61a97b8fa850dcf097f22a1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jack Waters Papers</field>
++    <field name="author_teim">Fales Staff</field>
+     <field name="collection_unitid_teim">MSS.111</field>
+     <field name="series_sim">Series I: Files</field>
+     <field name="series_si">Series I: Files &gt;&gt; Subseries A: Selected Writings</field>

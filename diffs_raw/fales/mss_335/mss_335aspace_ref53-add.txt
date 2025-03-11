@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Dean Johnson Papers</field>
+     <field name="collection_unitid_ssm">MSS.335</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">A Video Tribute to Dean Johnson by Robert O'Hare</field>
+-    <field name="unittitle_teim">A Video Tribute to Dean Johnson by Robert O'Hare</field>
++    <field name="unittitle_ssm">A Video Tribute to Dean Johnson by Robert O&#39;Hare</field>
++    <field name="unittitle_teim">A Video Tribute to Dean Johnson by Robert O&#39;Hare</field>
+     <field name="unitid_teim">ID: 335.0024</field>
+     <field name="unitid_ssm">ID: 335.0024</field>
+     <field name="unitdate_teim">undated</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Media: ID: 335.0024</field>
+     <field name="location_si">Box: 2, Media: ID: 335.0024</field>
+     <field name="collection_teim">Dean Johnson Papers</field>
++    <field name="author_teim">Caitlin Klein, 2012. Media updates by Rhyannon J. Rodriguez.</field>
+     <field name="collection_unitid_teim">MSS.335</field>
+     <field name="series_sim">Series III: Video recordings</field>
+-    <field name="series_si">Series III: Video recordings &gt;&gt; A Video Tribute to Dean Johnson by Robert O'Hare</field>
+-    <field name="heading_ssm">A Video Tribute to Dean Johnson by Robert O'Hare</field>
++    <field name="series_si">Series III: Video recordings &gt;&gt; A Video Tribute to Dean Johnson by Robert O&#39;Hare</field>
++    <field name="heading_ssm">A Video Tribute to Dean Johnson by Robert O&#39;Hare</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">36</field>

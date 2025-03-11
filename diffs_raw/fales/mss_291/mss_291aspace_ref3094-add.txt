@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Lines of Loss: "Under the Green Time" by Roger Doyle</field>
+-    <field name="unittitle_teim">Lines of Loss: "Under the Green Time" by Roger Doyle</field>
++    <field name="unittitle_ssm">Lines of Loss: &#34;Under the Green Time&#34; by Roger Doyle</field>
++    <field name="unittitle_teim">Lines of Loss: &#34;Under the Green Time&#34; by Roger Doyle</field>
+     <field name="unitid_teim">ID: 291.0070</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/543862</field>
+     <field name="unitid_ssm">ID: 291.0070</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 243, Media: ID: 291.0070</field>
+     <field name="location_si">Box: 243, Media: ID: 291.0070</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series VIII: Media</field>
+     <field name="series_sim">Subseries A: Sound recordings, video recordings, and films</field>
+-    <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; Lines of Loss: "Under the Green Time" by Roger Doyle</field>
+-    <field name="heading_ssm">Lines of Loss: "Under the Green Time" by Roger Doyle</field>
++    <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; Lines of Loss: &#34;Under the Green Time&#34; by Roger Doyle</field>
++    <field name="heading_ssm">Lines of Loss: &#34;Under the Green Time&#34; by Roger Doyle</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2013</field>

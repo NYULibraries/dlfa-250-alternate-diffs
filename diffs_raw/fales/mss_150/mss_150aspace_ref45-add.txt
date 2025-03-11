@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,12 +12,12 @@
+     <field name="parent_unittitles_teim">Subseries A: LDEI Dinner Events</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+-    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_sim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="collection_ssm">Les Dames d&#39;Escoffier New York Archive</field>
+     <field name="collection_unitid_ssm">MSS.150</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">LDEI Dinner Events: Les Amis d'Escoffier, La Fondation d'Escoffier</field>
+-    <field name="unittitle_teim">LDEI Dinner Events: Les Amis d'Escoffier, La Fondation d'Escoffier</field>
++    <field name="unittitle_ssm">LDEI Dinner Events: Les Amis d&#39;Escoffier, La Fondation d&#39;Escoffier</field>
++    <field name="unittitle_teim">LDEI Dinner Events: Les Amis d&#39;Escoffier, La Fondation d&#39;Escoffier</field>
+     <field name="unitdate_teim">1991-2000</field>
+     <field name="ref_ssi">aspace_ref45</field>
+     <field name="repository_ssi">fales</field>
+@@ -27,12 +27,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2, Folder: 31</field>
+     <field name="location_si">Box: 2, Folder: 31</field>
+-    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_teim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="author_teim">Gabriella Ekman</field>
+     <field name="collection_unitid_teim">MSS.150</field>
+     <field name="series_sim">Series I: LDENY Dinner Events</field>
+     <field name="series_sim">Subseries A: LDEI Dinner Events</field>
+-    <field name="series_si">Series I: LDENY Dinner Events &gt;&gt; Subseries A: LDEI Dinner Events &gt;&gt; LDEI Dinner Events: Les Amis d'Escoffier, La Fondation d'Escoffier</field>
+-    <field name="heading_ssm">LDEI Dinner Events: Les Amis d'Escoffier, La Fondation d'Escoffier</field>
++    <field name="series_si">Series I: LDENY Dinner Events &gt;&gt; Subseries A: LDEI Dinner Events &gt;&gt; LDEI Dinner Events: Les Amis d&#39;Escoffier, La Fondation d&#39;Escoffier</field>
++    <field name="heading_ssm">LDEI Dinner Events: Les Amis d&#39;Escoffier, La Fondation d&#39;Escoffier</field>
+     <field name="unitdate_ssm">1991-2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">34</field>

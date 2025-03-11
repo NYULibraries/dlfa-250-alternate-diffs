@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Donald Oliver/Chelsea Music Archive</field>
+     <field name="collection_unitid_ssm">MSS.254</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Annie 2 Miss Hannigan's Revenge</field>
+-    <field name="unittitle_teim">Annie 2 Miss Hannigan's Revenge</field>
++    <field name="unittitle_ssm">Annie 2 Miss Hannigan&#39;s Revenge</field>
++    <field name="unittitle_teim">Annie 2 Miss Hannigan&#39;s Revenge</field>
+     <field name="unitid_teim">ID: 254.0013</field>
+     <field name="unitid_ssm">ID: 254.0013</field>
+     <field name="unitdate_teim">1990</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">case: 254.0013_pt.2</field>
+     <field name="location_si">case: 254.0013_pt.2</field>
+     <field name="collection_teim">Donald Oliver/Chelsea Music Archive</field>
++    <field name="author_teim">Virginia Pastor and Brent Phillips in 2014 with edits made by Andrea Kutsenkow in 2016.</field>
+     <field name="collection_unitid_teim">MSS.254</field>
+     <field name="series_sim">Series IV: Video Recordings</field>
+-    <field name="series_si">Series IV: Video Recordings &gt;&gt; Annie 2 Miss Hannigan's Revenge</field>
+-    <field name="heading_ssm">Annie 2 Miss Hannigan's Revenge</field>
++    <field name="series_si">Series IV: Video Recordings &gt;&gt; Annie 2 Miss Hannigan&#39;s Revenge</field>
++    <field name="heading_ssm">Annie 2 Miss Hannigan&#39;s Revenge</field>
+     <field name="unitdate_ssm">1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">662</field>

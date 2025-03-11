@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_270</field>
+     <field name="parent_ssi">aspace_ref3209</field>
+     <field name="parent_ssm">aspace_ref3209</field>
+-    <field name="parent_unittitles_ssm">Series IV: Director's Files</field>
+-    <field name="parent_unittitles_teim">Series IV: Director's Files</field>
++    <field name="parent_unittitles_ssm">Series IV: Director&amp;#39;s Files</field>
++    <field name="parent_unittitles_teim">Series IV: Director&amp;#39;s Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Public Art Fund Archive</field>
+@@ -24,9 +24,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Public Art Fund Archive</field>
++    <field name="author_teim">Tara Hart, 2011. Previous processing by David Kim, Jaclyn Barcewski, Joey Cabrera, Peter Loring, Craig P. Savino, Lilli Schestag. Finding aid created by Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.270</field>
+-    <field name="series_sim">Series IV: Director's Files</field>
+-    <field name="series_si">Series IV: Director's Files &gt;&gt; Subseries IV.D: Rochelle Steiner Papers</field>
++    <field name="series_sim">Series IV: Director&amp;#39;s Files</field>
++    <field name="series_si">Series IV: Director&#39;s Files &gt;&gt; Subseries IV.D: Rochelle Steiner Papers</field>
+     <field name="heading_ssm">Subseries IV.D: Rochelle Steiner Papers</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">411</field>

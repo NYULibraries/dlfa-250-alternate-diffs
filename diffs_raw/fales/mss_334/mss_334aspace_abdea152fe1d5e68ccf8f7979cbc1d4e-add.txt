@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">334.0333</field>
+     <field name="unitid_ssm">334.0333</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Format: 1/2 Open Reel Video, Duration: 30min., Reel Size: 5"</field>
++    <field name="phystech_teim">Format: 1/2 Open Reel Video, Duration: 30min., Reel Size: 5&#34;</field>
+     <field name="ref_ssi">aspace_abdea152fe1d5e68ccf8f7979cbc1d4e</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -24,6 +24,7 @@
+     <field name="location_ssm">Box: 16, reel: 334.0333</field>
+     <field name="location_si">Box: 16, reel: 334.0333</field>
+     <field name="collection_teim">Elliot Glass and Ken Marsh Video Collection</field>
++    <field name="author_teim">Megan O&#39;Shea</field>
+     <field name="collection_unitid_teim">MSS.334</field>
+     <field name="series_si">Joyous Lake</field>
+     <field name="heading_ssm">Joyous Lake</field>

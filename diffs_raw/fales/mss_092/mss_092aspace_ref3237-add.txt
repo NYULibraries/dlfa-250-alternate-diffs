@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/426582</field>
+     <field name="unitdate_teim">1990</field>
+     <field name="phystech_teim">Description: Green and black spotted frog</field>
+-    <field name="phystech_teim">Maker: bottom stamped "auratus, 1990, sefan ltd, China"</field>
++    <field name="phystech_teim">Maker: bottom stamped &#34;auratus, 1990, sefan ltd, China&#34;</field>
+     <field name="phystech_teim">Where Made: China</field>
+     <field name="phystech_teim">Materials: plastic, paint</field>
+     <field name="phystech_teim">Dimensions: 0.15 x 1.57 x 2.75 inches</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Box: 131, object: 092.2.0179</field>
+     <field name="location_si">Box: 131, object: 092.2.0179</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries A: General Objects and Artifacts</field>

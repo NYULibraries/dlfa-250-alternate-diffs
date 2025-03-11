@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1976/2003</field>
+     <field name="unitdate_normal_sim">1976/2003</field>
+     <field name="unitdate_inclusive_teim">1976-2003</field>
+-    <field name="scopecontent_teim">Subseries comprises research notes, outlines, correspondence, promotional material and publicity, and other material related to Lukins's other cookbooks. Subseries mostly covers material from the cookbooks U.S.A. Cookbook and All Around the World.</field>
++    <field name="scopecontent_teim">Subseries comprises research notes, outlines, correspondence, promotional material and publicity, and other material related to Lukins&#39;s other cookbooks. Subseries mostly covers material from the cookbooks U.S.A. Cookbook and All Around the World.</field>
+     <field name="ref_ssi">aspace_ref9</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sheila Lukins Papers</field>
++    <field name="author_teim">Lawrence Giffin and Caitlyn Hain, 2011.</field>
+     <field name="collection_unitid_teim">MSS.281</field>
+     <field name="series_sim">Series I: Professional Files</field>
+     <field name="series_si">Series I: Professional Files &gt;&gt; Subseries D: Cookbook Files</field>

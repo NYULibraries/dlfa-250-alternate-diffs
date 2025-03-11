@@ -1,0 +1,62 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Second Aeon Archive</field>
+     <field name="unitid_teim">MSS.023</field>
+     <field name="unitid_ssm">MSS.023</field>
+-    <field name="abstract_teim">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon's issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts.</field>
+-    <field name="abstract_ssm">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon's issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts.</field>
++    <field name="abstract_teim">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon&#39;s issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts.</field>
++    <field name="abstract_ssm">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon&#39;s issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts.</field>
+     <field name="creator_teim">Second Aeon Publications</field>
+     <field name="creator_ssm">Second Aeon Publications</field>
+     <field name="creator_ssm">Second Aeon Publications</field>
+@@ -16,9 +16,9 @@
+     <field name="unitdate_normal_teim">1967/1974</field>
+     <field name="unitdate_normal_sim">1967/1974</field>
+     <field name="unitdate_inclusive_teim">1967-1974</field>
+-    <field name="scopecontent_teim">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon's issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts. Noted correspondents include Paul Auster, Carol Berg, Robert Bly, Charles Bukowski, William Burroughs, John Cage, Cyril Hodges, Alison Knowles, Jim Morrison, Jeff Nuttall, and Peter Redgrove. Also included in this collection are manuscripts used by Second Aeon's small press to publish various poetry books and anthologies.</field>
+-    <field name="bioghist_teim">Twenty-one issues of the magazine Second Aeon appeared between 1967 and 1974. It was published in Cardiff, Wales, with the support of the Welsh Arts Council and edited by Peter Finch. Containing poetry, short stories, cartoons, and illustrations, Second Aeon for it's period, was a comprehensive round up of the UK's small press activity. Noted contributors to the magazine included: Robert Bly, Gary Snyder, Allen Ginsberg, LeRoi Jones, Pablo Neruda, Charles Bukowski, Lorca, Octavio Paz, and countless others. In conjunction with the magazine, Second Aeon was also a small press that published poetry anthologies and books.</field>
+-    <field name="custodhist_teim">The Second Aeon Archive was acquired via purchase from Richard Aaron of Am Here Books, in 1974. The Second Aeon Archive is part of the Avant Garde Collection, collected at Fales Library during the 1960's and 70's by Mel Edelstein and Theodore Grieder.</field>
++    <field name="scopecontent_teim">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon&#39;s issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts. Noted correspondents include Paul Auster, Carol Berg, Robert Bly, Charles Bukowski, William Burroughs, John Cage, Cyril Hodges, Alison Knowles, Jim Morrison, Jeff Nuttall, and Peter Redgrove. Also included in this collection are manuscripts used by Second Aeon&#39;s small press to publish various poetry books and anthologies.</field>
++    <field name="bioghist_teim">Twenty-one issues of the magazine Second Aeon appeared between 1967 and 1974. It was published in Cardiff, Wales, with the support of the Welsh Arts Council and edited by Peter Finch. Containing poetry, short stories, cartoons, and illustrations, Second Aeon for it&#39;s period, was a comprehensive round up of the UK&#39;s small press activity. Noted contributors to the magazine included: Robert Bly, Gary Snyder, Allen Ginsberg, LeRoi Jones, Pablo Neruda, Charles Bukowski, Lorca, Octavio Paz, and countless others. In conjunction with the magazine, Second Aeon was also a small press that published poetry anthologies and books.</field>
++    <field name="custodhist_teim">The Second Aeon Archive was acquired via purchase from Richard Aaron of Am Here Books, in 1974. The Second Aeon Archive is part of the Avant Garde Collection, collected at Fales Library during the 1960&#39;s and 70&#39;s by Mel Edelstein and Theodore Grieder.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">Second Aeon Publications</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>
+@@ -57,12 +57,12 @@
+     <field name="subject_teim">English poetry |y 20th century |v Periodicals.</field>
+     <field name="subject_teim">English poetry |x Welsh authors |y 20th century |v Periodicals.</field>
+     <field name="subject_teim">Literature, Experimental.</field>
+-    <field name="subject_teim">English fiction -- 20th century.</field>
+-    <field name="subject_teim">American fiction -- 20th century.</field>
+-    <field name="subject_teim">American poetry -- 20th century -- Periodicals</field>
+-    <field name="subject_teim">Avant-garde (Aesthetics)</field>
+-    <field name="subject_teim">English poetry -- 20th century -- Periodicals.</field>
+-    <field name="subject_teim">English poetry -- Welsh authors -- 20th century -- Periodicals.</field>
++    <field name="subject_teim">English fiction --20th century.</field>
++    <field name="subject_teim">American fiction -- 20th century.</field>
++    <field name="subject_teim">American poetry -- 20th century -- Periodicals</field>
++    <field name="subject_teim">Avant-garde (Aesthetics)</field>
++    <field name="subject_teim">English poetry --20th century --Periodicals.</field>
++    <field name="subject_teim">English poetry --Welsh authors --20th century --Periodicals.</field>
+     <field name="subject_ssm">Literature, Experimental.</field>
+     <field name="subject_ssm">English fiction |y 20th century.</field>
+     <field name="subject_ssm">American fiction -- 20th century.</field>
+@@ -101,12 +101,12 @@
+     <field name="name_teim">Andre, Michael</field>
+     <field name="name_teim">Ames, Terrence</field>
+     <field name="subject_sim">Literature, Experimental.</field>
+-    <field name="subject_sim">English fiction -- 20th century.</field>
++    <field name="subject_sim">English fiction --20th century.</field>
+     <field name="subject_sim">American fiction -- 20th century.</field>
+     <field name="subject_sim">American poetry -- 20th century -- Periodicals</field>
+     <field name="subject_sim">Avant-garde (Aesthetics)</field>
+-    <field name="subject_sim">English poetry -- 20th century -- Periodicals.</field>
+-    <field name="subject_sim">English poetry -- Welsh authors -- 20th century -- Periodicals.</field>
++    <field name="subject_sim">English poetry --20th century --Periodicals.</field>
++    <field name="subject_sim">English poetry --Welsh authors --20th century --Periodicals.</field>
+     <field name="material_type_sim">Manuscripts for publication.</field>
+     <field name="material_type_sim">Correspondence.</field>
+     <field name="material_type_sim">Galley proofs.</field>

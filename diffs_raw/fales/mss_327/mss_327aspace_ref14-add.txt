@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Michelle Tea presents "The Outsiders," Introduction and Q&amp;amp;A</field>
+-    <field name="unittitle_teim">Michelle Tea presents "The Outsiders," Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">Michelle Tea presents &#34;The Outsiders,&#34; Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">Michelle Tea presents &#34;The Outsiders,&#34; Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0005</field>
+     <field name="unitid_ssm">ID: 327.0005</field>
+     <field name="unitdate_normal_ssm">2011/2011</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">January 31, 2011</field>
+     <field name="scopecontent_teim">Featured: Adam Baran and Ira Sachs (Queer/Art/Film Curators), Pamela Sneed (Presenter)
+ Videographer: Ryan Colletti </field>
+-    <field name="scopecontent_teim">Program Content: Director Francis Ford Coppola's  adaptation of S.E. Hinton's novel is presented by writer Michelle Tea, founder of the queer spoken word performance company, Sister Split. "The Outsiders" stars actors Patrick Swayze, Matt Dillon, Tom Cruise, C. Thomas Howell, Ralph Macchio, Emilio Estevez, Rob Lowe, and Diane Lane who become players in a violent gang war between rich and poor teens in the early '60s.</field>
++    <field name="scopecontent_teim">Program Content: Director Francis Ford Coppola&#39;s  adaptation of S.E. Hinton&#39;s novel is presented by writer Michelle Tea, founder of the queer spoken word performance company, Sister Split. &#34;The Outsiders&#34; stars actors Patrick Swayze, Matt Dillon, Tom Cruise, C. Thomas Howell, Ralph Macchio, Emilio Estevez, Rob Lowe, and Diane Lane who become players in a violent gang war between rich and poor teens in the early &#39;60s.</field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: 28 minutes</field>
+     <field name="phystech_teim">Color, Sound</field>
+@@ -40,11 +40,12 @@
+     <field name="location_ssm">case: 327.0005</field>
+     <field name="location_si">case: 327.0005</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Michelle Tea presents "The Outsiders," Introduction and Q&amp;amp;A</field>
+-    <field name="heading_ssm">Michelle Tea presents "The Outsiders," Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Michelle Tea presents &#34;The Outsiders,&#34; Introduction and Q&amp;A</field>
++    <field name="heading_ssm">Michelle Tea presents &#34;The Outsiders,&#34; Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2011</field>
+     <field name="unitdate_start_ssm">2011</field>
+     <field name="unitdate_start_si">2011</field>

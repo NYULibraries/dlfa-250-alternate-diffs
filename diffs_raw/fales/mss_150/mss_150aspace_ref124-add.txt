@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="parent_unittitles_teim">Series V: Correspondence</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+-    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_sim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="collection_ssm">Les Dames d&#39;Escoffier New York Archive</field>
+     <field name="collection_unitid_ssm">MSS.150</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Nestle, M. - O'Neill, M.</field>
+-    <field name="unittitle_teim">Nestle, M. - O'Neill, M.</field>
++    <field name="unittitle_ssm">Nestle, M. - O&#39;Neill, M.</field>
++    <field name="unittitle_teim">Nestle, M. - O&#39;Neill, M.</field>
+     <field name="unitdate_teim">1989</field>
+     <field name="ref_ssi">aspace_ref124</field>
+     <field name="repository_ssi">fales</field>
+@@ -24,11 +24,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 5, Folder: 102</field>
+     <field name="location_si">Box: 5, Folder: 102</field>
+-    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_teim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="author_teim">Gabriella Ekman</field>
+     <field name="collection_unitid_teim">MSS.150</field>
+     <field name="series_sim">Series V: Correspondence</field>
+-    <field name="series_si">Series V: Correspondence &gt;&gt; Nestle, M. - O'Neill, M.</field>
+-    <field name="heading_ssm">Nestle, M. - O'Neill, M.</field>
++    <field name="series_si">Series V: Correspondence &gt;&gt; Nestle, M. - O&#39;Neill, M.</field>
++    <field name="heading_ssm">Nestle, M. - O&#39;Neill, M.</field>
+     <field name="unitdate_ssm">1989</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">109</field>

@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">New American Library Archive</field>
+     <field name="collection_unitid_ssm">MSS.070</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dodd, Mead &amp;amp; Co.,</field>
++    <field name="unittitle_ssm">Dodd, Mead &amp; Co.,</field>
+     <field name="unittitle_teim">Dodd, Mead &amp; Co.,</field>
+     <field name="unitdate_teim">1945-1953</field>
+     <field name="ref_ssi">aspace_ref2961</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 89 A., Folder: 2840</field>
+     <field name="location_si">Box: 89 A., Folder: 2840</field>
+     <field name="collection_teim">New American Library Archive</field>
++    <field name="author_teim">Jenny Hillyer, from September-October 2000. Updated by Nicholas Martin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.070</field>
+     <field name="series_sim">Series IV A: New American Library, Agent - Publisher Correspondence, 1948-1961</field>
+-    <field name="series_si">Series IV A: New American Library, Agent - Publisher Correspondence, 1948-1961 &gt;&gt; Dodd, Mead &amp;amp; Co.,</field>
++    <field name="series_si">Series IV A: New American Library, Agent - Publisher Correspondence, 1948-1961 &gt;&gt; Dodd, Mead &amp; Co.,</field>
+     <field name="heading_ssm">Dodd, Mead &amp; Co.,</field>
+     <field name="unitdate_ssm">1945-1953</field>
+     <field name="date_range_sim">undated &amp; other</field>

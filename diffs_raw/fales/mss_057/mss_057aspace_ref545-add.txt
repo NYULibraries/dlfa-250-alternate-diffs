@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,11 @@
+     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
+     <field name="collection_unitid_ssm">MSS.057</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Ruskin, John Calling Card Denmark Hill "John Ruskin" With penciled notes.</field>
+-    <field name="unittitle_teim">Ruskin, John Calling Card Denmark Hill "John Ruskin" With penciled notes.</field>
++    <field name="unittitle_ssm">Ruskin, John Calling Card Denmark Hill &#34;John Ruskin&#34; With penciled notes.</field>
++    <field name="unittitle_teim">Ruskin, John 
++Calling Card 
++Denmark Hill 
++&#34;John Ruskin&#34; With penciled notes.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/409215</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/409215</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +33,15 @@
+     <field name="location_ssm">Box: 5, Folder: 465</field>
+     <field name="location_si">Box: 5, Folder: 465</field>
+     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
++    <field name="author_teim">Chatham Ewing, October 1997 - February 1998</field>
+     <field name="collection_unitid_teim">MSS.057</field>
+     <field name="series_sim">Series 1: Correspondence</field>
+     <field name="series_sim">Subseries 1D: Calling Cards</field>
+-    <field name="series_si">Series 1: Correspondence &gt;&gt; Subseries 1D: Calling Cards &gt;&gt; Ruskin, John Calling Card Denmark Hill "John Ruskin" With penciled notes.</field>
+-    <field name="heading_ssm">Ruskin, John Calling Card Denmark Hill "John Ruskin" With penciled notes.</field>
++    <field name="series_si">Series 1: Correspondence &gt;&gt; Subseries 1D: Calling Cards &gt;&gt; Ruskin, John Calling Card Denmark Hill &#34;John Ruskin&#34; With penciled notes.</field>
++    <field name="heading_ssm">Ruskin, John 
++Calling Card 
++Denmark Hill 
++&#34;John Ruskin&#34; With penciled notes.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">535</field>

@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Edited Twig I &amp;amp; II</field>
++    <field name="unittitle_ssm">Edited Twig I &amp; II</field>
+     <field name="unittitle_teim">Edited Twig I &amp; II</field>
+     <field name="unitid_teim">ID: 293.0157_a</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/550639</field>
+@@ -25,8 +25,10 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Edited version of people rehearsing a script in an apartment.</field>
+     <field name="scopecontent_teim">Twig</field>
+-    <field name="phystech_teim">Black &amp; White/Sound</field>
+-    <field name="phystech_teim">Duration: 32 minutes</field>
++    <field name="phystech_teim">Black &amp; White/Sound
++</field>
++    <field name="phystech_teim">Duration: 32 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref318</field>
+     <field name="repository_ssi">fales</field>
+@@ -38,10 +40,11 @@
+     <field name="location_ssm">case: 293.0157_a</field>
+     <field name="location_si">case: 293.0157_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>
+-    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Edited Twig I &amp;amp; II</field>
++    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Edited Twig I &amp; II</field>
+     <field name="heading_ssm">Edited Twig I &amp; II</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

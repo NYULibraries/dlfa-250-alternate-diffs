@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -32,12 +32,12 @@
+     <field name="unitdate_normal_sim">1811/1811</field>
+     <field name="unitdate_inclusive_teim">1811 May 11</field>
+     <field name="scopecontent_teim">1 Letter with Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "My Dear Brother," "Mr. Samuel Smith Gardiner, New Hartford, Oneida County, NY"</field>
+-    <field name="scopecontent_teim">Sent From: "Mary Smith Gardiner," [Sister of Samuel Smith Gardiner]</field>
++    <field name="scopecontent_teim">Addressed To: &#34;My Dear Brother,&#34; &#34;Mr. Samuel Smith Gardiner, New Hartford, Oneida County, NY&#34;</field>
++    <field name="scopecontent_teim">Sent From: &#34;Mary Smith Gardiner,&#34; [Sister of Samuel Smith Gardiner]</field>
+     <field name="scopecontent_teim">In Reference To: Family / Personal / Social; Richard Mufford</field>
+     <field name="scopecontent_teim">2 Pages, Unbound</field>
+     <field name="scopecontent_teim">Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 8" x 13"</field>
++    <field name="scopecontent_teim">Measurements: 8&#34; x 13&#34;</field>
+     <field name="dao_teim">Gardiner, Mary Smith: East Hampton, NY
+ : 1811 May 11</field>
+     <field name="dao_ssm">Gardiner, Mary Smith: East Hampton, NY
+@@ -52,6 +52,7 @@
+     <field name="location_si">Box: 34, Folder: 6</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+     <field name="series_sim">Series A: Samuel Smith Gardiner</field>

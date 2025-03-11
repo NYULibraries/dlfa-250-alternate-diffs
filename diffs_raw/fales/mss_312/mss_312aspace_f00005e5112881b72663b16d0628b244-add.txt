@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1991-04-09/1991-04-11</field>
+     <field name="unitdate_normal_sim">1991-04-09/1991-04-11</field>
+     <field name="unitdate_inclusive_teim">April 9-11, 1991</field>
+-    <field name="scopecontent_teim">These tapes include "Alice Walker: The Color Purple" and "Gary Snyder: If Trees Could Talk."</field>
++    <field name="scopecontent_teim">These tapes include &#34;Alice Walker: The Color Purple&#34; and &#34;Gary Snyder: If Trees Could Talk.&#34;</field>
+     <field name="ref_ssi">aspace_f00005e5112881b72663b16d0628b244</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 146, MiniDV: 312_0838</field>
+     <field name="location_si">Box: 146, MiniDV: 312_0838</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;The Lannan Foundation Presents: Writers Uncensored&lt;/em&gt; -- Compilation Tapes</field>

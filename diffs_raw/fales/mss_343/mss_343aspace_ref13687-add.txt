@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitid_ssm">cuid19197</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/572663</field>
+     <field name="unitdate_teim">1996</field>
+-    <field name="phystech_teim">This DVD is labeled "Sweat, 1996" but its artists' list suggests that it is Terra Bomba [1996.04] performance material. </field>
++    <field name="phystech_teim">This DVD is labeled &#34;Sweat, 1996&#34; but its artists&#39; list suggests that it is Terra Bomba [1996.04] performance material. </field>
+     <field name="phystech_teim">Original Format: DVD</field>
+     <field name="ref_ssi">aspace_ref13687</field>
+     <field name="repository_ssi">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 450</field>
+     <field name="location_si">Box: 450</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+     <field name="series_si">Series XIV: Video &gt;&gt; Sweat [1996.02] / Terra Bomba [1996.04]: Artists Adam Putnam, Deborah Edmeades, Gavin Grace, David Henry Brown, Jr., Lynda Abraham, Matthew Flower, Patty Chang, Sue de Beer - Library Copy</field>

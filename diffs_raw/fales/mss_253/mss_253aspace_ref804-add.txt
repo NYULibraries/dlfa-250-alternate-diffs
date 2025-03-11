@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1973/2009</field>
+     <field name="unitdate_normal_sim">1973/2009</field>
+     <field name="unitdate_inclusive_teim">1973-2009</field>
+-    <field name="scopecontent_teim">Series II consists of personal notebooks and planners. They include personal information as well as information related to Paul Langland's choreography and</field>
++    <field name="scopecontent_teim">Series II consists of personal notebooks and planners. They include personal information as well as information related to Paul Langland&#39;s choreography and</field>
+     <field name="ref_ssi">aspace_ref804</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+     <field name="series_si">Series II: Notebooks and Planners
+ </field>

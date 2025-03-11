@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Linda Mary Montano Papers</field>
+     <field name="collection_unitid_ssm">MSS.386</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"I Will Follow My Heart"</field>
+-    <field name="unittitle_teim">"I Will Follow My Heart"</field>
++    <field name="unittitle_ssm">&#34;I Will Follow My Heart&#34;</field>
++    <field name="unittitle_teim">&#34;I Will Follow My Heart&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/579983</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/579983</field>
+     <field name="unitdate_normal_ssm">1975/1976</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 37, Folder: 6</field>
+     <field name="location_si">Box: 37, Folder: 6</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series I: Art Practice</field>
+     <field name="series_sim">Subseries G: Artworks</field>
+-    <field name="series_si">Series I: Art Practice &gt;&gt; Subseries G: Artworks &gt;&gt; "I Will Follow My Heart"</field>
+-    <field name="heading_ssm">"I Will Follow My Heart"</field>
++    <field name="series_si">Series I: Art Practice &gt;&gt; Subseries G: Artworks &gt;&gt; &#34;I Will Follow My Heart&#34;</field>
++    <field name="heading_ssm">&#34;I Will Follow My Heart&#34;</field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>
+     <field name="unitdate_start_si">1975</field>

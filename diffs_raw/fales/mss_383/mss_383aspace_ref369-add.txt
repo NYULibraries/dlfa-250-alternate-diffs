@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1822/1822</field>
+     <field name="unitdate_normal_sim">1822/1822</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Performance City and Venue:  Reggio: Teatro Dell' Illustrissima Comunita </field>
++    <field name="scopecontent_teim">Performance City and Venue:  Reggio: Teatro Dell&#39; Illustrissima Comunita </field>
+     <field name="scopecontent_teim">Performance Season/Date: Maggio</field>
+     <field name="scopecontent_teim">Publication City and Publisher: Reggio: G. Davolio, E. Figlio</field>
+     <field name="ref_ssi">aspace_ref369</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 7, Folder: 1</field>
+     <field name="location_si">Box: 7, Folder: 1</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series XL: Morlacchi</field>
+     <field name="series_si">Series XL: Morlacchi &gt;&gt; Tebaldo e Isolina</field>

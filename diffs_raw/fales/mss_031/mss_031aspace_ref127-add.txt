@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William Zinsser Papers</field>
+     <field name="collection_unitid_ssm">MSS.031</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Mitchell and Ruff&lt;/em&gt;, author's correction (first published as &lt;em&gt;Willie and Dwike&lt;/em&gt;)</field>
+-    <field name="unittitle_teim">Mitchell and Ruff, author's correction (first published as Willie and Dwike)</field>
++    <field name="unittitle_ssm">&lt;em&gt;Mitchell and Ruff&lt;/em&gt;, author&#39;s correction (first published as &lt;em&gt;Willie and Dwike&lt;/em&gt;)</field>
++    <field name="unittitle_teim">Mitchell and Ruff, author&#39;s correction (first published as Willie and Dwike)</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="title_teim">Mitchell and Ruff</field>
+     <field name="title_teim">Willie and Dwike</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 3, Folder: 11a.</field>
+     <field name="location_si">Box: 3, Folder: 11a.</field>
+     <field name="collection_teim">William Zinsser Papers</field>
++    <field name="author_teim">Katherine Harris, June-November 1998</field>
+     <field name="collection_unitid_teim">MSS.031</field>
+     <field name="series_sim">Series II: Works by William Zinsser</field>
+     <field name="series_sim">Subseries A, Manuscripts</field>
+-    <field name="series_si">Series II: Works by William Zinsser &gt;&gt; Subseries A, Manuscripts &gt;&gt; &lt;em&gt;Mitchell and Ruff&lt;/em&gt;, author's correction (first published as &lt;em&gt;Willie and Dwike&lt;/em&gt;)</field>
+-    <field name="heading_ssm">Mitchell and Ruff, author's correction (first published as Willie and Dwike)</field>
++    <field name="series_si">Series II: Works by William Zinsser &gt;&gt; Subseries A, Manuscripts &gt;&gt; &lt;em&gt;Mitchell and Ruff&lt;/em&gt;, author&#39;s correction (first published as &lt;em&gt;Willie and Dwike&lt;/em&gt;)</field>
++    <field name="heading_ssm">Mitchell and Ruff, author&#39;s correction (first published as Willie and Dwike)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">126</field>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/547748</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547748</field>
+     <field name="unitdate_teim">1982, undated</field>
+-    <field name="scopecontent_teim">"Napoleon on Saint Helena"; "Everyday Greek"; "The Long Wedding Night".</field>
++    <field name="scopecontent_teim">&#34;Napoleon on Saint Helena&#34;; &#34;Everyday Greek&#34;; &#34;The Long Wedding Night&#34;.</field>
+     <field name="ref_ssi">aspace_ref6352</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 23, Folder: 3</field>
+     <field name="location_si">Box: 23, Folder: 3</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries B: Works by Others</field>
+-    <field name="series_si">Series II: Manuscripts &amp;amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; Hessen (Dietz), Rainer</field>
++    <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; Hessen (Dietz), Rainer</field>
+     <field name="heading_ssm">Hessen (Dietz), Rainer</field>
+     <field name="unitdate_ssm">1982, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

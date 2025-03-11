@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series X: Publicity</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+-    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_sim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="collection_ssm">Les Dames d&#39;Escoffier New York Archive</field>
+     <field name="collection_unitid_ssm">MSS.150</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Photographs: Dinner Events (Misc.)</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 19</field>
+     <field name="location_si">Box: 19</field>
+-    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_teim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="author_teim">Gabriella Ekman</field>
+     <field name="collection_unitid_teim">MSS.150</field>
+     <field name="series_sim">Series X: Publicity</field>
+     <field name="series_si">Series X: Publicity &gt;&gt; Photographs: Dinner Events (Misc.)</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+     <field name="collection_unitid_ssm">MSS.128</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Maggie Estep; "Vicious"  Final Cut - Three Versions</field>
+-    <field name="unittitle_teim">Maggie Estep; "Vicious"  Final Cut - Three Versions</field>
++    <field name="unittitle_ssm">Maggie Estep; &#34;Vicious&#34;  Final Cut - Three Versions</field>
++    <field name="unittitle_teim">Maggie Estep; &#34;Vicious&#34;  Final Cut - Three Versions</field>
+     <field name="unitid_teim">ID: 128.0331</field>
+     <field name="unitid_ssm">ID: 128.0331</field>
+     <field name="unitdate_teim">1997</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 17, Media: ID: 128.0331</field>
+     <field name="location_si">Box: 17, Media: ID: 128.0331</field>
+     <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
++    <field name="author_teim">Zachary Dabbs, 2009; collection processed by Brent Phillips, 2009. Media updates by Rhyannon Rodriguez, 2009.</field>
+     <field name="collection_unitid_teim">MSS.128</field>
+     <field name="series_sim">Series IV: Mouth Almighty/ Mercury Records</field>
+     <field name="series_sim">Subseries B: Originals  (Video)</field>
+-    <field name="series_si">Series IV: Mouth Almighty/ Mercury Records &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Maggie Estep; "Vicious"  Final Cut - Three Versions</field>
+-    <field name="heading_ssm">Maggie Estep; "Vicious"  Final Cut - Three Versions</field>
++    <field name="series_si">Series IV: Mouth Almighty/ Mercury Records &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Maggie Estep; &#34;Vicious&#34;  Final Cut - Three Versions</field>
++    <field name="heading_ssm">Maggie Estep; &#34;Vicious&#34;  Final Cut - Three Versions</field>
+     <field name="unitdate_ssm">1997</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">408</field>

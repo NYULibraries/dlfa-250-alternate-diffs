@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Harriet's Apothecary Event Footage</field>
+-    <field name="unittitle_teim">Harriet's Apothecary Event Footage</field>
++    <field name="unittitle_ssm">Harriet&#39;s Apothecary Event Footage</field>
++    <field name="unittitle_teim">Harriet&#39;s Apothecary Event Footage</field>
+     <field name="unitid_teim">cuid39623</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/977072</field>
+     <field name="unitid_ssm">cuid39623</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">2015/2015</field>
+     <field name="unitdate_normal_sim">2015/2015</field>
+     <field name="unitdate_teim">2015</field>
+-    <field name="dao_teim">Harriet's Apothecary Event Footage: 2015</field>
+-    <field name="dao_ssm">Harriet's Apothecary Event Footage: 2015</field>
++    <field name="dao_teim">Harriet&#39;s Apothecary Event Footage: 2015</field>
++    <field name="dao_ssm">Harriet&#39;s Apothecary Event Footage: 2015</field>
+     <field name="ref_ssi">aspace_8b8d8e1b25af6eed7caca507a8851486</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,10 +35,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_327</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series III. Events</field>
+-    <field name="series_si">Series III. Events &gt;&gt; Harriet's Apothecary Event Footage</field>
+-    <field name="heading_ssm">Harriet's Apothecary Event Footage</field>
++    <field name="series_si">Series III. Events &gt;&gt; Harriet&#39;s Apothecary Event Footage</field>
++    <field name="heading_ssm">Harriet&#39;s Apothecary Event Footage</field>
+     <field name="unitdate_start_sim">2015</field>
+     <field name="unitdate_start_ssm">2015</field>
+     <field name="unitdate_start_si">2015</field>

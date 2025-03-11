@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Richard Hell Papers</field>
+     <field name="collection_unitid_ssm">MSS.140</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Manuscript, Hell, Richard, editor's notes</field>
+-    <field name="unittitle_teim">Manuscript, Hell, Richard, editor's notes</field>
++    <field name="unittitle_ssm">Manuscript, Hell, Richard, editor&#39;s notes</field>
++    <field name="unittitle_teim">Manuscript, Hell, Richard, editor&#39;s notes</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/464961</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/464961</field>
+     <field name="unitdate_normal_ssm">1944/2003</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 12, Folder: 825</field>
+     <field name="location_si">Box: 12, Folder: 825</field>
+     <field name="collection_teim">Richard Hell Papers</field>
++    <field name="author_teim">Leif Sorensen, June 2004 - March 2005, and Vanessa Sparling, April - August 2005. Media updates by Rhyannon Rodriguez, December 2009.</field>
+     <field name="collection_unitid_teim">MSS.140</field>
+     <field name="series_sim">Series III: Projects</field>
+     <field name="series_sim">Subseries P: CUZ</field>
+-    <field name="series_si">Series III: Projects &gt;&gt; Subseries P: CUZ &gt;&gt; Manuscript, Hell, Richard, editor's notes</field>
+-    <field name="heading_ssm">Manuscript, Hell, Richard, editor's notes</field>
++    <field name="series_si">Series III: Projects &gt;&gt; Subseries P: CUZ &gt;&gt; Manuscript, Hell, Richard, editor&#39;s notes</field>
++    <field name="heading_ssm">Manuscript, Hell, Richard, editor&#39;s notes</field>
+     <field name="unitdate_start_sim">1944</field>
+     <field name="unitdate_start_ssm">1944</field>
+     <field name="unitdate_start_si">1944</field>

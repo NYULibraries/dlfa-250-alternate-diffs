@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1895/1905</field>
+     <field name="unitdate_normal_sim">1895/1905</field>
+     <field name="unitdate_inclusive_teim">circa 1900</field>
+-    <field name="scopecontent_teim">Baker Extract Co. Baker's Pure Fruit Flavoring Extracts. Springfield, Boston, Portland, NY: Baker Extract Co., undated.</field>
++    <field name="scopecontent_teim">Baker Extract Co. Baker&#39;s Pure Fruit Flavoring Extracts. Springfield, Boston, Portland, NY: Baker Extract Co., undated.</field>
+     <field name="scopecontent_teim"> Baker Extract Co. Some New Selected Recipes; Tested and Proved Good. Springfield, MA: Baker Extract Co., undated.</field>
+     <field name="ref_ssi">aspace_ref59</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 3, Folder: 1</field>
+     <field name="location_si">Box: 3, Folder: 1</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Baker Extract Company</field>

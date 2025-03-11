@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series I: Correspondence</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David H. Greene Collection of Sean O'Casey Letters</field>
+-    <field name="collection_ssm">David H. Greene Collection of Sean O'Casey Letters</field>
++    <field name="collection_sim">David H. Greene Collection of Sean O&#39;Casey Letters</field>
++    <field name="collection_ssm">David H. Greene Collection of Sean O&#39;Casey Letters</field>
+     <field name="collection_unitid_ssm">MSS.236</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Autograph and Typescript Correspondence</field>
+@@ -27,7 +27,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 4</field>
+     <field name="location_si">Box: 1, Folder: 4</field>
+-    <field name="collection_teim">David H. Greene Collection of Sean O'Casey Letters</field>
++    <field name="collection_teim">David H. Greene Collection of Sean O&#39;Casey Letters</field>
++    <field name="author_teim">Colin Wells</field>
+     <field name="collection_unitid_teim">MSS.236</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Autograph and Typescript Correspondence</field>

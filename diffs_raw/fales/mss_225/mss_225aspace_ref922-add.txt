@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Collective: Unconscious Archive</field>
+     <field name="collection_unitid_ssm">MSS.225</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Man EP 5, disk 10, gun, punch, sword"</field>
+-    <field name="unittitle_teim">"Man EP 5, disk 10, gun, punch, sword"</field>
++    <field name="unittitle_ssm">&#34;Man EP 5, disk 10, gun, punch, sword&#34;</field>
++    <field name="unittitle_teim">&#34;Man EP 5, disk 10, gun, punch, sword&#34;</field>
+     <field name="unitid_teim">ID: 225.3.0031</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/526493</field>
+     <field name="unitid_ssm">ID: 225.3.0031</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 17, Media: ID: 225.3.0031</field>
+     <field name="location_si">Box: 17, Media: ID: 225.3.0031</field>
+     <field name="collection_teim">Collective: Unconscious Archive</field>
++    <field name="author_teim">Matthew Bruen, Jane Carr, Laura Helton, Kristen Highland, Chantal Johnson, Elizabeth McHenry, Luke Martin 2009.</field>
+     <field name="collection_unitid_teim">MSS.225</field>
+     <field name="series_sim">Series VII: Computer Discs</field>
+-    <field name="series_si">Series VII: Computer Discs &gt;&gt; "Man EP 5, disk 10, gun, punch, sword"</field>
+-    <field name="heading_ssm">"Man EP 5, disk 10, gun, punch, sword"</field>
++    <field name="series_si">Series VII: Computer Discs &gt;&gt; &#34;Man EP 5, disk 10, gun, punch, sword&#34;</field>
++    <field name="heading_ssm">&#34;Man EP 5, disk 10, gun, punch, sword&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">604</field>

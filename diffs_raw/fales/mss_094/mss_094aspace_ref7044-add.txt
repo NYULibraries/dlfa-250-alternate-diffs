@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Judson Memorial Church Archive</field>
+     <field name="collection_unitid_ssm">MSS.094</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Arts, General - &lt;em&gt;GeoArts&lt;/em&gt; article on Peter Schulmann's Bread and Puppet Theater</field>
+-    <field name="unittitle_teim">Arts, General - GeoArts article on Peter Schulmann's Bread and Puppet Theater</field>
++    <field name="unittitle_ssm">Arts, General - &lt;em&gt;GeoArts&lt;/em&gt; article on Peter Schulmann&#39;s Bread and Puppet Theater</field>
++    <field name="unittitle_teim">Arts, General - GeoArts article on Peter Schulmann&#39;s Bread and Puppet Theater</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/433065</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/433065</field>
+     <field name="unitdate_teim">After 1978</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: .09.01, Folder: 39</field>
+     <field name="location_si">Box: .09.01, Folder: 39</field>
+     <field name="collection_teim">Judson Memorial Church Archive</field>
++    <field name="author_teim">Tania Friedel and Matt Moore, 2000-01; 2001 accretion processed by Gwynneth Malin. Processing of media materials by Brent Phillips, 2006. 2009 Accretion processed by Nicholas Martin, 2010. Scrapbooks and yearbooks re-processed by Kristen Joy Owens, 2015.</field>
+     <field name="collection_unitid_teim">MSS.094</field>
+     <field name="series_sim">Accretion 2009 - Series A: Arts</field>
+     <field name="series_sim">Subseries 1: Arts-General</field>
+-    <field name="series_si">Accretion 2009 - Series A: Arts &gt;&gt; Subseries 1: Arts-General &gt;&gt; Arts, General - &lt;em&gt;GeoArts&lt;/em&gt; article on Peter Schulmann's Bread and Puppet Theater</field>
+-    <field name="heading_ssm">Arts, General - GeoArts article on Peter Schulmann's Bread and Puppet Theater</field>
++    <field name="series_si">Accretion 2009 - Series A: Arts &gt;&gt; Subseries 1: Arts-General &gt;&gt; Arts, General - &lt;em&gt;GeoArts&lt;/em&gt; article on Peter Schulmann&#39;s Bread and Puppet Theater</field>
++    <field name="heading_ssm">Arts, General - GeoArts article on Peter Schulmann&#39;s Bread and Puppet Theater</field>
+     <field name="unitdate_ssm">After 1978</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4395</field>

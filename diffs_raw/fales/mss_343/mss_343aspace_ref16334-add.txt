@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/570701</field>
+     <field name="unitdate_teim">November 1989</field>
+     <field name="phystech_teim">Original Format: Sony Audio Cassette Tape</field>
+-    <field name="phystech_teim">Exit Art "Old Number" : 7a</field>
++    <field name="phystech_teim">Exit Art &#34;Old Number&#34; : 7a</field>
+     <field name="dao_teim">Jimmie Durham [1989.07], November 1989</field>
+     <field name="dao_ssm">Jimmie Durham [1989.07], November 1989</field>
+     <field name="ref_ssi">aspace_ref16334</field>
+@@ -34,6 +34,7 @@
+     <field name="location_si">Box: 419, Cassette: 7a</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XI: Audio</field>
+     <field name="series_si">Series XI: Audio &gt;&gt; Jimmie Durham [1989.07]</field>

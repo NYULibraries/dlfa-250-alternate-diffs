@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kathe Burkhart Papers</field>
+     <field name="collection_unitid_ssm">MSS.467</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Authorized and Unauthorized Portraits&lt;/em&gt; Series -- Notebook, Releases, Images, and Artist's Statement</field>
+-    <field name="unittitle_teim">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist's Statement</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Authorized and Unauthorized Portraits&lt;/em&gt; Series -- Notebook, Releases, Images, and Artist&#39;s Statement</field>
++    <field name="unittitle_teim">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist&#39;s Statement</field>
+     <field name="unitid_teim">cuid36208</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/934476</field>
+     <field name="unitid_ssm">cuid36208</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">1965/2018</field>
+     <field name="unitdate_normal_sim">1965/2018</field>
+     <field name="unitdate_inclusive_teim">2003-2007, undated</field>
+-    <field name="dao_teim">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist's Statement: 2003-2007, undated</field>
+-    <field name="dao_ssm">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist's Statement: 2003-2007, undated</field>
++    <field name="dao_teim">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist&#39;s Statement: 2003-2007, undated</field>
++    <field name="dao_ssm">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist&#39;s Statement: 2003-2007, undated</field>
+     <field name="ref_ssi">aspace_ebadae4d328cc646fac378d997543bb1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,10 +36,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_467_ER_12</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Kathe Burkhart Papers</field>
++    <field name="author_teim">Stacey Flatt, Rachel Searcy, and Emma Griffin</field>
+     <field name="collection_unitid_teim">MSS.467</field>
+     <field name="series_sim">Series I. Artwork</field>
+-    <field name="series_si">Series I. Artwork &gt;&gt; &lt;em&gt;The Authorized and Unauthorized Portraits&lt;/em&gt; Series -- Notebook, Releases, Images, and Artist's Statement</field>
+-    <field name="heading_ssm">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist's Statement</field>
++    <field name="series_si">Series I. Artwork &gt;&gt; &lt;em&gt;The Authorized and Unauthorized Portraits&lt;/em&gt; Series -- Notebook, Releases, Images, and Artist&#39;s Statement</field>
++    <field name="heading_ssm">The Authorized and Unauthorized Portraits Series -- Notebook, Releases, Images, and Artist&#39;s Statement</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Sterling Lord Papers</field>
+     <field name="collection_unitid_ssm">MSS.058</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Kerouac, Jack - Journal written while writing "On the Road" - photocopy</field>
+-    <field name="unittitle_teim">Kerouac, Jack - Journal written while writing "On the Road" - photocopy</field>
++    <field name="unittitle_ssm">Kerouac, Jack - Journal written while writing &#34;On the Road&#34; - photocopy</field>
++    <field name="unittitle_teim">Kerouac, Jack - Journal written while writing &#34;On the Road&#34; - photocopy</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/410101</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/410101</field>
+     <field name="unitdate_normal_ssm">1948/1949</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 259, Folder: 16</field>
+     <field name="location_si">Box: 259, Folder: 16</field>
+     <field name="collection_teim">Sterling Lord Papers</field>
++    <field name="author_teim">Laura Newsome</field>
+     <field name="collection_unitid_teim">MSS.058</field>
+     <field name="series_sim">Series I: Subject Files</field>
+     <field name="series_sim">Subseries B: Compiled Author / Publisher Files</field>
+-    <field name="series_si">Series I: Subject Files &gt;&gt; Subseries B: Compiled Author / Publisher Files &gt;&gt; Kerouac, Jack - Journal written while writing "On the Road" - photocopy</field>
+-    <field name="heading_ssm">Kerouac, Jack - Journal written while writing "On the Road" - photocopy</field>
++    <field name="series_si">Series I: Subject Files &gt;&gt; Subseries B: Compiled Author / Publisher Files &gt;&gt; Kerouac, Jack - Journal written while writing &#34;On the Road&#34; - photocopy</field>
++    <field name="heading_ssm">Kerouac, Jack - Journal written while writing &#34;On the Road&#34; - photocopy</field>
+     <field name="unitdate_start_sim">1948</field>
+     <field name="unitdate_start_ssm">1948</field>
+     <field name="unitdate_start_si">1948</field>

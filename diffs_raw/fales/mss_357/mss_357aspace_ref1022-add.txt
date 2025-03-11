@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1988/1988</field>
+     <field name="unitdate_inclusive_teim">1988</field>
+     <field name="scopecontent_teim">[1] -- Blackout in snow, 1/3/1988 [2] -- People Tree at Pyramid, 1/3/1988</field>
+-    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Note: "Sound only appears in spots. Some frame drops too."</field>
++    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Note: &#34;Sound only appears in spots. Some frame drops too.&#34;</field>
+     <field name="dao_teim">Blackout in snow, People Tree at Pyramid</field>
+     <field name="dao_ssm">Blackout in snow, People Tree at Pyramid</field>
+     <field name="ref_ssi">aspace_ref1022</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">case: 357.0301</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Blackout in snow, People Tree at Pyramid</field>

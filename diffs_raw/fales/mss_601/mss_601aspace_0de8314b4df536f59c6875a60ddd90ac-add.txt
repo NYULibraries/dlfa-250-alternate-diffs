@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">2015/2019</field>
+     <field name="unitdate_normal_sim">2015/2019</field>
+     <field name="unitdate_inclusive_teim">2015-2019</field>
+-    <field name="scopecontent_teim">This series consists of electronic records, the majority of which are pdfs, documenting the publication of VoCA Journal between 2015-2020. Materials include drafts of articles, images used in the publication, editors notes, and copies of the issue's digital layout.</field>
++    <field name="scopecontent_teim">This series consists of electronic records, the majority of which are pdfs, documenting the publication of VoCA Journal between 2015-2020. Materials include drafts of articles, images used in the publication, editors notes, and copies of the issue&#39;s digital layout.</field>
+     <field name="ref_ssi">aspace_0de8314b4df536f59c6875a60ddd90ac</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Voices in Contemporary Art Records</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.601</field>
+     <field name="series_si">Series III. VoCA Journal</field>
+     <field name="heading_ssm">Series III. VoCA Journal</field>

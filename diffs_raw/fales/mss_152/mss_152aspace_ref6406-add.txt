@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/477660</field>
+     <field name="phystech_teim"> Performance:  </field>
+     <field name="phystech_teim"> Date of performance:  </field>
+-    <field name="phystech_teim"> Related ID's:  </field>
++    <field name="phystech_teim"> Related ID&#39;s:  </field>
+     <field name="phystech_teim"> Related Titles:  </field>
+     <field name="phystech_teim"> Tape Brand:  Maxell UDS-II </field>
+     <field name="phystech_teim"> Tape Length:  60 </field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 3C, Folder: ID: 152.2278</field>
+     <field name="location_si">Box: 3C, Folder: ID: 152.2278</field>
+     <field name="collection_teim">Richard Foreman and Kate Manheim Papers</field>
++    <field name="author_teim">Jessica Shimmin, 2006; Media updated by Luke Martin and Brent Phillips, 2008.</field>
+     <field name="collection_unitid_teim">MSS.152</field>
+     <field name="series_sim">Series XIV: Media</field>
+     <field name="series_sim">Subseries B: Sound Effects - Originals</field>

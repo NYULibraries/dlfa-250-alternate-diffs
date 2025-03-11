@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Transmissions [1998.04]: [Cassette Tape Stickers] "Show A 'Stars,' " "Show B 'Yellow Dots' " Lists</field>
+-    <field name="unittitle_teim">Transmissions [1998.04]: [Cassette Tape Stickers] "Show A 'Stars,' " "Show B 'Yellow Dots' " Lists</field>
++    <field name="unittitle_ssm">Transmissions [1998.04]: [Cassette Tape Stickers] &#34;Show A &#39;Stars,&#39; &#34; &#34;Show B &#39;Yellow Dots&#39; &#34; Lists</field>
++    <field name="unittitle_teim">Transmissions [1998.04]: [Cassette Tape Stickers] &#34;Show A &#39;Stars,&#39; &#34; &#34;Show B &#39;Yellow Dots&#39; &#34; Lists</field>
+     <field name="unitid_teim">cuid19679</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/573145</field>
+     <field name="unitid_ssm">cuid19679</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 459, Folder: 6</field>
+     <field name="location_si">Box: 459, Folder: 6</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+-    <field name="series_si">Series XIV: Video &gt;&gt; Transmissions [1998.04]: [Cassette Tape Stickers] "Show A 'Stars,' " "Show B 'Yellow Dots' " Lists</field>
+-    <field name="heading_ssm">Transmissions [1998.04]: [Cassette Tape Stickers] "Show A 'Stars,' " "Show B 'Yellow Dots' " Lists</field>
++    <field name="series_si">Series XIV: Video &gt;&gt; Transmissions [1998.04]: [Cassette Tape Stickers] &#34;Show A &#39;Stars,&#39; &#34; &#34;Show B &#39;Yellow Dots&#39; &#34; Lists</field>
++    <field name="heading_ssm">Transmissions [1998.04]: [Cassette Tape Stickers] &#34;Show A &#39;Stars,&#39; &#34; &#34;Show B &#39;Yellow Dots&#39; &#34; Lists</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9777</field>

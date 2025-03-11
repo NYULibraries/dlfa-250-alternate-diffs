@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Hama Comic Book Collection</field>
+     <field name="collection_unitid_ssm">MSS.337</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Walt Disney's Comics and Stories (vol.16, no.1)</field>
+-    <field name="unittitle_teim">Walt Disney's Comics and Stories (vol.16, no.1)</field>
++    <field name="unittitle_ssm">Walt Disney&#39;s Comics and Stories (vol.16, no.1)</field>
++    <field name="unittitle_teim">Walt Disney&#39;s Comics and Stories (vol.16, no.1)</field>
+     <field name="unitdate_teim">October 1955</field>
+     <field name="ref_ssi">aspace_ref312</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 8, Folder: 15</field>
+     <field name="location_si">Box: 8, Folder: 15</field>
+     <field name="collection_teim">Larry Hama Comic Book Collection</field>
++    <field name="author_teim">Caitlin Klein</field>
+     <field name="collection_unitid_teim">MSS.337</field>
+     <field name="series_sim">Series I: Comic Books and Periodicals </field>
+     <field name="series_sim">Subseries C: Various</field>
+-    <field name="series_si">Series I: Comic Books and Periodicals  &gt;&gt; Subseries C: Various &gt;&gt; Walt Disney's Comics and Stories (vol.16, no.1)</field>
+-    <field name="heading_ssm">Walt Disney's Comics and Stories (vol.16, no.1)</field>
++    <field name="series_si">Series I: Comic Books and Periodicals  &gt;&gt; Subseries C: Various &gt;&gt; Walt Disney&#39;s Comics and Stories (vol.16, no.1)</field>
++    <field name="heading_ssm">Walt Disney&#39;s Comics and Stories (vol.16, no.1)</field>
+     <field name="unitdate_ssm">October 1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">291</field>

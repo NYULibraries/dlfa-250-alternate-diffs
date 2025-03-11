@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">James Beard Foundation Archive</field>
+     <field name="collection_unitid_ssm">MSS.214</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Campbell's Soup</field>
+-    <field name="unittitle_teim">Campbell's Soup</field>
++    <field name="unittitle_ssm">Campbell&#39;s Soup</field>
++    <field name="unittitle_teim">Campbell&#39;s Soup</field>
+     <field name="unitdate_teim">1995</field>
+     <field name="ref_ssi">aspace_ref565</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 7, Folder: 18</field>
+     <field name="location_si">Box: 7, Folder: 18</field>
+     <field name="collection_teim">James Beard Foundation Archive</field>
++    <field name="author_teim">Camille Lannan and Elizabeth Stevens, with Anna Gurton-Wachter</field>
+     <field name="collection_unitid_teim">MSS.214</field>
+     <field name="series_sim">Series I: Chefs</field>
+-    <field name="series_si">Series I: Chefs &gt;&gt; Campbell's Soup</field>
+-    <field name="heading_ssm">Campbell's Soup</field>
++    <field name="series_si">Series I: Chefs &gt;&gt; Campbell&#39;s Soup</field>
++    <field name="heading_ssm">Campbell&#39;s Soup</field>
+     <field name="unitdate_ssm">1995</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">538</field>

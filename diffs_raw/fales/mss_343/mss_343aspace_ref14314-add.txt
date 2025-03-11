@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Traffic [2005.04]: "01"
+-
+-</field>
+-    <field name="unittitle_teim">Traffic [2005.04]: "01"
++    <field name="unittitle_ssm">Traffic [2005.04]: &#34;01&#34;
++
++</field>
++    <field name="unittitle_teim">Traffic [2005.04]: &#34;01&#34;
+ 
+ </field>
+     <field name="unitid_teim">cuid19605</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">Box: 458</field>
+     <field name="location_si">Box: 458</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+-    <field name="series_si">Series XIV: Video &gt;&gt; Traffic [2005.04]: "01"
+-
+-</field>
+-    <field name="heading_ssm">Traffic [2005.04]: "01"
++    <field name="series_si">Series XIV: Video &gt;&gt; Traffic [2005.04]: &#34;01&#34;
++
++</field>
++    <field name="heading_ssm">Traffic [2005.04]: &#34;01&#34;
+ 
+ </field>
+     <field name="unitdate_ssm">October 3, 2005</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1950/2019</field>
+     <field name="unitdate_normal_sim">1950/2019</field>
+     <field name="unitdate_inclusive_teim">1950-2019</field>
+-    <field name="scopecontent_teim">This accretion consists of programs, scripts, photographs, and ephemera documenting activities related to Caffe Cino. The production Dames at Sea is particularly well documented. The accretion also includes materials documenting Dominic's independent artwork and poetry, as well as her involvement with the Children's History Theatre.</field>
++    <field name="scopecontent_teim">This accretion consists of programs, scripts, photographs, and ephemera documenting activities related to Caffe Cino. The production Dames at Sea is particularly well documented. The accretion also includes materials documenting Dominic&#39;s independent artwork and poetry, as well as her involvement with the Children&#39;s History Theatre.</field>
+     <field name="ref_ssi">aspace_7b4490b014f53d4398e45ca32ae1ba02</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Magie Dominic Off Off-Broadway Collection</field>
++    <field name="author_teim">Robin Preiss, with Nicholas Martin, 2013.</field>
+     <field name="collection_unitid_teim">MSS.300</field>
+     <field name="series_si">Series VIII. 2024 Accretion</field>
+     <field name="heading_ssm">Series VIII. 2024 Accretion</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,10 +24,12 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550750</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Televised debate on the St. Johnsbury Correctional Facility.</field>
+-    <field name="phystech_teim">Black &amp; White/Sound</field>
+-    <field name="phystech_teim">Duration: 9 minutes</field>
++    <field name="phystech_teim">Black &amp; White/Sound
++</field>
++    <field name="phystech_teim">Duration: 9 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+-    <field name="phystech_teim">Original container annotation "Kimo the Waitress"</field>
++    <field name="phystech_teim">Original container annotation &#34;Kimo the Waitress&#34;</field>
+     <field name="ref_ssi">aspace_ref784</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,6 +40,7 @@
+     <field name="location_ssm">case: 293.0268_a</field>
+     <field name="location_si">case: 293.0268_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

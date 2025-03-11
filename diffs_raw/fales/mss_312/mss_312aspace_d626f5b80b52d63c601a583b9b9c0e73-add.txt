@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Among Women," "AWOL from Fatherhood"</field>
+-    <field name="unittitle_teim">"Among Women," "AWOL from Fatherhood"</field>
++    <field name="unittitle_ssm">&#34;Among Women,&#34; &#34;AWOL from Fatherhood&#34;</field>
++    <field name="unittitle_teim">&#34;Among Women,&#34; &#34;AWOL from Fatherhood&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974708</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/974708</field>
+     <field name="unitdate_normal_ssm">2001/2001</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">2001/2001</field>
+     <field name="unitdate_teim">Circa 2001</field>
+     <field name="scopecontent_teim">2001 Fall Season</field>
+-    <field name="phystech_teim">Label notes "too glitchy, occasional glitches"</field>
++    <field name="phystech_teim">Label notes &#34;too glitchy, occasional glitches&#34;</field>
+     <field name="ref_ssi">aspace_d626f5b80b52d63c601a583b9b9c0e73</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 124, U-matic: 312_0526</field>
+     <field name="location_si">Box: 124, U-matic: 312_0526</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; "Among Women," "AWOL from Fatherhood"</field>
+-    <field name="heading_ssm">"Among Women," "AWOL from Fatherhood"</field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; &#34;Among Women,&#34; &#34;AWOL from Fatherhood&#34;</field>
++    <field name="heading_ssm">&#34;Among Women,&#34; &#34;AWOL from Fatherhood&#34;</field>
+     <field name="unitdate_start_sim">2001</field>
+     <field name="unitdate_start_ssm">2001</field>
+     <field name="unitdate_start_si">2001</field>

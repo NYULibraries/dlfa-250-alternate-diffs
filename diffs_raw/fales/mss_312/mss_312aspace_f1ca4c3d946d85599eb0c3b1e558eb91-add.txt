@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1994-06-30/1994-06-30</field>
+     <field name="unitdate_normal_sim">1994-06-30/1994-06-30</field>
+     <field name="unitdate_teim">June 30, 1994</field>
+-    <field name="scopecontent_teim">These tapes include "A Shortness of Breath" produced by Ann A. Kaneko (Los Angeles, CA); "Chairs" Produced by Julie Puzon (La Jolla, CA); "Reunion" produced by AIDSFILMS (New York, NY); and "The Reconstruction."</field>
++    <field name="scopecontent_teim">These tapes include &#34;A Shortness of Breath&#34; produced by Ann A. Kaneko (Los Angeles, CA); &#34;Chairs&#34; Produced by Julie Puzon (La Jolla, CA); &#34;Reunion&#34; produced by AIDSFILMS (New York, NY); and &#34;The Reconstruction.&#34;</field>
+     <field name="ref_ssi">aspace_f1ca4c3d946d85599eb0c3b1e558eb91</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 145, MiniDV: 312_0765</field>
+     <field name="location_si">Box: 145, MiniDV: 312_0765</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Sick and Tired of Being Sick and Tired&lt;/em&gt; -- Compilation Tapes</field>

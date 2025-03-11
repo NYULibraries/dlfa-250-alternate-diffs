@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_149</field>
+     <field name="parent_ssi">aspace_ref110</field>
+     <field name="parent_ssm">aspace_ref110</field>
+-    <field name="parent_unittitles_ssm">Series XI: John Updike, Hawthorne's Creed, Targ Editions No. 12</field>
+-    <field name="parent_unittitles_teim">Series XI: John Updike, Hawthorne's Creed, Targ Editions No. 12</field>
++    <field name="parent_unittitles_ssm">Series XI: John Updike, Hawthorne&amp;#39;s Creed, Targ Editions No. 12</field>
++    <field name="parent_unittitles_teim">Series XI: John Updike, Hawthorne&amp;#39;s Creed, Targ Editions No. 12</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Targ Editions Archive</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Targ Editions Archive</field>
+     <field name="collection_unitid_ssm">MSS.149</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Manuscript with printer's notes, Updike, &lt;em&gt;Hawthorne's Creed&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Manuscript with printer's notes, Updike, Hawthorne's Creed</field>
++    <field name="unittitle_ssm">Manuscript with printer&#39;s notes, Updike, &lt;em&gt;Hawthorne&#39;s Creed&lt;/em&gt;</field>
++    <field name="unittitle_teim">Manuscript with printer&#39;s notes, Updike, Hawthorne&#39;s Creed</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref113</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 80</field>
+     <field name="location_si">Box: 4, Folder: 80</field>
+     <field name="collection_teim">Targ Editions Archive</field>
++    <field name="author_teim">Processed by Melanie Meyers Cushman</field>
+     <field name="collection_unitid_teim">MSS.149</field>
+-    <field name="series_sim">Series XI: John Updike, Hawthorne's Creed, Targ Editions No. 12</field>
+-    <field name="series_si">Series XI: John Updike, Hawthorne's Creed, Targ Editions No. 12 &gt;&gt; Manuscript with printer's notes, Updike, &lt;em&gt;Hawthorne's Creed&lt;/em&gt;</field>
+-    <field name="heading_ssm">Manuscript with printer's notes, Updike, Hawthorne's Creed</field>
++    <field name="series_sim">Series XI: John Updike, Hawthorne&amp;#39;s Creed, Targ Editions No. 12</field>
++    <field name="series_si">Series XI: John Updike, Hawthorne&#39;s Creed, Targ Editions No. 12 &gt;&gt; Manuscript with printer&#39;s notes, Updike, &lt;em&gt;Hawthorne&#39;s Creed&lt;/em&gt;</field>
++    <field name="heading_ssm">Manuscript with printer&#39;s notes, Updike, Hawthorne&#39;s Creed</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">92</field>

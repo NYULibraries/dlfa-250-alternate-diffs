@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series A: Margaret Randall</field>
+     <field name="unittitle_teim">Series A: Margaret Randall</field>
+-    <field name="scopecontent_teim">This series contains Margaret Randall's biography, personal correspondence, notebooks, poems, and other writings.</field>
++    <field name="scopecontent_teim">This series contains Margaret Randall&#39;s biography, personal correspondence, notebooks, poems, and other writings.</field>
+     <field name="ref_ssi">aspace_ref11</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">El Corno Emplumado Archive</field>
++    <field name="author_teim">Jessica Shimmin, September 2003.</field>
+     <field name="collection_unitid_teim">MSS.011</field>
+     <field name="series_si">Series A: Margaret Randall</field>
+     <field name="heading_ssm">Series A: Margaret Randall</field>

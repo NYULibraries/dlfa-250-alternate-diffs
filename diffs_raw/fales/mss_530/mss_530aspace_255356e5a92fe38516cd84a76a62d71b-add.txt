@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1992/1994</field>
+     <field name="unitdate_normal_sim">1992/1994</field>
+     <field name="unitdate_inclusive_teim">1992-1994</field>
+-    <field name="scopecontent_teim">The Artwork series is a record of Braun's creative process producing her 152 week serial art piece ANNOUNCEMENT and her colossal photocopied wall art. The photocopied images in this series are the the inspiration for her innuendo artwork in between 1992 and 1994.</field>
++    <field name="scopecontent_teim">The Artwork series is a record of Braun&#39;s creative process producing her 152 week serial art piece ANNOUNCEMENT and her colossal photocopied wall art. The photocopied images in this series are the the inspiration for her innuendo artwork in between 1992 and 1994.</field>
+     <field name="ref_ssi">aspace_255356e5a92fe38516cd84a76a62d71b</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Judith Braun Papers</field>
++    <field name="author_teim">Kate Fisher</field>
+     <field name="collection_unitid_teim">MSS.530</field>
+     <field name="series_si">Series IV. Artwork</field>
+     <field name="heading_ssm">Series IV. Artwork</field>

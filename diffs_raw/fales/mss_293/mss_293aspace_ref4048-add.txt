@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,9 @@
+     <field name="unitdate_normal_sim">1970/1979</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="unitdate_inclusive_teim">circa 1970-1979</field>
+-    <field name="phystech_teim">Gauge: 16mmFootage: [200 ft] Color; silent.</field>
++    <field name="phystech_teim">Gauge: 16mm
++Footage: [200 ft]
++ Color; silent.</field>
+     <field name="ref_ssi">aspace_ref4048</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +37,7 @@
+     <field name="location_ssm">E-records: fales_mss293, E-records: 293.1567</field>
+     <field name="location_si">E-records: fales_mss293, E-records: 293.1567</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XV: Motion Picture Film</field>
+     <field name="series_si">Series XV: Motion Picture Film &gt;&gt; R / Andy Warhol</field>

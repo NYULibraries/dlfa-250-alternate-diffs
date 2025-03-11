@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 094.0239</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/432880</field>
+     <field name="unitdate_teim">1990</field>
+-    <field name="phystech_teim">Due to the tape's poor condition, the recording suffers from occasional drop-outs</field>
++    <field name="phystech_teim">Due to the tape&#39;s poor condition, the recording suffers from occasional drop-outs</field>
+     <field name="dao_teim">Cassettes - Gay Pride Service --- 6/24/90</field>
+     <field name="dao_ssm">Cassettes - Gay Pride Service --- 6/24/90</field>
+     <field name="ref_ssi">aspace_ref4346</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: .01.12, Media: ID: 094.0239</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Judson Memorial Church Archive</field>
++    <field name="author_teim">Tania Friedel and Matt Moore, 2000-01; 2001 accretion processed by Gwynneth Malin. Processing of media materials by Brent Phillips, 2006. 2009 Accretion processed by Nicholas Martin, 2010. Scrapbooks and yearbooks re-processed by Kristen Joy Owens, 2015.</field>
+     <field name="collection_unitid_teim">MSS.094</field>
+     <field name="series_sim">Accretion 2001- Series G: Media</field>
+     <field name="series_sim">Subseries 1B: Audiocassettes - Originals</field>

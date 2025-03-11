@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fales Library and Special Collections Audio/Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.306</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">LT's Theory of Pets by Stephen King, a Live Reading by the Author</field>
+-    <field name="unittitle_teim">LT's Theory of Pets by Stephen King, a Live Reading by the Author</field>
++    <field name="unittitle_ssm">LT&#39;s Theory of Pets by Stephen King, a Live Reading by the Author</field>
++    <field name="unittitle_teim">LT&#39;s Theory of Pets by Stephen King, a Live Reading by the Author</field>
+     <field name="unitdate_normal_ssm">2001/2001</field>
+     <field name="unitdate_normal_teim">2001/2001</field>
+     <field name="unitdate_normal_sim">2001/2001</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Fales Library and Special Collections Audio/Video Collection</field>
++    <field name="author_teim">Ashley Todd, 2011.</field>
+     <field name="collection_unitid_teim">MSS.306</field>
+     <field name="series_sim">Series I: Audio</field>
+-    <field name="series_si">Series I: Audio &gt;&gt; LT's Theory of Pets by Stephen King, a Live Reading by the Author</field>
+-    <field name="heading_ssm">LT's Theory of Pets by Stephen King, a Live Reading by the Author</field>
++    <field name="series_si">Series I: Audio &gt;&gt; LT&#39;s Theory of Pets by Stephen King, a Live Reading by the Author</field>
++    <field name="heading_ssm">LT&#39;s Theory of Pets by Stephen King, a Live Reading by the Author</field>
+     <field name="unitdate_start_sim">2001</field>
+     <field name="unitdate_start_ssm">2001</field>
+     <field name="unitdate_start_si">2001</field>

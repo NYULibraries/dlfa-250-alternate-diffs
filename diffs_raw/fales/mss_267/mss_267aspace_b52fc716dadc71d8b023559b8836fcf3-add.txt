@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,8 +24,8 @@
+     <field name="unitdate_normal_sim">1960/2005</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+     <field name="phystech_teim">Duration: 95 minutes.</field>
+-    <field name="dao_teim">Alan's voice memos - clips of discussions, to-do lists, spoken narratives, music</field>
+-    <field name="dao_ssm">Alan's voice memos - clips of discussions, to-do lists, spoken narratives, music</field>
++    <field name="dao_teim">Alan&#39;s voice memos - clips of discussions, to-do lists, spoken narratives, music</field>
++    <field name="dao_ssm">Alan&#39;s voice memos - clips of discussions, to-do lists, spoken narratives, music</field>
+     <field name="ref_ssi">aspace_b52fc716dadc71d8b023559b8836fcf3</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: 11, audiocassette: 267_278</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series III. Musical Recordings</field>
+     <field name="series_si">Series III. Musical Recordings &gt;&gt; Voice Recordings - Clips of Discussions, To-Do Lists, Spoken Narratives, Music</field>

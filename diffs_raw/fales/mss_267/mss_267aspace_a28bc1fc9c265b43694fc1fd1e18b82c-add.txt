@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1960/1990</field>
+     <field name="unitdate_normal_sim">1960/1990</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="phystech_teim">Duration: 65 minutes. Preservation note: Content on the two tracks is mostly the same, but they don't quite sync up; they have been left as two files.</field>
++    <field name="phystech_teim">Duration: 65 minutes. Preservation note: Content on the two tracks is mostly the same, but they don&#39;t quite sync up; they have been left as two files.</field>
+     <field name="dao_teim">Late Piece with Synthesizer, June</field>
+     <field name="dao_ssm">Late Piece with Synthesizer, June</field>
+     <field name="ref_ssi">aspace_a28bc1fc9c265b43694fc1fd1e18b82c</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: 24, Quarter_Inch_Audio_Reel: 267_118</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series III. Musical Recordings</field>
+     <field name="series_si">Series III. Musical Recordings &gt;&gt; Late Piece with Synthesizer, June</field>

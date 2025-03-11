@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Arvid Paulson Papers</field>
+     <field name="unitid_teim">MSS.043</field>
+     <field name="unitid_ssm">MSS.043</field>
+-    <field name="abstract_teim">The Arvid Paulson Papers represent Paulson's attempts to bring the work of August Strindberg and Henrik Ibsen to a twentieth century American public. The collection contains his correspondence with actors, publishers and producers, the manuscripts of his translations, some of his published criticism on Strindberg and Ibsen as well as that of other authors. Finally, it contains miscellaneous theatre memorabilia culled from a long life spent going to the theatre, perfoming in plays and occasionally even producing them himself.</field>
+-    <field name="abstract_ssm">The Arvid Paulson Papers represent Paulson's attempts to bring the work of August Strindberg and Henrik Ibsen to a twentieth century American public. The collection contains his correspondence with actors, publishers and producers, the manuscripts of his translations, some of his published criticism on Strindberg and Ibsen as well as that of other authors. Finally, it contains miscellaneous theatre memorabilia culled from a long life spent going to the theatre, perfoming in plays and occasionally even producing them himself.</field>
++    <field name="abstract_teim">The Arvid Paulson Papers represent Paulson&#39;s attempts to bring the work of August Strindberg and Henrik Ibsen to a twentieth century American public. The collection contains his correspondence with actors, publishers and producers, the manuscripts of his translations, some of his published criticism on Strindberg and Ibsen as well as that of other authors. Finally, it contains miscellaneous theatre memorabilia culled from a long life spent going to the theatre, perfoming in plays and occasionally even producing them himself.</field>
++    <field name="abstract_ssm">The Arvid Paulson Papers represent Paulson&#39;s attempts to bring the work of August Strindberg and Henrik Ibsen to a twentieth century American public. The collection contains his correspondence with actors, publishers and producers, the manuscripts of his translations, some of his published criticism on Strindberg and Ibsen as well as that of other authors. Finally, it contains miscellaneous theatre memorabilia culled from a long life spent going to the theatre, perfoming in plays and occasionally even producing them himself.</field>
+     <field name="creator_teim">Paulson, Arvid</field>
+     <field name="creator_ssm">Paulson, Arvid</field>
+     <field name="creator_ssm">Paulson, Arvid</field>
+@@ -16,10 +16,14 @@
+     <field name="unitdate_normal_teim">1875/1977</field>
+     <field name="unitdate_normal_sim">1875/1977</field>
+     <field name="unitdate_inclusive_teim">1875-1977</field>
+-    <field name="scopecontent_teim">Series I: Correspondence contains Paulson's correspondence with various producers, actors and publishers, 1917-1977. 
+-Series II: Manuscripts contains the manuscripts for Paulson's translations of Ibsen, Strindberg and other Scandinavian writers; it also contains Paulson's collection of Ibsen ephemera.Series III: Publications contains Paulson's and other writers' published articles about Strindberg.Series IV: Printed Matter and Memorabilia contains programs, playbills, photographs and miscellaneous other material relating to productions of Strindberg's and Ibsen's plays in Sweden and America, as well as more generally to the twentieth century American theatre.Series V: Paulson contains some of Paulson's personal papers.</field>
++    <field name="scopecontent_teim">Series I: Correspondence contains Paulson&#39;s correspondence with various producers, actors and publishers, 1917-1977. 
++
++Series II: Manuscripts contains the manuscripts for Paulson&#39;s translations of Ibsen, Strindberg and other Scandinavian writers; it also contains Paulson&#39;s collection of Ibsen ephemera.
++Series III: Publications contains Paulson&#39;s and other writers&#39; published articles about Strindberg.
++Series IV: Printed Matter and Memorabilia contains programs, playbills, photographs and miscellaneous other material relating to productions of Strindberg&#39;s and Ibsen&#39;s plays in Sweden and America, as well as more generally to the twentieth century American theatre.
++Series V: Paulson contains some of Paulson&#39;s personal papers.</field>
+     <field name="bioghist_teim">Arvid Paulson (1888-1977) was an author, translator and actor. Born in Helsingborg, Sweden, he emigrated to the United States in 1904. Though he performed in many plays written by Strindberg and Ibsen, he is perhaps best known as a translator of their work.</field>
+-    <field name="custodhist_teim">Arvid Paulson donated his collection of rare and first editions of August Strindberg's writings to the Fales Library in 1970. His papers, consisting of eight linear feet of correspondence, manuscripts, printed material and memorabilia, were given over a period of years from 1970 until his death in Malmo, Sweden, in 1977.</field>
++    <field name="custodhist_teim">Arvid Paulson donated his collection of rare and first editions of August Strindberg&#39;s writings to the Fales Library in 1970. His papers, consisting of eight linear feet of correspondence, manuscripts, printed material and memorabilia, were given over a period of years from 1970 until his death in Malmo, Sweden, in 1977.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>
+     <field name="genreform_teim">Manuscripts for publication.</field>
+@@ -49,7 +53,7 @@
+     <field name="subject_teim">Scandinavian literature |y 19th century.</field>
+     <field name="subject_teim">Literature, Modern -- Translations</field>
+     <field name="subject_teim">Theater -- History -- 20th century</field>
+-    <field name="subject_teim">Scandinavian literature -- 19th century.</field>
++    <field name="subject_teim">Scandinavian literature --19th century.</field>
+     <field name="subject_teim">Literature, Modern -- Translations</field>
+     <field name="subject_teim">Theater -- History -- 20th century</field>
+     <field name="subject_ssm">Scandinavian literature |y 19th century.</field>
+@@ -73,7 +77,7 @@
+     <field name="name_teim">Paulson, Arvid</field>
+     <field name="name_teim">Strindberg, August, 1849-1912</field>
+     <field name="name_teim">Ibsen, Henrik, 1828-1906</field>
+-    <field name="subject_sim">Scandinavian literature -- 19th century.</field>
++    <field name="subject_sim">Scandinavian literature --19th century.</field>
+     <field name="subject_sim">Literature, Modern -- Translations</field>
+     <field name="subject_sim">Theater -- History -- 20th century</field>
+     <field name="material_type_sim">Manuscripts for publication.</field>

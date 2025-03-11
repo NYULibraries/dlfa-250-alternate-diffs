@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,10 +26,12 @@
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">April 4, 1976</field>
+-    <field name="scopecontent_teim">A Camera Three documentary on Tatyana Grosman and her print shop, Universal Limited Art Editions. "The Donkey and the Darling," by Rivers and Terry Southern, is featured. Rivers and Southern discuss the work, and Rivers demonstrates his drawing technique. Other works by Jasper Johns, Rivers, Robert Motherwell, James Rosenquist and others are shown.</field>
++    <field name="scopecontent_teim">A Camera Three documentary on Tatyana Grosman and her print shop, Universal Limited Art Editions. &#34;The Donkey and the Darling,&#34; by Rivers and Terry Southern, is featured. Rivers and Southern discuss the work, and Rivers demonstrates his drawing technique. Other works by Jasper Johns, Rivers, Robert Motherwell, James Rosenquist and others are shown.</field>
+     <field name="scopecontent_teim">Donkey &amp; Darling</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 20 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 20 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref822</field>
+     <field name="repository_ssi">fales</field>
+@@ -41,6 +43,7 @@
+     <field name="location_ssm">case: 293.0283_a</field>
+     <field name="location_si">case: 293.0283_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">273.0004</field>
+     <field name="unitid_ssm">273.0004</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Format: MP4, Duration: 31 min., Source: 273.0004 [1/8" audiocassette]</field>
++    <field name="phystech_teim">Format: MP4, Duration: 31 min., Source: 273.0004 [1/8&#34; audiocassette]</field>
+     <field name="ref_ssi">aspace_2e3b2863849496711d2ac906515d5262</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: 273.0004</field>
+     <field name="location_si">Box: Digitized Access Files, file: 273.0004</field>
+     <field name="collection_teim">Becca Albee Riot Grrrl Collection</field>
++    <field name="author_teim">Rosemary K. J. Davis</field>
+     <field name="collection_unitid_teim">MSS.273</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries A: Access Copies</field>

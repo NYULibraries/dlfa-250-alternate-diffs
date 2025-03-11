@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,9 +26,9 @@
+     <field name="unitdate_normal_teim">1975/1975</field>
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">1975</field>
+-    <field name="scopecontent_teim">Content: Lou 4/26/75 cont'd- Oh Jim- White Light/ </field>
++    <field name="scopecontent_teim">Content: Lou 4/26/75 cont&#39;d- Oh Jim- White Light/ </field>
+     <field name="scopecontent_teim">Sides A and B: Real Good Time, Hunter, Birdland, Redondo Beach, Space Monkey, Snowball, Distant Fingers, Break it up, Gloria, We Walk Down the Aisle of love</field>
+-    <field name="phystech_teim">Format: 1/4" Audiocassette</field>
++    <field name="phystech_teim">Format: 1/4&#34; Audiocassette</field>
+     <field name="phystech_teim">Tape Length: 60 minutes</field>
+     <field name="ref_ssi">aspace_ref299</field>
+     <field name="repository_ssi">fales</field>
+@@ -40,6 +40,7 @@
+     <field name="location_ssm">case: 213.0137</field>
+     <field name="location_si">case: 213.0137</field>
+     <field name="collection_teim">Peter Dougherty Collection</field>
++    <field name="author_teim">Caroline Partamian with Rhyannon J. Rodriguez, 2012.</field>
+     <field name="collection_unitid_teim">MSS.213</field>
+     <field name="series_sim">Series I: Sound recordings</field>
+     <field name="series_sim">Subseries A: Audio Works</field>

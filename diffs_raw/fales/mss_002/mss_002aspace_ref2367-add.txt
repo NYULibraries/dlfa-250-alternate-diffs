@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Over 5"x7"</field>
+-    <field name="unittitle_teim">Over 5"x7"</field>
++    <field name="unittitle_ssm">Over 5&#34;x7&#34;</field>
++    <field name="unittitle_teim">Over 5&#34;x7&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389135</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389135</field>
+     <field name="ref_ssi">aspace_ref2367</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Series IX: Photographic Material</field>
+-    <field name="series_si">Series IX: Photographic Material &gt;&gt; Over 5"x7"</field>
+-    <field name="heading_ssm">Over 5"x7"</field>
++    <field name="series_si">Series IX: Photographic Material &gt;&gt; Over 5&#34;x7&#34;</field>
++    <field name="heading_ssm">Over 5&#34;x7&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2098</field>
+   </doc>

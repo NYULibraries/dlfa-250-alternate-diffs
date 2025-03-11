@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tommy Turner Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.099</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Roll 'CP' (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
+-    <field name="unittitle_teim">Roll 'CP' (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
++    <field name="unittitle_ssm">Roll &#39;CP&#39; (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
++    <field name="unittitle_teim">Roll &#39;CP&#39; (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435681</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435681</field>
+     <field name="unitdate_teim">[1985]</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Film: 099.0005</field>
+     <field name="location_si">Film: 099.0005</field>
+     <field name="collection_teim">Tommy Turner Film Collection</field>
++    <field name="author_teim">Charlie Morgan</field>
+     <field name="collection_unitid_teim">MSS.099</field>
+     <field name="series_sim">Series I: Motion Picture Film and Video Recordings</field>
+-    <field name="series_si">Series I: Motion Picture Film and Video Recordings &gt;&gt; Roll 'CP' (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
+-    <field name="heading_ssm">Roll 'CP' (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
++    <field name="series_si">Series I: Motion Picture Film and Video Recordings &gt;&gt; Roll &#39;CP&#39; (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
++    <field name="heading_ssm">Roll &#39;CP&#39; (Rot, Mall, Sacraments, Hell, Bridge, Dummy)</field>
+     <field name="unitdate_ssm">[1985]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

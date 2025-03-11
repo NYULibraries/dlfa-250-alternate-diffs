@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_215</field>
+     <field name="parent_ssi">aspace_ref404</field>
+     <field name="parent_ssm">aspace_ref404</field>
+-    <field name="parent_unittitles_ssm">Series XI: "Vital Archive"</field>
+-    <field name="parent_unittitles_teim">Series XI: "Vital Archive"</field>
++    <field name="parent_unittitles_ssm">Series XI: &amp;#34;Vital Archive&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series XI: &amp;#34;Vital Archive&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Group Material Archive</field>
+@@ -30,9 +30,10 @@
+     <field name="location_ssm">Box: 56, Folder: 5</field>
+     <field name="location_si">Box: 56, Folder: 5</field>
+     <field name="collection_teim">Group Material Archive</field>
++    <field name="author_teim">Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.215</field>
+-    <field name="series_sim">Series XI: "Vital Archive"</field>
+-    <field name="series_si">Series XI: "Vital Archive" &gt;&gt; Vital Archive</field>
++    <field name="series_sim">Series XI: &amp;#34;Vital Archive&amp;#34;</field>
++    <field name="series_si">Series XI: &#34;Vital Archive&#34; &gt;&gt; Vital Archive</field>
+     <field name="heading_ssm">Vital Archive</field>
+     <field name="unitdate_start_sim">2009</field>
+     <field name="unitdate_start_ssm">2009</field>

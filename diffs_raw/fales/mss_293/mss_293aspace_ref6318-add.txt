@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1999/1999</field>
+     <field name="unitdate_normal_sim">1999/1999</field>
+     <field name="unitdate_inclusive_teim">1999</field>
+-    <field name="scopecontent_teim">"Summer Pigment".</field>
++    <field name="scopecontent_teim">&#34;Summer Pigment&#34;.</field>
+     <field name="ref_ssi">aspace_ref6318</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 23, Folder: 29</field>
+     <field name="location_si">Box: 23, Folder: 29</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries B: Works by Others</field>
+-    <field name="series_si">Series II: Manuscripts &amp;amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; Needleman, Neil Ira</field>
++    <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; Needleman, Neil Ira</field>
+     <field name="heading_ssm">Needleman, Neil Ira</field>
+     <field name="unitdate_start_sim">1999</field>
+     <field name="unitdate_start_ssm">1999</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1929/1970</field>
+     <field name="unitdate_normal_sim">1929/1970</field>
+     <field name="unitdate_inclusive_teim">1929-1970</field>
+-    <field name="scopecontent_teim">This series contains miscellaneous correspondence to Remarque, Paulette Goddard, and Jeanne Zambona, as well as others. It includes letters from T.E. Lawrence writing about All Quiet on the Western Front; letters related to translation and publication rights to Remarque's works; contract negotiations; and letters of condolence to Goddard on Remarque's death.</field>
++    <field name="scopecontent_teim">This series contains miscellaneous correspondence to Remarque, Paulette Goddard, and Jeanne Zambona, as well as others. It includes letters from T.E. Lawrence writing about All Quiet on the Western Front; letters related to translation and publication rights to Remarque&#39;s works; contract negotiations; and letters of condolence to Goddard on Remarque&#39;s death.</field>
+     <field name="ref_ssi">aspace_b97492209ee32e410086819649f3284d</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_si">Series 3D: Umfeldkorrespondenz</field>
+     <field name="heading_ssm">Series 3D: Umfeldkorrespondenz</field>

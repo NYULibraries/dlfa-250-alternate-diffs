@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Tom Kalin presents "Three on a Match and Bubbles," - Introduction and Q&amp;amp;A</field>
+-    <field name="unittitle_teim">Tom Kalin presents "Three on a Match and Bubbles," - Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">Tom Kalin presents &#34;Three on a Match and Bubbles,&#34; - Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">Tom Kalin presents &#34;Three on a Match and Bubbles,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0055</field>
+     <field name="unitid_ssm">ID: 327.0055</field>
+     <field name="unitdate_normal_ssm">2013/2013</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">January 14, 2013</field>
+     <field name="scopecontent_teim">Featured: Adam Baran (Introduction, Q&amp;A), Ira Sachs (Introduction, Q&amp;A), Tom Kalin (Introduction, Q&amp;A)</field>
+     <field name="scopecontent_teim">Videographer: Jess Byers</field>
+-    <field name="scopecontent_teim">Program Content: New Queer Cinema pioneer Tom Kalin ("Swoon," "Savage Grace") presents Mervin Leroy's 1930 film "Three on a Match and Bubbles." Kalin says, "At an impressionable age, I stumbled upon the mirror-world of Pre-Code films on late night television...these movies dared to show marital discord with pleasure-seeking female protagonists who flouted convention."</field>
++    <field name="scopecontent_teim">Program Content: New Queer Cinema pioneer Tom Kalin (&#34;Swoon,&#34; &#34;Savage Grace&#34;) presents Mervin Leroy&#39;s 1930 film &#34;Three on a Match and Bubbles.&#34; Kalin says, &#34;At an impressionable age, I stumbled upon the mirror-world of Pre-Code films on late night television...these movies dared to show marital discord with pleasure-seeking female protagonists who flouted convention.&#34;</field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: unknown</field>
+     <field name="phystech_teim">Tape recorded without sound.</field>
+@@ -39,11 +39,12 @@
+     <field name="location_ssm">Box: 2, Media: ID: 327.0055</field>
+     <field name="location_si">Box: 2, Media: ID: 327.0055</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Tom Kalin presents "Three on a Match and Bubbles," - Introduction and Q&amp;amp;A</field>
+-    <field name="heading_ssm">Tom Kalin presents "Three on a Match and Bubbles," - Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Tom Kalin presents &#34;Three on a Match and Bubbles,&#34; - Introduction and Q&amp;A</field>
++    <field name="heading_ssm">Tom Kalin presents &#34;Three on a Match and Bubbles,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2013</field>
+     <field name="unitdate_start_ssm">2013</field>
+     <field name="unitdate_start_si">2013</field>

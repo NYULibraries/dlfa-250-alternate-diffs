@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Joseph Burnett &amp;amp; Company</field>
++    <field name="unittitle_ssm">Joseph Burnett &amp; Company</field>
+     <field name="unittitle_teim">Joseph Burnett &amp; Company</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729624</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729624</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1886/1910</field>
+     <field name="unitdate_inclusive_teim">1886-1910</field>
+     <field name="scopecontent_teim">Joseph Burnett &amp; Co. Household Receipts. Valuable Receipts for those who Regard Economy as well as Excellence. Fifth Edition. Boston, MA: Joseph Burnett &amp; Co., 1886.</field>
+-    <field name="scopecontent_teim"> Joseph Burnett &amp; Co. Dainty Desserts and Confections Flavored with Burnett's Pure Extracts and Tinted with Burnett's Standard Color Pastes. Boston, MA: Joseph Burnett &amp; Co., circa 1910.</field>
++    <field name="scopecontent_teim"> Joseph Burnett &amp; Co. Dainty Desserts and Confections Flavored with Burnett&#39;s Pure Extracts and Tinted with Burnett&#39;s Standard Color Pastes. Boston, MA: Joseph Burnett &amp; Co., circa 1910.</field>
+     <field name="ref_ssi">aspace_ref383</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,9 +32,10 @@
+     <field name="location_ssm">Box: 21, Folder: 3</field>
+     <field name="location_si">Box: 21, Folder: 3</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Joseph Burnett &amp;amp; Company</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Joseph Burnett &amp; Company</field>
+     <field name="heading_ssm">Joseph Burnett &amp; Company</field>
+     <field name="unitdate_start_sim">1886</field>
+     <field name="unitdate_start_ssm">1886</field>

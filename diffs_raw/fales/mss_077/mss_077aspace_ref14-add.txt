@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Margaret Strickland Papers</field>
+     <field name="collection_unitid_ssm">MSS.077</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Louis": Kent &amp;amp; London, England; Wiesbaden, Germany</field>
+-    <field name="unittitle_teim">"Louis": Kent &amp; London, England; Wiesbaden, Germany</field>
++    <field name="unittitle_ssm">&#34;Louis&#34;: Kent &amp; London, England; Wiesbaden, Germany</field>
++    <field name="unittitle_teim">&#34;Louis&#34;: Kent &amp; London, England; Wiesbaden, Germany</field>
+     <field name="unitdate_normal_ssm">1901/1901</field>
+     <field name="unitdate_normal_teim">1901/1901</field>
+     <field name="unitdate_normal_sim">1901/1901</field>
+@@ -21,11 +21,11 @@
+     <field name="unitdate_inclusive_teim">[no year] May 20; undated, circa 1901</field>
+     <field name="scopecontent_teim">38 Letters</field>
+     <field name="scopecontent_teim">Addressed To: [Miss Margaret Strickland, Holmdale, Tweedy Road, Bromley, Kent, England]</field>
+-    <field name="scopecontent_teim">Sent From: "Louis, Huonville, Shortlands Road, Shortlands, Kent, [England], Telephone 146 Bromley," "Timperley, Northdown Avenue, Margate, [Kent, England]," "Villa Beatrice, Gartenstrabe 12, Wiesbaden, Germany"</field>
+-    <field name="scopecontent_teim">In Reference To: Friendship / Personal; "Hugo Gorlitz, Musical &amp; Dramatic Agency, 119 New Bond Street, London West [England]" ; "Keogh-Wright Private Hospital, 166 West 2nd North Street, Salt Lake City, UT, Telephone 409" ; Poetry</field>
++    <field name="scopecontent_teim">Sent From: &#34;Louis, Huonville, Shortlands Road, Shortlands, Kent, [England], Telephone 146 Bromley,&#34; &#34;Timperley, Northdown Avenue, Margate, [Kent, England],&#34; &#34;Villa Beatrice, Gartenstrabe 12, Wiesbaden, Germany&#34;</field>
++    <field name="scopecontent_teim">In Reference To: Friendship / Personal; &#34;Hugo Gorlitz, Musical &amp; Dramatic Agency, 119 New Bond Street, London West [England]&#34; ; &#34;Keogh-Wright Private Hospital, 166 West 2nd North Street, Salt Lake City, UT, Telephone 409&#34; ; Poetry</field>
+     <field name="scopecontent_teim">Approximately 200 Pages, Unbound</field>
+     <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink &amp; Pencil</field>
+-    <field name="scopecontent_teim">Measurements: 4" x 6" - 8" x 10.5"</field>
++    <field name="scopecontent_teim">Measurements: 4&#34; x 6&#34; - 8&#34; x 10.5&#34;</field>
+     <field name="ref_ssi">aspace_ref14</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,10 +35,11 @@
+     <field name="location_ssm">Box: 1, Folder: 4</field>
+     <field name="location_si">Box: 1, Folder: 4</field>
+     <field name="collection_teim">Margaret Strickland Papers</field>
++    <field name="author_teim">Matt Moore, 2001. Edited by Rhyannon J. Rodriguez 2012, 2014, and 2015.</field>
+     <field name="collection_unitid_teim">MSS.077</field>
+     <field name="series_sim">Series I: Correspondence</field>
+-    <field name="series_si">Series I: Correspondence &gt;&gt; "Louis": Kent &amp;amp; London, England; Wiesbaden, Germany</field>
+-    <field name="heading_ssm">"Louis": Kent &amp; London, England; Wiesbaden, Germany</field>
++    <field name="series_si">Series I: Correspondence &gt;&gt; &#34;Louis&#34;: Kent &amp; London, England; Wiesbaden, Germany</field>
++    <field name="heading_ssm">&#34;Louis&#34;: Kent &amp; London, England; Wiesbaden, Germany</field>
+     <field name="unitdate_start_sim">1901</field>
+     <field name="unitdate_start_ssm">1901</field>
+     <field name="unitdate_start_si">1901</field>

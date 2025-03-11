@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref2000</field>
+     <field name="parent_ssm">aspace_ref1990</field>
+     <field name="parent_ssm">aspace_ref2000</field>
+-    <field name="parent_unittitles_ssm">Series VI: Miller's Wife</field>
++    <field name="parent_unittitles_ssm">Series VI: Miller&amp;#39;s Wife</field>
+     <field name="parent_unittitles_ssm">Subseries B: Technical Notations and Lab Related Paperwork</field>
+-    <field name="parent_unittitles_teim">Series VI: Miller's Wife</field>
++    <field name="parent_unittitles_teim">Series VI: Miller&amp;#39;s Wife</field>
+     <field name="parent_unittitles_teim">Subseries B: Technical Notations and Lab Related Paperwork</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Frank Moore Papers</field>
+     <field name="collection_unitid_ssm">MSS.135</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer's listing</field>
+-    <field name="unittitle_teim">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer's listing</field>
++    <field name="unittitle_ssm">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer&#39;s listing</field>
++    <field name="unittitle_teim">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer&#39;s listing</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/462245</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/462245</field>
+     <field name="unitdate_teim">1987</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 23, Folder: 988</field>
+     <field name="location_si">Box: 23, Folder: 988</field>
+     <field name="collection_teim">Frank Moore Papers</field>
++    <field name="author_teim">Tania Friedel (August 2003); Jessica Shimmin (May-December 2004); Luke Martin (2008), Brent Phillips (2008) updated by Zachary Dabbs (2009)</field>
+     <field name="collection_unitid_teim">MSS.135</field>
+-    <field name="series_sim">Series VI: Miller's Wife</field>
++    <field name="series_sim">Series VI: Miller&amp;#39;s Wife</field>
+     <field name="series_sim">Subseries B: Technical Notations and Lab Related Paperwork</field>
+-    <field name="series_si">Series VI: Miller's Wife &gt;&gt; Subseries B: Technical Notations and Lab Related Paperwork &gt;&gt; 135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer's listing</field>
+-    <field name="heading_ssm">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer's listing</field>
++    <field name="series_si">Series VI: Miller&#39;s Wife &gt;&gt; Subseries B: Technical Notations and Lab Related Paperwork &gt;&gt; 135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer&#39;s listing</field>
++    <field name="heading_ssm">135.0183A work order, timing strip, P.O., camera report, negative cleaning report, lab order, timer&#39;s listing</field>
+     <field name="unitdate_ssm">1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1122</field>

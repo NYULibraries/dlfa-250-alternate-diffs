@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1881/1881</field>
+     <field name="unitdate_normal_sim">1881/1881</field>
+     <field name="unitdate_inclusive_teim">1881</field>
+-    <field name="scopecontent_teim">Emancipation document for five people, named: Niealasa, Valentin, Gregoria, Luisa, and Maltida. The document also lists Matilda's daughter Perfecta.</field>
++    <field name="scopecontent_teim">Emancipation document for five people, named: Niealasa, Valentin, Gregoria, Luisa, and Maltida. The document also lists Matilda&#39;s daughter Perfecta.</field>
+     <field name="ref_ssi">aspace_6254ab31223965db3d976a23e7c23d34</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 78</field>
+     <field name="location_si">Box: 2, Folder: 78</field>
+     <field name="collection_teim">Collection on Enslavement in Cuba</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.569</field>
+     <field name="series_si">Emancipation Document</field>
+     <field name="heading_ssm">Emancipation Document</field>

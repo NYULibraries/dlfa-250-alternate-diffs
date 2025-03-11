@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unittitle_teim">Series VIII: Data Storage</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/580990</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/580990</field>
+-    <field name="scopecontent_teim">This series contains DVD-R, CD-R, and floppy discs, primarily related to work on Montano's books. Related paper material can be found in Series I, Subseries B.</field>
++    <field name="scopecontent_teim">This series contains DVD-R, CD-R, and floppy discs, primarily related to work on Montano&#39;s books. Related paper material can be found in Series I, Subseries B.</field>
+     <field name="ref_ssi">aspace_ref42</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -21,6 +21,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_si">Series VIII: Data Storage</field>
+     <field name="heading_ssm">Series VIII: Data Storage</field>

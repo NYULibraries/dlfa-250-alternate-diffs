@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,14 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Bryan O'Keefe, 2009.</field>
+-    <field name="author_ssm">Bryan O'Keefe, 2009.</field>
++    <field name="author_teim">Bryan O&#39;Keefe, 2009.</field>
++    <field name="author_ssm">Bryan O&#39;Keefe, 2009.</field>
+     <field name="unittitle_teim">IBM European Business Archive</field>
+     <field name="unittitle_ssm">IBM European Business Archive</field>
+     <field name="unitid_teim">MSS.126</field>
+     <field name="unitid_ssm">MSS.126</field>
+-    <field name="abstract_teim">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM's subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
+-    <field name="abstract_ssm">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM's subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
++    <field name="abstract_teim">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM&#39;s subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
++    <field name="abstract_ssm">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM&#39;s subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
+     <field name="creator_teim">International Business Machines Corporation</field>
+     <field name="creator_ssm">International Business Machines Corporation</field>
+     <field name="creator_ssm">International Business Machines Corporation</field>
+@@ -21,17 +21,19 @@
+     <field name="unitdate_bulk_teim">1933-1945</field>
+     <field name="unitdate_inclusive_teim">circa 1910-1960</field>
+     <field name="scopecontent_teim">The IBM European Business Archive contains materials related to the functioning of IBM and its German subsidiaries, with an emphasis on documents produced during and after World War II.  At the folder level, materials cover a large date range, often from the early inter-war period to the early nineteen-sixties. 
++
++
+  
+-The most frequently occurring name in the collection is Willy Heidinger, creator of the firm Deutsche Hollerith Maschinen Gesellschaft (AKA DHMG or Dehomag).  DHMG was a corporation devoted to the manufacture and sale of electronic punch-card devices for census use in Europe; it was eventually incorporated by IBM in 1933.  The majority of the documents in series I and II refer to contested capital restructuring agreements between Heidinger and principal parties in German and American offices of IBM.  Others involved in these disputes include Karl Humell and Hermann Rottke, Dehomag directors who received "loans" from IBM NY to give the appearance of compliance with the Third Reich's "Germanization" policies.  These loan agreements are referenced in documents including Photostat copies of correspondence, original telegrams, and transcripts of phone conversations and other communication.  Many of the documents are present in both German and English versions.  </field>
++The most frequently occurring name in the collection is Willy Heidinger, creator of the firm Deutsche Hollerith Maschinen Gesellschaft (AKA DHMG or Dehomag).  DHMG was a corporation devoted to the manufacture and sale of electronic punch-card devices for census use in Europe; it was eventually incorporated by IBM in 1933.  The majority of the documents in series I and II refer to contested capital restructuring agreements between Heidinger and principal parties in German and American offices of IBM.  Others involved in these disputes include Karl Humell and Hermann Rottke, Dehomag directors who received &#34;loans&#34; from IBM NY to give the appearance of compliance with the Third Reich&#39;s &#34;Germanization&#34; policies.  These loan agreements are referenced in documents including Photostat copies of correspondence, original telegrams, and transcripts of phone conversations and other communication.  Many of the documents are present in both German and English versions.  </field>
+     <field name="scopecontent_teim">After the war, IBM engaged in recouping all of its Dehomag assets that had been displaced during the war.  Attorney Harrison Chauncey, a chief negotiator for IBM NY, is represented here by travel documents, telegrams, and correspondence describing his visits to Germany to negotiate settlements between IBM and Dehomag representatives.  Newspaper clippings and other ephemera appear inter alia, in their original context.  </field>
+-    <field name="scopecontent_teim">Accounting procedures for Dehomag are represented in Series III by general ledgers from 1933-1938 from three IBM Germany components (Optima, Gegemag and Dehomag).  Series I contains extensive documentation of IBM's European assets as of the immediate post-war period, including investment recovery data, annual reports, account statements, auditors' reports, and location of rental machines in Europe.</field>
++    <field name="scopecontent_teim">Accounting procedures for Dehomag are represented in Series III by general ledgers from 1933-1938 from three IBM Germany components (Optima, Gegemag and Dehomag).  Series I contains extensive documentation of IBM&#39;s European assets as of the immediate post-war period, including investment recovery data, annual reports, account statements, auditors&#39; reports, and location of rental machines in Europe.</field>
+     <field name="scopecontent_teim">SOURCES:</field>
+-    <field name="scopecontent_teim">Black, E. (2001). IBM and the Holocaust: The strategic alliance between Nazi Germany and America's most powerful corporation. New York: Crown.</field>
++    <field name="scopecontent_teim">Black, E. (2001). IBM and the Holocaust: The strategic alliance between Nazi Germany and America&#39;s most powerful corporation. New York: Crown.</field>
+     <field name="scopecontent_teim">International Business Machines, Corp.  In Business &amp; Company Resource Center. Retrieved July 24, 2009, from http://galenet.galegroup.com/servlet/
+ BCRC?vrsn=unknown&amp;locID=nysl_me_tnypl&amp;srchtp=glbc&amp;cc=1&amp;c=1&amp;mode=c&amp;ste=60&amp;tbst=tsCM&amp;tab=1&amp;ccmp=International+Business+Machines+Corp.&amp;mst=IBM&amp;n=25&amp;bConts=13311&amp;ses=1</field>
+-    <field name="scopecontent_teim">Dillard, J. (2003, Fall2003). "Professional Services, IBM, and the Holocaust." Journal of Information Systems, 17(2), 1-16. Retrieved July 24, 2009, from Business Source Premier database.</field>
++    <field name="scopecontent_teim">Dillard, J. (2003, Fall2003). &#34;Professional Services, IBM, and the Holocaust.&#34; Journal of Information Systems, 17(2), 1-16. Retrieved July 24, 2009, from Business Source Premier database.</field>
+     <field name="bioghist_teim">International Business Machines Corporation was incorporated in New York State on June 16, 1911 under the name Computing-Tabulating-Recording Co.  In 1922, Computing-Tabulating-Recording Co. purchased all of the shares of Deutsche Hollerith Maschinen Gesellschaft.  In 1924 the official name of the company was changed to International Business Machines Corporation.  In 1933, IBM CEO Thomas Watson ordered the merger of IBM subsidiaries in Germany (Optima, Degemag, Holgemag, Dehomag) under the name Dehomag, granting the company rights to sell Hollerith punch-card machines throughout Europe.</field>
+-    <field name="custodhist_teim">The materials were given by the IBM Corporate Archives on "short-term loan" to NYU's Skirball Department of Hebrew and Judaic Studies in 1999. In 2001 the collection was officially donated and transferred to the Fales Library and Special Collections.</field>
++    <field name="custodhist_teim">The materials were given by the IBM Corporate Archives on &#34;short-term loan&#34; to NYU&#39;s Skirball Department of Hebrew and Judaic Studies in 1999. In 2001 the collection was officially donated and transferred to the Fales Library and Special Collections.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">International Business Machines Corporation</field>
+     <field name="corpname_teim">Gegemag</field>

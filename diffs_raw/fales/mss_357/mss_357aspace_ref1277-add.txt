@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.357</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Christina's Apartment, Obsessions</field>
+-    <field name="unittitle_teim">Christina's Apartment, Obsessions</field>
++    <field name="unittitle_ssm">Christina&#39;s Apartment, Obsessions</field>
++    <field name="unittitle_teim">Christina&#39;s Apartment, Obsessions</field>
+     <field name="unitid_teim">ID: 357.0374</field>
+     <field name="unitid_ssm">ID: 357.0374</field>
+     <field name="unitdate_normal_ssm">1988/1988</field>
+@@ -21,10 +21,10 @@
+     <field name="unitdate_normal_teim">1988/1988</field>
+     <field name="unitdate_normal_sim">1988/1988</field>
+     <field name="unitdate_inclusive_teim">November 1988</field>
+-    <field name="scopecontent_teim">[1] -- Christina's Apartment, 11/11/1988 [2] -- Obsessions, 11/12/1988</field>
++    <field name="scopecontent_teim">[1] -- Christina&#39;s Apartment, 11/11/1988 [2] -- Obsessions, 11/12/1988</field>
+     <field name="phystech_teim">Original format: Video8mm</field>
+-    <field name="dao_teim">Christina's Apartment, Obsessions</field>
+-    <field name="dao_ssm">Christina's Apartment, Obsessions</field>
++    <field name="dao_teim">Christina&#39;s Apartment, Obsessions</field>
++    <field name="dao_ssm">Christina&#39;s Apartment, Obsessions</field>
+     <field name="ref_ssi">aspace_ref1277</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,10 +37,11 @@
+     <field name="location_si">case: 357.0374_pt.2</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+-    <field name="series_si">Series I: Video recordings &gt;&gt; Christina's Apartment, Obsessions</field>
+-    <field name="heading_ssm">Christina's Apartment, Obsessions</field>
++    <field name="series_si">Series I: Video recordings &gt;&gt; Christina&#39;s Apartment, Obsessions</field>
++    <field name="heading_ssm">Christina&#39;s Apartment, Obsessions</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="unitdate_inclusive_teim">March 11, 1984</field>
+     <field name="scopecontent_teim">Side A: 1) Soundings 2) Vision Tree Fragment
+ Side B: 2) Vision Tree Fragment (continued) 3) Jade Mountain Soundings</field>
+-    <field name="phystech_teim">Original format: 1/4" audiocassette</field>
++    <field name="phystech_teim">Original format: 1/4&#34; audiocassette</field>
+     <field name="ref_ssi">aspace_ref1167</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">Box: 41, Media: ID: 350.0102</field>
+     <field name="location_si">Box: 41, Media: ID: 350.0102</field>
+     <field name="collection_teim">Malcolm Goldstein Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter</field>
+     <field name="collection_unitid_teim">MSS.350</field>
+     <field name="series_sim">Series VI: Non-commercially Released Audio</field>
+     <field name="series_sim">Subseries A: Performances</field>

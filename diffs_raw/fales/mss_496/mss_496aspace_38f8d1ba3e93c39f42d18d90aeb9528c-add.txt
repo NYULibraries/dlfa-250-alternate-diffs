@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Barros, Bernardo</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2017-07/2017-07</field>
+     <field name="unitdate_normal_sim">2017-07/2017-07</field>
+     <field name="unitdate_teim">July 2017- ongoing</field>
+-    <field name="scopecontent_teim">Barros is an improvisational musician and composer who creates works with acoustic and electronic instruments. The website details Barros' works and contains a calendar of the artist's events, information about his compositions, and links to his Soundcloud and BabelScores pages. Capture of the site began in July 2017. This description is based on the July 2017 capture of the site.</field>
++    <field name="scopecontent_teim">Barros is an improvisational musician and composer who creates works with acoustic and electronic instruments. The website details Barros&#39; works and contains a calendar of the artist&#39;s events, information about his compositions, and links to his Soundcloud and BabelScores pages. Capture of the site began in July 2017. This description is based on the July 2017 capture of the site.</field>
+     <field name="appraisal_teim">Crawl was limited to domains and subdomains of http://bernardobarros.com/ in order to remain within the collection scope and data constraints.</field>
+     <field name="appraisal_teim">https://www.babelscores.com/es/BernardoBarros, an external site, was included due to its contextual value to the site that is the focus of this crawl. </field>
+     <field name="appraisal_teim">Parts of the live site involving Soundcloud were not captured due to technological constraints. </field>
+@@ -30,7 +30,8 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Barros, Bernardo</field>
+     <field name="heading_ssm">Barros, Bernardo</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Portrait of an Artist as a Young Man"</field>
+-    <field name="unittitle_teim">"Portrait of an Artist as a Young Man"</field>
++    <field name="unittitle_ssm">&#34;Portrait of an Artist as a Young Man&#34;</field>
++    <field name="unittitle_teim">&#34;Portrait of an Artist as a Young Man&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/547661</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547661</field>
+     <field name="unitdate_normal_ssm">1993/1993</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 20, Folder: 33</field>
+     <field name="location_si">Box: 20, Folder: 33</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries A: Works by Larry Rivers</field>
+-    <field name="series_si">Series II: Manuscripts &amp;amp; Writings &gt;&gt; Subseries A: Works by Larry Rivers &gt;&gt; "Portrait of an Artist as a Young Man"</field>
+-    <field name="heading_ssm">"Portrait of an Artist as a Young Man"</field>
++    <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries A: Works by Larry Rivers &gt;&gt; &#34;Portrait of an Artist as a Young Man&#34;</field>
++    <field name="heading_ssm">&#34;Portrait of an Artist as a Young Man&#34;</field>
+     <field name="unitdate_start_sim">1993</field>
+     <field name="unitdate_start_ssm">1993</field>
+     <field name="unitdate_start_si">1993</field>

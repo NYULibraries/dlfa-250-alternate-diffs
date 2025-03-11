@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Biographical materials</field>
+     <field name="unittitle_teim">Series III: Biographical materials</field>
+-    <field name="scopecontent_teim">Miscellaneous personal effects and documents, including numerous photos of Beard, family and friends, Beard's 1920 high school yearbook, medical records, a Last Will and Testament, and an analysis of Beard's handwriting commissioned by the Bergen Record.</field>
++    <field name="scopecontent_teim">Miscellaneous personal effects and documents, including numerous photos of Beard, family and friends, Beard&#39;s 1920 high school yearbook, medical records, a Last Will and Testament, and an analysis of Beard&#39;s handwriting commissioned by the Bergen Record.</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">James Beard Collection</field>
++    <field name="author_teim">Peter Cherches, March - April 2007.</field>
+     <field name="collection_unitid_teim">MSS.139</field>
+     <field name="series_si">Series III: Biographical materials</field>
+     <field name="heading_ssm">Series III: Biographical materials</field>

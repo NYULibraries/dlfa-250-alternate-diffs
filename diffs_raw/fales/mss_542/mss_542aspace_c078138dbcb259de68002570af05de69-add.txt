@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1992/1995</field>
+     <field name="unitdate_normal_sim">1992/1995</field>
+     <field name="unitdate_inclusive_teim">1992-1995</field>
+-    <field name="scopecontent_teim">Holograph score for two alto saxophones, guitar, cello, and drums. Titled "Out, The Regular" on the album Diminutive Mysteries (1992).</field>
++    <field name="scopecontent_teim">Holograph score for two alto saxophones, guitar, cello, and drums. Titled &#34;Out, The Regular&#34; on the album Diminutive Mysteries (1992).</field>
+     <field name="ref_ssi">aspace_c078138dbcb259de68002570af05de69</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 2, Folder: 19</field>
+     <field name="location_si">Box: 2, Folder: 19</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">Out of Regular</field>
+     <field name="heading_ssm">Out of Regular</field>

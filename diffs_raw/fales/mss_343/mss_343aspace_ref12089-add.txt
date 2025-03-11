@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jane Gang "X2 58 Films"</field>
+-    <field name="unittitle_teim">Jane Gang "X2 58 Films"</field>
++    <field name="unittitle_ssm">Jane Gang &#34;X2 58 Films&#34;</field>
++    <field name="unittitle_teim">Jane Gang &#34;X2 58 Films&#34;</field>
+     <field name="unitid_teim">cuid18471</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/571937</field>
+     <field name="unitid_ssm">cuid18471</field>
+@@ -24,9 +24,9 @@
+     <field name="phystech_teim">Duration: [00:19:00]</field>
+     <field name="phystech_teim">Exit Art Catalog Number: 0062</field>
+     <field name="phystech_teim">Track Listing:
+-1) "Mark's at Danny's (Tattooing)"
+-2) "Christopher (Transgender)"
+-3) "His Holy Precipice"</field>
++1) &#34;Mark&#39;s at Danny&#39;s (Tattooing)&#34;
++2) &#34;Christopher (Transgender)&#34;
++3) &#34;His Holy Precipice&#34;</field>
+     <field name="ref_ssi">aspace_ref12089</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,10 +36,11 @@
+     <field name="location_ssm">Box: 439</field>
+     <field name="location_si">Box: 439</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+-    <field name="series_si">Series XIV: Video &gt;&gt; Jane Gang "X2 58 Films"</field>
+-    <field name="heading_ssm">Jane Gang "X2 58 Films"</field>
++    <field name="series_si">Series XIV: Video &gt;&gt; Jane Gang &#34;X2 58 Films&#34;</field>
++    <field name="heading_ssm">Jane Gang &#34;X2 58 Films&#34;</field>
+     <field name="unitdate_ssm">1999</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8570</field>

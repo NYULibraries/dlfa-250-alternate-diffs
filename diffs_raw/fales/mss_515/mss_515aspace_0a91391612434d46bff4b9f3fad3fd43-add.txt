@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Integral Projects, Elaine's Research</field>
+-    <field name="unittitle_teim">Integral Projects, Elaine's Research</field>
++    <field name="unittitle_ssm">Integral Projects, Elaine&#39;s Research</field>
++    <field name="unittitle_teim">Integral Projects, Elaine&#39;s Research</field>
+     <field name="unitdate_normal_ssm">1991/1996</field>
+     <field name="unitdate_normal_teim">1991/1996</field>
+     <field name="unitdate_normal_sim">1991/1996</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 84, Folder: 14</field>
+     <field name="location_si">Box: 84, Folder: 14</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series VII. Fiscal Sponsorship</field>
+     <field name="series_sim">Subseries B. Emerging Organizations</field>
+-    <field name="series_si">Series VII. Fiscal Sponsorship &gt;&gt; Subseries B. Emerging Organizations &gt;&gt; Integral Projects, Elaine's Research</field>
+-    <field name="heading_ssm">Integral Projects, Elaine's Research</field>
++    <field name="series_si">Series VII. Fiscal Sponsorship &gt;&gt; Subseries B. Emerging Organizations &gt;&gt; Integral Projects, Elaine&#39;s Research</field>
++    <field name="heading_ssm">Integral Projects, Elaine&#39;s Research</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>
+     <field name="unitdate_start_si">1991</field>

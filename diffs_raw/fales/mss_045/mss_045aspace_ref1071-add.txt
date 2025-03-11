@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref1052</field>
+     <field name="parent_ssm">aspace_ref834</field>
+     <field name="parent_ssm">aspace_ref1052</field>
+-    <field name="parent_unittitles_ssm">Series IV: M.L. Rosenthal's writing</field>
++    <field name="parent_unittitles_ssm">Series IV: M.L. Rosenthal&amp;#39;s writing</field>
+     <field name="parent_unittitles_ssm">Subseries B: essays, poems, reviews, lectures</field>
+-    <field name="parent_unittitles_teim">Series IV: M.L. Rosenthal's writing</field>
++    <field name="parent_unittitles_teim">Series IV: M.L. Rosenthal&amp;#39;s writing</field>
+     <field name="parent_unittitles_teim">Subseries B: essays, poems, reviews, lectures</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: IV.B.7, Folder: 10</field>
+     <field name="location_si">Box: IV.B.7, Folder: 10</field>
+     <field name="collection_teim">M. L. Rosenthal Papers</field>
++    <field name="author_teim">Processed by: Tania Friedel, June 1998-March 1999</field>
+     <field name="collection_unitid_teim">MSS.045</field>
+-    <field name="series_sim">Series IV: M.L. Rosenthal's writing</field>
++    <field name="series_sim">Series IV: M.L. Rosenthal&amp;#39;s writing</field>
+     <field name="series_sim">Subseries B: essays, poems, reviews, lectures</field>
+-    <field name="series_si">Series IV: M.L. Rosenthal's writing &gt;&gt; Subseries B: essays, poems, reviews, lectures &gt;&gt; Editorship-&lt;em&gt;Maximum Security Ward&lt;/em&gt;, reviews and correspondence</field>
++    <field name="series_si">Series IV: M.L. Rosenthal&#39;s writing &gt;&gt; Subseries B: essays, poems, reviews, lectures &gt;&gt; Editorship-&lt;em&gt;Maximum Security Ward&lt;/em&gt;, reviews and correspondence</field>
+     <field name="heading_ssm">Editorship-Maximum Security Ward, reviews and correspondence</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

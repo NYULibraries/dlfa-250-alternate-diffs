@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>
+     <field name="unittitle_teim">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>
+-    <field name="scopecontent_teim">This series contains works by other writers and various materials related to Dowell's life and career. The three folders of photographic materials contain photographic prints, contact sheets, and negative film.</field>
++    <field name="scopecontent_teim">This series contains works by other writers and various materials related to Dowell&#39;s life and career. The three folders of photographic materials contain photographic prints, contact sheets, and negative film.</field>
+     <field name="ref_ssi">aspace_ref450</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Coleman Dowell Papers</field>
++    <field name="author_teim">Fales staff.</field>
+     <field name="collection_unitid_teim">MSS.036</field>
+     <field name="series_si">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>
+     <field name="heading_ssm">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>

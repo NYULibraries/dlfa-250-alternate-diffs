@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frank Moore Papers</field>
+     <field name="collection_unitid_ssm">MSS.135</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries A: Brochures, Merchandise Catalogues, and Owner's Manuals</field>
+-    <field name="unittitle_teim">Subseries A: Brochures, Merchandise Catalogues, and Owner's Manuals</field>
++    <field name="unittitle_ssm">Subseries A: Brochures, Merchandise Catalogues, and Owner&#39;s Manuals</field>
++    <field name="unittitle_teim">Subseries A: Brochures, Merchandise Catalogues, and Owner&#39;s Manuals</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/462427</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/462427</field>
+     <field name="ref_ssi">aspace_ref2234</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Frank Moore Papers</field>
++    <field name="author_teim">Tania Friedel (August 2003); Jessica Shimmin (May-December 2004); Luke Martin (2008), Brent Phillips (2008) updated by Zachary Dabbs (2009)</field>
+     <field name="collection_unitid_teim">MSS.135</field>
+     <field name="series_sim">Series X: Printed Materials</field>
+-    <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries A: Brochures, Merchandise Catalogues, and Owner's Manuals</field>
+-    <field name="heading_ssm">Subseries A: Brochures, Merchandise Catalogues, and Owner's Manuals</field>
++    <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries A: Brochures, Merchandise Catalogues, and Owner&#39;s Manuals</field>
++    <field name="heading_ssm">Subseries A: Brochures, Merchandise Catalogues, and Owner&#39;s Manuals</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1309</field>
+   </doc>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William Zinsser Papers</field>
+     <field name="collection_unitid_ssm">MSS.031</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Letters: "Shanghai Blues," &lt;em&gt;The New Yorker&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Letters: "Shanghai Blues," The New Yorker</field>
++    <field name="unittitle_ssm">Letters: &#34;Shanghai Blues,&#34; &lt;em&gt;The New Yorker&lt;/em&gt;</field>
++    <field name="unittitle_teim">Letters: &#34;Shanghai Blues,&#34; The New Yorker</field>
+     <field name="unitdate_normal_ssm">1981/1981</field>
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 2, Folder: 44</field>
+     <field name="location_si">Box: 2, Folder: 44</field>
+     <field name="collection_teim">William Zinsser Papers</field>
++    <field name="author_teim">Katherine Harris, June-November 1998</field>
+     <field name="collection_unitid_teim">MSS.031</field>
+     <field name="series_sim">Series I: Letters</field>
+     <field name="series_sim">Subseries B, Regarding articles</field>
+-    <field name="series_si">Series I: Letters &gt;&gt; Subseries B, Regarding articles &gt;&gt; Letters: "Shanghai Blues," &lt;em&gt;The New Yorker&lt;/em&gt;</field>
+-    <field name="heading_ssm">Letters: "Shanghai Blues," The New Yorker</field>
++    <field name="series_si">Series I: Letters &gt;&gt; Subseries B, Regarding articles &gt;&gt; Letters: &#34;Shanghai Blues,&#34; &lt;em&gt;The New Yorker&lt;/em&gt;</field>
++    <field name="heading_ssm">Letters: &#34;Shanghai Blues,&#34; The New Yorker</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

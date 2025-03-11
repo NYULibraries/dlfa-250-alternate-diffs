@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1988/1988</field>
+     <field name="unitdate_normal_sim">1988/1988</field>
+     <field name="unitdate_inclusive_teim">April 7, 1988</field>
+-    <field name="scopecontent_teim">A recording of the concert performances of "Demetri Boots and Sexy delight" and "The People Tree".</field>
++    <field name="scopecontent_teim">A recording of the concert performances of &#34;Demetri Boots and Sexy delight&#34; and &#34;The People Tree&#34;.</field>
+     <field name="phystech_teim">Original format: Video8mm</field>
+     <field name="dao_teim">Tunnel with French Twist, DeeLite, People Tree</field>
+     <field name="dao_ssm">Tunnel with French Twist, DeeLite, People Tree</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">case: 357.0581</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Tunnel with French Twist, DeeLite, People Tree</field>

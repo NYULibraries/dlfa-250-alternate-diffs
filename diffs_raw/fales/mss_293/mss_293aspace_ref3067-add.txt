@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,8 +24,10 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/551630</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Shirley</field>
+-    <field name="scopecontent_teim">Rivers videotapes his mother. She talks about life and her likes and dislikes. Shirley is taped watching "Dr. Jekyll &amp; Mr. Hyde" on television and then the news. She speaks with various friends and family, gives Larry Rivers an enema, goes to the cemetary and becomes emotional. Tape ends with Shirley getting dressed, and more funeral footage.</field>
+-    <field name="phystech_teim">B&amp;W/SoundDuration: 00:46:00Original Format: 1/2 in. Open Reel</field>
++    <field name="scopecontent_teim">Rivers videotapes his mother. She talks about life and her likes and dislikes. Shirley is taped watching &#34;Dr. Jekyll &amp; Mr. Hyde&#34; on television and then the news. She speaks with various friends and family, gives Larry Rivers an enema, goes to the cemetary and becomes emotional. Tape ends with Shirley getting dressed, and more funeral footage.</field>
++    <field name="phystech_teim">B&amp;W/Sound
++Duration: 00:46:00
++Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3067</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +38,7 @@
+     <field name="location_ssm">case: 293.1146_a</field>
+     <field name="location_si">case: 293.1146_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

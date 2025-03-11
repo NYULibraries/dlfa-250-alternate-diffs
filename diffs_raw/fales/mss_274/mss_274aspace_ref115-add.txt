@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,11 +7,9 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref11</field>
+     <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+-    <field name="parent_unittitles_ssm">Subseries D: Archive Sale Documentation and Correspondence
+-</field>
++    <field name="parent_unittitles_ssm">Subseries D: Archive Sale Documentation and Correspondence&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+-    <field name="parent_unittitles_teim">Subseries D: Archive Sale Documentation and Correspondence
+-</field>
++    <field name="parent_unittitles_teim">Subseries D: Archive Sale Documentation and Correspondence&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Guerrilla Girls Archive</field>
+@@ -18,7 +16,7 @@
+     <field name="collection_ssm">Guerrilla Girls Archive</field>
+     <field name="collection_unitid_ssm">MSS.274</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Guerrilla Girls Poster &amp;amp; Archives Inventory Lists</field>
++    <field name="unittitle_ssm">Guerrilla Girls Poster &amp; Archives Inventory Lists</field>
+     <field name="unittitle_teim">Guerrilla Girls Poster &amp; Archives Inventory Lists</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/538328</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/538328</field>
+@@ -35,12 +33,12 @@
+     <field name="location_ssm">Box: 3, Folder: 12</field>
+     <field name="location_si">Box: 3, Folder: 12</field>
+     <field name="collection_teim">Guerrilla Girls Archive</field>
++    <field name="author_teim">Rosemary K. J. Davis.</field>
+     <field name="collection_unitid_teim">MSS.274</field>
+     <field name="series_sim">Series I: Administrative Records</field>
+-    <field name="series_sim">Subseries D: Archive Sale Documentation and Correspondence
+-</field>
++    <field name="series_sim">Subseries D: Archive Sale Documentation and Correspondence&amp;#xA;</field>
+     <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries D: Archive Sale Documentation and Correspondence
+- &gt;&gt; Guerrilla Girls Poster &amp;amp; Archives Inventory Lists</field>
++ &gt;&gt; Guerrilla Girls Poster &amp; Archives Inventory Lists</field>
+     <field name="heading_ssm">Guerrilla Girls Poster &amp; Archives Inventory Lists</field>
+     <field name="unitdate_start_sim">1999</field>
+     <field name="unitdate_start_ssm">1999</field>

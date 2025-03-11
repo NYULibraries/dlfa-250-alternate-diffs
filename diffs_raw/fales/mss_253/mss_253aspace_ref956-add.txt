@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">mss_253</field>
+     <field name="parent_ssi">aspace_ref804</field>
+     <field name="parent_ssm">aspace_ref804</field>
+-    <field name="parent_unittitles_ssm">Series II: Notebooks and Planners
+-</field>
+-    <field name="parent_unittitles_teim">Series II: Notebooks and Planners
+-</field>
++    <field name="parent_unittitles_ssm">Series II: Notebooks and Planners&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series II: Notebooks and Planners&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Paul Langland Papers</field>
+@@ -34,9 +32,9 @@
+     <field name="location_ssm">Box: 5, Folder: 7</field>
+     <field name="location_si">Box: 5, Folder: 7</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+-    <field name="series_sim">Series II: Notebooks and Planners
+-</field>
++    <field name="series_sim">Series II: Notebooks and Planners&amp;#xA;</field>
+     <field name="series_si">Series II: Notebooks and Planners
+  &gt;&gt; Notebook</field>
+     <field name="heading_ssm">Notebook</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Martha Wilson Papers</field>
+     <field name="collection_unitid_ssm">MSS.175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Martha's Hair, Fall 1956 Age 8 1/2</field>
+-    <field name="unittitle_teim">Martha's Hair, Fall 1956 Age 8 1/2</field>
++    <field name="unittitle_ssm">Martha&#39;s Hair, Fall 1956 Age 8 1/2</field>
++    <field name="unittitle_teim">Martha&#39;s Hair, Fall 1956 Age 8 1/2</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/493204</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/493204</field>
+     <field name="unitdate_teim">1956</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 42, Folder: 12</field>
+     <field name="location_si">Box: 42, Folder: 12</field>
+     <field name="collection_teim">Martha Wilson Papers</field>
++    <field name="author_teim">Lydia Brawner (2011); Finding aid completed by Rachel Greer (2012).</field>
+     <field name="collection_unitid_teim">MSS.175</field>
+     <field name="series_sim">Series IV: Juvenilia</field>
+     <field name="series_sim">Subseries A: Drawings, Artifacts, Awards, etc.</field>
+-    <field name="series_si">Series IV: Juvenilia &gt;&gt; Subseries A: Drawings, Artifacts, Awards, etc. &gt;&gt; Martha's Hair, Fall 1956 Age 8 1/2</field>
+-    <field name="heading_ssm">Martha's Hair, Fall 1956 Age 8 1/2</field>
++    <field name="series_si">Series IV: Juvenilia &gt;&gt; Subseries A: Drawings, Artifacts, Awards, etc. &gt;&gt; Martha&#39;s Hair, Fall 1956 Age 8 1/2</field>
++    <field name="heading_ssm">Martha&#39;s Hair, Fall 1956 Age 8 1/2</field>
+     <field name="unitdate_ssm">1956</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3057</field>

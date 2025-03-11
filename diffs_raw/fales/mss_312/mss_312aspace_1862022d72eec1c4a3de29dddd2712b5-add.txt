@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1991-10-22/1991-10-22</field>
+     <field name="unitdate_normal_sim">1991-10-22/1991-10-22</field>
+     <field name="unitdate_teim">October 22, 1991</field>
+-    <field name="scopecontent_teim">From Fiona's 8mm Footage Repeated</field>
++    <field name="scopecontent_teim">From Fiona&#39;s 8mm Footage Repeated</field>
+     <field name="ref_ssi">aspace_1862022d72eec1c4a3de29dddd2712b5</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 135, U-matic: 312_1388</field>
+     <field name="location_si">Box: 135, U-matic: 312_1388</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; Paper Tiger Newstand Submaster</field>

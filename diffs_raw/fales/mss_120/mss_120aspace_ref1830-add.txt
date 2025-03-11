@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ubu Repertory Theater Script Collection</field>
+     <field name="collection_unitid_ssm">MSS.120</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Worms, Jeannine. 'Un air pur'</field>
+-    <field name="unittitle_teim">Worms, Jeannine. 'Un air pur'</field>
++    <field name="unittitle_ssm">Worms, Jeannine. &#39;Un air pur&#39;</field>
++    <field name="unittitle_teim">Worms, Jeannine. &#39;Un air pur&#39;</field>
+     <field name="unitid_teim">31142040610423</field>
+     <field name="unitid_ssm">31142040610423</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: I.23, Folder: 909</field>
+     <field name="location_si">Box: I.23, Folder: 909</field>
+     <field name="collection_teim">Ubu Repertory Theater Script Collection</field>
++    <field name="author_teim">Processed by Scott Spencer, Yookyung Kwon from Sept. 2001 through Feb. 2002</field>
+     <field name="collection_unitid_teim">MSS.120</field>
+     <field name="series_sim">Series I: French Manuscripts</field>
+-    <field name="series_si">Series I: French Manuscripts &gt;&gt; Worms, Jeannine. 'Un air pur'</field>
+-    <field name="heading_ssm">Worms, Jeannine. 'Un air pur'</field>
++    <field name="series_si">Series I: French Manuscripts &gt;&gt; Worms, Jeannine. &#39;Un air pur&#39;</field>
++    <field name="heading_ssm">Worms, Jeannine. &#39;Un air pur&#39;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">911</field>

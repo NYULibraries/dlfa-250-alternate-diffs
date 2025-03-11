@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1988/2003</field>
+     <field name="unitdate_normal_sim">1988/2003</field>
+     <field name="unitdate_inclusive_teim">1988-2003</field>
+-    <field name="scopecontent_teim">Subseries B contains adaptations of Straub's work for television, audio, and film.</field>
++    <field name="scopecontent_teim">Subseries B contains adaptations of Straub&#39;s work for television, audio, and film.</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Peter Straub Papers</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.185</field>
+     <field name="series_sim">Series VII: Works by Others</field>
+     <field name="series_si">Series VII: Works by Others &gt;&gt; Subseries B: Adaptations of Peter Straub Work</field>

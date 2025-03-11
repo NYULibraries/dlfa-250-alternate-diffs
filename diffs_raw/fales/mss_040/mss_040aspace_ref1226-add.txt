@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1220</field>
+     <field name="parent_ssm">aspace_ref1221</field>
+     <field name="parent_unittitles_ssm">Accretions 2003 - Series VI: Major Projects</field>
+-    <field name="parent_unittitles_ssm">Subseries A: "The Art and Flair of Mary Blair"</field>
++    <field name="parent_unittitles_ssm">Subseries A: &amp;#34;The Art and Flair of Mary Blair&amp;#34;</field>
+     <field name="parent_unittitles_teim">Accretions 2003 - Series VI: Major Projects</field>
+-    <field name="parent_unittitles_teim">Subseries A: "The Art and Flair of Mary Blair"</field>
++    <field name="parent_unittitles_teim">Subseries A: &amp;#34;The Art and Flair of Mary Blair&amp;#34;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John Canemaker Animation Collection</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 2003.VI.A.B.4, Folder: 169</field>
+     <field name="location_si">Box: 2003.VI.A.B.4, Folder: 169</field>
+     <field name="collection_teim">John Canemaker Animation Collection</field>
++    <field name="author_teim">Robert A. Landau (1992). Updated: Daniel Sokolow (1997), Michael Zimmer (2003-2004), YZ Chin (2008), and Timothy M. Woitas (2013).</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+     <field name="series_sim">Accretions 2003 - Series VI: Major Projects</field>
+-    <field name="series_sim">Subseries A: "The Art and Flair of Mary Blair"</field>
+-    <field name="series_si">Accretions 2003 - Series VI: Major Projects &gt;&gt; Subseries A: "The Art and Flair of Mary Blair" &gt;&gt; Barrier, Michael</field>
++    <field name="series_sim">Subseries A: &amp;#34;The Art and Flair of Mary Blair&amp;#34;</field>
++    <field name="series_si">Accretions 2003 - Series VI: Major Projects &gt;&gt; Subseries A: &#34;The Art and Flair of Mary Blair&#34; &gt;&gt; Barrier, Michael</field>
+     <field name="heading_ssm">Barrier, Michael</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1970/2012</field>
+     <field name="unitdate_normal_sim">1970/2012</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Series II contains journals and travelogues detailing Sparrow's journeys in Europe and India. Interspersed with the autobiographical information in these journals are notes and drafts of original poetry and fiction.</field>
++    <field name="scopecontent_teim">Series II contains journals and travelogues detailing Sparrow&#39;s journeys in Europe and India. Interspersed with the autobiographical information in these journals are notes and drafts of original poetry and fiction.</field>
+     <field name="ref_ssi">aspace_ref58</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sparrow Papers</field>
++    <field name="author_teim">Matt Moore</field>
+     <field name="collection_unitid_teim">MSS.096</field>
+     <field name="series_si">Series II: Journals/Travelogues</field>
+     <field name="heading_ssm">Series II: Journals/Travelogues</field>

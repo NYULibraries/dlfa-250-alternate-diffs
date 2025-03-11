@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hot Peaches Records</field>
+     <field name="collection_unitid_ssm">MSS.420</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"The Girls"</field>
+-    <field name="unittitle_teim">"The Girls"</field>
++    <field name="unittitle_ssm">&#34;The Girls&#34;</field>
++    <field name="unittitle_teim">&#34;The Girls&#34;</field>
+     <field name="unitid_teim">cuid39179</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/971823</field>
+     <field name="unitid_ssm">cuid39179</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">1971/2016</field>
+     <field name="unitdate_normal_sim">1971/2016</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="dao_teim">"The Girls": undated</field>
+-    <field name="dao_ssm">"The Girls": undated</field>
++    <field name="dao_teim">&#34;The Girls&#34;: undated</field>
++    <field name="dao_ssm">&#34;The Girls&#34;: undated</field>
+     <field name="ref_ssi">aspace_d218361d5db000cabed1497d70c9a54e</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,10 +35,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_420_ER_5</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Hot Peaches Records</field>
++    <field name="author_teim">Laurainne Ojo-Ohikuare, 2015, and Stacey Flatt with the assistance of Madison DeLaere, 2023 </field>
+     <field name="collection_unitid_teim">MSS.420</field>
+     <field name="series_sim">Series I. Recordings</field>
+-    <field name="series_si">Series I. Recordings &gt;&gt; "The Girls"</field>
+-    <field name="heading_ssm">"The Girls"</field>
++    <field name="series_si">Series I. Recordings &gt;&gt; &#34;The Girls&#34;</field>
++    <field name="heading_ssm">&#34;The Girls&#34;</field>
+     <field name="unitdate_start_sim">1971</field>
+     <field name="unitdate_start_ssm">1971</field>
+     <field name="unitdate_start_si">1971</field>

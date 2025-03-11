@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Abraham Ferraro &amp;amp; "The Knockout Artist"</field>
+-    <field name="unittitle_teim">Abraham Ferraro &amp; "The Knockout Artist"</field>
++    <field name="unittitle_ssm">Abraham Ferraro &amp; &#34;The Knockout Artist&#34;</field>
++    <field name="unittitle_teim">Abraham Ferraro &amp; &#34;The Knockout Artist&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/542799</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/542799</field>
+     <field name="unitdate_teim">July 16, 1999</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 66, Folder: 6</field>
+     <field name="location_si">Box: 66, Folder: 6</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series I: Exhibition Files</field>
+-    <field name="series_si">Series I: Exhibition Files &gt;&gt; Abraham Ferraro &amp;amp; "The Knockout Artist"</field>
+-    <field name="heading_ssm">Abraham Ferraro &amp; "The Knockout Artist"</field>
++    <field name="series_si">Series I: Exhibition Files &gt;&gt; Abraham Ferraro &amp; &#34;The Knockout Artist&#34;</field>
++    <field name="heading_ssm">Abraham Ferraro &amp; &#34;The Knockout Artist&#34;</field>
+     <field name="unitdate_ssm">July 16, 1999</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">950</field>

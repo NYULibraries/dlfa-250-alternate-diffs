@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Albrecht Schafer: "Arbeiten 97-01," " Berlin Alexanderplatz" </field>
+-    <field name="unittitle_teim">Albrecht Schafer: "Arbeiten 97-01," " Berlin Alexanderplatz" </field>
++    <field name="unittitle_ssm">Albrecht Schafer: &#34;Arbeiten 97-01,&#34; &#34; Berlin Alexanderplatz&#34; </field>
++    <field name="unittitle_teim">Albrecht Schafer: &#34;Arbeiten 97-01,&#34; &#34; Berlin Alexanderplatz&#34; </field>
+     <field name="unitid_teim">/repositories/3/archival_objects/543646</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/543646</field>
+     <field name="unitdate_teim">[2001]</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 115, Folder: 12</field>
+     <field name="location_si">Box: 115, Folder: 12</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series VI: Curator Files</field>
+-    <field name="series_si">Series VI: Curator Files &gt;&gt; Albrecht Schafer: "Arbeiten 97-01," " Berlin Alexanderplatz" </field>
+-    <field name="heading_ssm">Albrecht Schafer: "Arbeiten 97-01," " Berlin Alexanderplatz" </field>
++    <field name="series_si">Series VI: Curator Files &gt;&gt; Albrecht Schafer: &#34;Arbeiten 97-01,&#34; &#34; Berlin Alexanderplatz&#34; </field>
++    <field name="heading_ssm">Albrecht Schafer: &#34;Arbeiten 97-01,&#34; &#34; Berlin Alexanderplatz&#34; </field>
+     <field name="unitdate_ssm">[2001]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1797</field>

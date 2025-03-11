@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="phystech_teim">Description: 3-D Image of two 18th century war ships. Item same as 092.2.0320</field>
+     <field name="phystech_teim">Maker: none</field>
+-    <field name="phystech_teim">Where Made: back top left printed "Made in Taiwan"</field>
++    <field name="phystech_teim">Where Made: back top left printed &#34;Made in Taiwan&#34;</field>
+     <field name="phystech_teim">Materials: plastic, photographic image, cardboard, commercially produced</field>
+     <field name="phystech_teim">Dimensions: 10.5 x 13 inches</field>
+     <field name="ref_ssi">aspace_ref3501</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Box: 129, object: 092.2.0313</field>
+     <field name="location_si">Box: 129, object: 092.2.0313</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries A: General Objects and Artifacts</field>

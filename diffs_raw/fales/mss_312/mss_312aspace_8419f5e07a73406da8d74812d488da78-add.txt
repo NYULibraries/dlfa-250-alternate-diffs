@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1996/2001</field>
+     <field name="unitdate_normal_sim">1996/2001</field>
+     <field name="unitdate_inclusive_teim">Circa 1996-2001</field>
+-    <field name="scopecontent_teim">These tapes include "USA Incarcerated" and "Slave Ship Injustice"</field>
++    <field name="scopecontent_teim">These tapes include &#34;USA Incarcerated&#34; and &#34;Slave Ship Injustice&#34;</field>
+     <field name="ref_ssi">aspace_8419f5e07a73406da8d74812d488da78</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 145, MiniDV: 312_0744</field>
+     <field name="location_si">Box: 145, MiniDV: 312_0744</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;America Behind Bars&lt;/em&gt; -- Compilation Tapes</field>

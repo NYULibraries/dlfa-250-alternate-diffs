@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.368</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Children's Bookshop</field>
+-    <field name="unittitle_teim">The Children's Bookshop</field>
++    <field name="unittitle_ssm">The Children&#39;s Bookshop</field>
++    <field name="unittitle_teim">The Children&#39;s Bookshop</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/577589</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/577589</field>
+     <field name="unitdate_normal_ssm">1991/1991</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 2, Folder: 10</field>
+     <field name="location_si">Box: 2, Folder: 10</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Series I: Auction and Exhibit Materials</field>
+     <field name="series_sim">Subseries A: General Catalogs A-Z</field>
+-    <field name="series_si">Series I: Auction and Exhibit Materials &gt;&gt; Subseries A: General Catalogs A-Z &gt;&gt; The Children's Bookshop</field>
+-    <field name="heading_ssm">The Children's Bookshop</field>
++    <field name="series_si">Series I: Auction and Exhibit Materials &gt;&gt; Subseries A: General Catalogs A-Z &gt;&gt; The Children&#39;s Bookshop</field>
++    <field name="heading_ssm">The Children&#39;s Bookshop</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>
+     <field name="unitdate_start_si">1991</field>

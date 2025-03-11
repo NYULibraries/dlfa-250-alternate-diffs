@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1966/1966</field>
+     <field name="unitdate_normal_sim">1966/1966</field>
+     <field name="unitdate_inclusive_teim">1966</field>
+-    <field name="scopecontent_teim">Ozark Maid Candies. Ma's Cookin' by "Sis and Jake.". Osage Beach, MO: Ozark Maid Candies, 1966.</field>
++    <field name="scopecontent_teim">Ozark Maid Candies. Ma&#39;s Cookin&#39; by &#34;Sis and Jake.&#34;. Osage Beach, MO: Ozark Maid Candies, 1966.</field>
+     <field name="ref_ssi">aspace_ref547</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 29, Folder: 18</field>
+     <field name="location_si">Box: 29, Folder: 18</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Ozark Maid Candies</field>

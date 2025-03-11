@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1984/2002</field>
+     <field name="unitdate_normal_sim">1984/2002</field>
+     <field name="unitdate_inclusive_teim">1984-2002</field>
+-    <field name="scopecontent_teim">This accretion contains Bob Witz's financial records, correspondence, exhibition and performance announcements and submissions to Appearances Magazine.</field>
++    <field name="scopecontent_teim">This accretion contains Bob Witz&#39;s financial records, correspondence, exhibition and performance announcements and submissions to Appearances Magazine.</field>
+     <field name="ref_ssi">aspace_5056a48016d10f1e8f71b168e8c0ed63</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bob Witz Papers</field>
++    <field name="author_teim">Daniel Sokolow in 1997. Updated in 2012 by Laura Newsome.</field>
+     <field name="collection_unitid_teim">MSS.080</field>
+     <field name="series_si">Series IX: 2001 Accretion</field>
+     <field name="heading_ssm">Series IX: 2001 Accretion</field>

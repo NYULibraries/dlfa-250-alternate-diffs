@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/547906</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547906</field>
+     <field name="unitdate_teim">1978-83, undated</field>
+-    <field name="scopecontent_teim">Black Teenagers, Tina L'Hotsky, Emma &amp; Emily, Tucker Johnson, Niki - California, Steven's Birthday - Halloween Party, Steve &amp; Muney Wedding in Z., Steve &amp; Muney - Party at Clarice's, Joe, Mira - Stephanie's Birthday Party '82, Daria - Mixed, John Ashbery '82, Daria's Show, Emma's Play, Phoebe in Mexico.</field>
++    <field name="scopecontent_teim">Black Teenagers, Tina L&#39;Hotsky, Emma &amp; Emily, Tucker Johnson, Niki - California, Steven&#39;s Birthday - Halloween Party, Steve &amp; Muney Wedding in Z., Steve &amp; Muney - Party at Clarice&#39;s, Joe, Mira - Stephanie&#39;s Birthday Party &#39;82, Daria - Mixed, John Ashbery &#39;82, Daria&#39;s Show, Emma&#39;s Play, Phoebe in Mexico.</field>
+     <field name="ref_ssi">aspace_ref4874</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">binder: A13</field>
+     <field name="location_si">binder: A13</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series III: Photographic Material</field>
+     <field name="series_sim">Subseries A: Slide Cases</field>

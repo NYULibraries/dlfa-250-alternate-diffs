@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/513458</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Content: </field>
+-    <field name="scopecontent_teim">Side A: Big Wheel, Hushed Tones, Jesus is Coming Soon (to a theatre near you), That was the Liquor Talkin'</field>
++    <field name="scopecontent_teim">Side A: Big Wheel, Hushed Tones, Jesus is Coming Soon (to a theatre near you), That was the Liquor Talkin&#39;</field>
+     <field name="phystech_teim">Format: 1/4 in. Audiocassette</field>
+     <field name="ref_ssi">aspace_ref197</field>
+     <field name="repository_ssi">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 2, Media: ID: 213.0087</field>
+     <field name="location_si">Box: 2, Media: ID: 213.0087</field>
+     <field name="collection_teim">Peter Dougherty Collection</field>
++    <field name="author_teim">Caroline Partamian with Rhyannon J. Rodriguez, 2012.</field>
+     <field name="collection_unitid_teim">MSS.213</field>
+     <field name="series_sim">Series I: Sound recordings</field>
+     <field name="series_sim">Subseries A: Audio Works</field>

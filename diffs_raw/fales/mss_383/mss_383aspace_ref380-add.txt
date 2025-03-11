@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+     <field name="collection_unitid_ssm">MSS.383</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">La Marescialla d'Ancre</field>
+-    <field name="unittitle_teim">La Marescialla d'Ancre</field>
++    <field name="unittitle_ssm">La Marescialla d&#39;Ancre</field>
++    <field name="unittitle_teim">La Marescialla d&#39;Ancre</field>
+     <field name="unitdate_teim">1839</field>
+     <field name="scopecontent_teim">Performance City and Venue:  Padova: Teatro Nuovo</field>
+     <field name="scopecontent_teim">Performance Season/Date: Fiera dal santo 1839</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 7, Folder: 5</field>
+     <field name="location_si">Box: 7, Folder: 5</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series XLIII: Nini</field>
+-    <field name="series_si">Series XLIII: Nini &gt;&gt; La Marescialla d'Ancre</field>
+-    <field name="heading_ssm">La Marescialla d'Ancre</field>
++    <field name="series_si">Series XLIII: Nini &gt;&gt; La Marescialla d&#39;Ancre</field>
++    <field name="heading_ssm">La Marescialla d&#39;Ancre</field>
+     <field name="unitdate_ssm">1839</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">224</field>

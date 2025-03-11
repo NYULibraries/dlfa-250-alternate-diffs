@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/426594</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="phystech_teim">Description: Flexible gorilla doll with open mouth, elastic loop on head for hanging; Note: not freestanding</field>
+-    <field name="phystech_teim">Maker: left foot-stamped "Gigantor"</field>
++    <field name="phystech_teim">Maker: left foot-stamped &#34;Gigantor&#34;</field>
+     <field name="phystech_teim">Where Made: Hong Kong--stamped right foot</field>
+     <field name="phystech_teim">Materials: rubber, elastic</field>
+     <field name="phystech_teim">Dimensions: 7.5 x 3 x 1.75 inches</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Box: 185, object: 092.2.0191</field>
+     <field name="location_si">Box: 185, object: 092.2.0191</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries A: General Objects and Artifacts</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Shu Lea Cheang Papers</field>
+     <field name="collection_unitid_ssm">MSS.381</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jane's Love Mess -- Audio Recording</field>
+-    <field name="unittitle_teim">Jane's Love Mess -- Audio Recording</field>
++    <field name="unittitle_ssm">Jane&#39;s Love Mess -- Audio Recording</field>
++    <field name="unittitle_teim">Jane&#39;s Love Mess -- Audio Recording</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/922579</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/922579</field>
+     <field name="unitdate_normal_ssm">1993-06-13/1993-06-13</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Box: 6, audiocassette: 381.0009</field>
+     <field name="location_si">Box: 6, audiocassette: 381.0009</field>
+     <field name="collection_teim">Shu Lea Cheang Papers</field>
++    <field name="author_teim">Stacey Flatt and Amy C. Vo</field>
+     <field name="collection_unitid_teim">MSS.381</field>
+-    <field name="series_si">Jane's Love Mess -- Audio Recording</field>
+-    <field name="heading_ssm">Jane's Love Mess -- Audio Recording</field>
++    <field name="series_si">Jane&#39;s Love Mess -- Audio Recording</field>
++    <field name="heading_ssm">Jane&#39;s Love Mess -- Audio Recording</field>
+     <field name="unitdate_ssm">1993-06-13</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">149</field>

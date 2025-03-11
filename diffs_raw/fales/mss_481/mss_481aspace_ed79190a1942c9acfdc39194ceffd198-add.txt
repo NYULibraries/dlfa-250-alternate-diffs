@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1970/1995</field>
+     <field name="unitdate_normal_sim">1970/1995</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Featuring "Jay, Jett, Steve, Hagen, Tift, etc."</field>
++    <field name="scopecontent_teim">Featuring &#34;Jay, Jett, Steve, Hagen, Tift, etc.&#34;</field>
+     <field name="ref_ssi">aspace_ed79190a1942c9acfdc39194ceffd198</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Box: 53, Quarter_Inch_Audio_Reel: 481_1306</field>
+     <field name="location_si">Box: 53, Quarter_Inch_Audio_Reel: 481_1306</field>
+     <field name="collection_teim">Bill Dixon Papers</field>
++    <field name="author_teim">Stacey Flatt, Rachel Mahre, Lyric Evans-Hunter, and Maddie DeLaere</field>
+     <field name="collection_unitid_teim">MSS.481</field>
+     <field name="series_sim">Series II. Bennington College</field>
+     <field name="series_sim">Subseries II.B: Performance and Event Recordings</field>

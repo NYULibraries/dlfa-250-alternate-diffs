@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Martin Wong Papers</field>
+     <field name="collection_unitid_ssm">MSS.102</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Writing: "Famous Missing Person"</field>
+-    <field name="unittitle_teim">Writing: "Famous Missing Person"</field>
++    <field name="unittitle_ssm">Writing: &#34;Famous Missing Person&#34;</field>
++    <field name="unittitle_teim">Writing: &#34;Famous Missing Person&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/926018</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/926018</field>
+     <field name="ref_ssi">aspace_304c0fbc649fa9944e11820c12850e7c</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Flat-File-Folder: 1</field>
+     <field name="location_si">Flat-File-Folder: 1</field>
+     <field name="collection_teim">Martin Wong Papers</field>
++    <field name="author_teim">Jenny Hillyer. Updated by Joseph Gallucci, 2007.  Accretion processed by Colin Wells, 2009.</field>
+     <field name="collection_unitid_teim">MSS.102</field>
+     <field name="series_sim">Series IV: Biographical</field>
+-    <field name="series_si">Series IV: Biographical &gt;&gt; Writing: "Famous Missing Person"</field>
+-    <field name="heading_ssm">Writing: "Famous Missing Person"</field>
++    <field name="series_si">Series IV: Biographical &gt;&gt; Writing: &#34;Famous Missing Person&#34;</field>
++    <field name="heading_ssm">Writing: &#34;Famous Missing Person&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">474</field>
+   </doc>

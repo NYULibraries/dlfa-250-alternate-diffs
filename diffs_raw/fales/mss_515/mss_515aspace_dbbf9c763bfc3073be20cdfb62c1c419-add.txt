@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Children's Museum of Manhattan</field>
+-    <field name="unittitle_teim">Children's Museum of Manhattan</field>
++    <field name="unittitle_ssm">Children&#39;s Museum of Manhattan</field>
++    <field name="unittitle_teim">Children&#39;s Museum of Manhattan</field>
+     <field name="unitdate_normal_ssm">1992/1993</field>
+     <field name="unitdate_normal_teim">1992/1993</field>
+     <field name="unitdate_normal_sim">1992/1993</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 9, Folder: 28</field>
+     <field name="location_si">Box: 9, Folder: 28</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series VIII. Other NYFA Programs</field>
+     <field name="series_sim">Subseries B. Artists in Residence</field>
+-    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries B. Artists in Residence &gt;&gt; Children's Museum of Manhattan</field>
+-    <field name="heading_ssm">Children's Museum of Manhattan</field>
++    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries B. Artists in Residence &gt;&gt; Children&#39;s Museum of Manhattan</field>
++    <field name="heading_ssm">Children&#39;s Museum of Manhattan</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

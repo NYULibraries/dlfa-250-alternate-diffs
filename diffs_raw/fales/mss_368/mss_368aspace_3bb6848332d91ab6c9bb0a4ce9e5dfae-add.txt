@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.368</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Alice's Adventures in Wonderland&lt;/em&gt; in emoji</field>
+-    <field name="unittitle_teim">Alice's Adventures in Wonderland in emoji</field>
++    <field name="unittitle_ssm">&lt;em&gt;Alice&#39;s Adventures in Wonderland&lt;/em&gt; in emoji</field>
++    <field name="unittitle_teim">Alice&#39;s Adventures in Wonderland in emoji</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/763620</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/763620</field>
+     <field name="unitdate_normal_ssm">2012/2015</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Flat-File-Folder: 5</field>
+     <field name="location_si">Flat-File-Folder: 5</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+     <field name="series_sim">Subseries C: Posters</field>
+-    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries C: Posters &gt;&gt; &lt;em&gt;Alice's Adventures in Wonderland&lt;/em&gt; in emoji</field>
+-    <field name="heading_ssm">Alice's Adventures in Wonderland in emoji</field>
++    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries C: Posters &gt;&gt; &lt;em&gt;Alice&#39;s Adventures in Wonderland&lt;/em&gt; in emoji</field>
++    <field name="heading_ssm">Alice&#39;s Adventures in Wonderland in emoji</field>
+     <field name="unitdate_start_sim">2012</field>
+     <field name="unitdate_start_ssm">2012</field>
+     <field name="unitdate_start_si">2012</field>

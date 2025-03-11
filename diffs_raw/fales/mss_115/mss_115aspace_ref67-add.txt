@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_teim">1/21/1983</field>
+     <field name="phystech_teim">Format: DVD</field>
+     <field name="phystech_teim">TRT: 00:33:00</field>
+-    <field name="phystech_teim">Original Format: 3/4" Umatic</field>
++    <field name="phystech_teim">Original Format: 3/4&#34; Umatic</field>
+     <field name="phystech_teim">Source: ID: 115.0001</field>
+     <field name="ref_ssi">aspace_ref67</field>
+     <field name="repository_ssi">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">case: 115.0038</field>
+     <field name="location_si">case: 115.0038</field>
+     <field name="collection_teim">April Palmieri Papers</field>
++    <field name="author_teim">Processed by: Matt Moore, 2001.</field>
+     <field name="collection_unitid_teim">MSS.115</field>
+     <field name="series_sim">Series IIA: Videorecordings [Access Copies]</field>
+     <field name="series_si">Series IIA: Videorecordings [Access Copies] &gt;&gt; Pulsallama at Danceteria, 1/21/1983</field>

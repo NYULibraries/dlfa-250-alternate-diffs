@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,11 +7,11 @@
+     <field name="parent_ssm">aspace_ref121</field>
+     <field name="parent_ssm">aspace_ref221</field>
+     <field name="parent_ssm">aspace_ref1146</field>
+-    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+-    <field name="parent_unittitles_ssm">Series B: Ezra L'Hommedieu</field>
++    <field name="parent_unittitles_ssm">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="parent_unittitles_ssm">Series B: Ezra L&amp;#39;Hommedieu</field>
+     <field name="parent_unittitles_ssm">Subseries 4: Court and Legal Case Documents</field>
+-    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+-    <field name="parent_unittitles_teim">Series B: Ezra L'Hommedieu</field>
++    <field name="parent_unittitles_teim">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="parent_unittitles_teim">Series B: Ezra L&amp;#39;Hommedieu</field>
+     <field name="parent_unittitles_teim">Subseries 4: Court and Legal Case Documents</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,7 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Court Record - List of Cases &amp;amp; Actions by Term</field>
++    <field name="unittitle_ssm">Court Record - List of Cases &amp; Actions by Term</field>
+     <field name="unittitle_teim">Court Record - List of Cases &amp; Actions by Term</field>
+     <field name="unitid_teim">cuid461</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/508370</field>
+@@ -41,11 +41,12 @@
+     <field name="location_si">Box: 16, Folder: 30</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+-    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+-    <field name="series_sim">Series B: Ezra L'Hommedieu</field>
++    <field name="series_sim">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="series_sim">Series B: Ezra L&amp;#39;Hommedieu</field>
+     <field name="series_sim">Subseries 4: Court and Legal Case Documents</field>
+-    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; Series B: Ezra L'Hommedieu &gt;&gt; Subseries 4: Court and Legal Case Documents &gt;&gt; Court Record - List of Cases &amp;amp; Actions by Term</field>
++    <field name="series_si">Record Group II: L&#39;Hommedieu Family &gt;&gt; Series B: Ezra L&#39;Hommedieu &gt;&gt; Subseries 4: Court and Legal Case Documents &gt;&gt; Court Record - List of Cases &amp; Actions by Term</field>
+     <field name="heading_ssm">Court Record - List of Cases &amp; Actions by Term</field>
+     <field name="unitdate_start_sim">1759</field>
+     <field name="unitdate_start_ssm">1759</field>

@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid6948</field>
+     <field name="unitid_ssm">cuid6948</field>
+     <field name="unitdate_bulk_teim">undated</field>
+-    <field name="scopecontent_teim">Footage shot in Nelson's apartment of a cat (Douglas), Nelson in the mirror, his painted fingernails, and plants hanging from chains.</field>
++    <field name="scopecontent_teim">Footage shot in Nelson&#39;s apartment of a cat (Douglas), Nelson in the mirror, his painted fingernails, and plants hanging from chains.</field>
+     <field name="phystech_teim">Original format: Super 8mm film, Duration: 4 min.</field>
+     <field name="ref_ssi">aspace_e8e3254d167c9a3c50a11d2665a4fbe0</field>
+     <field name="repository_ssi">fales</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: mss357_cuid6948</field>
+     <field name="location_si">Box: Digitized Access Files, file: mss357_cuid6948</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series II: Film</field>
+     <field name="series_si">Series II: Film &gt;&gt; Chains + plants, Doug, nails</field>
+     <field name="heading_ssm">Chains + plants, Doug, nails</field>
+-    <field name="unitdate_ssm">Inclusive,  ; undated</field>
++    <field name="unitdate_ssm">Inclusive, ; undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

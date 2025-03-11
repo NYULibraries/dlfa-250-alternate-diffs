@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Jaime Davidovich Collection</field>
+     <field name="collection_unitid_ssm">MSS.155</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Sisley magazine, cover feature: "Argentina te quiero!"</field>
+-    <field name="unittitle_teim">Sisley magazine, cover feature: "Argentina te quiero!"</field>
++    <field name="unittitle_ssm">Sisley magazine, cover feature: &#34;Argentina te quiero!&#34;</field>
++    <field name="unittitle_teim">Sisley magazine, cover feature: &#34;Argentina te quiero!&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/479301</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/479301</field>
+     <field name="unitdate_teim">1988</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 16, Folder: 804</field>
+     <field name="location_si">Box: 16, Folder: 804</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series VIII: Source Material</field>
+     <field name="series_sim">Subseries B: Subject Files</field>
+-    <field name="series_si">Series VIII: Source Material &gt;&gt; Subseries B: Subject Files &gt;&gt; Sisley magazine, cover feature: "Argentina te quiero!"</field>
+-    <field name="heading_ssm">Sisley magazine, cover feature: "Argentina te quiero!"</field>
++    <field name="series_si">Series VIII: Source Material &gt;&gt; Subseries B: Subject Files &gt;&gt; Sisley magazine, cover feature: &#34;Argentina te quiero!&#34;</field>
++    <field name="heading_ssm">Sisley magazine, cover feature: &#34;Argentina te quiero!&#34;</field>
+     <field name="unitdate_ssm">1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">948</field>

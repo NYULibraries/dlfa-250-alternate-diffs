@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_inclusive_teim">1961, 1970</field>
+     <field name="scopecontent_teim">Planters Peanut Oil. Appliance Cooking for All Seasons. Place of publication unknown: Planters Peanut Oil, undated.</field>
+     <field name="scopecontent_teim"> Planters. Beard, James. How to Cook Better with Planters French-Process Peanut Oil. Place of publication unknown: Planters Peanuts, a Division of Standard Brands, Inc., 1961.</field>
+-    <field name="scopecontent_teim"> Planters. Mr. Peanut's Guide to Nutrition. New York, NY: Standard Brands, Inc., 1970.</field>
++    <field name="scopecontent_teim"> Planters. Mr. Peanut&#39;s Guide to Nutrition. New York, NY: Standard Brands, Inc., 1970.</field>
+     <field name="scopecontent_teim"> Planters. Post Card, mentions Planters Website. Place of publication unknown: publisher unknown, undated.</field>
+     <field name="ref_ssi">aspace_ref580</field>
+     <field name="repository_ssi">fales</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 31, Folder: 2</field>
+     <field name="location_si">Box: 31, Folder: 2</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Planters Peanut Oil--Standard Brands, Inc.</field>

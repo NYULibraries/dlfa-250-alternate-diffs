@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Geoffrey T. Hellman Papers</field>
+     <field name="collection_unitid_ssm">MSS.050</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Museum of Natural History Research "Can We Save America" by Henry Osborn</field>
+-    <field name="unittitle_teim">Museum of Natural History Research "Can We Save America" by Henry Osborn</field>
++    <field name="unittitle_ssm">Museum of Natural History Research &#34;Can We Save America&#34; by Henry Osborn</field>
++    <field name="unittitle_teim">Museum of Natural History Research &#34;Can We Save America&#34; by Henry Osborn</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/402981</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/402981</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,12 @@
+     <field name="location_ssm">Box: 38, Folder: 157</field>
+     <field name="location_si">Box: 38, Folder: 157</field>
+     <field name="collection_teim">Geoffrey T. Hellman Papers</field>
++    <field name="author_teim">Frank Walker, Jeanne Mixon, and Marilyn Petit. 
++ Additional assistance: Marion Casey, Joan Grant, Russell James, William Koss, Robert Mcdermott, John-Paul Richiuso, and Pamela Smith.</field>
+     <field name="collection_unitid_teim">MSS.050</field>
+     <field name="series_sim">Oversize - Series 3: Subject Category</field>
+-    <field name="series_si">Oversize - Series 3: Subject Category &gt;&gt; Museum of Natural History Research "Can We Save America" by Henry Osborn</field>
+-    <field name="heading_ssm">Museum of Natural History Research "Can We Save America" by Henry Osborn</field>
++    <field name="series_si">Oversize - Series 3: Subject Category &gt;&gt; Museum of Natural History Research &#34;Can We Save America&#34; by Henry Osborn</field>
++    <field name="heading_ssm">Museum of Natural History Research &#34;Can We Save America&#34; by Henry Osborn</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">585</field>

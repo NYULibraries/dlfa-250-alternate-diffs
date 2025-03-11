@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Body and the Archive: Artists' Files</field>
+-    <field name="unittitle_teim">Body and the Archive: Artists' Files</field>
++    <field name="unittitle_ssm">Body and the Archive: Artists&#39; Files</field>
++    <field name="unittitle_teim">Body and the Archive: Artists&#39; Files</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/543030</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/543030</field>
+     <field name="unitdate_teim">January 18, 2003</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 81, Folder: 8</field>
+     <field name="location_si">Box: 81, Folder: 8</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series I: Exhibition Files</field>
+-    <field name="series_si">Series I: Exhibition Files &gt;&gt; Body and the Archive: Artists' Files</field>
+-    <field name="heading_ssm">Body and the Archive: Artists' Files</field>
++    <field name="series_si">Series I: Exhibition Files &gt;&gt; Body and the Archive: Artists&#39; Files</field>
++    <field name="heading_ssm">Body and the Archive: Artists&#39; Files</field>
+     <field name="unitdate_ssm">January 18, 2003</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1181</field>

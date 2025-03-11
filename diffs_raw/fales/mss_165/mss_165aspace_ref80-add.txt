@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Café Nicholson Archive</field>
+     <field name="collection_unitid_ssm">MSS.165</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Article from Diversion, "Café Nicholson" by Geri Trotta</field>
+-    <field name="unittitle_teim">Article from Diversion, "Café Nicholson" by Geri Trotta</field>
++    <field name="unittitle_ssm">Article from Diversion, &#34;Café Nicholson&#34; by Geri Trotta</field>
++    <field name="unittitle_teim">Article from Diversion, &#34;Café Nicholson&#34; by Geri Trotta</field>
+     <field name="unitdate_teim">1994</field>
+     <field name="ref_ssi">aspace_ref80</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 77</field>
+     <field name="location_si">Box: 2, Folder: 77</field>
+     <field name="collection_teim">Café Nicholson Archive</field>
++    <field name="author_teim">Processed by Jenny Pachucki, 2006.</field>
+     <field name="collection_unitid_teim">MSS.165</field>
+     <field name="series_sim">Series III: Printed Materials</field>
+     <field name="series_sim">Subseries A: Articles, Reviews, Mentions</field>
+-    <field name="series_si">Series III: Printed Materials &gt;&gt; Subseries A: Articles, Reviews, Mentions &gt;&gt; Article from Diversion, "Café Nicholson" by Geri Trotta</field>
+-    <field name="heading_ssm">Article from Diversion, "Café Nicholson" by Geri Trotta</field>
++    <field name="series_si">Series III: Printed Materials &gt;&gt; Subseries A: Articles, Reviews, Mentions &gt;&gt; Article from Diversion, &#34;Café Nicholson&#34; by Geri Trotta</field>
++    <field name="heading_ssm">Article from Diversion, &#34;Café Nicholson&#34; by Geri Trotta</field>
+     <field name="unitdate_ssm">1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>

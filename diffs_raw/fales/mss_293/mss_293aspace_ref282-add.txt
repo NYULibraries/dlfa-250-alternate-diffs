@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,10 +23,12 @@
+     <field name="unitid_ssm">ID: 293.0139_a</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/550621</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Colorized edits of "Big B".</field>
++    <field name="scopecontent_teim">Colorized edits of &#34;Big B&#34;.</field>
+     <field name="scopecontent_teim">Big B</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 11 minutes</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 11 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref282</field>
+     <field name="repository_ssi">fales</field>
+@@ -38,6 +40,7 @@
+     <field name="location_ssm">case: 293.0139_a</field>
+     <field name="location_si">case: 293.0139_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

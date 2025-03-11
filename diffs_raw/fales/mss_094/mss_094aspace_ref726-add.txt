@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref15</field>
+     <field name="parent_ssm">aspace_ref388</field>
+     <field name="parent_unittitles_ssm">Series A: Arts</field>
+-    <field name="parent_unittitles_ssm">Subseries 3: Judson Poet's Theater</field>
++    <field name="parent_unittitles_ssm">Subseries 3: Judson Poet&amp;#39;s Theater</field>
+     <field name="parent_unittitles_teim">Series A: Arts</field>
+-    <field name="parent_unittitles_teim">Subseries 3: Judson Poet's Theater</field>
++    <field name="parent_unittitles_teim">Subseries 3: Judson Poet&amp;#39;s Theater</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Judson Memorial Church Archive</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 13, Folder: 2</field>
+     <field name="location_si">Box: 13, Folder: 2</field>
+     <field name="collection_teim">Judson Memorial Church Archive</field>
++    <field name="author_teim">Tania Friedel and Matt Moore, 2000-01; 2001 accretion processed by Gwynneth Malin. Processing of media materials by Brent Phillips, 2006. 2009 Accretion processed by Nicholas Martin, 2010. Scrapbooks and yearbooks re-processed by Kristen Joy Owens, 2015.</field>
+     <field name="collection_unitid_teim">MSS.094</field>
+     <field name="series_sim">Series A: Arts</field>
+-    <field name="series_sim">Subseries 3: Judson Poet's Theater</field>
+-    <field name="series_si">Series A: Arts &gt;&gt; Subseries 3: Judson Poet's Theater &gt;&gt; Scripts-Carmines, Al. Camp Meeting 1976</field>
++    <field name="series_sim">Subseries 3: Judson Poet&amp;#39;s Theater</field>
++    <field name="series_si">Series A: Arts &gt;&gt; Subseries 3: Judson Poet&#39;s Theater &gt;&gt; Scripts-Carmines, Al. Camp Meeting 1976</field>
+     <field name="heading_ssm">Scripts-Carmines, Al. Camp Meeting 1976</field>
+     <field name="unitdate_ssm">1976</field>
+     <field name="date_range_sim">undated &amp; other</field>

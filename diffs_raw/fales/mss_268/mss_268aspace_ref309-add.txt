@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Johnny Science Papers</field>
+     <field name="collection_unitid_ssm">MSS.268</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Priapus Incarnate" by Dan Austen [Illustration on Wood]</field>
+-    <field name="unittitle_teim">"Priapus Incarnate" by Dan Austen [Illustration on Wood]</field>
++    <field name="unittitle_ssm">&#34;Priapus Incarnate&#34; by Dan Austen [Illustration on Wood]</field>
++    <field name="unittitle_teim">&#34;Priapus Incarnate&#34; by Dan Austen [Illustration on Wood]</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/535073</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/535073</field>
+     <field name="unitdate_teim">June 1994</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 8, object: ID: 268.2.0004</field>
+     <field name="location_si">Box: 8, object: ID: 268.2.0004</field>
+     <field name="collection_teim">Johnny Science Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2012. </field>
+     <field name="collection_unitid_teim">MSS.268</field>
+     <field name="series_sim">OVERSIZE Series IV: Objects</field>
+-    <field name="series_si">OVERSIZE Series IV: Objects &gt;&gt; "Priapus Incarnate" by Dan Austen [Illustration on Wood]</field>
+-    <field name="heading_ssm">"Priapus Incarnate" by Dan Austen [Illustration on Wood]</field>
++    <field name="series_si">OVERSIZE Series IV: Objects &gt;&gt; &#34;Priapus Incarnate&#34; by Dan Austen [Illustration on Wood]</field>
++    <field name="heading_ssm">&#34;Priapus Incarnate&#34; by Dan Austen [Illustration on Wood]</field>
+     <field name="unitdate_ssm">June 1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">419</field>

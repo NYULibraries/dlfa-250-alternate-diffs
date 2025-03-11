@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/549074</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/549074</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">"Summer: Crossed Legs".</field>
++    <field name="scopecontent_teim">&#34;Summer: Crossed Legs&#34;.</field>
+     <field name="phystech_teim">Contains one source photograph mounted on foam board.</field>
+     <field name="ref_ssi">aspace_ref7102</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 66, Folder: 8</field>
+     <field name="location_si">Box: 66, Folder: 8</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series V: Source Material</field>
+     <field name="series_sim">Subseries A: Source File</field>

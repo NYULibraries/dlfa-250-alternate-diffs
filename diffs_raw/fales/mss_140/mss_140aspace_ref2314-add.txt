@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Subseries B: Legal</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/466243</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/466243</field>
+-    <field name="scopecontent_teim">Legal Records of Richard Hell's court cases</field>
++    <field name="scopecontent_teim">Legal Records of Richard Hell&#39;s court cases</field>
+     <field name="ref_ssi">aspace_ref2314</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Richard Hell Papers</field>
++    <field name="author_teim">Leif Sorensen, June 2004 - March 2005, and Vanessa Sparling, April - August 2005. Media updates by Rhyannon Rodriguez, December 2009.</field>
+     <field name="collection_unitid_teim">MSS.140</field>
+     <field name="series_sim">Series X: Personal and Business Files</field>
+     <field name="series_si">Series X: Personal and Business Files &gt;&gt; Subseries B: Legal</field>

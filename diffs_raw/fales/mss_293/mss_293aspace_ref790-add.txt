@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,8 +24,10 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550753</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Rehearsal of the play Gypsy New York</field>
+-    <field name="phystech_teim">Black &amp; White/Sound</field>
+-    <field name="phystech_teim">Duration: 21 minutes</field>
++    <field name="phystech_teim">Black &amp; White/Sound
++</field>
++    <field name="phystech_teim">Duration: 21 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref790</field>
+     <field name="repository_ssi">fales</field>
+@@ -37,6 +39,7 @@
+     <field name="location_ssm">case: 293.0271_a</field>
+     <field name="location_si">case: 293.0271_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>

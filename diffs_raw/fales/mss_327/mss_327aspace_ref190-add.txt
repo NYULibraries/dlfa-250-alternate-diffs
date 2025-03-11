@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Heather Matarazzo presents "I Could Go On Singing," - Introduction and Q&amp;amp;A</field>
+-    <field name="unittitle_teim">Heather Matarazzo presents "I Could Go On Singing," - Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">Heather Matarazzo presents &#34;I Could Go On Singing,&#34; - Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">Heather Matarazzo presents &#34;I Could Go On Singing,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0049</field>
+     <field name="unitid_ssm">ID: 327.0049</field>
+     <field name="unitdate_normal_ssm">2012/2012</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">June 23, 2012</field>
+     <field name="scopecontent_teim">Featured: Adam Baran (Introduction, Q&amp;A), Ira Sachs (Introduction, Q&amp;A), Heather Matarazzo (Introduction, Q&amp;A)</field>
+     <field name="scopecontent_teim">Videographer: Alex Diaconis</field>
+-    <field name="scopecontent_teim">Program Content: Actress Heather Matarazzo presents Judy Garland's last film "I Could Go On Singing." For Matarazzo, the film conveys "the experience I've had of feeling personally so uncomfortable in my own skin, continually asking others to validate who I am, and it truly never being enough."</field>
++    <field name="scopecontent_teim">Program Content: Actress Heather Matarazzo presents Judy Garland&#39;s last film &#34;I Could Go On Singing.&#34; For Matarazzo, the film conveys &#34;the experience I&#39;ve had of feeling personally so uncomfortable in my own skin, continually asking others to validate who I am, and it truly never being enough.&#34;</field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: unknown</field>
+     <field name="ref_ssi">aspace_ref190</field>
+@@ -38,11 +38,12 @@
+     <field name="location_ssm">Box: 2, Media: ID: 327.0049</field>
+     <field name="location_si">Box: 2, Media: ID: 327.0049</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Heather Matarazzo presents "I Could Go On Singing," - Introduction and Q&amp;amp;A</field>
+-    <field name="heading_ssm">Heather Matarazzo presents "I Could Go On Singing," - Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Heather Matarazzo presents &#34;I Could Go On Singing,&#34; - Introduction and Q&amp;A</field>
++    <field name="heading_ssm">Heather Matarazzo presents &#34;I Could Go On Singing,&#34; - Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2012</field>
+     <field name="unitdate_start_ssm">2012</field>
+     <field name="unitdate_start_si">2012</field>

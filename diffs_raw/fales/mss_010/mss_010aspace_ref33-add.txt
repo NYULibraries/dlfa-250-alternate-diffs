@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Caterpillar Archive</field>
+     <field name="collection_unitid_ssm">MSS.010</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Manuscripts: "W-Z", Bloomington</field>
+-    <field name="unittitle_teim">Manuscripts: "W-Z", Bloomington</field>
++    <field name="unittitle_ssm">Manuscripts: &#34;W-Z&#34;, Bloomington</field>
++    <field name="unittitle_teim">Manuscripts: &#34;W-Z&#34;, Bloomington</field>
+     <field name="unitdate_teim">1958-1960</field>
+     <field name="ref_ssi">aspace_ref33</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 22</field>
+     <field name="location_si">Box: 2, Folder: 22</field>
+     <field name="collection_teim">Caterpillar Archive</field>
++    <field name="author_teim">Processed by Amber Creger, 1999.</field>
+     <field name="collection_unitid_teim">MSS.010</field>
+     <field name="series_sim">Series I: Clayton Eshleman, correspondence, manuscripts, and related material</field>
+-    <field name="series_si">Series I: Clayton Eshleman, correspondence, manuscripts, and related material &gt;&gt; Manuscripts: "W-Z", Bloomington</field>
+-    <field name="heading_ssm">Manuscripts: "W-Z", Bloomington</field>
++    <field name="series_si">Series I: Clayton Eshleman, correspondence, manuscripts, and related material &gt;&gt; Manuscripts: &#34;W-Z&#34;, Bloomington</field>
++    <field name="heading_ssm">Manuscripts: &#34;W-Z&#34;, Bloomington</field>
+     <field name="unitdate_ssm">1958-1960</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>
