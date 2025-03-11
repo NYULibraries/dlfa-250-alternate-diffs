@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Woodman Taylor collection</field>
+     <field name="collection_unitid_ssm">AD.MC.079</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Di'van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
+-    <field name="unittitle_teim">Di'van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
++    <field name="unittitle_ssm">Di&#39;van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
++    <field name="unittitle_teim">Di&#39;van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
+     <field name="unitdate_normal_ssm">2018-12/2018-12</field>
+     <field name="unitdate_normal_teim">2018-12/2018-12</field>
+     <field name="unitdate_normal_sim">2018-12/2018-12</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 4, folder: 22</field>
+     <field name="location_si">box: 4, folder: 22</field>
+     <field name="collection_teim">Woodman Taylor collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.079</field>
+     <field name="series_sim">Various:  serial publications</field>
+-    <field name="series_si">Various:  serial publications &gt;&gt; Di'van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
+-    <field name="heading_ssm">Di'van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
++    <field name="series_si">Various:  serial publications &gt;&gt; Di&#39;van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
++    <field name="heading_ssm">Di&#39;van:  a Journal of Accounts.  No. 5. (Sydney:  Divan Art Journal and University of NSW).  ISSN 2207-1563</field>
+     <field name="unitdate_ssm">December 2018</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">81</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,9 @@
+     <field name="collection_ssm">Salwa Mikdadi papers</field>
+     <field name="collection_unitid_ssm">AD.MC.022</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Forms:  artist's consent and others
+-</field>
+-    <field name="unittitle_teim">Forms:  artist's consent and others
++    <field name="unittitle_ssm">Forms:  artist&#39;s consent and others
++</field>
++    <field name="unittitle_teim">Forms:  artist&#39;s consent and others
+ </field>
+     <field name="unitdate_normal_ssm">1992/1999</field>
+     <field name="unitdate_normal_teim">1992/1999</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">box: 31, folder: 3</field>
+     <field name="location_si">box: 31, folder: 3</field>
+     <field name="collection_teim">Salwa Mikdadi papers</field>
++    <field name="author_teim">Brad Bauer, Robert Gordon, Muhammad Shehryar Hamid</field>
+     <field name="collection_unitid_teim">AD.MC.022</field>
+     <field name="series_sim">ICWA records</field>
+     <field name="series_sim">Administrative</field>
+-    <field name="series_si">ICWA records &gt;&gt; Administrative &gt;&gt; Forms:  artist's consent and others
+-</field>
+-    <field name="heading_ssm">Forms:  artist's consent and others
++    <field name="series_si">ICWA records &gt;&gt; Administrative &gt;&gt; Forms:  artist&#39;s consent and others
++</field>
++    <field name="heading_ssm">Forms:  artist&#39;s consent and others
+ </field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>

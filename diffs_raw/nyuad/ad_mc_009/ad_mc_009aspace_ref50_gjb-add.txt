@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Max Kreutzberger Palestine collection</field>
+     <field name="collection_unitid_ssm">AD.MC.009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty's Government in the United Kingdom.</field>
+-    <field name="unittitle_teim">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty's Government in the United Kingdom.</field>
++    <field name="unittitle_ssm">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty&#39;s Government in the United Kingdom.</field>
++    <field name="unittitle_teim">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty&#39;s Government in the United Kingdom.</field>
+     <field name="unitdate_normal_ssm">1946/1946</field>
+     <field name="unitdate_normal_teim">1946/1946</field>
+     <field name="unitdate_normal_sim">1946/1946</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 3, folder: 5</field>
+     <field name="location_si">box: 3, folder: 5</field>
+     <field name="collection_teim">Max Kreutzberger Palestine collection</field>
++    <field name="author_teim">Charlotte Gundry</field>
+     <field name="collection_unitid_teim">AD.MC.009</field>
+     <field name="series_sim">Series IV: Anglo-American Committee of Enquiry</field>
+-    <field name="series_si">Series IV: Anglo-American Committee of Enquiry &gt;&gt; Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty's Government in the United Kingdom.</field>
+-    <field name="heading_ssm">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty's Government in the United Kingdom.</field>
++    <field name="series_si">Series IV: Anglo-American Committee of Enquiry &gt;&gt; Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty&#39;s Government in the United Kingdom.</field>
++    <field name="heading_ssm">Anglo-American Committee of Inquiry. Report to the United States Government, His Majesty&#39;s Government in the United Kingdom.</field>
+     <field name="unitdate_start_sim">1946</field>
+     <field name="unitdate_start_ssm">1946</field>
+     <field name="unitdate_start_si">1946</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="scopecontent_teim">Continuation of winter city-scape footage, Yerevan, circa December 1992 or 
+ 1993.  Continuation of segment 116, showing lone figure walking on street, snow-
+ covered side streets, boulevards, ice coming out of gutter pipes, food kiosk advertising
+-McDonald's, electrified buses travelling on streets.  Time: 09:48</field>
++McDonald&#39;s, electrified buses travelling on streets.  Time: 09:48</field>
+     <field name="ref_ssi">aspace_ref149_sjh</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">object: 117</field>
+     <field name="location_si">object: 117</field>
+     <field name="collection_teim">Vardan Hovhannisyan video collection</field>
++    <field name="author_teim">Brad Bauer and Gurgen Tadevosyan</field>
+     <field name="collection_unitid_teim">AD.MC.001</field>
+     <field name="series_sim">Videos</field>
+     <field name="series_si">Videos &gt;&gt; Yerevan, winter, during fuel blockade, part 12 (09:48)</field>

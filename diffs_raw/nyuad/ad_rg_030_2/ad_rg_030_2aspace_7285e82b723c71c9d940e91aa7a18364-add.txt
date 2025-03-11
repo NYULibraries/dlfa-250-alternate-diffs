@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">Submission anon</field>
+     <field name="unitid_ssm">Submission anon</field>
+     <field name="unitdate_teim">n.d.</field>
+-    <field name="scopecontent_teim">[anonymous donation of assumed children's drawings]</field>
++    <field name="scopecontent_teim">[anonymous donation of assumed children&#39;s drawings]</field>
+     <field name="ref_ssi">aspace_7285e82b723c71c9d940e91aa7a18364</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">box: 1, folder: 5</field>
+     <field name="location_si">box: 1, folder: 5</field>
+     <field name="collection_teim">NYU Abu Dhabi Covid Archive</field>
++    <field name="author_teim">Lauren Kata</field>
+     <field name="collection_unitid_teim">AD.RG.030.2</field>
+     <field name="series_sim">NYUAD Community Participatory Covid Archive</field>
+     <field name="series_sim">Physical Item Submissions</field>

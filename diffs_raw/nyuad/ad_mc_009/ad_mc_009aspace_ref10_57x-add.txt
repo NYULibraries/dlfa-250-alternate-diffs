@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Max Kreutzberger Palestine collection</field>
+     <field name="collection_unitid_ssm">AD.MC.009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Statements Made on Behalf of His Majest's Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
+-    <field name="unittitle_teim">Statements Made on Behalf of His Majest's Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
++    <field name="unittitle_ssm">Statements Made on Behalf of His Majest&#39;s Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
++    <field name="unittitle_teim">Statements Made on Behalf of His Majest&#39;s Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
+     <field name="unitdate_normal_ssm">1918/1939</field>
+     <field name="unitdate_normal_ssm">1939/1939</field>
+     <field name="unitdate_normal_teim">1918/1939</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">box: 1, folder: 9</field>
+     <field name="location_si">box: 1, folder: 9</field>
+     <field name="collection_teim">Max Kreutzberger Palestine collection</field>
++    <field name="author_teim">Charlotte Gundry</field>
+     <field name="collection_unitid_teim">AD.MC.009</field>
+     <field name="series_sim">Series I: Command Papers</field>
+-    <field name="series_si">Series I: Command Papers &gt;&gt; Statements Made on Behalf of His Majest's Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
+-    <field name="heading_ssm">Statements Made on Behalf of His Majest's Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
++    <field name="series_si">Series I: Command Papers &gt;&gt; Statements Made on Behalf of His Majest&#39;s Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
++    <field name="heading_ssm">Statements Made on Behalf of His Majest&#39;s Government during the Year 1918 in Regard to the Future Status of Certain Parts of the Ottoman Empire.</field>
+     <field name="unitdate_start_sim">1918</field>
+     <field name="unitdate_start_sim">1939</field>
+     <field name="unitdate_start_ssm">1918</field>

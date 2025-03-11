@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">NYU Abu Dhabi Student Groups and Student Activities</field>
+     <field name="collection_unitid_ssm">AD.RG .009.3-1-1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Women's Leadership Network (WLN)</field>
+-    <field name="unittitle_teim">Women's Leadership Network (WLN)</field>
++    <field name="unittitle_ssm">Women&#39;s Leadership Network (WLN)</field>
++    <field name="unittitle_teim">Women&#39;s Leadership Network (WLN)</field>
+     <field name="unitdate_normal_ssm">2017/2017</field>
+     <field name="unitdate_normal_teim">2017/2017</field>
+     <field name="unitdate_normal_sim">2017/2017</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: E-Records, folder: AD_RG_009.3.1.1_Student Group Posters</field>
+     <field name="location_si">box: E-Records, folder: AD_RG_009.3.1.1_Student Group Posters</field>
+     <field name="collection_teim">NYU Abu Dhabi Student Groups and Student Activities</field>
++    <field name="author_teim">Lauren Kata, with assistance from Deanndra Kidd and Khusanboy Kotibjonov</field>
+     <field name="collection_unitid_teim">AD.RG .009.3-1-1</field>
+     <field name="series_sim">Student Group Posters</field>
+-    <field name="series_si">Student Group Posters &gt;&gt; Women's Leadership Network (WLN)</field>
+-    <field name="heading_ssm">Women's Leadership Network (WLN)</field>
++    <field name="series_si">Student Group Posters &gt;&gt; Women&#39;s Leadership Network (WLN)</field>
++    <field name="heading_ssm">Women&#39;s Leadership Network (WLN)</field>
+     <field name="unitdate_start_sim">2017</field>
+     <field name="unitdate_start_ssm">2017</field>
+     <field name="unitdate_start_si">2017</field>

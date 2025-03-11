@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Frauke Heard-Bey and David Heard collection</field>
+     <field name="collection_unitid_ssm">AD.MC.064</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Khaleej Times:  Photography '85, Khaleej Times Special Report</field>
+-    <field name="unittitle_teim">Khaleej Times:  Photography '85, Khaleej Times Special Report</field>
++    <field name="unittitle_ssm">Khaleej Times:  Photography &#39;85, Khaleej Times Special Report</field>
++    <field name="unittitle_teim">Khaleej Times:  Photography &#39;85, Khaleej Times Special Report</field>
+     <field name="unitdate_normal_ssm">1984-12-15/1984-12-15</field>
+     <field name="unitdate_normal_teim">1984-12-15/1984-12-15</field>
+     <field name="unitdate_normal_sim">1984-12-15/1984-12-15</field>
+@@ -29,11 +29,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Frauke Heard-Bey and David Heard collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.064</field>
+     <field name="series_sim">Periodicals and news digests</field>
+     <field name="series_sim">Newspapers:  special editions and supplements</field>
+-    <field name="series_si">Periodicals and news digests &gt;&gt; Newspapers:  special editions and supplements &gt;&gt; Khaleej Times:  Photography '85, Khaleej Times Special Report</field>
+-    <field name="heading_ssm">Khaleej Times:  Photography '85, Khaleej Times Special Report</field>
++    <field name="series_si">Periodicals and news digests &gt;&gt; Newspapers:  special editions and supplements &gt;&gt; Khaleej Times:  Photography &#39;85, Khaleej Times Special Report</field>
++    <field name="heading_ssm">Khaleej Times:  Photography &#39;85, Khaleej Times Special Report</field>
+     <field name="unitdate_ssm">Dec. 15, 1984</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1719</field>

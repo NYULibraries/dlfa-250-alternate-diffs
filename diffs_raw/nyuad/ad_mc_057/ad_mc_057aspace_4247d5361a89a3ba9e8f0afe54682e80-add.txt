@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Emirates Bird Records Committee records</field>
+     <field name="collection_unitid_ssm">AD.MC.057</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Bird Holiday" trips</field>
+-    <field name="unittitle_teim">"Bird Holiday" trips</field>
++    <field name="unittitle_ssm">&#34;Bird Holiday&#34; trips</field>
++    <field name="unittitle_teim">&#34;Bird Holiday&#34; trips</field>
+     <field name="ref_ssi">aspace_4247d5361a89a3ba9e8f0afe54682e80</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">box: 6, folder: 29</field>
+     <field name="location_si">box: 6, folder: 29</field>
+     <field name="collection_teim">Emirates Bird Records Committee records</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.057</field>
+     <field name="series_sim">Group bird record forms:  by year</field>
+     <field name="series_sim">1999</field>
+-    <field name="series_si">Group bird record forms:  by year &gt;&gt; 1999 &gt;&gt; "Bird Holiday" trips</field>
+-    <field name="heading_ssm">"Bird Holiday" trips</field>
++    <field name="series_si">Group bird record forms:  by year &gt;&gt; 1999 &gt;&gt; &#34;Bird Holiday&#34; trips</field>
++    <field name="heading_ssm">&#34;Bird Holiday&#34; trips</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">170</field>
+   </doc>

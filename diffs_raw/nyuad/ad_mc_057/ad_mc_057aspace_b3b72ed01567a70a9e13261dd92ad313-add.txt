@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Emirates Bird Records Committee records</field>
+     <field name="collection_unitid_ssm">AD.MC.057</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jebel Ali; Sir Abu Nu'air</field>
+-    <field name="unittitle_teim">Jebel Ali; Sir Abu Nu'air</field>
++    <field name="unittitle_ssm">Jebel Ali; Sir Abu Nu&#39;air</field>
++    <field name="unittitle_teim">Jebel Ali; Sir Abu Nu&#39;air</field>
+     <field name="ref_ssi">aspace_b3b72ed01567a70a9e13261dd92ad313</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -25,11 +25,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Emirates Bird Records Committee records</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.057</field>
+     <field name="series_sim">Oversize [to be processed]</field>
+     <field name="series_sim">ENHG:  Birds likely to be seen, by location and month</field>
+-    <field name="series_si">Oversize [to be processed] &gt;&gt; ENHG:  Birds likely to be seen, by location and month &gt;&gt; Jebel Ali; Sir Abu Nu'air</field>
+-    <field name="heading_ssm">Jebel Ali; Sir Abu Nu'air</field>
++    <field name="series_si">Oversize [to be processed] &gt;&gt; ENHG:  Birds likely to be seen, by location and month &gt;&gt; Jebel Ali; Sir Abu Nu&#39;air</field>
++    <field name="heading_ssm">Jebel Ali; Sir Abu Nu&#39;air</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">372</field>
+   </doc>

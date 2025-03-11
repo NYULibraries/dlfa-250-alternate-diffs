@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_ssm">1973-09-20/1973-09-20</field>
+     <field name="unitdate_normal_teim">1973-09-20/1973-09-20</field>
+     <field name="unitdate_normal_sim">1973-09-20/1973-09-20</field>
+-    <field name="unitdate_teim">20 September 1973 / 23 Sha'aban 1393</field>
++    <field name="unitdate_teim">20 September 1973 / 23 Sha&#39;aban 1393</field>
+     <field name="ref_ssi">aspace_e4bd4f2b3f8872c7a11cfa474b0ee733</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">box: 13, folder: 28</field>
+     <field name="location_si">box: 13, folder: 28</field>
+     <field name="collection_teim">Frauke Heard-Bey and David Heard collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.064</field>
+     <field name="series_sim">Government publications</field>
+     <field name="series_sim">Abu Dhabi emirate:  al-Jarīdah al-rasmīyah = Official Gazette</field>
+     <field name="series_si">Government publications &gt;&gt; Abu Dhabi emirate:  al-Jarīdah al-rasmīyah = Official Gazette &gt;&gt; al-Jarīdah al-rasmīyah (Official Gazette). Year 2, No. 28</field>
+     <field name="heading_ssm">al-Jarīdah al-rasmīyah (Official Gazette). Year 2, No. 28</field>
+-    <field name="unitdate_ssm">20 September 1973 / 23 Sha'aban 1393</field>
++    <field name="unitdate_ssm">20 September 1973 / 23 Sha&#39;aban 1393</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">274</field>
+   </doc>

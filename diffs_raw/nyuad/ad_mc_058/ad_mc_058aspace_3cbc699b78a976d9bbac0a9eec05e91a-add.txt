@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John B. Kelly papers</field>
+     <field name="collection_unitid_ssm">AD.MC.058</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"A South Arabian episode...", Middle Eastern Studies</field>
+-    <field name="unittitle_teim">"A South Arabian episode...", Middle Eastern Studies</field>
++    <field name="unittitle_ssm">&#34;A South Arabian episode...&#34;, Middle Eastern Studies</field>
++    <field name="unittitle_teim">&#34;A South Arabian episode...&#34;, Middle Eastern Studies</field>
+     <field name="unitdate_normal_ssm">1971-01/1971-01</field>
+     <field name="unitdate_normal_teim">1971-01/1971-01</field>
+     <field name="unitdate_normal_sim">1971-01/1971-01</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 17, folder: 16</field>
+     <field name="location_si">box: 17, folder: 16</field>
+     <field name="collection_teim">John B. Kelly papers</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.058</field>
+     <field name="series_sim">Publications and writings</field>
+     <field name="series_sim">Book reviews</field>
+-    <field name="series_si">Publications and writings &gt;&gt; Book reviews &gt;&gt; "A South Arabian episode...", Middle Eastern Studies</field>
+-    <field name="heading_ssm">"A South Arabian episode...", Middle Eastern Studies</field>
++    <field name="series_si">Publications and writings &gt;&gt; Book reviews &gt;&gt; &#34;A South Arabian episode...&#34;, Middle Eastern Studies</field>
++    <field name="heading_ssm">&#34;A South Arabian episode...&#34;, Middle Eastern Studies</field>
+     <field name="unitdate_ssm">January 1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">229</field>

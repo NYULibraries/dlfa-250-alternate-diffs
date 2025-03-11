@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">M.H.G. Bell collection</field>
+     <field name="collection_unitid_ssm">AD.MC.074</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Itinerary:  Miss Bell's journey</field>
+-    <field name="unittitle_teim">Itinerary:  Miss Bell's journey</field>
++    <field name="unittitle_ssm">Itinerary:  Miss Bell&#39;s journey</field>
++    <field name="unittitle_teim">Itinerary:  Miss Bell&#39;s journey</field>
+     <field name="unitdate_normal_ssm">1911-10/1912-03</field>
+     <field name="unitdate_normal_teim">1911-10/1912-03</field>
+     <field name="unitdate_normal_sim">1911-10/1912-03</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">box: 1, folder: 1</field>
+     <field name="location_si">box: 1, folder: 1</field>
+     <field name="collection_teim">M.H.G. Bell collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.074</field>
+-    <field name="series_si">Itinerary:  Miss Bell's journey</field>
+-    <field name="heading_ssm">Itinerary:  Miss Bell's journey</field>
++    <field name="series_si">Itinerary:  Miss Bell&#39;s journey</field>
++    <field name="heading_ssm">Itinerary:  Miss Bell&#39;s journey</field>
+     <field name="unitdate_ssm">Inclusive, October 1911 - March 1912</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

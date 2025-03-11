@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">NYU Abu Dhabi Early Materials Collection</field>
+     <field name="collection_unitid_ssm">AD.RG.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Students: "NYUAD Times," Issues 1 and 2, ca. 2010</field>
+-    <field name="unittitle_teim">Students: "NYUAD Times," Issues 1 and 2, ca. 2010</field>
++    <field name="unittitle_ssm">Students: &#34;NYUAD Times,&#34; Issues 1 and 2, ca. 2010</field>
++    <field name="unittitle_teim">Students: &#34;NYUAD Times,&#34; Issues 1 and 2, ca. 2010</field>
+     <field name="ref_ssi">aspace_9a7ed95803045270250f6a07ba90c6b7</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">box: 1</field>
+     <field name="location_si">box: 1</field>
+     <field name="collection_teim">NYU Abu Dhabi Early Materials Collection</field>
++    <field name="author_teim">Lauren Kata</field>
+     <field name="collection_unitid_teim">AD.RG.001</field>
+-    <field name="series_si">Students: "NYUAD Times," Issues 1 and 2, ca. 2010</field>
+-    <field name="heading_ssm">Students: "NYUAD Times," Issues 1 and 2, ca. 2010</field>
++    <field name="series_si">Students: &#34;NYUAD Times,&#34; Issues 1 and 2, ca. 2010</field>
++    <field name="heading_ssm">Students: &#34;NYUAD Times,&#34; Issues 1 and 2, ca. 2010</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">24</field>
+   </doc>

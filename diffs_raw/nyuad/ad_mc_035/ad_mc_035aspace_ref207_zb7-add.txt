@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref1413_oz7</field>
+     <field name="parent_ssm">aspace_ref1_59f</field>
+     <field name="parent_ssm">aspace_ref1413_oz7</field>
+-    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78's </field>
++    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
+     <field name="parent_unittitles_ssm">Lulu Orchestra</field>
+-    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78's </field>
++    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
+     <field name="parent_unittitles_teim">Lulu Orchestra</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Andrew Eisenberg collection of East African commercial sound recordings</field>
+     <field name="collection_unitid_ssm">AD.MC.035</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lulu Orchestra / Husseini &amp;amp; Siti Masika &amp;amp; Party: Juba</field>
++    <field name="unittitle_ssm">Lulu Orchestra / Husseini &amp; Siti Masika &amp; Party: Juba</field>
+     <field name="unittitle_teim">Lulu Orchestra / Husseini &amp; Siti Masika &amp; Party: Juba</field>
+     <field name="unitdate_normal_ssm">1955/1965</field>
+     <field name="unitdate_normal_teim">1955/1965</field>
+@@ -40,10 +40,11 @@
+     <field name="location_si">folder: 142</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
++    <field name="author_teim">Emma Chiu and Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+-    <field name="series_sim">Series I: Private collector (anonymous) - 78's </field>
++    <field name="series_sim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
+     <field name="series_sim">Lulu Orchestra</field>
+-    <field name="series_si">Series I: Private collector (anonymous) - 78's  &gt;&gt; Lulu Orchestra &gt;&gt; Lulu Orchestra / Husseini &amp;amp; Siti Masika &amp;amp; Party: Juba</field>
++    <field name="series_si">Series I: Private collector (anonymous) - 78&#39;s  &gt;&gt; Lulu Orchestra &gt;&gt; Lulu Orchestra / Husseini &amp; Siti Masika &amp; Party: Juba</field>
+     <field name="heading_ssm">Lulu Orchestra / Husseini &amp; Siti Masika &amp; Party: Juba</field>
+     <field name="unitdate_start_sim">1955</field>
+     <field name="unitdate_start_ssm">1955</field>

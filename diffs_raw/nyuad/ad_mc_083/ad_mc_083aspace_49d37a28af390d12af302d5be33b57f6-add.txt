@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_083</field>
+     <field name="parent_ssi">aspace_ccda9a3bb1670446d4240e966e6add7e</field>
+     <field name="parent_ssm">aspace_ccda9a3bb1670446d4240e966e6add7e</field>
+-    <field name="parent_unittitles_ssm">Report:  "Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms," compiled by Captain R.A. Davidson</field>
+-    <field name="parent_unittitles_teim">Report:  "Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms," compiled by Captain R.A. Davidson</field>
++    <field name="parent_unittitles_ssm">Report:  &amp;#34;Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms,&amp;#34; compiled by Captain R.A. Davidson</field>
++    <field name="parent_unittitles_teim">Report:  &amp;#34;Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms,&amp;#34; compiled by Captain R.A. Davidson</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">R.A. (Roy Austin) Davidson papers</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">box: 1, folder: 8</field>
+     <field name="location_si">box: 1, folder: 8</field>
+     <field name="collection_teim">R.A. (Roy Austin) Davidson papers</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.083</field>
+-    <field name="series_sim">Report:  "Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms," compiled by Captain R.A. Davidson</field>
+-    <field name="series_si">Report:  "Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms," compiled by Captain R.A. Davidson &gt;&gt; Diary (pages 91-93)</field>
++    <field name="series_sim">Report:  &amp;#34;Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms,&amp;#34; compiled by Captain R.A. Davidson</field>
++    <field name="series_si">Report:  &#34;Report of a Reconnaissance of the Red Sea Coast, and means suggested for the prevention of illicit traffic in arms,&#34; compiled by Captain R.A. Davidson &gt;&gt; Diary (pages 91-93)</field>
+     <field name="heading_ssm">Diary (pages 91-93)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

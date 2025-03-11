@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Andrew Eisenberg collection of East African commercial sound recordings</field>
+     <field name="collection_unitid_ssm">AD.MC.035</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Moh'd Kadara: Harufu ya Sini</field>
+-    <field name="unittitle_teim">Moh'd Kadara: Harufu ya Sini</field>
++    <field name="unittitle_ssm">Moh&#39;d Kadara: Harufu ya Sini</field>
++    <field name="unittitle_teim">Moh&#39;d Kadara: Harufu ya Sini</field>
+     <field name="unitdate_teim">N/A</field>
+     <field name="phystech_teim">Original format:  78 rpm shellac disc.  
+ Duration:  3:57.</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">folder: 409</field>
+     <field name="location_si">folder: 409</field>
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
++    <field name="author_teim">Emma Chiu and Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+     <field name="series_sim">Series II: Jamal Hafidh Jahadhmy collection</field>
+     <field name="series_sim">Mohamad Kadara</field>
+-    <field name="series_si">Series II: Jamal Hafidh Jahadhmy collection &gt;&gt; Mohamad Kadara &gt;&gt; Moh'd Kadara: Harufu ya Sini</field>
+-    <field name="heading_ssm">Moh'd Kadara: Harufu ya Sini</field>
++    <field name="series_si">Series II: Jamal Hafidh Jahadhmy collection &gt;&gt; Mohamad Kadara &gt;&gt; Moh&#39;d Kadara: Harufu ya Sini</field>
++    <field name="heading_ssm">Moh&#39;d Kadara: Harufu ya Sini</field>
+     <field name="unitdate_ssm">N/A</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">519</field>
