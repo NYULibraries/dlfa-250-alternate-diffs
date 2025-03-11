@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Discover&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Discover
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Discover&lt;/em&gt;</field>
++    <field name="unittitle_teim">Discover</field>
+     <field name="unitdate_inclusive_teim">1979-1980</field>
+     <field name="title_teim">Discover</field>
+     <field name="title_ssm">Discover</field>
+@@ -37,12 +33,8 @@
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series II.C. Chairman of the Board and Chief Executive Officer: Andrew Heiskell Files</field>
+     <field name="series_sim">Subseries II.C.2. Administrative Files</field>
+-    <field name="series_si">Series II.C. Chairman of the Board and Chief Executive Officer: Andrew Heiskell Files &gt;&gt; Subseries II.C.2. Administrative Files &gt;&gt; 
+-      &lt;em&gt;Discover&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Discover
+-    </field>
++    <field name="series_si">Series II.C. Chairman of the Board and Chief Executive Officer: Andrew Heiskell Files &gt;&gt; Subseries II.C.2. Administrative Files &gt;&gt; &lt;em&gt;Discover&lt;/em&gt;</field>
++    <field name="heading_ssm">Discover</field>
+     <field name="unitdate_ssm">Inclusive, 1979-1980</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">480</field>

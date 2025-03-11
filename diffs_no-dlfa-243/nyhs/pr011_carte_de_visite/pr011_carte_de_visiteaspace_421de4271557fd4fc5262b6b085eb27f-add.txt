@@ -1,0 +1,60 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,38 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Photographs: O&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Photographs: O
+-    </field>
+-    <field name="scopecontent_teim">Oakley, Henry A.
+-O'Boyle, Fred
+-O'Brien, William Smith
+-O'Collins
+-O'Conor, Charles
+-Oehleman, Matilda
+-Olcott, E.
+-Oliver, Andrew (2)
+-Olmstead, Dwight
+-Olney
+-Opdyke (2)
+-Ord, Edward O.
+-O'Reilly, Henry
+-Ormes, D.
+-Orr
+-Osborn, Carrie
+-Osgood
+-Osgood, Samuel
+-Osgood, Mrs. Samuel
+-O'Shay
+-Oswald, Jonathan
+-Oswald, Mrs. Jonathan
+-Overbury
+-Owen, George
+-Owens, David
+-Owney</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Photographs: O&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Photographs: O</field>
++    <field name="scopecontent_teim">Oakley, Henry A. O'Boyle, Fred O'Brien, William Smith O'Collins O'Conor, Charles Oehleman, Matilda Olcott, E. Oliver, Andrew (2) Olmstead, Dwight Olney Opdyke (2) Ord, Edward O. O'Reilly, Henry Ormes, D. Orr Osborn, Carrie Osgood Osgood, Samuel Osgood, Mrs. Samuel O'Shay Oswald, Jonathan Oswald, Mrs. Jonathan Overbury Owen, George Owens, David Owney</field>
+     <field name="ref_ssi">aspace_421de4271557fd4fc5262b6b085eb27f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -60,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_sim">Subseries I.A. Photographs</field>
+-    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.A. Photographs &gt;&gt; 
+-      &lt;strong&gt;Photographs: O&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Photographs: O
+-    </field>
++    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.A. Photographs &gt;&gt; &lt;strong&gt;Photographs: O&lt;/strong&gt;</field>
++    <field name="heading_ssm">Photographs: O</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>
+   </doc>

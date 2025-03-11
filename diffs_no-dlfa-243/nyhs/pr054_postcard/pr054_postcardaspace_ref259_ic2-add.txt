@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,17 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Waterways&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Waterways
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Waterways&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Waterways</field>
+     <field name="scopecontent_teim">Harbor views</field>
+-    <field name="scopecontent_teim">Rivers
+-East River
+-Harlem River
+-Hudson River</field>
++    <field name="scopecontent_teim">Rivers East River Harlem River Hudson River</field>
+     <field name="scopecontent_teim">Piers &amp; docks</field>
+     <field name="scopecontent_teim">Ferries, Boats, Ships</field>
+     <field name="ref_ssi">aspace_ref259_ic2</field>
+@@ -41,12 +34,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Waterways&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Waterways
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Waterways&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Waterways</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">300</field>
+   </doc>

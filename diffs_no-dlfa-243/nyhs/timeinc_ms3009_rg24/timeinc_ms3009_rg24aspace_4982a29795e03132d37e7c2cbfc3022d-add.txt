@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,12 +19,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Fortune&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Fortune
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Fortune&lt;/em&gt;</field>
++    <field name="unittitle_teim">Fortune</field>
+     <field name="unitdate_inclusive_teim">1955-1957</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_ssm">Fortune</field>
+@@ -41,12 +37,8 @@
+     <field name="series_sim">Series IV. Promotion and Public Affairs Department Records</field>
+     <field name="series_sim">Subseries IV.A. Director Robert Sweeney Files</field>
+     <field name="series_sim">Subsubseries III.A.3. Corporate Publicity, Life Special Projects, and Time Public Affairs Files</field>
+-    <field name="series_si">Series IV. Promotion and Public Affairs Department Records &gt;&gt; Subseries IV.A. Director Robert Sweeney Files &gt;&gt; Subsubseries III.A.3. Corporate Publicity, Life Special Projects, and Time Public Affairs Files &gt;&gt; 
+-      &lt;em&gt;Fortune&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Fortune
+-    </field>
++    <field name="series_si">Series IV. Promotion and Public Affairs Department Records &gt;&gt; Subseries IV.A. Director Robert Sweeney Files &gt;&gt; Subsubseries III.A.3. Corporate Publicity, Life Special Projects, and Time Public Affairs Files &gt;&gt; &lt;em&gt;Fortune&lt;/em&gt;</field>
++    <field name="heading_ssm">Fortune</field>
+     <field name="unitdate_ssm">Inclusive, 1955-1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">333</field>

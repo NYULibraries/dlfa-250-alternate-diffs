@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Ann Feinstein collection of New York City prints</field>
+     <field name="collection_unitid_ssm">PR 300</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;West Washington Market&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      West Washington Market
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;West Washington Market&lt;/em&gt;</field>
++    <field name="unittitle_teim">West Washington Market</field>
+     <field name="unitdate_teim">1903</field>
+     <field name="ref_ssi">aspace_ref64_gr9</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 300</field>
+     <field name="series_sim">Series I: Fine Art Prints</field>
+     <field name="series_sim">Subseries I.8: MEILATZ, Charles (1864-1919)</field>
+-    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.8: MEILATZ, Charles (1864-1919) &gt;&gt; 
+-      &lt;em&gt;West Washington Market&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      West Washington Market
+-    </field>
++    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.8: MEILATZ, Charles (1864-1919) &gt;&gt; &lt;em&gt;West Washington Market&lt;/em&gt;</field>
++    <field name="heading_ssm">West Washington Market</field>
+     <field name="unitdate_ssm">1903</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">42</field>

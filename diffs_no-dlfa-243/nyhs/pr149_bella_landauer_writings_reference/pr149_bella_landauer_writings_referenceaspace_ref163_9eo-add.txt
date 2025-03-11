@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,9 +17,9 @@
+     <field name="collection_unitid_ssm">PR 149</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;em&gt;Some embossed American tradecards. &lt;/em&gt; New York: Privately printed at the Harbor Press, 1941.</field>
+-    <field name="unittitle_teim">Some embossed American tradecards.  New York: Privately printed at the Harbor Press, 1941.</field>
+-    <field name="title_teim">Some embossed American tradecards. </field>
+-    <field name="title_ssm">Some embossed American tradecards. </field>
++    <field name="unittitle_teim">Some embossed American tradecards. New York: Privately printed at the Harbor Press, 1941.</field>
++    <field name="title_teim">Some embossed American tradecards.</field>
++    <field name="title_ssm">Some embossed American tradecards.</field>
+     <field name="ref_ssi">aspace_ref163_9eo</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,7 +33,7 @@
+     <field name="series_sim">Series III: Publications</field>
+     <field name="series_sim">Subseries III: Compilations</field>
+     <field name="series_si">Series III: Publications &gt;&gt; Subseries III: Compilations &gt;&gt; &lt;em&gt;Some embossed American tradecards. &lt;/em&gt; New York: Privately printed at the Harbor Press, 1941.</field>
+-    <field name="heading_ssm">Some embossed American tradecards.  New York: Privately printed at the Harbor Press, 1941.</field>
++    <field name="heading_ssm">Some embossed American tradecards. New York: Privately printed at the Harbor Press, 1941.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">69</field>
+   </doc>

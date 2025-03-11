@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 20</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Set 1&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Set 1
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Set 1&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Set 1</field>
+     <field name="unitdate_teim">193x-196x</field>
+     <field name="ref_ssi">aspace_ref1021_62l</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">NYHS-RG 20</field>
+     <field name="series_sim">Series III. Curatorial and Administration Files</field>
+     <field name="series_sim">Subseries III.A. General Files</field>
+-    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.A. General Files &gt;&gt; 
+-      &lt;strong&gt;Set 1&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Set 1
+-    </field>
++    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.A. General Files &gt;&gt; &lt;strong&gt;Set 1&lt;/strong&gt;</field>
++    <field name="heading_ssm">Set 1</field>
+     <field name="unitdate_ssm">193x-196x</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">497</field>

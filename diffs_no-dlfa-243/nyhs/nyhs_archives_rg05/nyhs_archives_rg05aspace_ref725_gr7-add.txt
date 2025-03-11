@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+     <field name="collection_unitid_ssm">NYHS-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;In Brief&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      In Brief
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;In Brief&lt;/em&gt;</field>
++    <field name="unittitle_teim">In Brief</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="scopecontent_teim">Includes a color transparency of George W. Flagg's Lady Jane Grey Preparing for Execution and a slide of a print concerning the purchase of Manhattan Island.</field>
+     <field name="ref_ssi">aspace_ref725_gr7</field>
+@@ -32,12 +28,8 @@
+     <field name="collection_teim">New-York Historical Society pictorial archive</field>
+     <field name="collection_unitid_teim">NYHS-RG 5</field>
+     <field name="series_sim">Series IX: Object Images</field>
+-    <field name="series_si">Series IX: Object Images &gt;&gt; 
+-      &lt;em&gt;In Brief&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      In Brief
+-    </field>
++    <field name="series_si">Series IX: Object Images &gt;&gt; &lt;em&gt;In Brief&lt;/em&gt;</field>
++    <field name="heading_ssm">In Brief</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">386</field>

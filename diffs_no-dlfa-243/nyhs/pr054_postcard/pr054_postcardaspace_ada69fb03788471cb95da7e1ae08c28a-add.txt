@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,18 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Buildings, named (A)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Buildings, named (A)
+-    </field>
+-    <field name="scopecontent_teim">Adams Express Building
+-American Radiator Building
+-American Surety Building
+-American Tract Society Building
+-Astor Trust Building
+-Aquarium</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Buildings, named (A)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Buildings, named (A)</field>
++    <field name="scopecontent_teim">Adams Express Building American Radiator Building American Surety Building American Tract Society Building Astor Trust Building Aquarium</field>
+     <field name="ref_ssi">aspace_ada69fb03788471cb95da7e1ae08c28a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -40,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Buildings, named (A)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Buildings, named (A)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Buildings, named (A)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Buildings, named (A)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">183</field>
+   </doc>

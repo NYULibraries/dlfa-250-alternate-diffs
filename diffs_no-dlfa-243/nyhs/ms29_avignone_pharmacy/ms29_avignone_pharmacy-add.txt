@@ -1,0 +1,56 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -4,7 +4,7 @@
+     <field name="author_teim">Larry Weimer</field>
+     <field name="author_ssm">Larry Weimer</field>
+     <field name="unittitle_teim">Frank Avignone &amp; Co. prescription books</field>
+-    <field name="unittitle_ssm">Frank Avignone &amp;amp; Co. prescription books</field>
++    <field name="unittitle_ssm">Frank Avignone &amp; Co. prescription books</field>
+     <field name="unitid_teim">MS 29</field>
+     <field name="unitid_ssm">MS 29</field>
+     <field name="abstract_teim">The collection includes 6 oversize prescription books covering date ranges 1895-1900, 1902-1903, and 1914-1917, from the predecessor firm, Stock Pharmacy, until April, 1899 and then of Frank Avignone &amp; Co.</field>
+@@ -29,18 +29,18 @@
+     <field name="corpname_ssm">Stock Pharmacy (New York, N.Y.)</field>
+     <field name="genreform_teim">Prescriptions.</field>
+     <field name="genreform_ssm">Prescriptions.</field>
+-    <field name="subject_teim">Drugstores -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Pharmaceutical industry.</field>
+-    <field name="subject_teim">Pharmacists -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Physicians -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Drugstores -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Pharmaceutical industry.</field>
+-    <field name="subject_teim">Pharmacists -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Physicians -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Drugstores -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Drugstores -- New York (State) -- New York.</field>
++    <field name="subject_teim">Pharmaceutical industry.</field>
++    <field name="subject_teim">Pharmacists -- New York (State) -- New York.</field>
++    <field name="subject_teim">Physicians -- New York (State) -- New York.</field>
++    <field name="subject_teim">Drugstores -- New York (State) -- New York.</field>
++    <field name="subject_teim">Pharmaceutical industry.</field>
++    <field name="subject_teim">Pharmacists -- New York (State) -- New York.</field>
++    <field name="subject_teim">Physicians -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Drugstores -- New York (State) -- New York.</field>
+     <field name="subject_ssm">Pharmaceutical industry.</field>
+-    <field name="subject_ssm">Pharmacists -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Physicians -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Pharmacists -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Physicians -- New York (State) -- New York.</field>
+     <field name="collection_sim">Frank Avignone &amp; Co. prescription books</field>
+     <field name="collection_ssm">Frank Avignone &amp; Co. prescription books</field>
+     <field name="collection_teim">Frank Avignone &amp; Co. prescription books</field>
+@@ -58,10 +58,10 @@
+     <field name="name_sim">Stock Pharmacy (New York, N.Y.)</field>
+     <field name="name_teim">Frank Avignone &amp; Co. (New York, N.Y.)</field>
+     <field name="name_teim">Stock Pharmacy (New York, N.Y.)</field>
+-    <field name="subject_sim">Drugstores -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Drugstores -- New York (State) -- New York.</field>
+     <field name="subject_sim">Pharmaceutical industry.</field>
+-    <field name="subject_sim">Pharmacists -- New York (State)  -- New York. </field>
+-    <field name="subject_sim">Physicians -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Pharmacists -- New York (State) -- New York.</field>
++    <field name="subject_sim">Physicians -- New York (State) -- New York.</field>
+     <field name="material_type_sim">Prescriptions.</field>
+     <field name="material_type_ssm">Prescriptions.</field>
+     <field name="heading_ssm">Frank Avignone &amp; Co. prescription books</field>

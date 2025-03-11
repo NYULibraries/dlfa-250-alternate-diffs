@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -4,7 +4,7 @@
+     <field name="author_teim">Ricky Hunter and Jennifer Lewis</field>
+     <field name="author_ssm">Ricky Hunter and Jennifer Lewis</field>
+     <field name="unittitle_teim">Cross &amp; Brown Company architectural photograph collection</field>
+-    <field name="unittitle_ssm">Cross &amp;amp; Brown Company architectural photograph collection</field>
++    <field name="unittitle_ssm">Cross &amp; Brown Company architectural photograph collection</field>
+     <field name="unitid_teim">PR 111</field>
+     <field name="unitid_ssm">PR 111</field>
+     <field name="abstract_teim">The Cross &amp; Brown Company architectural photograph collection consists of photographs, negatives, slides, pamphlets, correspondence, and other documents describing or depicting buildings in New York City, New York State, and New Jersey, created by the Cross &amp; Brown Company real estate firm.</field>
+@@ -31,22 +31,22 @@
+     <field name="genreform_ssm">Photographic prints.</field>
+     <field name="geogname_teim">New Jersey -- Pictorial works.</field>
+     <field name="geogname_teim">New York (N.Y.) -- Pictorial works.</field>
+-    <field name="geogname_teim">New York (State)  -- Photographs</field>
++    <field name="geogname_teim">New York (State) -- Photographs</field>
+     <field name="geogname_ssm">New Jersey -- Pictorial works.</field>
+     <field name="geogname_ssm">New York (N.Y.) -- Pictorial works.</field>
+-    <field name="geogname_ssm">New York (State)  -- Photographs</field>
+-    <field name="subject_teim">Commercial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Industrial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Office buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Real estate business -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Commercial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Industrial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Office buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Real estate business -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Commercial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Industrial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Office buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Real estate business -- New York (State)  -- New York. </field>
++    <field name="geogname_ssm">New York (State) -- Photographs</field>
++    <field name="subject_teim">Commercial buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Industrial buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Office buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Real estate business -- New York (State) -- New York.</field>
++    <field name="subject_teim">Commercial buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Industrial buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Office buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Real estate business -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Commercial buildings -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Industrial buildings -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Office buildings -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Real estate business -- New York (State) -- New York.</field>
+     <field name="collection_sim">Cross &amp; Brown Company architectural photograph collection</field>
+     <field name="collection_ssm">Cross &amp; Brown Company architectural photograph collection</field>
+     <field name="collection_teim">Cross &amp; Brown Company architectural photograph collection</field>
+@@ -63,11 +63,11 @@
+     <field name="name_teim">Cross &amp; Brown Company</field>
+     <field name="place_sim">New Jersey -- Pictorial works.</field>
+     <field name="place_sim">New York (N.Y.) -- Pictorial works.</field>
+-    <field name="place_sim">New York (State)  -- Photographs</field>
+-    <field name="subject_sim">Commercial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_sim">Industrial buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_sim">Office buildings -- New York (State)  -- New York. </field>
+-    <field name="subject_sim">Real estate business -- New York (State)  -- New York. </field>
++    <field name="place_sim">New York (State) -- Photographs</field>
++    <field name="subject_sim">Commercial buildings -- New York (State) -- New York.</field>
++    <field name="subject_sim">Industrial buildings -- New York (State) -- New York.</field>
++    <field name="subject_sim">Office buildings -- New York (State) -- New York.</field>
++    <field name="subject_sim">Real estate business -- New York (State) -- New York.</field>
+     <field name="material_type_sim">Contact prints.</field>
+     <field name="material_type_sim">Ephemera.</field>
+     <field name="material_type_sim">negatives (photographs)</field>

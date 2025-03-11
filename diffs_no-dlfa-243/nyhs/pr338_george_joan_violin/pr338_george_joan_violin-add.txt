@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -35,13 +35,13 @@
+     <field name="persname_ssm">Newman, Arnold, 1918-2006</field>
+     <field name="persname_ssm">Faurer, Louis, 1916-2001</field>
+     <field name="subject_teim">Celebrities.</field>
+-    <field name="subject_teim">African Americans  -- Pictorial works.</field>
+-    <field name="subject_teim">Portrait photography</field>
+-    <field name="subject_teim">Celebrities.</field>
+-    <field name="subject_teim">African Americans  -- Pictorial works.</field>
++    <field name="subject_teim">African Americans -- Pictorial works.</field>
++    <field name="subject_teim">Portrait photography</field>
++    <field name="subject_teim">Celebrities.</field>
++    <field name="subject_teim">African Americans -- Pictorial works.</field>
+     <field name="subject_teim">Portrait photography</field>
+     <field name="subject_ssm">Celebrities.</field>
+-    <field name="subject_ssm">African Americans  -- Pictorial works.</field>
++    <field name="subject_ssm">African Americans -- Pictorial works.</field>
+     <field name="subject_ssm">Portrait photography</field>
+     <field name="collection_sim">George A. and Joan G. Violin collection</field>
+     <field name="collection_ssm">George A. and Joan G. Violin collection</field>
+@@ -67,7 +67,7 @@
+     <field name="name_teim">Newman, Arnold, 1918-2006</field>
+     <field name="name_teim">Faurer, Louis, 1916-2001</field>
+     <field name="subject_sim">Celebrities.</field>
+-    <field name="subject_sim">African Americans  -- Pictorial works.</field>
++    <field name="subject_sim">African Americans -- Pictorial works.</field>
+     <field name="subject_sim">Portrait photography</field>
+     <field name="material_type_sim">Etchings (prints)</field>
+     <field name="material_type_sim">Photographs.</field>

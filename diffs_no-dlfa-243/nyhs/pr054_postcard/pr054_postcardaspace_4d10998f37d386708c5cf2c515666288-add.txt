@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,26 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Hotels (W)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Hotels (W)
+-    </field>
+-    <field name="scopecontent_teim">Waldorf-Astoria (old)
+-Waldorf-Astoria (new)
+-Wallick
+-Warwick
+-Wellington
+-Westbury
+-Westminster
+-West Shore
+-White
+-Willard
+-Windsor
+-Wolcott
+-Woodstock
+-Woodward</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Hotels (W)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Hotels (W)</field>
++    <field name="scopecontent_teim">Waldorf-Astoria (old) Waldorf-Astoria (new) Wallick Warwick Wellington Westbury Westminster West Shore White Willard Windsor Wolcott Woodstock Woodward</field>
+     <field name="ref_ssi">aspace_4d10998f37d386708c5cf2c515666288</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -48,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Hotels (W)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Hotels (W)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Hotels (W)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Hotels (W)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">252</field>
+   </doc>

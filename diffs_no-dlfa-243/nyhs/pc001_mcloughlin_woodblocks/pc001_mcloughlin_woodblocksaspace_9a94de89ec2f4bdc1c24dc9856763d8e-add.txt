@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_ssm">PC 001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;My Mother&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      My Mother
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;My Mother&lt;/em&gt;</field>
++    <field name="unittitle_teim">My Mother</field>
+     <field name="scopecontent_teim">11 woodblocks.</field>
+     <field name="title_teim">My Mother</field>
+     <field name="title_ssm">My Mother</field>
+@@ -33,12 +29,8 @@
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series VI. Robert H. Elton, engraver</field>
+-    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; 
+-      &lt;em&gt;My Mother&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      My Mother
+-    </field>
++    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; &lt;em&gt;My Mother&lt;/em&gt;</field>
++    <field name="heading_ssm">My Mother</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">88</field>
+   </doc>

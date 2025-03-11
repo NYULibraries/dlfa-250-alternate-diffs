@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Time Inc. Life Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Topic&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Topic
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Topic&lt;/em&gt;</field>
++    <field name="unittitle_teim">Topic</field>
+     <field name="unitdate_normal_ssm">1969/1969</field>
+     <field name="unitdate_normal_teim">1969/1969</field>
+     <field name="unitdate_normal_sim">1969/1969</field>
+@@ -36,12 +32,8 @@
+     <field name="collection_teim">Time Inc. Life Editorial Records</field>
+     <field name="collection_unitid_teim">MS 3009-RG 9</field>
+     <field name="series_sim">Series II.A. Managing Editor Ralph Graves Files</field>
+-    <field name="series_si">Series II.A. Managing Editor Ralph Graves Files &gt;&gt; 
+-      &lt;em&gt;Topic&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Topic
+-    </field>
++    <field name="series_si">Series II.A. Managing Editor Ralph Graves Files &gt;&gt; &lt;em&gt;Topic&lt;/em&gt;</field>
++    <field name="heading_ssm">Topic</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

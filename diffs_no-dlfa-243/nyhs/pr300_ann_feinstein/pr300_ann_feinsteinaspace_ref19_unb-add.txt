@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Ann Feinstein collection of New York City prints</field>
+     <field name="collection_unitid_ssm">PR 300</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;It Snowed Again&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      It Snowed Again
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;It Snowed Again&lt;/em&gt;</field>
++    <field name="unittitle_teim">It Snowed Again</field>
+     <field name="unitdate_teim">1996</field>
+     <field name="ref_ssi">aspace_ref19_unb</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 300</field>
+     <field name="series_sim">Series I: Fine Art Prints</field>
+     <field name="series_sim">Subseries I.10: PELLETTIERI, Michael (b. 1943)</field>
+-    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.10: PELLETTIERI, Michael (b. 1943) &gt;&gt; 
+-      &lt;em&gt;It Snowed Again&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      It Snowed Again
+-    </field>
++    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.10: PELLETTIERI, Michael (b. 1943) &gt;&gt; &lt;em&gt;It Snowed Again&lt;/em&gt;</field>
++    <field name="heading_ssm">It Snowed Again</field>
+     <field name="unitdate_ssm">1996</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">58</field>

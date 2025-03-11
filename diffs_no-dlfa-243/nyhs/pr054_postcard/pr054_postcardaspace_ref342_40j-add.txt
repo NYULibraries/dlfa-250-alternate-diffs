@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,22 +13,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;American History&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      American History
+-    </field>
+-    <field name="scopecontent_teim">General
+-1492-1769
+-1770-1783
+-1784-1850
+-1851-1897
+-1898-1910
+-1911-1919
+-1920-1950
+-1951-present
+-Patriotic – Flags, seals, etc.</field>
++    <field name="unittitle_ssm">&lt;strong&gt;American History&lt;/strong&gt;</field>
++    <field name="unittitle_teim">American History</field>
++    <field name="scopecontent_teim">General 1492-1769 1770-1783 1784-1850 1851-1897 1898-1910 1911-1919 1920-1950 1951-present Patriotic – Flags, seals, etc.</field>
+     <field name="ref_ssi">aspace_ref342_40j</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -40,12 +27,8 @@
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series IV. Subjects</field>
+-    <field name="series_si">Series IV. Subjects &gt;&gt; 
+-      &lt;strong&gt;American History&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      American History
+-    </field>
++    <field name="series_si">Series IV. Subjects &gt;&gt; &lt;strong&gt;American History&lt;/strong&gt;</field>
++    <field name="heading_ssm">American History</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">405</field>
+   </doc>

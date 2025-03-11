@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Harriet Oxman papers</field>
+     <field name="collection_unitid_ssm">MS 2922</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Erasmian, 1973-1974&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Erasmian, 1973-1974
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Erasmian, 1973-1974&lt;/em&gt;</field>
++    <field name="unittitle_teim">Erasmian, 1973-1974</field>
+     <field name="unitdate_inclusive_teim">1973-1974</field>
+     <field name="ref_ssi">aspace_ref31_cql</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +27,8 @@
+     <field name="collection_teim">Harriet Oxman papers</field>
+     <field name="collection_unitid_teim">MS 2922</field>
+     <field name="series_sim">Series III. Print matter and ephemera</field>
+-    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; 
+-      &lt;em&gt;Erasmian, 1973-1974&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Erasmian, 1973-1974
+-    </field>
++    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; &lt;em&gt;Erasmian, 1973-1974&lt;/em&gt;</field>
++    <field name="heading_ssm">Erasmian, 1973-1974</field>
+     <field name="unitdate_ssm">Inclusive, 1973-1974</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">28</field>

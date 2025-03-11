@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,20 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Printed portraits: C&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Printed portraits: C
+-    </field>
+-    <field name="scopecontent_teim">Cameron, Robert Alexander
+-Carson, Christopher (Kit)
+-Casey, Genl.
+-Cochrane, John
+-Corcoran, Michael
+-Couch, Darius Nash (5)
+-Cowdin, Robert
+-Crittenden, Mrs. (3)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Printed portraits: C&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Printed portraits: C</field>
++    <field name="scopecontent_teim">Cameron, Robert Alexander Carson, Christopher (Kit) Casey, Genl. Cochrane, John Corcoran, Michael Couch, Darius Nash (5) Cowdin, Robert Crittenden, Mrs. (3)</field>
+     <field name="ref_ssi">aspace_86c5fc19afef4594b3b162d6d9ea2958</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -42,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_sim">Subseries I.B. Printed portraits</field>
+-    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.B. Printed portraits &gt;&gt; 
+-      &lt;strong&gt;Printed portraits: C&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Printed portraits: C
+-    </field>
++    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.B. Printed portraits &gt;&gt; &lt;strong&gt;Printed portraits: C&lt;/strong&gt;</field>
++    <field name="heading_ssm">Printed portraits: C</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">55</field>
+   </doc>

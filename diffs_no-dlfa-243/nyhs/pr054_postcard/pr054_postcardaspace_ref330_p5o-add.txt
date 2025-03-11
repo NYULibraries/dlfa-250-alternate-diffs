@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,29 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Bronx&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Bronx
+-    </field>
+-    <field name="scopecontent_teim">Bronx Botanical Gardens
+-Bronx River
+-Buildings
+-Churches
+-Fordham University
+-Heine Monument
+-New York University
+-Parkchester
+-Pelham Bay Park
+-Poe Cottage
+-Public Schools
+-Streets and Avenues
+-Van Cortlandt Park
+-Van Cortlandt Mansion
+-Yankee Stadium
+-Zoological Park
+-General</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Bronx&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Bronx</field>
++    <field name="scopecontent_teim">Bronx Botanical Gardens Bronx River Buildings Churches Fordham University Heine Monument New York University Parkchester Pelham Bay Park Poe Cottage Public Schools Streets and Avenues Van Cortlandt Park Van Cortlandt Mansion Yankee Stadium Zoological Park General</field>
+     <field name="ref_ssi">aspace_ref330_p5o</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -51,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Bronx&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Bronx
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Bronx&lt;/strong&gt;</field>
++    <field name="heading_ssm">Bronx</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">308</field>
+   </doc>

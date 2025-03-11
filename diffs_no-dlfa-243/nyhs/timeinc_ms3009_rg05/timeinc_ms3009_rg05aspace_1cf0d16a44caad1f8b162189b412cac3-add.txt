@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Newsweek&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Newsweek
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Newsweek&lt;/em&gt;</field>
++    <field name="unittitle_teim">Newsweek</field>
+     <field name="unitdate_inclusive_teim">1975-1985</field>
+     <field name="ref_ssi">aspace_1cf0d16a44caad1f8b162189b412cac3</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series VI. Executive Vice President Kelso Sutton Files</field>
+     <field name="series_sim">Subseries VI.A. Magazine Group Files</field>
+-    <field name="series_si">Series VI. Executive Vice President Kelso Sutton Files &gt;&gt; Subseries VI.A. Magazine Group Files &gt;&gt; 
+-      &lt;em&gt;Newsweek&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Newsweek
+-    </field>
++    <field name="series_si">Series VI. Executive Vice President Kelso Sutton Files &gt;&gt; Subseries VI.A. Magazine Group Files &gt;&gt; &lt;em&gt;Newsweek&lt;/em&gt;</field>
++    <field name="heading_ssm">Newsweek</field>
+     <field name="unitdate_ssm">Inclusive, 1975-1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1524</field>

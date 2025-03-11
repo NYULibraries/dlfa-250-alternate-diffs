@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Ann Feinstein collection of New York City prints</field>
+     <field name="collection_unitid_ssm">PR 300</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;St. Paul's Church&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      St. Paul's Church
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;St. Paul's Church&lt;/em&gt;</field>
++    <field name="unittitle_teim">St. Paul's Church</field>
+     <field name="unitdate_teim">1906</field>
+     <field name="ref_ssi">aspace_ref60_pak</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 300</field>
+     <field name="series_sim">Series I: Fine Art Prints</field>
+     <field name="series_sim">Subseries I.8: MEILATZ, Charles (1864-1919)</field>
+-    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.8: MEILATZ, Charles (1864-1919) &gt;&gt; 
+-      &lt;em&gt;St. Paul's Church&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      St. Paul's Church
+-    </field>
++    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.8: MEILATZ, Charles (1864-1919) &gt;&gt; &lt;em&gt;St. Paul's Church&lt;/em&gt;</field>
++    <field name="heading_ssm">St. Paul's Church</field>
+     <field name="unitdate_ssm">1906</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">43</field>

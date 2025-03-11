@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Netherlands&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Netherlands
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Netherlands&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Netherlands</field>
+     <field name="ref_ssi">aspace_797446804e69b9398e4890a9d6500f66</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -34,12 +30,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series III. Geographic Locations | International</field>
+     <field name="series_sim">Subseries III.C. Europe</field>
+-    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.C. Europe &gt;&gt; 
+-      &lt;strong&gt;Netherlands&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Netherlands
+-    </field>
++    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.C. Europe &gt;&gt; &lt;strong&gt;Netherlands&lt;/strong&gt;</field>
++    <field name="heading_ssm">Netherlands</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">360</field>
+   </doc>

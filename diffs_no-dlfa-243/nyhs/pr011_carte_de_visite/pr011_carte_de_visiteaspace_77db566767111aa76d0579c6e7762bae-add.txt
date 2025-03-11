@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,17 +13,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;United States. New York. Albany - Newburgh&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      United States. New York. Albany - Newburgh
+-    </field>
+-    <field name="scopecontent_teim">Albany
+-Buffalo
+-Flushing
+-Fort Lafayette
+-Newburgh, Washington's Headquarters (5)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;United States. New York. Albany - Newburgh&lt;/strong&gt;</field>
++    <field name="unittitle_teim">United States. New York. Albany - Newburgh</field>
++    <field name="scopecontent_teim">Albany Buffalo Flushing Fort Lafayette Newburgh, Washington's Headquarters (5)</field>
+     <field name="ref_ssi">aspace_77db566767111aa76d0579c6e7762bae</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,12 +27,8 @@
+     <field name="collection_teim">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series II. Views</field>
+-    <field name="series_si">Series II. Views &gt;&gt; 
+-      &lt;strong&gt;United States. New York. Albany - Newburgh&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      United States. New York. Albany - Newburgh
+-    </field>
++    <field name="series_si">Series II. Views &gt;&gt; &lt;strong&gt;United States. New York. Albany - Newburgh&lt;/strong&gt;</field>
++    <field name="heading_ssm">United States. New York. Albany - Newburgh</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">94</field>
+   </doc>

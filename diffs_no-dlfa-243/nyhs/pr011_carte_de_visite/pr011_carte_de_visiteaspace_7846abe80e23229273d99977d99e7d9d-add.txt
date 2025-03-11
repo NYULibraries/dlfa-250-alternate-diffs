@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,21 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Photographs: Theatrical portraits&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Photographs: Theatrical portraits
+-    </field>
+-    <field name="scopecontent_teim">Anderson
+-De Morewil
+-Haulon
+-Lulu
+-Markham, Pauline
+-Menken, Ada Isaacs (3)
+-Roberts
+-Shume
+-Unidentified (44)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Photographs: Theatrical portraits&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Photographs: Theatrical portraits</field>
++    <field name="scopecontent_teim">Anderson De Morewil Haulon Lulu Markham, Pauline Menken, Ada Isaacs (3) Roberts Shume Unidentified (44)</field>
+     <field name="ref_ssi">aspace_7846abe80e23229273d99977d99e7d9d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -43,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_sim">Subseries I.A. Photographs</field>
+-    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.A. Photographs &gt;&gt; 
+-      &lt;strong&gt;Photographs: Theatrical portraits&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Photographs: Theatrical portraits
+-    </field>
++    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.A. Photographs &gt;&gt; &lt;strong&gt;Photographs: Theatrical portraits&lt;/strong&gt;</field>
++    <field name="heading_ssm">Photographs: Theatrical portraits</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">51</field>
+   </doc>

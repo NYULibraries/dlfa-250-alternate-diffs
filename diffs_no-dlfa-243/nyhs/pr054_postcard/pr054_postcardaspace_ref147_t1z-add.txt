@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,25 +13,11 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Utah&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Utah
+-    </field>
+-    <field name="scopecontent_teim">A-C
+-Bryce Canyon
+-Cedar Breaks
+-D-L
+-M-S</field>
+-    <field name="scopecontent_teim">Salt Lake City
+-Monuments
+-Mormon Temple and Tabernacle
+-State Capitol
+-General</field>
+-    <field name="scopecontent_teim">T-Z
+-Zion National Park
+-General</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Utah&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Utah</field>
++    <field name="scopecontent_teim">A-C Bryce Canyon Cedar Breaks D-L M-S</field>
++    <field name="scopecontent_teim">Salt Lake City Monuments Mormon Temple and Tabernacle State Capitol General</field>
++    <field name="scopecontent_teim">T-Z Zion National Park General</field>
+     <field name="ref_ssi">aspace_ref147_t1z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -43,12 +29,8 @@
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series I. Geographic Locations | United States (except New York)</field>
+-    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; 
+-      &lt;strong&gt;Utah&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Utah
+-    </field>
++    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; &lt;strong&gt;Utah&lt;/strong&gt;</field>
++    <field name="heading_ssm">Utah</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">116</field>
+   </doc>

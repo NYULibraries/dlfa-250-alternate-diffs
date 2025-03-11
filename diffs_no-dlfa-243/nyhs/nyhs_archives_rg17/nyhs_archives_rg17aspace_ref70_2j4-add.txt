@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;History Written with Pick and Shovel&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      History Written with Pick and Shovel
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;History Written with Pick and Shovel&lt;/em&gt;</field>
++    <field name="unittitle_teim">History Written with Pick and Shovel</field>
+     <field name="unitdate_teim">1950, 1954-1955</field>
+     <field name="scopecontent_teim">Concerns reviews and other publicity for the 1950 book, and printing costs and publicity for the 1955 reprint.</field>
+     <field name="ref_ssi">aspace_ref70_2j4</field>
+@@ -36,12 +32,8 @@
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series I. Publications (1940s-1960s)</field>
+     <field name="series_sim">Subseries I.A. General Correspondence</field>
+-    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.A. General Correspondence &gt;&gt; 
+-      &lt;em&gt;History Written with Pick and Shovel&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      History Written with Pick and Shovel
+-    </field>
++    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.A. General Correspondence &gt;&gt; &lt;em&gt;History Written with Pick and Shovel&lt;/em&gt;</field>
++    <field name="heading_ssm">History Written with Pick and Shovel</field>
+     <field name="unitdate_ssm">1950, 1954-1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>

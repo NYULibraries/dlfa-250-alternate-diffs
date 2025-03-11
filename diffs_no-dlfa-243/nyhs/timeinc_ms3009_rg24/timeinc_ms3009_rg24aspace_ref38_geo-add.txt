@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Newsweek&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Newsweek
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Newsweek&lt;/em&gt;</field>
++    <field name="unittitle_teim">Newsweek</field>
+     <field name="unitid_teim">191611</field>
+     <field name="unitid_ssm">191611</field>
+     <field name="unitdate_inclusive_teim">1946-1965</field>
+@@ -39,12 +35,8 @@
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series II. Office of the Business Manager Files</field>
+     <field name="series_sim">Subseries II.F. General Administrative Files</field>
+-    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; 
+-      &lt;em&gt;Newsweek&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Newsweek
+-    </field>
++    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; &lt;em&gt;Newsweek&lt;/em&gt;</field>
++    <field name="heading_ssm">Newsweek</field>
+     <field name="unitdate_ssm">Inclusive, 1946-1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">145</field>

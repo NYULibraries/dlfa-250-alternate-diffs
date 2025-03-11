@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">7th Regiment records</field>
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Seventh Regiment Gazette&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Seventh Regiment Gazette
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Seventh Regiment Gazette&lt;/em&gt;</field>
++    <field name="unittitle_teim">Seventh Regiment Gazette</field>
+     <field name="unitdate_teim">1905 Jan.-1905 June</field>
+     <field name="title_teim">Seventh Regiment Gazette</field>
+     <field name="title_ssm">Seventh Regiment Gazette</field>
+@@ -37,12 +33,8 @@
+     <field name="collection_unitid_teim">MS 556</field>
+     <field name="series_sim">Series XIII: Publications, 1811-1976</field>
+     <field name="series_sim">Subseries 1: 7th Regiment Publications</field>
+-    <field name="series_si">Series XIII: Publications, 1811-1976 &gt;&gt; Subseries 1: 7th Regiment Publications &gt;&gt; 
+-      &lt;em&gt;Seventh Regiment Gazette&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Seventh Regiment Gazette
+-    </field>
++    <field name="series_si">Series XIII: Publications, 1811-1976 &gt;&gt; Subseries 1: 7th Regiment Publications &gt;&gt; &lt;em&gt;Seventh Regiment Gazette&lt;/em&gt;</field>
++    <field name="heading_ssm">Seventh Regiment Gazette</field>
+     <field name="unitdate_ssm">1905 Jan.-1905 June</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1003</field>

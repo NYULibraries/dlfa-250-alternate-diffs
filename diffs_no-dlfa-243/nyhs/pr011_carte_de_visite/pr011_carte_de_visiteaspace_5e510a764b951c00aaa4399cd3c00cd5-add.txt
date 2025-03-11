@@ -1,0 +1,58 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,36 +13,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Group Portraits&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Group Portraits
+-    </field>
+-    <field name="scopecontent_teim">Composites
+-....Army of the Potomac
+-....Army of the West
+-....Defenders of Our Union
+-....Generals
+-....Generals of the Confederate States
+-....Generals of Departments
+-....Generals of the South
+-....Generals of the Union (4)
+-....Naval Heroes
+-....Officers of the 20th U.S. 6th Infantry
+-....Officers of the 118th Illinois Infantry
+-....U.S. Army and Navy
+-....U.S. Officers (2)
+-....Unidentified (5)
+-
+-Officers
+-....Sanford and Staff
+-....Scott and Staff
+-....Sherman and Staff
+-....Syrus and Staff
+-....Unidentified
+-
+-Soldiers (21)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Group Portraits&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Group Portraits</field>
++    <field name="scopecontent_teim">Composites ....Army of the Potomac ....Army of the West ....Defenders of Our Union ....Generals ....Generals of the Confederate States ....Generals of Departments ....Generals of the South ....Generals of the Union (4) ....Naval Heroes ....Officers of the 20th U.S. 6th Infantry ....Officers of the 118th Illinois Infantry ....U.S. Army and Navy ....U.S. Officers (2) ....Unidentified (5) Officers ....Sanford and Staff ....Scott and Staff ....Sherman and Staff ....Syrus and Staff ....Unidentified Soldiers (21)</field>
+     <field name="ref_ssi">aspace_5e510a764b951c00aaa4399cd3c00cd5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -54,12 +27,8 @@
+     <field name="collection_teim">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series III. Civil War</field>
+-    <field name="series_si">Series III. Civil War &gt;&gt; 
+-      &lt;strong&gt;Group Portraits&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Group Portraits
+-    </field>
++    <field name="series_si">Series III. Civil War &gt;&gt; &lt;strong&gt;Group Portraits&lt;/strong&gt;</field>
++    <field name="heading_ssm">Group Portraits</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">105</field>
+   </doc>

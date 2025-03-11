@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,10 @@
+     <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_ssm">PC 001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Lord Bateman&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Lord Bateman
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Lord Bateman&lt;/em&gt;</field>
++    <field name="unittitle_teim">Lord Bateman</field>
+     <field name="scopecontent_teim">4 woodblocks.</field>
+-    <field name="bioghist_teim">Engravings done afte George Cruikshank.Reprinted in Uncle Frank's series. The Uncle Frank's series reprinted a number of titles published in the pre-McLoughlin Brothers, Inc. era by Robert H. Elton.</field>
++    <field name="bioghist_teim">Engravings done afte George Cruikshank. Reprinted in Uncle Frank's series. The Uncle Frank's series reprinted a number of titles published in the pre-McLoughlin Brothers, Inc. era by Robert H. Elton.</field>
+     <field name="title_teim">Lord Bateman</field>
+     <field name="title_teim">Uncle Frank's</field>
+     <field name="title_teim">Uncle Frank's</field>
+@@ -38,12 +34,8 @@
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series VI. Robert H. Elton, engraver</field>
+-    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; 
+-      &lt;em&gt;Lord Bateman&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Lord Bateman
+-    </field>
++    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; &lt;em&gt;Lord Bateman&lt;/em&gt;</field>
++    <field name="heading_ssm">Lord Bateman</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">70</field>
+   </doc>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Horticultural Society of New York records</field>
+     <field name="collection_unitid_ssm">MS 3033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Martha Stewart Living&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Martha Stewart Living
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Martha Stewart Living&lt;/em&gt;</field>
++    <field name="unittitle_teim">Martha Stewart Living</field>
+     <field name="unitdate_teim">1998 April</field>
+     <field name="ref_ssi">aspace_ref923_hxs</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,12 +31,8 @@
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.C. Miscellaneous Print Material</field>
+-    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.C. Miscellaneous Print Material &gt;&gt; 
+-      &lt;em&gt;Martha Stewart Living&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Martha Stewart Living
+-    </field>
++    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.C. Miscellaneous Print Material &gt;&gt; &lt;em&gt;Martha Stewart Living&lt;/em&gt;</field>
++    <field name="heading_ssm">Martha Stewart Living</field>
+     <field name="unitdate_ssm">1998 April</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">801</field>

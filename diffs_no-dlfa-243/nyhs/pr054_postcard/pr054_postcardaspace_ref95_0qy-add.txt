@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,22 +13,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Montana&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Montana
+-    </field>
+-    <field name="scopecontent_teim">A-E
+-Augusta
+-Bozeman
+-F-M
+-Flathead
+-Glacier National Park
+-Missoula
+-N-Z
+-Virginia City
+-General</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Montana&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Montana</field>
++    <field name="scopecontent_teim">A-E Augusta Bozeman F-M Flathead Glacier National Park Missoula N-Z Virginia City General</field>
+     <field name="ref_ssi">aspace_ref95_0qy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -40,12 +27,8 @@
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series I. Geographic Locations | United States (except New York)</field>
+-    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; 
+-      &lt;strong&gt;Montana&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Montana
+-    </field>
++    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; &lt;strong&gt;Montana&lt;/strong&gt;</field>
++    <field name="heading_ssm">Montana</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">70</field>
+   </doc>

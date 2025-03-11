@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Buildings, named (U)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Buildings, named (U)
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Buildings, named (U)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Buildings, named (U)</field>
+     <field name="scopecontent_teim">U.S. Express Building</field>
+-    <field name="scopecontent_teim">multiple cards
+-United Nations</field>
++    <field name="scopecontent_teim">multiple cards United Nations</field>
+     <field name="ref_ssi">aspace_e73e19e35e1e62b262291d900a0c426d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -37,12 +32,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Buildings, named (U)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Buildings, named (U)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Buildings, named (U)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Buildings, named (U)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">199</field>
+   </doc>

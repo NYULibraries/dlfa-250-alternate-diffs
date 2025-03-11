@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,20 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Schools &amp;amp; Colleges&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Schools &amp; Colleges
+-    </field>
+-    <field name="scopecontent_teim">College of the City of New York
+-Columbia University, Miscellaneous
+-Columbia University, Barnard College, Teacher's College
+-General Theological Seminary
+-New York University
+-Normal College
+-Washington Irving School
+-General</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Schools &amp; Colleges&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Schools &amp; Colleges</field>
++    <field name="scopecontent_teim">College of the City of New York Columbia University, Miscellaneous Columbia University, Barnard College, Teacher's College General Theological Seminary New York University Normal College Washington Irving School General</field>
+     <field name="ref_ssi">aspace_ref531_741</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -42,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Schools &amp;amp; Colleges&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Schools &amp; Colleges
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Schools &amp; Colleges&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Schools &amp; Colleges</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">290</field>
+   </doc>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. Life Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The International Who's Who: 1991-92&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The International Who's Who: 1991-92
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The International Who's Who: 1991-92&lt;/em&gt;</field>
++    <field name="unittitle_teim">The International Who's Who: 1991-92</field>
+     <field name="unitdate_teim">1991</field>
+     <field name="title_teim">The International Who's Who: 1991-92</field>
+     <field name="title_ssm">The International Who's Who: 1991-92</field>
+@@ -37,12 +33,8 @@
+     <field name="collection_unitid_teim">MS 3009-RG 9</field>
+     <field name="series_sim">Series VI. Photographer Alfred Eisenstaedt Files</field>
+     <field name="series_sim">Subseries VI.A: Desk Papers</field>
+-    <field name="series_si">Series VI. Photographer Alfred Eisenstaedt Files &gt;&gt; Subseries VI.A: Desk Papers &gt;&gt; 
+-      &lt;em&gt;The International Who's Who: 1991-92&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The International Who's Who: 1991-92
+-    </field>
++    <field name="series_si">Series VI. Photographer Alfred Eisenstaedt Files &gt;&gt; Subseries VI.A: Desk Papers &gt;&gt; &lt;em&gt;The International Who's Who: 1991-92&lt;/em&gt;</field>
++    <field name="heading_ssm">The International Who's Who: 1991-92</field>
+     <field name="unitdate_ssm">1991</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">547</field>

@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,19 +16,9 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Printed portraits: Mc&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Printed portraits: Mc
+-    </field>
+-    <field name="scopecontent_teim">McCall, Genl. (6)
+-McClellan, George B. (2)
+-McClellan, Mrs. George B. (3)
+-McClernand, John A.
+-McCullum, Genl.
+-McDowell, Irvin (3)
+-McDuffie, George</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Printed portraits: Mc&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Printed portraits: Mc</field>
++    <field name="scopecontent_teim">McCall, Genl. (6) McClellan, George B. (2) McClellan, Mrs. George B. (3) McClernand, John A. McCullum, Genl. McDowell, Irvin (3) McDuffie, George</field>
+     <field name="ref_ssi">aspace_60c20a6253f8778adadac05e3bafdd40</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -41,12 +31,8 @@
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_sim">Subseries I.B. Printed portraits</field>
+-    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.B. Printed portraits &gt;&gt; 
+-      &lt;strong&gt;Printed portraits: Mc&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Printed portraits: Mc
+-    </field>
++    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.B. Printed portraits &gt;&gt; &lt;strong&gt;Printed portraits: Mc&lt;/strong&gt;</field>
++    <field name="heading_ssm">Printed portraits: Mc</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">65</field>
+   </doc>

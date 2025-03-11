@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,23 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Buildings, named (S)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Buildings, named (S)
+-    </field>
+-    <field name="scopecontent_teim">Schermerhorn Row (South Street Seaport)
+-Sinclair Oil Building
+-Sixty Wall Tower
+-Sixty-three Wall Street Building
+-Smith, Gray &amp; Co.
+-Staats Zeitung</field>
+-    <field name="scopecontent_teim">multiple cards
+-St. Paul Building
+-Singer Building
+-Standard Oil Building
+-Sub-Treasury Building (Federal Hall)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Buildings, named (S)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Buildings, named (S)</field>
++    <field name="scopecontent_teim">Schermerhorn Row (South Street Seaport) Sinclair Oil Building Sixty Wall Tower Sixty-three Wall Street Building Smith, Gray &amp; Co. Staats Zeitung</field>
++    <field name="scopecontent_teim">multiple cards St. Paul Building Singer Building Standard Oil Building Sub-Treasury Building (Federal Hall)</field>
+     <field name="ref_ssi">aspace_c396c5b8168f8ad2aeb187a599b6ee04</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -45,12 +32,8 @@
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Buildings, named (S)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Buildings, named (S)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Buildings, named (S)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Buildings, named (S)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">197</field>
+   </doc>

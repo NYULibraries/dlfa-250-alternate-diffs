@@ -1,0 +1,89 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,9 +39,9 @@
+     <field name="genreform_ssm">Reports.</field>
+     <field name="geogname_teim">Kansas -- History -- 1854-1861.</field>
+     <field name="geogname_teim">Canada -- History -- Rebellion, 1837-1838.</field>
+-    <field name="geogname_teim">New York (State)  -- Politics and government.</field>
+-    <field name="geogname_teim">New York (State)  -- Intellectual life -- 19th century.</field>
+-    <field name="geogname_teim">New York (State)  -- History -- Civil War, 1861-1865.</field>
++    <field name="geogname_teim">New York (State) -- Politics and government.</field>
++    <field name="geogname_teim">New York (State) -- Intellectual life -- 19th century.</field>
++    <field name="geogname_teim">New York (State) -- History -- Civil War, 1861-1865.</field>
+     <field name="geogname_teim">United States -- Foreign relations -- Canada.</field>
+     <field name="geogname_teim">Long Island (N.Y.)</field>
+     <field name="geogname_teim">Queens County (N.Y.) -- Politics and government -- 19th century.</field>
+@@ -50,9 +50,9 @@
+     <field name="geogname_teim">Canada -- Foreign relations -- United States.</field>
+     <field name="geogname_ssm">Kansas -- History -- 1854-1861.</field>
+     <field name="geogname_ssm">Canada -- History -- Rebellion, 1837-1838.</field>
+-    <field name="geogname_ssm">New York (State)  -- Politics and government.</field>
+-    <field name="geogname_ssm">New York (State)  -- Intellectual life -- 19th century.</field>
+-    <field name="geogname_ssm">New York (State)  -- History -- Civil War, 1861-1865.</field>
++    <field name="geogname_ssm">New York (State) -- Politics and government.</field>
++    <field name="geogname_ssm">New York (State) -- Intellectual life -- 19th century.</field>
++    <field name="geogname_ssm">New York (State) -- History -- Civil War, 1861-1865.</field>
+     <field name="geogname_ssm">United States -- Foreign relations -- Canada.</field>
+     <field name="geogname_ssm">Long Island (N.Y.)</field>
+     <field name="geogname_ssm">Queens County (N.Y.) -- Politics and government -- 19th century.</field>
+@@ -72,15 +72,15 @@
+     <field name="persname_ssm">Kelly, William, 1807-1872</field>
+     <field name="persname_ssm">Hamilton, James A. (James Alexander), 1788-1878</field>
+     <field name="subject_teim">Antislavery movements -- United States.</field>
+-    <field name="subject_teim">Banks and banking -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Local elections -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Railroads -- New York (State).</field>
+-    <field name="subject_teim">Slavery -- Political aspects -- United States.</field>
+-    <field name="subject_teim">Politicians.</field>
+-    <field name="subject_teim">Agricultural colleges -- New York (State).</field>
+-    <field name="subject_teim">Antislavery movements -- United States.</field>
+-    <field name="subject_teim">Banks and banking -- New York (State)  -- New York. </field>
+-    <field name="subject_teim">Local elections -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Banks and banking -- New York (State) -- New York.</field>
++    <field name="subject_teim">Local elections -- New York (State) -- New York.</field>
++    <field name="subject_teim">Railroads -- New York (State).</field>
++    <field name="subject_teim">Slavery -- Political aspects -- United States.</field>
++    <field name="subject_teim">Politicians.</field>
++    <field name="subject_teim">Agricultural colleges -- New York (State).</field>
++    <field name="subject_teim">Antislavery movements -- United States.</field>
++    <field name="subject_teim">Banks and banking -- New York (State) -- New York.</field>
++    <field name="subject_teim">Local elections -- New York (State) -- New York.</field>
+     <field name="subject_teim">Railroads -- New York (State).</field>
+     <field name="subject_teim">Slavery -- Political aspects -- United States.</field>
+     <field name="subject_teim">Politicians.</field>
+@@ -87,8 +87,8 @@
+     <field name="subject_teim">Governors</field>
+     <field name="subject_teim">Agricultural colleges -- New York (State).</field>
+     <field name="subject_ssm">Antislavery movements -- United States.</field>
+-    <field name="subject_ssm">Banks and banking -- New York (State)  -- New York. </field>
+-    <field name="subject_ssm">Local elections -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Banks and banking -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Local elections -- New York (State) -- New York.</field>
+     <field name="subject_ssm">Railroads -- New York (State).</field>
+     <field name="subject_ssm">Slavery -- Political aspects -- United States.</field>
+     <field name="subject_ssm">Politicians.</field>
+@@ -122,9 +122,9 @@
+     <field name="name_teim">Hamilton, James A. (James Alexander), 1788-1878</field>
+     <field name="place_sim">Kansas -- History -- 1854-1861.</field>
+     <field name="place_sim">Canada -- History -- Rebellion, 1837-1838.</field>
+-    <field name="place_sim">New York (State)  -- Politics and government.</field>
+-    <field name="place_sim">New York (State)  -- Intellectual life -- 19th century.</field>
+-    <field name="place_sim">New York (State)  -- History -- Civil War, 1861-1865.</field>
++    <field name="place_sim">New York (State) -- Politics and government.</field>
++    <field name="place_sim">New York (State) -- Intellectual life -- 19th century.</field>
++    <field name="place_sim">New York (State) -- History -- Civil War, 1861-1865.</field>
+     <field name="place_sim">United States -- Foreign relations -- Canada.</field>
+     <field name="place_sim">Long Island (N.Y.)</field>
+     <field name="place_sim">Queens County (N.Y.) -- Politics and government -- 19th century.</field>
+@@ -132,8 +132,8 @@
+     <field name="place_sim">United States -- History -- Civil War, 1861-1865.</field>
+     <field name="place_sim">Canada -- Foreign relations -- United States.</field>
+     <field name="subject_sim">Antislavery movements -- United States.</field>
+-    <field name="subject_sim">Banks and banking -- New York (State)  -- New York. </field>
+-    <field name="subject_sim">Local elections -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Banks and banking -- New York (State) -- New York.</field>
++    <field name="subject_sim">Local elections -- New York (State) -- New York.</field>
+     <field name="subject_sim">Railroads -- New York (State).</field>
+     <field name="subject_sim">Slavery -- Political aspects -- United States.</field>
+     <field name="subject_sim">Politicians.</field>
