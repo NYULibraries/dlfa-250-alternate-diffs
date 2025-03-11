@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0030</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Midwood Argus&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Midwood Argus
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Midwood Argus&lt;/em&gt;</field>
++    <field name="unittitle_teim">Midwood Argus</field>
+     <field name="unitdate_normal_ssm">1958-10/1969-03</field>
+     <field name="unitdate_normal_teim">1958-10/1969-03</field>
+     <field name="unitdate_normal_sim">1958-10/1969-03</field>
+@@ -36,12 +32,8 @@
+     <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+     <field name="collection_unitid_teim">BCMS.0030</field>
+     <field name="series_sim">Midwood High School</field>
+-    <field name="series_si">Midwood High School &gt;&gt; 
+-      &lt;em&gt;Midwood Argus&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Midwood Argus
+-    </field>
++    <field name="series_si">Midwood High School &gt;&gt; &lt;em&gt;Midwood Argus&lt;/em&gt;</field>
++    <field name="heading_ssm">Midwood Argus</field>
+     <field name="unitdate_ssm">Inclusive, October 1958 - March 1969</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">65</field>

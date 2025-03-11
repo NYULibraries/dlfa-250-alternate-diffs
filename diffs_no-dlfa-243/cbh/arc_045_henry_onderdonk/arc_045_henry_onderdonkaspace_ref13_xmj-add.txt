@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Henry Onderdonk papers</field>
+     <field name="collection_unitid_ssm">ARC.045</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Friends on Long Island and in New York&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Friends on Long Island and in New York
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Friends on Long Island and in New York&lt;/em&gt;</field>
++    <field name="unittitle_teim">Friends on Long Island and in New York</field>
+     <field name="unitdate_normal_ssm">1872/1872</field>
+     <field name="unitdate_normal_teim">1872/1872</field>
+     <field name="unitdate_normal_sim">1872/1872</field>
+@@ -34,12 +30,8 @@
+     <field name="collection_teim">Henry Onderdonk papers</field>
+     <field name="collection_unitid_teim">ARC.045</field>
+     <field name="series_sim">Series 1: Historical Manuscripts and Notes</field>
+-    <field name="series_si">Series 1: Historical Manuscripts and Notes &gt;&gt; 
+-      &lt;em&gt;Friends on Long Island and in New York&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Friends on Long Island and in New York
+-    </field>
++    <field name="series_si">Series 1: Historical Manuscripts and Notes &gt;&gt; &lt;em&gt;Friends on Long Island and in New York&lt;/em&gt;</field>
++    <field name="heading_ssm">Friends on Long Island and in New York</field>
+     <field name="unitdate_start_sim">1872</field>
+     <field name="unitdate_start_ssm">1872</field>
+     <field name="unitdate_start_si">1872</field>
