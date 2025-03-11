@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Philly Facts&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Philadelphia , Pa. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Philadelphia-TWU Local 234</field>
+-    <field name="unittitle_teim">Philly Facts
+-
+-Place of publication: Philadelphia , Pa. 
+-
+-Publisher: Philadelphia-TWU Local 234</field>
++    <field name="unittitle_ssm">&lt;em&gt;Philly Facts&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Philadelphia , Pa. &lt;strong&gt;Publisher&lt;/strong&gt;: Philadelphia-TWU Local 234</field>
++    <field name="unittitle_teim">Philly Facts Place of publication: Philadelphia , Pa. Publisher: Philadelphia-TWU Local 234</field>
+     <field name="unitdate_normal_ssm">1945/1945</field>
+     <field name="unitdate_normal_teim">1945/1945</field>
+     <field name="unitdate_normal_sim">1945/1945</field>
+@@ -39,16 +31,8 @@
+     <field name="name_teim">Philadelphia-TWU Local 234</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Philly Facts&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Philadelphia , Pa. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Philadelphia-TWU Local 234</field>
+-    <field name="heading_ssm">Philly Facts
+-
+-Place of publication: Philadelphia , Pa. 
+-
+-Publisher: Philadelphia-TWU Local 234</field>
++    <field name="series_si">&lt;em&gt;Philly Facts&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Philadelphia , Pa. &lt;strong&gt;Publisher&lt;/strong&gt;: Philadelphia-TWU Local 234</field>
++    <field name="heading_ssm">Philly Facts Place of publication: Philadelphia , Pa. Publisher: Philadelphia-TWU Local 234</field>
+     <field name="unitdate_start_sim">1945</field>
+     <field name="unitdate_start_ssm">1945</field>
+     <field name="unitdate_start_si">1945</field>

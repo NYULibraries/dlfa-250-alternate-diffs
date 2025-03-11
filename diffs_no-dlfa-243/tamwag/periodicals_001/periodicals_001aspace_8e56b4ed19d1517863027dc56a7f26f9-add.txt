@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;BCTGM News&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Kensington , Md. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
+-    <field name="unittitle_teim">BCTGM News
+-
+-Place of publication: Kensington , Md. 
+-
+-Publisher: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
++    <field name="unittitle_ssm">&lt;em&gt;BCTGM News&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Kensington , Md. &lt;strong&gt;Publisher&lt;/strong&gt;: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
++    <field name="unittitle_teim">BCTGM News Place of publication: Kensington , Md. Publisher: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
+     <field name="unitdate_normal_ssm">1999/2000</field>
+     <field name="unitdate_normal_teim">1999/2000</field>
+     <field name="unitdate_normal_sim">1999/2000</field>
+@@ -39,16 +31,8 @@
+     <field name="name_teim">Bakery, Confectionery , Tobacco and Grain Millers Union</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;BCTGM News&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Kensington , Md. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
+-    <field name="heading_ssm">BCTGM News
+-
+-Place of publication: Kensington , Md. 
+-
+-Publisher: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
++    <field name="series_si">&lt;em&gt;BCTGM News&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Kensington , Md. &lt;strong&gt;Publisher&lt;/strong&gt;: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
++    <field name="heading_ssm">BCTGM News Place of publication: Kensington , Md. Publisher: Bakery, Confectionery , Tobacco and Grain Millers Union</field>
+     <field name="unitdate_start_sim">1999</field>
+     <field name="unitdate_start_ssm">1999</field>
+     <field name="unitdate_start_si">1999</field>

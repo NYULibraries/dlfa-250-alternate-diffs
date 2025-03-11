@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Citizen &lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: National Wallace for President Committee</field>
+-    <field name="unittitle_teim">Citizen 
+-
+-Place of publication: New York , N.Y. 
+-
+-Publisher: National Wallace for President Committee</field>
++    <field name="unittitle_ssm">&lt;em&gt;Citizen &lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. &lt;strong&gt;Publisher&lt;/strong&gt;: National Wallace for President Committee</field>
++    <field name="unittitle_teim">Citizen Place of publication: New York , N.Y. Publisher: National Wallace for President Committee</field>
+     <field name="unitdate_normal_ssm">1948/1948</field>
+     <field name="unitdate_normal_teim">1948/1948</field>
+     <field name="unitdate_normal_sim">1948/1948</field>
+@@ -25,8 +17,8 @@
+     <field name="unitdate_inclusive_teim">1948</field>
+     <field name="corpname_teim">National Wallace for President Committee</field>
+     <field name="corpname_ssm">National Wallace for President Committee</field>
+-    <field name="title_teim">Citizen </field>
+-    <field name="title_ssm">Citizen </field>
++    <field name="title_teim">Citizen</field>
++    <field name="title_ssm">Citizen</field>
+     <field name="ref_ssi">aspace_8a2ed4c0ce69ea1ea6241c8043ffde3e</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -39,16 +31,8 @@
+     <field name="name_teim">National Wallace for President Committee</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Citizen &lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: National Wallace for President Committee</field>
+-    <field name="heading_ssm">Citizen 
+-
+-Place of publication: New York , N.Y. 
+-
+-Publisher: National Wallace for President Committee</field>
++    <field name="series_si">&lt;em&gt;Citizen &lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. &lt;strong&gt;Publisher&lt;/strong&gt;: National Wallace for President Committee</field>
++    <field name="heading_ssm">Citizen Place of publication: New York , N.Y. Publisher: National Wallace for President Committee</field>
+     <field name="unitdate_start_sim">1948</field>
+     <field name="unitdate_start_ssm">1948</field>
+     <field name="unitdate_start_si">1948</field>

@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Tenants United&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Bronx , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: West Bronx Tenants Union</field>
+-    <field name="unittitle_teim">Tenants United
+-
+-Place of publication: Bronx , N.Y. 
+-
+-Publisher: West Bronx Tenants Union</field>
++    <field name="unittitle_ssm">&lt;em&gt;Tenants United&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Bronx , N.Y. &lt;strong&gt;Publisher&lt;/strong&gt;: West Bronx Tenants Union</field>
++    <field name="unittitle_teim">Tenants United Place of publication: Bronx , N.Y. Publisher: West Bronx Tenants Union</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="corpname_teim">West Bronx Tenants Union</field>
+     <field name="corpname_ssm">West Bronx Tenants Union</field>
+@@ -36,16 +28,8 @@
+     <field name="name_teim">West Bronx Tenants Union</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Tenants United&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Bronx , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: West Bronx Tenants Union</field>
+-    <field name="heading_ssm">Tenants United
+-
+-Place of publication: Bronx , N.Y. 
+-
+-Publisher: West Bronx Tenants Union</field>
++    <field name="series_si">&lt;em&gt;Tenants United&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Bronx , N.Y. &lt;strong&gt;Publisher&lt;/strong&gt;: West Bronx Tenants Union</field>
++    <field name="heading_ssm">Tenants United Place of publication: Bronx , N.Y. Publisher: West Bronx Tenants Union</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">440</field>

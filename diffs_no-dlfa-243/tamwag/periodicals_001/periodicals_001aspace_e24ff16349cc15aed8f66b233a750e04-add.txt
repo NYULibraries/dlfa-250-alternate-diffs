@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Garment Worker&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: England 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: National Union of Tailors and Garment Workers</field>
+-    <field name="unittitle_teim">The Garment Worker
+-
+-Place of publication: England 
+-
+-Publisher: National Union of Tailors and Garment Workers</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Garment Worker&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: England &lt;strong&gt;Publisher&lt;/strong&gt;: National Union of Tailors and Garment Workers</field>
++    <field name="unittitle_teim">The Garment Worker Place of publication: England Publisher: National Union of Tailors and Garment Workers</field>
+     <field name="unitdate_normal_ssm">1976/1976</field>
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+@@ -39,16 +31,8 @@
+     <field name="name_teim">National Union of Tailors and Garment Workers</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;The Garment Worker&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: England 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: National Union of Tailors and Garment Workers</field>
+-    <field name="heading_ssm">The Garment Worker
+-
+-Place of publication: England 
+-
+-Publisher: National Union of Tailors and Garment Workers</field>
++    <field name="series_si">&lt;em&gt;The Garment Worker&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: England &lt;strong&gt;Publisher&lt;/strong&gt;: National Union of Tailors and Garment Workers</field>
++    <field name="heading_ssm">The Garment Worker Place of publication: England Publisher: National Union of Tailors and Garment Workers</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

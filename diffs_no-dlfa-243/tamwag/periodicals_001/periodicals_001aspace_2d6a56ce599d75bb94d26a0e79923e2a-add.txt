@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Lavender Vision&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Cambridge , Mass. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Media Collective</field>
+-    <field name="unittitle_teim">Lavender Vision
+-
+-Place of publication: Cambridge , Mass. 
+-
+-Publisher: Media Collective</field>
++    <field name="unittitle_ssm">&lt;em&gt;Lavender Vision&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Cambridge , Mass. &lt;strong&gt;Publisher&lt;/strong&gt;: Media Collective</field>
++    <field name="unittitle_teim">Lavender Vision Place of publication: Cambridge , Mass. Publisher: Media Collective</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="corpname_teim">Media Collective</field>
+     <field name="corpname_ssm">Media Collective</field>
+@@ -36,16 +28,8 @@
+     <field name="name_teim">Media Collective</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Lavender Vision&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Cambridge , Mass. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Media Collective</field>
+-    <field name="heading_ssm">Lavender Vision
+-
+-Place of publication: Cambridge , Mass. 
+-
+-Publisher: Media Collective</field>
++    <field name="series_si">&lt;em&gt;Lavender Vision&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Cambridge , Mass. &lt;strong&gt;Publisher&lt;/strong&gt;: Media Collective</field>
++    <field name="heading_ssm">Lavender Vision Place of publication: Cambridge , Mass. Publisher: Media Collective</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">238</field>

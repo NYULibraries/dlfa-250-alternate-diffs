@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Turning the Tide&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
+-    <field name="unittitle_teim">Turning the Tide
+-
+-Place of publication: Culver City , Calif. 
+-
+-Publisher: Anti-Racist Action Publishers</field>
++    <field name="unittitle_ssm">&lt;em&gt;Turning the Tide&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. &lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
++    <field name="unittitle_teim">Turning the Tide Place of publication: Culver City , Calif. Publisher: Anti-Racist Action Publishers</field>
+     <field name="unitdate_normal_ssm">2001/2007</field>
+     <field name="unitdate_normal_teim">2001/2007</field>
+     <field name="unitdate_normal_sim">2001/2007</field>
+@@ -39,16 +31,8 @@
+     <field name="name_teim">Anti-Racist Action Publishers</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Turning the Tide&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
+-    <field name="heading_ssm">Turning the Tide
+-
+-Place of publication: Culver City , Calif. 
+-
+-Publisher: Anti-Racist Action Publishers</field>
++    <field name="series_si">&lt;em&gt;Turning the Tide&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. &lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
++    <field name="heading_ssm">Turning the Tide Place of publication: Culver City , Calif. Publisher: Anti-Racist Action Publishers</field>
+     <field name="unitdate_start_sim">2001</field>
+     <field name="unitdate_start_ssm">2001</field>
+     <field name="unitdate_start_si">2001</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Red Flag : Organ of the Marxist League&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: London , England</field>
+-    <field name="unittitle_teim">Red Flag : Organ of the Marxist League
+-
+-Place of publication: London , England</field>
++    <field name="unittitle_ssm">&lt;em&gt;Red Flag : Organ of the Marxist League&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: London , England</field>
++    <field name="unittitle_teim">Red Flag : Organ of the Marxist League Place of publication: London , England</field>
+     <field name="unitdate_normal_ssm">1937/1937</field>
+     <field name="unitdate_normal_teim">1937/1937</field>
+     <field name="unitdate_normal_sim">1937/1937</field>
+@@ -31,12 +27,8 @@
+     <field name="location_si">Box: 359</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Red Flag : Organ of the Marxist League&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: London , England</field>
+-    <field name="heading_ssm">Red Flag : Organ of the Marxist League
+-
+-Place of publication: London , England</field>
++    <field name="series_si">&lt;em&gt;Red Flag : Organ of the Marxist League&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: London , England</field>
++    <field name="heading_ssm">Red Flag : Organ of the Marxist League Place of publication: London , England</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>
+     <field name="unitdate_start_si">1937</field>

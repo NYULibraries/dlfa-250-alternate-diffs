@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,8 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;News : Not a Penny on the Rent&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Great Britain 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: United Tenants Action Committee</field>
+-    <field name="unittitle_teim">News : Not a Penny on the Rent
+-
+-Place of publication: Great Britain 
+-
+-Publisher: United Tenants Action Committee</field>
++    <field name="unittitle_ssm">&lt;em&gt;News : Not a Penny on the Rent&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Great Britain &lt;strong&gt;Publisher&lt;/strong&gt;: United Tenants Action Committee</field>
++    <field name="unittitle_teim">News : Not a Penny on the Rent Place of publication: Great Britain Publisher: United Tenants Action Committee</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="corpname_teim">United Tenants Action Committee</field>
+     <field name="corpname_ssm">United Tenants Action Committee</field>
+@@ -36,16 +28,8 @@
+     <field name="name_teim">United Tenants Action Committee</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;News : Not a Penny on the Rent&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Great Britain 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: United Tenants Action Committee</field>
+-    <field name="heading_ssm">News : Not a Penny on the Rent
+-
+-Place of publication: Great Britain 
+-
+-Publisher: United Tenants Action Committee</field>
++    <field name="series_si">&lt;em&gt;News : Not a Penny on the Rent&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Great Britain &lt;strong&gt;Publisher&lt;/strong&gt;: United Tenants Action Committee</field>
++    <field name="heading_ssm">News : Not a Penny on the Rent Place of publication: Great Britain Publisher: United Tenants Action Committee</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">296</field>
