@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">1970-1980</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Mrs. Field's Literary Club records</field>
+-    <field name="collection_ssm">Mrs. Field's Literary Club records</field>
++    <field name="collection_sim">Mrs. Field&#39;s Literary Club records</field>
++    <field name="collection_ssm">Mrs. Field&#39;s Literary Club records</field>
+     <field name="collection_unitid_ssm">1995.004</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Executive Board and Annual Meeting Minutes</field>
+@@ -27,7 +27,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 9, Folder: 2</field>
+     <field name="location_si">Box: 9, Folder: 2</field>
+-    <field name="collection_teim">Mrs. Field's Literary Club records</field>
++    <field name="collection_teim">Mrs. Field&#39;s Literary Club records</field>
++    <field name="author_teim">Nicholas Pavlik. Revised in 2021 by Alice Griffin, Archivist. </field>
+     <field name="collection_unitid_teim">1995.004</field>
+     <field name="series_sim">1970-1980</field>
+     <field name="series_si">1970-1980 &gt;&gt; Executive Board and Annual Meeting Minutes</field>

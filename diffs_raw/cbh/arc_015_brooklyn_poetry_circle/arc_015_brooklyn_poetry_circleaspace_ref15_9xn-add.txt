@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series 7: Books</field>
+     <field name="unittitle_teim">Series 7: Books</field>
+     <field name="unitdate_teim">1914-1989</field>
+-    <field name="scopecontent_teim">These books presumably represent some portion of the Poetry Circle's library. The first box (Box 3) contains books written by members of the Circle and their associates. The second (Box 4) contains all other books originally included in this accession, all of which were printed by large-scale mainstream publishing houses.</field>
++    <field name="scopecontent_teim">These books presumably represent some portion of the Poetry Circle&#39;s library. The first box (Box 3) contains books written by members of the Circle and their associates. The second (Box 4) contains all other books originally included in this accession, all of which were printed by large-scale mainstream publishing houses.</field>
+     <field name="ref_ssi">aspace_ref15_9xn</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Poetry Circle collection</field>
++    <field name="author_teim">Jessica Nauright</field>
+     <field name="collection_unitid_teim">ARC.015</field>
+     <field name="series_si">Series 7: Books</field>
+     <field name="heading_ssm">Series 7: Books</field>

@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1906/1926</field>
+     <field name="unitdate_inclusive_teim">circa 1916</field>
+     <field name="scopecontent_teim">Typewritten manuscript on the history of the Greenleaf Female Institute, located in Brooklyn, New York. The manuscript was written by Sarah Ball, a former student of the school, circa 1916.  Also included are two poems written by Ball about the school.</field>
+-    <field name="bioghist_teim">The Greenleaf Female Institute was founded by Alfred Greenleaf and was loacted at 106 Pierrepont St in the Brooklyn Heights neighborhood of Brooklyn, New York.  It was a well-known girls' school that catered to wealthy Brooklyn families.</field>
++    <field name="bioghist_teim">The Greenleaf Female Institute was founded by Alfred Greenleaf and was loacted at 106 Pierrepont St in the Brooklyn Heights neighborhood of Brooklyn, New York.  It was a well-known girls&#39; school that catered to wealthy Brooklyn families.</field>
+     <field name="acqinfo_teim">Source and date of acquisition unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Greenleaf Female Institute</field>
+@@ -34,13 +34,13 @@
+     <field name="persname_teim">Ball, Sarah</field>
+     <field name="persname_ssm">Ball, Sarah</field>
+     <field name="subject_teim">Single-sex schools |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Girls' schools |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Girls&#39; schools |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Girls |x Education (Primary) |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls' schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Single-sex schools --New York (State) --Kings County</field>
++    <field name="subject_teim">Girls&#39; schools --New York (State) --Kings County</field>
++    <field name="subject_teim">Girls --Education (Primary) --New York (State) --Kings County</field>
+     <field name="subject_ssm">Single-sex schools |z New York (State) |z Kings County</field>
+-    <field name="subject_ssm">Girls' schools |z New York (State) |z Kings County</field>
++    <field name="subject_ssm">Girls&#39; schools |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Girls |x Education (Primary) |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Greenleaf Female Institute manuscript</field>
+     <field name="collection_ssm">Greenleaf Female Institute manuscript</field>
+@@ -60,9 +60,9 @@
+     <field name="name_teim">Ball, Sarah</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+-    <field name="subject_sim">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Girls' schools -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Single-sex schools --New York (State) --Kings County</field>
++    <field name="subject_sim">Girls&#39; schools --New York (State) --Kings County</field>
++    <field name="subject_sim">Girls --Education (Primary) --New York (State) --Kings County</field>
+     <field name="material_type_sim">Poetry</field>
+     <field name="material_type_sim">Manuscripts (document genre)</field>
+     <field name="material_type_ssm">Poetry</field>

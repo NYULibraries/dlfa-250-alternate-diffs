@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unitdate_normal_teim">1865/1931</field>
+     <field name="unitdate_normal_sim">1865/1931</field>
+     <field name="unitdate_inclusive_teim">1865-1931</field>
+-    <field name="scopecontent_teim">The David Ramsay photograph collection is comprised of four black-and-white photographs. Two photographs date from circa 1930 and pertain to the construction of the New York City subway. Included is an exterior view of elevated subway line construction at 4th Avenue and 9th Street in Brooklyn and an interior view of underground subway construction showing two excavation workers in a subway tunnel. The donor identified the location of the tunnel as, "probably 8th Avenue." The remaining two photographs are modern copy prints of illustrations. One copy print depicts an advertisement for Wechsler &amp; Abraham, a large dry goods store that was located on Fulton Street in Brooklyn. The second copy print shows an illustration of an interior view of "the New England Kitchen at the great Sanitary Fair in aid of the soldiers during the Civil War, 1865."</field>
++    <field name="scopecontent_teim">The David Ramsay photograph collection is comprised of four black-and-white photographs. Two photographs date from circa 1930 and pertain to the construction of the New York City subway. Included is an exterior view of elevated subway line construction at 4th Avenue and 9th Street in Brooklyn and an interior view of underground subway construction showing two excavation workers in a subway tunnel. The donor identified the location of the tunnel as, &#34;probably 8th Avenue.&#34; The remaining two photographs are modern copy prints of illustrations. One copy print depicts an advertisement for Wechsler &amp; Abraham, a large dry goods store that was located on Fulton Street in Brooklyn. The second copy print shows an illustration of an interior view of &#34;the New England Kitchen at the great Sanitary Fair in aid of the soldiers during the Civil War, 1865.&#34;</field>
+     <field name="acqinfo_teim">Gift of David Ramsay, 1990.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Wechsler &amp; Abraham</field>
+@@ -33,10 +33,10 @@
+     <field name="subject_teim">Transportation |z New York (State) |z New York</field>
+     <field name="subject_teim">Subways -- New York (State) -- Kings County -- Design and construction</field>
+     <field name="subject_teim">Subway tunnels |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Department stores -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Transportation -- New York (State) -- New York</field>
+-    <field name="subject_teim">Subways -- New York (State) -- Kings County -- Design and construction</field>
+-    <field name="subject_teim">Subway tunnels -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Department stores --New York (State) --Kings County</field>
++    <field name="subject_teim">Transportation --New York (State) --New York</field>
++    <field name="subject_teim">Subways -- New York (State) -- Kings County -- Design and construction</field>
++    <field name="subject_teim">Subway tunnels --New York (State) --Kings County</field>
+     <field name="subject_ssm">Department stores |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Transportation |z New York (State) |z New York</field>
+     <field name="subject_ssm">Subways -- New York (State) -- Kings County -- Design and construction</field>
+@@ -54,11 +54,11 @@
+     <field name="format_ii">0</field>
+     <field name="name_sim">Wechsler &amp; Abraham</field>
+     <field name="name_teim">Wechsler &amp; Abraham</field>
+-    <field name="place_sim">United States -- History -- Civil War, 1861-1865 -- Civilian relief</field>
+-    <field name="subject_sim">Department stores -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Transportation -- New York (State) -- New York</field>
++    <field name="place_sim">United States --History --Civil War, 1861-1865 --Civilian relief</field>
++    <field name="subject_sim">Department stores --New York (State) --Kings County</field>
++    <field name="subject_sim">Transportation --New York (State) --New York</field>
+     <field name="subject_sim">Subways -- New York (State) -- Kings County -- Design and construction</field>
+-    <field name="subject_sim">Subway tunnels -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Subway tunnels --New York (State) --Kings County</field>
+     <field name="material_type_sim">Advertisements</field>
+     <field name="material_type_sim">Black-and-white prints (photographs)</field>
+     <field name="material_type_sim">Photographs</field>

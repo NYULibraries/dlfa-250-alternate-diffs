@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,9 +38,9 @@
+     <field name="subject_teim">Businessmen |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Dry-goods</field>
+     <field name="subject_teim">Businessmen |z New York (State) |z New York</field>
+-    <field name="subject_teim">Businessmen -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Dry-goods</field>
+-    <field name="subject_teim">Businessmen -- New York (State) -- New York</field>
++    <field name="subject_teim">Businessmen --New York (State) --Kings County</field>
++    <field name="subject_teim">Dry-goods</field>
++    <field name="subject_teim">Businessmen --New York (State) --New York</field>
+     <field name="subject_ssm">Businessmen |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Dry-goods</field>
+     <field name="subject_ssm">Businessmen |z New York (State) |z New York</field>
+@@ -60,9 +60,9 @@
+     <field name="name_teim">Blake, Steven M.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+-    <field name="subject_sim">Businessmen -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Businessmen --New York (State) --Kings County</field>
+     <field name="subject_sim">Dry-goods</field>
+-    <field name="subject_sim">Businessmen -- New York (State) -- New York</field>
++    <field name="subject_sim">Businessmen --New York (State) --New York</field>
+     <field name="material_type_sim">Journals (accounts)</field>
+     <field name="material_type_sim">Ledgers (account books)</field>
+     <field name="material_type_sim">Invoices</field>

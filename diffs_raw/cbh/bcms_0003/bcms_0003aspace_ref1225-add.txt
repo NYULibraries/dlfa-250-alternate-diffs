@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Old and New - the Two Bridges Connecting New York and Brooklyn. &lt;em&gt;Harper's Weekley &lt;/em&gt;</field>
+-    <field name="unittitle_teim">Old and New - the Two Bridges Connecting New York and Brooklyn. Harper's Weekley </field>
++    <field name="unittitle_ssm">Old and New - the Two Bridges Connecting New York and Brooklyn. &lt;em&gt;Harper&#39;s Weekley &lt;/em&gt;</field>
++    <field name="unittitle_teim">Old and New - the Two Bridges Connecting New York and Brooklyn. Harper&#39;s Weekley </field>
+     <field name="unitdate_normal_ssm">1901/1901</field>
+     <field name="unitdate_normal_teim">1901/1901</field>
+     <field name="unitdate_normal_sim">1901/1901</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Bridges: Brooklyn Bridge</field>
+-    <field name="series_si">Bridges: Brooklyn Bridge &gt;&gt; Old and New - the Two Bridges Connecting New York and Brooklyn. &lt;em&gt;Harper's Weekley &lt;/em&gt;</field>
+-    <field name="heading_ssm">Old and New - the Two Bridges Connecting New York and Brooklyn. Harper's Weekley </field>
++    <field name="series_si">Bridges: Brooklyn Bridge &gt;&gt; Old and New - the Two Bridges Connecting New York and Brooklyn. &lt;em&gt;Harper&#39;s Weekley &lt;/em&gt;</field>
++    <field name="heading_ssm">Old and New - the Two Bridges Connecting New York and Brooklyn. Harper&#39;s Weekley </field>
+     <field name="unitdate_start_sim">1901</field>
+     <field name="unitdate_start_ssm">1901</field>
+     <field name="unitdate_start_si">1901</field>

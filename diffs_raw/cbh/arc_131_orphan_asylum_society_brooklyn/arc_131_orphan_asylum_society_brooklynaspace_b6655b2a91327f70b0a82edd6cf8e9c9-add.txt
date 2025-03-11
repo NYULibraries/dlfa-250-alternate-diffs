@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1983/1990</field>
+     <field name="unitdate_normal_sim">1983/1990</field>
+     <field name="unitdate_inclusive_teim">1983-1990</field>
+-    <field name="scopecontent_teim">Series 3: Citations and proclamations, 1983-1990, includes citations and proclamations from the Brooklyn Borough President and the State of New York Executive Chamber on the occasion of the Orphan Asylum Society of the City of Brooklyn's 150th anniversary in 1983 (then Brookwood Child Care). There is also a proclamation from the State of New York Executive Chamber naming April 1990 the Month of the Child in recognition of the organization; and a proclamation from the Brooklyn Borough President naming May 23, 1985 Brookwood Child Care Day.</field>
++    <field name="scopecontent_teim">Series 3: Citations and proclamations, 1983-1990, includes citations and proclamations from the Brooklyn Borough President and the State of New York Executive Chamber on the occasion of the Orphan Asylum Society of the City of Brooklyn&#39;s 150th anniversary in 1983 (then Brookwood Child Care). There is also a proclamation from the State of New York Executive Chamber naming April 1990 the Month of the Child in recognition of the organization; and a proclamation from the Brooklyn Borough President naming May 23, 1985 Brookwood Child Care Day.</field>
+     <field name="ref_ssi">aspace_b6655b2a91327f70b0a82edd6cf8e9c9</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Orphan Asylum Society of the City of Brooklyn records</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.131</field>
+     <field name="series_si">Series 3: Citations and proclamations</field>
+     <field name="heading_ssm">Series 3: Citations and proclamations</field>

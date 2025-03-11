@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1953/1991</field>
+     <field name="unitdate_normal_sim">1953/1991</field>
+     <field name="unitdate_inclusive_teim">1953-1991</field>
+-    <field name="scopecontent_teim">This series includes correspondence, memos, and biographical information pertaining to three of the settlement's executive directors, Margaret Gutwillig, Rose Miller, and Rahil Goulding. The Gutwillig files contain only material created after her tenure as head worker and executive director.</field>
++    <field name="scopecontent_teim">This series includes correspondence, memos, and biographical information pertaining to three of the settlement&#39;s executive directors, Margaret Gutwillig, Rose Miller, and Rahil Goulding. The Gutwillig files contain only material created after her tenure as head worker and executive director.</field>
+     <field name="ref_ssi">aspace_ref36_wa2</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Recreation Rooms and Settlement collection</field>
++    <field name="author_teim">James Moske</field>
+     <field name="collection_unitid_teim">ARC.088</field>
+     <field name="series_si">Series 2: Executive Director Papers</field>
+     <field name="heading_ssm">Series 2: Executive Director Papers</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Henry Ward Beecher's Bread and Water Extra</field>
+-    <field name="unittitle_teim">Henry Ward Beecher's Bread and Water Extra</field>
++    <field name="unittitle_ssm">Henry Ward Beecher&#39;s Bread and Water Extra</field>
++    <field name="unittitle_teim">Henry Ward Beecher&#39;s Bread and Water Extra</field>
+     <field name="ref_ssi">aspace_ref248</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Beecher, Henry Ward</field>
+-    <field name="series_si">Beecher, Henry Ward &gt;&gt; Henry Ward Beecher's Bread and Water Extra</field>
+-    <field name="heading_ssm">Henry Ward Beecher's Bread and Water Extra</field>
++    <field name="series_si">Beecher, Henry Ward &gt;&gt; Henry Ward Beecher&#39;s Bread and Water Extra</field>
++    <field name="heading_ssm">Henry Ward Beecher&#39;s Bread and Water Extra</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">204</field>
+   </doc>

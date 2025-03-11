@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Ronald Shiffman collection on the Pratt Center for Community Development</field>
+     <field name="collection_unitid_ssm">2013.023</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Impact of a Housing Voucher Program on New York City's Population</field>
+-    <field name="unittitle_teim">Impact of a Housing Voucher Program on New York City's Population</field>
++    <field name="unittitle_ssm">Impact of a Housing Voucher Program on New York City&#39;s Population</field>
++    <field name="unittitle_teim">Impact of a Housing Voucher Program on New York City&#39;s Population</field>
+     <field name="unitdate_normal_ssm">1982/1982</field>
+     <field name="unitdate_normal_teim">1982/1982</field>
+     <field name="unitdate_normal_sim">1982/1982</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 59, Folder: 1-2</field>
+     <field name="location_si">Box: 59, Folder: 1-2</field>
+     <field name="collection_teim">Ronald Shiffman collection on the Pratt Center for Community Development</field>
++    <field name="author_teim">Maggie Schreiner and Kevina Tidwell. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2013.023</field>
+     <field name="series_sim">Series 4: Reports and Publications</field>
+     <field name="series_sim">Sub-series 4.1: Pratt Center</field>
+-    <field name="series_si">Series 4: Reports and Publications &gt;&gt; Sub-series 4.1: Pratt Center &gt;&gt; Impact of a Housing Voucher Program on New York City's Population</field>
+-    <field name="heading_ssm">Impact of a Housing Voucher Program on New York City's Population</field>
++    <field name="series_si">Series 4: Reports and Publications &gt;&gt; Sub-series 4.1: Pratt Center &gt;&gt; Impact of a Housing Voucher Program on New York City&#39;s Population</field>
++    <field name="heading_ssm">Impact of a Housing Voucher Program on New York City&#39;s Population</field>
+     <field name="unitdate_start_sim">1982</field>
+     <field name="unitdate_start_ssm">1982</field>
+     <field name="unitdate_start_si">1982</field>

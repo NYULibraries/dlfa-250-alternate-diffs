@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arc_129_brooklyn_bureau_community_service</field>
+     <field name="parent_ssi">aspace_ref11_s89</field>
+     <field name="parent_ssm">aspace_ref11_s89</field>
+-    <field name="parent_unittitles_ssm">Series 2: Brooklyn Children's Aid Society records</field>
+-    <field name="parent_unittitles_teim">Series 2: Brooklyn Children's Aid Society records</field>
++    <field name="parent_unittitles_ssm">Series 2: Brooklyn Children&amp;#39;s Aid Society records</field>
++    <field name="parent_unittitles_teim">Series 2: Brooklyn Children&amp;#39;s Aid Society records</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn Bureau of Community Service records</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 30</field>
+     <field name="location_si">Box: 30</field>
+     <field name="collection_teim">Brooklyn Bureau of Community Service records</field>
++    <field name="author_teim">Patricia Glowinski and Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.129</field>
+-    <field name="series_sim">Series 2: Brooklyn Children's Aid Society records</field>
+-    <field name="series_si">Series 2: Brooklyn Children's Aid Society records &gt;&gt; Temporary Home record</field>
++    <field name="series_sim">Series 2: Brooklyn Children&amp;#39;s Aid Society records</field>
++    <field name="series_si">Series 2: Brooklyn Children&#39;s Aid Society records &gt;&gt; Temporary Home record</field>
+     <field name="heading_ssm">Temporary Home record</field>
+     <field name="unitdate_start_sim">1933</field>
+     <field name="unitdate_start_ssm">1933</field>

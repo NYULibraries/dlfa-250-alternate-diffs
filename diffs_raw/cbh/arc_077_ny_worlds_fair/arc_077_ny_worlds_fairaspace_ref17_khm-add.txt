@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 2: 1939 Fair</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York World's Fair collection</field>
+-    <field name="collection_ssm">New York World's Fair collection</field>
++    <field name="collection_sim">New York World&#39;s Fair collection</field>
++    <field name="collection_ssm">New York World&#39;s Fair collection</field>
+     <field name="collection_unitid_ssm">ARC.077</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 5: Guide books</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1939/1940</field>
+     <field name="unitdate_normal_sim">1939/1940</field>
+     <field name="unitdate_inclusive_teim">1939-1940</field>
+-    <field name="scopecontent_teim">This subseries includes offical World's Fair guide books for 1939 and 1940, as well as tourist guides for both the World's Fair and New York City.</field>
++    <field name="scopecontent_teim">This subseries includes offical World&#39;s Fair guide books for 1939 and 1940, as well as tourist guides for both the World&#39;s Fair and New York City.</field>
+     <field name="ref_ssi">aspace_ref17_khm</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,7 +29,8 @@
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_ssm">Box: 11</field>
+     <field name="location_si">Box: 11</field>
+-    <field name="collection_teim">New York World's Fair collection</field>
++    <field name="collection_teim">New York World&#39;s Fair collection</field>
++    <field name="author_teim">Miranda Schwartz</field>
+     <field name="collection_unitid_teim">ARC.077</field>
+     <field name="series_sim">Series 2: 1939 Fair</field>
+     <field name="series_si">Series 2: 1939 Fair &gt;&gt; Subseries 5: Guide books</field>

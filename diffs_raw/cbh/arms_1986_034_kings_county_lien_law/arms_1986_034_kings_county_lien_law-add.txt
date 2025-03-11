@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Kings County lien law</field>
+     <field name="unitid_teim">1986.034</field>
+     <field name="unitid_ssm">1986.034</field>
+-    <field name="abstract_teim">A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building an/or materials or land on which the contractors worked.</field>
+-    <field name="abstract_ssm">A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building an/or materials or land on which the contractors worked.</field>
++    <field name="abstract_teim">A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner&#39;s building an/or materials or land on which the contractors worked.</field>
++    <field name="abstract_ssm">A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner&#39;s building an/or materials or land on which the contractors worked.</field>
+     <field name="creator_teim">Kings County (N.Y.)</field>
+     <field name="creator_ssm">Kings County (N.Y.)</field>
+     <field name="creator_ssm">Kings County (N.Y.)</field>
+@@ -26,7 +26,7 @@
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Real estate business |x Law and legislation |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Real estate business -- Law and legislation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Real estate business --Law and legislation --New York (State) --Kings County</field>
+     <field name="subject_ssm">Real estate business |x Law and legislation |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Kings County lien law</field>
+     <field name="collection_ssm">Kings County lien law</field>
+@@ -43,7 +43,7 @@
+     <field name="name_sim">Kings County (N.Y.)</field>
+     <field name="name_teim">Kings County (N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Real estate business -- Law and legislation -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Real estate business --Law and legislation --New York (State) --Kings County</field>
+     <field name="material_type_sim">Booklets</field>
+     <field name="material_type_ssm">Booklets</field>
+     <field name="heading_ssm">Kings County lien law</field>

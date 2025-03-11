@@ -1,0 +1,68 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1850/1954</field>
+     <field name="unitdate_inclusive_teim">1850-1954</field>
+     <field name="scopecontent_teim">This collection consists of various records spanning 1850 to 1954 and documenting the activities of the Gray-Pyle Real Estate Company.  Materials mainly include printed material relating to real estate for apartment buildings and private homes in the boroughs of Brooklyn and Queens, as well as Nassau County in Long Island.  Also included are numerous public auction notices; posters and sale notices, many including maps or photographs showing lots to be offered for sale; street and lot maps; blueprints; and booklets published by real estate companies concerning apartment building complexes and neighborhoods.  Additional materials include booklets describing building zone ordinances for Babylon, Long Island; legal documents; newspapers about building supplies; correspondence; and two scrapbooks with news clippings and classified advertisements for property.</field>
+-    <field name="bioghist_teim">The Brooklyn-based Gray-Pyle Real Estate Company was located at 199 Montague Street in the neighborhood of Brooklyn Heights.  Founded by Howard C. Pyle and George H. Gray as Howard C. Pyle and Company in 1904, the company's name was changed to the Gray-Pyle Real Estate Company  in 1919.</field>
++    <field name="bioghist_teim">The Brooklyn-based Gray-Pyle Real Estate Company was located at 199 Montague Street in the neighborhood of Brooklyn Heights.  Founded by Howard C. Pyle and George H. Gray as Howard C. Pyle and Company in 1904, the company&#39;s name was changed to the Gray-Pyle Real Estate Company  in 1919.</field>
+     <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Gray-Pyle Real Estate Company</field>
+@@ -58,15 +58,15 @@
+     <field name="subject_teim">Auctions |z New York (State) |z Queens County</field>
+     <field name="subject_teim">Auctions |z New York (State) |z Nassau County</field>
+     <field name="subject_teim">Auctions |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Nassau County</field>
+-    <field name="subject_teim">Real estate business -- New York (State) -- Nassau County</field>
+-    <field name="subject_teim">Real estate business -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Auctions -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Auctions -- New York (State) -- Nassau County</field>
+-    <field name="subject_teim">Auctions -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Queens County</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Nassau County</field>
++    <field name="subject_teim">Real estate business --New York (State) --Nassau County</field>
++    <field name="subject_teim">Real estate business --New York (State) --Queens County</field>
++    <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Auctions --New York (State) --Queens County</field>
++    <field name="subject_teim">Auctions --New York (State) --Nassau County</field>
++    <field name="subject_teim">Auctions --New York (State) --Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Queens County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Nassau County</field>
+@@ -92,19 +92,19 @@
+     <field name="name_teim">Gray-Pyle Real Estate Company</field>
+     <field name="place_sim">Queens (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Nassau County (N.Y.) -- Buildings, structures, etc.</field>
+-    <field name="place_sim">Queens County (N.Y.) -- Buildings, structures, etc.</field>
++    <field name="place_sim">Nassau County (N.Y.) --Buildings, structures, etc.</field>
++    <field name="place_sim">Queens County (N.Y.) --Buildings, structures, etc.</field>
+     <field name="place_sim">Nassau County (N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc.</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Queens County</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Nassau County</field>
+-    <field name="subject_sim">Real estate business -- New York (State) -- Nassau County</field>
+-    <field name="subject_sim">Real estate business -- New York (State) -- Queens County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Buildings, structures, etc.</field>
++    <field name="subject_sim">Real property --New York (State) --Queens County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Nassau County</field>
++    <field name="subject_sim">Real estate business --New York (State) --Nassau County</field>
++    <field name="subject_sim">Real estate business --New York (State) --Queens County</field>
+     <field name="subject_sim">Real estate business -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Auctions -- New York (State) -- Queens County</field>
+-    <field name="subject_sim">Auctions -- New York (State) -- Nassau County</field>
+-    <field name="subject_sim">Auctions -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Auctions --New York (State) --Queens County</field>
++    <field name="subject_sim">Auctions --New York (State) --Nassau County</field>
++    <field name="subject_sim">Auctions --New York (State) --Kings County</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Advertisements</field>
+     <field name="material_type_sim">Maps</field>

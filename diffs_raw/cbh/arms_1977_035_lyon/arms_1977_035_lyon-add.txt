@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -32,7 +32,7 @@
+     <field name="genreform_ssm">Lists (document genres)</field>
+     <field name="genreform_ssm">Articles</field>
+     <field name="subject_teim">Merchants |z New York (State) |z New York</field>
+-    <field name="subject_teim">Merchants -- New York (State) -- New York</field>
++    <field name="subject_teim">Merchants --New York (State) --New York</field>
+     <field name="subject_ssm">Merchants |z New York (State) |z New York</field>
+     <field name="collection_sim">William H. Lyons and Company records</field>
+     <field name="collection_ssm">William H. Lyons and Company records</field>
+@@ -48,7 +48,7 @@
+     <field name="creator_sim">William H. Lyons and Company (New York, N.Y.)</field>
+     <field name="name_sim">William H. Lyons and Company (New York, N.Y.)</field>
+     <field name="name_teim">William H. Lyons and Company (New York, N.Y.)</field>
+-    <field name="subject_sim">Merchants -- New York (State) -- New York</field>
++    <field name="subject_sim">Merchants --New York (State) --New York</field>
+     <field name="material_type_sim">Business records</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_sim">Lists (document genres)</field>

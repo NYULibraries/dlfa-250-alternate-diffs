@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1927/1944</field>
+     <field name="unitdate_normal_sim">1927/1944</field>
+     <field name="unitdate_inclusive_teim">1927-1944</field>
+-    <field name="scopecontent_teim">Includes annual reports, Prospectus, Delectus Seminum. November 1932 issue consists of "legal documents and information bearing on the establishment, organization and activities of the Brooklyn Botanic Garden, 1897-1932."</field>
++    <field name="scopecontent_teim">Includes annual reports, Prospectus, Delectus Seminum. November 1932 issue consists of &#34;legal documents and information bearing on the establishment, organization and activities of the Brooklyn Botanic Garden, 1897-1932.&#34;</field>
+     <field name="ref_ssi">aspace_72a37e0d1836795931bfbf189d9be9c8</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 12</field>
+     <field name="location_si">Box: 12</field>
+     <field name="collection_teim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
++    <field name="author_teim">Patricia Glowinski and Nicholas Pavlik.</field>
+     <field name="collection_unitid_teim">ARC.138</field>
+     <field name="series_sim">Brooklyn Botanic Garden</field>
+     <field name="series_sim">Publications</field>

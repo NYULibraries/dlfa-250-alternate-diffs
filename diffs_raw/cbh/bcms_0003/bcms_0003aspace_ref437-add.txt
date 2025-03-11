@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. Frank Leslie's Illustrated Newspaper</field>
++    <field name="unittitle_ssm">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="ref_ssi">aspace_ref437</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Cemeteries</field>
+-    <field name="series_si">Cemeteries &gt;&gt; Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. Frank Leslie's Illustrated Newspaper</field>
++    <field name="series_si">Cemeteries &gt;&gt; Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">Floral Decoration of the Graves of Patriot Soldiers, at Cypress Hill Cemetery, Long Island, New York, May 31st. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">389</field>
+   </doc>

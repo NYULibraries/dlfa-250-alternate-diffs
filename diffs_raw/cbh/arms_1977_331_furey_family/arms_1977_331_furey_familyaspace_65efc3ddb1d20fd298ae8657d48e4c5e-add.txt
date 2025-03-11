@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1864/1908</field>
+     <field name="unitdate_normal_sim">1864/1908</field>
+     <field name="unitdate_inclusive_teim">1864-1908</field>
+-    <field name="scopecontent_teim">Correspondence and official documents from Furey's military career. Also includes some personal correspondence.</field>
++    <field name="scopecontent_teim">Correspondence and official documents from Furey&#39;s military career. Also includes some personal correspondence.</field>
+     <field name="ref_ssi">aspace_65efc3ddb1d20fd298ae8657d48e4c5e</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 1, Folder: 3-5</field>
+     <field name="location_si">Box: 1, Folder: 3-5</field>
+     <field name="collection_teim">Furey family papers</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">1977.331</field>
+     <field name="series_sim">Series 1: Furey family</field>
+     <field name="series_sim">Sub-series 1.1: John V. Furey</field>

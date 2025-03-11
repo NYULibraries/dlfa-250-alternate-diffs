@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,9 +39,9 @@
+     <field name="subject_teim">Art |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Art, American</field>
+     <field name="subject_teim">Art |x Societies, etc.</field>
+-    <field name="subject_teim">Art -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Art, American</field>
+-    <field name="subject_teim">Art -- Societies, etc.</field>
++    <field name="subject_teim">Art --New York (State) --Kings County</field>
++    <field name="subject_teim">Art, American</field>
++    <field name="subject_teim">Art --Societies, etc.</field>
+     <field name="subject_ssm">Art |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Art, American</field>
+     <field name="subject_ssm">Art |x Societies, etc.</field>
+@@ -59,10 +59,10 @@
+     <field name="creator_sim">Brooklyn Art Association</field>
+     <field name="name_sim">Brooklyn Art Association</field>
+     <field name="name_teim">Brooklyn Art Association</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+-    <field name="subject_sim">Art -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
++    <field name="subject_sim">Art --New York (State) --Kings County</field>
+     <field name="subject_sim">Art, American</field>
+-    <field name="subject_sim">Art -- Societies, etc.</field>
++    <field name="subject_sim">Art --Societies, etc.</field>
+     <field name="material_type_sim">Certificates of incorporation</field>
+     <field name="material_type_sim">Accounts</field>
+     <field name="material_type_sim">Membership lists</field>

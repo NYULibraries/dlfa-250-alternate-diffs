@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Other letters</field>
+     <field name="unittitle_teim">Other letters</field>
+-    <field name="scopecontent_teim">Includes typescript copies of letters from William Davis and "Father" Friel as well as an original 1866 letter from W.E. (William Erigena) Robinson (1814-1892) recommending Daniel Friel for employment.</field>
++    <field name="scopecontent_teim">Includes typescript copies of letters from William Davis and &#34;Father&#34; Friel as well as an original 1866 letter from W.E. (William Erigena) Robinson (1814-1892) recommending Daniel Friel for employment.</field>
+     <field name="ref_ssi">aspace_f4cc0bfb6d928028c4a22fbcdfb05023</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Box: A0026, Folder: 5</field>
+     <field name="location_si">Box: A0026, Folder: 5</field>
+     <field name="collection_teim">Daniel and Hugh Friel letters</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">1977.425</field>
+     <field name="series_si">Other letters</field>
+     <field name="heading_ssm">Other letters</field>

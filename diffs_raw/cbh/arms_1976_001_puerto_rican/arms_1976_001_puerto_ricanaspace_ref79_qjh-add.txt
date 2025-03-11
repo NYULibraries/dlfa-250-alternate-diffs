@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">1974 October 25</field>
+-    <field name="scopecontent_teim">In the interview, Juana Weber Rodríguez recalls Brooklyn's relatively small and tight-knit Puerto Rican community of the 1920s and 1930s. She recounts the Brooklyn neighborhoods of Red Hook, Carroll Gardens and Columbia Height's waterfront with special attention paid to the early beginnings of Puerto Rican (and Hispanic) businesses and political clubs, as well as ethnic diversity. Rodríguez also discusses discrimination, as well as attempts by her brother Louis Felipe Weber and other community leaders to aid, advocate for, and encourage political participation within the Puerto Rican community. There is also a brief discussion of Spanish-language newspapers, as well as a comparison between Puerto Ricans during the interwar period and the 1970s. Interview in Spanish conducted by John D. Vazquez.</field>
+-    <field name="bioghist_teim">Juana Weber Rodríguez was born in Puerto Rico in 1897. She landed in Brooklyn with her daughter on May 30, 1926, after her husband had arrived in March of the same year. Along with her family, Rodríguez resided in the Red Hook and Carroll Gardens neighborhoods of Brooklyn. Her husband labored as a factory worker, an employee of the Betances Democratic Club (founded by Rodríguez's brother Louis Felipe Weber), and as a merchant marine, while Rodríguez worked as a housewife and mother. At the time of the interview in 1974, she had been living in the Howard Beach neighborhood of Queens for approximately two years.</field>
++    <field name="scopecontent_teim">In the interview, Juana Weber Rodríguez recalls Brooklyn&#39;s relatively small and tight-knit Puerto Rican community of the 1920s and 1930s. She recounts the Brooklyn neighborhoods of Red Hook, Carroll Gardens and Columbia Height&#39;s waterfront with special attention paid to the early beginnings of Puerto Rican (and Hispanic) businesses and political clubs, as well as ethnic diversity. Rodríguez also discusses discrimination, as well as attempts by her brother Louis Felipe Weber and other community leaders to aid, advocate for, and encourage political participation within the Puerto Rican community. There is also a brief discussion of Spanish-language newspapers, as well as a comparison between Puerto Ricans during the interwar period and the 1970s. Interview in Spanish conducted by John D. Vazquez.</field>
++    <field name="bioghist_teim">Juana Weber Rodríguez was born in Puerto Rico in 1897. She landed in Brooklyn with her daughter on May 30, 1926, after her husband had arrived in March of the same year. Along with her family, Rodríguez resided in the Red Hook and Carroll Gardens neighborhoods of Brooklyn. Her husband labored as a factory worker, an employee of the Betances Democratic Club (founded by Rodríguez&#39;s brother Louis Felipe Weber), and as a merchant marine, while Rodríguez worked as a housewife and mother. At the time of the interview in 1974, she had been living in the Howard Beach neighborhood of Queens for approximately two years.</field>
+     <field name="corpname_teim">Betances Club</field>
+     <field name="corpname_ssm">Betances Club</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+@@ -42,13 +42,13 @@
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Ethnic identity</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x History |y 20th century</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Social conditions |y 20th century</field>
+-    <field name="subject_teim">Civic leaders -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Political clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Social conditions -- 20th century</field>
++    <field name="subject_teim">Civic leaders --New York (State) --Kings County</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Political clubs --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --History --20th century</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Social conditions --20th century</field>
+     <field name="subject_ssm">Civic leaders |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Political clubs |z New York (State) |z Kings County</field>
+@@ -68,20 +68,21 @@
+     <field name="place_ssm">Columbia Heights (Brooklyn, N.Y.)</field>
+     <field name="place_ssm">Puerto Rico</field>
+     <field name="place_ssm">Red Hook (New York, N.Y.)</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Columbia Heights (Brooklyn, N.Y.)</field>
+     <field name="place_sim">Puerto Rico</field>
+     <field name="place_sim">Red Hook (New York, N.Y.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Civic leaders -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Political clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Social conditions -- 20th century</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Civic leaders --New York (State) --Kings County</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Political clubs --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --History --20th century</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Social conditions --20th century</field>
+     <field name="collection_teim">Puerto Rican Oral History Project records</field>
++    <field name="author_teim">Morgen Stevens-Garmon under the supervision of Chela Scott Weber, with revision by Brett Dion</field>
+     <field name="collection_unitid_teim">1976.001</field>
+     <field name="series_sim">Series 1: Oral Histories</field>
+     <field name="series_si">Series 1: Oral Histories &gt;&gt; Rodriguez, Juana Weber</field>

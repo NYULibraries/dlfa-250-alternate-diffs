@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -48,10 +48,10 @@
+     <field name="subject_teim">Jews |x Return to Orthodox Judaism</field>
+     <field name="subject_teim">Jews |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jews, South African</field>
+-    <field name="subject_teim">Jews -- Return to Orthodox Judaism</field>
+-    <field name="subject_teim">Jews -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Family life --New York (State) --Kings County</field>
++    <field name="subject_teim">Jews, South African</field>
++    <field name="subject_teim">Jews --Return to Orthodox Judaism</field>
++    <field name="subject_teim">Jews --New York (State) --Kings County</field>
+     <field name="subject_teim">Race relations -- United States</field>
+     <field name="subject_ssm">Family life |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Jews, South African</field>
+@@ -70,26 +70,27 @@
+     <field name="name_teim">Congregation Lubavitch (Crown Heights, New York, N.Y.)</field>
+     <field name="name_teim">Meshchaninov, Bracha</field>
+     <field name="name_teim">Schneerson, Menachem Mendel</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_ssm">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</field>
+     <field name="place_ssm">Crown Heights (New York, N.Y.)</field>
+     <field name="place_ssm">Israel</field>
+     <field name="place_ssm">South Africa</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">Israel</field>
+     <field name="place_sim">South Africa</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Family life -- New York (State) -- Kings County</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Family life --New York (State) --Kings County</field>
+     <field name="subject_sim">Jews, South African</field>
+-    <field name="subject_sim">Jews -- Return to Orthodox Judaism</field>
+-    <field name="subject_sim">Jews -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Jews --Return to Orthodox Judaism</field>
++    <field name="subject_sim">Jews --New York (State) --Kings County</field>
+     <field name="subject_sim">Race relations -- United States</field>
+     <field name="collection_teim">Crown Heights History Project collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">1994.006</field>
+     <field name="series_sim">Crown Heights History Project oral histories</field>
+     <field name="series_si">Crown Heights History Project oral histories &gt;&gt; Meshchaninov, Bracha</field>

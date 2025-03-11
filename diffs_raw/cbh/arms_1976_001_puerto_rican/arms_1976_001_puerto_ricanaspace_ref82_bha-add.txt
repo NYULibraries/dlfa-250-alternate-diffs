@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">1974 October 29</field>
+-    <field name="scopecontent_teim">In the interview, Ramón Rodríguez recounts the first generation of Puerto Rican grocery stores in Brooklyn during the late 1920s and 1930s. He specifies such stores by name. In addition, Rodríguez relates information on living conditions in the 1930s, as well as what he describes as the poor relationship between the police and Brooklyn's Puerto Rican community. There is also a detailed account of renowned local figures such as Sister Carmelita, Jesus Colón, Louis Weber, and Carlos Tapia. Interview in Spanish conducted by John D. Vazquez.</field>
++    <field name="scopecontent_teim">In the interview, Ramón Rodríguez recounts the first generation of Puerto Rican grocery stores in Brooklyn during the late 1920s and 1930s. He specifies such stores by name. In addition, Rodríguez relates information on living conditions in the 1930s, as well as what he describes as the poor relationship between the police and Brooklyn&#39;s Puerto Rican community. There is also a detailed account of renowned local figures such as Sister Carmelita, Jesus Colón, Louis Weber, and Carlos Tapia. Interview in Spanish conducted by John D. Vazquez.</field>
+     <field name="bioghist_teim">Ramón Rodríguez was born in Puerto Rico in 1901. He arrived in Brooklyn in 1927, working at Acme Backing Corporation, a rubber cement factory, for twenty-three years. Rodríguez lived in various locations in the neighborhood of Downtown Brooklyn, moving to the Bedford-Stuyvesant neighborhood of Brooklyn in 1946. Despite being a factory worker with little formal education, he remained active in his community, becoming acquainted with many of its leading figures.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Columbia Heights (Brooklyn, N.Y.)</field>
+@@ -36,11 +36,11 @@
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Economic conditions</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Ethnic identity</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x History |y 20th century</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Great Depression -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Great Depression --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --History --20th century</field>
+     <field name="subject_ssm">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Great Depression |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Puerto Ricans |z New York (State) |z New York |x Economic conditions</field>
+@@ -55,17 +55,18 @@
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="place_ssm">Columbia Heights (Brooklyn, N.Y.)</field>
+     <field name="place_ssm">Puerto Rico</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Columbia Heights (Brooklyn, N.Y.)</field>
+     <field name="place_sim">Puerto Rico</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Great Depression -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Great Depression --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --History --20th century</field>
+     <field name="collection_teim">Puerto Rican Oral History Project records</field>
++    <field name="author_teim">Morgen Stevens-Garmon under the supervision of Chela Scott Weber, with revision by Brett Dion</field>
+     <field name="collection_unitid_teim">1976.001</field>
+     <field name="series_sim">Series 1: Oral Histories</field>
+     <field name="series_si">Series 1: Oral Histories &gt;&gt; Rodriguez, Ramon</field>

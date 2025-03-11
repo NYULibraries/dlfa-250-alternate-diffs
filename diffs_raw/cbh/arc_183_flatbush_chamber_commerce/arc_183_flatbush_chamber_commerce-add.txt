@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -37,17 +37,17 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Commerce</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Economic conditions |y 20th century</field>
+     <field name="geogname_ssm">Flatbush (New York, N.Y.)</field>
+-    <field name="subject_teim">Citizens' associations |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Citizens&#39; associations |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Community development |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Neighborhood government |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Business enterprises |z New York (State) |z Kings County</field>
+     <field name="subject_teim">City planning</field>
+-    <field name="subject_teim">Citizens' associations -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Community development -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Neighborhood government -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">City planning</field>
+-    <field name="subject_ssm">Citizens' associations |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Citizens&#39; associations --New York (State) --Kings County</field>
++    <field name="subject_teim">Community development --New York (State) --Kings County</field>
++    <field name="subject_teim">Neighborhood government --New York (State) --Kings County</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_teim">City planning</field>
++    <field name="subject_ssm">Citizens&#39; associations |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Community development |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Neighborhood government |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Business enterprises |z New York (State) |z Kings County</field>
+@@ -67,13 +67,13 @@
+     <field name="name_sim">Flatbush Chamber of Commerce (New York, N.Y.)</field>
+     <field name="name_teim">Flatbush Chamber of Commerce (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Commerce</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Economic conditions -- 20th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Commerce</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Economic conditions --20th century</field>
+     <field name="place_sim">Flatbush (New York, N.Y.)</field>
+-    <field name="subject_sim">Citizens' associations -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Community development -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Neighborhood government -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Citizens&#39; associations --New York (State) --Kings County</field>
++    <field name="subject_sim">Community development --New York (State) --Kings County</field>
++    <field name="subject_sim">Neighborhood government --New York (State) --Kings County</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
+     <field name="subject_sim">City planning</field>
+     <field name="material_type_sim">Newsletters</field>
+     <field name="material_type_ssm">Newsletters</field>

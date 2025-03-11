@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">bcms_0030</field>
+     <field name="parent_ssi">aspace_ref125</field>
+     <field name="parent_ssm">aspace_ref125</field>
+-    <field name="parent_unittitles_ssm">Saint Edmund's High School</field>
+-    <field name="parent_unittitles_teim">Saint Edmund's High School</field>
++    <field name="parent_unittitles_ssm">Saint Edmund&amp;#39;s High School</field>
++    <field name="parent_unittitles_teim">Saint Edmund&amp;#39;s High School</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0030</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Edmund News&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Edmund News
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Edmund News&lt;/em&gt;</field>
++    <field name="unittitle_teim">Edmund News</field>
+     <field name="unitdate_normal_ssm">1961/1961</field>
+     <field name="unitdate_normal_teim">1961/1961</field>
+     <field name="unitdate_normal_sim">1961/1961</field>
+@@ -33,14 +29,11 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian and revised by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0030</field>
+-    <field name="series_sim">Saint Edmund's High School</field>
+-    <field name="series_si">Saint Edmund's High School &gt;&gt; 
+-      &lt;em&gt;Edmund News&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Edmund News
+-    </field>
++    <field name="series_sim">Saint Edmund&amp;#39;s High School</field>
++    <field name="series_si">Saint Edmund&#39;s High School &gt;&gt; &lt;em&gt;Edmund News&lt;/em&gt;</field>
++    <field name="heading_ssm">Edmund News</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

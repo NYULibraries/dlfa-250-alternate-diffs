@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">John Stansbury account book</field>
+     <field name="unitid_teim">1973.100</field>
+     <field name="unitid_ssm">1973.100</field>
+-    <field name="abstract_teim">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821.</field>
+-    <field name="abstract_ssm">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821.</field>
++    <field name="abstract_teim">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury&#39;s various transactions throughout the period 1810 to 1821.</field>
++    <field name="abstract_ssm">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury&#39;s various transactions throughout the period 1810 to 1821.</field>
+     <field name="creator_teim">Stansbury family</field>
+     <field name="creator_teim">Stansbury, John</field>
+     <field name="creator_ssm">Stansbury family</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1810/1824</field>
+     <field name="unitdate_normal_sim">1810/1824</field>
+     <field name="unitdate_inclusive_teim">1810-1824</field>
+-    <field name="scopecontent_teim">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821.  Roughly half the book is also filled with clippings that have been pasted over transaction entries and contain poems and stories from various news publications.  Additional members of the Stansbury family, including Cecilia and Isaac Stanbury, are also brielfy represented by entries in the account book: Cecilia used portions of the book to practice long division, while Isaac entered accounts of his own transactions.</field>
++    <field name="scopecontent_teim">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury&#39;s various transactions throughout the period 1810 to 1821.  Roughly half the book is also filled with clippings that have been pasted over transaction entries and contain poems and stories from various news publications.  Additional members of the Stansbury family, including Cecilia and Isaac Stanbury, are also brielfy represented by entries in the account book: Cecilia used portions of the book to practice long division, while Isaac entered accounts of his own transactions.</field>
+     <field name="bioghist_teim">A resident of the town of Flushing in Queens County, N.Y. during the 19th century, John Stansbury owned a farmhouse near Horace Harding and Springfield Boulevards.</field>
+     <field name="acqinfo_teim">The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1973.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -61,7 +61,7 @@
+     <field name="name_sim">Stansbury, John</field>
+     <field name="name_teim">Stansbury family</field>
+     <field name="name_teim">Stansbury, John</field>
+-    <field name="place_sim">Flushing (New York, N.Y.) -- Commerce</field>
++    <field name="place_sim">Flushing (New York, N.Y.) --Commerce</field>
+     <field name="place_sim">Flushing (New York, N.Y.)</field>
+     <field name="material_type_sim">Accounts</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

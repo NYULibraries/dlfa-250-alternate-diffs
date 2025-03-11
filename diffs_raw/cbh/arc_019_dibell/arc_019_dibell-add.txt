@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">George Dibell papers</field>
+     <field name="unitid_teim">ARC.019</field>
+     <field name="unitid_ssm">ARC.019</field>
+-    <field name="abstract_teim">The George Dibell papers consist of two documents. The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt. The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell's will, signed by Platt and Charles Sexton, Justice.</field>
+-    <field name="abstract_ssm">The George Dibell papers consist of two documents. The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt. The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell's will, signed by Platt and Charles Sexton, Justice.</field>
++    <field name="abstract_teim">The George Dibell papers consist of two documents. The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt. The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell&#39;s will, signed by Platt and Charles Sexton, Justice.</field>
++    <field name="abstract_ssm">The George Dibell papers consist of two documents. The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt. The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell&#39;s will, signed by Platt and Charles Sexton, Justice.</field>
+     <field name="creator_teim">Smith, Samuel, Sr.</field>
+     <field name="creator_teim">Smith, Samuel, Jr.</field>
+     <field name="creator_teim">Dibell, George</field>
+@@ -28,7 +28,7 @@
+     <field name="unitdate_normal_teim">1721/1741</field>
+     <field name="unitdate_normal_sim">1721/1741</field>
+     <field name="unitdate_inclusive_teim">1721, 1741</field>
+-    <field name="scopecontent_teim">The George Dibell papers consist of two documents.  The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt.  The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell's will, signed by Platt and Charles Sexton, Justice.</field>
++    <field name="scopecontent_teim">The George Dibell papers consist of two documents.  The first is the last will and testament of Captain George Dibell, dated April 25, 1721, signed by Dibell and witnesses Samuel Smith, Samuel Smith, Jr., and Eponetus Platt.  The second is a document dating from August 10, 1741, verifying that Eponetus Platt was a witness to Dibell&#39;s will, signed by Platt and Charles Sexton, Justice.</field>
+     <field name="bioghist_teim">Captain George Dibell lived in Huntington, Long Island during the 18th century.  Details regarding his life are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -50,9 +50,9 @@
+     <field name="persname_ssm">Platt, Eponetus</field>
+     <field name="persname_ssm">Sexton, Charles, Justice</field>
+     <field name="persname_ssm">Dibell, George</field>
+-    <field name="subject_teim">Decedents' estates |z New York (State) |z Huntington</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Huntington</field>
+-    <field name="subject_ssm">Decedents' estates |z New York (State) |z Huntington</field>
++    <field name="subject_teim">Decedents&#39; estates |z New York (State) |z Huntington</field>
++    <field name="subject_teim">Decedents&#39; estates --New York (State) --Huntington</field>
++    <field name="subject_ssm">Decedents&#39; estates |z New York (State) |z Huntington</field>
+     <field name="collection_sim">George Dibell papers</field>
+     <field name="collection_ssm">George Dibell papers</field>
+     <field name="collection_teim">George Dibell papers</field>
+@@ -80,7 +80,7 @@
+     <field name="name_teim">Platt, Eponetus</field>
+     <field name="name_teim">Sexton, Charles, Justice</field>
+     <field name="place_sim">Long Island (N.Y.)</field>
+-    <field name="subject_sim">Decedents' estates -- New York (State) -- Huntington</field>
++    <field name="subject_sim">Decedents&#39; estates --New York (State) --Huntington</field>
+     <field name="material_type_sim">Legal documents</field>
+     <field name="material_type_sim">Wills</field>
+     <field name="material_type_ssm">Legal documents</field>

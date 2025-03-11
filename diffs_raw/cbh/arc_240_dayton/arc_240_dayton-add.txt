@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">J.R. and Orrin Dayton papers</field>
+     <field name="unitid_teim">ARC.240</field>
+     <field name="unitid_ssm">ARC.240</field>
+-    <field name="abstract_teim">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.'s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.</field>
+-    <field name="abstract_ssm">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.'s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.</field>
++    <field name="abstract_teim">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.&#39;s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.</field>
++    <field name="abstract_ssm">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.&#39;s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.</field>
+     <field name="creator_teim">Dayton, J. R.</field>
+     <field name="creator_teim">Dayton, Orrin</field>
+     <field name="creator_ssm">Dayton, J. R.</field>
+@@ -19,8 +19,8 @@
+     <field name="unitdate_normal_teim">1867/1902</field>
+     <field name="unitdate_normal_sim">1867/1902</field>
+     <field name="unitdate_inclusive_teim">1867-1902</field>
+-    <field name="scopecontent_teim">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.'s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.  Also included are various notes and letters of J.R. Dayton's regarding the cost and sale of cotton, as well as the affairs of the town of Speonk in Long Island, such as property matters and the history of the naming of the town.  References to African Americans are also included in the notes.  The label on one of J.R.'s emptied envelopes indicates that it had contained the notes of Orrin Dayton, so it is possible that Orrin's notes are also included here.  Materials date from 1867 to 1902.</field>
+-    <field name="bioghist_teim">John R. (J.R.) Dayton was a cotton broker who, along with Roger W. Waldo, owned and operated Dayton &amp; Waldo, Cotton Brokers, located on Pearl Street in New York City.  Orrin Dayton was a resident of the town of Speonk in Long Island.  J.R.'s notes in this collection focus on Speonk and also refer to Orrin Dayton, so it is likley that J.R. and Orrin shared a familial relation, though the degree to which they were related is not fully known.</field>
++    <field name="scopecontent_teim">This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.&#39;s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers.  Also included are various notes and letters of J.R. Dayton&#39;s regarding the cost and sale of cotton, as well as the affairs of the town of Speonk in Long Island, such as property matters and the history of the naming of the town.  References to African Americans are also included in the notes.  The label on one of J.R.&#39;s emptied envelopes indicates that it had contained the notes of Orrin Dayton, so it is possible that Orrin&#39;s notes are also included here.  Materials date from 1867 to 1902.</field>
++    <field name="bioghist_teim">John R. (J.R.) Dayton was a cotton broker who, along with Roger W. Waldo, owned and operated Dayton &amp; Waldo, Cotton Brokers, located on Pearl Street in New York City.  Orrin Dayton was a resident of the town of Speonk in Long Island.  J.R.&#39;s notes in this collection focus on Speonk and also refer to Orrin Dayton, so it is likley that J.R. and Orrin shared a familial relation, though the degree to which they were related is not fully known.</field>
+     <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1977 and 1978.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Dayton &amp; Waldo (New York, N.Y.)</field>
+@@ -49,9 +49,9 @@
+     <field name="subject_teim">Cotton trade |z New York (State) |z New York</field>
+     <field name="subject_teim">Real property |z New York (State) |z Speonk</field>
+     <field name="subject_teim">African Americans -- New York (State) -- Speonk</field>
+-    <field name="subject_teim">Brokers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Cotton trade -- New York (State) -- New York</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Speonk</field>
++    <field name="subject_teim">Brokers --New York (State) --New York</field>
++    <field name="subject_teim">Cotton trade --New York (State) --New York</field>
++    <field name="subject_teim">Real property --New York (State) --Speonk</field>
+     <field name="subject_ssm">African Americans -- New York (State) -- Speonk</field>
+     <field name="subject_ssm">Brokers |z New York (State) |z New York</field>
+     <field name="subject_ssm">Cotton trade |z New York (State) |z New York</field>
+@@ -78,9 +78,9 @@
+     <field name="place_sim">Speonk (N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="subject_sim">African Americans -- New York (State) -- Speonk</field>
+-    <field name="subject_sim">Brokers -- New York (State) -- New York</field>
+-    <field name="subject_sim">Cotton trade -- New York (State) -- New York</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Speonk</field>
++    <field name="subject_sim">Brokers --New York (State) --New York</field>
++    <field name="subject_sim">Cotton trade --New York (State) --New York</field>
++    <field name="subject_sim">Real property --New York (State) --Speonk</field>
+     <field name="material_type_sim">Notes</field>
+     <field name="material_type_sim">Receipts (financial records)</field>
+     <field name="material_type_sim">Correspondence</field>

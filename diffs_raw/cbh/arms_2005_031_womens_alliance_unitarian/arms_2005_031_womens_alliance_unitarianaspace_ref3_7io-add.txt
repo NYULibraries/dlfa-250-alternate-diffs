@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_2005_031_womens_alliance_unitarian</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
+-    <field name="collection_ssm">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_sim">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_ssm">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
+     <field name="collection_unitid_ssm">2005.031</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 3: General Correspondence.</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1976/2003</field>
+     <field name="unitdate_inclusive_teim">1976-2003</field>
+     <field name="scopecontent_teim">The series General Correspondence consists of internal
+-correspondence between members of the Women's Alliance, between the Alliance and officers of the First Unitarian Church, and external correspondence between the Alliance and other organizations. The documents include typewritten letters, faxes, handwritten notes, postcards, and drafts of correspondence. Printouts of email correspondence comprise a very small portion of the series, and some correspondence retains attachments such as newspaper clippings and forms.</field>
++correspondence between members of the Women&#39;s Alliance, between the Alliance and officers of the First Unitarian Church, and external correspondence between the Alliance and other organizations. The documents include typewritten letters, faxes, handwritten notes, postcards, and drafts of correspondence. Printouts of email correspondence comprise a very small portion of the series, and some correspondence retains attachments such as newspaper clippings and forms.</field>
+     <field name="ref_ssi">aspace_ref3_7io</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,7 +23,8 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_teim">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="author_teim">Craig P. Savino</field>
+     <field name="collection_unitid_teim">2005.031</field>
+     <field name="series_si">Series 3: General Correspondence.</field>
+     <field name="heading_ssm">Series 3: General Correspondence.</field>

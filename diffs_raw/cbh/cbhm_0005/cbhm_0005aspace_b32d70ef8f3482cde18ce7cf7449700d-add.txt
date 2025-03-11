@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Alice Walsh Sunset Park collection</field>
+     <field name="collection_unitid_ssm">CBHM.0005</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Norwegian Lutheran Deaconesses' Home and Hospital photograph</field>
+-    <field name="unittitle_teim">The Norwegian Lutheran Deaconesses' Home and Hospital photograph</field>
++    <field name="unittitle_ssm">The Norwegian Lutheran Deaconesses&#39; Home and Hospital photograph</field>
++    <field name="unittitle_teim">The Norwegian Lutheran Deaconesses&#39; Home and Hospital photograph</field>
+     <field name="unitdate_normal_ssm">1910/1930</field>
+     <field name="unitdate_normal_teim">1910/1930</field>
+     <field name="unitdate_normal_sim">1910/1930</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 18</field>
+     <field name="location_si">Box: 1, Folder: 18</field>
+     <field name="collection_teim">Alice Walsh Sunset Park collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">CBHM.0005</field>
+     <field name="series_sim">Series 2: Sunset Park Restoration Committee records</field>
+-    <field name="series_si">Series 2: Sunset Park Restoration Committee records &gt;&gt; The Norwegian Lutheran Deaconesses' Home and Hospital photograph</field>
+-    <field name="heading_ssm">The Norwegian Lutheran Deaconesses' Home and Hospital photograph</field>
++    <field name="series_si">Series 2: Sunset Park Restoration Committee records &gt;&gt; The Norwegian Lutheran Deaconesses&#39; Home and Hospital photograph</field>
++    <field name="heading_ssm">The Norwegian Lutheran Deaconesses&#39; Home and Hospital photograph</field>
+     <field name="unitdate_start_sim">1910</field>
+     <field name="unitdate_start_ssm">1910</field>
+     <field name="unitdate_start_si">1910</field>

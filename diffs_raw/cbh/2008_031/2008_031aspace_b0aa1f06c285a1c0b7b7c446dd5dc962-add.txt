@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitid_ssm">2008.031.8.002</field>
+     <field name="unitdate_teim">2017 April 7</field>
+     <field name="scopecontent_teim">During the interview, Crane Davis (1945-) describes growing up in New York City and returning as an adult. Davis discusses his involvement in the Vietnam War as a Marine Corps officer, reporting on gay and lesbian communities prior to the AIDS epidemic, and his experience organizing loft tenants and manufacturers at DUMBO in the 1970s and 1980s. Interview conducted by Sady Sullivan.</field>
+-    <field name="bioghist_teim">Crane Davis (1945-) was born in Dallas, Texas to two parents in the Marine Corps. Davis received a B.A. in romance languages from Princeton University. He was a reporter at Time Magazine and WNET's Channel Thirteen, living in the woods of Maine in between the two jobs. He worked as an independent speech writer and fought for renters' rights in Brooklyn.</field>
++    <field name="bioghist_teim">Crane Davis (1945-) was born in Dallas, Texas to two parents in the Marine Corps. Davis received a B.A. in romance languages from Princeton University. He was a reporter at Time Magazine and WNET&#39;s Channel Thirteen, living in the woods of Maine in between the two jobs. He worked as an independent speech writer and fought for renters&#39; rights in Brooklyn.</field>
+     <field name="corpname_teim">Time</field>
+     <field name="corpname_teim">Princeton University</field>
+     <field name="corpname_teim">United States Marine Corps</field>
+@@ -87,6 +87,7 @@
+     <field name="subject_sim">Draft</field>
+     <field name="subject_sim">Labor unions--Organizing</field>
+     <field name="collection_teim">Voices of Brooklyn oral histories</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">2008.031</field>
+     <field name="series_sim">Series 8: Waterfront series</field>
+     <field name="series_si">Series 8: Waterfront series &gt;&gt; Davis, Crane</field>

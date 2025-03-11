@@ -1,0 +1,74 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_inclusive_teim">1989 May 4</field>
+-    <field name="scopecontent_teim">In this interview, Diógenes Castillo describes what occupies his time as a high school student, including his work in a bodega in the Bushwick neighborhood of Brooklyn. He talks about that neighborhood's Latino Caribbean culture, including Casa Borínquen, a dance club. Interview conducted by Marcelo Herman.</field>
+-    <field name="bioghist_teim">Born in the Dominican Republic in the early 1970s, Diógenes Castillo was a student at Bushwick High School when this 1989 interview took place. He first lived on Manhattan's Lower East Side in the mid-1980s before moving to the Bushwick neighborhood of Brooklyn.</field>
++    <field name="scopecontent_teim">In this interview, Diógenes Castillo describes what occupies his time as a high school student, including his work in a bodega in the Bushwick neighborhood of Brooklyn. He talks about that neighborhood&#39;s Latino Caribbean culture, including Casa Borínquen, a dance club. Interview conducted by Marcelo Herman.</field>
++    <field name="bioghist_teim">Born in the Dominican Republic in the early 1970s, Diógenes Castillo was a student at Bushwick High School when this 1989 interview took place. He first lived on Manhattan&#39;s Lower East Side in the mid-1980s before moving to the Bushwick neighborhood of Brooklyn.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Bushwick (New York, N.Y.)</field>
+     <field name="geogname_teim">Dominican Republic</field>
+@@ -43,16 +43,16 @@
+     <field name="subject_teim">Nightclubs |z New York (State) |z New York</field>
+     <field name="subject_teim">Public schools |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Bodegas -- New York (State) -- New York</field>
+-    <field name="subject_teim">Dominican Americans</field>
+-    <field name="subject_teim">English as a second language</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York -- Conduct of life</field>
+-    <field name="subject_teim">Hispanic Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Music -- New York (State) -- New York</field>
+-    <field name="subject_teim">Nightclubs -- New York (State) -- New York</field>
+-    <field name="subject_teim">Public schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Bodegas --New York (State) --New York</field>
++    <field name="subject_teim">Dominican Americans</field>
++    <field name="subject_teim">English as a second language</field>
++    <field name="subject_teim">High school students --New York (State) --New York --Conduct of life</field>
++    <field name="subject_teim">Hispanic Americans -- New York (State) -- New York</field>
++    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Music --New York (State) --New York</field>
++    <field name="subject_teim">Nightclubs --New York (State) --New York</field>
++    <field name="subject_teim">Public schools --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --Kings County</field>
+     <field name="subject_ssm">Bodegas |z New York (State) |z New York</field>
+     <field name="subject_ssm">Dominican Americans</field>
+     <field name="subject_ssm">English as a second language</field>
+@@ -73,23 +73,24 @@
+     <field name="place_ssm">Bushwick (New York, N.Y.)</field>
+     <field name="place_ssm">Dominican Republic</field>
+     <field name="place_ssm">Puerto Rico</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Bushwick (New York, N.Y.)</field>
+     <field name="place_sim">Dominican Republic</field>
+     <field name="place_sim">Puerto Rico</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Bodegas -- New York (State) -- New York</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Bodegas --New York (State) --New York</field>
+     <field name="subject_sim">Dominican Americans</field>
+     <field name="subject_sim">English as a second language</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York -- Conduct of life</field>
++    <field name="subject_sim">High school students --New York (State) --New York --Conduct of life</field>
+     <field name="subject_sim">Hispanic Americans -- New York (State) -- New York</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Music -- New York (State) -- New York</field>
+-    <field name="subject_sim">Nightclubs -- New York (State) -- New York</field>
+-    <field name="subject_sim">Public schools -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Music --New York (State) --New York</field>
++    <field name="subject_sim">Nightclubs --New York (State) --New York</field>
++    <field name="subject_sim">Public schools --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --Kings County</field>
+     <field name="collection_teim">Hispanic Communities Documentation Project records and oral histories</field>
++    <field name="author_teim">Cesar Garza</field>
+     <field name="collection_unitid_teim">ARC.032</field>
+     <field name="series_sim">Series 1: Publicized oral histories</field>
+     <field name="series_si">Series 1: Publicized oral histories &gt;&gt; Castillo, Diogenes</field>

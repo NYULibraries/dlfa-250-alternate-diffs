@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1822/1882</field>
+     <field name="unitdate_inclusive_teim">1822-1882</field>
+     <field name="scopecontent_teim">This collection includes various papers of Dr. John S. Thorne and Dr. John Haslett spanning the period 1822 to 1882, including correspondence, notes, commissions and appointments, certificates, and admission tickets to classes and lectures at the University of the State of New York College of Physicians and Surgeons and the New York Eye Infirmary.</field>
+-    <field name="bioghist_teim">Dr. John S. Thorne was a Brooklyn resident who studied medicine at the University of the State of New York College of Physicians and Surgeons and then practiced in Brooklyn. He served on the Brooklyn Board of Health and at the Brooklyn Dispensary. Thorne's daughter, Elizabeth, married Samuel Haslett, who was the son of Dr. John Haslett, another prominent Brooklyn physician.</field>
++    <field name="bioghist_teim">Dr. John S. Thorne was a Brooklyn resident who studied medicine at the University of the State of New York College of Physicians and Surgeons and then practiced in Brooklyn. He served on the Brooklyn Board of Health and at the Brooklyn Dispensary. Thorne&#39;s daughter, Elizabeth, married Samuel Haslett, who was the son of Dr. John Haslett, another prominent Brooklyn physician.</field>
+     <field name="acqinfo_teim">Gift of the Brooklyn Institute of Arts and Letters, 1931.</field>
+     <field name="phystech_teim">If digital surrogates exist, they should be used in place of the originals whenever possible.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -38,8 +38,8 @@
+     <field name="persname_ssm">Haslett, John, Dr.</field>
+     <field name="subject_teim">Medicine |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Physicians |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Medicine -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Physicians -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Medicine --New York (State) --Kings County</field>
++    <field name="subject_teim">Physicians --New York (State) --Kings County</field>
+     <field name="subject_ssm">Medicine |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Physicians |z New York (State) |z Kings County</field>
+     <field name="collection_sim">John S. Thorne and John Haslett papers</field>
+@@ -59,8 +59,8 @@
+     <field name="name_teim">Thorne, John S.</field>
+     <field name="name_teim">Haslett, John, Dr.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Medicine -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Physicians -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Medicine --New York (State) --Kings County</field>
++    <field name="subject_sim">Physicians --New York (State) --Kings County</field>
+     <field name="material_type_sim">Commissions (permissions)</field>
+     <field name="material_type_sim">Admission tickets</field>
+     <field name="material_type_sim">Correspondence</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">bcms_0041</field>
+     <field name="parent_ssi">aspace_ref245</field>
+     <field name="parent_ssm">aspace_ref245</field>
+-    <field name="parent_unittitles_ssm">Brooklyn (Werba's)</field>
+-    <field name="parent_unittitles_teim">Brooklyn (Werba's)</field>
++    <field name="parent_unittitles_ssm">Brooklyn (Werba&amp;#39;s)</field>
++    <field name="parent_unittitles_teim">Brooklyn (Werba&amp;#39;s)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
++    <field name="author_teim">Collection processed by Lisa DeBoer, Lisa Castrogiovanni and Lisa Studier and revised by Diana Bowers-Smith.</field>
+     <field name="collection_unitid_teim">BCMS.0041</field>
+-    <field name="series_sim">Brooklyn (Werba's)</field>
+-    <field name="series_si">Brooklyn (Werba's) &gt;&gt; Boy Meets Girl</field>
++    <field name="series_sim">Brooklyn (Werba&amp;#39;s)</field>
++    <field name="series_si">Brooklyn (Werba&#39;s) &gt;&gt; Boy Meets Girl</field>
+     <field name="heading_ssm">Boy Meets Girl</field>
+     <field name="unitdate_ssm">September 27, 1937</field>
+     <field name="date_range_sim">undated &amp; other</field>

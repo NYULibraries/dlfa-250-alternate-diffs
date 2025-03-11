@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1994/1995</field>
+     <field name="unitdate_normal_sim">1994/1995</field>
+     <field name="unitdate_inclusive_teim">1994-1995</field>
+-    <field name="scopecontent_teim">Vol. III Nos. 3 and 11. Published by Flare Corp., "the one stop print shop," Nostrand Avenue.</field>
++    <field name="scopecontent_teim">Vol. III Nos. 3 and 11. Published by Flare Corp., &#34;the one stop print shop,&#34; Nostrand Avenue.</field>
+     <field name="ref_ssi">aspace_03db2fce7777677af3f157f3019375b3</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">The Good News Paper</field>
+     <field name="heading_ssm">The Good News Paper</field>

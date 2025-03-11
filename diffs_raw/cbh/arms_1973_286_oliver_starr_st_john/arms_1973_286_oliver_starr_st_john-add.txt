@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -32,7 +32,7 @@
+     <field name="persname_ssm">St. John, Oliver S.</field>
+     <field name="subject_teim">Lectures and lecturing |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Long Island, Battle of, New York, N.Y., 1776</field>
+-    <field name="subject_teim">Lectures and lecturing -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Lectures and lecturing --New York (State) --Kings County</field>
+     <field name="subject_teim">Long Island, Battle of, New York, N.Y., 1776</field>
+     <field name="subject_ssm">Lectures and lecturing |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Long Island, Battle of, New York, N.Y., 1776</field>
+@@ -50,9 +50,9 @@
+     <field name="creator_sim">St. John, Oliver S.</field>
+     <field name="name_sim">St. John, Oliver S.</field>
+     <field name="name_teim">St. John, Oliver S.</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life</field>
+-    <field name="place_sim">United States -- History -- Revolution, 1775-1783</field>
+-    <field name="subject_sim">Lectures and lecturing -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life</field>
++    <field name="place_sim">United States --History --Revolution, 1775-1783</field>
++    <field name="subject_sim">Lectures and lecturing --New York (State) --Kings County</field>
+     <field name="subject_sim">Long Island, Battle of, New York, N.Y., 1776</field>
+     <field name="material_type_sim">Lecture notes</field>
+     <field name="material_type_ssm">Lecture notes</field>

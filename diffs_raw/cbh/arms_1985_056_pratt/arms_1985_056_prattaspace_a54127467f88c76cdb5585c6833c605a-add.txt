@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1894/1894</field>
+     <field name="unitdate_normal_sim">1894/1894</field>
+     <field name="unitdate_teim">1894</field>
+-    <field name="scopecontent_teim">A scrapbook of sewing models and instructions with handwritten title: "Children's Course / Sewing / Models with Instruction / used by / Pratt Institute / Brooklyn, New York / Department of Domestic Art / 1894."</field>
++    <field name="scopecontent_teim">A scrapbook of sewing models and instructions with handwritten title: &#34;Children&#39;s Course / Sewing / Models with Instruction / used by / Pratt Institute / Brooklyn, New York / Department of Domestic Art / 1894.&#34;</field>
+     <field name="ref_ssi">aspace_a54127467f88c76cdb5585c6833c605a</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Pratt Institute collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">1985.056</field>
+     <field name="series_sim">Series 2: Ephemera</field>
+     <field name="series_si">Series 2: Ephemera &gt;&gt; Sewing course book</field>

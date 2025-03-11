@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -33,8 +33,8 @@
+     <field name="persname_ssm">Herzog, John</field>
+     <field name="subject_teim">Streets |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Roads |z New York (State) |z Kings County |x Design and construction</field>
+-    <field name="subject_teim">Streets -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Roads -- New York (State) -- Kings County -- Design and construction</field>
++    <field name="subject_teim">Streets --New York (State) --Kings County</field>
++    <field name="subject_teim">Roads --New York (State) --Kings County --Design and construction</field>
+     <field name="subject_ssm">Streets |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Roads |z New York (State) |z Kings County |x Design and construction</field>
+     <field name="collection_sim">Gowanus street opening invoices</field>
+@@ -55,8 +55,8 @@
+     <field name="name_teim">Herzog, John</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Gowanus (New York, N.Y.)</field>
+-    <field name="subject_sim">Streets -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Roads -- New York (State) -- Kings County -- Design and construction</field>
++    <field name="subject_sim">Streets --New York (State) --Kings County</field>
++    <field name="subject_sim">Roads --New York (State) --Kings County --Design and construction</field>
+     <field name="material_type_sim">Invoices</field>
+     <field name="material_type_ssm">Invoices</field>
+     <field name="heading_ssm">Gowanus street opening invoices</field>

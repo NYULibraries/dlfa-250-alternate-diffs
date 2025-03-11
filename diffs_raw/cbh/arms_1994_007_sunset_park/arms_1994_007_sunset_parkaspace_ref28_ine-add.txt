@@ -1,0 +1,75 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+-    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_sim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="collection_ssm">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
+     <field name="collection_unitid_ssm">1994.007</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Chen, Yan</field>
+@@ -43,12 +43,12 @@
+     <field name="subject_teim">Illegal aliens |z United States</field>
+     <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+     <field name="subject_teim">New York (N.Y.) |x Social life and customs |y 20th century</field>
+-    <field name="subject_teim">Chinese American families -- New York (State) -- New York</field>
+-    <field name="subject_teim">Chinese Americans -- Employment</field>
+-    <field name="subject_teim">Ethnic relations</field>
+-    <field name="subject_teim">Illegal aliens -- United States</field>
+-    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">New York (N.Y.) -- Social life and customs -- 20th century</field>
++    <field name="subject_teim">Chinese American families --New York (State) --New York</field>
++    <field name="subject_teim">Chinese Americans --Employment</field>
++    <field name="subject_teim">Ethnic relations</field>
++    <field name="subject_teim">Illegal aliens --United States</field>
++    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">New York (N.Y.) --Social life and customs --20th century</field>
+     <field name="subject_ssm">Chinese American families |z New York (State) |z New York</field>
+     <field name="subject_ssm">Chinese Americans |x Employment</field>
+     <field name="subject_ssm">Ethnic relations</field>
+@@ -61,27 +61,28 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Economic conditions</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- History -- 20th century</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Social life and customs</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Economic conditions</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --History --20th century</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Social life and customs</field>
+     <field name="place_ssm">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_ssm">Chinatown (New York, N.Y.)</field>
+     <field name="place_ssm">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Economic conditions</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- History -- 20th century</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Economic conditions</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --History --20th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
+     <field name="place_sim">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Chinatown (New York, N.Y.)</field>
+     <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Chinese American families -- New York (State) -- New York</field>
+-    <field name="subject_sim">Chinese Americans -- Employment</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Chinese American families --New York (State) --New York</field>
++    <field name="subject_sim">Chinese Americans --Employment</field>
+     <field name="subject_sim">Ethnic relations</field>
+-    <field name="subject_sim">Illegal aliens -- United States</field>
++    <field name="subject_sim">Illegal aliens --United States</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">New York (N.Y.) -- Social life and customs -- 20th century</field>
+-    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="subject_sim">New York (N.Y.) --Social life and customs --20th century</field>
++    <field name="collection_teim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">1994.007</field>
+     <field name="series_sim">Series 1: Oral histories</field>
+     <field name="series_si">Series 1: Oral histories &gt;&gt; Chen, Yan</field>

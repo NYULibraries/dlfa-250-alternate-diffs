@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unitdate_normal_teim">1894/1894</field>
+     <field name="unitdate_normal_sim">1894/1894</field>
+     <field name="unitdate_inclusive_teim">1894</field>
+-    <field name="scopecontent_teim">This collection consists of a document certified on December 5, 1894 by a clerk of the County Court of Kings County, New York as being a true transcript of the original record contained in his office.  The document contains two oaths sworn in open court on October 13, 1857, one by Patrick Comyns regarding John Comyns' residency and character in the United States and one by John Comyns renouncing his allegiance to other states, particularly to the Queen of the United Kingdom of Great Britain and Ireland, as well as an order of the court admitting John Comyns as a citizen of the United States.</field>
++    <field name="scopecontent_teim">This collection consists of a document certified on December 5, 1894 by a clerk of the County Court of Kings County, New York as being a true transcript of the original record contained in his office.  The document contains two oaths sworn in open court on October 13, 1857, one by Patrick Comyns regarding John Comyns&#39; residency and character in the United States and one by John Comyns renouncing his allegiance to other states, particularly to the Queen of the United Kingdom of Great Britain and Ireland, as well as an order of the court admitting John Comyns as a citizen of the United States.</field>
+     <field name="bioghist_teim">John Comyns immigrated to the United States prior to the age of 18.  He became a naturalized citizen of the United States in 1857.</field>
+     <field name="bioghist_teim">John Comyns immigrated to the United States prior to the age of 18.  He became a naturalized citizen of the United States in 1857 by order of a Kings County, New York court.</field>
+     <field name="acqinfo_teim">Gift of Robert Rorke, 2015.</field>
+@@ -37,10 +37,10 @@
+     <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+     <field name="subject_teim">County courts |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Citizenship |z New York (State) |z New York</field>
+-    <field name="subject_teim">Irish Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">County courts -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Citizenship -- New York (State) -- New York</field>
++    <field name="subject_teim">Irish Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">County courts --New York (State) --Kings County</field>
++    <field name="subject_teim">Citizenship --New York (State) --New York</field>
+     <field name="subject_ssm">Irish Americans |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Immigrants -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">County courts |z New York (State) |z Kings County</field>
+@@ -60,11 +60,11 @@
+     <field name="name_sim">Comyns, John</field>
+     <field name="name_teim">Rorke, Robert</field>
+     <field name="name_teim">Comyns, John</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
+-    <field name="subject_sim">Irish Americans -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
++    <field name="subject_sim">Irish Americans --New York (State) --Kings County</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">County courts -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Citizenship -- New York (State) -- New York</field>
++    <field name="subject_sim">County courts --New York (State) --Kings County</field>
++    <field name="subject_sim">Citizenship --New York (State) --New York</field>
+     <field name="material_type_sim">Legal documents</field>
+     <field name="material_type_sim">Oaths</field>
+     <field name="material_type_sim">Citizenship papers</field>

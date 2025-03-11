@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Betsy Head Farm Garden Photo Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">A teacher's certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
+-    <field name="unittitle_teim">A teacher's certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
++    <field name="unittitle_ssm">A teacher&#39;s certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
++    <field name="unittitle_teim">A teacher&#39;s certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
+     <field name="ref_ssi">aspace_ref65</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Betsy Head Farm Garden Photo Collection</field>
++    <field name="author_teim">Alla Roylance</field>
+     <field name="collection_unitid_teim">BCMS.0001</field>
+     <field name="series_sim">Series III: Teacher Certificate</field>
+-    <field name="series_si">Series III: Teacher Certificate &gt;&gt; A teacher's certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
+-    <field name="heading_ssm">A teacher's certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
++    <field name="series_si">Series III: Teacher Certificate &gt;&gt; A teacher&#39;s certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
++    <field name="heading_ssm">A teacher&#39;s certificate belonging to Mrs. Jane C. Roth, the director of the Betsy Head Playground.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>
+   </doc>

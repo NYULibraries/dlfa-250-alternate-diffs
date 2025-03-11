@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="geogname_ssm">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="geogname_ssm">Joralemon Street (New York, N.Y.)</field>
+     <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+     <field name="collection_sim">John Moore title abstract</field>
+     <field name="collection_ssm">John Moore title abstract</field>
+@@ -43,10 +43,10 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="place_sim">Joralemon Street (New York, N.Y.)</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
+-    <field name="material_type_sim">Land titles -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
++    <field name="material_type_sim">Land titles --New York (State) --Kings County</field>
+     <field name="material_type_sim">Abstracts (summaries)</field>
+-    <field name="material_type_ssm">Land titles -- New York (State) -- Kings County</field>
++    <field name="material_type_ssm">Land titles --New York (State) --Kings County</field>
+     <field name="material_type_ssm">Abstracts (summaries)</field>
+     <field name="heading_ssm">John Moore title abstract</field>
+     <field name="unitdate_start_sim">1887</field>

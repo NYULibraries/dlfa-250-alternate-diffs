@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -33,7 +33,7 @@
+     <field name="subject_teim">High school students |z New York (State) |z New York</field>
+     <field name="subject_teim">Coronaviruses</field>
+     <field name="subject_teim">Education</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York</field>
++    <field name="subject_teim">High school students --New York (State) --New York</field>
+     <field name="subject_ssm">Coronaviruses</field>
+     <field name="subject_ssm">Education</field>
+     <field name="subject_ssm">High school students |z New York (State) |z New York</field>
+@@ -60,8 +60,9 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Coronaviruses</field>
+     <field name="subject_sim">Education</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York</field>
++    <field name="subject_sim">High school students --New York (State) --New York</field>
+     <field name="collection_teim">The Packer Collegiate Institute records</field>
++    <field name="author_teim">Pratt Institute, School of Library and Information Science graduate students and John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_sim">Series 24: Upper School History Club COVID-19 oral histories</field>
+     <field name="series_si">Series 24: Upper School History Club COVID-19 oral histories &gt;&gt; Oral history interview with Graham Hall-Keough</field>

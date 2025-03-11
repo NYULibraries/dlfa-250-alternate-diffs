@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Anderson family collection</field>
+     <field name="collection_unitid_ssm">BCMS.0088</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Committee of the Joint Board of Aldermen &amp;amp; Supervisors</field>
++    <field name="unittitle_ssm">Committee of the Joint Board of Aldermen &amp; Supervisors</field>
+     <field name="unittitle_teim">Committee of the Joint Board of Aldermen &amp; Supervisors</field>
+     <field name="unitdate_normal_ssm">1867/1867</field>
+     <field name="unitdate_normal_teim">1867/1867</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 2, Folder: 3.1, item: 3.2</field>
+     <field name="location_si">Box: 2, Folder: 3.1, item: 3.2</field>
+     <field name="collection_teim">Anderson family collection</field>
++    <field name="author_teim">Joy Holland</field>
+     <field name="collection_unitid_teim">BCMS.0088</field>
+     <field name="series_sim">Series 3: Other Brooklyn Institutions</field>
+     <field name="series_sim">Sub-Series 3.1: Reports</field>
+-    <field name="series_si">Series 3: Other Brooklyn Institutions &gt;&gt; Sub-Series 3.1: Reports &gt;&gt; Committee of the Joint Board of Aldermen &amp;amp; Supervisors</field>
++    <field name="series_si">Series 3: Other Brooklyn Institutions &gt;&gt; Sub-Series 3.1: Reports &gt;&gt; Committee of the Joint Board of Aldermen &amp; Supervisors</field>
+     <field name="heading_ssm">Committee of the Joint Board of Aldermen &amp; Supervisors</field>
+     <field name="unitdate_start_sim">1867</field>
+     <field name="unitdate_start_ssm">1867</field>

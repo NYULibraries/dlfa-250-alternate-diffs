@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1974/1975</field>
+     <field name="unitdate_normal_sim">1974/1975</field>
+     <field name="unitdate_inclusive_teim">1974-1975</field>
+-    <field name="scopecontent_teim">Several copies of the monthly "Church Bulletin."</field>
++    <field name="scopecontent_teim">Several copies of the monthly &#34;Church Bulletin.&#34;</field>
+     <field name="ref_ssi">aspace_1751341545a83152ead42910dc771de4</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">Catholic churches and organizations publications and ephemera</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">1986.016</field>
+     <field name="series_si">Our Lady Help of Christians</field>
+     <field name="heading_ssm">Our Lady Help of Christians</field>

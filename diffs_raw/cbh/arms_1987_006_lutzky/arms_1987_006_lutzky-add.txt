@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Irwin Lutzky collection</field>
+     <field name="unitid_teim">1987.006</field>
+     <field name="unitid_ssm">1987.006</field>
+-    <field name="abstract_teim">The Irwin Lutzky collection includes three certificates pertaining to Lutzky's childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; three photographs of Lutzky at Coney Island in 1944; and other miscellaneous materials relating to Brooklyn, N.Y. in the 1970s.</field>
+-    <field name="abstract_ssm">The Irwin Lutzky collection includes three certificates pertaining to Lutzky's childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; three photographs of Lutzky at Coney Island in 1944; and other miscellaneous materials relating to Brooklyn, N.Y. in the 1970s.</field>
++    <field name="abstract_teim">The Irwin Lutzky collection includes three certificates pertaining to Lutzky&#39;s childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; three photographs of Lutzky at Coney Island in 1944; and other miscellaneous materials relating to Brooklyn, N.Y. in the 1970s.</field>
++    <field name="abstract_ssm">The Irwin Lutzky collection includes three certificates pertaining to Lutzky&#39;s childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; three photographs of Lutzky at Coney Island in 1944; and other miscellaneous materials relating to Brooklyn, N.Y. in the 1970s.</field>
+     <field name="creator_teim">Lutzky, Irwin</field>
+     <field name="creator_teim">Flatbush Historical Society</field>
+     <field name="creator_teim">Flatbush Civic and Cultural Association</field>
+@@ -44,7 +44,7 @@
+     <field name="persname_teim">Lutzky, Irwin</field>
+     <field name="persname_ssm">Lutzky, Irwin</field>
+     <field name="subject_teim">Medical care |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Medical care -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Medical care --New York (State) --Kings County</field>
+     <field name="subject_ssm">Medical care |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Irwin Lutzky collection</field>
+     <field name="collection_ssm">Irwin Lutzky collection</field>
+@@ -69,7 +69,7 @@
+     <field name="place_sim">Flatbush (New York, N.Y.)</field>
+     <field name="place_sim">Coney Island (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</field>
+-    <field name="subject_sim">Medical care -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Medical care --New York (State) --Kings County</field>
+     <field name="material_type_sim">Invitations</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_sim">Programs (documents)</field>

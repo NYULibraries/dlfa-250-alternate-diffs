@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Dowe Van Dyne judgement</field>
+     <field name="unitid_teim">1977.097</field>
+     <field name="unitid_ssm">1977.097</field>
+-    <field name="abstract_teim">A judgement issued by the Supreme Court of the State of New York against Dowe Van Dyne of Newtown, Queens County, dated September 15, 1783. The judgement indicts Van Dyne for "adhering to the Enemies of the State," and orders him to forfeit all real and personal property to the state, pursuant to an act of legislature.</field>
+-    <field name="abstract_ssm">A judgement issued by the Supreme Court of the State of New York against Dowe Van Dyne of Newtown, Queens County, dated September 15, 1783. The judgement indicts Van Dyne for "adhering to the Enemies of the State," and orders him to forfeit all real and personal property to the state, pursuant to an act of legislature.</field>
++    <field name="abstract_teim">A judgement issued by the Supreme Court of the State of New York against Dowe Van Dyne of Newtown, Queens County, dated September 15, 1783. The judgement indicts Van Dyne for &#34;adhering to the Enemies of the State,&#34; and orders him to forfeit all real and personal property to the state, pursuant to an act of legislature.</field>
++    <field name="abstract_ssm">A judgement issued by the Supreme Court of the State of New York against Dowe Van Dyne of Newtown, Queens County, dated September 15, 1783. The judgement indicts Van Dyne for &#34;adhering to the Enemies of the State,&#34; and orders him to forfeit all real and personal property to the state, pursuant to an act of legislature.</field>
+     <field name="creator_teim">New York (State). Supreme Court</field>
+     <field name="creator_ssm">New York (State). Supreme Court</field>
+     <field name="creator_ssm">New York (State). Supreme Court</field>
+@@ -47,8 +47,8 @@
+     <field name="name_sim">Van Dyne, Dowe</field>
+     <field name="name_teim">New York (State). Supreme Court</field>
+     <field name="name_teim">Van Dyne, Dowe</field>
+-    <field name="place_sim">United States -- History -- Revolution, 1775-1783</field>
+-    <field name="place_sim">Queens County (N.Y.) -- History -- Revolution, 1775-1783</field>
++    <field name="place_sim">United States --History --Revolution, 1775-1783</field>
++    <field name="place_sim">Queens County (N.Y.) --History --Revolution, 1775-1783</field>
+     <field name="place_sim">Newtown (Queens County, N.Y.)</field>
+     <field name="material_type_sim">Legal documents</field>
+     <field name="material_type_ssm">Legal documents</field>

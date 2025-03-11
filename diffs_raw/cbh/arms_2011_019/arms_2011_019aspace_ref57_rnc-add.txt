@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,10 +28,10 @@
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Drug traffic |z New York (State) |z New York</field>
+     <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Prison gangs -- New York (State)</field>
+-    <field name="subject_teim">Prison -- New York (State)</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Drug traffic -- New York (State) -- New York</field>
++    <field name="subject_teim">Prison gangs --New York (State)</field>
++    <field name="subject_teim">Prison --New York (State)</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --Kings County</field>
++    <field name="subject_teim">Drug traffic --New York (State) --New York</field>
+     <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Prison gangs |z New York (State)</field>
+     <field name="subject_ssm">Prison |z New York (State)</field>
+@@ -48,12 +48,13 @@
+     <field name="place_ssm">Brownsville (New York, N.Y.)</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">Brownsville (New York, N.Y.)</field>
+-    <field name="subject_sim">Prison gangs -- New York (State)</field>
+-    <field name="subject_sim">Prison -- New York (State)</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Drug traffic -- New York (State) -- New York</field>
++    <field name="subject_sim">Prison gangs --New York (State)</field>
++    <field name="subject_sim">Prison --New York (State)</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --Kings County</field>
++    <field name="subject_sim">Drug traffic --New York (State) --New York</field>
+     <field name="subject_sim">Crime -- New York (State) -- Kings County</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Joseph Figueroa</field>
+     <field name="heading_ssm">Joseph Figueroa</field>

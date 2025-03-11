@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1810-11-26/1810-11-26</field>
+     <field name="unitdate_normal_sim">1810-11-26/1810-11-26</field>
+     <field name="unitdate_teim">November 26, 1810</field>
+-    <field name="scopecontent_teim">Robert Underwood at "City of Washington" to John Seaman.</field>
++    <field name="scopecontent_teim">Robert Underwood at &#34;City of Washington&#34; to John Seaman.</field>
+     <field name="ref_ssi">aspace_64f7efc6f87a9600e0a71f84eda5649c</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -30,6 +30,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Seaman family papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">1974.005</field>
+     <field name="series_sim">Series 2: Other documents</field>
+     <field name="series_sim">Sub-series 2.1: Seaman Brothers Mercantile Firm correspondence</field>

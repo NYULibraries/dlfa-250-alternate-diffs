@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1843/1843</field>
+     <field name="unitdate_normal_sim">1843/1843</field>
+     <field name="unitdate_inclusive_teim">1843</field>
+-    <field name="scopecontent_teim">1843 letter, from New York Bishop John Joseph Hughes to Charles J. Harrison, at New York, re: decoration of churches, mentions St. Peter's Church, Jersey City</field>
++    <field name="scopecontent_teim">1843 letter, from New York Bishop John Joseph Hughes to Charles J. Harrison, at New York, re: decoration of churches, mentions St. Peter&#39;s Church, Jersey City</field>
+     <field name="ref_ssi">aspace_ref108_3jg</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 44</field>
+     <field name="location_si">Box: 1, Folder: 44</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Hughes, John Joseph (Bishop)</field>
+     <field name="heading_ssm">Hughes, John Joseph (Bishop)</field>

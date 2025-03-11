@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">2008 May 12</field>
+     <field name="scopecontent_teim">In this interview, Naeemah Brown discusses the small and deeply-interwoven African dance community of New York City. She talks of her connection to Restoration, and its impact on the lives of the residents of the Bedford-Stuyvesant neighborhood. Interview conducted by Anasa Scott.</field>
+-    <field name="bioghist_teim">Raised in the Harlem neighborhood of Manhattan, Naeemah Brown became a dance instructor and choreographer. At the time of the 2008 interview, she had served as the African dance instructor at Restoration's Youth Arts Academy for over two years.</field>
++    <field name="bioghist_teim">Raised in the Harlem neighborhood of Manhattan, Naeemah Brown became a dance instructor and choreographer. At the time of the 2008 interview, she had served as the African dance instructor at Restoration&#39;s Youth Arts Academy for over two years.</field>
+     <field name="corpname_teim">Bedford-Stuyvesant Restoration Corporation</field>
+     <field name="corpname_teim">Brooklyn Academy of Music</field>
+     <field name="corpname_ssm">Bedford-Stuyvesant Restoration Corporation</field>
+@@ -32,9 +32,9 @@
+     <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Performing arts |z New York (State) |z Kings County</field>
+     <field name="subject_teim">African Americans -- New York (State) -- Kings County -- Social life and customs</field>
+-    <field name="subject_teim">Dancers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Dancers --New York (State) --New York</field>
++    <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Performing arts --New York (State) --Kings County</field>
+     <field name="subject_ssm">African Americans -- New York (State) -- Kings County -- Social life and customs</field>
+     <field name="subject_ssm">Dancers |z New York (State) |z New York</field>
+     <field name="subject_ssm">Neighborhoods -- New York (State) -- Kings County</field>
+@@ -54,10 +54,11 @@
+     <field name="place_sim">Bedford-Stuyvesant (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">African Americans -- New York (State) -- Kings County -- Social life and customs</field>
+-    <field name="subject_sim">Dancers -- New York (State) -- New York</field>
++    <field name="subject_sim">Dancers --New York (State) --New York</field>
+     <field name="subject_sim">Neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Performing arts --New York (State) --Kings County</field>
+     <field name="collection_teim">Bedford Stuyvesant Restoration Corporation oral histories</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">2008.030</field>
+     <field name="series_si">Brown, Naeemah</field>
+     <field name="heading_ssm">Brown, Naeemah</field>

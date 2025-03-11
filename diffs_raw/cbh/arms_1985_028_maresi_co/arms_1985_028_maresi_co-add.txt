@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -36,7 +36,7 @@
+     <field name="subject_teim">Food</field>
+     <field name="subject_teim">Caterers and catering |z New York (State) |z New York</field>
+     <field name="subject_teim">Food</field>
+-    <field name="subject_teim">Caterers and catering -- New York (State) -- New York</field>
++    <field name="subject_teim">Caterers and catering --New York (State) --New York</field>
+     <field name="subject_ssm">Food</field>
+     <field name="subject_ssm">Caterers and catering |z New York (State) |z New York</field>
+     <field name="collection_sim">Maresi Company Confectioners and Caterers invoice</field>
+@@ -58,7 +58,7 @@
+     <field name="place_sim">Flushing (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Food</field>
+-    <field name="subject_sim">Caterers and catering -- New York (State) -- New York</field>
++    <field name="subject_sim">Caterers and catering --New York (State) --New York</field>
+     <field name="material_type_sim">Invoices</field>
+     <field name="material_type_ssm">Invoices</field>
+     <field name="heading_ssm">Maresi Company Confectioners and Caterers invoice</field>

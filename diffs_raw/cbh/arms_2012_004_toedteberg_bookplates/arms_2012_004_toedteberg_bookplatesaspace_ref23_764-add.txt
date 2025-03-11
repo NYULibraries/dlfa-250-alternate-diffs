@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_2012_004_toedteberg_bookplates</field>
+     <field name="parent_ssi">aspace_ref9_uki</field>
+     <field name="parent_ssm">aspace_ref9_uki</field>
+-    <field name="parent_unittitles_ssm">Series 4: Ladies' Bookplates</field>
+-    <field name="parent_unittitles_teim">Series 4: Ladies' Bookplates</field>
++    <field name="parent_unittitles_ssm">Series 4: Ladies&amp;#39; Bookplates</field>
++    <field name="parent_unittitles_teim">Series 4: Ladies&amp;#39; Bookplates</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Emma Toedteberg bookplate collection</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 25</field>
+     <field name="location_si">Box: 25</field>
+     <field name="collection_teim">Emma Toedteberg bookplate collection</field>
++    <field name="author_teim">Andy McCarthy</field>
+     <field name="collection_unitid_teim">2012.004</field>
+-    <field name="series_sim">Series 4: Ladies' Bookplates</field>
+-    <field name="series_si">Series 4: Ladies' Bookplates &gt;&gt; Unmounted</field>
++    <field name="series_sim">Series 4: Ladies&amp;#39; Bookplates</field>
++    <field name="series_si">Series 4: Ladies&#39; Bookplates &gt;&gt; Unmounted</field>
+     <field name="heading_ssm">Unmounted</field>
+     <field name="unitdate_ssm">1700s-1936</field>
+     <field name="date_range_sim">undated &amp; other</field>

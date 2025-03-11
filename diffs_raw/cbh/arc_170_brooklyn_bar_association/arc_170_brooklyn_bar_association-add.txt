@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Bar Association collection</field>
+     <field name="unitid_teim">ARC.170</field>
+     <field name="unitid_ssm">ARC.170</field>
+-    <field name="abstract_teim">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of the Bar Association's monthly publication.</field>
+-    <field name="abstract_ssm">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of the Bar Association's monthly publication.</field>
++    <field name="abstract_teim">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of the Bar Association&#39;s monthly publication.</field>
++    <field name="abstract_ssm">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of the Bar Association&#39;s monthly publication.</field>
+     <field name="creator_teim">Brooklyn Bar Association</field>
+     <field name="creator_ssm">Brooklyn Bar Association</field>
+     <field name="creator_ssm">Brooklyn Bar Association</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1872/1978</field>
+     <field name="unitdate_normal_sim">1872/1978</field>
+     <field name="unitdate_inclusive_teim">1872-1978</field>
+-    <field name="scopecontent_teim">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of Brooklyn Barrister, the Bar Association's monthly publication. Brooklyn Barrister contains programs of monthly meetings, reports from committees, and articles on legal decisions and new statutes. Also included are the organization's constitution and bylaws, programs and table assignments for events, and a centennial journal.</field>
++    <field name="scopecontent_teim">The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of Brooklyn Barrister, the Bar Association&#39;s monthly publication. Brooklyn Barrister contains programs of monthly meetings, reports from committees, and articles on legal decisions and new statutes. Also included are the organization&#39;s constitution and bylaws, programs and table assignments for events, and a centennial journal.</field>
+     <field name="bioghist_teim">The Brooklyn Bar Association was founded in 1872. In the wake of consecutive fraudulent elections in the City of Brooklyn and Kings County, followed by questionable investigations into the elections, many Brooklyn attorneys served on committees which brought about political reform in Brooklyn during the late 1870s. The Brooklyn Bar Association was formed to uphold honor and respectability in the profession, to aid in reforms and the investigation of misconduct, and to encourage positive professional and social relationships among attorneys in Brooklyn. In 1918, the Association moved to 123 Remsen Street in Brooklyn Heights, where it remains as of 2011. Modern activities of the Association include hosting continuing legal education courses and providing a Lawyer Referral Service to the public.</field>
+     <field name="acqinfo_teim">Portions of this collection were the gift of George C. Brainerd, William C. Mattison, Frederick Gross, and the Brooklyn Bar Association, dates unknown. Source and date of acquisition for remaining items in the collection are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -38,9 +38,9 @@
+     <field name="subject_teim">Bar associations |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Lawyer referral service |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Lawyers |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Bar associations -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Lawyer referral service -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Lawyers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Bar associations --New York (State) --Kings County</field>
++    <field name="subject_teim">Lawyer referral service --New York (State) --Kings County</field>
++    <field name="subject_teim">Lawyers --New York (State) --Kings County</field>
+     <field name="subject_ssm">Bar associations |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Lawyer referral service |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Lawyers |z New York (State) |z Kings County</field>
+@@ -59,10 +59,10 @@
+     <field name="name_sim">Brooklyn Bar Association</field>
+     <field name="name_teim">Brooklyn Bar Association</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Politics and government</field>
+-    <field name="subject_sim">Bar associations -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Lawyer referral service -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Lawyers -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Politics and government</field>
++    <field name="subject_sim">Bar associations --New York (State) --Kings County</field>
++    <field name="subject_sim">Lawyer referral service --New York (State) --Kings County</field>
++    <field name="subject_sim">Lawyers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Constitutions</field>
+     <field name="material_type_sim">Bylaws (administrative records)</field>
+     <field name="material_type_sim">Journals (periodicals)</field>

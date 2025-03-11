@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,7 +31,7 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Teachers |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Education -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Teachers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Teachers --New York (State) --Kings County</field>
+     <field name="subject_teim">Education -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Teachers |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Education -- New York (State) -- Kings County</field>
+@@ -52,7 +52,7 @@
+     <field name="name_teim">Village Library of Wrightstown</field>
+     <field name="name_teim">Maxwell Training School for Teachers</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Teachers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Teachers --New York (State) --Kings County</field>
+     <field name="subject_sim">Education -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Yearbooks</field>
+     <field name="material_type_ssm">Yearbooks</field>

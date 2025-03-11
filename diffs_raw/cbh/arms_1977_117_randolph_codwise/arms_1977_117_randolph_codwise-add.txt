@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Randolph and Codwise families property dispute papers</field>
+     <field name="unitid_teim">1977.117</field>
+     <field name="unitid_ssm">1977.117</field>
+-    <field name="abstract_teim">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
+-    <field name="abstract_ssm">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
++    <field name="abstract_teim">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families&#39; dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
++    <field name="abstract_ssm">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families&#39; dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
+     <field name="creator_teim">Codwise family</field>
+     <field name="creator_teim">Randolph family</field>
+     <field name="creator_teim">Storrs and Sedgwick (Firm)</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1849/1896</field>
+     <field name="unitdate_normal_sim">1849/1896</field>
+     <field name="unitdate_inclusive_teim">1849-1896</field>
+-    <field name="scopecontent_teim">This collection contains accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
++    <field name="scopecontent_teim">This collection contains accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families&#39; dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
+     <field name="bioghist_teim">Several parcels of land lying within the triangle formed by Flatbush Avenue and Nevins and Livingston Streets in Brooklyn were the subject of an ownership dispute between the Codwise and Randolph families from 1877 to 1886, due to the separation of Charles F. Codwise and his wife, Martha Jane Randolph. The New York City-based law firm of Storrs and Sedgwick was also involved in the dispute.</field>
+     <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -48,9 +48,9 @@
+     <field name="subject_teim">Law firms |z New York (State) |z New York</field>
+     <field name="subject_teim">Real property |x Ownership |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Law firms -- New York (State) -- New York</field>
+-    <field name="subject_teim">Real property -- Ownership -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Law firms --New York (State) --New York</field>
++    <field name="subject_teim">Real property --Ownership --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
+     <field name="subject_ssm">Law firms |z New York (State) |z New York</field>
+     <field name="subject_ssm">Real property |x Ownership |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+@@ -75,9 +75,9 @@
+     <field name="name_teim">Codwise family</field>
+     <field name="name_teim">Randolph family</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Law firms -- New York (State) -- New York</field>
+-    <field name="subject_sim">Real property -- Ownership -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Law firms --New York (State) --New York</field>
++    <field name="subject_sim">Real property --Ownership --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
+     <field name="material_type_sim">Accounts</field>
+     <field name="material_type_sim">Legal documents</field>
+     <field name="material_type_sim">Correspondence</field>

@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -44,7 +44,7 @@
+     <field name="persname_teim">Weisblatt, Faithe</field>
+     <field name="persname_ssm">Weisblatt, Faithe</field>
+     <field name="persname_ssm">Weisblatt, Faithe</field>
+-    <field name="subject_teim">High school students' writings, American |z New York (State) |z New York</field>
++    <field name="subject_teim">High school students&#39; writings, American |z New York (State) |z New York</field>
+     <field name="subject_teim">High school students |z New York (State) |z New York</field>
+     <field name="subject_teim">High school students |z New York (State) |z New York |x Conduct of life</field>
+     <field name="subject_teim">School attendance |z New York (State) | z Kings County</field>
+@@ -51,14 +51,14 @@
+     <field name="subject_teim">School children--New York (State)--Kings County</field>
+     <field name="subject_teim">Student publications -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Education</field>
+-    <field name="subject_teim">High school students' writings, American -- New York (State) -- New York</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York -- Conduct of life</field>
+-    <field name="subject_teim">School attendance -- New York (State) | z Kings County</field>
+-    <field name="subject_teim">School children--New York (State)--Kings County</field>
+-    <field name="subject_teim">Student publications -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education</field>
+-    <field name="subject_ssm">High school students' writings, American |z New York (State) |z New York</field>
++    <field name="subject_teim">High school students&#39; writings, American --New York (State) --New York</field>
++    <field name="subject_teim">High school students --New York (State) --New York</field>
++    <field name="subject_teim">High school students --New York (State) --New York --Conduct of life</field>
++    <field name="subject_teim">School attendance --New York (State) | z Kings County</field>
++    <field name="subject_teim">School children--New York (State)--Kings County</field>
++    <field name="subject_teim">Student publications -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Education</field>
++    <field name="subject_ssm">High school students&#39; writings, American |z New York (State) |z New York</field>
+     <field name="subject_ssm">High school students |z New York (State) |z New York</field>
+     <field name="subject_ssm">High school students |z New York (State) |z New York |x Conduct of life</field>
+     <field name="subject_ssm">School attendance |z New York (State) | z Kings County</field>
+@@ -87,10 +87,10 @@
+     <field name="name_teim">P.S. 184 (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">J.H.S. 109 (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Weisblatt, Faithe</field>
+-    <field name="subject_sim">High school students' writings, American -- New York (State) -- New York</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York -- Conduct of life</field>
+-    <field name="subject_sim">School attendance -- New York (State) | z Kings County</field>
++    <field name="subject_sim">High school students&#39; writings, American --New York (State) --New York</field>
++    <field name="subject_sim">High school students --New York (State) --New York</field>
++    <field name="subject_sim">High school students --New York (State) --New York --Conduct of life</field>
++    <field name="subject_sim">School attendance --New York (State) | z Kings County</field>
+     <field name="subject_sim">School children--New York (State)--Kings County</field>
+     <field name="subject_sim">Student publications -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Education</field>

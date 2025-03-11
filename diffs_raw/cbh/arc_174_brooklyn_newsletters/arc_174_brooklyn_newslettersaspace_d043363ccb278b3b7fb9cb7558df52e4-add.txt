@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1949/1952</field>
+     <field name="unitdate_normal_sim">1949/1952</field>
+     <field name="unitdate_inclusive_teim">1949-1952</field>
+-    <field name="scopecontent_teim">Nos. 2-26. Published for Namm's employees.</field>
++    <field name="scopecontent_teim">Nos. 2-26. Published for Namm&#39;s employees.</field>
+     <field name="ref_ssi">aspace_d043363ccb278b3b7fb9cb7558df52e4</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">The Namm-ite</field>
+     <field name="heading_ssm">The Namm-ite</field>

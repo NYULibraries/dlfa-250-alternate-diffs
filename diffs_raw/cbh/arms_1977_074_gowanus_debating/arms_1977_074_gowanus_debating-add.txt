@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Gowanus Debating Society records</field>
+     <field name="unitid_teim">1977.074</field>
+     <field name="unitid_ssm">1977.074</field>
+-    <field name="abstract_teim">The records include three items: a minute book, dated 1826; the Society's constitution, dated 1822; and an account book, dated 1823.</field>
+-    <field name="abstract_ssm">The records include three items: a minute book, dated 1826; the Society's constitution, dated 1822; and an account book, dated 1823.</field>
++    <field name="abstract_teim">The records include three items: a minute book, dated 1826; the Society&#39;s constitution, dated 1822; and an account book, dated 1823.</field>
++    <field name="abstract_ssm">The records include three items: a minute book, dated 1826; the Society&#39;s constitution, dated 1822; and an account book, dated 1823.</field>
+     <field name="creator_teim">Bergen, Teunis G.</field>
+     <field name="creator_teim">Gowanus Debating Society</field>
+     <field name="creator_ssm">Bergen, Teunis G.</field>
+@@ -19,8 +19,8 @@
+     <field name="unitdate_normal_teim">1823/1826</field>
+     <field name="unitdate_normal_sim">1823/1826</field>
+     <field name="unitdate_inclusive_teim">1823-1826</field>
+-    <field name="scopecontent_teim">The Gowanus Debating Society records span the period 1822 to 1826 and measure 0.1 linear feet. The records include three items: a minute book, dated 1826; the Society's constitution, dated 1822; and an account book, dated 1823. The minute book summarizes the meetings of the Society, including the issues discussed and debated at each meeting, while the account book records the Society's financial transactions. Many of the records were handwritten by the Society's Secretary, Teunis G. Bergen.</field>
+-    <field name="bioghist_teim">According to its constitution and bylaws, the Gowanus Debating Society was founded "to improve the members thereof in speaking by discussing different questions." The Society was governed by a President, Treasurer, Secretary, Recording Secretary, and Bookkeeper.</field>
++    <field name="scopecontent_teim">The Gowanus Debating Society records span the period 1822 to 1826 and measure 0.1 linear feet. The records include three items: a minute book, dated 1826; the Society&#39;s constitution, dated 1822; and an account book, dated 1823. The minute book summarizes the meetings of the Society, including the issues discussed and debated at each meeting, while the account book records the Society&#39;s financial transactions. Many of the records were handwritten by the Society&#39;s Secretary, Teunis G. Bergen.</field>
++    <field name="bioghist_teim">According to its constitution and bylaws, the Gowanus Debating Society was founded &#34;to improve the members thereof in speaking by discussing different questions.&#34; The Society was governed by a President, Treasurer, Secretary, Recording Secretary, and Bookkeeper.</field>
+     <field name="acqinfo_teim">Gift of Henry Bergen, 1919.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Gowanus Debating Society</field>
+@@ -43,7 +43,7 @@
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Debates and debating |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Debates and debating -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Debates and debating --New York (State) --Kings County</field>
+     <field name="subject_ssm">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Debates and debating |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Gowanus Debating Society records</field>
+@@ -66,7 +66,7 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs -- 19th century</field>
+     <field name="subject_sim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Debates and debating -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Debates and debating --New York (State) --Kings County</field>
+     <field name="material_type_sim">Bylaws (administrative records)</field>
+     <field name="material_type_sim">Minutes</field>
+     <field name="material_type_sim">Account books</field>

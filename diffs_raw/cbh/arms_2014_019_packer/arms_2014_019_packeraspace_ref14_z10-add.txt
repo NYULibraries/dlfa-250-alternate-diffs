@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1847/2004</field>
+     <field name="unitdate_inclusive_teim">1847-2004</field>
+     <field name="scopecontent_teim">The series contains charters and by-laws of the Brooklyn Female Academy (BFA) and the Packer Collegiate Institute, dating from 1847 to 2004. </field>
+-    <field name="scopecontent_teim">The act to incorporation and by-laws of the BFA are also included in bound volumes of the school's circulars, catalogues, and reports located in Series 4: Circulars, catalogues, and curriculum guides (boxes 509-510) and Sub-series 6.2: Administrative reports (box 507).</field>
++    <field name="scopecontent_teim">The act to incorporation and by-laws of the BFA are also included in bound volumes of the school&#39;s circulars, catalogues, and reports located in Series 4: Circulars, catalogues, and curriculum guides (boxes 509-510) and Sub-series 6.2: Administrative reports (box 507).</field>
+     <field name="ref_ssi">aspace_ref14_z10</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">The Packer Collegiate Institute records</field>
++    <field name="author_teim">Pratt Institute, School of Library and Information Science graduate students and John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_si">Series 1: Charters and By-laws</field>
+     <field name="heading_ssm">Series 1: Charters and By-laws</field>

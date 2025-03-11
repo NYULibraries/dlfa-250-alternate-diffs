@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Bommer family collection</field>
+     <field name="unitid_teim">1992.033</field>
+     <field name="unitid_ssm">1992.033</field>
+-    <field name="abstract_teim">The collection contains one photograph album of Brooklyn buildings and an accompanying map, one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.'s move to Landrum, S.C. in the 1960s. Some genealogical information can be found in the Bommer playground booklet.</field>
+-    <field name="abstract_ssm">The collection contains one photograph album of Brooklyn buildings and an accompanying map, one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.'s move to Landrum, S.C. in the 1960s. Some genealogical information can be found in the Bommer playground booklet.</field>
++    <field name="abstract_teim">The collection contains one photograph album of Brooklyn buildings and an accompanying map, one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.&#39;s move to Landrum, S.C. in the 1960s. Some genealogical information can be found in the Bommer playground booklet.</field>
++    <field name="abstract_ssm">The collection contains one photograph album of Brooklyn buildings and an accompanying map, one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.&#39;s move to Landrum, S.C. in the 1960s. Some genealogical information can be found in the Bommer playground booklet.</field>
+     <field name="creator_teim">Bommer family</field>
+     <field name="creator_ssm">Bommer family</field>
+     <field name="creator_ssm">Bommer family</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1926/1965</field>
+     <field name="unitdate_inclusive_teim">1926-1965</field>
+     <field name="scopecontent_teim">The collection includes one album of photographs of exteriors and interiors of 80 buildings across Brooklyn. The buildings are concentrated in the neighborhoods of DUMBO, Brooklyn Heights, Fort Greene, and Bedford-Stuyvesant. Many photographs in the album are numbered, which appear on an accompanying street map of Brooklyn.  There are also photos of the Emil Bommer Playground and photo of the Bommer Spring Hinge Co. of Brooklyn.</field>
+-    <field name="scopecontent_teim">Also included in this collection is one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.'s move to Landrum, S.C. in the 1960s.  Some genealogical information can be found in the Bommer playground booklet.</field>
++    <field name="scopecontent_teim">Also included in this collection is one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.&#39;s move to Landrum, S.C. in the 1960s.  Some genealogical information can be found in the Bommer playground booklet.</field>
+     <field name="bioghist_teim">The Bommer Spring Hinge Co. was founded in 1876 by Lorenz Bommer, who in 1861 perfected the first double-spring hinge made of brass castings in four sections.  In 1893, his son, Emil Bommer, joined the company.  The Bommer Playground was founded by the family in 1908 and incorporated in 1926.</field>
+     <field name="acqinfo_teim">Accession 1992.023 was the gift of Barbara Van Liew, 1991. Accession 2011.023 was donated to Dartmouth College by Emil Brommer, and transferred to the Brooklyn Historical Society in 2011.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -40,10 +40,10 @@
+     <field name="subject_teim">Manufactures |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Business enterprises |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Dwellings |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Playgrounds -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Manufactures -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Dwellings -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Playgrounds --New York (State) --Kings County</field>
++    <field name="subject_teim">Manufactures --New York (State) --Kings County</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_teim">Dwellings --New York (State) --Kings County</field>
+     <field name="subject_ssm">Playgrounds |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Manufactures |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Business enterprises |z New York (State) |z Kings County</field>
+@@ -65,11 +65,11 @@
+     <field name="name_teim">Bommer family</field>
+     <field name="name_teim">Van Liew, Barbara</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Maps</field>
+-    <field name="subject_sim">Playgrounds -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Manufactures -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Dwellings -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Maps</field>
++    <field name="subject_sim">Playgrounds --New York (State) --Kings County</field>
++    <field name="subject_sim">Manufactures --New York (State) --Kings County</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_sim">Dwellings --New York (State) --Kings County</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Pamphlets</field>
+     <field name="material_type_ssm">Clippings (information artifacts)</field>

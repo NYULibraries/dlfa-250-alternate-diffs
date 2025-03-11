@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">cbhm_0002</field>
+     <field name="parent_ssi">aspace_2b7333af42b3d625808fd3f457d9efe3</field>
+     <field name="parent_ssm">aspace_2b7333af42b3d625808fd3f457d9efe3</field>
+-    <field name="parent_unittitles_ssm">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn's Folk Imagination</field>
+-    <field name="parent_unittitles_teim">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn's Folk Imagination</field>
++    <field name="parent_unittitles_ssm">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn&amp;#39;s Folk Imagination</field>
++    <field name="parent_unittitles_teim">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn&amp;#39;s Folk Imagination</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Brooklyn Arts Council Folk Arts collection</field>
+@@ -22,9 +22,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Arts Council Folk Arts collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">CBHM.0002</field>
+-    <field name="series_sim">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn's Folk Imagination</field>
+-    <field name="series_si">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn's Folk Imagination &gt;&gt; Sub-series 8.1: Program Files</field>
++    <field name="series_sim">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn&amp;#39;s Folk Imagination</field>
++    <field name="series_si">Series 8: Harborlore: Where the River Meets the Sea in Brooklyn&#39;s Folk Imagination &gt;&gt; Sub-series 8.1: Program Files</field>
+     <field name="heading_ssm">Sub-series 8.1: Program Files</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">848</field>

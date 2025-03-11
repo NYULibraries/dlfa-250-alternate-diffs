@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="bioghist_teim">The Lexington line, running from the Brooklyn Bridge to Van Sicklen Avenue in East New York,</field>
+     <field name="bioghist_teim">The Myrtle Avenue line, running from the Fulton Ferry to Wyckoff Avenue in the neighborhood of Ridgewood, and</field>
+     <field name="bioghist_teim">The Fifth Avenue line, running from the Brooklyn Bridge to Fifth Avenue and 36th Street in the neighborhood of Sunset Park.</field>
+-    <field name="bioghist_teim">A fifth line, the Fulton Street line, owned by the Kings County Elevated Railroad Company, was also later added to the Brooklyn Elevated Railroad's system.</field>
++    <field name="bioghist_teim">A fifth line, the Fulton Street line, owned by the Kings County Elevated Railroad Company, was also later added to the Brooklyn Elevated Railroad&#39;s system.</field>
+     <field name="acqinfo_teim">Purchased from James B. Stewart, 1940.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Elevated Railroad Company</field>
+@@ -47,8 +47,8 @@
+     <field name="subject_teim">Railroad companies |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Local transit -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Railroads, Elevated -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Railroad companies -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Railroads, Elevated --New York (State) --Kings County</field>
++    <field name="subject_teim">Railroad companies --New York (State) --Kings County</field>
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Local transit -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Railroads, Elevated |z New York (State) |z Kings County</field>
+@@ -69,8 +69,8 @@
+     <field name="creator_sim">Brooklyn Elevated Railroad Company</field>
+     <field name="name_sim">Brooklyn Elevated Railroad Company</field>
+     <field name="name_teim">Brooklyn Elevated Railroad Company</field>
+-    <field name="subject_sim">Railroads, Elevated -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Railroad companies -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Railroads, Elevated --New York (State) --Kings County</field>
++    <field name="subject_sim">Railroad companies --New York (State) --Kings County</field>
+     <field name="subject_sim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Local transit -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Articles of incorporation</field>

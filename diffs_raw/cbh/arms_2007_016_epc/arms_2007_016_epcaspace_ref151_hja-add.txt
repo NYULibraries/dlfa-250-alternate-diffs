@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1988/1988</field>
+     <field name="unitdate_normal_sim">1988/1988</field>
+     <field name="unitdate_teim">1988</field>
+-    <field name="scopecontent_teim">This cassette tape was produced by the Haitian Coalition on AIDS in June 1988. It is titled "Lan Mó Avéti Pa Touye Kokobe," "This cassette is made possible by a grant from the NYC Dept. of Health."</field>
++    <field name="scopecontent_teim">This cassette tape was produced by the Haitian Coalition on AIDS in June 1988. It is titled &#34;Lan Mó Avéti Pa Touye Kokobe,&#34; &#34;This cassette is made possible by a grant from the NYC Dept. of Health.&#34;</field>
+     <field name="phystech_teim">Original Format: compact audio cassette, Duration: 36:53</field>
+     <field name="phystech_teim">Two preservation .WAV files. Two access .mp3 files.</field>
+     <field name="phystech_teim">Cassette tapes are not available for research use. Access to the interview is available online on the Internet Archive.</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 6, Folder: 27</field>
+     <field name="location_si">Box: 6, Folder: 27</field>
+     <field name="collection_teim">Eastern Parkway Coalition records</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2007.016</field>
+     <field name="series_sim">Series 1: Subject files</field>
+     <field name="series_si">Series 1: Subject files &gt;&gt; Haitian Coalition on AIDS cassette tape</field>

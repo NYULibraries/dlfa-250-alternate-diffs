@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1881/1881</field>
+     <field name="unitdate_normal_sim">1881/1881</field>
+     <field name="unitdate_inclusive_teim">1881</field>
+-    <field name="scopecontent_teim">3 letters, in German, dated 1881, from the Egyptologist Karl Richard Lepsius, at Berlin (one with "Königliche Bibliothek" letterhead), to an unidentified gentleman [poss. in New York], re: subscription to "Aegyptischen Denkmälerwerks", with catalog of antiquarian and anthropological materials</field>
++    <field name="scopecontent_teim">3 letters, in German, dated 1881, from the Egyptologist Karl Richard Lepsius, at Berlin (one with &#34;Königliche Bibliothek&#34; letterhead), to an unidentified gentleman [poss. in New York], re: subscription to &#34;Aegyptischen Denkmälerwerks&#34;, with catalog of antiquarian and anthropological materials</field>
+     <field name="ref_ssi">aspace_ref134_zrz</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 60</field>
+     <field name="location_si">Box: 1, Folder: 60</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Lepsius, Karl Richard</field>
+     <field name="heading_ssm">Lepsius, Karl Richard</field>

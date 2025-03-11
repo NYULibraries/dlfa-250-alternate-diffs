@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1913/1938</field>
+     <field name="unitdate_normal_sim">1913/1938</field>
+     <field name="unitdate_inclusive_teim">1913, 1916, 1938</field>
+-    <field name="scopecontent_teim">Two documents relating to real estate and insurance (1913 and 1916); a 1938 postcard from the Nebraska Department of Health confirming Furey's birth on October 1, 1880; and a letter from the National Cyclopedia of American Biography regarding the publication of a biography of John V. Furey (1938).</field>
++    <field name="scopecontent_teim">Two documents relating to real estate and insurance (1913 and 1916); a 1938 postcard from the Nebraska Department of Health confirming Furey&#39;s birth on October 1, 1880; and a letter from the National Cyclopedia of American Biography regarding the publication of a biography of John V. Furey (1938).</field>
+     <field name="ref_ssi">aspace_b78ca176cf6c9253f8893dfe5078fde0</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Furey family papers</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">1977.331</field>
+     <field name="series_sim">Series 1: Furey family</field>
+     <field name="series_si">Series 1: Furey family &gt;&gt; George (Georgia) Crook Furey</field>

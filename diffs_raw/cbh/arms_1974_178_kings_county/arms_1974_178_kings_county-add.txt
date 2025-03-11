@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="persname_teim">Strong, Selah</field>
+     <field name="persname_ssm">Strong, Selah</field>
+     <field name="subject_teim">Tax assessment |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Tax assessment -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Tax assessment --New York (State) --Kings County</field>
+     <field name="subject_ssm">Tax assessment |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Kings County tax assessment</field>
+     <field name="collection_ssm">Kings County tax assessment</field>
+@@ -46,7 +46,7 @@
+     <field name="name_teim">Strong, Selah</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Kings County (N.Y.)</field>
+-    <field name="subject_sim">Tax assessment -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Tax assessment --New York (State) --Kings County</field>
+     <field name="material_type_sim">Lists (document genres)</field>
+     <field name="material_type_ssm">Lists (document genres)</field>
+     <field name="heading_ssm">Kings County tax assessment</field>

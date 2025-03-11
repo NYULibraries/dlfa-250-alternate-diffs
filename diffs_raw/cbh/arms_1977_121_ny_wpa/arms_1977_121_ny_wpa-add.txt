@@ -1,0 +1,63 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">New York City WPA historical survey of Indigenous People of Brooklyn</field>
+     <field name="unitid_teim">1977.121</field>
+     <field name="unitid_ssm">1977.121</field>
+-    <field name="abstract_teim">This collection includes drafted sections of "The Indians of Brooklyn in the Days of the Dutch," edited by William Christie MacLeod, which have been organized by subject. It also includes research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
+-    <field name="abstract_ssm">This collection includes drafted sections of "The Indians of Brooklyn in the Days of the Dutch," edited by William Christie MacLeod, which have been organized by subject. It also includes research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
++    <field name="abstract_teim">This collection includes drafted sections of &#34;The Indians of Brooklyn in the Days of the Dutch,&#34; edited by William Christie MacLeod, which have been organized by subject. It also includes research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
++    <field name="abstract_ssm">This collection includes drafted sections of &#34;The Indians of Brooklyn in the Days of the Dutch,&#34; edited by William Christie MacLeod, which have been organized by subject. It also includes research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
+     <field name="creator_teim">United States. Works Projects Administration (New York, N.Y.)</field>
+     <field name="creator_teim">MacLeod, William Christie</field>
+     <field name="creator_ssm">United States. Works Projects Administration (New York, N.Y.)</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_sim">1600/1940</field>
+     <field name="unitdate_bulk_teim">1600-1940</field>
+     <field name="unitdate_inclusive_teim">1939-1940</field>
+-    <field name="scopecontent_teim">This collection includes drafted sections of "The Indians of Brooklyn in the Days of the Dutch," edited by William Christie MacLeod, as well as research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
+-    <field name="bioghist_teim">The New York City Work Projects Administration (WPA) Historical Records Survey was one of the many cultural projects initiated as part of the WPA's federal relief programs from 1935 to 1943. This collection represents the efforts of the Historical Records Survey to collect, transcribe and explain records pertaining to the Native American communities of 17th century Brooklyn. </field>
++    <field name="scopecontent_teim">This collection includes drafted sections of &#34;The Indians of Brooklyn in the Days of the Dutch,&#34; edited by William Christie MacLeod, as well as research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</field>
++    <field name="bioghist_teim">The New York City Work Projects Administration (WPA) Historical Records Survey was one of the many cultural projects initiated as part of the WPA&#39;s federal relief programs from 1935 to 1943. This collection represents the efforts of the Historical Records Survey to collect, transcribe and explain records pertaining to the Native American communities of 17th century Brooklyn. </field>
+     <field name="bioghist_teim">Archaeological evidence testifies that indigenous people have been living in the region now comprising the five boroughs of New York City for at least 11,500 years. Indigenous people living along the Atlantic seaboard between the Delaware and Hudson valleys refer to themselves as Lenape (people), though the Europeans arriving in the 16th and 17th century called them Delawares. Native Americans of the region are believed to have spoken a variant of Lenape/Delaware dialect known as Munsee. Documented Munsee communities who lived in the area that would eventually become known as Brooklyn included the Marechkawick (sandy place) near present-day Borough Hall, Nayack (point of land), Wichquawanck (sandy bank) at present-day Fort Hamilton, Techkonis (translation unknown) in present-day Gravesend, and Canarsie (grassy place) in present-day Flatlands.</field>
+     <field name="acqinfo_teim">Deposited by the New York City WPA, 1941.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -79,7 +79,7 @@
+     <field name="geogname_teim">Bergen Island</field>
+     <field name="geogname_teim">Governors Island</field>
+     <field name="geogname_teim">Manatus map</field>
+-    <field name="geogname_teim">Kieft's War, 1643-1645</field>
++    <field name="geogname_teim">Kieft&#39;s War, 1643-1645</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Canarsie (New York, N.Y.)</field>
+     <field name="geogname_ssm">Flatlands (New York, N.Y.)</field>
+@@ -106,7 +106,7 @@
+     <field name="geogname_ssm">Bergen Island</field>
+     <field name="geogname_ssm">Governors Island</field>
+     <field name="geogname_ssm">Manatus map</field>
+-    <field name="geogname_ssm">Kieft's War, 1643-1645</field>
++    <field name="geogname_ssm">Kieft&#39;s War, 1643-1645</field>
+     <field name="persname_teim">MacLeod, William Christie</field>
+     <field name="persname_teim">Penhawis</field>
+     <field name="persname_teim">Stuyvesant, Peter</field>
+@@ -140,7 +140,7 @@
+     <field name="persname_ssm">Danckaerts, Jasper</field>
+     <field name="persname_ssm">Sluyter, Peter</field>
+     <field name="subject_teim">Indians of North America |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Indians of North America -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Indians of North America --New York (State) --Kings County</field>
+     <field name="subject_teim">Orthography</field>
+     <field name="subject_ssm">Indians of North America |z New York (State) |z Kings County</field>
+     <field name="collection_sim">New York City WPA historical survey of Indigenous People of Brooklyn</field>
+@@ -226,8 +226,8 @@
+     <field name="place_sim">Bergen Island</field>
+     <field name="place_sim">Governors Island</field>
+     <field name="place_sim">Manatus map</field>
+-    <field name="place_sim">Kieft's War, 1643-1645</field>
+-    <field name="subject_sim">Indians of North America -- New York (State) -- Kings County</field>
++    <field name="place_sim">Kieft&#39;s War, 1643-1645</field>
++    <field name="subject_sim">Indians of North America --New York (State) --Kings County</field>
+     <field name="subject_sim">Orthography</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Typescripts</field>

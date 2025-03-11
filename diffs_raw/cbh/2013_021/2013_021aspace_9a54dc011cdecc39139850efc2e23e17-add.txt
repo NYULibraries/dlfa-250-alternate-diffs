@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1968/1968</field>
+     <field name="unitdate_normal_sim">1968/1968</field>
+     <field name="unitdate_teim">1968</field>
+-    <field name="scopecontent_teim">This file contains photocopies of the New York Magazine article "Robert Kennedy's Bedford-Stuyvesant Legacy" by Jack Newfield.</field>
++    <field name="scopecontent_teim">This file contains photocopies of the New York Magazine article &#34;Robert Kennedy&#39;s Bedford-Stuyvesant Legacy&#34; by Jack Newfield.</field>
+     <field name="ref_ssi">aspace_9a54dc011cdecc39139850efc2e23e17</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 4, Folder: 20</field>
+     <field name="location_si">Box: 4, Folder: 20</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Jack Newfield</field>
+     <field name="heading_ssm">Jack Newfield</field>

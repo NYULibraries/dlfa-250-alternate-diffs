@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Julia and Morris Mandelowitz World War II correspondence</field>
+     <field name="collection_unitid_ssm">2017.008</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Army Soldier's Handbook</field>
+-    <field name="unittitle_teim">Army Soldier's Handbook</field>
++    <field name="unittitle_ssm">Army Soldier&#39;s Handbook</field>
++    <field name="unittitle_teim">Army Soldier&#39;s Handbook</field>
+     <field name="unitdate_normal_ssm">1941/1941</field>
+     <field name="unitdate_normal_teim">1941/1941</field>
+     <field name="unitdate_normal_sim">1941/1941</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 11</field>
+     <field name="location_si">Box: 11</field>
+     <field name="collection_teim">Julia and Morris Mandelowitz World War II correspondence</field>
++    <field name="author_teim">Ruby Lowery and Maggie Schreiner</field>
+     <field name="collection_unitid_teim">2017.008</field>
+-    <field name="series_si">Army Soldier's Handbook</field>
+-    <field name="heading_ssm">Army Soldier's Handbook</field>
++    <field name="series_si">Army Soldier&#39;s Handbook</field>
++    <field name="heading_ssm">Army Soldier&#39;s Handbook</field>
+     <field name="unitdate_start_sim">1941</field>
+     <field name="unitdate_start_ssm">1941</field>
+     <field name="unitdate_start_si">1941</field>

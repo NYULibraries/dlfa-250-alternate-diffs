@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -49,11 +49,11 @@
+     <field name="subject_teim">Outdoor recreation</field>
+     <field name="subject_teim">Street photography |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Dwellings |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Subways -- New York (State) -- New York</field>
+-    <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Outdoor recreation</field>
+-    <field name="subject_teim">Street photography -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Dwellings -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Subways --New York (State) --New York</field>
++    <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Outdoor recreation</field>
++    <field name="subject_teim">Street photography --New York (State) --Kings County</field>
++    <field name="subject_teim">Dwellings --New York (State) --Kings County</field>
+     <field name="subject_ssm">Subways |z New York (State) |z New York</field>
+     <field name="subject_ssm">Neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Outdoor recreation</field>
+@@ -81,12 +81,12 @@
+     <field name="place_sim">Brighton Beach (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Prospect Park (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
+-    <field name="subject_sim">Subways -- New York (State) -- New York</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Buildings, structures, etc. --Pictorial works</field>
++    <field name="subject_sim">Subways --New York (State) --New York</field>
+     <field name="subject_sim">Neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Outdoor recreation</field>
+-    <field name="subject_sim">Street photography -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Dwellings -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Street photography --New York (State) --Kings County</field>
++    <field name="subject_sim">Dwellings --New York (State) --Kings County</field>
+     <field name="material_type_sim">Color prints (photographs)</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_ssm">Color prints (photographs)</field>

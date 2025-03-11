@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Long Island Historical Society photographs</field>
+     <field name="unitid_teim">V1974.031</field>
+     <field name="unitid_ssm">V1974.031</field>
+-    <field name="abstract_teim">The photographs relate to the Society's historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives.</field>
+-    <field name="abstract_ssm">The photographs relate to the Society's historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives.</field>
++    <field name="abstract_teim">The photographs relate to the Society&#39;s historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives.</field>
++    <field name="abstract_ssm">The photographs relate to the Society&#39;s historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives.</field>
+     <field name="creator_teim">Long Island Historical Society</field>
+     <field name="creator_teim">Kritzler, Alan</field>
+     <field name="creator_teim">Herwig, Ellis</field>
+@@ -28,7 +28,7 @@
+     <field name="unitdate_normal_teim">1915/1990</field>
+     <field name="unitdate_normal_sim">1915/1990</field>
+     <field name="unitdate_inclusive_teim">circa 1925 to 1980</field>
+-    <field name="scopecontent_teim">The Long Island Historical Society photographs date from circa 1925 to 1980 and measure .31 linear feet. The photographs relate to the Society's historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives. The photographs were created by both professional and amateur photographers including Ernest Tanare, Ellis Herwig, Henrik Krogius, and Alan Kritzler, among others, while the creator is unknown for the remaining photographs in the collection. A large portion of photographs in the collection focus on exterior, interior, and detail views of the landmarked LIHS building. The collection also documents activities of the Society--such as exhibitions, tours, and events--held at LIHS from the 1950s through 1970s. Both black-and-white and color images document LIHS exhibitions, LIHS staff, group tours at LIHS, as well as the speakers and attendees of events held at LIHS.</field>
++    <field name="scopecontent_teim">The Long Island Historical Society photographs date from circa 1925 to 1980 and measure .31 linear feet. The photographs relate to the Society&#39;s historic building, as well as the activities of the Long Island Historical Society (now the Brooklyn Historical Society). The collection is comprised of black-and-white photographic prints, color photographic prints, contact sheets, and contact sheet negatives. The photographs were created by both professional and amateur photographers including Ernest Tanare, Ellis Herwig, Henrik Krogius, and Alan Kritzler, among others, while the creator is unknown for the remaining photographs in the collection. A large portion of photographs in the collection focus on exterior, interior, and detail views of the landmarked LIHS building. The collection also documents activities of the Society--such as exhibitions, tours, and events--held at LIHS from the 1950s through 1970s. Both black-and-white and color images document LIHS exhibitions, LIHS staff, group tours at LIHS, as well as the speakers and attendees of events held at LIHS.</field>
+     <field name="bioghist_teim">The Long Island Historical Society (LIHS) was established in 1863 in the neighborhood of Brooklyn Heights. From 1863 to 1880, LIHS rented rooms on Hamilton Street until it was able to build its now landmarked building. The building, designated a National Historic Landmark in 1991, was designed by architect George B. Post and completed in 1881. Portions of the interior of the building, including its library, were designated an Interior Landmark by the New York City Landmarks Preservation Commission. As of 2011, only 110 interiors have been granted this designation by the Commission. </field>
+     <field name="bioghist_teim">The mission of LIHS was to preserve and encourage the study of Long Island and Brooklyn history via collecting and making available primary and secondary resources, as well as to hold exhibitions, tours, and events. Originally named the Long Island Historical Society due to its location on Long Island, which today is comprised of four counties--Kings County, Queens County, Nassau County, and Suffolk County--it was renamed the Brooklyn Historical Society in 1985.</field>
+     <field name="acqinfo_teim">Source and date of acquisition for this collection are unknown. It is presumed that portions of the collection were created by the Long Island Historical Society (now Brooklyn Historical Society). Portions of the collection were formally accessioned in 1974.</field>
+@@ -79,8 +79,8 @@
+     <field name="subject_teim">Architecture |z New York (State) |z Kings County</field>
+     <field name="subject_teim">History |x Societies, etc.</field>
+     <field name="subject_teim">Exhibitions</field>
+-    <field name="subject_teim">Architecture -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">History -- Societies, etc.</field>
++    <field name="subject_teim">Architecture --New York (State) --Kings County</field>
++    <field name="subject_teim">History --Societies, etc.</field>
+     <field name="subject_teim">Exhibitions</field>
+     <field name="subject_ssm">Architecture |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">History |x Societies, etc.</field>
+@@ -115,13 +115,13 @@
+     <field name="name_teim">Tanare, Ernest</field>
+     <field name="name_teim">Krogius, Henrik</field>
+     <field name="name_teim">Post, George Browne</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life -- 20th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life --20th century</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Buildings, structures, etc. --Pictorial works</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- History</field>
+-    <field name="subject_sim">Architecture -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">History -- Societies, etc.</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --History</field>
++    <field name="subject_sim">Architecture --New York (State) --Kings County</field>
++    <field name="subject_sim">History --Societies, etc.</field>
+     <field name="subject_sim">Exhibitions</field>
+     <field name="material_type_sim">Detail views</field>
+     <field name="material_type_sim">Contact sheets</field>

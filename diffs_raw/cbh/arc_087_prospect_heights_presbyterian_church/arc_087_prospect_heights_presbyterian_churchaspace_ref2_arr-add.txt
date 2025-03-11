@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1921/1969</field>
+     <field name="unitdate_normal_sim">1921/1969</field>
+     <field name="unitdate_inclusive_teim">1921-1969</field>
+-    <field name="scopecontent_teim">Financial Documents contains ledgers and account books of receipts and disbursements of the benevolent fund, the deacon's fund, the Ladies' Aid Society, and the mortgage fund of the church. The treasurer's journal and pledge payments from congregants are also kept in this series.</field>
++    <field name="scopecontent_teim">Financial Documents contains ledgers and account books of receipts and disbursements of the benevolent fund, the deacon&#39;s fund, the Ladies&#39; Aid Society, and the mortgage fund of the church. The treasurer&#39;s journal and pledge payments from congregants are also kept in this series.</field>
+     <field name="ref_ssi">aspace_ref2_arr</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Prospect Heights Presbyterian Church records</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.087</field>
+     <field name="series_si">Series 1: Financial Records</field>
+     <field name="heading_ssm">Series 1: Financial Records</field>

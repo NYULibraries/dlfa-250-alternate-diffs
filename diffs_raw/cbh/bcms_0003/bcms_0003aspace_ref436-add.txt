@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Firemen's Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. &lt;em&gt;Gleason's Pictorial Drawing Room Companion&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Firemen's Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. Gleason's Pictorial Drawing Room Companion</field>
++    <field name="unittitle_ssm">Firemen&#39;s Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. &lt;em&gt;Gleason&#39;s Pictorial Drawing Room Companion&lt;/em&gt;</field>
++    <field name="unittitle_teim">Firemen&#39;s Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. Gleason&#39;s Pictorial Drawing Room Companion</field>
+     <field name="unitdate_normal_ssm">1851-10-18/1851-10-18</field>
+     <field name="unitdate_normal_teim">1851-10-18/1851-10-18</field>
+     <field name="unitdate_normal_sim">1851-10-18/1851-10-18</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Cemeteries</field>
+-    <field name="series_si">Cemeteries &gt;&gt; Firemen's Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. &lt;em&gt;Gleason's Pictorial Drawing Room Companion&lt;/em&gt;</field>
+-    <field name="heading_ssm">Firemen's Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. Gleason's Pictorial Drawing Room Companion</field>
++    <field name="series_si">Cemeteries &gt;&gt; Firemen&#39;s Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. &lt;em&gt;Gleason&#39;s Pictorial Drawing Room Companion&lt;/em&gt;</field>
++    <field name="heading_ssm">Firemen&#39;s Monument, Situated on Ocean Hill, in Greenwood Cemetery, Long Island, N.Y. Gleason&#39;s Pictorial Drawing Room Companion</field>
+     <field name="unitdate_ssm">October 18, 1851</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">388</field>

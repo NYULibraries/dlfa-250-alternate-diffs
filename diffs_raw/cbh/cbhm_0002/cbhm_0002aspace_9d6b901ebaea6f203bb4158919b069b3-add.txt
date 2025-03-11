@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Sub-series 12.3: September 11th Remembered in Film</field>
+     <field name="unittitle_teim">Sub-series 12.3: September 11th Remembered in Film</field>
+     <field name="scopecontent_teim">The bulk of this sub-series includes copies of the films accepted and not accepted for screening. Additional items include applications, promotional materials, and notes.</field>
+-    <field name="bioghist_teim">September 11th Remembered in Film was a screening of documentary and interpretive films inspired by the September 11th attacks and it's aftermath, which ran from September 7-10, 2007. Discussions with the filmmakers took place after the screenings.  </field>
++    <field name="bioghist_teim">September 11th Remembered in Film was a screening of documentary and interpretive films inspired by the September 11th attacks and it&#39;s aftermath, which ran from September 7-10, 2007. Discussions with the filmmakers took place after the screenings.  </field>
+     <field name="bioghist_teim">Screening Schedule:  </field>
+     <field name="bioghist_teim">
+ Communities, September 7th </field>
+@@ -37,7 +37,7 @@
+     <field name="bioghist_teim"> 
+ Windows, September 9th </field>
+     <field name="bioghist_teim">Say Can You See, Tony Caio </field>
+-    <field name="bioghist_teim">Zahira's Peace, Nina Rosenblum </field>
++    <field name="bioghist_teim">Zahira&#39;s Peace, Nina Rosenblum </field>
+     <field name="bioghist_teim">Welcome to New York, Norman Cowie </field>
+     <field name="bioghist_teim">The History Makers, Louise Tiranoff/Lynn McVeigh </field>
+     <field name="bioghist_teim">America Rebuilds II- Return to Ground Zero, Kenneth Mandel/Daniel Polin </field>
+@@ -57,6 +57,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Arts Council Folk Arts collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">CBHM.0002</field>
+     <field name="series_sim">Series 12: September 11th Memorial Projects</field>
+     <field name="series_si">Series 12: September 11th Memorial Projects &gt;&gt; Sub-series 12.3: September 11th Remembered in Film</field>

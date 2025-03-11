@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,11 +34,11 @@
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Ships</field>
+     <field name="subject_teim">Piers |z New York (State) |z New York</field>
+-    <field name="subject_teim">Bridges -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- New York</field>
+-    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ships</field>
+-    <field name="subject_teim">Piers -- New York (State) -- New York</field>
++    <field name="subject_teim">Bridges --New York (State) --Kings County</field>
++    <field name="subject_teim">Ferries --New York (State) --New York</field>
++    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ships</field>
++    <field name="subject_teim">Piers --New York (State) --New York</field>
+     <field name="subject_ssm">Bridges |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Ferries |z New York (State) |z New York</field>
+     <field name="subject_ssm">Transportation -- New York (State) -- Kings County</field>
+@@ -60,11 +60,11 @@
+     <field name="place_sim">Sheepshead Bay (New York, N.Y.)</field>
+     <field name="place_sim">Queens (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Bridges -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- New York</field>
++    <field name="subject_sim">Bridges --New York (State) --Kings County</field>
++    <field name="subject_sim">Ferries --New York (State) --New York</field>
+     <field name="subject_sim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Ships</field>
+-    <field name="subject_sim">Piers -- New York (State) -- New York</field>
++    <field name="subject_sim">Piers --New York (State) --New York</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_sim">Black-and-white prints (photographs)</field>
+     <field name="material_type_ssm">Photographs</field>

@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">1974 August 22</field>
+     <field name="scopecontent_teim">In the interview, Nereida Martí narrates her experiences finding employment and working in sewing factories in Brooklyn, New York while attending night school. The narrator briefly discusses living conditions and recreational activities in the neighborhood of Brooklyn Heights, as well societal changes in there during the 1950s. Interview in English and Spanish conducted by John D. Vazquez.</field>
+-    <field name="bioghist_teim">Nereida Martí was born in Puerto Rico and moved to Brooklyn, New York in July, 1951 to live with her godmother's daughter. At the time of the 1974 interview, Martí was married and had two children. She lived in different apartments in the Brooklyn Heights neighborhood, where she also worked, until 1959, as a sewing machine operator.</field>
++    <field name="bioghist_teim">Nereida Martí was born in Puerto Rico and moved to Brooklyn, New York in July, 1951 to live with her godmother&#39;s daughter. At the time of the 1974 interview, Martí was married and had two children. She lived in different apartments in the Brooklyn Heights neighborhood, where she also worked, until 1959, as a sewing machine operator.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+@@ -31,9 +31,9 @@
+     <field name="subject_teim">Puerto Rican women |x Employment |z New York (State) |z New York</field>
+     <field name="subject_teim">Puerto Ricans |x Education |z New York (State) |z New York</field>
+     <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">Factories -- New York (State)</field>
+-    <field name="subject_teim">Puerto Rican women -- Employment -- New York (State) -- New York</field>
+-    <field name="subject_teim">Puerto Ricans -- Education -- New York (State) -- New York</field>
++    <field name="subject_teim">Factories --New York (State)</field>
++    <field name="subject_teim">Puerto Rican women --Employment --New York (State) --New York</field>
++    <field name="subject_teim">Puerto Ricans --Education --New York (State) --New York</field>
+     <field name="subject_teim">Race relations -- United States</field>
+     <field name="subject_ssm">Factories |z New York (State)</field>
+     <field name="subject_ssm">Puerto Rican women |x Employment |z New York (State) |z New York</field>
+@@ -49,11 +49,12 @@
+     <field name="place_ssm">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+-    <field name="subject_sim">Factories -- New York (State)</field>
+-    <field name="subject_sim">Puerto Rican women -- Employment -- New York (State) -- New York</field>
+-    <field name="subject_sim">Puerto Ricans -- Education -- New York (State) -- New York</field>
++    <field name="subject_sim">Factories --New York (State)</field>
++    <field name="subject_sim">Puerto Rican women --Employment --New York (State) --New York</field>
++    <field name="subject_sim">Puerto Ricans --Education --New York (State) --New York</field>
+     <field name="subject_sim">Race relations -- United States</field>
+     <field name="collection_teim">Puerto Rican Oral History Project records</field>
++    <field name="author_teim">Morgen Stevens-Garmon under the supervision of Chela Scott Weber, with revision by Brett Dion</field>
+     <field name="collection_unitid_teim">1976.001</field>
+     <field name="series_sim">Series 1: Oral Histories</field>
+     <field name="series_si">Series 1: Oral Histories &gt;&gt; Marti, Nereida</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Montauk Club collection</field>
+     <field name="collection_unitid_ssm">BCMS.0045</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Book, "The Montauk Club"</field>
+-    <field name="unittitle_teim">Book, "The Montauk Club"</field>
++    <field name="unittitle_ssm">Book, &#34;The Montauk Club&#34;</field>
++    <field name="unittitle_teim">Book, &#34;The Montauk Club&#34;</field>
+     <field name="unitdate_teim">1890</field>
+     <field name="ref_ssi">aspace_ref25</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 10</field>
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="collection_teim">Montauk Club collection</field>
++    <field name="author_teim">Diana Bowers-Smith, Archivist with the assistance of Kreya Jackson, Librarian and Brooklyn Collection volunteer</field>
+     <field name="collection_unitid_teim">BCMS.0045</field>
+     <field name="series_sim">Series 2: Publications and clippings</field>
+-    <field name="series_si">Series 2: Publications and clippings &gt;&gt; Book, "The Montauk Club"</field>
+-    <field name="heading_ssm">Book, "The Montauk Club"</field>
++    <field name="series_si">Series 2: Publications and clippings &gt;&gt; Book, &#34;The Montauk Club&#34;</field>
++    <field name="heading_ssm">Book, &#34;The Montauk Club&#34;</field>
+     <field name="unitdate_ssm">1890</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

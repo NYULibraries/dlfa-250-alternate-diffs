@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1964/1980</field>
+     <field name="unitdate_normal_sim">1964/1980</field>
+     <field name="unitdate_inclusive_teim">1964, 1972-1973, 1980</field>
+-    <field name="scopecontent_teim">Vols. 7-22. "Published monthly...for the information and guidance of the employees of the Brooklyn Post Office."</field>
++    <field name="scopecontent_teim">Vols. 7-22. &#34;Published monthly...for the information and guidance of the employees of the Brooklyn Post Office.&#34;</field>
+     <field name="ref_ssi">aspace_5dd27b75d07d853dbc3f59468c0d0dce</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">News Digest</field>
+     <field name="heading_ssm">News Digest</field>

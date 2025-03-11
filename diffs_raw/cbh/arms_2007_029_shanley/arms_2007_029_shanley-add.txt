@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">John Shanley memorial resolution book</field>
+     <field name="unitid_teim">2007.029</field>
+     <field name="unitid_ssm">2007.029</field>
+-    <field name="abstract_teim">One oversize bound volume containing a resolution adopted by the Brooklyn Common Council in honor of John Shanley, City Clerk and Clerk to the Common Council, upon Shanley's death in 1890.  The resolution is handwritten in illuminated calligraphy.</field>
+-    <field name="abstract_ssm">One oversize bound volume containing a resolution adopted by the Brooklyn Common Council in honor of John Shanley, City Clerk and Clerk to the Common Council, upon Shanley's death in 1890.  The resolution is handwritten in illuminated calligraphy.</field>
++    <field name="abstract_teim">One oversize bound volume containing a resolution adopted by the Brooklyn Common Council in honor of John Shanley, City Clerk and Clerk to the Common Council, upon Shanley&#39;s death in 1890.  The resolution is handwritten in illuminated calligraphy.</field>
++    <field name="abstract_ssm">One oversize bound volume containing a resolution adopted by the Brooklyn Common Council in honor of John Shanley, City Clerk and Clerk to the Common Council, upon Shanley&#39;s death in 1890.  The resolution is handwritten in illuminated calligraphy.</field>
+     <field name="creator_teim">Brooklyn (New York, N.Y.). Common Council</field>
+     <field name="creator_ssm">Brooklyn (New York, N.Y.). Common Council</field>
+     <field name="creator_ssm">Brooklyn (New York, N.Y.). Common Council</field>
+@@ -34,7 +34,7 @@
+     <field name="subject_teim">Memorial service</field>
+     <field name="subject_teim">Public officers |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Memorial service</field>
+-    <field name="subject_teim">Public officers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Public officers --New York (State) --Kings County</field>
+     <field name="subject_ssm">Memorial service</field>
+     <field name="subject_ssm">Public officers |z New York (State) |z Kings County</field>
+     <field name="collection_sim">John Shanley memorial resolution book</field>
+@@ -53,9 +53,9 @@
+     <field name="name_sim">Shanley, John</field>
+     <field name="name_teim">Brooklyn (New York, N.Y.). Common Council</field>
+     <field name="name_teim">Shanley, John</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Politics and government</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Politics and government</field>
+     <field name="subject_sim">Memorial service</field>
+-    <field name="subject_sim">Public officers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Public officers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Volumes (documents by form)</field>
+     <field name="material_type_sim">Resolutions (administrative records)</field>
+     <field name="material_type_sim">Calligraphy (visual works)</field>

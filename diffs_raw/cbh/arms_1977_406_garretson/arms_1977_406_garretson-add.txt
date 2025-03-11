@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Simon C. Garretson military appointments</field>
+     <field name="unitid_teim">1977.406</field>
+     <field name="unitid_ssm">1977.406</field>
+-    <field name="abstract_teim">This collection consists of two certificates dated 1821 and 1824 concerning Simon C. Garretson's rank in the 64th Regiment of the New York State Militia.</field>
+-    <field name="abstract_ssm">This collection consists of two certificates dated 1821 and 1824 concerning Simon C. Garretson's rank in the 64th Regiment of the New York State Militia.</field>
++    <field name="abstract_teim">This collection consists of two certificates dated 1821 and 1824 concerning Simon C. Garretson&#39;s rank in the 64th Regiment of the New York State Militia.</field>
++    <field name="abstract_ssm">This collection consists of two certificates dated 1821 and 1824 concerning Simon C. Garretson&#39;s rank in the 64th Regiment of the New York State Militia.</field>
+     <field name="creator_teim">Garretson, Simon C.</field>
+     <field name="creator_teim">Yates, Joseph Christopher</field>
+     <field name="creator_teim">Clinton, DeWitt</field>
+@@ -43,9 +43,9 @@
+     <field name="subject_teim">Soldiers |z New York (State)</field>
+     <field name="subject_teim">Military commissions</field>
+     <field name="subject_teim">Governors |z New York (State)</field>
+-    <field name="subject_teim">Soldiers -- New York (State)</field>
+-    <field name="subject_teim">Military commissions</field>
+-    <field name="subject_teim">Governors -- New York (State)</field>
++    <field name="subject_teim">Soldiers --New York (State)</field>
++    <field name="subject_teim">Military commissions</field>
++    <field name="subject_teim">Governors --New York (State)</field>
+     <field name="subject_ssm">Soldiers |z New York (State)</field>
+     <field name="subject_ssm">Military commissions</field>
+     <field name="subject_ssm">Governors |z New York (State)</field>
+@@ -72,9 +72,9 @@
+     <field name="name_teim">Yates, Joseph Christopher</field>
+     <field name="name_teim">Clinton, DeWitt</field>
+     <field name="place_sim">New York (State)</field>
+-    <field name="subject_sim">Soldiers -- New York (State)</field>
++    <field name="subject_sim">Soldiers --New York (State)</field>
+     <field name="subject_sim">Military commissions</field>
+-    <field name="subject_sim">Governors -- New York (State)</field>
++    <field name="subject_sim">Governors --New York (State)</field>
+     <field name="material_type_sim">Certificates</field>
+     <field name="material_type_ssm">Certificates</field>
+     <field name="heading_ssm">Simon C. Garretson military appointments</field>

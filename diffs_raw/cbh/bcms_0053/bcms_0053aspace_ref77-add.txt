@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Larry Racioppo collection</field>
+     <field name="collection_unitid_ssm">BCMS.0053</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Common Bond&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Common Bond
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Common Bond&lt;/em&gt;</field>
++    <field name="unittitle_teim">Common Bond</field>
+     <field name="unitdate_teim">1999 (Spring/Summer)</field>
+     <field name="ref_ssi">aspace_ref77</field>
+     <field name="repository_ssi">cbh</field>
+@@ -29,14 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 4</field>
+     <field name="location_si">Box: 2, Folder: 4</field>
+     <field name="collection_teim">Larry Racioppo collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0053</field>
+     <field name="series_sim">Series 2: Press</field>
+-    <field name="series_si">Series 2: Press &gt;&gt; 
+-      &lt;em&gt;Common Bond&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Common Bond
+-    </field>
++    <field name="series_si">Series 2: Press &gt;&gt; &lt;em&gt;Common Bond&lt;/em&gt;</field>
++    <field name="heading_ssm">Common Bond</field>
+     <field name="unitdate_ssm">1999 (Spring/Summer)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">68</field>

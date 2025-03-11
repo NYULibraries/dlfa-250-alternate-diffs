@@ -1,0 +1,88 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+-    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_sim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="collection_ssm">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
+     <field name="collection_unitid_ssm">1994.007</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Anonymous</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 July 1</field>
+-    <field name="scopecontent_teim">In this interview, the narrator relates her life story with a backdrop of generations of her family's history. She describes Vietnam; living in Saigon, the Vietcong takeover, her family's process of fleeing, and immigrating to America as a refugee. The narrator discusses her entrepreneurial pursuits by evaluating each business that she started along with each demise. She looks at the real estate business in the Sunset Park neighborhood of Brooklyn; providing general rent information and identifying the future prospects for the area and its Chinese American residents. Interview in Mandarin conducted by Gregory Ruf.</field>
+-    <field name="bioghist_teim">The narrator was born circa 1950 in Taishan, Mainland China. After a brief stay in Hong Kong, her family settled in Saigon, Vietnam, where she lived for thirty years. As an adult, she worked, married, and had five children. The family lived comfortably until the Vietcong conquered South Vietnam and took possession of her family's considerable financial portfolio. Forced to flee, the narrator and her children were granted refugee status in America and settled in Brooklyn. She started numerous entrepreneurial pursuits, including a real estate business. At the time of the 1993 interview, the narrator lived in Brooklyn with her husband and four adult children.</field>
++    <field name="scopecontent_teim">In this interview, the narrator relates her life story with a backdrop of generations of her family&#39;s history. She describes Vietnam; living in Saigon, the Vietcong takeover, her family&#39;s process of fleeing, and immigrating to America as a refugee. The narrator discusses her entrepreneurial pursuits by evaluating each business that she started along with each demise. She looks at the real estate business in the Sunset Park neighborhood of Brooklyn; providing general rent information and identifying the future prospects for the area and its Chinese American residents. Interview in Mandarin conducted by Gregory Ruf.</field>
++    <field name="bioghist_teim">The narrator was born circa 1950 in Taishan, Mainland China. After a brief stay in Hong Kong, her family settled in Saigon, Vietnam, where she lived for thirty years. As an adult, she worked, married, and had five children. The family lived comfortably until the Vietcong conquered South Vietnam and took possession of her family&#39;s considerable financial portfolio. Forced to flee, the narrator and her children were granted refugee status in America and settled in Brooklyn. She started numerous entrepreneurial pursuits, including a real estate business. At the time of the 1993 interview, the narrator lived in Brooklyn with her husband and four adult children.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.) |x Religious life and customs</field>
+     <field name="geogname_teim">China</field>
+     <field name="geogname_teim">Chinatown (Brooklyn, New York, N.Y.)</field>
+@@ -48,11 +48,11 @@
+     <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Refugees</field>
+     <field name="subject_teim">Vietnam War, 1961-1975</field>
+-    <field name="subject_teim">Asian Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Communism -- Vietnam</field>
+-    <field name="subject_teim">Festivals -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Asian Americans --New York (State) --New York</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Communism --Vietnam</field>
++    <field name="subject_teim">Festivals --New York (State) --Kings County</field>
+     <field name="subject_teim">Multiculturalism</field>
+     <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Refugees</field>
+@@ -72,7 +72,7 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_ssm">China</field>
+     <field name="place_ssm">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_ssm">Chinatown (New York, N.Y.)</field>
+@@ -79,8 +79,8 @@
+     <field name="place_ssm">Ho Chi Minh City (Vietnam)</field>
+     <field name="place_ssm">Hong Kong (China)</field>
+     <field name="place_ssm">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_sim">China</field>
+     <field name="place_sim">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Chinatown (New York, N.Y.)</field>
+@@ -87,17 +87,18 @@
+     <field name="place_sim">Ho Chi Minh City (Vietnam)</field>
+     <field name="place_sim">Hong Kong (China)</field>
+     <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Asian Americans -- New York (State) -- New York</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Communism -- Vietnam</field>
+-    <field name="subject_sim">Festivals -- New York (State) -- Kings County</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Asian Americans --New York (State) --New York</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --Kings County</field>
++    <field name="subject_sim">Communism --Vietnam</field>
++    <field name="subject_sim">Festivals --New York (State) --Kings County</field>
+     <field name="subject_sim">Multiculturalism</field>
+     <field name="subject_sim">Real estate business -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Refugees</field>
+     <field name="subject_sim">Vietnam War, 1961-1975</field>
+-    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_teim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">1994.007</field>
+     <field name="series_sim">Series 1: Oral histories</field>
+     <field name="series_si">Series 1: Oral histories &gt;&gt; Anonymous</field>

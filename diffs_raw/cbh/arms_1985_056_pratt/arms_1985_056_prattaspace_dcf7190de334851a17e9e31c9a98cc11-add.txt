@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1891/1891</field>
+     <field name="unitdate_normal_sim">1891/1891</field>
+     <field name="unitdate_teim">1891</field>
+-    <field name="scopecontent_teim">"Cooperative educational work by Pratt Institute and Prang Educational Company. The attention of teachers is respectfully invited to a cooperative undertaking...for the promotion of Art and Industrial education in public schools. The enclosed circular...outlines the general features."</field>
++    <field name="scopecontent_teim">&#34;Cooperative educational work by Pratt Institute and Prang Educational Company. The attention of teachers is respectfully invited to a cooperative undertaking...for the promotion of Art and Industrial education in public schools. The enclosed circular...outlines the general features.&#34;</field>
+     <field name="ref_ssi">aspace_dcf7190de334851a17e9e31c9a98cc11</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 4</field>
+     <field name="location_si">Box: 1, Folder: 4</field>
+     <field name="collection_teim">Pratt Institute collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">1985.056</field>
+     <field name="series_sim">Series 1: Publications</field>
+     <field name="series_si">Series 1: Publications &gt;&gt; Art and Industrial Education</field>

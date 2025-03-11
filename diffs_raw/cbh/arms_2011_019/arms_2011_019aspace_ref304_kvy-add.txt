@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2014/2014</field>
+     <field name="unitdate_normal_sim">2014/2014</field>
+     <field name="unitdate_inclusive_teim">2014 January 27</field>
+-    <field name="scopecontent_teim">In the interview, Wong discusses her family's immigration experiences in Hong Kong and the United States; maternal grandparents' marriage and separation; experiences with racial tension in Syracuse, New York; photography career; marriage to her Indian American husband; and experiences naming and raising their daughter. Interview conducted by Sady Sullivan.</field>
++    <field name="scopecontent_teim">In the interview, Wong discusses her family&#39;s immigration experiences in Hong Kong and the United States; maternal grandparents&#39; marriage and separation; experiences with racial tension in Syracuse, New York; photography career; marriage to her Indian American husband; and experiences naming and raising their daughter. Interview conducted by Sady Sullivan.</field>
+     <field name="bioghist_teim">Manyi Wong was born to Chinese parents in Hong Kong and raised in Brooklyn, New York. Wong received a B.F.A. in art photography from Syracuse University in New York and an M.S. in organizational change management from the New School in New York City. She worked as the executive director at the Park Slope Child Care Collective in Brooklyn, New York.</field>
+     <field name="geogname_teim">Bensonhurst (New York, N.Y.)</field>
+     <field name="geogname_teim">United States |x Emigration and immigration</field>
+@@ -28,11 +28,11 @@
+     <field name="subject_teim">Marriage customs and rites |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Interethnic marriage</field>
+     <field name="subject_teim">East Indian Americans |z New York (State) |z New York</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Parenthood</field>
+-    <field name="subject_teim">Marriage customs and rites -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Interethnic marriage</field>
+-    <field name="subject_teim">East Indian Americans -- New York (State) -- New York</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --New York</field>
++    <field name="subject_teim">Parenthood</field>
++    <field name="subject_teim">Marriage customs and rites --New York (State) --Kings County</field>
++    <field name="subject_teim">Interethnic marriage</field>
++    <field name="subject_teim">East Indian Americans --New York (State) --New York</field>
+     <field name="subject_ssm">Chinese Americans |z New York (State) |z New York</field>
+     <field name="subject_ssm">Parenthood</field>
+     <field name="subject_ssm">Marriage customs and rites |z New York (State) |z Kings County</field>
+@@ -45,15 +45,16 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">Bensonhurst (New York, N.Y.)</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Bensonhurst (New York, N.Y.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- New York</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --New York</field>
+     <field name="subject_sim">Parenthood</field>
+-    <field name="subject_sim">Marriage customs and rites -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Marriage customs and rites --New York (State) --Kings County</field>
+     <field name="subject_sim">Interethnic marriage</field>
+-    <field name="subject_sim">East Indian Americans -- New York (State) -- New York</field>
++    <field name="subject_sim">East Indian Americans --New York (State) --New York</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Manyi Wong</field>
+     <field name="heading_ssm">Manyi Wong</field>

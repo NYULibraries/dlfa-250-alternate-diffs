@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,11 +30,11 @@
+     <field name="persname_teim">Hegeman, Adrian</field>
+     <field name="persname_ssm">Hegeman, Adrian</field>
+     <field name="subject_teim">Wills |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Decedents' estates |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Wills -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Wills --New York (State) --Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates --New York (State) --Kings County</field>
+     <field name="subject_ssm">Wills |z New York (State) |z Kings County</field>
+-    <field name="subject_ssm">Decedents' estates |z New York (State) |z Kings County</field>
++    <field name="subject_ssm">Decedents&#39; estates |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Adrian Hegeman wills</field>
+     <field name="collection_ssm">Adrian Hegeman wills</field>
+     <field name="collection_teim">Adrian Hegeman wills</field>
+@@ -51,8 +51,8 @@
+     <field name="name_teim">Hegeman family</field>
+     <field name="name_teim">Hegeman, Adrian</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Wills -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Wills --New York (State) --Kings County</field>
++    <field name="subject_sim">Decedents&#39; estates --New York (State) --Kings County</field>
+     <field name="material_type_sim">Wills</field>
+     <field name="material_type_sim">Probate records</field>
+     <field name="material_type_ssm">Wills</field>

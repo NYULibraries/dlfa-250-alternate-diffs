@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Greene Avenue Presbyterian Church foreclosure deed</field>
+     <field name="unitid_teim">1974.235</field>
+     <field name="unitid_ssm">1974.235</field>
+-    <field name="abstract_teim">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register's Office in 1881.</field>
+-    <field name="abstract_ssm">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register's Office in 1881.</field>
++    <field name="abstract_teim">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register&#39;s Office in 1881.</field>
++    <field name="abstract_ssm">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register&#39;s Office in 1881.</field>
+     <field name="creator_teim">Riley, Thomas M.</field>
+     <field name="creator_teim">Earle, William P.</field>
+     <field name="creator_ssm">Riley, Thomas M.</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1880/1881</field>
+     <field name="unitdate_normal_sim">1880/1881</field>
+     <field name="unitdate_inclusive_teim">1880-1881</field>
+-    <field name="scopecontent_teim">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register's Office in 1881.</field>
++    <field name="scopecontent_teim">One deed between Thomas M. Riley, Sheriff of Kings County, and William P. Earle of New York City, granting Earle a portion of the property occupied by the Greene Avenue Presbyterian Church due to foreclosure.  The deed was created in 1880 and was recorded in the Kings County Register&#39;s Office in 1881.</field>
+     <field name="bioghist_teim">The Greene Avenue Presbyterian Church was organized in 1874.</field>
+     <field name="acqinfo_teim">Source and date of acquisition unknown.  The collection was formally accessioned in 1974.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -36,10 +36,10 @@
+     <field name="subject_teim">Deeds</field>
+     <field name="subject_teim">Presbyterians |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Church property |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Land grants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Presbyterians -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Church property -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Land grants --New York (State) --Kings County</field>
++    <field name="subject_teim">Deeds</field>
++    <field name="subject_teim">Presbyterians --New York (State) --Kings County</field>
++    <field name="subject_teim">Church property --New York (State) --Kings County</field>
+     <field name="subject_ssm">Land grants |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Deeds</field>
+     <field name="subject_ssm">Presbyterians |z New York (State) |z Kings County</field>
+@@ -64,10 +64,10 @@
+     <field name="name_teim">Riley, Thomas M.</field>
+     <field name="name_teim">Earle, William P.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Land grants -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Land grants --New York (State) --Kings County</field>
+     <field name="subject_sim">Deeds</field>
+-    <field name="subject_sim">Presbyterians -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Church property -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Presbyterians --New York (State) --Kings County</field>
++    <field name="subject_sim">Church property --New York (State) --Kings County</field>
+     <field name="heading_ssm">Greene Avenue Presbyterian Church foreclosure deed</field>
+     <field name="unitdate_start_sim">1880</field>
+     <field name="unitdate_start_ssm">1880</field>

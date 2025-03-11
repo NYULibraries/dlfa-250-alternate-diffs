@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="geogname_ssm">Prospect Park (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Parks |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Parks --New York (State) --Kings County</field>
+     <field name="subject_ssm">Parks |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Prospect Park architectural drawings</field>
+     <field name="collection_ssm">Prospect Park architectural drawings</field>
+@@ -46,7 +46,7 @@
+     <field name="name_teim">Helmle, Huberty &amp; Hudswell</field>
+     <field name="place_sim">Prospect Park (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Parks --New York (State) --Kings County</field>
+     <field name="material_type_sim">Architectural drawings</field>
+     <field name="material_type_ssm">Architectural drawings</field>
+     <field name="heading_ssm">Prospect Park architectural drawings</field>

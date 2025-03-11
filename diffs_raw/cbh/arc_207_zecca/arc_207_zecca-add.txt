@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Amedeo Zecca papers and photographs</field>
+     <field name="unitid_teim">ARC.207</field>
+     <field name="unitid_ssm">ARC.207</field>
+-    <field name="abstract_teim">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca's work as a tailor for the U.S. Naval Clothing Depot.</field>
+-    <field name="abstract_ssm">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca's work as a tailor for the U.S. Naval Clothing Depot.</field>
++    <field name="abstract_teim">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca&#39;s work as a tailor for the U.S. Naval Clothing Depot.</field>
++    <field name="abstract_ssm">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca&#39;s work as a tailor for the U.S. Naval Clothing Depot.</field>
+     <field name="creator_teim">Zecca, Amedeo</field>
+     <field name="creator_ssm">Zecca, Amedeo</field>
+     <field name="creator_ssm">Zecca, Amedeo</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1943/1956</field>
+     <field name="unitdate_normal_sim">1943/1956</field>
+     <field name="unitdate_inclusive_teim">1943-1956</field>
+-    <field name="scopecontent_teim">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca's work as a tailor for the U.S. Naval Clothing Depot. Included are a biographical sketch, certificates issued by the Navy, an annual report of the Merchant Tailors and Designers Association, and a sketchbook of clothing patterns. Operation lists from the Naval Clothing Depot detail articles of clothing produced for Navy personnel, listing each step in sewing and assembly, amount of time required, and machines used. In addition, six photographs show Zecca at a Navy-related banquet.</field>
++    <field name="scopecontent_teim">The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca&#39;s work as a tailor for the U.S. Naval Clothing Depot. Included are a biographical sketch, certificates issued by the Navy, an annual report of the Merchant Tailors and Designers Association, and a sketchbook of clothing patterns. Operation lists from the Naval Clothing Depot detail articles of clothing produced for Navy personnel, listing each step in sewing and assembly, amount of time required, and machines used. In addition, six photographs show Zecca at a Navy-related banquet.</field>
+     <field name="bioghist_teim">Amedeo Zecca (1894-1985) was born in Calabritto, Provence of Avellino, Italy. He immigrated to the United States in 1910 and lived in Newark, N.J. Zecca married Agatha Graziani in 1938, and the couple moved to the Marine Park neighborhood of Brooklyn. From 1924 to 1960, Zecca worked as a tailor for the U.S. Naval Clothing Depot in the Sunset Park neighborhood of Brooklyn.</field>
+     <field name="acqinfo_teim">Gift of Nina Manger, 1986.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -39,8 +39,8 @@
+     <field name="persname_ssm">Zecca, Amedeo</field>
+     <field name="subject_teim">Tailoring |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clothing trade |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Tailoring -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Clothing trade -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Tailoring --New York (State) --Kings County</field>
++    <field name="subject_teim">Clothing trade --New York (State) --Kings County</field>
+     <field name="subject_ssm">Tailoring |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Clothing trade |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Amedeo Zecca papers and photographs</field>
+@@ -61,8 +61,8 @@
+     <field name="name_teim">Merchant Tailors and Designers Association of America</field>
+     <field name="name_teim">U.S. Naval Clothing Depot (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Zecca, Amedeo</field>
+-    <field name="subject_sim">Tailoring -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Clothing trade -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Tailoring --New York (State) --Kings County</field>
++    <field name="subject_sim">Clothing trade --New York (State) --Kings County</field>
+     <field name="material_type_sim">Annual reports</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_sim">Lists (document genres)</field>

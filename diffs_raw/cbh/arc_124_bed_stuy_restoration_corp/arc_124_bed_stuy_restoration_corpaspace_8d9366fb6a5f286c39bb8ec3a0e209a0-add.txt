@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bedford Stuyvesant Restoration Corporation publication and photograph collection</field>
+     <field name="collection_unitid_ssm">ARC.124</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"About Bedford Stuyvesant Restoration Corporation" booklet</field>
+-    <field name="unittitle_teim">"About Bedford Stuyvesant Restoration Corporation" booklet</field>
++    <field name="unittitle_ssm">&#34;About Bedford Stuyvesant Restoration Corporation&#34; booklet</field>
++    <field name="unittitle_teim">&#34;About Bedford Stuyvesant Restoration Corporation&#34; booklet</field>
+     <field name="unitdate_teim">circa 1970</field>
+     <field name="ref_ssi">aspace_8d9366fb6a5f286c39bb8ec3a0e209a0</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Bedford Stuyvesant Restoration Corporation publication and photograph collection</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">ARC.124</field>
+     <field name="series_sim">Publications and ephemera</field>
+-    <field name="series_si">Publications and ephemera &gt;&gt; "About Bedford Stuyvesant Restoration Corporation" booklet</field>
+-    <field name="heading_ssm">"About Bedford Stuyvesant Restoration Corporation" booklet</field>
++    <field name="series_si">Publications and ephemera &gt;&gt; &#34;About Bedford Stuyvesant Restoration Corporation&#34; booklet</field>
++    <field name="heading_ssm">&#34;About Bedford Stuyvesant Restoration Corporation&#34; booklet</field>
+     <field name="unitdate_ssm">circa 1970</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

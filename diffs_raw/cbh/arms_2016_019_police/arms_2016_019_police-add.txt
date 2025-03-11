@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1868/1898</field>
+     <field name="unitdate_normal_sim">1868/1898</field>
+     <field name="unitdate_inclusive_teim">1868-1898</field>
+-    <field name="scopecontent_teim">The first volume covers the period December 1868 to January 1869 within the precinct of Captain George R. Rhodes and contains records of routine activities such as roll calls and inspections of sleeping quarters, as well as reports of crimes and other events.  Also included is a "Roll of the Force," which lists policemen alphabetically by name and includes their age, date of appointment, and residence.  </field>
+-    <field name="scopecontent_teim">The second volume covers the period April 8, 1898 to May 30, 1898 and is inscribed inside the front cover with the name "Police Surgeon Charles H. Terry."  It contains records of routine activities such as roll calls and uniform inspections, as well as complaints against police officers (largely for absenteeism) and reports of incidents of crimes and accidents.  References to postings in various parks (such as Washington, Highland, Carroll, Winthrop, and Bushwick) and to accidents in Prospect Park appear frequently and indicate that this volume may relate to a park precinct. </field>
++    <field name="scopecontent_teim">The first volume covers the period December 1868 to January 1869 within the precinct of Captain George R. Rhodes and contains records of routine activities such as roll calls and inspections of sleeping quarters, as well as reports of crimes and other events.  Also included is a &#34;Roll of the Force,&#34; which lists policemen alphabetically by name and includes their age, date of appointment, and residence.  </field>
++    <field name="scopecontent_teim">The second volume covers the period April 8, 1898 to May 30, 1898 and is inscribed inside the front cover with the name &#34;Police Surgeon Charles H. Terry.&#34;  It contains records of routine activities such as roll calls and uniform inspections, as well as complaints against police officers (largely for absenteeism) and reports of incidents of crimes and accidents.  References to postings in various parks (such as Washington, Highland, Carroll, Winthrop, and Bushwick) and to accidents in Prospect Park appear frequently and indicate that this volume may relate to a park precinct. </field>
+     <field name="acqinfo_teim">Purchase by Brooklyn Historical Society, 2016.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -31,10 +31,10 @@
+     <field name="subject_teim">Police |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Parks |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Police -- Records and correspondence</field>
+-    <field name="subject_teim">Police -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Police --Records and correspondence</field>
++    <field name="subject_teim">Police --New York (State) --Kings County</field>
++    <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Parks --New York (State) --Kings County</field>
+     <field name="subject_ssm">Police |x Records and correspondence</field>
+     <field name="subject_ssm">Police |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Crime -- New York (State) -- Kings County</field>
+@@ -53,11 +53,11 @@
+     <field name="creator_sim">Terry, Charles H.</field>
+     <field name="name_sim">Terry, Charles H.</field>
+     <field name="name_teim">Terry, Charles H.</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- History -- 19th century</field>
+-    <field name="subject_sim">Police -- Records and correspondence</field>
+-    <field name="subject_sim">Police -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --History --19th century</field>
++    <field name="subject_sim">Police --Records and correspondence</field>
++    <field name="subject_sim">Police --New York (State) --Kings County</field>
+     <field name="subject_sim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Parks --New York (State) --Kings County</field>
+     <field name="material_type_sim">Logs (records)</field>
+     <field name="material_type_ssm">Logs (records)</field>
+     <field name="heading_ssm">Brooklyn police ledgers</field>

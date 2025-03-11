@@ -1,0 +1,82 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,11 +22,11 @@
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 August 10</field>
+     <field name="scopecontent_teim">In the interview, William D. Pointer Jr. recalls his childhood, his relationship with his best friend from the Jewish family next door, and home ownership of different ethnic groups; all in the Crown Heights neighborhood of Brooklyn. He describes his activism as a Black militant teenager and how the African Student Association effected change. In describing the climate that led to turmoil between the cultures of Crown Heights in 1991, Pointer sees a challenge of how the nation and culture at large values the family unit and community. Interview conducted by Craig Wilder.</field>
+-    <field name="bioghist_teim">William D. Pointer Jr. was born to William and Louvenia Pointer in New York City, 1952. He was raised on Carroll St. in the Brooklyn neighborhood of Crown Heights, along with a brother and sister. Pointer graduated from George W. Wingate High School in 1970. He is married to Elder Lillie Pointer, who serves with him at the Christian Cultural Center (CCC). Since 1992, Reverend Pointer has served at CCC as Associate Pastor and Senior Elder, as well as Director of the Performing Arts Ministry. He and his wife have traveled and ministered across the globe. In 2009, his book "Moving from Pain to Power" was published.</field>
+-    <field name="corpname_teim">Boys' High School (Brooklyn, New York, N.Y.)</field>
++    <field name="bioghist_teim">William D. Pointer Jr. was born to William and Louvenia Pointer in New York City, 1952. He was raised on Carroll St. in the Brooklyn neighborhood of Crown Heights, along with a brother and sister. Pointer graduated from George W. Wingate High School in 1970. He is married to Elder Lillie Pointer, who serves with him at the Christian Cultural Center (CCC). Since 1992, Reverend Pointer has served at CCC as Associate Pastor and Senior Elder, as well as Director of the Performing Arts Ministry. He and his wife have traveled and ministered across the globe. In 2009, his book &#34;Moving from Pain to Power&#34; was published.</field>
++    <field name="corpname_teim">Boys&#39; High School (Brooklyn, New York, N.Y.)</field>
+     <field name="corpname_teim">Christian Cultural Center</field>
+     <field name="corpname_teim">George W. Wingate High School</field>
+-    <field name="corpname_ssm">Boys' High School (Brooklyn, New York, N.Y.)</field>
++    <field name="corpname_ssm">Boys&#39; High School (Brooklyn, New York, N.Y.)</field>
+     <field name="corpname_ssm">Christian Cultural Center</field>
+     <field name="corpname_ssm">George W. Wingate High School</field>
+     <field name="geogname_teim">Bronx (New York, N.Y.)</field>
+@@ -47,14 +47,14 @@
+     <field name="subject_teim">Jewish neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Multiculturalism</field>
+     <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">African Americans -- Relations with Jews </field>
+-    <field name="subject_teim">Blacks -- Race identity</field>
+-    <field name="subject_teim">Christian life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Community activists -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jewish neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_teim">African Americans --Relations with Jews </field>
++    <field name="subject_teim">Blacks --Race identity</field>
++    <field name="subject_teim">Christian life --New York (State) --Kings County</field>
++    <field name="subject_teim">Community activists --New York (State) --New York</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_teim">Jewish neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_teim">Multiculturalism</field>
+     <field name="subject_teim">Race relations -- United States</field>
+     <field name="subject_ssm">African Americans |x Relations with Jews </field>
+@@ -73,12 +73,12 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="name_sim">Boys' High School (Brooklyn, New York, N.Y.)</field>
++    <field name="name_sim">Boys&#39; High School (Brooklyn, New York, N.Y.)</field>
+     <field name="name_sim">Christian Cultural Center</field>
+     <field name="name_sim">George W. Wingate High School</field>
+     <field name="name_sim">Pointer, Louvenia</field>
+     <field name="name_sim">Pointer, William D., Jr.</field>
+-    <field name="name_teim">Boys' High School (Brooklyn, New York, N.Y.)</field>
++    <field name="name_teim">Boys&#39; High School (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Christian Cultural Center</field>
+     <field name="name_teim">George W. Wingate High School</field>
+     <field name="name_teim">Pointer, Louvenia</field>
+@@ -87,17 +87,18 @@
+     <field name="place_ssm">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">Bronx (New York, N.Y.)</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+-    <field name="subject_sim">African Americans -- Relations with Jews </field>
+-    <field name="subject_sim">Blacks -- Race identity</field>
+-    <field name="subject_sim">Christian life -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Community activists -- New York (State) -- New York</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_sim">African Americans --Relations with Jews </field>
++    <field name="subject_sim">Blacks --Race identity</field>
++    <field name="subject_sim">Christian life --New York (State) --Kings County</field>
++    <field name="subject_sim">Community activists --New York (State) --New York</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_sim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Jewish neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_sim">Jewish neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_sim">Multiculturalism</field>
+     <field name="subject_sim">Race relations -- United States</field>
+     <field name="collection_teim">Crown Heights History Project collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">1994.006</field>
+     <field name="series_sim">Crown Heights History Project oral histories</field>
+     <field name="series_si">Crown Heights History Project oral histories &gt;&gt; Pointer, William D., Jr.</field>

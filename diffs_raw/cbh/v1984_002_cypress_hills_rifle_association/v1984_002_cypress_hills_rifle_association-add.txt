@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="unittitle_ssm">Cypress Hills Rifle Association photographs</field>
+     <field name="unitid_teim">V1984.002</field>
+     <field name="unitid_ssm">V1984.002</field>
+-    <field name="abstract_teim">The photographs show the association's shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
+-    <field name="abstract_ssm">The photographs show the association's shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
++    <field name="abstract_teim">The photographs show the association&#39;s shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
++    <field name="abstract_ssm">The photographs show the association&#39;s shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
+     <field name="unitdate_normal_ssm">1908/1912</field>
+     <field name="unitdate_normal_teim">1908/1912</field>
+     <field name="unitdate_normal_sim">1908/1912</field>
+     <field name="unitdate_inclusive_teim">1908-1912</field>
+-    <field name="scopecontent_teim">Four mounted photographs, dated 1908 to 1912, from the Cypress Hills Rifle Association. The photographs show the association's shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
++    <field name="scopecontent_teim">Four mounted photographs, dated 1908 to 1912, from the Cypress Hills Rifle Association. The photographs show the association&#39;s shooting range, located in the Cypress Hills neighborhood of Brooklyn, as well as group portraits of members at events.</field>
+     <field name="acqinfo_teim">Gift of Arthur Winnert, date unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Cypress Hills Rifle Association (Brooklyn, New York, N.Y.)</field>
+@@ -29,7 +29,7 @@
+     <field name="subject_teim">Shooting |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Athletic clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Shooting -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Shooting --New York (State) --Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Athletic clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Shooting |z New York (State) |z Kings County</field>
+@@ -50,7 +50,7 @@
+     <field name="place_sim">Cypress Hills (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Athletic clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Shooting -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Shooting --New York (State) --Kings County</field>
+     <field name="subject_sim">Clubs -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_ssm">Photographs</field>

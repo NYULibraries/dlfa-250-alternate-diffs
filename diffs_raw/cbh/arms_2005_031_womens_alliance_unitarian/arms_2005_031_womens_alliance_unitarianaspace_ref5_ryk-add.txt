@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_2005_031_womens_alliance_unitarian</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
+-    <field name="collection_ssm">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_sim">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_ssm">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
+     <field name="collection_unitid_ssm">2005.031</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 5: Subject Files.</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1961/2003</field>
+     <field name="unitdate_normal_sim">1961/2003</field>
+     <field name="unitdate_inclusive_teim">1961-2003</field>
+-    <field name="scopecontent_teim">The Subject Files series contains much of the material related to the Women's Alliance's efforts in issue advocacy and social outreach. Subjects of concern to the Women's Alliance vary from abortion rights and other women's rights issues to the Alliance's social groups and library. Group work taken on in the alliance is represented through documents on the book discussion group, an older women's group, the Miriam Campobasso Memorial Fund for terminally ill congregants, and the sewing group. One notable program of the Alliance was in bringing in activist Doris Sage to speak on activism against the School of Americas. The series also includes a manuscript proof for Alliance member Marjory Odessky's book, The First Seventy-Two Years: A Collection of Three Talks on Women's Suffrage in the United States Covering the Years from 1842 to 1920 (5:5). The "Sewing Group" folder holds a date book that contains notes documenting the progress of members' work from 1961 to 1969.</field>
++    <field name="scopecontent_teim">The Subject Files series contains much of the material related to the Women&#39;s Alliance&#39;s efforts in issue advocacy and social outreach. Subjects of concern to the Women&#39;s Alliance vary from abortion rights and other women&#39;s rights issues to the Alliance&#39;s social groups and library. Group work taken on in the alliance is represented through documents on the book discussion group, an older women&#39;s group, the Miriam Campobasso Memorial Fund for terminally ill congregants, and the sewing group. One notable program of the Alliance was in bringing in activist Doris Sage to speak on activism against the School of Americas. The series also includes a manuscript proof for Alliance member Marjory Odessky&#39;s book, The First Seventy-Two Years: A Collection of Three Talks on Women&#39;s Suffrage in the United States Covering the Years from 1842 to 1920 (5:5). The &#34;Sewing Group&#34; folder holds a date book that contains notes documenting the progress of members&#39; work from 1961 to 1969.</field>
+     <field name="ref_ssi">aspace_ref5_ryk</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -22,7 +22,8 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Women's Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="collection_teim">Women&#39;s Alliance of the First Unitarian Church of Brooklyn records</field>
++    <field name="author_teim">Craig P. Savino</field>
+     <field name="collection_unitid_teim">2005.031</field>
+     <field name="series_si">Series 5: Subject Files.</field>
+     <field name="heading_ssm">Series 5: Subject Files.</field>

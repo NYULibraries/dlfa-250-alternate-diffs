@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -41,8 +41,8 @@
+     <field name="persname_ssm">Apfelbaum, Charles</field>
+     <field name="subject_teim">Ferries |z New York (State) |z New York</field>
+     <field name="subject_teim">Ferries |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ferries --New York (State) --New York</field>
++    <field name="subject_teim">Ferries --New York (State) --Kings County</field>
+     <field name="subject_ssm">Ferries |z New York (State) |z New York</field>
+     <field name="subject_ssm">Ferries |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Records relating to the Catherine Street Ferry</field>
+@@ -64,9 +64,9 @@
+     <field name="name_teim">Brooklyn (New York, N.Y.). Common Council</field>
+     <field name="name_teim">Apfelbaum, Charles</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Politics and government -- 19th century</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- New York</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Politics and government --19th century</field>
++    <field name="subject_sim">Ferries --New York (State) --New York</field>
++    <field name="subject_sim">Ferries --New York (State) --Kings County</field>
+     <field name="material_type_sim">Letters</field>
+     <field name="material_type_sim">Proposals</field>
+     <field name="material_type_sim">Certificates</field>

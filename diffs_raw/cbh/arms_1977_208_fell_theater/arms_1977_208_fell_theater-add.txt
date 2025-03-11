@@ -1,0 +1,74 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,11 +17,11 @@
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Carnegie Hall (New York, N.Y.)</field>
+     <field name="corpname_teim">Brooklyn Academy of Music</field>
+-    <field name="corpname_teim">Keith-Albee's New York Hippodrome</field>
++    <field name="corpname_teim">Keith-Albee&#39;s New York Hippodrome</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Carnegie Hall (New York, N.Y.)</field>
+     <field name="corpname_ssm">Brooklyn Academy of Music</field>
+-    <field name="corpname_ssm">Keith-Albee's New York Hippodrome</field>
++    <field name="corpname_ssm">Keith-Albee&#39;s New York Hippodrome</field>
+     <field name="genreform_teim">Scrapbooks</field>
+     <field name="genreform_teim">Theater programs</field>
+     <field name="genreform_teim">Playbills</field>
+@@ -50,14 +50,14 @@
+     <field name="subject_teim">Theater |z New York (State) |z New York</field>
+     <field name="subject_teim">Theaters |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Theater |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Music -- New York (State) -- New York</field>
+-    <field name="subject_teim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- New York</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Theaters -- New York (State) -- New York</field>
+-    <field name="subject_teim">Theater -- New York (State) -- New York</field>
+-    <field name="subject_teim">Theaters -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Theater -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Music --New York (State) --New York</field>
++    <field name="subject_teim">Music --New York (State) --Kings County</field>
++    <field name="subject_teim">Performing arts --New York (State) --New York</field>
++    <field name="subject_teim">Performing arts --New York (State) --Kings County</field>
++    <field name="subject_teim">Theaters --New York (State) --New York</field>
++    <field name="subject_teim">Theater --New York (State) --New York</field>
++    <field name="subject_teim">Theaters --New York (State) --Kings County</field>
++    <field name="subject_teim">Theater --New York (State) --Kings County</field>
+     <field name="subject_ssm">Music |z New York (State) |z New York</field>
+     <field name="subject_ssm">Music |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Performing arts |z New York (State) |z New York</field>
+@@ -79,23 +79,23 @@
+     <field name="format_ii">0</field>
+     <field name="name_sim">Carnegie Hall (New York, N.Y.)</field>
+     <field name="name_sim">Brooklyn Academy of Music</field>
+-    <field name="name_sim">Keith-Albee's New York Hippodrome</field>
++    <field name="name_sim">Keith-Albee&#39;s New York Hippodrome</field>
+     <field name="name_sim">Fell, Alice G.</field>
+     <field name="name_teim">Carnegie Hall (New York, N.Y.)</field>
+     <field name="name_teim">Brooklyn Academy of Music</field>
+-    <field name="name_teim">Keith-Albee's New York Hippodrome</field>
++    <field name="name_teim">Keith-Albee&#39;s New York Hippodrome</field>
+     <field name="name_teim">Fell, Alice G.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="place_sim">Broadway (New York, N.Y.)</field>
+-    <field name="subject_sim">Music -- New York (State) -- New York</field>
+-    <field name="subject_sim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- New York</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Theaters -- New York (State) -- New York</field>
+-    <field name="subject_sim">Theater -- New York (State) -- New York</field>
+-    <field name="subject_sim">Theaters -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Theater -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Music --New York (State) --New York</field>
++    <field name="subject_sim">Music --New York (State) --Kings County</field>
++    <field name="subject_sim">Performing arts --New York (State) --New York</field>
++    <field name="subject_sim">Performing arts --New York (State) --Kings County</field>
++    <field name="subject_sim">Theaters --New York (State) --New York</field>
++    <field name="subject_sim">Theater --New York (State) --New York</field>
++    <field name="subject_sim">Theaters --New York (State) --Kings County</field>
++    <field name="subject_sim">Theater --New York (State) --Kings County</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Theater programs</field>
+     <field name="material_type_sim">Playbills</field>

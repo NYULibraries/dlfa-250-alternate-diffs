@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1828/1888</field>
+     <field name="unitdate_normal_sim">1828/1888</field>
+     <field name="unitdate_inclusive_teim">1828-1888</field>
+-    <field name="scopecontent_teim">Correspondence (alphabetical) consists of correspondence written to Teunis G. Bergen that was culled from his office records.  Documents in this series are arranged alphabetically according to the name of the correspondent. The bulk of the correspondence concerns Bergen's duties as Supervisor of New Utrecht.  In addition, there are letters requesting his expertise in matters of genealogy, history, and surveying, as well as invitations to civic, social, and political events.</field>
++    <field name="scopecontent_teim">Correspondence (alphabetical) consists of correspondence written to Teunis G. Bergen that was culled from his office records.  Documents in this series are arranged alphabetically according to the name of the correspondent. The bulk of the correspondence concerns Bergen&#39;s duties as Supervisor of New Utrecht.  In addition, there are letters requesting his expertise in matters of genealogy, history, and surveying, as well as invitations to civic, social, and political events.</field>
+     <field name="ref_ssi">aspace_ref689_bvn</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">ARC.006</field>
+     <field name="series_sim">Group 1: Teunis G. Bergen papers</field>
+     <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 1: Correspondence (alphabetical)</field>

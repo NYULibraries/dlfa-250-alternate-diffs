@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Lenore Schwartz school records</field>
+     <field name="unitid_teim">2017.010</field>
+     <field name="unitid_ssm">2017.010</field>
+-    <field name="abstract_teim">The collection contains the yearbook, clippings, programs, and report cards of Lenore Schwartz, dating from 1922 to 1937. The report cards, programs, and yearbook document the educational life of Lenore Schwartz. The collection includes Lenore's high school yearbook at Erasmus High School from 1937, which documents Lenore's relationships, social life at Erasmus Hall, and more. Additionally, the clippings and programs document the students and social life at Erasmus Hall.</field>
+-    <field name="abstract_ssm">The collection contains the yearbook, clippings, programs, and report cards of Lenore Schwartz, dating from 1922 to 1937. The report cards, programs, and yearbook document the educational life of Lenore Schwartz. The collection includes Lenore's high school yearbook at Erasmus High School from 1937, which documents Lenore's relationships, social life at Erasmus Hall, and more. Additionally, the clippings and programs document the students and social life at Erasmus Hall.</field>
++    <field name="abstract_teim">The collection contains the yearbook, clippings, programs, and report cards of Lenore Schwartz, dating from 1922 to 1937. The report cards, programs, and yearbook document the educational life of Lenore Schwartz. The collection includes Lenore&#39;s high school yearbook at Erasmus High School from 1937, which documents Lenore&#39;s relationships, social life at Erasmus Hall, and more. Additionally, the clippings and programs document the students and social life at Erasmus Hall.</field>
++    <field name="abstract_ssm">The collection contains the yearbook, clippings, programs, and report cards of Lenore Schwartz, dating from 1922 to 1937. The report cards, programs, and yearbook document the educational life of Lenore Schwartz. The collection includes Lenore&#39;s high school yearbook at Erasmus High School from 1937, which documents Lenore&#39;s relationships, social life at Erasmus Hall, and more. Additionally, the clippings and programs document the students and social life at Erasmus Hall.</field>
+     <field name="unitdate_normal_ssm">1922/1937</field>
+     <field name="unitdate_normal_teim">1922/1937</field>
+     <field name="unitdate_normal_sim">1922/1937</field>
+@@ -31,7 +31,7 @@
+     <field name="subject_teim">Public Schools -- New York (State) -- Long Island</field>
+     <field name="subject_teim">Public schools |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Public Schools -- New York (State) -- Long Island</field>
+-    <field name="subject_teim">Public schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Public schools --New York (State) --Kings County</field>
+     <field name="subject_ssm">Public Schools -- New York (State) -- Long Island</field>
+     <field name="subject_ssm">Public schools |z New York (State) |z Kings County</field>
+     <field name="title_teim">Erasmus Hall High School</field>
+@@ -50,7 +50,7 @@
+     <field name="name_sim">Rowe, Patrice</field>
+     <field name="name_teim">Rowe, Patrice</field>
+     <field name="subject_sim">Public Schools -- New York (State) -- Long Island</field>
+-    <field name="subject_sim">Public schools -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Public schools --New York (State) --Kings County</field>
+     <field name="material_type_sim">Report cards</field>
+     <field name="material_type_sim">School yearbooks</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

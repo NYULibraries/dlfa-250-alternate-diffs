@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bernard Green Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0013</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Friars' Club Program</field>
+-    <field name="unittitle_teim">Friars' Club Program</field>
++    <field name="unittitle_ssm">Friars&#39; Club Program</field>
++    <field name="unittitle_teim">Friars&#39; Club Program</field>
+     <field name="unitdate_normal_ssm">1956/1956</field>
+     <field name="unitdate_normal_teim">1956/1956</field>
+     <field name="unitdate_normal_sim">1956/1956</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 11</field>
+     <field name="location_si">Box: 1, Folder: 11</field>
+     <field name="collection_teim">Bernard Green Collection</field>
++    <field name="author_teim">Benita McCray, Olivia Morales Geaghan, and Ivy Marvel. Revised by Diana Bowers-Smith.</field>
+     <field name="collection_unitid_teim">BCMS.0013</field>
+     <field name="series_sim">Series III: Ephemera</field>
+-    <field name="series_si">Series III: Ephemera &gt;&gt; Friars' Club Program</field>
+-    <field name="heading_ssm">Friars' Club Program</field>
++    <field name="series_si">Series III: Ephemera &gt;&gt; Friars&#39; Club Program</field>
++    <field name="heading_ssm">Friars&#39; Club Program</field>
+     <field name="unitdate_start_sim">1956</field>
+     <field name="unitdate_start_ssm">1956</field>
+     <field name="unitdate_start_si">1956</field>

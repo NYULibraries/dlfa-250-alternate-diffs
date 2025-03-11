@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_ssm">1850/1859</field>
+     <field name="unitdate_normal_teim">1850/1859</field>
+     <field name="unitdate_normal_sim">1850/1859</field>
+-    <field name="unitdate_inclusive_teim">circa 1850's</field>
++    <field name="unitdate_inclusive_teim">circa 1850&#39;s</field>
+     <field name="ref_ssi">aspace_ref110_scj</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 9, Folder: 6</field>
+     <field name="location_si">Box: 9, Folder: 6</field>
+     <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">ARC.006</field>
+     <field name="series_sim">Group 1: Teunis G. Bergen papers</field>
+     <field name="series_sim">Series 2: Financial records</field>
+@@ -42,7 +43,7 @@
+     <field name="unitdate_end_sim">1859</field>
+     <field name="unitdate_end_ssm">1859</field>
+     <field name="unitdate_end_si">1859</field>
+-    <field name="unitdate_ssm">Inclusive, circa 1850's</field>
++    <field name="unitdate_ssm">Inclusive, circa 1850&#39;s</field>
+     <field name="date_range_sim">1801-1900</field>
+     <field name="sort_ii">81</field>
+   </doc>

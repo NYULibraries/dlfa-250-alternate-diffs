@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -35,8 +35,8 @@
+     <field name="persname_ssm">MacKay, John</field>
+     <field name="subject_teim">Money |z United States</field>
+     <field name="subject_teim">Money |z Canada</field>
+-    <field name="subject_teim">Money -- United States</field>
+-    <field name="subject_teim">Money -- Canada</field>
++    <field name="subject_teim">Money --United States</field>
++    <field name="subject_teim">Money --Canada</field>
+     <field name="subject_ssm">Money |z United States</field>
+     <field name="subject_ssm">Money |z Canada</field>
+     <field name="collection_sim">John MacKay scrapbook</field>
+@@ -56,8 +56,8 @@
+     <field name="place_sim">Canada</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">United States</field>
+-    <field name="subject_sim">Money -- United States</field>
+-    <field name="subject_sim">Money -- Canada</field>
++    <field name="subject_sim">Money --United States</field>
++    <field name="subject_sim">Money --Canada</field>
+     <field name="material_type_sim">Paper money</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Bankbooks</field>

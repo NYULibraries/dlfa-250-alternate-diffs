@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Park Slope Civic Council (PSCC) records</field>
+     <field name="collection_unitid_ssm">BCMS.0083</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[14th Regiment Armory Women's Shelter]</field>
+-    <field name="unittitle_teim">[14th Regiment Armory Women's Shelter]</field>
++    <field name="unittitle_ssm">[14th Regiment Armory Women&#39;s Shelter]</field>
++    <field name="unittitle_teim">[14th Regiment Armory Women&#39;s Shelter]</field>
+     <field name="unitdate_normal_ssm">1991/2004</field>
+     <field name="unitdate_normal_teim">1991/2004</field>
+     <field name="unitdate_normal_sim">1991/2004</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 12, Folder: 9</field>
+     <field name="location_si">Box: 12, Folder: 9</field>
+     <field name="collection_teim">Park Slope Civic Council (PSCC) records</field>
++    <field name="author_teim">Alice Griffin, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0083</field>
+     <field name="series_sim">Series 2: Carl Kaiserman papers</field>
+     <field name="series_sim">Sub-series 2.4: 14th Regiment Armory</field>
+-    <field name="series_si">Series 2: Carl Kaiserman papers &gt;&gt; Sub-series 2.4: 14th Regiment Armory &gt;&gt; [14th Regiment Armory Women's Shelter]</field>
+-    <field name="heading_ssm">[14th Regiment Armory Women's Shelter]</field>
++    <field name="series_si">Series 2: Carl Kaiserman papers &gt;&gt; Sub-series 2.4: 14th Regiment Armory &gt;&gt; [14th Regiment Armory Women&#39;s Shelter]</field>
++    <field name="heading_ssm">[14th Regiment Armory Women&#39;s Shelter]</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>
+     <field name="unitdate_start_si">1991</field>

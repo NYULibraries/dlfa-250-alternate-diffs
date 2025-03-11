@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">William Randell burial plot papers</field>
+     <field name="unitid_teim">1986.042</field>
+     <field name="unitid_ssm">1986.042</field>
+-    <field name="abstract_teim">One deed and supporting documentation regarding burial plots in Cypress Hills Cemetery purchased by William Randell (or Randall) of Newtown, Queens in 1864. William Randell, of the family after which Randall's Island in Manhattan is named, married into the prosperous Vanderveer family.</field>
+-    <field name="abstract_ssm">One deed and supporting documentation regarding burial plots in Cypress Hills Cemetery purchased by William Randell (or Randall) of Newtown, Queens in 1864. William Randell, of the family after which Randall's Island in Manhattan is named, married into the prosperous Vanderveer family.</field>
++    <field name="abstract_teim">One deed and supporting documentation regarding burial plots in Cypress Hills Cemetery purchased by William Randell (or Randall) of Newtown, Queens in 1864. William Randell, of the family after which Randall&#39;s Island in Manhattan is named, married into the prosperous Vanderveer family.</field>
++    <field name="abstract_ssm">One deed and supporting documentation regarding burial plots in Cypress Hills Cemetery purchased by William Randell (or Randall) of Newtown, Queens in 1864. William Randell, of the family after which Randall&#39;s Island in Manhattan is named, married into the prosperous Vanderveer family.</field>
+     <field name="creator_teim">Randell, William</field>
+     <field name="creator_ssm">Randell, William</field>
+     <field name="creator_ssm">Randell, William</field>
+@@ -31,7 +31,7 @@
+     <field name="persname_ssm">Randell, William</field>
+     <field name="subject_teim">Burial |z New York (State) |z Queens County</field>
+     <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Burial -- New York (State) -- Queens County</field>
++    <field name="subject_teim">Burial --New York (State) --Queens County</field>
+     <field name="subject_teim">Deeds</field>
+     <field name="subject_ssm">Burial |z New York (State) |z Queens County</field>
+     <field name="subject_ssm">Deeds</field>
+@@ -52,7 +52,7 @@
+     <field name="name_teim">Cypress Hills Cemetery (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Randell, William</field>
+     <field name="place_sim">Newtown (Queens County, N.Y.)</field>
+-    <field name="subject_sim">Burial -- New York (State) -- Queens County</field>
++    <field name="subject_sim">Burial --New York (State) --Queens County</field>
+     <field name="subject_sim">Deeds</field>
+     <field name="material_type_sim">Legal documents</field>
+     <field name="material_type_ssm">Legal documents</field>

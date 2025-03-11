@@ -1,0 +1,59 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Nelson Cross papers</field>
+     <field name="unitid_teim">1977.234</field>
+     <field name="unitid_ssm">1977.234</field>
+-    <field name="abstract_teim">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross's law career and military service with the 67th New York Volunteer Infantry during the Civil War.</field>
+-    <field name="abstract_ssm">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross's law career and military service with the 67th New York Volunteer Infantry during the Civil War.</field>
++    <field name="abstract_teim">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross&#39;s law career and military service with the 67th New York Volunteer Infantry during the Civil War.</field>
++    <field name="abstract_ssm">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross&#39;s law career and military service with the 67th New York Volunteer Infantry during the Civil War.</field>
+     <field name="creator_teim">Cross, Nelson</field>
+     <field name="creator_ssm">Cross, Nelson</field>
+     <field name="creator_ssm">Cross, Nelson</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1844/1872</field>
+     <field name="unitdate_normal_sim">1844/1872</field>
+     <field name="unitdate_inclusive_teim">1844-1872</field>
+-    <field name="scopecontent_teim">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross's law career and military service with the 67th New York Volunteer Infantry during the Civil War.  Items include certificates of appointment as a public notary and lawyer in Cincinnati, OH, Milwaukee, WI, and New York, N.Y.; correspondence; military appointments, commissions, and discharges; and membership certificates from the State Historical Society of Wisconsin and the Long Island Historical Society (later the Brooklyn Historical Society).  There is also one studio photograph of Cross and two other individuals, believed to be Cross's brothers, in Union Army uniforms; and one rendering of a plan for a double-deck monorail car devised by Cross.</field>
+-    <field name="bioghist_teim">Nelson Cross (d. 1897) was born in New Hampshire and later worked as a lawyer in Cincinnati, OH and Milwaukee, WI before settling in Brooklyn, N.Y. to establish his law practice in New York City.  During the Civil War, Cross commanded the 67th Regiment of the New York Volunteer Infantry, also called the "Brooklyn Phalanx."  Cross died in Dorchester, MA.</field>
++    <field name="scopecontent_teim">This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross&#39;s law career and military service with the 67th New York Volunteer Infantry during the Civil War.  Items include certificates of appointment as a public notary and lawyer in Cincinnati, OH, Milwaukee, WI, and New York, N.Y.; correspondence; military appointments, commissions, and discharges; and membership certificates from the State Historical Society of Wisconsin and the Long Island Historical Society (later the Brooklyn Historical Society).  There is also one studio photograph of Cross and two other individuals, believed to be Cross&#39;s brothers, in Union Army uniforms; and one rendering of a plan for a double-deck monorail car devised by Cross.</field>
++    <field name="bioghist_teim">Nelson Cross (d. 1897) was born in New Hampshire and later worked as a lawyer in Cincinnati, OH and Milwaukee, WI before settling in Brooklyn, N.Y. to establish his law practice in New York City.  During the Civil War, Cross commanded the 67th Regiment of the New York Volunteer Infantry, also called the &#34;Brooklyn Phalanx.&#34;  Cross died in Dorchester, MA.</field>
+     <field name="acqinfo_teim">Gift of Amy Cross, 1939.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">United States. Army. New York Infantry Regiment, 67th (1861-1864)</field>
+@@ -52,9 +52,9 @@
+     <field name="subject_teim">History |x Societies, etc.</field>
+     <field name="subject_teim">Military commissions</field>
+     <field name="subject_teim">Lawyers |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">History -- Societies, etc.</field>
+-    <field name="subject_teim">Military commissions</field>
+-    <field name="subject_teim">Lawyers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">History --Societies, etc.</field>
++    <field name="subject_teim">Military commissions</field>
++    <field name="subject_teim">Lawyers --New York (State) --Kings County</field>
+     <field name="subject_ssm">History |x Societies, etc.</field>
+     <field name="subject_ssm">Military commissions</field>
+     <field name="subject_ssm">Lawyers |z New York (State) |z Kings County</field>
+@@ -74,15 +74,15 @@
+     <field name="name_sim">Cross, Nelson</field>
+     <field name="name_teim">United States. Army. New York Infantry Regiment, 67th (1861-1864)</field>
+     <field name="name_teim">Cross, Nelson</field>
+-    <field name="place_sim">New York (N.Y.) -- Officials and employees</field>
++    <field name="place_sim">New York (N.Y.) --Officials and employees</field>
+     <field name="place_sim">Cincinnati (Ohio)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Milwaukee (Wis.)</field>
+-    <field name="place_sim">United States -- Armed Forces -- Officers</field>
+-    <field name="place_sim">New York (State) -- History -- Civil War, 1861-1865</field>
+-    <field name="subject_sim">History -- Societies, etc.</field>
++    <field name="place_sim">United States --Armed Forces --Officers</field>
++    <field name="place_sim">New York (State) --History --Civil War, 1861-1865</field>
++    <field name="subject_sim">History --Societies, etc.</field>
+     <field name="subject_sim">Military commissions</field>
+-    <field name="subject_sim">Lawyers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Lawyers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Renderings (drawings)</field>
+     <field name="material_type_sim">Studio portraits</field>
+     <field name="material_type_sim">Correspondence</field>

@@ -1,0 +1,60 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Henry W. Dodge journals</field>
+     <field name="unitid_teim">ARC.020</field>
+     <field name="unitid_ssm">ARC.020</field>
+-    <field name="abstract_teim">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge's experiences on seafaring expeditions.</field>
+-    <field name="abstract_ssm">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge's experiences on seafaring expeditions.</field>
++    <field name="abstract_teim">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge&#39;s experiences on seafaring expeditions.</field>
++    <field name="abstract_ssm">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge&#39;s experiences on seafaring expeditions.</field>
+     <field name="creator_teim">Dodge, Henry W.</field>
+     <field name="creator_ssm">Dodge, Henry W.</field>
+     <field name="creator_ssm">Dodge, Henry W.</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1860/1873</field>
+     <field name="unitdate_normal_sim">1860/1873</field>
+     <field name="unitdate_inclusive_teim">1860-1873</field>
+-    <field name="scopecontent_teim">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge's experiences on seafaring expeditions.  The first volume is a journal entitled Journal kept on board of the Schooner United States in the Arctic Regions under command of Dr. I.I. Hayes, 1860-1861.  The second is an abstract of the aforementioned journal, and the third is a journal entitled Journal of a cruise in the U.S.S. Juniata, Capt. D.L. Braine, Searching for the missing crew of the Polaris, June 24th to Oct. 25th, 1873.</field>
+-    <field name="bioghist_teim">Henry W. Dodge (1827 or 8-1874) was a New York resident and a seafarer who took part in three highly publicized journeys to the Arctic.  He served aboard the brig Advance from 1853 to 1855 on an expedition led by Elisha Kent Kane, credited as the expedition that paved the way for the discovery of the "open polar sea" (1).  While aboard the Advance, Dodge likely met Dr. Isaac Israel Hayes (1832-1881), the surgeon of the expedition, who would later become a celebrated Arctic explorer himself.  Hayes tapped Dodge to accompany him and serve as his mate on his own expedition to the Arctic from 1860 to 1861, on board the schooner United States.  While this expedition did not reach the open polar sea, it was instrumental in furthering the progress of Arctic navigation.  Dodge would voyage to the Arctic one final time in 1873 aboard the USS Juniata, commanded by D.L. Braine.  The Juniata was participating in a search and rescue operation to recover the lost crew of the USS Polaris (formerly the USS Periwinkle), which was launched from the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard) in July of 1871 and journeyed to the Arctic as part of the Hall Scientific Expedition, reaching the furthest point north ever reached by a vessel before being caught and crushed in the ice (2).  The rescue mission was ultimately successful.  Dodge would die only one year later in September of 1874, apparently quite suddenly, while dining at a restaurant on Fulton Street in Brooklyn.  A very brief mention of his death was made in the New York Times, which referred to Dodge as "an Arctic explorer of some notoriety" (3).</field>
++    <field name="scopecontent_teim">The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge&#39;s experiences on seafaring expeditions.  The first volume is a journal entitled Journal kept on board of the Schooner United States in the Arctic Regions under command of Dr. I.I. Hayes, 1860-1861.  The second is an abstract of the aforementioned journal, and the third is a journal entitled Journal of a cruise in the U.S.S. Juniata, Capt. D.L. Braine, Searching for the missing crew of the Polaris, June 24th to Oct. 25th, 1873.</field>
++    <field name="bioghist_teim">Henry W. Dodge (1827 or 8-1874) was a New York resident and a seafarer who took part in three highly publicized journeys to the Arctic.  He served aboard the brig Advance from 1853 to 1855 on an expedition led by Elisha Kent Kane, credited as the expedition that paved the way for the discovery of the &#34;open polar sea&#34; (1).  While aboard the Advance, Dodge likely met Dr. Isaac Israel Hayes (1832-1881), the surgeon of the expedition, who would later become a celebrated Arctic explorer himself.  Hayes tapped Dodge to accompany him and serve as his mate on his own expedition to the Arctic from 1860 to 1861, on board the schooner United States.  While this expedition did not reach the open polar sea, it was instrumental in furthering the progress of Arctic navigation.  Dodge would voyage to the Arctic one final time in 1873 aboard the USS Juniata, commanded by D.L. Braine.  The Juniata was participating in a search and rescue operation to recover the lost crew of the USS Polaris (formerly the USS Periwinkle), which was launched from the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard) in July of 1871 and journeyed to the Arctic as part of the Hall Scientific Expedition, reaching the furthest point north ever reached by a vessel before being caught and crushed in the ice (2).  The rescue mission was ultimately successful.  Dodge would die only one year later in September of 1874, apparently quite suddenly, while dining at a restaurant on Fulton Street in Brooklyn.  A very brief mention of his death was made in the New York Times, which referred to Dodge as &#34;an Arctic explorer of some notoriety&#34; (3).</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">New York Naval Shipyard</field>
+     <field name="corpname_teim">United States. Navy</field>
+@@ -57,10 +57,10 @@
+     <field name="subject_teim">Voyages and travels</field>
+     <field name="subject_teim">Schooners</field>
+     <field name="subject_teim">Seamanship</field>
+-    <field name="subject_teim">Sailors -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Seafaring life</field>
+-    <field name="subject_teim">Shipwrecks</field>
+-    <field name="subject_teim">Search and rescue operations -- Arctic regions</field>
++    <field name="subject_teim">Sailors --New York (State) --Kings County</field>
++    <field name="subject_teim">Seafaring life</field>
++    <field name="subject_teim">Shipwrecks</field>
++    <field name="subject_teim">Search and rescue operations --Arctic regions</field>
+     <field name="subject_teim">Ocean travel</field>
+     <field name="subject_ssm">Ships</field>
+     <field name="subject_ssm">Voyages and travels</field>
+@@ -97,16 +97,16 @@
+     <field name="name_teim">Dodge, Henry W.</field>
+     <field name="name_teim">Braine, D. L.</field>
+     <field name="name_teim">Hayes, I. I. (Isaac Israel)</field>
+-    <field name="place_sim">Arctic regions -- Discovery and exploration -- American</field>
++    <field name="place_sim">Arctic regions --Discovery and exploration --American</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Ships</field>
+     <field name="subject_sim">Voyages and travels</field>
+     <field name="subject_sim">Schooners</field>
+     <field name="subject_sim">Seamanship</field>
+-    <field name="subject_sim">Sailors -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Sailors --New York (State) --Kings County</field>
+     <field name="subject_sim">Seafaring life</field>
+     <field name="subject_sim">Shipwrecks</field>
+-    <field name="subject_sim">Search and rescue operations -- Arctic regions</field>
++    <field name="subject_sim">Search and rescue operations --Arctic regions</field>
+     <field name="subject_sim">Ocean travel</field>
+     <field name="material_type_sim">Journals (accounts)</field>
+     <field name="material_type_sim">Abstracts (summaries)</field>

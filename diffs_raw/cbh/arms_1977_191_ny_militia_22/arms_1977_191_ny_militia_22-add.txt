@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,7 +39,7 @@
+     <field name="persname_teim">Johnson, Jeremiah</field>
+     <field name="persname_ssm">Johnson, Jeremiah</field>
+     <field name="subject_teim">Soldiers |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Soldiers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Soldiers --New York (State) --Kings County</field>
+     <field name="subject_ssm">Soldiers |z New York (State) |z Kings County</field>
+     <field name="collection_sim">New York State Militia, 22nd Brigade general order books</field>
+     <field name="collection_ssm">New York State Militia, 22nd Brigade general order books</field>
+@@ -60,7 +60,7 @@
+     <field name="name_teim">Johnson, Jeremiah</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Fort Greene (New York, N.Y.)</field>
+-    <field name="subject_sim">Soldiers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Soldiers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Orders (military records)</field>
+     <field name="material_type_sim">Orderly books</field>
+     <field name="material_type_ssm">Orders (military records)</field>

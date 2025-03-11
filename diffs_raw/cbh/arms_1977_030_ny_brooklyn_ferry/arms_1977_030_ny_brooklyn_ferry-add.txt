@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -35,10 +35,10 @@
+     <field name="subject_teim">Ferries |z New York (State) |z New York</field>
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Ferries |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Transportation -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- New York</field>
+-    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Transportation --New York (State) --New York</field>
++    <field name="subject_teim">Ferries --New York (State) --New York</field>
++    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ferries --New York (State) --Kings County</field>
+     <field name="subject_ssm">Transportation |z New York (State) |z New York</field>
+     <field name="subject_ssm">Ferries |z New York (State) |z New York</field>
+     <field name="subject_ssm">Transportation -- New York (State) -- Kings County</field>
+@@ -58,10 +58,10 @@
+     <field name="name_sim">New-York and Brooklyn Steam Ferry Boat Company</field>
+     <field name="name_teim">New-York and Brooklyn Steam Ferry Boat Company</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Transportation -- New York (State) -- New York</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- New York</field>
++    <field name="subject_sim">Transportation --New York (State) --New York</field>
++    <field name="subject_sim">Ferries --New York (State) --New York</field>
+     <field name="subject_sim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Ferries --New York (State) --Kings County</field>
+     <field name="material_type_sim">Financial records</field>
+     <field name="material_type_sim">Receipts (financial records)</field>
+     <field name="material_type_ssm">Financial records</field>

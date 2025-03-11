@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_inclusive_teim">1883-1915</field>
+     <field name="scopecontent_teim">The subseries consists of property records (including deeds, title searches, and maps) and records documenting city efforts to acquire land outside of Brooklyn. The files date from 1883 to 1915.</field>
+     <field name="scopecontent_teim">The following areas are represented in the subseries: Flushing, Jamaica, Long Island City, and Newtown (modern Queens County); Hempstead and Oyster Bay (modern Nassau County), Smithtown (part of modern Suffolk County), Richmond (modern Staten Island), and Manhattan.</field>
+-    <field name="scopecontent_teim">The majority of the records relate to Brooklyn's water supply, especially in the Towns of Jamaica and Hempstead (specifically Freeport, Merrick, Pine Stream, Rockville Centre, Valley Stream, and Wantagh).</field>
++    <field name="scopecontent_teim">The majority of the records relate to Brooklyn&#39;s water supply, especially in the Towns of Jamaica and Hempstead (specifically Freeport, Merrick, Pine Stream, Rockville Centre, Valley Stream, and Wantagh).</field>
+     <field name="scopecontent_teim">Of particular note is a record documenting the establishment of the border between Queens County and Nassau County in 1898-1899.</field>
+     <field name="ref_ssi">aspace_ref5091_3oo</field>
+     <field name="repository_ssi">cbh</field>
+@@ -30,6 +30,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.015</field>
+     <field name="series_sim">Series 4: Property Files</field>
+     <field name="series_si">Series 4: Property Files &gt;&gt; Sub-series 2: Outside Brooklyn</field>

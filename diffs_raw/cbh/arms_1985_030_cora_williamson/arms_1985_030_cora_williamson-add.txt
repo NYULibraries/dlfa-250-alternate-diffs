@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1870/1889</field>
+     <field name="unitdate_normal_sim">1870/1889</field>
+     <field name="unitdate_inclusive_teim">circa 1870s-1880s</field>
+-    <field name="scopecontent_teim">The collection consists of 19th century ephemera belonging to a schoolgirl named Cora Williamson. It contains a printed card with a poem entitled "The Little Nurse;" one Reward of Merit certificate to Williamson from Rosa J. Prall, teacher; and one envelope addressed to Williamson at 44 Livingston Street, Brooklyn.</field>
++    <field name="scopecontent_teim">The collection consists of 19th century ephemera belonging to a schoolgirl named Cora Williamson. It contains a printed card with a poem entitled &#34;The Little Nurse;&#34; one Reward of Merit certificate to Williamson from Rosa J. Prall, teacher; and one envelope addressed to Williamson at 44 Livingston Street, Brooklyn.</field>
+     <field name="bioghist_teim">Cora Williamson (1867?-1932) was a lifetime resident of Brooklyn Heights, where she resided at 44 Livingston Street. She was the daughter of Mr. and Mrs. S.H. Williamson, had two sisters, Louise and Lilly, and one brother, Alfred. She died in her home in 1932 and is buried in Green-Wood Cemetery.</field>
+     <field name="acqinfo_teim">Immediate source of acquistion is unknown. Collection accessioned in 1985.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -35,7 +35,7 @@
+     <field name="persname_ssm">Williamson, Cora</field>
+     <field name="subject_teim">Students |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Poetry</field>
+-    <field name="subject_teim">Students -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Students --New York (State) --Kings County</field>
+     <field name="subject_teim">Poetry</field>
+     <field name="subject_ssm">Students |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Poetry</field>
+@@ -55,7 +55,7 @@
+     <field name="name_teim">Williamson, Cora</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Students -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Students --New York (State) --Kings County</field>
+     <field name="subject_sim">Poetry</field>
+     <field name="material_type_sim">Rewards of merit</field>
+     <field name="material_type_sim">Ephemera</field>

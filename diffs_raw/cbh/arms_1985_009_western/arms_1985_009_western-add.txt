@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -37,7 +37,7 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Social life and customs</field>
+     <field name="subject_teim">Families |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Families -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Families --New York (State) --Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Families |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Clubs -- New York (State) -- Kings County</field>
+@@ -55,9 +55,9 @@
+     <field name="creator_sim">Western family</field>
+     <field name="name_sim">Western family</field>
+     <field name="name_teim">Western family</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+-    <field name="subject_sim">Families -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
++    <field name="subject_sim">Families --New York (State) --Kings County</field>
+     <field name="subject_sim">Clubs -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Printed ephemera</field>
+     <field name="material_type_sim">Scrapbooks</field>

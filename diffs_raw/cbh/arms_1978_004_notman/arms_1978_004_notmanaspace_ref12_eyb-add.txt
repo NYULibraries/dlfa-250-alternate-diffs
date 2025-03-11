@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1849/1913</field>
+     <field name="unitdate_normal_sim">1849/1913</field>
+     <field name="unitdate_inclusive_teim">1849-1913</field>
+-    <field name="scopecontent_teim">This series contains personal records of John Notman, including account books and copy books of correspondence relating to various personal, business, and legal transactions and expenses.  Also included are account books, a copy book of correspondence, and the statement of division and distribution relating to John's role as executor of the estate of his deceased father, Peter Notman.  Legal documents, correspondence, and financial records of John's brother, George Notman, who also served as executor of his father's estate, are also included, as is one folder of similar personal papers belonging to Peter Notman.  One account book and two copy books belonging to John Notman are housed in the oversize boxes.</field>
++    <field name="scopecontent_teim">This series contains personal records of John Notman, including account books and copy books of correspondence relating to various personal, business, and legal transactions and expenses.  Also included are account books, a copy book of correspondence, and the statement of division and distribution relating to John&#39;s role as executor of the estate of his deceased father, Peter Notman.  Legal documents, correspondence, and financial records of John&#39;s brother, George Notman, who also served as executor of his father&#39;s estate, are also included, as is one folder of similar personal papers belonging to Peter Notman.  One account book and two copy books belonging to John Notman are housed in the oversize boxes.</field>
+     <field name="ref_ssi">aspace_ref12_eyb</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Notman papers</field>
++    <field name="author_teim">Sang Ae Park</field>
+     <field name="collection_unitid_teim">1978.004</field>
+     <field name="series_si">Series 2: Personal</field>
+     <field name="heading_ssm">Series 2: Personal</field>

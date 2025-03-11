@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -52,9 +52,9 @@
+     <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Deeds</field>
+     <field name="subject_teim">Families |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Families -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
++    <field name="subject_teim">Deeds</field>
++    <field name="subject_teim">Families --New York (State) --Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Deeds</field>
+     <field name="subject_ssm">Families |z New York (State) |z Kings County</field>
+@@ -82,11 +82,11 @@
+     <field name="name_teim">Cornell, Isaac</field>
+     <field name="name_teim">Cornell, John</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
+     <field name="subject_sim">Deeds</field>
+-    <field name="subject_sim">Families -- New York (State) -- Kings County</field>
+-    <field name="material_type_sim">Land titles -- New York (State) -- Kings County</field>
+-    <field name="material_type_ssm">Land titles -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Families --New York (State) --Kings County</field>
++    <field name="material_type_sim">Land titles --New York (State) --Kings County</field>
++    <field name="material_type_ssm">Land titles --New York (State) --Kings County</field>
+     <field name="heading_ssm">Cornell family land deeds</field>
+     <field name="unitdate_start_sim">1784</field>
+     <field name="unitdate_start_ssm">1784</field>

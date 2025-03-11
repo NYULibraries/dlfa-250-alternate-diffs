@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1918/1919</field>
+     <field name="unitdate_normal_sim">1918/1919</field>
+     <field name="unitdate_inclusive_teim">1918-1919</field>
+-    <field name="scopecontent_teim">This collections consists oftwenty letters and one postcard from Corporal Harry Bloom, primarily addressed to his parents. The letters discuss the secrecy required of soldiers in terms of their physical location, the food available where he is stationed in France, his health and general morale. The inconsistency of mail service comes up continually in the letters. The letters also discuss Bloom's relief after the Armistice.</field>
++    <field name="scopecontent_teim">This collections consists oftwenty letters and one postcard from Corporal Harry Bloom, primarily addressed to his parents. The letters discuss the secrecy required of soldiers in terms of their physical location, the food available where he is stationed in France, his health and general morale. The inconsistency of mail service comes up continually in the letters. The letters also discuss Bloom&#39;s relief after the Armistice.</field>
+     <field name="bioghist_teim">Harry Bloom was a corporal with Company H, 327th Infantry in France, and appears to have lived at 1014 Eastern Parkway in Brooklyn, NY.</field>
+     <field name="acqinfo_teim">Transferred from the New Jersey Room, Jersey City Free Public Library by Librarian Daniel Klein in 2019. The New Jersey Free Public Library does not know the custodial history of the collection.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -32,9 +32,9 @@
+     <field name="subject_teim">World War, 1914-1918 -- Armistices</field>
+     <field name="subject_teim">Soldiers |x Family relationships |z New York (State) |z New York</field>
+     <field name="subject_teim">World War, 1914-1918</field>
+-    <field name="subject_teim">Soldiers -- New York (State) -- New York -- Correspondence</field>
+-    <field name="subject_teim">World War, 1914-1918 -- Armistices</field>
+-    <field name="subject_teim">Soldiers -- Family relationships -- New York (State) -- New York</field>
++    <field name="subject_teim">Soldiers --New York (State) --New York --Correspondence</field>
++    <field name="subject_teim">World War, 1914-1918 -- Armistices</field>
++    <field name="subject_teim">Soldiers --Family relationships --New York (State) --New York</field>
+     <field name="subject_ssm">World War, 1914-1918</field>
+     <field name="subject_ssm">Soldiers |z New York (State) |z New York |v Correspondence</field>
+     <field name="subject_ssm">World War, 1914-1918 -- Armistices</field>
+@@ -54,9 +54,9 @@
+     <field name="name_sim">Bloom, Harry</field>
+     <field name="name_teim">Bloom, Harry</field>
+     <field name="subject_sim">World War, 1914-1918</field>
+-    <field name="subject_sim">Soldiers -- New York (State) -- New York -- Correspondence</field>
++    <field name="subject_sim">Soldiers --New York (State) --New York --Correspondence</field>
+     <field name="subject_sim">World War, 1914-1918 -- Armistices</field>
+-    <field name="subject_sim">Soldiers -- Family relationships -- New York (State) -- New York</field>
++    <field name="subject_sim">Soldiers --Family relationships --New York (State) --New York</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_ssm">Correspondence</field>

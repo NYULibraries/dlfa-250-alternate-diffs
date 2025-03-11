@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+     <field name="collection_unitid_ssm">2009.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Men's Bible Class</field>
+-    <field name="unittitle_teim">Men's Bible Class</field>
++    <field name="unittitle_ssm">Men&#39;s Bible Class</field>
++    <field name="unittitle_teim">Men&#39;s Bible Class</field>
+     <field name="unitdate_normal_ssm">1915/1917</field>
+     <field name="unitdate_normal_teim">1915/1917</field>
+     <field name="unitdate_normal_sim">1915/1917</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 26, Folder: 36</field>
+     <field name="location_si">Box: 26, Folder: 36</field>
+     <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
++    <field name="author_teim">John Zarrillo. Digital material processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2009.011</field>
+     <field name="series_sim">Series 9: Historical files</field>
+-    <field name="series_si">Series 9: Historical files &gt;&gt; Men's Bible Class</field>
+-    <field name="heading_ssm">Men's Bible Class</field>
++    <field name="series_si">Series 9: Historical files &gt;&gt; Men&#39;s Bible Class</field>
++    <field name="heading_ssm">Men&#39;s Bible Class</field>
+     <field name="unitdate_start_sim">1915</field>
+     <field name="unitdate_start_ssm">1915</field>
+     <field name="unitdate_start_si">1915</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">The Packer Collegiate Institute records</field>
+     <field name="collection_unitid_ssm">2014.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"A Look Inside the Packer Collegiate Institute" Videos</field>
+-    <field name="unittitle_teim">"A Look Inside the Packer Collegiate Institute" Videos</field>
++    <field name="unittitle_ssm">&#34;A Look Inside the Packer Collegiate Institute&#34; Videos</field>
++    <field name="unittitle_teim">&#34;A Look Inside the Packer Collegiate Institute&#34; Videos</field>
+     <field name="unitdate_normal_ssm">2005/2005</field>
+     <field name="unitdate_normal_teim">2005/2005</field>
+     <field name="unitdate_normal_sim">2005/2005</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Disk: digital files</field>
+     <field name="location_si">Disk: digital files</field>
+     <field name="collection_teim">The Packer Collegiate Institute records</field>
++    <field name="author_teim">Pratt Institute, School of Library and Information Science graduate students and John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_sim">Series 11: Office of Public Relations</field>
+     <field name="series_sim">Sub-series 11.3: Promotional materials</field>
+-    <field name="series_si">Series 11: Office of Public Relations &gt;&gt; Sub-series 11.3: Promotional materials &gt;&gt; "A Look Inside the Packer Collegiate Institute" Videos</field>
+-    <field name="heading_ssm">"A Look Inside the Packer Collegiate Institute" Videos</field>
++    <field name="series_si">Series 11: Office of Public Relations &gt;&gt; Sub-series 11.3: Promotional materials &gt;&gt; &#34;A Look Inside the Packer Collegiate Institute&#34; Videos</field>
++    <field name="heading_ssm">&#34;A Look Inside the Packer Collegiate Institute&#34; Videos</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>
+     <field name="unitdate_start_si">2005</field>

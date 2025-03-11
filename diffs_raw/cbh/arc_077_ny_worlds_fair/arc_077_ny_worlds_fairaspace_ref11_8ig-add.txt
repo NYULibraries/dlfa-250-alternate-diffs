@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arc_077_ny_worlds_fair</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">New York World's Fair collection</field>
+-    <field name="collection_ssm">New York World's Fair collection</field>
++    <field name="collection_sim">New York World&#39;s Fair collection</field>
++    <field name="collection_ssm">New York World&#39;s Fair collection</field>
+     <field name="collection_unitid_ssm">ARC.077</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 2: 1939 Fair</field>
+@@ -27,7 +27,8 @@
+     <field name="location_ssm">Oversize: ARC.077 OS 1</field>
+     <field name="location_ssm">reel: 2 35mm reels</field>
+     <field name="location_si">reel: 2 35mm reels</field>
+-    <field name="collection_teim">New York World's Fair collection</field>
++    <field name="collection_teim">New York World&#39;s Fair collection</field>
++    <field name="author_teim">Miranda Schwartz</field>
+     <field name="collection_unitid_teim">ARC.077</field>
+     <field name="series_si">Series 2: 1939 Fair</field>
+     <field name="heading_ssm">Series 2: 1939 Fair</field>

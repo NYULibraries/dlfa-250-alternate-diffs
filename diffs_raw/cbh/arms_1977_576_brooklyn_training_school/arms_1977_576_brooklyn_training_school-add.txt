@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -33,13 +33,13 @@
+     <field name="persname_teim">Herne, Elaine</field>
+     <field name="persname_ssm">Herne, Elaine</field>
+     <field name="subject_teim">Girls -- Education (Secondary) -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls' schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Protestants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls -- Education (Secondary) -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls&#39; schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Protestants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls -- Education (Secondary) -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Protestants -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Girls -- Education (Secondary) -- New York (State) -- Kings County</field>
+-    <field name="subject_ssm">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_ssm">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Protestants -- New York (State) -- Kings County</field>
+     <field name="collection_sim">Brooklyn Training School and Home for Young Girls records</field>
+     <field name="collection_ssm">Brooklyn Training School and Home for Young Girls records</field>
+@@ -60,7 +60,7 @@
+     <field name="name_teim">Herne, Elaine</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Girls -- Education (Secondary) -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Protestants -- New York (State) -- Kings County</field>
+     <field name="heading_ssm">Brooklyn Training School and Home for Young Girls records</field>
+     <field name="unitdate_start_sim">1933</field>

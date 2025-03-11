@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1983/1987</field>
+     <field name="unitdate_normal_sim">1983/1987</field>
+     <field name="unitdate_inclusive_teim">1983, 1986-1987</field>
+-    <field name="scopecontent_teim">Published by Greensward Foundation, Inc., "the friends of Central Park, Prospect Park, Fort Greene Park, Branch Brook Park, Druid Hill Park and Cadwalader Park."</field>
++    <field name="scopecontent_teim">Published by Greensward Foundation, Inc., &#34;the friends of Central Park, Prospect Park, Fort Greene Park, Branch Brook Park, Druid Hill Park and Cadwalader Park.&#34;</field>
+     <field name="ref_ssi">aspace_f0cf22da85af9dc0347091f75b1efaa5</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">A Little News</field>
+     <field name="heading_ssm">A Little News</field>

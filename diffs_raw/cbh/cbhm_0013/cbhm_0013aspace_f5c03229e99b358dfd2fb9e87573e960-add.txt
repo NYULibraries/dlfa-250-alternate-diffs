@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1978/2022</field>
+     <field name="unitdate_normal_sim">1978/2022</field>
+     <field name="unitdate_inclusive_teim">circa 1978-2010s</field>
+-    <field name="scopecontent_teim">Includes programs from Wohlgemuth's performances outside of the club.</field>
++    <field name="scopecontent_teim">Includes programs from Wohlgemuth&#39;s performances outside of the club.</field>
+     <field name="ref_ssi">aspace_f5c03229e99b358dfd2fb9e87573e960</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 15</field>
+     <field name="location_si">Box: 2, Folder: 15</field>
+     <field name="collection_teim">Wednesday Music Club records</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">CBHM.0013</field>
+     <field name="series_si">Harriet [Wohlgemuth] bio and photos</field>
+     <field name="heading_ssm">Harriet [Wohlgemuth] bio and photos</field>

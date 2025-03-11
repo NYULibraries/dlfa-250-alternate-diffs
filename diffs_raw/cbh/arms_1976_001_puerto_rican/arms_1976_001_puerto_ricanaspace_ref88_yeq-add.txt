@@ -1,0 +1,64 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1973/1973</field>
+     <field name="unitdate_normal_sim">1973/1973</field>
+     <field name="unitdate_inclusive_teim">1973 November 5</field>
+-    <field name="scopecontent_teim">In the interview, Juan M. Vázquez offers a very succinct personal history; including his work experience and social involvement, starting with his 1929 arrival in Brooklyn. He describes both the relatively small and tight-knit pre-World War II Puerto Rican community of New York City, as well as socializing within the city's ethnic milieu of Southern and Eastern European immigrants. Early and mid-20th century Puerto Rican political and social clubs - as well as Spanish-language news media - are also touched on. Vázquez anticipates that he would spend the rest of his days in the borough rather than returning to Puerto Rico. Interview conducted by Monte Rivera.</field>
+-    <field name="bioghist_teim">Juan M. Vázquez was born in Puerto Rico in 1912. He immigrated to the United States in 1929, arriving in Brooklyn. In 1955, after twenty-five years of laboring in the borough's factories, he opened a grocery store, and for decades afterward worked as the owner/operator. By 1974, Vázquez had made Brooklyn his permanent home. He was a father of four; among them sociologist and this project's interviewer John D. Vazquez.</field>
++    <field name="scopecontent_teim">In the interview, Juan M. Vázquez offers a very succinct personal history; including his work experience and social involvement, starting with his 1929 arrival in Brooklyn. He describes both the relatively small and tight-knit pre-World War II Puerto Rican community of New York City, as well as socializing within the city&#39;s ethnic milieu of Southern and Eastern European immigrants. Early and mid-20th century Puerto Rican political and social clubs - as well as Spanish-language news media - are also touched on. Vázquez anticipates that he would spend the rest of his days in the borough rather than returning to Puerto Rico. Interview conducted by Monte Rivera.</field>
++    <field name="bioghist_teim">Juan M. Vázquez was born in Puerto Rico in 1912. He immigrated to the United States in 1929, arriving in Brooklyn. In 1955, after twenty-five years of laboring in the borough&#39;s factories, he opened a grocery store, and for decades afterward worked as the owner/operator. By 1974, Vázquez had made Brooklyn his permanent home. He was a father of four; among them sociologist and this project&#39;s interviewer John D. Vazquez.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Puerto Rico</field>
+     <field name="geogname_teim">United States |x Emigration and immigration</field>
+@@ -36,13 +36,13 @@
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x History |y 20th century</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Politics and government |y 20th century</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Social conditions |y 20th century</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- Education -- New York (State) -- New York</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Politics and government -- 20th century</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Social conditions -- 20th century</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --Education --New York (State) --New York</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --History --20th century</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Politics and government --20th century</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Social conditions --20th century</field>
+     <field name="subject_ssm">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Puerto Ricans |x Education |z New York (State) |z New York</field>
+     <field name="subject_ssm">Puerto Ricans |z New York (State) |z New York |x Economic conditions</field>
+@@ -58,18 +58,19 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="place_ssm">Puerto Rico</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Puerto Rico</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- Education -- New York (State) -- New York</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Economic conditions</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Ethnic identity</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- History -- 20th century</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Politics and government -- 20th century</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Social conditions -- 20th century</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --Education --New York (State) --New York</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Economic conditions</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Ethnic identity</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --History --20th century</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Politics and government --20th century</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Social conditions --20th century</field>
+     <field name="collection_teim">Puerto Rican Oral History Project records</field>
++    <field name="author_teim">Morgen Stevens-Garmon under the supervision of Chela Scott Weber, with revision by Brett Dion</field>
+     <field name="collection_unitid_teim">1976.001</field>
+     <field name="series_sim">Series 1: Oral Histories</field>
+     <field name="series_si">Series 1: Oral Histories &gt;&gt; Vazquez, Juan</field>

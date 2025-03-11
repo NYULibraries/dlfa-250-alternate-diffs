@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Boerum Hill</field>
+     <field name="unittitle_teim">Boerum Hill</field>
+-    <field name="scopecontent_teim">One of the two photographs in this folder is labeled "from H. Dickson McKenna."</field>
++    <field name="scopecontent_teim">One of the two photographs in this folder is labeled &#34;from H. Dickson McKenna.&#34;</field>
+     <field name="ref_ssi">aspace_be02835746fe62d354168481abe75e75</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 15, Folder: 18</field>
+     <field name="location_si">Box: 15, Folder: 18</field>
+     <field name="collection_teim">Brooklyn photograph and illustration collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.202</field>
+     <field name="series_sim">Images by Subject</field>
+     <field name="series_si">Images by Subject &gt;&gt; Boerum Hill</field>

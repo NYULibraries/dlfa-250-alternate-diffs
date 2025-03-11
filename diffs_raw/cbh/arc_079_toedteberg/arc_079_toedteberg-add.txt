@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Emma Toedteberg collection</field>
+     <field name="unitid_teim">ARC.079</field>
+     <field name="unitid_ssm">ARC.079</field>
+-    <field name="abstract_teim">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg's career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks.</field>
+-    <field name="abstract_ssm">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg's career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks.</field>
++    <field name="abstract_teim">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg&#39;s career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks.</field>
++    <field name="abstract_ssm">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg&#39;s career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks.</field>
+     <field name="creator_teim">Toedteberg family</field>
+     <field name="creator_teim">Toedteberg, Louise</field>
+     <field name="creator_teim">Toedteberg, Emma</field>
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">1849/1938</field>
+     <field name="unitdate_normal_sim">1849/1938</field>
+     <field name="unitdate_inclusive_teim">1849-1938</field>
+-    <field name="scopecontent_teim">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg's career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks. The collection is divided into four series: History of the Long Island Historical Society manuscript, Toedteberg family papers, European travel scrapbooks, and Photographs.</field>
+-    <field name="bioghist_teim">Emma Toedteberg (1857-1936) joined the staff of the Long Island Historical Society (now the Brooklyn Historical Society) at the age of 13. Following the tenure of George Hannah, she served as the Society's third librarian from 1889 until her death. Toedteberg was an avid proponent of animal rights and a member of the Protestant Episcopal Church of the Nativity in Brooklyn. She also inherited from her father a passion for collecting bookplates.</field>
++    <field name="scopecontent_teim">The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg&#39;s career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks. The collection is divided into four series: History of the Long Island Historical Society manuscript, Toedteberg family papers, European travel scrapbooks, and Photographs.</field>
++    <field name="bioghist_teim">Emma Toedteberg (1857-1936) joined the staff of the Long Island Historical Society (now the Brooklyn Historical Society) at the age of 13. Following the tenure of George Hannah, she served as the Society&#39;s third librarian from 1889 until her death. Toedteberg was an avid proponent of animal rights and a member of the Protestant Episcopal Church of the Nativity in Brooklyn. She also inherited from her father a passion for collecting bookplates.</field>
+     <field name="bioghist_teim">Augustus Toedteberg (1824-1909), her father, emigrated from Germany in 1844 and worked as an inlay illustrator in New York City. He married fellow German immigrant Catherine Lager (d. 1905) in New York City in 1849. In addition to Emma, the couple had another daughter, Louise Toedteberg (1853-1938). The family resided at 274 Vanderbilt Avenue in the Fort Greene neighborhood of Brooklyn, and later at 628 East Delmere Place (now known as East 23rd Street) in Flatbush.</field>
+     <field name="acqinfo_teim">Gift of Emma Toedteberg, date unknown, and Louise Toedteberg, 1938.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -57,7 +57,7 @@
+     <field name="subject_teim">Bookplates</field>
+     <field name="subject_teim">Book collecting</field>
+     <field name="subject_teim">Transatlantic voyages</field>
+-    <field name="subject_teim">Librarians -- New York (State) -- New York</field>
++    <field name="subject_teim">Librarians --New York (State) --New York</field>
+     <field name="subject_ssm">Bookplates</field>
+     <field name="subject_ssm">Book collecting</field>
+     <field name="subject_ssm">Transatlantic voyages</field>
+@@ -84,11 +84,11 @@
+     <field name="name_teim">Toedteberg, Louise</field>
+     <field name="name_teim">Toedteberg, Emma</field>
+     <field name="name_teim">Toedteberg, Augustus</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- History</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --History</field>
+     <field name="subject_sim">Bookplates</field>
+     <field name="subject_sim">Book collecting</field>
+     <field name="subject_sim">Transatlantic voyages</field>
+-    <field name="subject_sim">Librarians -- New York (State) -- New York</field>
++    <field name="subject_sim">Librarians --New York (State) --New York</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Picture postcards</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1901/1949</field>
+     <field name="unitdate_normal_sim">1901/1949</field>
+     <field name="unitdate_inclusive_teim">1901-1949</field>
+-    <field name="scopecontent_teim">Series 6 contains writings by Wenman including autobiographical notes, letters to various editors of New York newspapers, historical essays and notes, and Wenman's protestations of the taxation system in the United States.</field>
++    <field name="scopecontent_teim">Series 6 contains writings by Wenman including autobiographical notes, letters to various editors of New York newspapers, historical essays and notes, and Wenman&#39;s protestations of the taxation system in the United States.</field>
+     <field name="ref_ssi">aspace_ref48_gk2</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Charles Henry Wenman papers</field>
++    <field name="author_teim">Tanya Elder</field>
+     <field name="collection_unitid_teim">ARC.104</field>
+     <field name="series_si">Series 6: Wenman personal writings</field>
+     <field name="heading_ssm">Series 6: Wenman personal writings</field>

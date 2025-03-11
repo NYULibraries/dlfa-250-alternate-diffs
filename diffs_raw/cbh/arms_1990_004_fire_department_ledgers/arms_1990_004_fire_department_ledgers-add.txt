@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Fire Department ledgers</field>
+     <field name="unitid_teim">1990.004</field>
+     <field name="unitid_ssm">1990.004</field>
+-    <field name="abstract_teim">This collection contains two record books of the Brooklyn Fire Department, one pertaining to Engine Company No. 1 (dated 1898-1899), and the other pertaining to Engine Company #40 (dated 1910). The ledgers contain day-by-day logs of each engine company's activities, including responses to fires and other emergencies. The date and time of day for each activity logged are included in both ledgers.</field>
+-    <field name="abstract_ssm">This collection contains two record books of the Brooklyn Fire Department, one pertaining to Engine Company No. 1 (dated 1898-1899), and the other pertaining to Engine Company #40 (dated 1910). The ledgers contain day-by-day logs of each engine company's activities, including responses to fires and other emergencies. The date and time of day for each activity logged are included in both ledgers.</field>
++    <field name="abstract_teim">This collection contains two record books of the Brooklyn Fire Department, one pertaining to Engine Company No. 1 (dated 1898-1899), and the other pertaining to Engine Company #40 (dated 1910). The ledgers contain day-by-day logs of each engine company&#39;s activities, including responses to fires and other emergencies. The date and time of day for each activity logged are included in both ledgers.</field>
++    <field name="abstract_ssm">This collection contains two record books of the Brooklyn Fire Department, one pertaining to Engine Company No. 1 (dated 1898-1899), and the other pertaining to Engine Company #40 (dated 1910). The ledgers contain day-by-day logs of each engine company&#39;s activities, including responses to fires and other emergencies. The date and time of day for each activity logged are included in both ledgers.</field>
+     <field name="creator_teim">Brooklyn (New York, N.Y.). Fire Dept</field>
+     <field name="creator_ssm">Brooklyn (New York, N.Y.). Fire Dept</field>
+     <field name="creator_ssm">Brooklyn (New York, N.Y.). Fire Dept</field>
+@@ -30,9 +30,9 @@
+     <field name="subject_teim">Fire fighters |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Fire fighters |z New York (State) |z New York</field>
+     <field name="subject_teim">Fire departments |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Fire fighters -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Fire fighters -- New York (State) -- New York</field>
+-    <field name="subject_teim">Fire departments -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Fire fighters --New York (State) --Kings County</field>
++    <field name="subject_teim">Fire fighters --New York (State) --New York</field>
++    <field name="subject_teim">Fire departments --New York (State) --Kings County</field>
+     <field name="subject_ssm">Fire fighters |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Fire fighters |z New York (State) |z New York</field>
+     <field name="subject_ssm">Fire departments |z New York (State) |z Kings County</field>
+@@ -51,9 +51,9 @@
+     <field name="name_sim">Brooklyn (New York, N.Y.). Fire Dept</field>
+     <field name="name_teim">Brooklyn (New York, N.Y.). Fire Dept</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Fire fighters -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Fire fighters -- New York (State) -- New York</field>
+-    <field name="subject_sim">Fire departments -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Fire fighters --New York (State) --Kings County</field>
++    <field name="subject_sim">Fire fighters --New York (State) --New York</field>
++    <field name="subject_sim">Fire departments --New York (State) --Kings County</field>
+     <field name="material_type_sim">Logs (records)</field>
+     <field name="material_type_sim">Ledgers (account books)</field>
+     <field name="material_type_ssm">Logs (records)</field>

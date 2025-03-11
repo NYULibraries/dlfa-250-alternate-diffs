@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Beekman House lithographs</field>
+     <field name="unitid_teim">V1997.046</field>
+     <field name="unitid_ssm">V1997.046</field>
+-    <field name="abstract_teim">2 lithographs of the interior of the Beekman House, by Sarony, Major &amp; Knapp, 1860. Published in D.T. Valentine's Manual, 1861.</field>
+-    <field name="abstract_ssm">2 lithographs of the interior of the Beekman House, by Sarony, Major &amp; Knapp, 1860. Published in D.T. Valentine's Manual, 1861.</field>
++    <field name="abstract_teim">2 lithographs of the interior of the Beekman House, by Sarony, Major &amp; Knapp, 1860. Published in D.T. Valentine&#39;s Manual, 1861.</field>
++    <field name="abstract_ssm">2 lithographs of the interior of the Beekman House, by Sarony, Major &amp; Knapp, 1860. Published in D.T. Valentine&#39;s Manual, 1861.</field>
+     <field name="creator_teim">Sarony, Major &amp; Knapp Lith</field>
+     <field name="creator_ssm">Sarony, Major &amp; Knapp Lith</field>
+     <field name="creator_ssm">Sarony, Major &amp; Knapp Lith</field>
+@@ -29,7 +29,7 @@
+     <field name="geogname_teim">Manhattan (New York, N.Y.)</field>
+     <field name="geogname_ssm">Manhattan (New York, N.Y.)</field>
+     <field name="subject_teim">Buildings |z New York (State) |z New York</field>
+-    <field name="subject_teim">Buildings -- New York (State) -- New York</field>
++    <field name="subject_teim">Buildings --New York (State) --New York</field>
+     <field name="subject_ssm">Buildings |z New York (State) |z New York</field>
+     <field name="collection_sim">Beekman House lithographs</field>
+     <field name="collection_ssm">Beekman House lithographs</field>
+@@ -46,7 +46,7 @@
+     <field name="name_sim">Sarony, Major &amp; Knapp Lith</field>
+     <field name="name_teim">Sarony, Major &amp; Knapp Lith</field>
+     <field name="place_sim">Manhattan (New York, N.Y.)</field>
+-    <field name="subject_sim">Buildings -- New York (State) -- New York</field>
++    <field name="subject_sim">Buildings --New York (State) --New York</field>
+     <field name="material_type_sim">Interior views</field>
+     <field name="material_type_sim">Lithographs</field>
+     <field name="material_type_ssm">Interior views</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1888/1989</field>
+     <field name="unitdate_normal_sim">1888/1989</field>
+     <field name="unitdate_inclusive_teim">1888-1989</field>
+-    <field name="scopecontent_teim">Series contains one box of photographic prints, slides, and negatives depicting the restaurant owners, employees, various events, as well as its landmark building dating from 1888 to 1989. Oversize photographs are stored in Box 8. Photographs related to the restaurant's 75th anniversary can be found in Series 1: Business Records.</field>
++    <field name="scopecontent_teim">Series contains one box of photographic prints, slides, and negatives depicting the restaurant owners, employees, various events, as well as its landmark building dating from 1888 to 1989. Oversize photographs are stored in Box 8. Photographs related to the restaurant&#39;s 75th anniversary can be found in Series 1: Business Records.</field>
+     <field name="ref_ssi">aspace_bfd127ba8d2dd87f127e2169cf84adc5</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edward and Gertrude Dewey collection of Gage &amp; Tollner records</field>
++    <field name="author_teim">Yingwen Huang, under the supervision of John Zarrillo</field>
+     <field name="collection_unitid_teim">2016.034</field>
+     <field name="series_si">Series 2: Photographs</field>
+     <field name="heading_ssm">Series 2: Photographs</field>

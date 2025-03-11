@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1857/1923</field>
+     <field name="unitdate_normal_sim">1857/1923</field>
+     <field name="unitdate_inclusive_teim">1857-1923</field>
+-    <field name="scopecontent_teim">Two prayer books. One is a Tanakh, printed in Vienna in 1857. It is inside a bone case with a working clasp. The other is a Union Prayer Book, inscribed to Eugenie Fribourg for her Confirmation in 1923. An advertisement for Eugenie's great-grandfather Joseph Loeb's restaurant's dinner specials is tucked inside the cover of the Tanakh. Books are housed in individual phase boxes.</field>
++    <field name="scopecontent_teim">Two prayer books. One is a Tanakh, printed in Vienna in 1857. It is inside a bone case with a working clasp. The other is a Union Prayer Book, inscribed to Eugenie Fribourg for her Confirmation in 1923. An advertisement for Eugenie&#39;s great-grandfather Joseph Loeb&#39;s restaurant&#39;s dinner specials is tucked inside the cover of the Tanakh. Books are housed in individual phase boxes.</field>
+     <field name="ref_ssi">aspace_ref18_g9n</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">volume: Prayer Book</field>
+     <field name="location_si">volume: Prayer Book</field>
+     <field name="collection_teim">Eugenie Fribourg family photographs and ephemera</field>
++    <field name="author_teim">Michael Satalof under the supervision of Julie I. May.</field>
+     <field name="collection_unitid_teim">2011.002</field>
+     <field name="series_si">Series 3: Prayer books</field>
+     <field name="heading_ssm">Series 3: Prayer books</field>

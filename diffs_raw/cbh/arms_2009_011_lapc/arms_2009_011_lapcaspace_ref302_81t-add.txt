@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1925/1949</field>
+     <field name="unitdate_normal_sim">1925/1949</field>
+     <field name="unitdate_inclusive_teim">1925-1949</field>
+-    <field name="scopecontent_teim">Anna L. Colcord was a church Elder who served as the church's Executive Secretary. The sub-series consists of daily diaries maintained from 1925 to 1949.</field>
++    <field name="scopecontent_teim">Anna L. Colcord was a church Elder who served as the church&#39;s Executive Secretary. The sub-series consists of daily diaries maintained from 1925 to 1949.</field>
+     <field name="ref_ssi">aspace_ref302_81t</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
++    <field name="author_teim">John Zarrillo. Digital material processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2009.011</field>
+     <field name="series_sim">Series 10: Elders and Administrators</field>
+     <field name="series_si">Series 10: Elders and Administrators &gt;&gt; Sub-series 10.1: Anna L. Colcord diaries</field>

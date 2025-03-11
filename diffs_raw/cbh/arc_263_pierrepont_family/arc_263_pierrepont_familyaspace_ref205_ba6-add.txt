@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1856/1890</field>
+     <field name="unitdate_normal_sim">1856/1890</field>
+     <field name="unitdate_inclusive_teim">1856-1890</field>
+-    <field name="scopecontent_teim">The cash book entries reflect monthly tallies of the Pierrepont Stores' finances and include listings of services rendered, items purchased, and payroll costs.</field>
++    <field name="scopecontent_teim">The cash book entries reflect monthly tallies of the Pierrepont Stores&#39; finances and include listings of services rendered, items purchased, and payroll costs.</field>
+     <field name="ref_ssi">aspace_ref205_ba6</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Pierrepont family papers</field>
++    <field name="author_teim">Teresa Mora (1999), with modifications by Larry Weimer (2011).</field>
+     <field name="collection_unitid_teim">ARC.263</field>
+     <field name="series_sim">Series 4: Pierrepont Stores</field>
+     <field name="series_si">Series 4: Pierrepont Stores &gt;&gt; Sub-series 8: Cash Books</field>

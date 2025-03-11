@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Brevoort family papers</field>
+     <field name="collection_unitid_ssm">1977.285</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"The Steam Engine"</field>
+-    <field name="unittitle_teim">"The Steam Engine"</field>
++    <field name="unittitle_ssm">&#34;The Steam Engine&#34;</field>
++    <field name="unittitle_teim">&#34;The Steam Engine&#34;</field>
+     <field name="unitdate_normal_ssm">1874/1874</field>
+     <field name="unitdate_normal_teim">1874/1874</field>
+     <field name="unitdate_normal_sim">1874/1874</field>
+@@ -30,11 +30,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Brevoort family papers</field>
++    <field name="author_teim">Robert Sink</field>
+     <field name="collection_unitid_teim">1977.285</field>
+     <field name="series_sim">Series 4: Henry L. Brevoort (1849-1895)</field>
+     <field name="series_sim">Speeches on steam engines</field>
+-    <field name="series_si">Series 4: Henry L. Brevoort (1849-1895) &gt;&gt; Speeches on steam engines &gt;&gt; "The Steam Engine"</field>
+-    <field name="heading_ssm">"The Steam Engine"</field>
++    <field name="series_si">Series 4: Henry L. Brevoort (1849-1895) &gt;&gt; Speeches on steam engines &gt;&gt; &#34;The Steam Engine&#34;</field>
++    <field name="heading_ssm">&#34;The Steam Engine&#34;</field>
+     <field name="unitdate_start_sim">1874</field>
+     <field name="unitdate_start_ssm">1874</field>
+     <field name="unitdate_start_si">1874</field>

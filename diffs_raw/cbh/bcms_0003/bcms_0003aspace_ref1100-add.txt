@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;,</field>
+-    <field name="unittitle_teim">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. Frank Leslie's Illustrated Newspaper,</field>
++    <field name="unittitle_ssm">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;,</field>
++    <field name="unittitle_teim">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. Frank Leslie&#39;s Illustrated Newspaper,</field>
+     <field name="unitdate_normal_ssm">1889-07-13/1889-07-13</field>
+     <field name="unitdate_normal_teim">1889-07-13/1889-07-13</field>
+     <field name="unitdate_normal_sim">1889-07-13/1889-07-13</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Social Welfare</field>
+-    <field name="series_si">Social Welfare &gt;&gt; The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;,</field>
+-    <field name="heading_ssm">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. Frank Leslie's Illustrated Newspaper,</field>
++    <field name="series_si">Social Welfare &gt;&gt; The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;,</field>
++    <field name="heading_ssm">The Poor of New York City—A Hot Night on the East River Front: An Officer on Watch. Frank Leslie&#39;s Illustrated Newspaper,</field>
+     <field name="unitdate_ssm">1889-07-13</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1065</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,7 +38,7 @@
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Ferries |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ferries -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ferries --New York (State) --Kings County</field>
+     <field name="subject_ssm">Transportation -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Ferries |z New York (State) |z Kings County</field>
+     <field name="collection_sim">69th Street Brooklyn Ferry Corporation rate schedule notices</field>
+@@ -59,7 +59,7 @@
+     <field name="place_sim">Staten Island (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ferries -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Ferries --New York (State) --Kings County</field>
+     <field name="material_type_sim">Tariff schedules</field>
+     <field name="material_type_sim">Announcements</field>
+     <field name="material_type_ssm">Tariff schedules</field>

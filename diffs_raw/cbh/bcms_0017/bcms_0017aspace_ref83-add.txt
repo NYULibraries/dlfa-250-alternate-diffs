@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Emanuel Celler Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0017</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">National Federation of Women's Clubs</field>
+-    <field name="unittitle_teim">National Federation of Women's Clubs</field>
++    <field name="unittitle_ssm">National Federation of Women&#39;s Clubs</field>
++    <field name="unittitle_teim">National Federation of Women&#39;s Clubs</field>
+     <field name="unitdate_teim">1936</field>
+     <field name="ref_ssi">aspace_ref83</field>
+     <field name="repository_ssi">cbh</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 9</field>
+     <field name="location_si">Box: 2, Folder: 9</field>
+     <field name="collection_teim">Emanuel Celler Collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0017</field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">Subseries 3: Group Portraits, Identified</field>
+-    <field name="series_si">Series VII: Photographs &gt;&gt; Subseries 3: Group Portraits, Identified &gt;&gt; National Federation of Women's Clubs</field>
+-    <field name="heading_ssm">National Federation of Women's Clubs</field>
++    <field name="series_si">Series VII: Photographs &gt;&gt; Subseries 3: Group Portraits, Identified &gt;&gt; National Federation of Women&#39;s Clubs</field>
++    <field name="heading_ssm">National Federation of Women&#39;s Clubs</field>
+     <field name="unitdate_ssm">1936</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">68</field>

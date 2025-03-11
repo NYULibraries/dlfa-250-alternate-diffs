@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Brooklyn Historical Society ephemera collection</field>
+     <field name="collection_unitid_ssm">ARC.272</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Churches -- St. Peter and Paul's Church</field>
+-    <field name="unittitle_teim">Churches -- St. Peter and Paul's Church</field>
++    <field name="unittitle_ssm">Churches -- St. Peter and Paul&#39;s Church</field>
++    <field name="unittitle_teim">Churches -- St. Peter and Paul&#39;s Church</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_e275385b7bee6ec8ccfb085dc10fbfc0</field>
+     <field name="repository_ssi">cbh</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Drawer: 4</field>
+     <field name="location_si">Drawer: 4</field>
+     <field name="collection_teim">Brooklyn Historical Society ephemera collection</field>
++    <field name="author_teim">Collection processed by Joan Michaela A. Jocson</field>
+     <field name="collection_unitid_teim">ARC.272</field>
+-    <field name="series_si">Churches -- St. Peter and Paul's Church</field>
+-    <field name="heading_ssm">Churches -- St. Peter and Paul's Church</field>
++    <field name="series_si">Churches -- St. Peter and Paul&#39;s Church</field>
++    <field name="heading_ssm">Churches -- St. Peter and Paul&#39;s Church</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">89</field>

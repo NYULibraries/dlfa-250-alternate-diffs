@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">2006/2006</field>
+     <field name="unitdate_normal_sim">2006/2006</field>
+     <field name="unitdate_teim">2006 Winter/Spring</field>
+-    <field name="scopecontent_teim">"A newsletter for members and friends of the Old Stone House."</field>
++    <field name="scopecontent_teim">&#34;A newsletter for members and friends of the Old Stone House.&#34;</field>
+     <field name="ref_ssi">aspace_aa93c07b91c240d2b839493560040d82</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">The Old Stone House Gazette</field>
+     <field name="heading_ssm">The Old Stone House Gazette</field>

@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,13 +16,13 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Yvette "Yetta" Isaacs materials</field>
+-    <field name="unittitle_teim">Yvette "Yetta" Isaacs materials</field>
++    <field name="unittitle_ssm">Yvette &#34;Yetta&#34; Isaacs materials</field>
++    <field name="unittitle_teim">Yvette &#34;Yetta&#34; Isaacs materials</field>
+     <field name="unitdate_normal_ssm">1937/1938</field>
+     <field name="unitdate_normal_teim">1937/1938</field>
+     <field name="unitdate_normal_sim">1937/1938</field>
+     <field name="unitdate_inclusive_teim">1937-1938</field>
+-    <field name="scopecontent_teim">"E" patch, flower petals pressed in her yearbook, 1938 recommendation letters, 1937 athletics certificate.</field>
++    <field name="scopecontent_teim">&#34;E&#34; patch, flower petals pressed in her yearbook, 1938 recommendation letters, 1937 athletics certificate.</field>
+     <field name="ref_ssi">aspace_158a01bb7c05a76d8c8700663613a5e2</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">Eastern District High School</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; Eastern District High School &gt;&gt; Yvette "Yetta" Isaacs materials</field>
+-    <field name="heading_ssm">Yvette "Yetta" Isaacs materials</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; Eastern District High School &gt;&gt; Yvette &#34;Yetta&#34; Isaacs materials</field>
++    <field name="heading_ssm">Yvette &#34;Yetta&#34; Isaacs materials</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>
+     <field name="unitdate_start_si">1937</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,7 +30,7 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn Bridge (New York, N.Y.) |x Anniversaries, etc.</field>
+     <field name="subject_teim">Hotels |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Hotels -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Hotels --New York (State) --Kings County</field>
+     <field name="subject_ssm">Hotels |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn Bridge golden anniversary dinner seating list</field>
+     <field name="collection_ssm">Brooklyn Bridge golden anniversary dinner seating list</field>
+@@ -47,8 +47,8 @@
+     <field name="name_sim">Hotel St. George (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Hotel St. George (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn Bridge (New York, N.Y.) -- Anniversaries, etc.</field>
+-    <field name="subject_sim">Hotels -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn Bridge (New York, N.Y.) --Anniversaries, etc.</field>
++    <field name="subject_sim">Hotels --New York (State) --Kings County</field>
+     <field name="material_type_sim">Attendance lists</field>
+     <field name="material_type_ssm">Attendance lists</field>
+     <field name="heading_ssm">Brooklyn Bridge golden anniversary dinner seating list</field>

@@ -1,0 +1,74 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">2010 May 19</field>
+     <field name="scopecontent_teim">In the interview, Karim Camara offers interviewers biographical details - including the multifarious Crown Heights, Brooklyn of his childhood. He talks about what led him to the ministry, as well as the New York State Assembly. Camara discusses government funding, President Obama, his hectic dual work schedules and treating others with respect. He describes the homes and people who make up his district as well as his relations with constituents. Camara also goes over the difficulty of accurate census-taking and its importance in the allocation of tax dollars. Interview conducted by Monica Parfait, Treverlyn Dehaarte and Alex Kelly.</field>
+-    <field name="bioghist_teim">Karim Camara was born in Brooklyn, New York in 1971. He spent his early childhood living in Crown Heights South on a diverse Brooklyn block of African American and Jewish families. After graduating college, Camara - who comes from a family of Christian ministers - decided to become a pastor as well as enter politics as state assemblyman for the 43rd district, representing his lifelong neighborhood. In February 2015, he vacated his seat to become executive director of the Office of Faith-Based Community Development as part of Governor Andrew Cuomo's administration. Camara holds a bachelor's degree in English Literature and Chemistry from Xavier University of Louisiana and a Masters of Divinity from the New York Theological Seminary.</field>
++    <field name="bioghist_teim">Karim Camara was born in Brooklyn, New York in 1971. He spent his early childhood living in Crown Heights South on a diverse Brooklyn block of African American and Jewish families. After graduating college, Camara - who comes from a family of Christian ministers - decided to become a pastor as well as enter politics as state assemblyman for the 43rd district, representing his lifelong neighborhood. In February 2015, he vacated his seat to become executive director of the Office of Faith-Based Community Development as part of Governor Andrew Cuomo&#39;s administration. Camara holds a bachelor&#39;s degree in English Literature and Chemistry from Xavier University of Louisiana and a Masters of Divinity from the New York Theological Seminary.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.) |x Religious life and customs</field>
+     <field name="geogname_teim">Crown Heights (New York, N.Y.)</field>
+     <field name="geogname_teim">New York (N.Y.)</field>
+@@ -45,14 +45,14 @@
+     <field name="subject_teim">African American neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Census</field>
+     <field name="subject_teim">Community activists -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Community development -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education -- New York (State)</field>
+-    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Fundraising -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jewish neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Multiculturalism</field>
+-    <field name="subject_teim">Municipal government -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Community development --New York (State) --Kings County</field>
++    <field name="subject_teim">Education --New York (State)</field>
++    <field name="subject_teim">Family life --New York (State) --Kings County</field>
++    <field name="subject_teim">Fundraising --New York (State) --Kings County</field>
++    <field name="subject_teim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_teim">Jewish neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Multiculturalism</field>
++    <field name="subject_teim">Municipal government --New York (State) --Kings County</field>
+     <field name="subject_ssm">African American neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Census</field>
+     <field name="subject_ssm">Community activists -- New York (State) -- Kings County</field>
+@@ -74,26 +74,27 @@
+     <field name="name_sim">Obama, Barack</field>
+     <field name="name_teim">Camara, Karim</field>
+     <field name="name_teim">Obama, Barack</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_ssm">Crown Heights (New York, N.Y.)</field>
+     <field name="place_ssm">New York (N.Y.)</field>
+-    <field name="place_ssm">New York (State) -- Politics and government</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_ssm">New York (State) --Politics and government</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+-    <field name="place_sim">New York (State) -- Politics and government</field>
++    <field name="place_sim">New York (State) --Politics and government</field>
+     <field name="subject_sim">African American neighborhoods -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Census</field>
+     <field name="subject_sim">Community activists -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Community development -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Education -- New York (State)</field>
+-    <field name="subject_sim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Fundraising -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Jewish neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Community development --New York (State) --Kings County</field>
++    <field name="subject_sim">Education --New York (State)</field>
++    <field name="subject_sim">Family life --New York (State) --Kings County</field>
++    <field name="subject_sim">Fundraising --New York (State) --Kings County</field>
++    <field name="subject_sim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_sim">Jewish neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_sim">Multiculturalism</field>
+-    <field name="subject_sim">Municipal government -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Municipal government --New York (State) --Kings County</field>
+     <field name="collection_teim">Listen to This: Crown Heights Oral History collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">2010.020</field>
+     <field name="series_si">Camara, Karim</field>
+     <field name="heading_ssm">Camara, Karim</field>

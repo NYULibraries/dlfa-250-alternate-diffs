@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">2012 January 13</field>
+-    <field name="scopecontent_teim">In the interview, Kline discusses her family; maternal grandparents' courtship during World War II; paternal grandparents' divorce; move to Brooklyn; involvement in New York City's theatre community; romantic relationships; Jewish and Pagan religious convictions; and childhood health issues. Interview conducted by Liza Zapol.</field>
++    <field name="scopecontent_teim">In the interview, Kline discusses her family; maternal grandparents&#39; courtship during World War II; paternal grandparents&#39; divorce; move to Brooklyn; involvement in New York City&#39;s theatre community; romantic relationships; Jewish and Pagan religious convictions; and childhood health issues. Interview conducted by Liza Zapol.</field>
+     <field name="bioghist_teim">Julie Kline was born to a white American Lutheran mother and a white American Jewish father and raised in Oakland, California. Kline received a B.F.A. in acting from DePaul University in Chicago, Illinois. She lived in Brooklyn, New York and worked as an actor, director, and theatre instructor.</field>
+     <field name="geogname_teim">United States -- Armed Forces -- World War, 1939-1945</field>
+     <field name="geogname_teim">Park Slope (New York, N.Y.)</field>
+@@ -36,7 +36,7 @@
+     <field name="subject_teim">Neopaganism</field>
+     <field name="subject_teim">Religious identity</field>
+     <field name="subject_teim">Actors -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Theater -- New York (State) -- New York</field>
++    <field name="subject_teim">Theater --New York (State) --New York</field>
+     <field name="subject_ssm">Interfaith families</field>
+     <field name="subject_ssm">Judaism</field>
+     <field name="subject_ssm">Neopaganism</field>
+@@ -60,8 +60,9 @@
+     <field name="subject_sim">Neopaganism</field>
+     <field name="subject_sim">Religious identity</field>
+     <field name="subject_sim">Actors -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Theater -- New York (State) -- New York</field>
++    <field name="subject_sim">Theater --New York (State) --New York</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Julie Kline</field>
+     <field name="heading_ssm">Julie Kline</field>

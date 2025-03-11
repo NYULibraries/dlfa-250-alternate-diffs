@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1954/2002</field>
+     <field name="unitdate_normal_sim">1954/2002</field>
+     <field name="unitdate_inclusive_teim">1954-2002</field>
+-    <field name="scopecontent_teim">The series contains a 1954 photograph of Pee Wee Reese at bat versus the Chicago Cubs; a 1955 Dodgers group photograph signed by Clem Labine; and a lithograph of Ebbets Field, entitled "A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947," produced by Jim Annis in 2002.</field>
++    <field name="scopecontent_teim">The series contains a 1954 photograph of Pee Wee Reese at bat versus the Chicago Cubs; a 1955 Dodgers group photograph signed by Clem Labine; and a lithograph of Ebbets Field, entitled &#34;A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947,&#34; produced by Jim Annis in 2002.</field>
+     <field name="ref_ssi">aspace_ref14_itc</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Dodgers collection</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">ARC.297</field>
+     <field name="series_si">Series 4: Photographs and art</field>
+     <field name="heading_ssm">Series 4: Photographs and art</field>

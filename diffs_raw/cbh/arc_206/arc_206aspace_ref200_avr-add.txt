@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1792/1792</field>
+     <field name="unitdate_normal_sim">1792/1792</field>
+     <field name="unitdate_inclusive_teim">1792</field>
+-    <field name="scopecontent_teim">1792 letter, from Captain Thomas Truxtun, at London, to Messrs. John Warder &amp; Co., re: order for the ship Delaware, concluded by Truxtun and Mr. Constable, referring to East India Investment, mentions specie and merchandise, Truxtun's travel to Madras and Bengal, desire to examine a muster of iron prior to purchase "for the people of India make a great difference in this article"</field>
++    <field name="scopecontent_teim">1792 letter, from Captain Thomas Truxtun, at London, to Messrs. John Warder &amp; Co., re: order for the ship Delaware, concluded by Truxtun and Mr. Constable, referring to East India Investment, mentions specie and merchandise, Truxtun&#39;s travel to Madras and Bengal, desire to examine a muster of iron prior to purchase &#34;for the people of India make a great difference in this article&#34;</field>
+     <field name="ref_ssi">aspace_ref200_avr</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 2, Folder: 100</field>
+     <field name="location_si">Box: 2, Folder: 100</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Truxtun, Thomas</field>
+     <field name="heading_ssm">Truxtun, Thomas</field>

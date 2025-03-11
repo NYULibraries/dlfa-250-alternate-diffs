@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1979/1994</field>
+     <field name="unitdate_normal_sim">1979/1994</field>
+     <field name="unitdate_inclusive_teim">1979-1994</field>
+-    <field name="scopecontent_teim">Norden is a Finnish-language newspaper providing coverage of news and events related to New York City's Finnish population. Some articles appear in English. Birth announcements, wedding announcements, and obituaries do not appear in the paper. Advertisements and photographs appear throughout.</field>
++    <field name="scopecontent_teim">Norden is a Finnish-language newspaper providing coverage of news and events related to New York City&#39;s Finnish population. Some articles appear in English. Birth announcements, wedding announcements, and obituaries do not appear in the paper. Advertisements and photographs appear throughout.</field>
+     <field name="ref_ssi">aspace_ref152</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">bin: 29</field>
+     <field name="location_si">bin: 29</field>
+     <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian; Olivia Morales Geaghan, Archivist; Revised and updated by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0028</field>
+     <field name="series_si">Norden</field>
+     <field name="heading_ssm">Norden</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1982/1992</field>
+     <field name="unitdate_normal_sim">1982/1992</field>
+     <field name="unitdate_inclusive_teim">1982-1992</field>
+-    <field name="scopecontent_teim">Big Red News provides city-wide coverage of African-American issues and happenings. The paper is international in scope with an emphasis on Africa, particularly events in South Africa. Business, religious, entertainment, community, and city-wide sports news are all regularly covered. Classifieds, personals, and advertisements appear throughout, as do photographs. There are no dedicated sections for obituaries, weddings, or birth announcements, though death notices for prominent African-Americans occasionally appear. Some issues include a "Black Business Directory" listing local businesses. Later issues include a page called "Big Red Poetry" where the poems of local residents are published. A page called "Lottomania" also appears in later issues, featuring lists of lucky numbers as well as number games.</field>
++    <field name="scopecontent_teim">Big Red News provides city-wide coverage of African-American issues and happenings. The paper is international in scope with an emphasis on Africa, particularly events in South Africa. Business, religious, entertainment, community, and city-wide sports news are all regularly covered. Classifieds, personals, and advertisements appear throughout, as do photographs. There are no dedicated sections for obituaries, weddings, or birth announcements, though death notices for prominent African-Americans occasionally appear. Some issues include a &#34;Black Business Directory&#34; listing local businesses. Later issues include a page called &#34;Big Red Poetry&#34; where the poems of local residents are published. A page called &#34;Lottomania&#34; also appears in later issues, featuring lists of lucky numbers as well as number games.</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">bin: 6</field>
+     <field name="location_si">bin: 6</field>
+     <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian; Olivia Morales Geaghan, Archivist; Revised and updated by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0028</field>
+     <field name="series_si">Big Red News</field>
+     <field name="heading_ssm">Big Red News</field>

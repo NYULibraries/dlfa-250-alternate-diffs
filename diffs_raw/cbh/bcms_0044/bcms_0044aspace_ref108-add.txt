@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brownsville and East New York photographs, 1958-1965</field>
+     <field name="collection_unitid_ssm">BCMS.0044</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Fortunoff's, Alabama Avenue at Livonia Avenue</field>
+-    <field name="unittitle_teim">Fortunoff's, Alabama Avenue at Livonia Avenue</field>
++    <field name="unittitle_ssm">Fortunoff&#39;s, Alabama Avenue at Livonia Avenue</field>
++    <field name="unittitle_teim">Fortunoff&#39;s, Alabama Avenue at Livonia Avenue</field>
+     <field name="unitdate_normal_ssm">1964-07-28/1964-07-28</field>
+     <field name="unitdate_normal_teim">1964-07-28/1964-07-28</field>
+     <field name="unitdate_normal_sim">1964-07-28/1964-07-28</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">Brownsville and East New York photographs, 1958-1965</field>
++    <field name="author_teim">Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0044</field>
+     <field name="series_sim">East New York</field>
+-    <field name="series_si">East New York &gt;&gt; Fortunoff's, Alabama Avenue at Livonia Avenue</field>
+-    <field name="heading_ssm">Fortunoff's, Alabama Avenue at Livonia Avenue</field>
++    <field name="series_si">East New York &gt;&gt; Fortunoff&#39;s, Alabama Avenue at Livonia Avenue</field>
++    <field name="heading_ssm">Fortunoff&#39;s, Alabama Avenue at Livonia Avenue</field>
+     <field name="unitdate_ssm">1964 July 28</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">91</field>

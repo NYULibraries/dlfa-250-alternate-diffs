@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Joan L. Millman papers</field>
+     <field name="collection_unitid_ssm">2014.020</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Brooklyn's Progess&lt;/em&gt; laminated clipping</field>
+-    <field name="unittitle_teim">Brooklyn's Progess laminated clipping</field>
++    <field name="unittitle_ssm">&lt;em&gt;Brooklyn&#39;s Progess&lt;/em&gt; laminated clipping</field>
++    <field name="unittitle_teim">Brooklyn&#39;s Progess laminated clipping</field>
+     <field name="unitdate_normal_ssm">2002/2005</field>
+     <field name="unitdate_normal_teim">2002/2005</field>
+     <field name="unitdate_normal_sim">2002/2005</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 9, Folder: -</field>
+     <field name="location_si">Box: 9, Folder: -</field>
+     <field name="collection_teim">Joan L. Millman papers</field>
++    <field name="author_teim">John Zarrillo. Digital files processed by Erica López in 2019. </field>
+     <field name="collection_unitid_teim">2014.020</field>
+     <field name="series_sim">Series 1: Brooklyn Bridge Park</field>
+     <field name="series_sim">Sub-series 1.5: Memorabilia</field>
+-    <field name="series_si">Series 1: Brooklyn Bridge Park &gt;&gt; Sub-series 1.5: Memorabilia &gt;&gt; &lt;em&gt;Brooklyn's Progess&lt;/em&gt; laminated clipping</field>
+-    <field name="heading_ssm">Brooklyn's Progess laminated clipping</field>
++    <field name="series_si">Series 1: Brooklyn Bridge Park &gt;&gt; Sub-series 1.5: Memorabilia &gt;&gt; &lt;em&gt;Brooklyn&#39;s Progess&lt;/em&gt; laminated clipping</field>
++    <field name="heading_ssm">Brooklyn&#39;s Progess laminated clipping</field>
+     <field name="unitdate_start_sim">2002</field>
+     <field name="unitdate_start_ssm">2002</field>
+     <field name="unitdate_start_si">2002</field>

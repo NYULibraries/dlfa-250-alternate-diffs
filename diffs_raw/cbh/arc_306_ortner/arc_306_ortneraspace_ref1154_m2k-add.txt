@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Everett and Evelyn Ortner papers and photographs</field>
+     <field name="collection_unitid_ssm">ARC.306</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Leffert's House (VHS tape)</field>
+-    <field name="unittitle_teim">Leffert's House (VHS tape)</field>
++    <field name="unittitle_ssm">Leffert&#39;s House (VHS tape)</field>
++    <field name="unittitle_teim">Leffert&#39;s House (VHS tape)</field>
+     <field name="unitdate_normal_ssm">2003/2003</field>
+     <field name="unitdate_normal_teim">2003/2003</field>
+     <field name="unitdate_normal_sim">2003/2003</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 78, Cassette: 9</field>
+     <field name="location_si">Box: 78, Cassette: 9</field>
+     <field name="collection_teim">Everett and Evelyn Ortner papers and photographs</field>
++    <field name="author_teim">John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">ARC.306</field>
+     <field name="series_sim">Series 6: Brooklyn and Historic Preservation general files</field>
+-    <field name="series_si">Series 6: Brooklyn and Historic Preservation general files &gt;&gt; Leffert's House (VHS tape)</field>
+-    <field name="heading_ssm">Leffert's House (VHS tape)</field>
++    <field name="series_si">Series 6: Brooklyn and Historic Preservation general files &gt;&gt; Leffert&#39;s House (VHS tape)</field>
++    <field name="heading_ssm">Leffert&#39;s House (VHS tape)</field>
+     <field name="unitdate_start_sim">2003</field>
+     <field name="unitdate_start_ssm">2003</field>
+     <field name="unitdate_start_si">2003</field>

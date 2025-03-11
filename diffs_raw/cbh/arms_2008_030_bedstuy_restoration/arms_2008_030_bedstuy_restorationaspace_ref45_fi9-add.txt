@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">2008 May 14</field>
+-    <field name="scopecontent_teim">In this short interview, Delwyn Stanton-Gilkes describes the Bedford-Stuyvesant neighborhood of Brooklyn; its residents, culture, and changes -- such as gentrification and racial mixing -- brought on by economic development. He discusses his life's association with Restoration's Youth Arts Academy, and the impact it's had on his life. Interview conducted by Anasa Scott.</field>
+-    <field name="bioghist_teim">At the time of the 2008 interview, Delwyn Stanton-Gilkes was the resident African drumming instructor at Restoration's Youth Arts Academy.</field>
++    <field name="scopecontent_teim">In this short interview, Delwyn Stanton-Gilkes describes the Bedford-Stuyvesant neighborhood of Brooklyn; its residents, culture, and changes -- such as gentrification and racial mixing -- brought on by economic development. He discusses his life&#39;s association with Restoration&#39;s Youth Arts Academy, and the impact it&#39;s had on his life. Interview conducted by Anasa Scott.</field>
++    <field name="bioghist_teim">At the time of the 2008 interview, Delwyn Stanton-Gilkes was the resident African drumming instructor at Restoration&#39;s Youth Arts Academy.</field>
+     <field name="corpname_teim">Bedford-Stuyvesant Restoration Corporation</field>
+     <field name="corpname_ssm">Bedford-Stuyvesant Restoration Corporation</field>
+     <field name="geogname_teim">Bedford-Stuyvesant (New York, N.Y.)</field>
+@@ -35,12 +35,12 @@
+     <field name="subject_teim">Musicians |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Performing arts |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Community centers -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Dancers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Economic development -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Gentrification -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Musicians -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Dancers --New York (State) --New York</field>
++    <field name="subject_teim">Economic development --New York (State) --Kings County</field>
++    <field name="subject_teim">Education -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Gentrification --New York (State) --Kings County</field>
++    <field name="subject_teim">Musicians --New York (State) --Kings County</field>
++    <field name="subject_teim">Performing arts --New York (State) --Kings County</field>
+     <field name="subject_ssm">Community centers -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Dancers |z New York (State) |z New York</field>
+     <field name="subject_ssm">Economic development |z New York (State) |z Kings County</field>
+@@ -63,13 +63,14 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">East Flatbush (New York, N.Y.)</field>
+     <field name="subject_sim">Community centers -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Dancers -- New York (State) -- New York</field>
+-    <field name="subject_sim">Economic development -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Dancers --New York (State) --New York</field>
++    <field name="subject_sim">Economic development --New York (State) --Kings County</field>
+     <field name="subject_sim">Education -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Gentrification -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Musicians -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Gentrification --New York (State) --Kings County</field>
++    <field name="subject_sim">Musicians --New York (State) --Kings County</field>
++    <field name="subject_sim">Performing arts --New York (State) --Kings County</field>
+     <field name="collection_teim">Bedford Stuyvesant Restoration Corporation oral histories</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">2008.030</field>
+     <field name="series_si">Stanton-Gilkes, Delwyn</field>
+     <field name="heading_ssm">Stanton-Gilkes, Delwyn</field>

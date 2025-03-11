@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Larry Racioppo collection</field>
+     <field name="collection_unitid_ssm">BCMS.0053</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Brooklyn Bridge Magazine&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Brooklyn Bridge Magazine
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Brooklyn Bridge Magazine&lt;/em&gt;</field>
++    <field name="unittitle_teim">Brooklyn Bridge Magazine</field>
+     <field name="unitdate_normal_ssm">1998/1998</field>
+     <field name="unitdate_normal_teim">1998/1998</field>
+     <field name="unitdate_normal_sim">1998/1998</field>
+@@ -33,14 +29,11 @@
+     <field name="location_ssm">Folder: Flat File</field>
+     <field name="location_si">Folder: Flat File</field>
+     <field name="collection_teim">Larry Racioppo collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0053</field>
+     <field name="series_sim">Series 2: Press</field>
+-    <field name="series_si">Series 2: Press &gt;&gt; 
+-      &lt;em&gt;Brooklyn Bridge Magazine&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Brooklyn Bridge Magazine
+-    </field>
++    <field name="series_si">Series 2: Press &gt;&gt; &lt;em&gt;Brooklyn Bridge Magazine&lt;/em&gt;</field>
++    <field name="heading_ssm">Brooklyn Bridge Magazine</field>
+     <field name="unitdate_start_sim">1998</field>
+     <field name="unitdate_start_ssm">1998</field>
+     <field name="unitdate_start_si">1998</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Montauk Club collection</field>
+     <field name="collection_unitid_ssm">BCMS.0045</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Treasurer's Reports</field>
+-    <field name="unittitle_teim">Treasurer's Reports</field>
++    <field name="unittitle_ssm">Treasurer&#39;s Reports</field>
++    <field name="unittitle_teim">Treasurer&#39;s Reports</field>
+     <field name="unitdate_teim">1936-1945</field>
+     <field name="ref_ssi">aspace_ref19</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 6</field>
+     <field name="location_si">Box: 1, Folder: 6</field>
+     <field name="collection_teim">Montauk Club collection</field>
++    <field name="author_teim">Diana Bowers-Smith, Archivist with the assistance of Kreya Jackson, Librarian and Brooklyn Collection volunteer</field>
+     <field name="collection_unitid_teim">BCMS.0045</field>
+     <field name="series_sim">Series 1: Administration</field>
+-    <field name="series_si">Series 1: Administration &gt;&gt; Treasurer's Reports</field>
+-    <field name="heading_ssm">Treasurer's Reports</field>
++    <field name="series_si">Series 1: Administration &gt;&gt; Treasurer&#39;s Reports</field>
++    <field name="heading_ssm">Treasurer&#39;s Reports</field>
+     <field name="unitdate_ssm">1936-1945</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

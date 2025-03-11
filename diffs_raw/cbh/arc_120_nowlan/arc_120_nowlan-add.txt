@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Donald L. Nowlan Brooklyn collection</field>
+     <field name="unitid_teim">ARC.120</field>
+     <field name="unitid_ssm">ARC.120</field>
+-    <field name="abstract_teim">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan's high school and college years in Brooklyn, N.Y. and to Nowlan's effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s.</field>
+-    <field name="abstract_ssm">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan's high school and college years in Brooklyn, N.Y. and to Nowlan's effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s.</field>
++    <field name="abstract_teim">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan&#39;s high school and college years in Brooklyn, N.Y. and to Nowlan&#39;s effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s.</field>
++    <field name="abstract_ssm">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan&#39;s high school and college years in Brooklyn, N.Y. and to Nowlan&#39;s effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s.</field>
+     <field name="creator_teim">Nowlan, Donald L.</field>
+     <field name="creator_ssm">Nowlan, Donald L.</field>
+     <field name="creator_ssm">Nowlan, Donald L.</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1930/1979</field>
+     <field name="unitdate_normal_sim">1930/1979</field>
+     <field name="unitdate_inclusive_teim">1930-1979</field>
+-    <field name="scopecontent_teim">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan's high school and college years in Brooklyn, N.Y. and to Nowlan's effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s. The collection is organized into three series: Series 1: Papers; Series 2: Photographs and slides; and Series 3: Picture postcards.</field>
++    <field name="scopecontent_teim">The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan&#39;s high school and college years in Brooklyn, N.Y. and to Nowlan&#39;s effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s. The collection is organized into three series: Series 1: Papers; Series 2: Photographs and slides; and Series 3: Picture postcards.</field>
+     <field name="bioghist_teim">Donald L. Nowlan (b. circa 1921) is a Brooklyn resident who attended Brooklyn schools from elementary school through university. Nowlan went to Saint Saviour Elementary School located in the Park Slope neighborhood of Brooklyn. He graduated high school in 1939 from Manual Training High School (now the Secondary School for Law, Journalism and Research) also in Park Slope. Following his high school graduation, Nowlan served in the 12th Armored Division, 56th Armored Infantry Battalion, Company HQ during World War II. Known as the Hellcats, the 12th Armored Division helped to liberate 10 satellite camps of the Dachau concentration camp that was located in Germany. Following his military service, Nowlan attended Brooklyn College, located in the Midwood neighborhood of Brooklyn. He graduated in 1948 with a BA in Romance Languages. Nowlan grew up in Park Slope and lived at 470 3rd Street.</field>
+     <field name="acqinfo_teim">Gift of Donald L. Nowlan, 1987 and 1990.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -54,9 +54,9 @@
+     <field name="subject_teim">Commencement ceremonies |z New York (State) |z New York</field>
+     <field name="subject_teim">Student life and customs -- New York (State) -- New York</field>
+     <field name="subject_teim">College students -- New York (State) -- New York</field>
+-    <field name="subject_teim">Students -- New York (State) -- New York</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_teim">Commencement ceremonies -- New York (State) -- New York</field>
++    <field name="subject_teim">Students --New York (State) --New York</field>
++    <field name="subject_teim">High school students --New York (State) --New York</field>
++    <field name="subject_teim">Commencement ceremonies --New York (State) --New York</field>
+     <field name="subject_teim">Student life and customs -- New York (State) -- New York</field>
+     <field name="subject_teim">College students -- New York (State) -- New York</field>
+     <field name="subject_ssm">Students |z New York (State) |z New York</field>
+@@ -88,9 +88,9 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</field>
+     <field name="place_sim">Prospect Park (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Students -- New York (State) -- New York</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_sim">Commencement ceremonies -- New York (State) -- New York</field>
++    <field name="subject_sim">Students --New York (State) --New York</field>
++    <field name="subject_sim">High school students --New York (State) --New York</field>
++    <field name="subject_sim">Commencement ceremonies --New York (State) --New York</field>
+     <field name="subject_sim">Student life and customs -- New York (State) -- New York</field>
+     <field name="subject_sim">College students -- New York (State) -- New York</field>
+     <field name="material_type_sim">Color slides</field>

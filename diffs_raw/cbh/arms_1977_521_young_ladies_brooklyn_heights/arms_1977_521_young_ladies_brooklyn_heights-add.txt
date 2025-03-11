@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Institution for Young Ladies on Brooklyn Heights advertisment</field>
+     <field name="unitid_teim">1977.521</field>
+     <field name="unitid_ssm">1977.521</field>
+-    <field name="abstract_teim">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school's tuition, location, and curriculum. The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf.</field>
+-    <field name="abstract_ssm">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school's tuition, location, and curriculum. The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf.</field>
++    <field name="abstract_teim">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school&#39;s tuition, location, and curriculum. The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf.</field>
++    <field name="abstract_ssm">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school&#39;s tuition, location, and curriculum. The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf.</field>
+     <field name="creator_teim">Institution for Young Ladies on Brooklyn Heights</field>
+     <field name="creator_ssm">Institution for Young Ladies on Brooklyn Heights</field>
+     <field name="creator_ssm">Institution for Young Ladies on Brooklyn Heights</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1840/1869</field>
+     <field name="unitdate_normal_sim">1840/1869</field>
+     <field name="unitdate_inclusive_teim">circa 1850 to 1859</field>
+-    <field name="scopecontent_teim">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school's tuition, location, and curriculum.</field>
+-    <field name="bioghist_teim">The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf. Located at 106 Pierrepont Street at Clinton Street, it was a well-known girls' school that catered to wealthy Brooklyn families.</field>
++    <field name="scopecontent_teim">Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school&#39;s tuition, location, and curriculum.</field>
++    <field name="bioghist_teim">The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf. Located at 106 Pierrepont Street at Clinton Street, it was a well-known girls&#39; school that catered to wealthy Brooklyn families.</field>
+     <field name="acqinfo_teim">Gift of the New Hampshire Historical Society, 1965.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Institution for Young Ladies on Brooklyn Heights</field>
+@@ -33,13 +33,13 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls' schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls&#39; schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Single-sex schools -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_ssm">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_ssm">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="collection_sim">Institution for Young Ladies on Brooklyn Heights advertisment</field>
+     <field name="collection_ssm">Institution for Young Ladies on Brooklyn Heights advertisment</field>
+     <field name="collection_teim">Institution for Young Ladies on Brooklyn Heights advertisment</field>
+@@ -58,7 +58,7 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Girls -- Education (Primary) -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Single-sex schools -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Girls' schools -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Girls&#39; schools -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Advertisements</field>
+     <field name="material_type_ssm">Advertisements</field>
+     <field name="heading_ssm">Institution for Young Ladies on Brooklyn Heights advertisment</field>

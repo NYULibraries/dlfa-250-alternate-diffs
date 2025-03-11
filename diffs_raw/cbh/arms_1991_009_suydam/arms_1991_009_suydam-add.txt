@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,15 +34,15 @@
+     <field name="subject_teim">Deeds</field>
+     <field name="subject_teim">Power of attorney |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Real property |x Ownership |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Decedents' estates |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Power of attorney -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- Ownership -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Deeds</field>
++    <field name="subject_teim">Power of attorney --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --Ownership --New York (State) --Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates --New York (State) --Kings County</field>
+     <field name="subject_ssm">Deeds</field>
+     <field name="subject_ssm">Power of attorney |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real property |x Ownership |z New York (State) |z Kings County</field>
+-    <field name="subject_ssm">Decedents' estates |z New York (State) |z Kings County</field>
++    <field name="subject_ssm">Decedents&#39; estates |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Hendrick H. Suydam papers</field>
+     <field name="collection_ssm">Hendrick H. Suydam papers</field>
+     <field name="collection_teim">Hendrick H. Suydam papers</field>
+@@ -60,9 +60,9 @@
+     <field name="place_sim">Flatbush (New York, N.Y.)</field>
+     <field name="place_sim">Gravesend (New York, N.Y.)</field>
+     <field name="subject_sim">Deeds</field>
+-    <field name="subject_sim">Power of attorney -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- Ownership -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Power of attorney --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --Ownership --New York (State) --Kings County</field>
++    <field name="subject_sim">Decedents&#39; estates --New York (State) --Kings County</field>
+     <field name="material_type_sim">Discharges</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_ssm">Discharges</field>

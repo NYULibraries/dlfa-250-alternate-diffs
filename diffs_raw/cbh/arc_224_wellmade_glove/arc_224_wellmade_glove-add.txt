@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -58,9 +58,9 @@
+     <field name="subject_teim">Leather garments industry |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Glove industry |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Businessmen |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Leather garments industry -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Glove industry -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Businessmen -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Leather garments industry --New York (State) --Kings County</field>
++    <field name="subject_teim">Glove industry --New York (State) --Kings County</field>
++    <field name="subject_teim">Businessmen --New York (State) --Kings County</field>
+     <field name="subject_ssm">Leather garments industry |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Glove industry |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Businessmen |z New York (State) |z Kings County</field>
+@@ -83,10 +83,10 @@
+     <field name="name_teim">Wellmade Glove (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Lebman, Louis</field>
+     <field name="place_sim">Park Slope (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Commerce</field>
+-    <field name="subject_sim">Leather garments industry -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Glove industry -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Businessmen -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Commerce</field>
++    <field name="subject_sim">Leather garments industry --New York (State) --Kings County</field>
++    <field name="subject_sim">Glove industry --New York (State) --Kings County</field>
++    <field name="subject_sim">Businessmen --New York (State) --Kings County</field>
+     <field name="material_type_sim">Contracts</field>
+     <field name="material_type_sim">Tax records</field>
+     <field name="material_type_sim">Invoices</field>

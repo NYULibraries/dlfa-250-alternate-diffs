@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arc_128_girls_high_school</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Girls' High School collection</field>
+-    <field name="collection_ssm">Girls' High School collection</field>
++    <field name="collection_sim">Girls&#39; High School collection</field>
++    <field name="collection_ssm">Girls&#39; High School collection</field>
+     <field name="collection_unitid_ssm">ARC.128</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 2: Documents and photographs</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Girls' High School collection</field>
++    <field name="collection_teim">Girls&#39; High School collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">ARC.128</field>
+     <field name="series_si">Series 2: Documents and photographs</field>
+     <field name="heading_ssm">Series 2: Documents and photographs</field>

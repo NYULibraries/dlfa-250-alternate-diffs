@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Downtown Brooklyn Development Association records</field>
+     <field name="collection_unitid_ssm">1979.021</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Fulton Street "EL" Removal Clippings</field>
+-    <field name="unittitle_teim">Fulton Street "EL" Removal Clippings</field>
++    <field name="unittitle_ssm">Fulton Street &#34;EL&#34; Removal Clippings</field>
++    <field name="unittitle_teim">Fulton Street &#34;EL&#34; Removal Clippings</field>
+     <field name="unitdate_normal_ssm">1929/1943</field>
+     <field name="unitdate_normal_ssm">1940/1940</field>
+     <field name="unitdate_normal_teim">1929/1943</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 6 of 9</field>
+     <field name="location_si">Box: 6 of 9</field>
+     <field name="collection_teim">Downtown Brooklyn Development Association records</field>
++    <field name="author_teim">Katherine Christensen</field>
+     <field name="collection_unitid_teim">1979.021</field>
+-    <field name="series_si">Fulton Street "EL" Removal Clippings</field>
+-    <field name="heading_ssm">Fulton Street "EL" Removal Clippings</field>
++    <field name="series_si">Fulton Street &#34;EL&#34; Removal Clippings</field>
++    <field name="heading_ssm">Fulton Street &#34;EL&#34; Removal Clippings</field>
+     <field name="unitdate_start_sim">1929</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1929</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1846/1846</field>
+     <field name="unitdate_normal_sim">1846/1846</field>
+     <field name="unitdate_teim">1846</field>
+-    <field name="scopecontent_teim">Mortgage made between Martha Middagh (née Martha Van Nostrand) and Cyrus Porter Smith and Abraham Van Nostrand, executors of the will of Martha's daughter Magdalen March deceased, conveying four lots on Brooklyn Heights, the mortgage signed by Martha Middagh, witnessed by Charles J. Lowrey and John M. Hicks.</field>
++    <field name="scopecontent_teim">Mortgage made between Martha Middagh (née Martha Van Nostrand) and Cyrus Porter Smith and Abraham Van Nostrand, executors of the will of Martha&#39;s daughter Magdalen March deceased, conveying four lots on Brooklyn Heights, the mortgage signed by Martha Middagh, witnessed by Charles J. Lowrey and John M. Hicks.</field>
+     <field name="ref_ssi">aspace_d5f1da0c1867241a3522b8645f090c7e</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 1, Folder: 16</field>
+     <field name="location_si">Box: 1, Folder: 16</field>
+     <field name="collection_teim">March, Middagh, and Sands families property records</field>
++    <field name="author_teim">Jonathan W. Montgomery</field>
+     <field name="collection_unitid_teim">1974.038</field>
+     <field name="series_si">Mortgage between Martha Middagh and the estate of Magdalen March</field>
+     <field name="heading_ssm">Mortgage between Martha Middagh and the estate of Magdalen March</field>

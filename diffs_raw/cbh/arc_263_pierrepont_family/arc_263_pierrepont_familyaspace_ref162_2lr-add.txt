@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1856/1888</field>
+     <field name="unitdate_normal_sim">1856/1888</field>
+     <field name="unitdate_inclusive_teim">1856-1888</field>
+-    <field name="scopecontent_teim">Each of fifteen order books lists the date of order, the date of the ship's arrival, cargo, client, account number, duty paid, and where or to whom the cargo was sent and when.  Entries sometimes included further instructions for the handling of cargo.  These volumes are most interesting in the fact that they allow for the tracing of a shipment from its arrival at the docks to its departure from the Pierrepont Stores, even listing the lighter that transported the cargo around the docks.</field>
++    <field name="scopecontent_teim">Each of fifteen order books lists the date of order, the date of the ship&#39;s arrival, cargo, client, account number, duty paid, and where or to whom the cargo was sent and when.  Entries sometimes included further instructions for the handling of cargo.  These volumes are most interesting in the fact that they allow for the tracing of a shipment from its arrival at the docks to its departure from the Pierrepont Stores, even listing the lighter that transported the cargo around the docks.</field>
+     <field name="ref_ssi">aspace_ref162_2lr</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Pierrepont family papers</field>
++    <field name="author_teim">Teresa Mora (1999), with modifications by Larry Weimer (2011).</field>
+     <field name="collection_unitid_teim">ARC.263</field>
+     <field name="series_sim">Series 4: Pierrepont Stores</field>
+     <field name="series_si">Series 4: Pierrepont Stores &gt;&gt; Sub-series 6: Order Books</field>

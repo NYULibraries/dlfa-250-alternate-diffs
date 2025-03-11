@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,7 +39,7 @@
+     <field name="subject_teim">Real estate business |z New York (State) |z Suffolk County</field>
+     <field name="subject_teim">Dwellings -- New York (State) -- Long Island</field>
+     <field name="subject_teim">Hotels -- New York (State) -- Long Island</field>
+-    <field name="subject_teim">Real estate business -- New York (State) -- Suffolk County</field>
++    <field name="subject_teim">Real estate business --New York (State) --Suffolk County</field>
+     <field name="subject_teim">Dwellings -- New York (State) -- Long Island</field>
+     <field name="subject_ssm">Hotels -- New York (State) -- Long Island</field>
+     <field name="subject_ssm">Real estate business |z New York (State) |z Suffolk County</field>
+@@ -64,7 +64,7 @@
+     <field name="place_sim">Long Island (N.Y.) -- History</field>
+     <field name="place_sim">Long Island (N.Y.) -- Pictorial works</field>
+     <field name="subject_sim">Hotels -- New York (State) -- Long Island</field>
+-    <field name="subject_sim">Real estate business -- New York (State) -- Suffolk County</field>
++    <field name="subject_sim">Real estate business --New York (State) --Suffolk County</field>
+     <field name="subject_sim">Dwellings -- New York (State) -- Long Island</field>
+     <field name="material_type_sim">Viewbooks</field>
+     <field name="material_type_ssm">Viewbooks</field>

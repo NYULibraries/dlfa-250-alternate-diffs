@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">AIDS/Brooklyn Exhibition collection</field>
+     <field name="collection_unitid_ssm">1993.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">National Museum of Health and Medicine, "What About AIDS?" workshop proceedings</field>
+-    <field name="unittitle_teim">National Museum of Health and Medicine, "What About AIDS?" workshop proceedings</field>
++    <field name="unittitle_ssm">National Museum of Health and Medicine, &#34;What About AIDS?&#34; workshop proceedings</field>
++    <field name="unittitle_teim">National Museum of Health and Medicine, &#34;What About AIDS?&#34; workshop proceedings</field>
+     <field name="unitdate_normal_ssm">1994/1994</field>
+     <field name="unitdate_normal_teim">1994/1994</field>
+     <field name="unitdate_normal_sim">1994/1994</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 4</field>
+     <field name="location_si">Box: 3, Folder: 4</field>
+     <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
++    <field name="author_teim">Brett Dion, Will Brown, Alice Griffin</field>
+     <field name="collection_unitid_teim">1993.001</field>
+     <field name="series_sim">Series 2: Collected materials</field>
+-    <field name="series_si">Series 2: Collected materials &gt;&gt; National Museum of Health and Medicine, "What About AIDS?" workshop proceedings</field>
+-    <field name="heading_ssm">National Museum of Health and Medicine, "What About AIDS?" workshop proceedings</field>
++    <field name="series_si">Series 2: Collected materials &gt;&gt; National Museum of Health and Medicine, &#34;What About AIDS?&#34; workshop proceedings</field>
++    <field name="heading_ssm">National Museum of Health and Medicine, &#34;What About AIDS?&#34; workshop proceedings</field>
+     <field name="unitdate_start_sim">1994</field>
+     <field name="unitdate_start_ssm">1994</field>
+     <field name="unitdate_start_si">1994</field>

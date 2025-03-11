@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"M" fabric patch</field>
+-    <field name="unittitle_teim">"M" fabric patch</field>
++    <field name="unittitle_ssm">&#34;M&#34; fabric patch</field>
++    <field name="unittitle_teim">&#34;M&#34; fabric patch</field>
+     <field name="unitdate_normal_ssm">1940/1960</field>
+     <field name="unitdate_normal_teim">1940/1960</field>
+     <field name="unitdate_normal_sim">1940/1960</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">James Madison High School</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; James Madison High School &gt;&gt; "M" fabric patch</field>
+-    <field name="heading_ssm">"M" fabric patch</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; James Madison High School &gt;&gt; &#34;M&#34; fabric patch</field>
++    <field name="heading_ssm">&#34;M&#34; fabric patch</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

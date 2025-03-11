@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The West Indian Carnival Documentation Project records</field>
+     <field name="collection_unitid_ssm">2010.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Clavery, Francis "Jackie"</field>
+-    <field name="unittitle_teim">Clavery, Francis "Jackie"</field>
++    <field name="unittitle_ssm">Clavery, Francis &#34;Jackie&#34;</field>
++    <field name="unittitle_teim">Clavery, Francis &#34;Jackie&#34;</field>
+     <field name="unitdate_normal_ssm">1994/1994</field>
+     <field name="unitdate_normal_teim">1994/1994</field>
+     <field name="unitdate_normal_sim">1994/1994</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">The West Indian Carnival Documentation Project records</field>
++    <field name="author_teim">Margaret Fraser and Brett Dion</field>
+     <field name="collection_unitid_teim">2010.019</field>
+     <field name="series_sim">Series 2: Oral History Transcripts</field>
+-    <field name="series_si">Series 2: Oral History Transcripts &gt;&gt; Clavery, Francis "Jackie"</field>
+-    <field name="heading_ssm">Clavery, Francis "Jackie"</field>
++    <field name="series_si">Series 2: Oral History Transcripts &gt;&gt; Clavery, Francis &#34;Jackie&#34;</field>
++    <field name="heading_ssm">Clavery, Francis &#34;Jackie&#34;</field>
+     <field name="unitdate_start_sim">1994</field>
+     <field name="unitdate_start_ssm">1994</field>
+     <field name="unitdate_start_si">1994</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0030</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The Blotter&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The Blotter
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Blotter&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Blotter</field>
+     <field name="unitdate_normal_ssm">1962-12/1963-12</field>
+     <field name="unitdate_normal_teim">1962-12/1963-12</field>
+     <field name="unitdate_normal_sim">1962-12/1963-12</field>
+@@ -33,14 +29,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian and revised by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0030</field>
+     <field name="series_sim">The Berkeley Institute</field>
+-    <field name="series_si">The Berkeley Institute &gt;&gt; 
+-      &lt;em&gt;The Blotter&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The Blotter
+-    </field>
++    <field name="series_si">The Berkeley Institute &gt;&gt; &lt;em&gt;The Blotter&lt;/em&gt;</field>
++    <field name="heading_ssm">The Blotter</field>
+     <field name="unitdate_ssm">Inclusive, December 1962 - December 1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">10</field>

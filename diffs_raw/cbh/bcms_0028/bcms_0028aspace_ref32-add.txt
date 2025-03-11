@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1956/1963</field>
+     <field name="unitdate_normal_sim">1956/1963</field>
+     <field name="unitdate_inclusive_teim">1956-1963</field>
+-    <field name="scopecontent_teim">The Brooklyn Daily provides coverage of political, business, education, arts and culture, sports, and community news for the entire borough of Brooklyn. National and international news coverage is also provided. A section called "In the Neighborhoods" provides neighborhood by neighborhood coverage of events, business promotions, hirings, graduations, meetings, and happenings. Wedding and engagement announcements appear as part of a "Social Notes" section. Birth announcements appear regularly in a "Brooklyn Babies" column. There is also a section dedicated to obituaries. The sports page provides consistent Dodgers coverage. A column entitled, "Glamour Corner" covers fashion and beauty trends in the borough.</field>
++    <field name="scopecontent_teim">The Brooklyn Daily provides coverage of political, business, education, arts and culture, sports, and community news for the entire borough of Brooklyn. National and international news coverage is also provided. A section called &#34;In the Neighborhoods&#34; provides neighborhood by neighborhood coverage of events, business promotions, hirings, graduations, meetings, and happenings. Wedding and engagement announcements appear as part of a &#34;Social Notes&#34; section. Birth announcements appear regularly in a &#34;Brooklyn Babies&#34; column. There is also a section dedicated to obituaries. The sports page provides consistent Dodgers coverage. A column entitled, &#34;Glamour Corner&#34; covers fashion and beauty trends in the borough.</field>
+     <field name="ref_ssi">aspace_ref32</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Case: Morgue microfilm shelves</field>
+     <field name="location_si">Case: Morgue microfilm shelves</field>
+     <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian; Olivia Morales Geaghan, Archivist; Revised and updated by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0028</field>
+     <field name="series_si">Brooklyn Daily</field>
+     <field name="heading_ssm">Brooklyn Daily</field>

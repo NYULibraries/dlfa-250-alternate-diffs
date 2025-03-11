@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="geogname_ssm">New York (N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Banks and banking |z New York (State) |z New York</field>
+-    <field name="subject_teim">Banks and banking -- New York (State) -- New York</field>
++    <field name="subject_teim">Banks and banking --New York (State) --New York</field>
+     <field name="subject_ssm">Banks and banking |z New York (State) |z New York</field>
+     <field name="collection_sim">National City Bank of New York postcards</field>
+     <field name="collection_ssm">National City Bank of New York postcards</field>
+@@ -42,7 +42,7 @@
+     <field name="name_teim">National City Bank of New York</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Banks and banking -- New York (State) -- New York</field>
++    <field name="subject_sim">Banks and banking --New York (State) --New York</field>
+     <field name="material_type_sim">Picture postcards</field>
+     <field name="material_type_ssm">Picture postcards</field>
+     <field name="heading_ssm">National City Bank of New York postcards</field>

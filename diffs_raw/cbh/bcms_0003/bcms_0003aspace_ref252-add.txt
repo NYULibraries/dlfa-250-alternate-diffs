@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"A Man's Amusements Should Be The Opposite of His Daily Occupation." – Henry Ward Beecher's Recent Lecture Illustrated. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">"A Man's Amusements Should Be The Opposite of His Daily Occupation." – Henry Ward Beecher's Recent Lecture Illustrated. Frank Leslie's Illustrated Newspaper</field>
++    <field name="unittitle_ssm">&#34;A Man&#39;s Amusements Should Be The Opposite of His Daily Occupation.&#34; – Henry Ward Beecher&#39;s Recent Lecture Illustrated. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">&#34;A Man&#39;s Amusements Should Be The Opposite of His Daily Occupation.&#34; – Henry Ward Beecher&#39;s Recent Lecture Illustrated. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_normal_ssm">1879-02-22/1879-02-22</field>
+     <field name="unitdate_normal_teim">1879-02-22/1879-02-22</field>
+     <field name="unitdate_normal_sim">1879-02-22/1879-02-22</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Beecher, Henry Ward</field>
+-    <field name="series_si">Beecher, Henry Ward &gt;&gt; "A Man's Amusements Should Be The Opposite of His Daily Occupation." – Henry Ward Beecher's Recent Lecture Illustrated. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">"A Man's Amusements Should Be The Opposite of His Daily Occupation." – Henry Ward Beecher's Recent Lecture Illustrated. Frank Leslie's Illustrated Newspaper</field>
++    <field name="series_si">Beecher, Henry Ward &gt;&gt; &#34;A Man&#39;s Amusements Should Be The Opposite of His Daily Occupation.&#34; – Henry Ward Beecher&#39;s Recent Lecture Illustrated. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">&#34;A Man&#39;s Amusements Should Be The Opposite of His Daily Occupation.&#34; – Henry Ward Beecher&#39;s Recent Lecture Illustrated. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_ssm">February 22, 1879</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">208</field>

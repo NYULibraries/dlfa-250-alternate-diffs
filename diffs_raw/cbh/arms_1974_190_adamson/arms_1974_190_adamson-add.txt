@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="persname_teim">Adamson, John</field>
+     <field name="persname_ssm">Adamson, John</field>
+     <field name="subject_teim">Soldiers |z New York (State)</field>
+-    <field name="subject_teim">Soldiers -- New York (State)</field>
++    <field name="subject_teim">Soldiers --New York (State)</field>
+     <field name="subject_ssm">Soldiers |z New York (State)</field>
+     <field name="collection_sim">John Adamson certificate of exemption from military duty</field>
+     <field name="collection_ssm">John Adamson certificate of exemption from military duty</field>
+@@ -46,7 +46,7 @@
+     <field name="name_sim">Adamson, John</field>
+     <field name="name_teim">New York State Artillery</field>
+     <field name="name_teim">Adamson, John</field>
+-    <field name="subject_sim">Soldiers -- New York (State)</field>
++    <field name="subject_sim">Soldiers --New York (State)</field>
+     <field name="material_type_sim">Certificates</field>
+     <field name="material_type_sim">Military records</field>
+     <field name="material_type_ssm">Certificates</field>
