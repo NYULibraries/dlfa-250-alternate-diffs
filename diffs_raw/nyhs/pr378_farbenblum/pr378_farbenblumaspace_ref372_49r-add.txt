@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Film Set: Crimes of the Heart</field>
+     <field name="unittitle_teim">Film Set: Crimes of the Heart</field>
+     <field name="unitdate_inclusive_teim">1986</field>
+-    <field name="scopecontent_teim">photos of Diane Keaton, Sissy Spacek, and Jessica Lange on the set of the film "Crimes of the Heart." The photographs were taken by Annie Leibovitz.</field>
++    <field name="scopecontent_teim">photos of Diane Keaton, Sissy Spacek, and Jessica Lange on the set of the film &#34;Crimes of the Heart.&#34; The photographs were taken by Annie Leibovitz.</field>
+     <field name="ref_ssi">aspace_ref372_49r</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 6, Folder: 11</field>
+     <field name="location_si">Box: 6, Folder: 11</field>
+     <field name="collection_teim">Edward Farbenblum and Orly Lieberman collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 378</field>
+     <field name="series_sim">Series II. Hollywood Film</field>
+     <field name="series_si">Series II. Hollywood Film &gt;&gt; Film Set: Crimes of the Heart</field>

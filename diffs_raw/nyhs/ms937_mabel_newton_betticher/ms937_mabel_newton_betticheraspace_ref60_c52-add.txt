@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Poems</field>
+     <field name="unittitle_teim">Series II: Poems</field>
+     <field name="unitdate_inclusive_teim">1907-1944</field>
+-    <field name="scopecontent_teim">The poetry diaries (1907-1944) contain Mabel's poetry, written almost exclusively on the themes of nature and religion.</field>
++    <field name="scopecontent_teim">The poetry diaries (1907-1944) contain Mabel&#39;s poetry, written almost exclusively on the themes of nature and religion.</field>
+     <field name="ref_ssi">aspace_ref60_c52</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Mabel Newton Betticher papers</field>
++    <field name="author_teim">Processed by Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 937</field>
+     <field name="series_si">Series II: Poems</field>
+     <field name="heading_ssm">Series II: Poems</field>

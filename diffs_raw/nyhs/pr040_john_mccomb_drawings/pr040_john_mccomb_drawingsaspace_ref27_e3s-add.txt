@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">John McComb architectural drawings collection</field>
+     <field name="collection_unitid_ssm">PR 40</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Alms House, attributed ink, UC: "This Plan - covers an Area of 5376 Feet"</field>
+-    <field name="unittitle_teim">Alms House, attributed ink, UC: "This Plan - covers an Area of 5376 Feet"</field>
++    <field name="unittitle_ssm">Alms House, attributed ink, UC: &#34;This Plan - covers an Area of 5376 Feet&#34;</field>
++    <field name="unittitle_teim">Alms House, attributed ink, UC: &#34;This Plan - covers an Area of 5376 Feet&#34;</field>
+     <field name="ref_ssi">aspace_ref27_e3s</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: McComb Oversize Drawer, item: 413</field>
+     <field name="location_si">Box: McComb Oversize Drawer, item: 413</field>
+     <field name="collection_teim">John McComb architectural drawings collection</field>
++    <field name="author_teim">Jenny Gotwals and Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 40</field>
+-    <field name="series_si">Alms House, attributed ink, UC: "This Plan - covers an Area of 5376 Feet"</field>
+-    <field name="heading_ssm">Alms House, attributed ink, UC: "This Plan - covers an Area of 5376 Feet"</field>
++    <field name="series_si">Alms House, attributed ink, UC: &#34;This Plan - covers an Area of 5376 Feet&#34;</field>
++    <field name="heading_ssm">Alms House, attributed ink, UC: &#34;This Plan - covers an Area of 5376 Feet&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">20</field>
+   </doc>

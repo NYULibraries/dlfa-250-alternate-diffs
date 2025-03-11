@@ -1,0 +1,70 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,29 +16,49 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (medium) "B"</field>
+-    <field name="unittitle_teim">Individuals (medium) "B"</field>
++    <field name="unittitle_ssm">Individuals (medium) &#34;B&#34;</field>
++    <field name="unittitle_teim">Individuals (medium) &#34;B&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Banci, Alessandro
++
+ Bancroft, Squire
++
+ Barrett, Lawrence
++
+ Barry, Billy
++
+ Barrymore, Ethel
++
+ Baxter, Pete
++
+ Behr, Carrie
++
+ Belasco, David
++
+ Bernhardt, Sarah
++
+ Booth (separate folder)
++
+ ....Booth, Agnes
++
+ ....Booth, Edwin (3 images)
++
+ ....Booth, John Wilkes (4 images)
++
+ ....Booth, Junius Brutus (2 images)
++
+ ....Booth, Rachel
++
+ Bowers. Mrs. D. P.
++
+ Brignoli, Pasquale
++
+ Brougham, John
++
+ Bryant, Dan
++
+ Bull, Ole (2 images)
++
+ Burton, William E. (William Evans)</field>
+     <field name="ref_ssi">aspace_83d1d4043b05976eacc0082dc28363f0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -49,11 +69,12 @@
+     <field name="location_ssm">drawer: Medium</field>
+     <field name="location_si">drawer: Medium</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.B. Individuals (medium format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) "B"</field>
+-    <field name="heading_ssm">Individuals (medium) "B"</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) &#34;B&#34;</field>
++    <field name="heading_ssm">Individuals (medium) &#34;B&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">52</field>

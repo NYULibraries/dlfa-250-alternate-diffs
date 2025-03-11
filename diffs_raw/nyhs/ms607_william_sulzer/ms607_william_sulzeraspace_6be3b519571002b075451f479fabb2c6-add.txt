@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Wood blocks</field>
+     <field name="unittitle_teim">Wood blocks</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Most, though not all, appear to be images of Sulzer. There is a small wood block for printing the American Party's Liberty Bell symbol.</field>
++    <field name="scopecontent_teim">Most, though not all, appear to be images of Sulzer. There is a small wood block for printing the American Party&#39;s Liberty Bell symbol.</field>
+     <field name="ref_ssi">aspace_6be3b519571002b075451f479fabb2c6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 32</field>
+     <field name="location_si">Offsite-Box: 32</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Wood blocks</field>
+     <field name="heading_ssm">Wood blocks</field>

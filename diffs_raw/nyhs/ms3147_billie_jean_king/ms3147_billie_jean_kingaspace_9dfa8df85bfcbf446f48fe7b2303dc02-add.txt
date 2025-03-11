@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">JPMorgan Asset Management</field>
+     <field name="unittitle_teim">JPMorgan Asset Management</field>
+     <field name="unitdate_teim">2007 August 27</field>
+-    <field name="scopecontent_teim">Contains BJK's typed remarks for JPMorgan Asset Management event at the US Open. Remarks include thanks to JPMorgan for support and sponsorship of the US Open, history of the US Open, and comments on the upcoming matches.</field>
++    <field name="scopecontent_teim">Contains BJK&#39;s typed remarks for JPMorgan Asset Management event at the US Open. Remarks include thanks to JPMorgan for support and sponsorship of the US Open, history of the US Open, and comments on the upcoming matches.</field>
+     <field name="ref_ssi">aspace_9dfa8df85bfcbf446f48fe7b2303dc02</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 47</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 47</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; JPMorgan Asset Management</field>

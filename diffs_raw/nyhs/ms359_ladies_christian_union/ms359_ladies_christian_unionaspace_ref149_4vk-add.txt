@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,12 +12,12 @@
+     <field name="parent_unittitles_teim">Subseries 1: Lists of Boarders, 1860-1870, undated</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ladies' Christian Union Records</field>
+-    <field name="collection_ssm">Ladies' Christian Union Records</field>
++    <field name="collection_sim">Ladies&#39; Christian Union Records</field>
++    <field name="collection_ssm">Ladies&#39; Christian Union Records</field>
+     <field name="collection_unitid_ssm">MS 359</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">List of Boarders (describes woman's individual situation and profession)</field>
+-    <field name="unittitle_teim">List of Boarders (describes woman's individual situation and profession)</field>
++    <field name="unittitle_ssm">List of Boarders (describes woman&#39;s individual situation and profession)</field>
++    <field name="unittitle_teim">List of Boarders (describes woman&#39;s individual situation and profession)</field>
+     <field name="unitdate_normal_ssm">1864/1870</field>
+     <field name="unitdate_normal_teim">1864/1870</field>
+     <field name="unitdate_normal_sim">1864/1870</field>
+@@ -30,12 +30,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 9, Folder: 18</field>
+     <field name="location_si">Box: 9, Folder: 18</field>
+-    <field name="collection_teim">Ladies' Christian Union Records</field>
++    <field name="collection_teim">Ladies&#39; Christian Union Records</field>
++    <field name="author_teim">Processed by Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 359</field>
+     <field name="series_sim">Series VII: Lists of Boarders and Members of LCU</field>
+     <field name="series_sim">Subseries 1: Lists of Boarders, 1860-1870, undated</field>
+-    <field name="series_si">Series VII: Lists of Boarders and Members of LCU &gt;&gt; Subseries 1: Lists of Boarders, 1860-1870, undated &gt;&gt; List of Boarders (describes woman's individual situation and profession)</field>
+-    <field name="heading_ssm">List of Boarders (describes woman's individual situation and profession)</field>
++    <field name="series_si">Series VII: Lists of Boarders and Members of LCU &gt;&gt; Subseries 1: Lists of Boarders, 1860-1870, undated &gt;&gt; List of Boarders (describes woman&#39;s individual situation and profession)</field>
++    <field name="heading_ssm">List of Boarders (describes woman&#39;s individual situation and profession)</field>
+     <field name="unitdate_start_sim">1864</field>
+     <field name="unitdate_start_ssm">1864</field>
+     <field name="unitdate_start_si">1864</field>

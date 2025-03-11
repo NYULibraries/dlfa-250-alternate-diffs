@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Europe, February 3 to June 9th, 1913</field>
+     <field name="unittitle_teim">Europe, February 3 to June 9th, 1913</field>
+     <field name="unitdate_inclusive_teim">1913</field>
+-    <field name="scopecontent_teim">Robinson, Pauline, compiler. Views on board ships, including the" Auguste Victoria," and views in Madeira, Spain, including La Alhambra, Granada; Algeria; the Riviera, including views of touring cars; Sicily; Italy including Rome, Florence, Venice and Lake Como; Malta; Greece; Syria, including views at train station and market; Jerusalem; Egypt; group portraits, views in gardens, at ruins and other sites, ship-board scenes.</field>
++    <field name="scopecontent_teim">Robinson, Pauline, compiler. Views on board ships, including the&#34; Auguste Victoria,&#34; and views in Madeira, Spain, including La Alhambra, Granada; Algeria; the Riviera, including views of touring cars; Sicily; Italy including Rome, Florence, Venice and Lake Como; Malta; Greece; Syria, including views at train station and market; Jerusalem; Egypt; group portraits, views in gardens, at ruins and other sites, ship-board scenes.</field>
+     <field name="ref_ssi">aspace_ref339_ojn</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Volume: 105</field>
+     <field name="location_si">Offsite-Box: 11, Volume: 105</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">Europe, February 3 to June 9th, 1913</field>
+     <field name="heading_ssm">Europe, February 3 to June 9th, 1913</field>

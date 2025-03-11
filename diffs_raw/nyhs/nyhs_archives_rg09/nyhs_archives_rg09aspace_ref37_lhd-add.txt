@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society membership records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Loose Documents from Treasurer's Register</field>
+-    <field name="unittitle_teim">Loose Documents from Treasurer's Register</field>
++    <field name="unittitle_ssm">Loose Documents from Treasurer&#39;s Register</field>
++    <field name="unittitle_teim">Loose Documents from Treasurer&#39;s Register</field>
+     <field name="unitdate_teim">1908-1909</field>
+-    <field name="scopecontent_teim">Includes documents found loose inside the covers of the Treasurer's Register for 1900-1909, including notes on member mailings concerning dues, dues in arrears, and a summary of dues collected from annual and life members 1868-1908. Includes a public "circular of information" describing the N-YHS galleries, circa 1909.</field>
++    <field name="scopecontent_teim">Includes documents found loose inside the covers of the Treasurer&#39;s Register for 1900-1909, including notes on member mailings concerning dues, dues in arrears, and a summary of dues collected from annual and life members 1868-1908. Includes a public &#34;circular of information&#34; describing the N-YHS galleries, circa 1909.</field>
+     <field name="ref_ssi">aspace_ref37_lhd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">New-York Historical Society membership records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 9</field>
+     <field name="series_sim">Series I. Registers</field>
+-    <field name="series_si">Series I. Registers &gt;&gt; Loose Documents from Treasurer's Register</field>
+-    <field name="heading_ssm">Loose Documents from Treasurer's Register</field>
++    <field name="series_si">Series I. Registers &gt;&gt; Loose Documents from Treasurer&#39;s Register</field>
++    <field name="heading_ssm">Loose Documents from Treasurer&#39;s Register</field>
+     <field name="unitdate_ssm">1908-1909</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">13</field>

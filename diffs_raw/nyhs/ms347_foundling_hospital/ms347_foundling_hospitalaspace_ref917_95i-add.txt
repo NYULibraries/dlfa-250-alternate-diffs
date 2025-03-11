@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Appeal: "Help us maintain this crib"</field>
+-    <field name="unittitle_teim">Appeal: "Help us maintain this crib"</field>
++    <field name="unittitle_ssm">Appeal: &#34;Help us maintain this crib&#34;</field>
++    <field name="unittitle_teim">Appeal: &#34;Help us maintain this crib&#34;</field>
+     <field name="unitdate_teim">circa 1925</field>
+     <field name="ref_ssi">aspace_ref917_95i</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 52, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 52, Folder: 2</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009</field>
+     <field name="series_sim">Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007</field>
+-    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007 &gt;&gt; Appeal: "Help us maintain this crib"</field>
+-    <field name="heading_ssm">Appeal: "Help us maintain this crib"</field>
++    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007 &gt;&gt; Appeal: &#34;Help us maintain this crib&#34;</field>
++    <field name="heading_ssm">Appeal: &#34;Help us maintain this crib&#34;</field>
+     <field name="unitdate_ssm">circa 1925</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">831</field>

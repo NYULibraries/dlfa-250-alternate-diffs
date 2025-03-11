@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Transportation</field>
+     <field name="unittitle_teim">Transportation</field>
+-    <field name="scopecontent_teim">Transportation contains a variety of views of public transportation in the New York area, including buses, elevated railroads, railroad stations, street railroads, and subway station entrances. Especially notable are Browning's photographs of Grand Central Terminal and McKim, Mead &amp; White's Pennsylvania Station.</field>
++    <field name="scopecontent_teim">Transportation contains a variety of views of public transportation in the New York area, including buses, elevated railroads, railroad stations, street railroads, and subway station entrances. Especially notable are Browning&#39;s photographs of Grand Central Terminal and McKim, Mead &amp; White&#39;s Pennsylvania Station.</field>
+     <field name="ref_ssi">aspace_ref433_x1s</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Browning photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 9</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_si">Series I. Photographs &gt;&gt; Transportation</field>

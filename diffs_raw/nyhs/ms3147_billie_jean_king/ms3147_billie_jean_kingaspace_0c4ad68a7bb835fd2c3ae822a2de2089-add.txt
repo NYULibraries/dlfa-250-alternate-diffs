@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Merrill Lynch diversity and inclusion conference</field>
+     <field name="unittitle_teim">Merrill Lynch diversity and inclusion conference</field>
+     <field name="unitdate_teim">2006 October 23</field>
+-    <field name="scopecontent_teim">Contains BJK's typed remarks with handwritten notes. Topics of remarks include personal challenges and milestones, progress towards LGBTQ inclusion in the workplace, and the importance of visibility.</field>
++    <field name="scopecontent_teim">Contains BJK&#39;s typed remarks with handwritten notes. Topics of remarks include personal challenges and milestones, progress towards LGBTQ inclusion in the workplace, and the importance of visibility.</field>
+     <field name="ref_ssi">aspace_0c4ad68a7bb835fd2c3ae822a2de2089</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 10</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; Merrill Lynch diversity and inclusion conference</field>

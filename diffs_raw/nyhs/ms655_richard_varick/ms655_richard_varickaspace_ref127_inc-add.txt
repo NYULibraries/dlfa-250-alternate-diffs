@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV: Accounts, Bills, Receipts</field>
+     <field name="unittitle_teim">Series IV: Accounts, Bills, Receipts</field>
+-    <field name="scopecontent_teim">This series contains a multitude of bills, receipts and accounts, the majority dating from and relating to Varick's time in military service during the Revolutionary War. In addition, there are a number of bills and receipts from New York tradesmen for property repairs.</field>
++    <field name="scopecontent_teim">This series contains a multitude of bills, receipts and accounts, the majority dating from and relating to Varick&#39;s time in military service during the Revolutionary War. In addition, there are a number of bills and receipts from New York tradesmen for property repairs.</field>
+     <field name="ref_ssi">aspace_ref127_inc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Richard Varick Papers</field>
++    <field name="author_teim">Shannon Yule</field>
+     <field name="collection_unitid_teim">MS 655</field>
+     <field name="series_si">Series IV: Accounts, Bills, Receipts</field>
+     <field name="heading_ssm">Series IV: Accounts, Bills, Receipts</field>

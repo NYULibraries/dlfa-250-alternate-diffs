@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Hicks Daybook </field>
+     <field name="unittitle_teim">Hicks Daybook </field>
+     <field name="unitdate_inclusive_teim">1791-1792</field>
+-    <field name="scopecontent_teim">This book was a daybook used by Isaac Hicks when he was a part of Alsop and Hicks.  This daybook was used by Hicks to record daily transactions with his business.  The entries are ordered chronologically rather than by individual or ship name.  It also appears that this book was used later for pressing leaves and flowers, and has the name 'Freddie Herbert Cocks' in the cover, as well as on some pages in a child's handwriting. The leaves and flowers have been removed from the pages and are included in mylar in the box.</field>
++    <field name="scopecontent_teim">This book was a daybook used by Isaac Hicks when he was a part of Alsop and Hicks.  This daybook was used by Hicks to record daily transactions with his business.  The entries are ordered chronologically rather than by individual or ship name.  It also appears that this book was used later for pressing leaves and flowers, and has the name &#39;Freddie Herbert Cocks&#39; in the cover, as well as on some pages in a child&#39;s handwriting. The leaves and flowers have been removed from the pages and are included in mylar in the box.</field>
+     <field name="ref_ssi">aspace_657f68ccecf5e95f3138a928a09d4eae</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 91</field>
+     <field name="location_si">Box: 91</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Daybook </field>

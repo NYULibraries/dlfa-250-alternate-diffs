@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the 1948 election voting study in Elmira, New York</field>
+     <field name="collection_unitid_ssm">MS 196</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Students' Questionnaire]</field>
+-    <field name="unittitle_teim">[Students' Questionnaire]</field>
++    <field name="unittitle_ssm">[Students&#39; Questionnaire]</field>
++    <field name="unittitle_teim">[Students&#39; Questionnaire]</field>
+     <field name="unitdate_teim">1965 April</field>
+     <field name="scopecontent_teim">Includes one survey of a 10th grade student from Madison High School in New Jersey concerning public high school education.</field>
+     <field name="ref_ssi">aspace_ref168_igx</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 36</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 36</field>
+     <field name="collection_teim">Records of the 1948 election voting study in Elmira, New York</field>
++    <field name="author_teim">Jiyang Chun</field>
+     <field name="collection_unitid_teim">MS 196</field>
+     <field name="series_sim">Series I. General Project Documents</field>
+-    <field name="series_si">Series I. General Project Documents &gt;&gt; [Students' Questionnaire]</field>
+-    <field name="heading_ssm">[Students' Questionnaire]</field>
++    <field name="series_si">Series I. General Project Documents &gt;&gt; [Students&#39; Questionnaire]</field>
++    <field name="heading_ssm">[Students&#39; Questionnaire]</field>
+     <field name="unitdate_ssm">1965 April</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">149</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Empire City Subway Company [Restricted]</field>
+     <field name="unittitle_teim">Empire City Subway Company [Restricted]</field>
+     <field name="unitdate_teim">1965-1970</field>
+-    <field name="scopecontent_teim">Includes a 1907 volume of the "Bulletin of the New York Edison Company."</field>
++    <field name="scopecontent_teim">Includes a 1907 volume of the &#34;Bulletin of the New York Edison Company.&#34;</field>
+     <field name="ref_ssi">aspace_ref234_k6s</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: R30</field>
+     <field name="location_si">Offsite-Box: R30</field>
+     <field name="collection_teim">Time Inc. Video Group Records</field>
++    <field name="author_teim">Samantha Brown and Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3009-RG 41</field>
+     <field name="series_sim">Series XI. Community Antenna Television/Sterling Communications Inc. Files</field>
+     <field name="series_sim">Subseries XI.A. Charles F. Dolan Sterling Subject Files</field>

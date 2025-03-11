@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">John F. Ahearn papers</field>
+     <field name="collection_unitid_ssm">MS 3074</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Letterpress copybook | "President Personal. From February 2, 1905 to November 14, 1905."</field>
+-    <field name="unittitle_teim">Letterpress copybook | "President Personal. From February 2, 1905 to November 14, 1905."</field>
++    <field name="unittitle_ssm">Letterpress copybook | &#34;President Personal. From February 2, 1905 to November 14, 1905.&#34;</field>
++    <field name="unittitle_teim">Letterpress copybook | &#34;President Personal. From February 2, 1905 to November 14, 1905.&#34;</field>
+     <field name="unitdate_inclusive_teim">1905</field>
+     <field name="ref_ssi">aspace_98216d23552d4261e861c62a4933e5cf</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Volume: 2</field>
+     <field name="location_si">Box: 1, Volume: 2</field>
+     <field name="collection_teim">John F. Ahearn papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3074</field>
+-    <field name="series_si">Letterpress copybook | "President Personal. From February 2, 1905 to November 14, 1905."</field>
+-    <field name="heading_ssm">Letterpress copybook | "President Personal. From February 2, 1905 to November 14, 1905."</field>
++    <field name="series_si">Letterpress copybook | &#34;President Personal. From February 2, 1905 to November 14, 1905.&#34;</field>
++    <field name="heading_ssm">Letterpress copybook | &#34;President Personal. From February 2, 1905 to November 14, 1905.&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1905</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

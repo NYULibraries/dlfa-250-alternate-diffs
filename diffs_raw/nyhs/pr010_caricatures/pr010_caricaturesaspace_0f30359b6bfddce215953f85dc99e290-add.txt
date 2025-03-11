@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,15 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Mayor: "As I was saying when I was so very happily interrupted—"</field>
+-    <field name="unittitle_teim">The Mayor: "As I was saying when I was so very happily interrupted—"</field>
++    <field name="unittitle_ssm">The Mayor: &#34;As I was saying when I was so very happily interrupted—&#34;</field>
++    <field name="unittitle_teim">The Mayor: &#34;As I was saying when I was so very happily interrupted—&#34;</field>
+     <field name="unitdate_inclusive_teim">circa 1958</field>
+     <field name="scopecontent_teim">Text, bottom left: Dept. of Buildings / Housing /Traffic / Power Houses
++
+ Text, bottom right: Piers / N.Y.C. vs Albany / City Budget / J.D. and Crime
+ 
++
++
+ Drawn by C. D. Batchelor (1888-1977) for the New York Daily News. Gift of the artist, 1958.</field>
+     <field name="ref_ssi">aspace_0f30359b6bfddce215953f85dc99e290</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -29,10 +32,11 @@
+     <field name="location_ssm">Folder: FF-156, item: 1958-12</field>
+     <field name="location_si">Folder: FF-156, item: 1958-12</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; The Mayor: "As I was saying when I was so very happily interrupted—"</field>
+-    <field name="heading_ssm">The Mayor: "As I was saying when I was so very happily interrupted—"</field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; The Mayor: &#34;As I was saying when I was so very happily interrupted—&#34;</field>
++    <field name="heading_ssm">The Mayor: &#34;As I was saying when I was so very happily interrupted—&#34;</field>
+     <field name="unitdate_ssm">Inclusive, circa 1958</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1335</field>

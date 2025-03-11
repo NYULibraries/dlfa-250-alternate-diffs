@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">For Writing Anthology [folder]</field>
+     <field name="unittitle_teim">For Writing Anthology [folder]</field>
+     <field name="unitdate_inclusive_teim">before 1998?</field>
+-    <field name="scopecontent_teim">Material perhaps intended for Random Harvest (1998), a collection of Flexner's essays, reviews, and other writings.</field>
++    <field name="scopecontent_teim">Material perhaps intended for Random Harvest (1998), a collection of Flexner&#39;s essays, reviews, and other writings.</field>
+     <field name="ref_ssi">aspace_cdcb40025cde3ff1ec183205186034a6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 53</field>
+     <field name="location_si">Offsite-Box: 53</field>
+     <field name="collection_teim">James Thomas Flexner papers</field>
++    <field name="author_teim">Elise Winks and Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 220</field>
+     <field name="series_sim">Series XX. Miscellaneous correspondence and subject files</field>
+     <field name="series_si">Series XX. Miscellaneous correspondence and subject files &gt;&gt; For Writing Anthology [folder]</field>

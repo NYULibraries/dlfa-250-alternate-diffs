@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Effects of General Emancipation (Women's Enslavement to Fashion)</field>
+-    <field name="unittitle_teim">The Effects of General Emancipation (Women's Enslavement to Fashion)</field>
++    <field name="unittitle_ssm">The Effects of General Emancipation (Women&#39;s Enslavement to Fashion)</field>
++    <field name="unittitle_teim">The Effects of General Emancipation (Women&#39;s Enslavement to Fashion)</field>
+     <field name="unitdate_teim">1833</field>
+-    <field name="scopecontent_teim">Below: "Mrs. Kentelo's New Machine for Winding up the Ladies." Published by A. Imbert. Acquisition(?) date on back: Oct. 15, 1943 Beekman Family Assoc.</field>
++    <field name="scopecontent_teim">Below: &#34;Mrs. Kentelo&#39;s New Machine for Winding up the Ladies.&#34; Published by A. Imbert. Acquisition(?) date on back: Oct. 15, 1943 Beekman Family Assoc.</field>
+     <field name="ref_ssi">aspace_821b29d921d9c9a3a915ed13848f3d01</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-30, item: 1833-10</field>
+     <field name="location_si">Folder: FF-30, item: 1833-10</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series III. Jacksonian Period</field>
+-    <field name="series_si">Series III. Jacksonian Period &gt;&gt; The Effects of General Emancipation (Women's Enslavement to Fashion)</field>
+-    <field name="heading_ssm">The Effects of General Emancipation (Women's Enslavement to Fashion)</field>
++    <field name="series_si">Series III. Jacksonian Period &gt;&gt; The Effects of General Emancipation (Women&#39;s Enslavement to Fashion)</field>
++    <field name="heading_ssm">The Effects of General Emancipation (Women&#39;s Enslavement to Fashion)</field>
+     <field name="unitdate_ssm">1833</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">233</field>

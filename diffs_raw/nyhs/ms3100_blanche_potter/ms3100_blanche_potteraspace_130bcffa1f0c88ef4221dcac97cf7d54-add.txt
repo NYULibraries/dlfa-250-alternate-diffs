@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Photograph album #20</field>
+     <field name="unittitle_teim">Photograph album #20</field>
+     <field name="unitdate_inclusive_teim">1904 April</field>
+-    <field name="scopecontent_teim">From the dealer's notes: "104 photos, includes photos taken from the train in Spain; Amalfi, Island of Capri, Naples, Pompeii, Rome, Sorrento, and Vatican City, Italy; including photos of French President Emile Loubet's visit to King Victor Emmanuel III at Rome; amongst other places."</field>
++    <field name="scopecontent_teim">From the dealer&#39;s notes: &#34;104 photos, includes photos taken from the train in Spain; Amalfi, Island of Capri, Naples, Pompeii, Rome, Sorrento, and Vatican City, Italy; including photos of French President Emile Loubet&#39;s visit to King Victor Emmanuel III at Rome; amongst other places.&#34;</field>
+     <field name="ref_ssi">aspace_130bcffa1f0c88ef4221dcac97cf7d54</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 2</field>
+     <field name="collection_teim">Blanche Potter photograph albums and travel journals</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3100</field>
+     <field name="series_si">Photograph album #20</field>
+     <field name="heading_ssm">Photograph album #20</field>

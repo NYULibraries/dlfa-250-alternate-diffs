@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of Currier &amp; Ives prints</field>
+     <field name="collection_unitid_ssm">PR 230</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"New England Winter Scene"</field>
+-    <field name="unittitle_teim">"New England Winter Scene"</field>
++    <field name="unittitle_ssm">&#34;New England Winter Scene&#34;</field>
++    <field name="unittitle_teim">&#34;New England Winter Scene&#34;</field>
+     <field name="unitdate_teim">1861</field>
+     <field name="scopecontent_teim">Painted by Geo. H. Durrie.</field>
+     <field name="ref_ssi">aspace_70a26bc4abc32f4358bfcf6f72990e79</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Folder: FF-6</field>
+     <field name="location_si">Folder: FF-6</field>
+     <field name="collection_teim">New-York Historical Society collection of Currier &amp; Ives prints</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 230</field>
+-    <field name="series_si">"New England Winter Scene"</field>
+-    <field name="heading_ssm">"New England Winter Scene"</field>
++    <field name="series_si">&#34;New England Winter Scene&#34;</field>
++    <field name="heading_ssm">&#34;New England Winter Scene&#34;</field>
+     <field name="unitdate_ssm">1861</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">44</field>

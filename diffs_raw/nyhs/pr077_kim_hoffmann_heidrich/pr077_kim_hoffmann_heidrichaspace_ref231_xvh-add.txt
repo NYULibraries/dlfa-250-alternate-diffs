@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Kim Hoffmann Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 77</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Audrey [women's shop]</field>
+-    <field name="unittitle_teim">Audrey [women's shop]</field>
++    <field name="unittitle_ssm">Audrey [women&#39;s shop]</field>
++    <field name="unittitle_teim">Audrey [women&#39;s shop]</field>
+     <field name="unitdate_teim">1955</field>
+     <field name="ref_ssi">aspace_ref231_xvh</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 9, Folder: 169</field>
+     <field name="location_si">Offsite-Box: 9, Folder: 169</field>
+     <field name="collection_teim">Kim Hoffmann Photograph Collection</field>
++    <field name="author_teim">Processed by Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 77</field>
+     <field name="series_sim">Oversize Material</field>
+     <field name="series_sim">From Series I: Commercial and Professional Commissions</field>
+-    <field name="series_si">Oversize Material &gt;&gt; From Series I: Commercial and Professional Commissions &gt;&gt; Audrey [women's shop]</field>
+-    <field name="heading_ssm">Audrey [women's shop]</field>
++    <field name="series_si">Oversize Material &gt;&gt; From Series I: Commercial and Professional Commissions &gt;&gt; Audrey [women&#39;s shop]</field>
++    <field name="heading_ssm">Audrey [women&#39;s shop]</field>
+     <field name="unitdate_ssm">1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">176</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society Library Department records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 21</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Catalogue and Description of American Revolutionary Diaries"</field>
+-    <field name="unittitle_teim">"Catalogue and Description of American Revolutionary Diaries"</field>
++    <field name="unittitle_ssm">&#34;Catalogue and Description of American Revolutionary Diaries&#34;</field>
++    <field name="unittitle_teim">&#34;Catalogue and Description of American Revolutionary Diaries&#34;</field>
+     <field name="unitdate_teim">1922</field>
+-    <field name="scopecontent_teim">Includes William S. Thomas's manuscript version of this catalogue, the entries of which were published over several installments of the N-YHS Bulletin, beginning with the April 1922 issue. Much of the preparatory work for the entries was done by Thomas at N-YHS and many or most of the entries include N-YHS holdings, though there are non-N-YHS references as well.</field>
++    <field name="scopecontent_teim">Includes William S. Thomas&#39;s manuscript version of this catalogue, the entries of which were published over several installments of the N-YHS Bulletin, beginning with the April 1922 issue. Much of the preparatory work for the entries was done by Thomas at N-YHS and many or most of the entries include N-YHS holdings, though there are non-N-YHS references as well.</field>
+     <field name="ref_ssi">aspace_ref989_ssl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 25, Folder: 2</field>
+     <field name="location_si">Box: 25, Folder: 2</field>
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+     <field name="series_sim">Series I. Collection Descriptions &amp;amp; Inventories</field>
+     <field name="series_sim">Subseries I.B. Descriptions Prepared Outside N-YHS</field>
+-    <field name="series_si">Series I. Collection Descriptions &amp;amp; Inventories &gt;&gt; Subseries I.B. Descriptions Prepared Outside N-YHS &gt;&gt; "Catalogue and Description of American Revolutionary Diaries"</field>
+-    <field name="heading_ssm">"Catalogue and Description of American Revolutionary Diaries"</field>
++    <field name="series_si">Series I. Collection Descriptions &amp; Inventories &gt;&gt; Subseries I.B. Descriptions Prepared Outside N-YHS &gt;&gt; &#34;Catalogue and Description of American Revolutionary Diaries&#34;</field>
++    <field name="heading_ssm">&#34;Catalogue and Description of American Revolutionary Diaries&#34;</field>
+     <field name="unitdate_ssm">1922</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">123</field>

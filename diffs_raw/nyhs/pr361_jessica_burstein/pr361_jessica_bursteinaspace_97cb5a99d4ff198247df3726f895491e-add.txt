@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Jessica Burstein photographs and memorabilia</field>
+     <field name="collection_unitid_ssm">PR 361</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photographs. "&lt;em&gt;Law &amp;amp; Order&lt;/em&gt; Crime Scenes." Oversize Photo Proof Sheets</field>
+-    <field name="unittitle_teim">Photographs. "Law &amp; Order Crime Scenes." Oversize Photo Proof Sheets</field>
++    <field name="unittitle_ssm">Photographs. &#34;&lt;em&gt;Law &amp; Order&lt;/em&gt; Crime Scenes.&#34; Oversize Photo Proof Sheets</field>
++    <field name="unittitle_teim">Photographs. &#34;Law &amp; Order Crime Scenes.&#34; Oversize Photo Proof Sheets</field>
+     <field name="unitdate_inclusive_teim">2003</field>
+     <field name="scopecontent_teim">Two large sheets with multiple photographs from the book.</field>
+     <field name="ref_ssi">aspace_97cb5a99d4ff198247df3726f895491e</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-2</field>
+     <field name="location_si">Folder: FF-2</field>
+     <field name="collection_teim">Jessica Burstein photographs and memorabilia</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 361</field>
+     <field name="series_sim">Series III. Law &amp;amp; Order</field>
+-    <field name="series_si">Series III. Law &amp;amp; Order &gt;&gt; Photographs. "&lt;em&gt;Law &amp;amp; Order&lt;/em&gt; Crime Scenes." Oversize Photo Proof Sheets</field>
+-    <field name="heading_ssm">Photographs. "Law &amp; Order Crime Scenes." Oversize Photo Proof Sheets</field>
++    <field name="series_si">Series III. Law &amp; Order &gt;&gt; Photographs. &#34;&lt;em&gt;Law &amp; Order&lt;/em&gt; Crime Scenes.&#34; Oversize Photo Proof Sheets</field>
++    <field name="heading_ssm">Photographs. &#34;Law &amp; Order Crime Scenes.&#34; Oversize Photo Proof Sheets</field>
+     <field name="unitdate_ssm">Inclusive, 2003</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>

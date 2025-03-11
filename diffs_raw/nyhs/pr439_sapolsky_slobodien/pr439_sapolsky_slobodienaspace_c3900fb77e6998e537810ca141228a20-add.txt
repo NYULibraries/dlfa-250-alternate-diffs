@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series III: Longchamps</field>
+     <field name="unittitle_teim">Series III: Longchamps</field>
+     <field name="unitdate_inclusive_teim">1959-1966</field>
+-    <field name="scopecontent_teim">This series contains correspondence,  drawings, permits, and invoices related to Sapolsky and Slobodien's work for the New York City restaurant chain Longchamps</field>
++    <field name="scopecontent_teim">This series contains correspondence,  drawings, permits, and invoices related to Sapolsky and Slobodien&#39;s work for the New York City restaurant chain Longchamps</field>
+     <field name="ref_ssi">aspace_c3900fb77e6998e537810ca141228a20</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sapolsky and Slobodien Architecture collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 439</field>
+     <field name="series_si">Series III: Longchamps</field>
+     <field name="heading_ssm">Series III: Longchamps</field>

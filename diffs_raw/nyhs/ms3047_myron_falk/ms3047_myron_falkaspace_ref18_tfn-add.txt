@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">ms3047_myron_falk</field>
+     <field name="parent_ssi">aspace_ref12_3px</field>
+     <field name="parent_ssm">aspace_ref12_3px</field>
+-    <field name="parent_unittitles_ssm">Series I. Travel 
+-</field>
+-    <field name="parent_unittitles_teim">Series I. Travel 
+-</field>
++    <field name="parent_unittitles_ssm">Series I. Travel &amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series I. Travel &amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Myron S. Falk family papers</field>
+@@ -18,7 +16,7 @@
+     <field name="unittitle_ssm">American Silk Mission. Correspondence to children (3 folders)</field>
+     <field name="unittitle_teim">American Silk Mission. Correspondence to children (3 folders)</field>
+     <field name="unitdate_teim">1923</field>
+-    <field name="scopecontent_teim">Includes three typed transcripts of Falk's correspondence to his children during his trip with the American Silk Mission to China, Japan and Korea during 1923.  Includes, among other things, a description of a meeting with Dr. Sun Yat Sen, first provisional president of Republic of China and leader of the Chinese Nationalist Party.</field>
++    <field name="scopecontent_teim">Includes three typed transcripts of Falk&#39;s correspondence to his children during his trip with the American Silk Mission to China, Japan and Korea during 1923.  Includes, among other things, a description of a meeting with Dr. Sun Yat Sen, first provisional president of Republic of China and leader of the Chinese Nationalist Party.</field>
+     <field name="ref_ssi">aspace_ref18_tfn</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,9 +26,9 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 3-5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 3-5</field>
+     <field name="collection_teim">Myron S. Falk family papers</field>
++    <field name="author_teim">Alexandra Gomer (2018) and Larry Weimer (2021)</field>
+     <field name="collection_unitid_teim">MS 3047</field>
+-    <field name="series_sim">Series I. Travel 
+-</field>
++    <field name="series_sim">Series I. Travel &amp;#xA;</field>
+     <field name="series_si">Series I. Travel 
+  &gt;&gt; American Silk Mission. Correspondence to children (3 folders)</field>
+     <field name="heading_ssm">American Silk Mission. Correspondence to children (3 folders)</field>

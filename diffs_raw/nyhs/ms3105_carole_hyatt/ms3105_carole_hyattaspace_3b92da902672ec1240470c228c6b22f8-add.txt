@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Carole Hyatt papers</field>
+     <field name="collection_unitid_ssm">MS 3105</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Adachi. Woman '79 (1 tape/2 files)</field>
+-    <field name="unittitle_teim">Adachi. Woman '79 (1 tape/2 files)</field>
++    <field name="unittitle_ssm">Adachi. Woman &#39;79 (1 tape/2 files)</field>
++    <field name="unittitle_teim">Adachi. Woman &#39;79 (1 tape/2 files)</field>
+     <field name="unitdate_teim">1979</field>
+     <field name="scopecontent_teim">[On index, re: radio interviews]</field>
+     <field name="ref_ssi">aspace_3b92da902672ec1240470c228c6b22f8</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: T1, Item: 042</field>
+     <field name="location_si">Box: T1, Item: 042</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>
+-    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Adachi. Woman '79 (1 tape/2 files)</field>
+-    <field name="heading_ssm">Adachi. Woman '79 (1 tape/2 files)</field>
++    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Adachi. Woman &#39;79 (1 tape/2 files)</field>
++    <field name="heading_ssm">Adachi. Woman &#39;79 (1 tape/2 files)</field>
+     <field name="unitdate_ssm">1979</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">109</field>

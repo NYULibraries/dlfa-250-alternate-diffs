@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">NYC Public Spaces</field>
+     <field name="unittitle_teim">NYC Public Spaces</field>
+     <field name="unitdate_inclusive_teim">2000</field>
+-    <field name="scopecontent_teim">Original folder reads: "NYC granted through PGM 316 public spaces. Some are not open to the public - see NYT's list".</field>
++    <field name="scopecontent_teim">Original folder reads: &#34;NYC granted through PGM 316 public spaces. Some are not open to the public - see NYT&#39;s list&#34;.</field>
+     <field name="ref_ssi">aspace_9e93b039258b210d48ecaff4819b78f0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 1</field>
+     <field name="collection_teim">Carole De Saram papers</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3059</field>
+     <field name="series_sim">Series 1: Subject Files</field>
+     <field name="series_si">Series 1: Subject Files &gt;&gt; NYC Public Spaces</field>

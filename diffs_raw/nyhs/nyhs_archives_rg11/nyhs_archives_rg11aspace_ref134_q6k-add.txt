@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society manuscripts of lectures and addresses</field>
+     <field name="collection_unitid_ssm">NYHS-RG 11</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Henry C. Van Schaack. Alderman Benson's Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
+-    <field name="unittitle_teim">Henry C. Van Schaack. Alderman Benson's Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
++    <field name="unittitle_ssm">Henry C. Van Schaack. Alderman Benson&#39;s Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
++    <field name="unittitle_teim">Henry C. Van Schaack. Alderman Benson&#39;s Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
+     <field name="unitdate_teim">1869 April 6</field>
+     <field name="ref_ssi">aspace_ref134_q6k</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 3, Folder: 16</field>
+     <field name="location_si">Box: 3, Folder: 16</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+-    <field name="series_si">Henry C. Van Schaack. Alderman Benson's Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
+-    <field name="heading_ssm">Henry C. Van Schaack. Alderman Benson's Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
++    <field name="series_si">Henry C. Van Schaack. Alderman Benson&#39;s Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
++    <field name="heading_ssm">Henry C. Van Schaack. Alderman Benson&#39;s Memoir of the Benson Family, with an Introduction and Additional Paper in Reference to Judge Egbert Benson</field>
+     <field name="unitdate_ssm">1869 April 6</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">69</field>

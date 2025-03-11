@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Mary Coolidge Rentschler collection</field>
+     <field name="collection_unitid_ssm">MS 2999</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York World's Fair catalog</field>
+-    <field name="unittitle_teim">New York World's Fair catalog</field>
++    <field name="unittitle_ssm">New York World&#39;s Fair catalog</field>
++    <field name="unittitle_teim">New York World&#39;s Fair catalog</field>
+     <field name="unitdate_inclusive_teim">1940</field>
+-    <field name="scopecontent_teim">Masterpieces of Art catalogue from an exhibition at the New York World's Fair, 1940, in which the Rentschlers' lent an artwork. Letter from Waegen thanking them for their donation.</field>
++    <field name="scopecontent_teim">Masterpieces of Art catalogue from an exhibition at the New York World&#39;s Fair, 1940, in which the Rentschlers&#39; lent an artwork. Letter from Waegen thanking them for their donation.</field>
+     <field name="ref_ssi">aspace_b6b26774089ebaa861c3139849f26bf9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 2, Box: Mem-24</field>
+     <field name="location_si">Offsite-Box: 2, Box: Mem-24</field>
+     <field name="collection_teim">Mary Coolidge Rentschler collection</field>
++    <field name="author_teim">Helen Selsdon (outside archival consultant, 2002/2004); finding aid migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">MS 2999</field>
+     <field name="series_sim">Series I. Manuscripts and memorabilia</field>
+     <field name="series_sim">Subseries I.B. Mary Coolidge Rentschler (1892–1988) [MCR]</field>
+-    <field name="series_si">Series I. Manuscripts and memorabilia &gt;&gt; Subseries I.B. Mary Coolidge Rentschler (1892–1988) [MCR] &gt;&gt; New York World's Fair catalog</field>
+-    <field name="heading_ssm">New York World's Fair catalog</field>
++    <field name="series_si">Series I. Manuscripts and memorabilia &gt;&gt; Subseries I.B. Mary Coolidge Rentschler (1892–1988) [MCR] &gt;&gt; New York World&#39;s Fair catalog</field>
++    <field name="heading_ssm">New York World&#39;s Fair catalog</field>
+     <field name="unitdate_ssm">Inclusive, 1940</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">236</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr402_holzer_lincolniana</field>
+     <field name="parent_ssi">aspace_5f7118cba58c57a4378cf34485ae21f4</field>
+     <field name="parent_ssm">aspace_5f7118cba58c57a4378cf34485ae21f4</field>
+-    <field name="parent_unittitles_ssm">Series IV. Prints issued after Lincoln's death</field>
+-    <field name="parent_unittitles_teim">Series IV. Prints issued after Lincoln's death</field>
++    <field name="parent_unittitles_ssm">Series IV. Prints issued after Lincoln&amp;#39;s death</field>
++    <field name="parent_unittitles_teim">Series IV. Prints issued after Lincoln&amp;#39;s death</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Harold Holzer collection of Lincolniana</field>
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Harold Holzer collection of Lincolniana</field>
+     <field name="collection_unitid_ssm">PR 402</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Kurz &amp;amp; Allison. [Abraham Lincoln]</field>
++    <field name="unittitle_ssm">Kurz &amp; Allison. [Abraham Lincoln]</field>
+     <field name="unittitle_teim">Kurz &amp; Allison. [Abraham Lincoln]</field>
+     <field name="unitdate_inclusive_teim">circa 1875-1900</field>
+     <field name="scopecontent_teim">Untitled chromolithograph portrait of Lincoln. Published in Chicago, late 19th century.</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">oversize: FF-1, item: 5</field>
+     <field name="location_si">oversize: FF-1, item: 5</field>
+     <field name="collection_teim">Harold Holzer collection of Lincolniana</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 402</field>
+-    <field name="series_sim">Series IV. Prints issued after Lincoln's death</field>
+-    <field name="series_si">Series IV. Prints issued after Lincoln's death &gt;&gt; Kurz &amp;amp; Allison. [Abraham Lincoln]</field>
++    <field name="series_sim">Series IV. Prints issued after Lincoln&amp;#39;s death</field>
++    <field name="series_si">Series IV. Prints issued after Lincoln&#39;s death &gt;&gt; Kurz &amp; Allison. [Abraham Lincoln]</field>
+     <field name="heading_ssm">Kurz &amp; Allison. [Abraham Lincoln]</field>
+     <field name="unitdate_ssm">Inclusive, circa 1875-1900</field>
+     <field name="date_range_sim">undated &amp; other</field>

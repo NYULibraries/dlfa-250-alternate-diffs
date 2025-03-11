@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 3: James Campbell Materials</field>
+     <field name="unittitle_teim">Subseries 3: James Campbell Materials</field>
+-    <field name="scopecontent_teim">Materials of Samuel's son, James Campbell (1772-1870), comprise subseries three and cover the dates 1800 to 1863; they, too, are arranged chronologically.</field>
++    <field name="scopecontent_teim">Materials of Samuel&#39;s son, James Campbell (1772-1870), comprise subseries three and cover the dates 1800 to 1863; they, too, are arranged chronologically.</field>
+     <field name="ref_ssi">aspace_ref29_78y</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Campbell-Mumford papers</field>
++    <field name="author_teim">Processed by Alex Poole</field>
+     <field name="collection_unitid_teim">MS 98</field>
+     <field name="series_sim">Series I: Campbell Family</field>
+     <field name="series_si">Series I: Campbell Family &gt;&gt; Subseries 3: James Campbell Materials</field>

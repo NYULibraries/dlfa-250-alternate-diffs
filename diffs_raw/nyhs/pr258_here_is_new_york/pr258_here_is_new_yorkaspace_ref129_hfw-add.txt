@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Here is New York collection</field>
+     <field name="collection_unitid_ssm">PR 258</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Exhibition Files: Madame Tussaud's, New York</field>
+-    <field name="unittitle_teim">Exhibition Files: Madame Tussaud's, New York</field>
++    <field name="unittitle_ssm">Exhibition Files: Madame Tussaud&#39;s, New York</field>
++    <field name="unittitle_teim">Exhibition Files: Madame Tussaud&#39;s, New York</field>
+     <field name="unitdate_teim">2002</field>
+     <field name="ref_ssi">aspace_ref129_hfw</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 49, Folder: 3</field>
+     <field name="location_si">Box: 49, Folder: 3</field>
+     <field name="collection_teim">Here is New York collection</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">PR 258</field>
+     <field name="series_sim">Series V: Office Files</field>
+     <field name="series_sim">Subseries I: Mark Lubell Files</field>
+-    <field name="series_si">Series V: Office Files &gt;&gt; Subseries I: Mark Lubell Files &gt;&gt; Exhibition Files: Madame Tussaud's, New York</field>
+-    <field name="heading_ssm">Exhibition Files: Madame Tussaud's, New York</field>
++    <field name="series_si">Series V: Office Files &gt;&gt; Subseries I: Mark Lubell Files &gt;&gt; Exhibition Files: Madame Tussaud&#39;s, New York</field>
++    <field name="heading_ssm">Exhibition Files: Madame Tussaud&#39;s, New York</field>
+     <field name="unitdate_ssm">2002</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">89</field>

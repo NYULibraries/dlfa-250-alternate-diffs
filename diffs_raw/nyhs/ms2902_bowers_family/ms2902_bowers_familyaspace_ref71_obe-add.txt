@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1813/1933</field>
+     <field name="unitdate_normal_sim">1813/1933</field>
+     <field name="unitdate_inclusive_teim">1813–1933, undated</field>
+-    <field name="scopecontent_teim">This series consists of a variety of materials that show various aspects of the Bowers family's everyday life. There are newspaper clippings, some that are related to the family and others that are not. There are calling cards, a greeting card, and even a recipe for sponge cake.</field>
++    <field name="scopecontent_teim">This series consists of a variety of materials that show various aspects of the Bowers family&#39;s everyday life. There are newspaper clippings, some that are related to the family and others that are not. There are calling cards, a greeting card, and even a recipe for sponge cake.</field>
+     <field name="ref_ssi">aspace_ref71_obe</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bowers family papers</field>
++    <field name="author_teim">Christine George</field>
+     <field name="collection_unitid_teim">MS 2902</field>
+     <field name="series_si">Series VIII: Ephemera</field>
+     <field name="heading_ssm">Series VIII: Ephemera</field>

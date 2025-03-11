@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1812/1855</field>
+     <field name="unitdate_inclusive_teim">1812-1855</field>
+     <field name="scopecontent_teim">Arranged chronologically.</field>
+-    <field name="scopecontent_teim">These manifests list Negroes, Mulattos, and persons of color taken aboard various vessels to be transported, mostly from Alexandria, Va., to be sold or disposed of as slaves. These documents list the slave's name, sex, age, height, color, owner or shipper's name and place of residence, and the consignee's name and place of residence. </field>
++    <field name="scopecontent_teim">These manifests list Negroes, Mulattos, and persons of color taken aboard various vessels to be transported, mostly from Alexandria, Va., to be sold or disposed of as slaves. These documents list the slave&#39;s name, sex, age, height, color, owner or shipper&#39;s name and place of residence, and the consignee&#39;s name and place of residence. </field>
+     <field name="ref_ssi">aspace_ref96_m4x</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Slavery Collection</field>
++    <field name="author_teim">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists&#39; Toolkit by Jefferson Bailey, October 2010.</field>
+     <field name="collection_unitid_teim">MS 569</field>
+     <field name="series_si">Series VI - Manifests, 1812-1855</field>
+     <field name="heading_ssm">Series VI - Manifests, 1812-1855</field>

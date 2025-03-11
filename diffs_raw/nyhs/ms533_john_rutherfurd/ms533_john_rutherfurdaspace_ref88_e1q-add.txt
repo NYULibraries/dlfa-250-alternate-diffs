@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Rutherfurd Papers</field>
+     <field name="collection_unitid_ssm">MS 533</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba's Patent</field>
+-    <field name="unittitle_teim">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba's Patent</field>
++    <field name="unittitle_ssm">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba&#39;s Patent</field>
++    <field name="unittitle_teim">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba&#39;s Patent</field>
+     <field name="unitdate_teim">N.D.</field>
+     <field name="ref_ssi">aspace_ref88_e1q</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 5, Folder: 3</field>
+     <field name="location_si">Box: 5, Folder: 3</field>
+     <field name="collection_teim">John Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 533</field>
+     <field name="series_sim">Series III: Other Persons</field>
+     <field name="series_sim">Subseries 2: Other Persons - Estate of Gen. Alexander Hamilton N.D., 1805</field>
+-    <field name="series_si">Series III: Other Persons &gt;&gt; Subseries 2: Other Persons - Estate of Gen. Alexander Hamilton N.D., 1805 &gt;&gt; Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba's Patent</field>
+-    <field name="heading_ssm">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba's Patent</field>
++    <field name="series_si">Series III: Other Persons &gt;&gt; Subseries 2: Other Persons - Estate of Gen. Alexander Hamilton N.D., 1805 &gt;&gt; Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba&#39;s Patent</field>
++    <field name="heading_ssm">Other Persons -- Estate of Gen. Alexander Hamilton -- Sale of Lands in Scriba&#39;s Patent</field>
+     <field name="unitdate_ssm">N.D.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">60</field>

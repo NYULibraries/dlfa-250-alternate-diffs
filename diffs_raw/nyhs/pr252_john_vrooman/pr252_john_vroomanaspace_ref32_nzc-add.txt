@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John J. Vrooman Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 252</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">HOFFMAN'S FERRY (Glenville)</field>
+-    <field name="unittitle_teim">HOFFMAN'S FERRY (Glenville)</field>
++    <field name="unittitle_ssm">HOFFMAN&#39;S FERRY (Glenville)</field>
++    <field name="unittitle_teim">HOFFMAN&#39;S FERRY (Glenville)</field>
+     <field name="ref_ssi">aspace_ref32_nzc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,10 +22,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John J. Vrooman Photograph Collection</field>
++    <field name="author_teim">Kelly McAnnaney</field>
+     <field name="collection_unitid_teim">PR 252</field>
+     <field name="series_sim">unspecified</field>
+-    <field name="series_si">unspecified &gt;&gt; HOFFMAN'S FERRY (Glenville)</field>
+-    <field name="heading_ssm">HOFFMAN'S FERRY (Glenville)</field>
++    <field name="series_si">unspecified &gt;&gt; HOFFMAN&#39;S FERRY (Glenville)</field>
++    <field name="heading_ssm">HOFFMAN&#39;S FERRY (Glenville)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>
+   </doc>

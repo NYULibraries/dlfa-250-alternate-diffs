@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series VIII. Financial Files</field>
+     <field name="unittitle_teim">Series VIII. Financial Files</field>
+     <field name="unitdate_teim">1933-1963</field>
+-    <field name="scopecontent_teim">The series consist mostly of financial materials belonging to Henry R. Luce and Clare Boothe Luce, including their trust and personal accounts. Of note are financial materials related to Clare Boothe Luce's involvement in the theatre. Materials related to the finances of the Luce family is also located in series VI.</field>
++    <field name="scopecontent_teim">The series consist mostly of financial materials belonging to Henry R. Luce and Clare Boothe Luce, including their trust and personal accounts. Of note are financial materials related to Clare Boothe Luce&#39;s involvement in the theatre. Materials related to the finances of the Luce family is also located in series VI.</field>
+     <field name="ref_ssi">aspace_ref1042_9sv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_si">Series VIII. Financial Files</field>
+     <field name="heading_ssm">Series VIII. Financial Files</field>

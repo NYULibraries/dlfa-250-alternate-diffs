@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Jacob Harvey to/from General George Pope Morris </field>
+     <field name="unittitle_teim">Jacob Harvey to/from General George Pope Morris </field>
+     <field name="unitdate_teim">1823-1827</field>
+-    <field name="scopecontent_teim">Three letters concerning Harvey's contribution to Morris's publication, the daily New York Evening Mirror. Also includes three letters to Morris from unidentified correspondents.</field>
++    <field name="scopecontent_teim">Three letters concerning Harvey&#39;s contribution to Morris&#39;s publication, the daily New York Evening Mirror. Also includes three letters to Morris from unidentified correspondents.</field>
+     <field name="ref_ssi">aspace_ref136_hkt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 12</field>
+     <field name="collection_teim">Jacob Harvey family papers</field>
++    <field name="author_teim">Anne Boissonnault</field>
+     <field name="collection_unitid_teim">MS 306</field>
+     <field name="series_sim">Series II. Harvey Family Papers</field>
+     <field name="series_sim">Subseries II.A. Jacob Harvey Correspondence</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Report of the Chief Engineer</field>
+     <field name="unittitle_teim">Report of the Chief Engineer</field>
+     <field name="unitdate_teim">1921-1922</field>
+-    <field name="scopecontent_teim">Includes a 1922 memo from Clifford Holland found with the report with the subject "Plaza Arrangement: Jersey City."</field>
++    <field name="scopecontent_teim">Includes a 1922 memo from Clifford Holland found with the report with the subject &#34;Plaza Arrangement: Jersey City.&#34;</field>
+     <field name="ref_ssi">aspace_ref55_kh1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 10</field>
+     <field name="collection_teim">Holland Tunnel construction photographs and reports</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 332</field>
+     <field name="series_si">Report of the Chief Engineer</field>
+     <field name="heading_ssm">Report of the Chief Engineer</field>

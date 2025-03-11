@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">1977/1977</field>
+     <field name="unitdate_normal_sim">1977/1977</field>
+     <field name="unitdate_inclusive_teim">1977</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On side A label: "Time farewell HAG party 9-30-77 Side 1." On side B label: "Kanfer performing at HAG farewell 9-30-77."</field>
+-    <field name="scopecontent_teim"> 2 audiocassettes : analog ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On labels: "12/1/77 Time Mag. Managing Editor's Banquet."</field>
++    <field name="scopecontent_teim">1 audiocassette : analog ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On side A label: &#34;Time farewell HAG party 9-30-77 Side 1.&#34; On side B label: &#34;Kanfer performing at HAG farewell 9-30-77.&#34;</field>
++    <field name="scopecontent_teim"> 2 audiocassettes : analog ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On labels: &#34;12/1/77 Time Mag. Managing Editor&#39;s Banquet.&#34;</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+     <field name="ref_ssi">aspace_ref3560_ftr</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Offsite-Box: 1047, Folder: 16-17</field>
+     <field name="location_si">Offsite-Box: 1047, Folder: 16-17</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.6. Speeches</field>

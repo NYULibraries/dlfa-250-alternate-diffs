@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,9 @@
+     <field name="collection_ssm">Winston Weisman Soho Historic District collection</field>
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Pennsylvania. Philadelphia--"N" Buildings</field>
+-    <field name="unittitle_teim">Pennsylvania. Philadelphia--"N" Buildings</field>
+-    <field name="scopecontent_teim">National Bank of the Republic, Natt Store, Newton's Confectionary</field>
++    <field name="unittitle_ssm">Pennsylvania. Philadelphia--&#34;N&#34; Buildings</field>
++    <field name="unittitle_teim">Pennsylvania. Philadelphia--&#34;N&#34; Buildings</field>
++    <field name="scopecontent_teim">National Bank of the Republic, Natt Store, Newton&#39;s Confectionary</field>
+     <field name="ref_ssi">aspace_ref1064_6b5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 40, Folder: 634</field>
+     <field name="location_si">Offsite-Box: 40, Folder: 634</field>
+     <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
++    <field name="author_teim">Ricky Hunter</field>
+     <field name="collection_unitid_teim">PR 73</field>
+     <field name="series_sim">Series I. Mounted Copy Prints</field>
+     <field name="series_sim">UNITED STATES</field>
+-    <field name="series_si">Series I. Mounted Copy Prints &gt;&gt; UNITED STATES &gt;&gt; Pennsylvania. Philadelphia--"N" Buildings</field>
+-    <field name="heading_ssm">Pennsylvania. Philadelphia--"N" Buildings</field>
++    <field name="series_si">Series I. Mounted Copy Prints &gt;&gt; UNITED STATES &gt;&gt; Pennsylvania. Philadelphia--&#34;N&#34; Buildings</field>
++    <field name="heading_ssm">Pennsylvania. Philadelphia--&#34;N&#34; Buildings</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">614</field>
+   </doc>

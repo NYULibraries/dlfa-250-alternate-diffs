@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society press clippings</field>
+     <field name="collection_unitid_ssm">NYHS-RG 7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Koke's American Landscape Catalogue</field>
+-    <field name="unittitle_teim">Koke's American Landscape Catalogue</field>
++    <field name="unittitle_ssm">Koke&#39;s American Landscape Catalogue</field>
++    <field name="unittitle_teim">Koke&#39;s American Landscape Catalogue</field>
+     <field name="unitdate_teim">1982</field>
+-    <field name="scopecontent_teim">Includes marketing materials for the publication of an illustrated reference book of N-YHS's collection of landscape paintings by American artists, compiled by Curator Richard J. Koke.</field>
++    <field name="scopecontent_teim">Includes marketing materials for the publication of an illustrated reference book of N-YHS&#39;s collection of landscape paintings by American artists, compiled by Curator Richard J. Koke.</field>
+     <field name="ref_ssi">aspace_ref167_h40</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 29, Folder: 4</field>
+     <field name="location_si">Box: 29, Folder: 4</field>
+     <field name="collection_teim">New-York Historical Society press clippings</field>
++    <field name="author_teim">Margaret Kaczorowski and Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 7</field>
+     <field name="series_sim">Series II. Subject Files</field>
+-    <field name="series_si">Series II. Subject Files &gt;&gt; Koke's American Landscape Catalogue</field>
+-    <field name="heading_ssm">Koke's American Landscape Catalogue</field>
++    <field name="series_si">Series II. Subject Files &gt;&gt; Koke&#39;s American Landscape Catalogue</field>
++    <field name="heading_ssm">Koke&#39;s American Landscape Catalogue</field>
+     <field name="unitdate_ssm">1982</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">134</field>

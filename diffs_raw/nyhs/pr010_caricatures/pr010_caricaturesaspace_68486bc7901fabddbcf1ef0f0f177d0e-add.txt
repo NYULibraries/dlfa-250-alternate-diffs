@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Home. "On Sick Leave"</field>
+-    <field name="unittitle_teim">Home. "On Sick Leave"</field>
++    <field name="unittitle_ssm">Home. &#34;On Sick Leave&#34;</field>
++    <field name="unittitle_teim">Home. &#34;On Sick Leave&#34;</field>
+     <field name="unitdate_teim">1863</field>
+     <field name="scopecontent_teim">Lithograph: Signed Edw.J. Mullen, published by Currier &amp; Ives. Missing as of November 30, 2021.</field>
+     <field name="ref_ssi">aspace_68486bc7901fabddbcf1ef0f0f177d0e</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-83, item: 1863-13</field>
+     <field name="location_si">Folder: FF-83, item: 1863-13</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Home. "On Sick Leave"</field>
+-    <field name="heading_ssm">Home. "On Sick Leave"</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Home. &#34;On Sick Leave&#34;</field>
++    <field name="heading_ssm">Home. &#34;On Sick Leave&#34;</field>
+     <field name="unitdate_ssm">1863</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">826</field>

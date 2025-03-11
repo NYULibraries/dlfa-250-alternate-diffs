@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Book: Jeffrey Simpson, &lt;em&gt;Rose Cumming: Design Inspiration&lt;/em&gt; (Rizzoli)</field>
+     <field name="unittitle_teim">Book: Jeffrey Simpson, Rose Cumming: Design Inspiration (Rizzoli)</field>
+     <field name="unitdate_inclusive_teim">2012</field>
+-    <field name="scopecontent_teim">With an introduction by Rose's grandniece and business successor, Sarah Cumming Cecil (granddaughter of Eileen Cumming Cecil), who has annotated and corrected this copy.</field>
++    <field name="scopecontent_teim">With an introduction by Rose&#39;s grandniece and business successor, Sarah Cumming Cecil (granddaughter of Eileen Cumming Cecil), who has annotated and corrected this copy.</field>
+     <field name="ref_ssi">aspace_77193f452634ae267c37a1ace21f6e43</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">Rose Cumming, Russell L. Cecil, and affiliated families photographs and papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 393</field>
+     <field name="series_sim">Series I. Cumming family photographs and papers</field>
+     <field name="series_sim">Sub-series I.A. Rose Stuart Cumming</field>

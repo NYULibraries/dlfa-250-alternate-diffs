@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">[Horace Greeley]. The American Desert</field>
+     <field name="unittitle_teim">[Horace Greeley]. The American Desert</field>
+     <field name="unitdate_teim">[1870 December 6]</field>
+-    <field name="scopecontent_teim">Includes notes of Greeley's address, on 22 slips of paper.</field>
++    <field name="scopecontent_teim">Includes notes of Greeley&#39;s address, on 22 slips of paper.</field>
+     <field name="ref_ssi">aspace_ref56_i0l</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 4, Folder: 2</field>
+     <field name="location_si">Box: 4, Folder: 2</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+     <field name="series_si">[Horace Greeley]. The American Desert</field>
+     <field name="heading_ssm">[Horace Greeley]. The American Desert</field>

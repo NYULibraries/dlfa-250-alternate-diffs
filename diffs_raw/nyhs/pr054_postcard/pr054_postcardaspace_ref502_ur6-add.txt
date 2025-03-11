@@ -1,0 +1,75 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,28 +16,40 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Canada | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Canada | Souvenir Folders &amp; Sets
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Canada | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Canada | Souvenir Folders &amp; Sets</field>
+     <field name="scopecontent_teim">Alberta
+-Fort Edmonton (1)</field>
++
++Fort Edmonton (1)
++</field>
+     <field name="scopecontent_teim">Canadian Rockies
++
+ Maligne Canyon
+-Banff / Lake Louise</field>
++
++Banff / Lake Louise
++</field>
+     <field name="scopecontent_teim">New Brunswick
+-Saint John (2)</field>
++
++Saint John (2)
++</field>
+     <field name="scopecontent_teim">Nova Scotia
++
+ Cape Breton Island
+-Port Royal Habitation</field>
++
++Port Royal Habitation
++</field>
+     <field name="scopecontent_teim">Ontario
++
+ Ottawa
+-Canadian National Exhibition, Toronto (2)</field>
++
++Canadian National Exhibition, Toronto (2)
++</field>
+     <field name="scopecontent_teim">Quebec
++
+ Montreal
+-Quebec City</field>
++
++Quebec City
++</field>
+     <field name="ref_ssi">aspace_ref502_ur6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -47,15 +59,12 @@
+     <field name="location_ssm">Box: 88</field>
+     <field name="location_si">Box: 88</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series III. Geographic Locations | International</field>
+     <field name="series_sim">Subseries III.E. North and Central America</field>
+-    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.E. North and Central America &gt;&gt; 
+-      &lt;strong&gt;Canada | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Canada | Souvenir Folders &amp; Sets
+-    </field>
++    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.E. North and Central America &gt;&gt; &lt;strong&gt;Canada | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="heading_ssm">Canada | Souvenir Folders &amp; Sets</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">380</field>
+   </doc>

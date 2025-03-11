@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series XIV. Financial documents and speculation</field>
+     <field name="unittitle_teim">Series XIV. Financial documents and speculation</field>
+     <field name="unitdate_inclusive_teim">1782-1795, undated</field>
+-    <field name="scopecontent_teim">The series includes financial documents pertaining, for the most part, to Duer's involvement in land, stock, bank notes, and other areas of eighteenth century speculation.</field>
++    <field name="scopecontent_teim">The series includes financial documents pertaining, for the most part, to Duer&#39;s involvement in land, stock, bank notes, and other areas of eighteenth century speculation.</field>
+     <field name="ref_ssi">aspace_ref104_tuv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William Duer papers</field>
++    <field name="author_teim">Processed by Mary Jo Kline and Jan Hilley.</field>
+     <field name="collection_unitid_teim">MS 182</field>
+     <field name="series_si">Series XIV. Financial documents and speculation</field>
+     <field name="heading_ssm">Series XIV. Financial documents and speculation</field>

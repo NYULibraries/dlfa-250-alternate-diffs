@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Sidney H. Carney, Jr., M.D. The New York Medical Profession in 1800</field>
+     <field name="unittitle_teim">Sidney H. Carney, Jr., M.D. The New York Medical Profession in 1800</field>
+     <field name="unitdate_teim">1900 February 3</field>
+-    <field name="scopecontent_teim">Includes Carney's paper and the meeting announcement.</field>
++    <field name="scopecontent_teim">Includes Carney&#39;s paper and the meeting announcement.</field>
+     <field name="ref_ssi">aspace_ref27_1x3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 5, Folder: 17</field>
+     <field name="location_si">Box: 5, Folder: 17</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+     <field name="series_si">Sidney H. Carney, Jr., M.D. The New York Medical Profession in 1800</field>
+     <field name="heading_ssm">Sidney H. Carney, Jr., M.D. The New York Medical Profession in 1800</field>

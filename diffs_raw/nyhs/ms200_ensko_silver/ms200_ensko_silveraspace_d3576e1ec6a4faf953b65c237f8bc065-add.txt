@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Robert Ensko Inc. records</field>
+     <field name="collection_unitid_ssm">MS 200</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Client "Has" and "Wants" Records</field>
+-    <field name="unittitle_teim">Client "Has" and "Wants" Records</field>
++    <field name="unittitle_ssm">Client &#34;Has&#34; and &#34;Wants&#34; Records</field>
++    <field name="unittitle_teim">Client &#34;Has&#34; and &#34;Wants&#34; Records</field>
+     <field name="unitdate_inclusive_teim">1959-1968</field>
+-    <field name="scopecontent_teim">Includes 4 booklets and a set of cards with records by client in terms of what silver they have and what pieces are needed to complete sets. Several of these relate to brides and their weddings. (See series III.C for a volume with a record of "wants" for 1935-41.)</field>
++    <field name="scopecontent_teim">Includes 4 booklets and a set of cards with records by client in terms of what silver they have and what pieces are needed to complete sets. Several of these relate to brides and their weddings. (See series III.C for a volume with a record of &#34;wants&#34; for 1935-41.)</field>
+     <field name="ref_ssi">aspace_d3576e1ec6a4faf953b65c237f8bc065</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 75</field>
+     <field name="location_si">Offsite-Box: 75</field>
+     <field name="collection_teim">Robert Ensko Inc. records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 200</field>
+     <field name="series_sim">Series IV. Client Lists &amp;amp; Related Records</field>
+-    <field name="series_si">Series IV. Client Lists &amp;amp; Related Records &gt;&gt; Client "Has" and "Wants" Records</field>
+-    <field name="heading_ssm">Client "Has" and "Wants" Records</field>
++    <field name="series_si">Series IV. Client Lists &amp; Related Records &gt;&gt; Client &#34;Has&#34; and &#34;Wants&#34; Records</field>
++    <field name="heading_ssm">Client &#34;Has&#34; and &#34;Wants&#34; Records</field>
+     <field name="unitdate_ssm">Inclusive, 1959-1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">117</field>

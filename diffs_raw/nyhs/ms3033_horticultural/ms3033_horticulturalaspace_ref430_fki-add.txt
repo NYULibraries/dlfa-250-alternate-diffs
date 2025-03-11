@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Horticultural Society of New York records</field>
+     <field name="collection_unitid_ssm">MS 3033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Apple Seed" and "Read &amp;amp; Seed" Programs</field>
+-    <field name="unittitle_teim">"Apple Seed" and "Read &amp; Seed" Programs</field>
++    <field name="unittitle_ssm">&#34;Apple Seed&#34; and &#34;Read &amp; Seed&#34; Programs</field>
++    <field name="unittitle_teim">&#34;Apple Seed&#34; and &#34;Read &amp; Seed&#34; Programs</field>
+     <field name="unitdate_teim">1995-2008</field>
+     <field name="ref_ssi">aspace_ref430_fki</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 61, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 61, Folder: 3</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.D. Archives Files</field>
+-    <field name="series_si">Series II. Library &amp;amp; Archives Files &gt;&gt; Subseries II.D. Archives Files &gt;&gt; "Apple Seed" and "Read &amp;amp; Seed" Programs</field>
+-    <field name="heading_ssm">"Apple Seed" and "Read &amp; Seed" Programs</field>
++    <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.D. Archives Files &gt;&gt; &#34;Apple Seed&#34; and &#34;Read &amp; Seed&#34; Programs</field>
++    <field name="heading_ssm">&#34;Apple Seed&#34; and &#34;Read &amp; Seed&#34; Programs</field>
+     <field name="unitdate_ssm">1995-2008</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">345</field>

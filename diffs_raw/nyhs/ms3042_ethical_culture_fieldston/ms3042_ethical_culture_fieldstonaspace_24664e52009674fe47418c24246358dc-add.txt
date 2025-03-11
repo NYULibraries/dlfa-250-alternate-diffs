@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Bears  (Single 8)</field>
+     <field name="unittitle_teim">Bears  (Single 8)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">One small box of Fuji Single 8 film, labeled "bears."</field>
++    <field name="scopecontent_teim">One small box of Fuji Single 8 film, labeled &#34;bears.&#34;</field>
+     <field name="ref_ssi">aspace_24664e52009674fe47418c24246358dc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 347</field>
+     <field name="location_si">Offsite-Box: 347</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 15. (RESTRICTED) Audiovisual (1950s-2008, undated; 26.42 linear feet)</field>
+     <field name="series_sim">Series I. Film</field>

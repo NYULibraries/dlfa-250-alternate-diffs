@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,12 +17,19 @@
+     <field name="unittitle_teim">Transportation</field>
+     <field name="unitdate_inclusive_teim">circa 1860-2010s</field>
+     <field name="scopecontent_teim">Includes, among other items:
+-MTA/subway/bus-related items (MetroCards, publicity, etc.); sightseeing/tourism (Gray Line tours (1947), Curtiss-Wright Flying Service (1934), two passes for the American Sight Seeing Cars &amp; Coach Co. (1909-1910));
++
++MTA/subway/bus-related items (MetroCards, publicity, etc.);
++ sightseeing/tourism (Gray Line tours (1947), Curtiss-Wright Flying Service (1934), two passes for the American Sight Seeing Cars &amp; Coach Co. (1909-1910));
++
+ two tickets for the New York &amp; Brooklyn Bridge Railroad (1895?);
++
+ Zipcar brochure (ca. 2007);
++
+ Hudson River Railroad schedule (1860);
++
+ Hamburg-American Line list of saloon passengers on the S.S. Deutschland (1905);
+-trade card depicting and in the shape of a clam for Lucey's 30th excursion to Coney Island and Rockaway on the steamboat Grand Republic (1800s), gift of Stephen Manheimer, 2019.</field>
++
++trade card depicting and in the shape of a clam for Lucey&#39;s 30th excursion to Coney Island and Rockaway on the steamboat Grand Republic (1800s), gift of Stephen Manheimer, 2019.</field>
+     <field name="ref_ssi">aspace_ref84_uf4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,6 +39,7 @@
+     <field name="location_ssm">Box: 4, Folder: 9</field>
+     <field name="location_si">Box: 4, Folder: 9</field>
+     <field name="collection_teim">New-York Historical Society ephemera collection</field>
++    <field name="author_teim">N-YHS staff</field>
+     <field name="collection_unitid_teim">PR 264</field>
+     <field name="series_sim">Series I: Ephemera</field>
+     <field name="series_si">Series I: Ephemera &gt;&gt; Transportation</field>

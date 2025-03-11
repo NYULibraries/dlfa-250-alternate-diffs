@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">I have a boy / By Daniel M. Henderson / Author of the National Art Club's $250 Prize War Poem, "The Road to France"</field>
+-    <field name="unittitle_teim">I have a boy / By Daniel M. Henderson / Author of the National Art Club's $250 Prize War Poem, "The Road to France"</field>
++    <field name="unittitle_ssm">I have a boy / By Daniel M. Henderson / Author of the National Art Club&#39;s $250 Prize War Poem, &#34;The Road to France&#34;</field>
++    <field name="unittitle_teim">I have a boy / By Daniel M. Henderson / Author of the National Art Club&#39;s $250 Prize War Poem, &#34;The Road to France&#34;</field>
+     <field name="ref_ssi">aspace_ref971_xxu</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 25</field>
+     <field name="location_si">Folder: 25</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series III: Patriotic Appeals</field>
+     <field name="series_sim">Subseries III.4: Miscellaneous Patriotic Appeals</field>
+-    <field name="series_si">Series III: Patriotic Appeals &gt;&gt; Subseries III.4: Miscellaneous Patriotic Appeals &gt;&gt; I have a boy / By Daniel M. Henderson / Author of the National Art Club's $250 Prize War Poem, "The Road to France"</field>
+-    <field name="heading_ssm">I have a boy / By Daniel M. Henderson / Author of the National Art Club's $250 Prize War Poem, "The Road to France"</field>
++    <field name="series_si">Series III: Patriotic Appeals &gt;&gt; Subseries III.4: Miscellaneous Patriotic Appeals &gt;&gt; I have a boy / By Daniel M. Henderson / Author of the National Art Club&#39;s $250 Prize War Poem, &#34;The Road to France&#34;</field>
++    <field name="heading_ssm">I have a boy / By Daniel M. Henderson / Author of the National Art Club&#39;s $250 Prize War Poem, &#34;The Road to France&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">573</field>
+   </doc>

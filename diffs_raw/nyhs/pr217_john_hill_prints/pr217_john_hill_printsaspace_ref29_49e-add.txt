@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Hill Print Collection</field>
+     <field name="collection_unitid_ssm">PR 217</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Title Page, Vignette"</field>
+-    <field name="unittitle_teim">"Title Page, Vignette"</field>
++    <field name="unittitle_ssm">&#34;Title Page, Vignette&#34;</field>
++    <field name="unittitle_teim">&#34;Title Page, Vignette&#34;</field>
+     <field name="unitdate_teim">1819-1821</field>
+     <field name="ref_ssi">aspace_ref29_49e</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 3</field>
+     <field name="location_si">Folder: 3</field>
+     <field name="collection_teim">John Hill Print Collection</field>
++    <field name="author_teim">Processed by Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 217</field>
+     <field name="series_sim">Series II: American Work</field>
+     <field name="series_sim">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp;amp; Son, [1820-21]).</field>
+-    <field name="series_si">Series II: American Work &gt;&gt; Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp;amp; Son, [1820-21]). &gt;&gt; "Title Page, Vignette"</field>
+-    <field name="heading_ssm">"Title Page, Vignette"</field>
++    <field name="series_si">Series II: American Work &gt;&gt; Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp; Son, [1820-21]). &gt;&gt; &#34;Title Page, Vignette&#34;</field>
++    <field name="heading_ssm">&#34;Title Page, Vignette&#34;</field>
+     <field name="unitdate_ssm">1819-1821</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

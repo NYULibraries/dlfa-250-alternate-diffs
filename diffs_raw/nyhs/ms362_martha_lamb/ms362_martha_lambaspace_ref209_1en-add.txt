@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series XI. Notes</field>
+     <field name="unittitle_teim">Series XI. Notes</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Includes Lamb's notes regarding her life, publications, historical figures, events, and places. Also notes, not in Lamb's hand, including excerpts from California newspapers the Californian and California Star, 1848 re: Gold Rush, and unidentified notes written on the reverse of wallpaper.</field>
++    <field name="scopecontent_teim">Includes Lamb&#39;s notes regarding her life, publications, historical figures, events, and places. Also notes, not in Lamb&#39;s hand, including excerpts from California newspapers the Californian and California Star, 1848 re: Gold Rush, and unidentified notes written on the reverse of wallpaper.</field>
+     <field name="title_teim">Californian</field>
+     <field name="title_teim">California Star</field>
+     <field name="title_ssm">Californian</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Martha J. Lamb papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 362</field>
+     <field name="series_si">Series XI. Notes</field>
+     <field name="heading_ssm">Series XI. Notes</field>

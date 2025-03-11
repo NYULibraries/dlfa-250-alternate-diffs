@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Narrative of Alvar Nunez Cabeca de Vaca</field>
+     <field name="unittitle_teim">Narrative of Alvar Nunez Cabeca de Vaca</field>
+     <field name="unitdate_teim">n.d.</field>
+-    <field name="scopecontent_teim">Includes chapters of Narrative and Smith's notes.</field>
++    <field name="scopecontent_teim">Includes chapters of Narrative and Smith&#39;s notes.</field>
+     <field name="ref_ssi">aspace_ref89_sfr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 2, Folder: 5</field>
+     <field name="location_si">Box: 2, Folder: 5</field>
+     <field name="collection_teim">Buckingham Smith papers and collected materials</field>
++    <field name="author_teim">Julia Lipkins</field>
+     <field name="collection_unitid_teim">MS 2413</field>
+     <field name="series_sim">II. Transcriptions and edited works</field>
+     <field name="series_si">II. Transcriptions and edited works &gt;&gt; Narrative of Alvar Nunez Cabeca de Vaca</field>

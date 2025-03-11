@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Council on the Environment</field>
+     <field name="unittitle_teim">Council on the Environment</field>
+     <field name="unitdate_teim">1974</field>
+-    <field name="scopecontent_teim">This folder contains several environmental fact sheets and reports, many if which are annotated. Of note is "The Energy Impact of West Side Highway Alternatives," a statement read beore the West Side Highway Project Public Hearing on September 12, 1974.</field>
++    <field name="scopecontent_teim">This folder contains several environmental fact sheets and reports, many if which are annotated. Of note is &#34;The Energy Impact of West Side Highway Alternatives,&#34; a statement read beore the West Side Highway Project Public Hearing on September 12, 1974.</field>
+     <field name="ref_ssi">aspace_ref160_4o2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 2</field>
+     <field name="collection_teim">Cyrus Adler papers</field>
++    <field name="author_teim">Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">MS 3</field>
+     <field name="series_sim">Series III: Transportation Initiatives</field>
+     <field name="series_sim">Subseries III.1: Westway Tunnel Project</field>

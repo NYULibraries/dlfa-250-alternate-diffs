@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hudson-Fulton Celebration Commission records</field>
+     <field name="collection_unitid_ssm">MS 314</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Minutes: Trustees' Meetings</field>
+-    <field name="unittitle_teim">Minutes: Trustees' Meetings</field>
++    <field name="unittitle_ssm">Minutes: Trustees&#39; Meetings</field>
++    <field name="unittitle_teim">Minutes: Trustees&#39; Meetings</field>
+     <field name="unitdate_teim">1909 Oct. 14-1909 Nov. 24</field>
+     <field name="ref_ssi">aspace_ref328_a2u</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 32, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 32, Folder: 8</field>
+     <field name="collection_teim">Hudson-Fulton Celebration Commission records</field>
++    <field name="author_teim">Lara Chmela</field>
+     <field name="collection_unitid_teim">MS 314</field>
+     <field name="series_sim">Series IV: Organizational Materials</field>
+-    <field name="series_si">Series IV: Organizational Materials &gt;&gt; Minutes: Trustees' Meetings</field>
+-    <field name="heading_ssm">Minutes: Trustees' Meetings</field>
++    <field name="series_si">Series IV: Organizational Materials &gt;&gt; Minutes: Trustees&#39; Meetings</field>
++    <field name="heading_ssm">Minutes: Trustees&#39; Meetings</field>
+     <field name="unitdate_ssm">1909 Oct. 14-1909 Nov. 24</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">306</field>

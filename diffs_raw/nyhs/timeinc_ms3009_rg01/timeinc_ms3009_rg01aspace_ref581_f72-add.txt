@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Subject Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Life&lt;/em&gt;: 1936: October: Ingersoll's Opus</field>
+-    <field name="unittitle_teim">Life: 1936: October: Ingersoll's Opus</field>
++    <field name="unittitle_ssm">&lt;em&gt;Life&lt;/em&gt;: 1936: October: Ingersoll&#39;s Opus</field>
++    <field name="unittitle_teim">Life: 1936: October: Ingersoll&#39;s Opus</field>
+     <field name="title_teim">Life</field>
+     <field name="title_ssm">Life</field>
+     <field name="ref_ssi">aspace_ref581_f72</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 432, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 432, Folder: 4</field>
+     <field name="collection_teim">Time Inc. Subject Files</field>
++    <field name="author_teim">Holly Deakyne, Melanie Rinehart, and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 1</field>
+     <field name="series_sim">Series I: 1960 and Before</field>
+-    <field name="series_si">Series I: 1960 and Before &gt;&gt; &lt;em&gt;Life&lt;/em&gt;: 1936: October: Ingersoll's Opus</field>
+-    <field name="heading_ssm">Life: 1936: October: Ingersoll's Opus</field>
++    <field name="series_si">Series I: 1960 and Before &gt;&gt; &lt;em&gt;Life&lt;/em&gt;: 1936: October: Ingersoll&#39;s Opus</field>
++    <field name="heading_ssm">Life: 1936: October: Ingersoll&#39;s Opus</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">570</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Marriage certificate [1 item]</field>
+     <field name="unittitle_teim">Marriage certificate [1 item]</field>
+     <field name="unitdate_teim">1951 January 6</field>
+-    <field name="scopecontent_teim">Certificate of Marriage, Frank Wilson and Lillian Weiler, Yonkers, Westchester County, New York. Weiler was Wilson's second wife; his first wife, Ethel Lewis, died in 1948.</field>
++    <field name="scopecontent_teim">Certificate of Marriage, Frank Wilson and Lillian Weiler, Yonkers, Westchester County, New York. Weiler was Wilson&#39;s second wife; his first wife, Ethel Lewis, died in 1948.</field>
+     <field name="ref_ssi">aspace_8fcbf5ea1a9b6cf784be9ee32f8563a4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 8</field>
+     <field name="collection_teim">Frank Wilson and family papers</field>
++    <field name="author_teim">Joseph Ditta (March 2024)</field>
+     <field name="collection_unitid_teim">MS 3238</field>
+     <field name="series_si">Marriage certificate [1 item]</field>
+     <field name="heading_ssm">Marriage certificate [1 item]</field>

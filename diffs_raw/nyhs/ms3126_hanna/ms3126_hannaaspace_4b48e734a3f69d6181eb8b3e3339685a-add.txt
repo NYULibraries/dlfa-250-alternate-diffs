@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Beauchamp, William M. "The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History"</field>
+-    <field name="unittitle_teim">Beauchamp, William M. "The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History"</field>
++    <field name="unittitle_ssm">Beauchamp, William M. &#34;The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History&#34;</field>
++    <field name="unittitle_teim">Beauchamp, William M. &#34;The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History&#34;</field>
+     <field name="unitdate_inclusive_teim">1892</field>
+     <field name="ref_ssi">aspace_4b48e734a3f69d6181eb8b3e3339685a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 18, Volume: SN-130</field>
+     <field name="location_si">Offsite-Box: 18, Volume: SN-130</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Beauchamp, William M. "The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History"</field>
+-    <field name="heading_ssm">Beauchamp, William M. "The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History"</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Beauchamp, William M. &#34;The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History&#34;</field>
++    <field name="heading_ssm">Beauchamp, William M. &#34;The Iroquois Trail, or Foot-Prints of the Six Nations, in Customs, Traditions, and History&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1892</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">110</field>

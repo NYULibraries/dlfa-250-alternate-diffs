@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Time Inc. Bio Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hurst, D'Orsey</field>
+-    <field name="unittitle_teim">Hurst, D'Orsey</field>
+-    <field name="scopecontent_teim">One folder with "H. R. Luce" stamp</field>
++    <field name="unittitle_ssm">Hurst, D&#39;Orsey</field>
++    <field name="unittitle_teim">Hurst, D&#39;Orsey</field>
++    <field name="scopecontent_teim">One folder with &#34;H. R. Luce&#34; stamp</field>
+     <field name="ref_ssi">aspace_ref2081_sii</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 347, Folder: 13</field>
+     <field name="location_si">Offsite-Box: 347, Folder: 13</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names H</field>
+-    <field name="series_si">Names H &gt;&gt; Hurst, D'Orsey</field>
+-    <field name="heading_ssm">Hurst, D'Orsey</field>
++    <field name="series_si">Names H &gt;&gt; Hurst, D&#39;Orsey</field>
++    <field name="heading_ssm">Hurst, D&#39;Orsey</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1871</field>
+   </doc>

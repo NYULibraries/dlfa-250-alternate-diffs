@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New York Society of the New Church records</field>
+     <field name="collection_unitid_ssm">MS 3210</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Pastor's Emergency Fund - Inactive Since 1976</field>
+-    <field name="unittitle_teim">Pastor's Emergency Fund - Inactive Since 1976</field>
++    <field name="unittitle_ssm">Pastor&#39;s Emergency Fund - Inactive Since 1976</field>
++    <field name="unittitle_teim">Pastor&#39;s Emergency Fund - Inactive Since 1976</field>
+     <field name="unitdate_inclusive_teim">1964-1975</field>
+     <field name="ref_ssi">aspace_7a5203e2effeebf7db48d5135129e397</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 20</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 20</field>
+     <field name="collection_teim">New York Society of the New Church records</field>
++    <field name="author_teim">Lia Warner</field>
+     <field name="collection_unitid_teim">MS 3210</field>
+-    <field name="series_si">Pastor's Emergency Fund - Inactive Since 1976</field>
+-    <field name="heading_ssm">Pastor's Emergency Fund - Inactive Since 1976</field>
++    <field name="series_si">Pastor&#39;s Emergency Fund - Inactive Since 1976</field>
++    <field name="heading_ssm">Pastor&#39;s Emergency Fund - Inactive Since 1976</field>
+     <field name="unitdate_ssm">Inclusive, 1964-1975</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">89</field>

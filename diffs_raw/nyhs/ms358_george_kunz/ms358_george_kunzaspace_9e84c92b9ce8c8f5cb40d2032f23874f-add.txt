@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">George F. Kunz papers</field>
+     <field name="collection_unitid_ssm">MS 358</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Bruno, Guido (Bruno's Weekly)</field>
+-    <field name="unittitle_teim">Bruno, Guido (Bruno's Weekly)</field>
++    <field name="unittitle_ssm">Bruno, Guido (Bruno&#39;s Weekly)</field>
++    <field name="unittitle_teim">Bruno, Guido (Bruno&#39;s Weekly)</field>
+     <field name="unitdate_teim">1916</field>
+     <field name="ref_ssi">aspace_9e84c92b9ce8c8f5cb40d2032f23874f</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">George F. Kunz papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 358</field>
+-    <field name="series_si">Bruno, Guido (Bruno's Weekly)</field>
+-    <field name="heading_ssm">Bruno, Guido (Bruno's Weekly)</field>
++    <field name="series_si">Bruno, Guido (Bruno&#39;s Weekly)</field>
++    <field name="heading_ssm">Bruno, Guido (Bruno&#39;s Weekly)</field>
+     <field name="unitdate_ssm">1916</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">123</field>

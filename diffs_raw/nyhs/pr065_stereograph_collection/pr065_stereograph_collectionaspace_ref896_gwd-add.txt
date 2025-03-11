@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,11 @@
+     <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+     <field name="collection_unitid_ssm">PR 65</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Comic &amp;amp; Sentimental--Holidays</field>
++    <field name="unittitle_ssm">Comic &amp; Sentimental--Holidays</field>
+     <field name="unittitle_teim">Comic &amp; Sentimental--Holidays</field>
+     <field name="unitdate_inclusive_teim">[1860-1880]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0882</field>
+-    <field name="scopecontent_teim">Holidays: people attending a wake; family gathered for thanksgiving in New Hampshire; Christmas: Santa Claus looking up those who are good in a large book child waiting for Santa Claus, Santa visiting while child is asleep, Santa "bewildered by the clamoring of Christmas Belles," woman standing under mistletoe, ignored by roomful of men; group gathered for New Year's Ball, girl with New Year's greeting.</field>
++    <field name="scopecontent_teim">Holidays: people attending a wake; family gathered for thanksgiving in New Hampshire; Christmas: Santa Claus looking up those who are good in a large book child waiting for Santa Claus, Santa visiting while child is asleep, Santa &#34;bewildered by the clamoring of Christmas Belles,&#34; woman standing under mistletoe, ignored by roomful of men; group gathered for New Year&#39;s Ball, girl with New Year&#39;s greeting.</field>
+     <field name="scopecontent_teim">10 items</field>
+     <field name="ref_ssi">aspace_ref896_gwd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 86</field>
+     <field name="location_si">Box: 86</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Comic and Sentimental</field>
+-    <field name="series_si">Comic and Sentimental &gt;&gt; Comic &amp;amp; Sentimental--Holidays</field>
++    <field name="series_si">Comic and Sentimental &gt;&gt; Comic &amp; Sentimental--Holidays</field>
+     <field name="heading_ssm">Comic &amp; Sentimental--Holidays</field>
+     <field name="unitdate_ssm">Inclusive, [1860-1880]</field>
+     <field name="date_range_sim">undated &amp; other</field>

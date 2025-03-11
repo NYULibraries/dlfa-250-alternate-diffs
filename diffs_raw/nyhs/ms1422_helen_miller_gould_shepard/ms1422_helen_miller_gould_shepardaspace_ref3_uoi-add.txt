@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1852/1941</field>
+     <field name="unitdate_inclusive_teim">1852-1941, undated</field>
+     <field name="scopecontent_teim">Series III: Ephemera is arranged by type and then chronologically.</field>
+-    <field name="scopecontent_teim">Series III: Ephemera makes up the largest series in this collection. Most items in this series pertain to Helen Miller Gould Shepard's philanthropic activities, including her work for war relief, religious groups, and for institutions such as New York University. A large portion of this series is comprised of certificates of membership and of gratitude for charitable works.</field>
++    <field name="scopecontent_teim">Series III: Ephemera makes up the largest series in this collection. Most items in this series pertain to Helen Miller Gould Shepard&#39;s philanthropic activities, including her work for war relief, religious groups, and for institutions such as New York University. A large portion of this series is comprised of certificates of membership and of gratitude for charitable works.</field>
+     <field name="ref_ssi">aspace_ref3_uoi</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 8</field>
+     <field name="location_si">Box: 8</field>
+     <field name="collection_teim">The Helen Miller Gould Shepard Papers</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">MS 1422</field>
+     <field name="series_si">Series III: Ephemera</field>
+     <field name="heading_ssm">Series III: Ephemera</field>

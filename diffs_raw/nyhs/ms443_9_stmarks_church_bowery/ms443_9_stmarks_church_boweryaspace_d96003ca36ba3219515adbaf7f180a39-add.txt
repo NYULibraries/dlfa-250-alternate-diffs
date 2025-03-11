@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series II. Treasurer Records and Related Financial Matters</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">St. Mark's Church in-the-Bowery records</field>
+-    <field name="collection_ssm">St. Mark's Church in-the-Bowery records</field>
++    <field name="collection_sim">St. Mark&#39;s Church in-the-Bowery records</field>
++    <field name="collection_ssm">St. Mark&#39;s Church in-the-Bowery records</field>
+     <field name="collection_unitid_ssm">MS 443.9</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Tax bills</field>
+@@ -25,7 +25,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+-    <field name="collection_teim">St. Mark's Church in-the-Bowery records</field>
++    <field name="collection_teim">St. Mark&#39;s Church in-the-Bowery records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 443.9</field>
+     <field name="series_sim">Series II. Treasurer Records and Related Financial Matters</field>
+     <field name="series_si">Series II. Treasurer Records and Related Financial Matters &gt;&gt; Tax bills</field>

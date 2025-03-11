@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Elegant Accommodations for Freight or Passage both low apply to Old H....K's. [Ferryboat Monopoly]</field>
+-    <field name="unittitle_teim">Elegant Accommodations for Freight or Passage both low apply to Old H....K's. [Ferryboat Monopoly]</field>
++    <field name="unittitle_ssm">Elegant Accommodations for Freight or Passage both low apply to Old H....K&#39;s. [Ferryboat Monopoly]</field>
++    <field name="unittitle_teim">Elegant Accommodations for Freight or Passage both low apply to Old H....K&#39;s. [Ferryboat Monopoly]</field>
+     <field name="unitdate_teim">1836</field>
+     <field name="scopecontent_teim">Signed No Monopoly, del. 2 copies - one colored, one black &amp; white (1836-9 Copy 2). Copy 1: acquisition date on back Aug. 15, 1939. Copy 2: acquisition dated on back Jan. 20, 1931.</field>
+     <field name="ref_ssi">aspace_b776a87d62b3586b4d3d2034ad997a4c</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-35, item: 1836-9</field>
+     <field name="location_si">Folder: FF-35, item: 1836-9</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series III. Jacksonian Period</field>
+-    <field name="series_si">Series III. Jacksonian Period &gt;&gt; Elegant Accommodations for Freight or Passage both low apply to Old H....K's. [Ferryboat Monopoly]</field>
+-    <field name="heading_ssm">Elegant Accommodations for Freight or Passage both low apply to Old H....K's. [Ferryboat Monopoly]</field>
++    <field name="series_si">Series III. Jacksonian Period &gt;&gt; Elegant Accommodations for Freight or Passage both low apply to Old H....K&#39;s. [Ferryboat Monopoly]</field>
++    <field name="heading_ssm">Elegant Accommodations for Freight or Passage both low apply to Old H....K&#39;s. [Ferryboat Monopoly]</field>
+     <field name="unitdate_ssm">1836</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">283</field>

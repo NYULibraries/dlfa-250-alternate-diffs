@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Einstein, Lewis</field>
+     <field name="unittitle_teim">Einstein, Lewis</field>
+     <field name="unitdate_inclusive_teim">1914, 1924-1930</field>
+-    <field name="scopecontent_teim">Primarily concerns exchanges (1924-25) regarding Hyde's and Einstein's tapestries, and others.</field>
++    <field name="scopecontent_teim">Primarily concerns exchanges (1924-25) regarding Hyde&#39;s and Einstein&#39;s tapestries, and others.</field>
+     <field name="ref_ssi">aspace_8bc27780b2924c654ad6b6bd5c9c27c1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Einstein, Lewis</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Four Seasons Restaurant collection</field>
+     <field name="collection_unitid_ssm">MS 3151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Excerpt, Four Seasons Restaurant, from "A Taste of the Nation N.Y."</field>
+-    <field name="unittitle_teim">Excerpt, Four Seasons Restaurant, from "A Taste of the Nation N.Y."</field>
++    <field name="unittitle_ssm">Excerpt, Four Seasons Restaurant, from &#34;A Taste of the Nation N.Y.&#34;</field>
++    <field name="unittitle_teim">Excerpt, Four Seasons Restaurant, from &#34;A Taste of the Nation N.Y.&#34;</field>
+     <field name="unitdate_teim">1997 April 28</field>
+     <field name="ref_ssi">aspace_4f55ab6fc3715dd4840244b07dd59c98</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 11</field>
+     <field name="location_si">Offsite-Box: 11</field>
+     <field name="collection_teim">Four Seasons Restaurant collection</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3151</field>
+     <field name="series_sim">Series VI. Audiovisual</field>
+     <field name="series_sim">Sub-series VI.A. VHS (31 cassettes)</field>
+-    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.A. VHS (31 cassettes) &gt;&gt; Excerpt, Four Seasons Restaurant, from "A Taste of the Nation N.Y."</field>
+-    <field name="heading_ssm">Excerpt, Four Seasons Restaurant, from "A Taste of the Nation N.Y."</field>
++    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.A. VHS (31 cassettes) &gt;&gt; Excerpt, Four Seasons Restaurant, from &#34;A Taste of the Nation N.Y.&#34;</field>
++    <field name="heading_ssm">Excerpt, Four Seasons Restaurant, from &#34;A Taste of the Nation N.Y.&#34;</field>
+     <field name="unitdate_ssm">1997 April 28</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">114</field>

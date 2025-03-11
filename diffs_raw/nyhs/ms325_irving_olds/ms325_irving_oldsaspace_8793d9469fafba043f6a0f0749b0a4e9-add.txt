@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Memoir</field>
+     <field name="unittitle_teim">Memoir</field>
+     <field name="unitdate_inclusive_teim">1962</field>
+-    <field name="scopecontent_teim">Contains an autobiography of Olds's life for "White and Case Records", written shortly before Olds's death</field>
++    <field name="scopecontent_teim">Contains an autobiography of Olds&#39;s life for &#34;White and Case Records&#34;, written shortly before Olds&#39;s death</field>
+     <field name="ref_ssi">aspace_8793d9469fafba043f6a0f0749b0a4e9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 7</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series III. Diaries</field>
+     <field name="series_si">Series III. Diaries &gt;&gt; Memoir</field>

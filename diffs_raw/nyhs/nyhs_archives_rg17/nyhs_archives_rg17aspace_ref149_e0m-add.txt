@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The New-York Historical Society's Dictionary of Artists in America, 1564-1860&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The New-York Historical Society's Dictionary of Artists in America, 1564-1860
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The New-York Historical Society&#39;s Dictionary of Artists in America, 1564-1860&lt;/em&gt;</field>
++    <field name="unittitle_teim">The New-York Historical Society&#39;s Dictionary of Artists in America, 1564-1860</field>
+     <field name="unitdate_teim">1957</field>
+     <field name="scopecontent_teim">Copy of the DAA inscribed by George Groce to Charles Baker. A few of the entries are lightly annotated. This copy of the book was used to hold sheets dating from the 1970s and afterward that noted corrections and other possible revisions in the event a supplement or revised edition should be produced. These sheets were removed from the book and placed with similar material in Series II.B.</field>
+     <field name="ref_ssi">aspace_ref149_e0m</field>
+@@ -33,15 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 63, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 63, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series I. Publications (1940s-1960s)</field>
+     <field name="series_sim">Subseries I.B. Dictionary of Artists in America Records</field>
+-    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.B. Dictionary of Artists in America Records &gt;&gt; 
+-      &lt;em&gt;The New-York Historical Society's Dictionary of Artists in America, 1564-1860&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The New-York Historical Society's Dictionary of Artists in America, 1564-1860
+-    </field>
++    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.B. Dictionary of Artists in America Records &gt;&gt; &lt;em&gt;The New-York Historical Society&#39;s Dictionary of Artists in America, 1564-1860&lt;/em&gt;</field>
++    <field name="heading_ssm">The New-York Historical Society&#39;s Dictionary of Artists in America, 1564-1860</field>
+     <field name="unitdate_ssm">1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>

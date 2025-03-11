@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Wake up America!"/A glimpse of the "Wake up America Day" parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
+-    <field name="unittitle_teim">"Wake up America!"/A glimpse of the "Wake up America Day" parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
++    <field name="unittitle_ssm">&#34;Wake up America!&#34;/A glimpse of the &#34;Wake up America Day&#34; parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
++    <field name="unittitle_teim">&#34;Wake up America!&#34;/A glimpse of the &#34;Wake up America Day&#34; parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
+     <field name="unitdate_teim">1917-04-19</field>
+     <field name="ref_ssi">aspace_ref365_68j</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 6</field>
+     <field name="location_si">Folder: 6</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series I: Recruitment</field>
+     <field name="series_sim">Subseries I.3: Navy</field>
+-    <field name="series_si">Series I: Recruitment &gt;&gt; Subseries I.3: Navy &gt;&gt; "Wake up America!"/A glimpse of the "Wake up America Day" parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
+-    <field name="heading_ssm">"Wake up America!"/A glimpse of the "Wake up America Day" parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
++    <field name="series_si">Series I: Recruitment &gt;&gt; Subseries I.3: Navy &gt;&gt; &#34;Wake up America!&#34;/A glimpse of the &#34;Wake up America Day&#34; parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
++    <field name="heading_ssm">&#34;Wake up America!&#34;/A glimpse of the &#34;Wake up America Day&#34; parade in NYC The window has been donated. . . As a Naval Recruiting Station</field>
+     <field name="unitdate_ssm">1917-04-19</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">209</field>

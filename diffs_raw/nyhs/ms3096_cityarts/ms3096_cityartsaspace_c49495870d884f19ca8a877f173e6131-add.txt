@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">CITYarts Inc. records</field>
+     <field name="collection_unitid_ssm">MS 3096</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"State of murals in Manhattan"</field>
+-    <field name="unittitle_teim">"State of murals in Manhattan"</field>
++    <field name="unittitle_ssm">&#34;State of murals in Manhattan&#34;</field>
++    <field name="unittitle_teim">&#34;State of murals in Manhattan&#34;</field>
+     <field name="unitdate_inclusive_teim">1998</field>
+     <field name="scopecontent_teim">Binder of photographs and brief descriptive assessments conducted in 1998 of the condition of murals sponsored by CITYarts in prior years.</field>
+     <field name="ref_ssi">aspace_c49495870d884f19ca8a877f173e6131</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 44</field>
+     <field name="location_si">Offsite-Box: 44</field>
+     <field name="collection_teim">CITYarts Inc. records</field>
++    <field name="author_teim">Sydney Bebon and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3096</field>
+     <field name="series_sim">Series III. General Program Administration Files</field>
+-    <field name="series_si">Series III. General Program Administration Files &gt;&gt; "State of murals in Manhattan"</field>
+-    <field name="heading_ssm">"State of murals in Manhattan"</field>
++    <field name="series_si">Series III. General Program Administration Files &gt;&gt; &#34;State of murals in Manhattan&#34;</field>
++    <field name="heading_ssm">&#34;State of murals in Manhattan&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1998</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">160</field>

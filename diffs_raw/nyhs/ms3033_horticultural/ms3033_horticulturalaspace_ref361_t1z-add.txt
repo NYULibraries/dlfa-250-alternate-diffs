@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Subjects. D: General</field>
+     <field name="unittitle_teim">Subjects. D: General</field>
+     <field name="unitdate_teim">1999-2003</field>
+-    <field name="scopecontent_teim">Includes book donation information (see also Gifts below), most specifically those of Ruth Classen, of Thomas Powell, and of Denise Otis, disaster recovery, information about the Dyckman Farmhouse Museum (including color snapshots of the building and grounds), and information about Hort's earlier connections with the Doris Duke Foundation and gardens.</field>
++    <field name="scopecontent_teim">Includes book donation information (see also Gifts below), most specifically those of Ruth Classen, of Thomas Powell, and of Denise Otis, disaster recovery, information about the Dyckman Farmhouse Museum (including color snapshots of the building and grounds), and information about Hort&#39;s earlier connections with the Doris Duke Foundation and gardens.</field>
+     <field name="ref_ssi">aspace_ref361_t1z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 56, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 56, Folder: 9</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.C. Librarian Files</field>
+-    <field name="series_si">Series II. Library &amp;amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. D: General</field>
++    <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. D: General</field>
+     <field name="heading_ssm">Subjects. D: General</field>
+     <field name="unitdate_ssm">1999-2003</field>
+     <field name="date_range_sim">undated &amp; other</field>

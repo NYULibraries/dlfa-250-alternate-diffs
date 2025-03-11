@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Eugenia Flatow papers</field>
+     <field name="collection_unitid_ssm">MS 3175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The State of The City's Waters</field>
+-    <field name="unittitle_teim">The State of The City's Waters</field>
++    <field name="unittitle_ssm">The State of The City&#39;s Waters</field>
++    <field name="unittitle_teim">The State of The City&#39;s Waters</field>
+     <field name="unitdate_inclusive_teim">1994</field>
+     <field name="ref_ssi">aspace_d6fe10b36602f0116e4f0c5d480ace12</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 34, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 34, Folder: 26</field>
+     <field name="collection_teim">Eugenia Flatow papers</field>
++    <field name="author_teim">Nicole Font</field>
+     <field name="collection_unitid_teim">MS 3175</field>
+     <field name="series_sim">Series IV. Organizational Records</field>
+     <field name="series_sim">Subseries IV.E. New York-New Jersey Harbor Estuary Program (HEP)</field>
+-    <field name="series_si">Series IV. Organizational Records &gt;&gt; Subseries IV.E. New York-New Jersey Harbor Estuary Program (HEP) &gt;&gt; The State of The City's Waters</field>
+-    <field name="heading_ssm">The State of The City's Waters</field>
++    <field name="series_si">Series IV. Organizational Records &gt;&gt; Subseries IV.E. New York-New Jersey Harbor Estuary Program (HEP) &gt;&gt; The State of The City&#39;s Waters</field>
++    <field name="heading_ssm">The State of The City&#39;s Waters</field>
+     <field name="unitdate_ssm">Inclusive, 1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">581</field>

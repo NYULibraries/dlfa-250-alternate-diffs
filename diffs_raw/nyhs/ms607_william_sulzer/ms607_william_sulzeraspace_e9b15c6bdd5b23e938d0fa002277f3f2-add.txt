@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unittitle_teim">Scrapbooks</field>
+     <field name="unitdate_inclusive_teim">1900-1941</field>
+     <field name="scopecontent_teim">This box holds 4 scrapbooks:</field>
+-    <field name="scopecontent_teim">1) Ephemera and clippings from about 1900-1922. Topics in this book include the Bahai Faith ("Bahaism" is used in the collection), which Sulzer was an advocate of; politics; speeches; and the Masons.</field>
++    <field name="scopecontent_teim">1) Ephemera and clippings from about 1900-1922. Topics in this book include the Bahai Faith (&#34;Bahaism&#34; is used in the collection), which Sulzer was an advocate of; politics; speeches; and the Masons.</field>
+     <field name="scopecontent_teim">2) Speeches, 1905-1917.</field>
+     <field name="scopecontent_teim">3) Campaign cartoons of 1912, presented and inscribed to Sulzer by C.R. Macauley.</field>
+     <field name="scopecontent_teim">4) Ephemera, primarily related to the Masons, 1938-1941.</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 20</field>
+     <field name="location_si">Offsite-Box: 20</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Scrapbooks</field>
+     <field name="heading_ssm">Scrapbooks</field>

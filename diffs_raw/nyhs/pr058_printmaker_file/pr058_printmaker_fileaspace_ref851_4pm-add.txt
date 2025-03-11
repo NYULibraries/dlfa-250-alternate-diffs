@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref850_42w</field>
+     <field name="parent_ssm">aspace_ref16_gvf</field>
+     <field name="parent_ssm">aspace_ref850_42w</field>
+-    <field name="parent_unittitles_ssm">Series I: Prints 16 x 20" and smaller</field>
++    <field name="parent_unittitles_ssm">Series I: Prints 16 x 20&amp;#34; and smaller</field>
+     <field name="parent_unittitles_ssm">Hassam, Childe (1859-1935)</field>
+-    <field name="parent_unittitles_teim">Series I: Prints 16 x 20" and smaller</field>
++    <field name="parent_unittitles_teim">Series I: Prints 16 x 20&amp;#34; and smaller</field>
+     <field name="parent_unittitles_teim">Hassam, Childe (1859-1935)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -25,13 +25,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: "H", Folder: unknown container</field>
+-    <field name="location_si">Box: "H", Folder: unknown container</field>
++    <field name="location_ssm">Box: &#34;H&#34;, Folder: unknown container</field>
++    <field name="location_si">Box: &#34;H&#34;, Folder: unknown container</field>
+     <field name="collection_teim">Printmaker File</field>
++    <field name="author_teim">Jenny Gotwals. </field>
+     <field name="collection_unitid_teim">PR 58</field>
+-    <field name="series_sim">Series I: Prints 16 x 20" and smaller</field>
++    <field name="series_sim">Series I: Prints 16 x 20&amp;#34; and smaller</field>
+     <field name="series_sim">Hassam, Childe (1859-1935)</field>
+-    <field name="series_si">Series I: Prints 16 x 20" and smaller &gt;&gt; Hassam, Childe (1859-1935) &gt;&gt; [New York Stock Exchange Floor]</field>
++    <field name="series_si">Series I: Prints 16 x 20&#34; and smaller &gt;&gt; Hassam, Childe (1859-1935) &gt;&gt; [New York Stock Exchange Floor]</field>
+     <field name="heading_ssm">[New York Stock Exchange Floor]</field>
+     <field name="unitdate_ssm">1927</field>
+     <field name="date_range_sim">undated &amp; other</field>

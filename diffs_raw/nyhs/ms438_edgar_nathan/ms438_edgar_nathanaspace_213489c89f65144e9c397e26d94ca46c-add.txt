@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Gomez Family Genealogy</field>
+     <field name="unittitle_teim">Gomez Family Genealogy</field>
+     <field name="unitdate_inclusive_teim">circa 1850s?</field>
+-    <field name="scopecontent_teim">Copy by Horatio Gomez of Sephardic Jewish Gomez family genealogy originally recorded by Issac Gomez. Envelope says "Albert Dreyfous".</field>
++    <field name="scopecontent_teim">Copy by Horatio Gomez of Sephardic Jewish Gomez family genealogy originally recorded by Issac Gomez. Envelope says &#34;Albert Dreyfous&#34;.</field>
+     <field name="ref_ssi">aspace_213489c89f65144e9c397e26d94ca46c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 11, Folder: 13</field>
+     <field name="location_si">Box: 11, Folder: 13</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series VII. Memorabilia</field>
+     <field name="series_si">Series VII. Memorabilia &gt;&gt; Gomez Family Genealogy</field>

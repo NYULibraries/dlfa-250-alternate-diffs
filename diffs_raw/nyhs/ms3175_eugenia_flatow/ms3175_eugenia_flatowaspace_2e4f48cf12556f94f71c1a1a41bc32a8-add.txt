@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Eugenia Flatow papers</field>
+     <field name="collection_unitid_ssm">MS 3175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">America's Coasts: Progress and Promise</field>
+-    <field name="unittitle_teim">America's Coasts: Progress and Promise</field>
++    <field name="unittitle_ssm">America&#39;s Coasts: Progress and Promise</field>
++    <field name="unittitle_teim">America&#39;s Coasts: Progress and Promise</field>
+     <field name="unitdate_inclusive_teim">circa 1985</field>
+     <field name="ref_ssi">aspace_2e4f48cf12556f94f71c1a1a41bc32a8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 24, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 24, Folder: 11</field>
+     <field name="collection_teim">Eugenia Flatow papers</field>
++    <field name="author_teim">Nicole Font</field>
+     <field name="collection_unitid_teim">MS 3175</field>
+     <field name="series_sim">Series III. Waterfronts, Waterways, and Waterborne Transportation</field>
+     <field name="series_sim">Subseries III.D. Published Materials</field>
+-    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.D. Published Materials &gt;&gt; America's Coasts: Progress and Promise</field>
+-    <field name="heading_ssm">America's Coasts: Progress and Promise</field>
++    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.D. Published Materials &gt;&gt; America&#39;s Coasts: Progress and Promise</field>
++    <field name="heading_ssm">America&#39;s Coasts: Progress and Promise</field>
+     <field name="unitdate_ssm">Inclusive, circa 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">354</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms443_20_nursery_childs_hospital</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+-    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
++    <field name="collection_sim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="collection_ssm">Nursery and Child&#39;s Hospital Records</field>
+     <field name="collection_unitid_ssm">MS 443.20</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Scrapbooks</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1890/1926</field>
+     <field name="unitdate_normal_sim">1890/1926</field>
+     <field name="unitdate_inclusive_teim">1890-1926</field>
+-    <field name="scopecontent_teim">The series consists of scrapbooks that document the Annual Charity Ball for the Nursery and Child's Hospital.  The Annual Charity Ball was the largest fundraiser for the Nursery and Child's Hospital. Mrs. Mary Mildred Sullivan and George H. Sullivan created the scrapbooks. The scrapbooks include pamphlets, circulars, newspaper clippings, badges, forms of notices, lists of names of members of the floor committee, invitees, admission tickets, dance programs, correspondence, account books, and information on how the money was spent from the Annual Charity Ball.  Mary Mildred Sullivan was the organizer of the charity balls until 1933 when she died and her son took over.</field>
++    <field name="scopecontent_teim">The series consists of scrapbooks that document the Annual Charity Ball for the Nursery and Child&#39;s Hospital.  The Annual Charity Ball was the largest fundraiser for the Nursery and Child&#39;s Hospital. Mrs. Mary Mildred Sullivan and George H. Sullivan created the scrapbooks. The scrapbooks include pamphlets, circulars, newspaper clippings, badges, forms of notices, lists of names of members of the floor committee, invitees, admission tickets, dance programs, correspondence, account books, and information on how the money was spent from the Annual Charity Ball.  Mary Mildred Sullivan was the organizer of the charity balls until 1933 when she died and her son took over.</field>
+     <field name="scopecontent_teim">Arrangement of the series is four volumes arranged by the creators of the scrapbooks from 1890-1926.</field>
+     <field name="ref_ssi">aspace_ref13_od7</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -23,7 +23,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Nursery and Child's Hospital Records</field>
++    <field name="collection_teim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="author_teim">Ann Christiansen</field>
+     <field name="collection_unitid_teim">MS 443.20</field>
+     <field name="series_si">Scrapbooks</field>
+     <field name="heading_ssm">Scrapbooks</field>

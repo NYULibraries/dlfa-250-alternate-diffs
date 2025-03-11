@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Segment with Alex Taylor of &lt;em&gt;Fortune&lt;/em&gt; Magazine: The 10 O'Clock News</field>
+-    <field name="unittitle_teim">Segment with Alex Taylor of Fortune Magazine: The 10 O'Clock News</field>
++    <field name="unittitle_ssm">Segment with Alex Taylor of &lt;em&gt;Fortune&lt;/em&gt; Magazine: The 10 O&#39;Clock News</field>
++    <field name="unittitle_teim">Segment with Alex Taylor of Fortune Magazine: The 10 O&#39;Clock News</field>
+     <field name="unitdate_teim">1992 April 21</field>
+-    <field name="scopecontent_teim">1 videocassette (U-matic) (2 min., 10 sec.): On labels on case front and cassette: "'Segment with Alex Taylor of Fortune Magazine'  The 10 O'Clock News  4/21/92, WNYW, 10 p.m., (2:10)". On label on case side: "Editor Interviews  Fox News-A.Taylor  4-92  Fortune"</field>
++    <field name="scopecontent_teim">1 videocassette (U-matic) (2 min., 10 sec.): On labels on case front and cassette: &#34;&#39;Segment with Alex Taylor of Fortune Magazine&#39;  The 10 O&#39;Clock News  4/21/92, WNYW, 10 p.m., (2:10)&#34;. On label on case side: &#34;Editor Interviews  Fox News-A.Taylor  4-92  Fortune&#34;</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Fortune</field>
+@@ -35,11 +35,12 @@
+     <field name="location_ssm">Offsite-Box: 2911, item: 4</field>
+     <field name="location_si">Offsite-Box: 2911, item: 4</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.A. Fortune Editors on TV</field>
+-    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Segment with Alex Taylor of &lt;em&gt;Fortune&lt;/em&gt; Magazine: The 10 O'Clock News</field>
+-    <field name="heading_ssm">Segment with Alex Taylor of Fortune Magazine: The 10 O'Clock News</field>
++    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Segment with Alex Taylor of &lt;em&gt;Fortune&lt;/em&gt; Magazine: The 10 O&#39;Clock News</field>
++    <field name="heading_ssm">Segment with Alex Taylor of Fortune Magazine: The 10 O&#39;Clock News</field>
+     <field name="unitdate_ssm">1992 April 21</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">183</field>

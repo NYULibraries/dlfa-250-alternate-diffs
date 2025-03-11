@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms139_womans_league_riverside</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Woman's League for the Protection of Riverside Park records</field>
+-    <field name="collection_ssm">Woman's League for the Protection of Riverside Park records</field>
++    <field name="collection_sim">Woman&#39;s League for the Protection of Riverside Park records</field>
++    <field name="collection_ssm">Woman&#39;s League for the Protection of Riverside Park records</field>
+     <field name="collection_unitid_ssm">MS 139</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Photographs</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1926/1930</field>
+     <field name="unitdate_inclusive_teim">1926-1930, undated</field>
+     <field name="scopecontent_teim">Summary:</field>
+-    <field name="scopecontent_teim">Materials in this series include photographs of Riverside Park, and the League's activities in the Park. Many photographs document children in the park and the dedication of trees in the park to the city. Many of the photographs are undated.</field>
++    <field name="scopecontent_teim">Materials in this series include photographs of Riverside Park, and the League&#39;s activities in the Park. Many photographs document children in the park and the dedication of trees in the park to the city. Many of the photographs are undated.</field>
+     <field name="ref_ssi">aspace_ref193_18h</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,7 +23,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Woman's League for the Protection of Riverside Park records</field>
++    <field name="collection_teim">Woman&#39;s League for the Protection of Riverside Park records</field>
++    <field name="author_teim">Kathryn Kashmiry</field>
+     <field name="collection_unitid_teim">MS 139</field>
+     <field name="series_si">Series II: Photographs</field>
+     <field name="heading_ssm">Series II: Photographs</field>

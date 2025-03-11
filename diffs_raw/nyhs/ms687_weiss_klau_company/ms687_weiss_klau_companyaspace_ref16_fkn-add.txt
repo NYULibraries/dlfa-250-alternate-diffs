@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Corporate Documents, 1896-1968</field>
+     <field name="unittitle_teim">Series I: Corporate Documents, 1896-1968</field>
+-    <field name="scopecontent_teim">This series contains materials related to The Weiss &amp; Klau Co.'s status as a corporation, including board minutes, resolutions, stock certificate books, and other materials. Also included are the general correspondence of the company, materials related to trademarks, and records retention schedules. </field>
++    <field name="scopecontent_teim">This series contains materials related to The Weiss &amp; Klau Co.&#39;s status as a corporation, including board minutes, resolutions, stock certificate books, and other materials. Also included are the general correspondence of the company, materials related to trademarks, and records retention schedules. </field>
+     <field name="scopecontent_teim">Materials related to the distribution of Weiss &amp; Klau stock in Box 2, Folder 3 are restricted until 2043, 75 years from the date of their creation.</field>
+     <field name="ref_ssi">aspace_ref16_fkn</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Weiss &amp; Klau Co. records</field>
++    <field name="author_teim">Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 687</field>
+     <field name="series_si">Series I: Corporate Documents, 1896-1968</field>
+     <field name="heading_ssm">Series I: Corporate Documents, 1896-1968</field>

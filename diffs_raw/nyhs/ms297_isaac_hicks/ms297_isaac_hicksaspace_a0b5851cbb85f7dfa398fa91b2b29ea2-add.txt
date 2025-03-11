@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Hicks Ledger Book</field>
+     <field name="unittitle_teim">Hicks Ledger Book</field>
+     <field name="unitdate_inclusive_teim">1799-1802</field>
+-    <field name="scopecontent_teim">This is an oversized volume labeled 'I.H. Ledger B.' Inserted into the first page is a separate volume that appears to act as an index to the volume.  The beginning of the volume contains bills payable and bills receivable, but a majority of the volume is ordered by individual or organization.  A majority of the entries appear to be balancing other account books or paying to cash.</field>
++    <field name="scopecontent_teim">This is an oversized volume labeled &#39;I.H. Ledger B.&#39; Inserted into the first page is a separate volume that appears to act as an index to the volume.  The beginning of the volume contains bills payable and bills receivable, but a majority of the volume is ordered by individual or organization.  A majority of the entries appear to be balancing other account books or paying to cash.</field>
+     <field name="ref_ssi">aspace_a0b5851cbb85f7dfa398fa91b2b29ea2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 106</field>
+     <field name="location_si">Box: 106</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Ledger Book</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,7 +30,7 @@
+     
+     Centennial Exhibition, Philadelphia, 1876
+     </field>
+-    <field name="scopecontent_teim">World's Columbian Exposition, Chicago, 1893
++    <field name="scopecontent_teim">World&#39;s Columbian Exposition, Chicago, 1893
+     </field>
+     <field name="scopecontent_teim">Pan-American Exposition, Buffalo, 1901
+     </field>
+@@ -42,9 +42,9 @@
+     </field>
+     <field name="scopecontent_teim">Century of Progress International Exposition, Chicago, 1933-34
+     </field>
+-    <field name="scopecontent_teim">New York World's Fair, 1939-40
+-    </field>
+-    <field name="scopecontent_teim">New York World's Fair, 1964
++    <field name="scopecontent_teim">New York World&#39;s Fair, 1939-40
++    </field>
++    <field name="scopecontent_teim">New York World&#39;s Fair, 1964
+     </field>
+     <field name="scopecontent_teim">Commemorative (local history) celebrations
+     </field>
+@@ -58,6 +58,7 @@
+     <field name="location_ssm">Offsite-Box: 99</field>
+     <field name="location_si">Offsite-Box: 99</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

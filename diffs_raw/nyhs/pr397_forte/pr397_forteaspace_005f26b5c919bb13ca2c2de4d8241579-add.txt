@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">DISCO CARWASH</field>
+     <field name="unittitle_teim">DISCO CARWASH</field>
+     <field name="unitdate_inclusive_teim">1984</field>
+-    <field name="scopecontent_teim">"Carwash on Flatbush Avenue, in Brooklyn."</field>
++    <field name="scopecontent_teim">&#34;Carwash on Flatbush Avenue, in Brooklyn.&#34;</field>
+     <field name="ref_ssi">aspace_005f26b5c919bb13ca2c2de4d8241579</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

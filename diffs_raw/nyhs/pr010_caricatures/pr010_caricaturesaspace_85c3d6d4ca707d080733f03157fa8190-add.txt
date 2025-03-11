@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Thunder! my light's gone out." [Thomas Nast]</field>
+-    <field name="unittitle_teim">"Thunder! my light's gone out." [Thomas Nast]</field>
++    <field name="unittitle_ssm">&#34;Thunder! my light&#39;s gone out.&#34; [Thomas Nast]</field>
++    <field name="unittitle_teim">&#34;Thunder! my light&#39;s gone out.&#34; [Thomas Nast]</field>
+     <field name="unitdate_teim">1901</field>
+     <field name="scopecontent_teim">Pen drawing. Signed C.G. Bush. Acquisition(?) date on back: Apr. 27, 1942.</field>
+     <field name="ref_ssi">aspace_85c3d6d4ca707d080733f03157fa8190</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-141, item: 1901-19</field>
+     <field name="location_si">Folder: FF-141, item: 1901-19</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; "Thunder! my light's gone out." [Thomas Nast]</field>
+-    <field name="heading_ssm">"Thunder! my light's gone out." [Thomas Nast]</field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; &#34;Thunder! my light&#39;s gone out.&#34; [Thomas Nast]</field>
++    <field name="heading_ssm">&#34;Thunder! my light&#39;s gone out.&#34; [Thomas Nast]</field>
+     <field name="unitdate_ssm">1901</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1260</field>

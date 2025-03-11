@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,12 +12,12 @@
+     <field name="parent_unittitles_teim">Subseries 3: Consignor and Inventory Records, 1957-1988, n.d.</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York Exchange for Women's Work</field>
+-    <field name="collection_ssm">New York Exchange for Women's Work</field>
++    <field name="collection_sim">New York Exchange for Women&#39;s Work</field>
++    <field name="collection_ssm">New York Exchange for Women&#39;s Work</field>
+     <field name="collection_unitid_ssm">MS 446</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Consignor's Sundry Accounts</field>
+-    <field name="unittitle_teim">Consignor's Sundry Accounts</field>
++    <field name="unittitle_ssm">Consignor&#39;s Sundry Accounts</field>
++    <field name="unittitle_teim">Consignor&#39;s Sundry Accounts</field>
+     <field name="unitdate_teim">n.d.</field>
+     <field name="ref_ssi">aspace_ref70_u3t</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -27,12 +27,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Volume: [1]</field>
+     <field name="location_si">Volume: [1]</field>
+-    <field name="collection_teim">New York Exchange for Women's Work</field>
++    <field name="collection_teim">New York Exchange for Women&#39;s Work</field>
++    <field name="author_teim">Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 446</field>
+     <field name="series_sim">Series III: Financial Documents, 1911-1997, n.d.</field>
+     <field name="series_sim">Subseries 3: Consignor and Inventory Records, 1957-1988, n.d.</field>
+-    <field name="series_si">Series III: Financial Documents, 1911-1997, n.d. &gt;&gt; Subseries 3: Consignor and Inventory Records, 1957-1988, n.d. &gt;&gt; Consignor's Sundry Accounts</field>
+-    <field name="heading_ssm">Consignor's Sundry Accounts</field>
++    <field name="series_si">Series III: Financial Documents, 1911-1997, n.d. &gt;&gt; Subseries 3: Consignor and Inventory Records, 1957-1988, n.d. &gt;&gt; Consignor&#39;s Sundry Accounts</field>
++    <field name="heading_ssm">Consignor&#39;s Sundry Accounts</field>
+     <field name="unitdate_ssm">n.d.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

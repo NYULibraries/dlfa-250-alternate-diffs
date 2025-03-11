@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series XIII. Recordings</field>
+     <field name="unittitle_teim">Series XIII. Recordings</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">This series contains one reel of recordings about "Saving Washington Square Park".</field>
++    <field name="scopecontent_teim">This series contains one reel of recordings about &#34;Saving Washington Square Park&#34;.</field>
+     <field name="ref_ssi">aspace_ref228_zip</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Shirley Hayes papers</field>
++    <field name="author_teim">Jan Hilley and Tiffany Schureman (2011); updated by Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 292</field>
+     <field name="series_si">Series XIII. Recordings</field>
+     <field name="heading_ssm">Series XIII. Recordings</field>

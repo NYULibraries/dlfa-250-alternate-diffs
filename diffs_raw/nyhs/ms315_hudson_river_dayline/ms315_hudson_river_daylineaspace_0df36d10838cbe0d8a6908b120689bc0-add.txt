@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">New York returns, to September 1856</field>
+     <field name="unittitle_teim">New York returns, to September 1856</field>
+     <field name="unitdate_inclusive_teim">1856</field>
+-    <field name="scopecontent_teim">The volumes labeled "New York returns" appear to refer, not to accounts or reports concerning the steamboat New York, but to journal entries of disbursements made on a daily basis from the New York office.</field>
++    <field name="scopecontent_teim">The volumes labeled &#34;New York returns&#34; appear to refer, not to accounts or reports concerning the steamboat New York, but to journal entries of disbursements made on a daily basis from the New York office.</field>
+     <field name="ref_ssi">aspace_0df36d10838cbe0d8a6908b120689bc0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: HR-82, Volume: SN-287</field>
+     <field name="location_si">Offsite-Box: HR-82, Volume: SN-287</field>
+     <field name="collection_teim">Hudson River Day Line records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 315</field>
+     <field name="series_sim">Series II. Bound Volumes</field>
+     <field name="series_si">Series II. Bound Volumes &gt;&gt; New York returns, to September 1856</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;TV Cable Week&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      TV Cable Week
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;TV Cable Week&lt;/em&gt;</field>
++    <field name="unittitle_teim">TV Cable Week</field>
+     <field name="unitdate_normal_ssm">1983/1983</field>
+     <field name="unitdate_normal_teim">1983/1983</field>
+     <field name="unitdate_normal_sim">1983/1983</field>
+@@ -34,14 +30,11 @@
+     <field name="location_ssm">Offsite-Box: 1393, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 1393, Folder: 19</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series VI.A. Special Assistant to the Editor-in-Chief Gilbert Rogin Files</field>
+-    <field name="series_si">Series VI.A. Special Assistant to the Editor-in-Chief Gilbert Rogin Files &gt;&gt; 
+-      &lt;em&gt;TV Cable Week&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      TV Cable Week
+-    </field>
++    <field name="series_si">Series VI.A. Special Assistant to the Editor-in-Chief Gilbert Rogin Files &gt;&gt; &lt;em&gt;TV Cable Week&lt;/em&gt;</field>
++    <field name="heading_ssm">TV Cable Week</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Bumper sticker</field>
+     <field name="unittitle_teim">Bumper sticker</field>
+     <field name="unitdate_inclusive_teim">2004</field>
+-    <field name="scopecontent_teim">Bumper sticker reading "Well-behaved women seldom make history - Laurel Thatcher Ulrich."</field>
++    <field name="scopecontent_teim">Bumper sticker reading &#34;Well-behaved women seldom make history - Laurel Thatcher Ulrich.&#34;</field>
+     <field name="ref_ssi">aspace_cc0d4067a23f053a530c49bf3d319c97</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 39, Folder: 18</field>
+     <field name="location_si">Offsite-Box: 39, Folder: 18</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VII. Print matter</field>
+     <field name="series_sim">Subseries VII.E. Ephemera</field>

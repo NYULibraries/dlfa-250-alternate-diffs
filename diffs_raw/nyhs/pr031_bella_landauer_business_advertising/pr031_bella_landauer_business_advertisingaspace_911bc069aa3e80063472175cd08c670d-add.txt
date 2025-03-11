@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,9 +19,9 @@
+     <field name="unittitle_ssm">Beverages</field>
+     <field name="unittitle_teim">Beverages</field>
+     <field name="scopecontent_teim">Non-alcoholic Beverages</field>
+-    <field name="scopecontent_teim">Chocolate/cocoa: Bensdorp's Royal Dutch Cocoa; Van Houten's Cocoa; Miscellaneous brands</field>
++    <field name="scopecontent_teim">Chocolate/cocoa: Bensdorp&#39;s Royal Dutch Cocoa; Van Houten&#39;s Cocoa; Miscellaneous brands</field>
+     <field name="scopecontent_teim">Cider</field>
+-    <field name="scopecontent_teim">Coffee: miscellaneous brands A-Z; Arbuckle's Ariosa; Chase and Sandborn; Lion Coffee; McLoughlin's</field>
++    <field name="scopecontent_teim">Coffee: miscellaneous brands A-Z; Arbuckle&#39;s Ariosa; Chase and Sandborn; Lion Coffee; McLoughlin&#39;s</field>
+     <field name="scopecontent_teim">Coffee Shops and stores</field>
+     <field name="scopecontent_teim">
+ Juices</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">Offsite-Box: 10</field>
+     <field name="location_si">Offsite-Box: 10</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

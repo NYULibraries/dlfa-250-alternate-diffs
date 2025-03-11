@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">N-YHS Walking Tours</field>
+     <field name="unittitle_teim">N-YHS Walking Tours</field>
+     <field name="unitdate_teim">1987</field>
+-    <field name="scopecontent_teim">New-York Walks explored the history and development of New York's varied neighborhoods. Includes a brochure of the program and maps of the various walking tours.</field>
++    <field name="scopecontent_teim">New-York Walks explored the history and development of New York&#39;s varied neighborhoods. Includes a brochure of the program and maps of the various walking tours.</field>
+     <field name="ref_ssi">aspace_ref51_1cf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 8, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 8, Folder: 2</field>
+     <field name="collection_teim">New-York Historical Society public relations material</field>
++    <field name="author_teim">Margaret Kaczorowski (2016); Larry Weimer (2021)</field>
+     <field name="collection_unitid_teim">NYHS-RG 8</field>
+     <field name="series_sim">Series II.  Press Kits</field>
+     <field name="series_si">Series II.  Press Kits &gt;&gt; N-YHS Walking Tours</field>

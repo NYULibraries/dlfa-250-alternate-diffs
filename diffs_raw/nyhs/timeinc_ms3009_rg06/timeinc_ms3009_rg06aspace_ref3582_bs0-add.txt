@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,13 +16,13 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1981: April 14: Montreal: Speech to Canada's Business Council on National Interests</field>
+-    <field name="unittitle_teim">1981: April 14: Montreal: Speech to Canada's Business Council on National Interests</field>
++    <field name="unittitle_ssm">1981: April 14: Montreal: Speech to Canada&#39;s Business Council on National Interests</field>
++    <field name="unittitle_teim">1981: April 14: Montreal: Speech to Canada&#39;s Business Council on National Interests</field>
+     <field name="unitdate_normal_ssm">1981/1981</field>
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+     <field name="unitdate_inclusive_teim">1981</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side B label: "Montreal Speech Do not erase."</field>
++    <field name="scopecontent_teim">1 audiocassette : analog ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side B label: &#34;Montreal Speech Do not erase.&#34;</field>
+     <field name="ref_ssi">aspace_ref3582_bs0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Offsite-Box: 1048, Folder: 16</field>
+     <field name="location_si">Offsite-Box: 1048, Folder: 16</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.6. Speeches</field>
+-    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.6. Speeches &gt;&gt; 1981: April 14: Montreal: Speech to Canada's Business Council on National Interests</field>
+-    <field name="heading_ssm">1981: April 14: Montreal: Speech to Canada's Business Council on National Interests</field>
++    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.6. Speeches &gt;&gt; 1981: April 14: Montreal: Speech to Canada&#39;s Business Council on National Interests</field>
++    <field name="heading_ssm">1981: April 14: Montreal: Speech to Canada&#39;s Business Council on National Interests</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

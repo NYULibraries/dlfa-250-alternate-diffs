@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,13 +5,13 @@
+     <field name="ead_ssi">ms446_nyexchange_womens_work</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">New York Exchange for Women's Work</field>
+-    <field name="collection_ssm">New York Exchange for Women's Work</field>
++    <field name="collection_sim">New York Exchange for Women&#39;s Work</field>
++    <field name="collection_ssm">New York Exchange for Women&#39;s Work</field>
+     <field name="collection_unitid_ssm">MS 446</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Minutes,1878-1997</field>
+     <field name="unittitle_teim">Series I: Minutes,1878-1997</field>
+-    <field name="scopecontent_teim">This series contains minutes of the monthly and annual meetings of the Board of Directors (also known as the Board of Managers) of the New York Exchange for Woman's Work. Also included are Annual Reports, minutes of subcommittees, and Annual Reports to the Federation of Woman's Exchanges.</field>
++    <field name="scopecontent_teim">This series contains minutes of the monthly and annual meetings of the Board of Directors (also known as the Board of Managers) of the New York Exchange for Woman&#39;s Work. Also included are Annual Reports, minutes of subcommittees, and Annual Reports to the Federation of Woman&#39;s Exchanges.</field>
+     <field name="ref_ssi">aspace_ref14_c6c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -18,7 +18,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">New York Exchange for Women's Work</field>
++    <field name="collection_teim">New York Exchange for Women&#39;s Work</field>
++    <field name="author_teim">Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 446</field>
+     <field name="series_si">Series I: Minutes,1878-1997</field>
+     <field name="heading_ssm">Series I: Minutes,1878-1997</field>

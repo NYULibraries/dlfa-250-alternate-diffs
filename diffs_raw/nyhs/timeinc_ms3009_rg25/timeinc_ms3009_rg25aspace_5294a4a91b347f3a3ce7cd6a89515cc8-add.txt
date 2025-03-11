@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Geoff Colvin: Most Admired Corporations</field>
+     <field name="unittitle_teim">Geoff Colvin: Most Admired Corporations</field>
+     <field name="unitdate_teim">1995 February 15</field>
+-    <field name="scopecontent_teim">1 videocassette (U-matic): 3/4 in. On label on case front and cassette: "Satellite Press Tour  Most Admired Corporation"  Fortune Magazine  Geoff Colvin, Executive Editor  2/15/95  History Tape 2". On label on case side: "Fortune Magazine  "Most Admired Corporations" (2)  2/15/1995".</field>
++    <field name="scopecontent_teim">1 videocassette (U-matic): 3/4 in. On label on case front and cassette: &#34;Satellite Press Tour  Most Admired Corporation&#34;  Fortune Magazine  Geoff Colvin, Executive Editor  2/15/95  History Tape 2&#34;. On label on case side: &#34;Fortune Magazine  &#34;Most Admired Corporations&#34; (2)  2/15/1995&#34;.</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_ssm">Fortune</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Offsite-Box: 2928, item: 9</field>
+     <field name="location_si">Offsite-Box: 2928, item: 9</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.B. Fortune Satellite Press Tours</field>

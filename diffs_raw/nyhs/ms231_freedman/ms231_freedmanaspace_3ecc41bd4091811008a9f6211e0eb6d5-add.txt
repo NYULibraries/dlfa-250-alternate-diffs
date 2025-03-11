@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,12 @@
+     <field name="collection_ssm">Freedman family papers and other documents</field>
+     <field name="collection_unitid_ssm">MS 231</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. Ann's Church, Morrisania [The Bronx]. Deed and assignment</field>
+-    <field name="unittitle_teim">St. Ann's Church, Morrisania [The Bronx]. Deed and assignment</field>
++    <field name="unittitle_ssm">St. Ann&#39;s Church, Morrisania [The Bronx]. Deed and assignment</field>
++    <field name="unittitle_teim">St. Ann&#39;s Church, Morrisania [The Bronx]. Deed and assignment</field>
+     <field name="unitdate_inclusive_teim">1854, 1855</field>
+-    <field name="scopecontent_teim">•	St. Ann's Church, Morrisania. Deed, to The Corporation of St. Paul's Church, Morrisania, January 2, 1854.
+-•	St. Ann's Church, Morrisania. Assignment of mortgage to Edward Haight, September 20, 1855.</field>
++    <field name="scopecontent_teim">•	St. Ann&#39;s Church, Morrisania. Deed, to The Corporation of St. Paul&#39;s Church, Morrisania, January 2, 1854.
++
++•	St. Ann&#39;s Church, Morrisania. Assignment of mortgage to Edward Haight, September 20, 1855.</field>
+     <field name="ref_ssi">aspace_3ecc41bd4091811008a9f6211e0eb6d5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 5</field>
+     <field name="collection_teim">Freedman family papers and other documents</field>
++    <field name="author_teim">Joseph Ditta (October 2021)</field>
+     <field name="collection_unitid_teim">MS 231</field>
+     <field name="series_sim">Series III. Unrelated documents</field>
+-    <field name="series_si">Series III. Unrelated documents &gt;&gt; St. Ann's Church, Morrisania [The Bronx]. Deed and assignment</field>
+-    <field name="heading_ssm">St. Ann's Church, Morrisania [The Bronx]. Deed and assignment</field>
++    <field name="series_si">Series III. Unrelated documents &gt;&gt; St. Ann&#39;s Church, Morrisania [The Bronx]. Deed and assignment</field>
++    <field name="heading_ssm">St. Ann&#39;s Church, Morrisania [The Bronx]. Deed and assignment</field>
+     <field name="unitdate_ssm">Inclusive, 1854, 1855</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">44</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Manuscripts</field>
+     <field name="unittitle_teim">Manuscripts</field>
+-    <field name="scopecontent_teim">Fair copy of Morse's poetry collections Winter Sonnets, Fireside Musings, and Sonnets of Spring (titles taken from Morse's table of contents.)</field>
++    <field name="scopecontent_teim">Fair copy of Morse&#39;s poetry collections Winter Sonnets, Fireside Musings, and Sonnets of Spring (titles taken from Morse&#39;s table of contents.)</field>
+     <field name="title_teim">Winter Sonnets</field>
+     <field name="title_teim">Fireside Musings</field>
+     <field name="title_teim">Sonnets of Spring</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 1</field>
+     <field name="collection_teim">James Herbert Morse poetry collection</field>
++    <field name="author_teim">Paul-Louis Biondi</field>
+     <field name="collection_unitid_teim">MS 3233</field>
+     <field name="series_sim">Manuscripts and typescripts</field>
+     <field name="series_si">Manuscripts and typescripts &gt;&gt; Manuscripts</field>

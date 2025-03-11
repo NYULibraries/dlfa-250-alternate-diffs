@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series X. Poetry</field>
+     <field name="unittitle_teim">Series X. Poetry</field>
+     <field name="unitdate_inclusive_teim">1869-1883, undated</field>
+-    <field name="scopecontent_teim">Drafts and proofs of Lamb's poems. Also clippings, drafts, and a pamphlet of poetry by others.</field>
++    <field name="scopecontent_teim">Drafts and proofs of Lamb&#39;s poems. Also clippings, drafts, and a pamphlet of poetry by others.</field>
+     <field name="ref_ssi">aspace_ref205_932</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Martha J. Lamb papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 362</field>
+     <field name="series_si">Series X. Poetry</field>
+     <field name="heading_ssm">Series X. Poetry</field>

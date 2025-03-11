@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Photograph album #30</field>
+     <field name="unittitle_teim">Photograph album #30</field>
+     <field name="unitdate_inclusive_teim">1910 March-1911 January</field>
+-    <field name="scopecontent_teim">From the dealer's notes: "118 photos, includes photos of Bermuda, plus various views of towns and places in New York, Massachusetts, Vermont, New Hampshire, and even [closing in January 1911] Gibraltar. Also includes a pamphlet 'Souvenir of Bermuda' [with postcard-like pictorials] tucked in, compliments of 'A.S. Cooper &amp; Sons, Bermuda'; amongst other places."</field>
++    <field name="scopecontent_teim">From the dealer&#39;s notes: &#34;118 photos, includes photos of Bermuda, plus various views of towns and places in New York, Massachusetts, Vermont, New Hampshire, and even [closing in January 1911] Gibraltar. Also includes a pamphlet &#39;Souvenir of Bermuda&#39; [with postcard-like pictorials] tucked in, compliments of &#39;A.S. Cooper &amp; Sons, Bermuda&#39;; amongst other places.&#34;</field>
+     <field name="ref_ssi">aspace_697e2fa6f74392996a9a0ad32581c7df</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 6</field>
+     <field name="collection_teim">Blanche Potter photograph albums and travel journals</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3100</field>
+     <field name="series_si">Photograph album #30</field>
+     <field name="heading_ssm">Photograph album #30</field>

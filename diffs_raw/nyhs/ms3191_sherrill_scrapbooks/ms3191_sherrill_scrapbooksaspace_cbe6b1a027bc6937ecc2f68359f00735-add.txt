@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Scrapbook 21</field>
+     <field name="unittitle_teim">Scrapbook 21</field>
+     <field name="unitdate_inclusive_teim">July 1910 - March 1912</field>
+-    <field name="scopecontent_teim">This scrapbook documents Sherrill's time as Ambassador to Argentina.</field>
++    <field name="scopecontent_teim">This scrapbook documents Sherrill&#39;s time as Ambassador to Argentina.</field>
+     <field name="ref_ssi">aspace_cbe6b1a027bc6937ecc2f68359f00735</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Volume: 21</field>
+     <field name="location_si">Offsite-Box: 11, Volume: 21</field>
+     <field name="collection_teim">Charles H. Sherrill scrapbooks</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 3191</field>
+     <field name="series_si">Scrapbook 21</field>
+     <field name="heading_ssm">Scrapbook 21</field>

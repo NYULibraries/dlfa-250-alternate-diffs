@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Robert (or Charles?) Evans (2 photos/2 poses)</field>
+     <field name="unittitle_teim">Robert (or Charles?) Evans (2 photos/2 poses)</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">The photos are noted as "Bob Evans" on the reverse, but the code assigned to them by the family indicates Charles (EvansC2320401 and 0501).</field>
++    <field name="scopecontent_teim">The photos are noted as &#34;Bob Evans&#34; on the reverse, but the code assigned to them by the family indicates Charles (EvansC2320401 and 0501).</field>
+     <field name="ref_ssi">aspace_ref588_r7v</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 3</field>
+     <field name="location_si">Offsite-Box: 3</field>
+     <field name="collection_teim">Editta Sherman photographs</field>
++    <field name="author_teim">Larry Weimer and Anne Boissonnault</field>
+     <field name="collection_unitid_teim">PR 322</field>
+     <field name="series_sim">Series III. The Children of Lloyd Sherman Collection</field>
+     <field name="series_sim">8 x 10 Photographs</field>

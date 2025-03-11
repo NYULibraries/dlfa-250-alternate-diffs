@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Carole Hyatt papers</field>
+     <field name="collection_unitid_ssm">MS 3105</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Detroit Women's Focus Group (2 tapes/4 files)</field>
+-    <field name="unittitle_teim">Detroit Women's Focus Group (2 tapes/4 files)</field>
++    <field name="unittitle_ssm">Detroit Women&#39;s Focus Group (2 tapes/4 files)</field>
++    <field name="unittitle_teim">Detroit Women&#39;s Focus Group (2 tapes/4 files)</field>
+     <field name="unitdate_teim">1986 January 30</field>
+     <field name="scopecontent_teim">Labeled on all 4 sides of two tapes. [Per index, re: When Smart People Fail]</field>
+     <field name="ref_ssi">aspace_8a6dbe5f38aae05dd1c99f2762d2e99e</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: T2, Item: 133-134</field>
+     <field name="location_si">Box: T2, Item: 133-134</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>
+-    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Detroit Women's Focus Group (2 tapes/4 files)</field>
+-    <field name="heading_ssm">Detroit Women's Focus Group (2 tapes/4 files)</field>
++    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Detroit Women&#39;s Focus Group (2 tapes/4 files)</field>
++    <field name="heading_ssm">Detroit Women&#39;s Focus Group (2 tapes/4 files)</field>
+     <field name="unitdate_ssm">1986 January 30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">183</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Donald F. Clark collection</field>
+     <field name="collection_unitid_ssm">MS 118</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris's</field>
+-    <field name="unittitle_teim">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris's</field>
++    <field name="unittitle_ssm">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris&#39;s</field>
++    <field name="unittitle_teim">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris&#39;s</field>
+     <field name="unitdate_teim">1756 May 23</field>
+     <field name="scopecontent_teim">Fresh horse for delivering papers.</field>
+     <field name="ref_ssi">aspace_a0f7ae0af0563c4fd0d985e37541dbd4</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 2, item: 300</field>
+     <field name="location_si">Box: 2, item: 300</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+-    <field name="series_si">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris's</field>
+-    <field name="heading_ssm">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris's</field>
++    <field name="series_si">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris&#39;s</field>
++    <field name="heading_ssm">Parsons, William. Letter to Conrad Weiser, Esq. Camp at Harris&#39;s</field>
+     <field name="unitdate_ssm">1756 May 23</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">24</field>

@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,10 @@
+     <field name="collection_ssm">Winston Weisman Soho Historic District collection</field>
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"(35) 42": 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
+-    <field name="unittitle_teim">"(35) 42": 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
++    <field name="unittitle_ssm">&#34;(35) 42&#34;: 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
++    <field name="unittitle_teim">&#34;(35) 42&#34;: 88 -- 102 Prince Street, south side
++16 Crosby Street, west side
++132 -- 138 Lafayette Street</field>
+     <field name="ref_ssi">aspace_ref1466_j1q</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,12 +32,15 @@
+     <field name="location_ssm">Offsite-Box: 84, Folder: 873</field>
+     <field name="location_si">Offsite-Box: 84, Folder: 873</field>
+     <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
++    <field name="author_teim">Ricky Hunter</field>
+     <field name="collection_unitid_teim">PR 73</field>
+     <field name="series_sim">Series IV. Project Soho</field>
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35mm film prints</field>
+-    <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35mm film prints &gt;&gt; "(35) 42": 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
+-    <field name="heading_ssm">"(35) 42": 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
++    <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35mm film prints &gt;&gt; &#34;(35) 42&#34;: 88 -- 102 Prince Street, south side16 Crosby Street, west side132 -- 138 Lafayette Street</field>
++    <field name="heading_ssm">&#34;(35) 42&#34;: 88 -- 102 Prince Street, south side
++16 Crosby Street, west side
++132 -- 138 Lafayette Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">901</field>
+   </doc>

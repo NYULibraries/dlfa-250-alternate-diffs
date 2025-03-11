@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">1977 May 19</field>
+     <field name="unittitle_teim">1977 May 19</field>
+-    <field name="scopecontent_teim">1 audiotape reel : analog, 3 3/4 ips; 1/4 in. tape. On container label: "Speed 3 3/4. Date 5/19/77. Subject: Fortune's. Place: 47th Floor T&amp;L Bldg. Speakers. H. Donovan 0000 to 0380 on 3 3/4. Lubar 0381."</field>
++    <field name="scopecontent_teim">1 audiotape reel : analog, 3 3/4 ips; 1/4 in. tape. On container label: &#34;Speed 3 3/4. Date 5/19/77. Subject: Fortune&#39;s. Place: 47th Floor T&amp;L Bldg. Speakers. H. Donovan 0000 to 0380 on 3 3/4. Lubar 0381.&#34;</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_ssm">Fortune</field>
+     <field name="ref_ssi">aspace_ref2326_t21</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Offsite-Box: 785, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 785, Folder: 7</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.A. Editor-in-Chief Hedley Donovan Files</field>
+     <field name="series_sim">Subseries I.A.7. Audiovisual</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">TV is the Thing: &lt;em&gt;Fortune&lt;/em&gt; on Television</field>
+     <field name="unittitle_teim">TV is the Thing: Fortune on Television</field>
+     <field name="unitdate_inclusive_teim">1993  November</field>
+-    <field name="scopecontent_teim">1 videocassette (VHS): On label on case front: "'TV is the Thing'  Fortune on Television  11/93". On label on case side: "1993  "TV is the Thing"  Fortune on Television  11/93". On label on cassette: "'TV is the Thing' Fortune on Television".</field>
++    <field name="scopecontent_teim">1 videocassette (VHS): On label on case front: &#34;&#39;TV is the Thing&#39;  Fortune on Television  11/93&#34;. On label on case side: &#34;1993  &#34;TV is the Thing&#34;  Fortune on Television  11/93&#34;. On label on cassette: &#34;&#39;TV is the Thing&#39; Fortune on Television&#34;.</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Fortune</field>
+@@ -37,6 +37,7 @@
+     <field name="location_ssm">Offsite-Box: 2914, item: 13</field>
+     <field name="location_si">Offsite-Box: 2914, item: 13</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.A. Fortune Editors on TV</field>

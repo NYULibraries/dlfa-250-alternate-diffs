@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Orphan Train" - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
+-    <field name="unittitle_teim">"Orphan Train" - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
++    <field name="unittitle_ssm">&#34;Orphan Train&#34; - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
++    <field name="unittitle_teim">&#34;Orphan Train&#34; - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
+     <field name="unitdate_teim">circa 1962 March - 1963 April</field>
+     <field name="ref_ssi">aspace_ref653_xwe</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 35, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 35, Folder: 3</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008</field>
+     <field name="series_sim">Subseries IV.30. Orphan Train, 1904-2002</field>
+-    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.30. Orphan Train, 1904-2002 &gt;&gt; "Orphan Train" - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
+-    <field name="heading_ssm">"Orphan Train" - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
++    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.30. Orphan Train, 1904-2002 &gt;&gt; &#34;Orphan Train&#34; - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
++    <field name="heading_ssm">&#34;Orphan Train&#34; - Nebraska Reunion, 1962 April 1 - Correspondence, clippings, photographic prints, other materials</field>
+     <field name="unitdate_ssm">circa 1962 March - 1963 April</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">579</field>

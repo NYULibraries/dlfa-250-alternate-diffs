@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unittitle_teim">Voyage Round Long Island </field>
+     <field name="unitdate_teim">1821</field>
+     <field name="scopecontent_teim">There is a typescript associated with this journal. See Typescript. Journal, Voyage Round Long Island, 1821.</field>
+-    <field name="scopecontent_teim">Much of this account records the habits and attitudes of Harvey's travel companions as well as the state of his accommodations on board the steamboat. Some small attention is given to the natural landscape and the communities he encounters. </field>
++    <field name="scopecontent_teim">Much of this account records the habits and attitudes of Harvey&#39;s travel companions as well as the state of his accommodations on board the steamboat. Some small attention is given to the natural landscape and the communities he encounters. </field>
+     <field name="ref_ssi">aspace_ref297_7k9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Offsite-Box: 8, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 8, Folder: 5</field>
+     <field name="collection_teim">Jacob Harvey family papers</field>
++    <field name="author_teim">Anne Boissonnault</field>
+     <field name="collection_unitid_teim">MS 306</field>
+     <field name="series_sim">Series II. Harvey Family Papers</field>
+     <field name="series_sim">Subseries II.B. Jacob Harvey Journals </field>

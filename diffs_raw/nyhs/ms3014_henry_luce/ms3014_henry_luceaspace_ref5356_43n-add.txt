@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Trips - England, 1934</field>
+     <field name="unitdate_teim">1934</field>
+     <field name="scopecontent_teim">Contains a signed and notarized carbon copy of the document giving the power of attorney to Maurice
+-T. Moore and Charles L. Stillman, and a carbon copy draft of HRL's "Notes on England."</field>
++T. Moore and Charles L. Stillman, and a carbon copy draft of HRL&#39;s &#34;Notes on England.&#34;</field>
+     <field name="ref_ssi">aspace_ref5356_43n</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 183, Folder: 2</field>
+     <field name="location_si">Box: 183, Folder: 2</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series I. Biographical and Subject Files</field>
+     <field name="series_si">Series I. Biographical and Subject Files &gt;&gt; Trips - England, 1934</field>

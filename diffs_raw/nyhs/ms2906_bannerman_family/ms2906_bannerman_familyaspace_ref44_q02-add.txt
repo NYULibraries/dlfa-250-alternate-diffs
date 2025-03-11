@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries A: Business Records</field>
+     <field name="unittitle_teim">Subseries A: Business Records</field>
+-    <field name="scopecontent_teim">This subseries contains materials pertaining to the Bannerman family business from the 1890s to the 1970s. It includes correspondence, records and notes pertaining to the company's general business, ventures and eventual sale. In particular there are materials relating to its dealings with Lord Kitchnes regarding the Belgian Relief during WWI, the family of Admiral Dewey regarding the USS Olympia, the Marsteller Family regarding donations and relics, and the New York Central Railroad regarding a track crossing agreement.</field>
++    <field name="scopecontent_teim">This subseries contains materials pertaining to the Bannerman family business from the 1890s to the 1970s. It includes correspondence, records and notes pertaining to the company&#39;s general business, ventures and eventual sale. In particular there are materials relating to its dealings with Lord Kitchnes regarding the Belgian Relief during WWI, the family of Admiral Dewey regarding the USS Olympia, the Marsteller Family regarding donations and relics, and the New York Central Railroad regarding a track crossing agreement.</field>
+     <field name="ref_ssi">aspace_ref44_q02</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bannerman Family papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MS 2906</field>
+     <field name="series_sim">Series II: Francis Bannerman (Sons) Business</field>
+     <field name="series_si">Series II: Francis Bannerman (Sons) Business &gt;&gt; Subseries A: Business Records</field>

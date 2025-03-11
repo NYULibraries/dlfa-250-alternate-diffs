@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Underground Times Square" Oversize</field>
+-    <field name="unittitle_teim">"Underground Times Square" Oversize</field>
++    <field name="unittitle_ssm">&#34;Underground Times Square&#34; Oversize</field>
++    <field name="unittitle_teim">&#34;Underground Times Square&#34; Oversize</field>
+     <field name="unitdate_teim">1944</field>
+     <field name="ref_ssi">aspace_ref191_4z1</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 25</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 25</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series I: Drawings and Illustrations</field>
+     <field name="series_sim">Subseries I.C. Tracks</field>
+-    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.C. Tracks &gt;&gt; "Underground Times Square" Oversize</field>
+-    <field name="heading_ssm">"Underground Times Square" Oversize</field>
++    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.C. Tracks &gt;&gt; &#34;Underground Times Square&#34; Oversize</field>
++    <field name="heading_ssm">&#34;Underground Times Square&#34; Oversize</field>
+     <field name="unitdate_ssm">1944</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>

@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,10 +6,10 @@
+     <field name="parent_ssi">aspace_3083fcefbe3f29795ade4166564c168c</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_3083fcefbe3f29795ade4166564c168c</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+-    <field name="parent_unittitles_ssm">Williams' New-York Annual Register</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+-    <field name="parent_unittitles_teim">Williams' New-York Annual Register</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
++    <field name="parent_unittitles_ssm">Williams&amp;#39; New-York Annual Register</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
++    <field name="parent_unittitles_teim">Williams&amp;#39; New-York Annual Register</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Erasmus Hall records</field>
+@@ -21,6 +21,8 @@
+     <field name="unitdate_inclusive_teim">1831</field>
+     <field name="scopecontent_teim">Handsome woodcut of Erasmus Hall Academy opposite p. 159.
+ 
++
++
+ Presented by Lewis E. Drummond.</field>
+     <field name="ref_ssi">aspace_6c7a647a6414dcc72bf1055c09ba6670</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,13 +30,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Offsite-Box: RC-16, envelope: Williams' New-York Annual Register</field>
+-    <field name="location_si">Offsite-Box: RC-16, envelope: Williams' New-York Annual Register</field>
++    <field name="location_ssm">Offsite-Box: RC-16, envelope: Williams&#39; New-York Annual Register</field>
++    <field name="location_si">Offsite-Box: RC-16, envelope: Williams&#39; New-York Annual Register</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+-    <field name="series_sim">Williams' New-York Annual Register</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Williams' New-York Annual Register &gt;&gt; Williams, Edwin. &lt;em&gt;The New-York annual register for the year of our Lord 1831&lt;/em&gt;</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
++    <field name="series_sim">Williams&amp;#39; New-York Annual Register</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Williams&#39; New-York Annual Register &gt;&gt; Williams, Edwin. &lt;em&gt;The New-York annual register for the year of our Lord 1831&lt;/em&gt;</field>
+     <field name="heading_ssm">Williams, Edwin. The New-York annual register for the year of our Lord 1831</field>
+     <field name="unitdate_ssm">Inclusive, 1831</field>
+     <field name="date_range_sim">undated &amp; other</field>

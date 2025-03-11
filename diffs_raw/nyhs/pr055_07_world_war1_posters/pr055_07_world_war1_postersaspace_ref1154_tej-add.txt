@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Printed message of handwriting "Your little friend in Bible Lands / Shushan"</field>
+-    <field name="unittitle_teim">Printed message of handwriting "Your little friend in Bible Lands / Shushan"</field>
++    <field name="unittitle_ssm">Printed message of handwriting &#34;Your little friend in Bible Lands / Shushan&#34;</field>
++    <field name="unittitle_teim">Printed message of handwriting &#34;Your little friend in Bible Lands / Shushan&#34;</field>
+     <field name="ref_ssi">aspace_ref1154_tej</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 32</field>
+     <field name="location_si">Folder: 32</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series V: Relief Appeals</field>
+     <field name="series_sim">Subseries V.1: Relief for Foreign Countries</field>
+-    <field name="series_si">Series V: Relief Appeals &gt;&gt; Subseries V.1: Relief for Foreign Countries &gt;&gt; Printed message of handwriting "Your little friend in Bible Lands / Shushan"</field>
+-    <field name="heading_ssm">Printed message of handwriting "Your little friend in Bible Lands / Shushan"</field>
++    <field name="series_si">Series V: Relief Appeals &gt;&gt; Subseries V.1: Relief for Foreign Countries &gt;&gt; Printed message of handwriting &#34;Your little friend in Bible Lands / Shushan&#34;</field>
++    <field name="heading_ssm">Printed message of handwriting &#34;Your little friend in Bible Lands / Shushan&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">679</field>
+   </doc>

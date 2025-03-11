@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Staff Organizations</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 18</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"&lt;em&gt;Life&lt;/em&gt; @ 50" Prints</field>
+-    <field name="unittitle_teim">"Life @ 50" Prints</field>
++    <field name="unittitle_ssm">&#34;&lt;em&gt;Life&lt;/em&gt; @ 50&#34; Prints</field>
++    <field name="unittitle_teim">&#34;Life @ 50&#34; Prints</field>
+     <field name="unitdate_inclusive_teim">1986</field>
+     <field name="title_teim">Life</field>
+     <field name="title_ssm">Life</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 2787, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 2787, Folder: 11</field>
+     <field name="collection_teim">Time Inc. Staff Organizations</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 18</field>
+     <field name="series_sim">Series III. Time-Life Alumni Society (TLAS) Collection</field>
+     <field name="series_sim">Subseries III.E. General</field>
+-    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.E. General &gt;&gt; "&lt;em&gt;Life&lt;/em&gt; @ 50" Prints</field>
+-    <field name="heading_ssm">"Life @ 50" Prints</field>
++    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.E. General &gt;&gt; &#34;&lt;em&gt;Life&lt;/em&gt; @ 50&#34; Prints</field>
++    <field name="heading_ssm">&#34;Life @ 50&#34; Prints</field>
+     <field name="unitdate_ssm">Inclusive, 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">155</field>

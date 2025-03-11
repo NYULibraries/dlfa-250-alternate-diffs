@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Proposed Modification of the City Hall El. Station." Oversize</field>
+-    <field name="unittitle_teim">"Proposed Modification of the City Hall El. Station." Oversize</field>
++    <field name="unittitle_ssm">&#34;Proposed Modification of the City Hall El. Station.&#34; Oversize</field>
++    <field name="unittitle_teim">&#34;Proposed Modification of the City Hall El. Station.&#34; Oversize</field>
+     <field name="unitdate_teim">1944</field>
+     <field name="ref_ssi">aspace_ref197_f6o</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 26</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series I: Drawings and Illustrations</field>
+     <field name="series_sim">Subseries I.F. Miscellaneous</field>
+-    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.F. Miscellaneous &gt;&gt; "Proposed Modification of the City Hall El. Station." Oversize</field>
+-    <field name="heading_ssm">"Proposed Modification of the City Hall El. Station." Oversize</field>
++    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.F. Miscellaneous &gt;&gt; &#34;Proposed Modification of the City Hall El. Station.&#34; Oversize</field>
++    <field name="heading_ssm">&#34;Proposed Modification of the City Hall El. Station.&#34; Oversize</field>
+     <field name="unitdate_ssm">1944</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">62</field>

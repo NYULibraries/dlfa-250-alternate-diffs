@@ -1,0 +1,59 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists' Toolkit by Jefferson Bailey, October 2010.</field>
+-    <field name="author_ssm">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists' Toolkit by Jefferson Bailey, October 2010.</field>
++    <field name="author_teim">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists&#39; Toolkit by Jefferson Bailey, October 2010.</field>
++    <field name="author_ssm">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists&#39; Toolkit by Jefferson Bailey, October 2010.</field>
+     <field name="unittitle_teim">Slavery Collection</field>
+     <field name="unittitle_ssm">Slavery Collection</field>
+     <field name="unitid_teim">MS 569</field>
+@@ -11,7 +11,7 @@
+     <field name="abstract_ssm">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. Note that the Slavery Collection materials have been digitized and can be found here.</field>
+     <field name="unitdate_inclusive_teim">1709-1899 </field>
+     <field name="scopecontent_teim">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. These materials have all been digitized and can be viewed  here.</field>
+-    <field name="scopecontent_teim">The Slavery Collection is called an "artificial" collection because a third party placed unrelated items together according to subject matter.</field>
++    <field name="scopecontent_teim">The Slavery Collection is called an &#34;artificial&#34; collection because a third party placed unrelated items together according to subject matter.</field>
+     <field name="scopecontent_teim">Researchers who have used this collection in the past, or those following citations in published sources, should be aware that it was rearranged in 1999 in order to facilitate intellectual and physical access. Certain material that formerly was not arranged, or was arranged chronologically, is now arranged by format. For example, depositions are now grouped together, rather than being interfiled with accounts, receipts or deeds of manumission. </field>
+     <field name="corpname_teim">New-York Historical Society</field>
+     <field name="corpname_teim">TittBitt (Sloop)</field>
+@@ -48,7 +48,7 @@
+     <field name="genreform_teim">Birth certificates</field>
+     <field name="genreform_teim">Correspondence.</field>
+     <field name="genreform_teim">Deeds.</field>
+-    <field name="genreform_teim">Ships' manifests</field>
++    <field name="genreform_teim">Ships&#39; manifests</field>
+     <field name="genreform_teim">Receipts (financial records)</field>
+     <field name="genreform_teim">Indentures.</field>
+     <field name="genreform_teim">Estate inventories.</field>
+@@ -57,7 +57,7 @@
+     <field name="genreform_ssm">Birth certificates</field>
+     <field name="genreform_ssm">Correspondence.</field>
+     <field name="genreform_ssm">Deeds.</field>
+-    <field name="genreform_ssm">Ships' manifests</field>
++    <field name="genreform_ssm">Ships&#39; manifests</field>
+     <field name="genreform_ssm">Receipts (financial records)</field>
+     <field name="genreform_ssm">Indentures.</field>
+     <field name="genreform_ssm">Estate inventories.</field>
+@@ -229,7 +229,7 @@
+     <field name="material_type_sim">Birth certificates</field>
+     <field name="material_type_sim">Correspondence.</field>
+     <field name="material_type_sim">Deeds.</field>
+-    <field name="material_type_sim">Ships' manifests</field>
++    <field name="material_type_sim">Ships&#39; manifests</field>
+     <field name="material_type_sim">Receipts (financial records)</field>
+     <field name="material_type_sim">Indentures.</field>
+     <field name="material_type_sim">Estate inventories.</field>
+@@ -238,7 +238,7 @@
+     <field name="material_type_ssm">Birth certificates</field>
+     <field name="material_type_ssm">Correspondence.</field>
+     <field name="material_type_ssm">Deeds.</field>
+-    <field name="material_type_ssm">Ships' manifests</field>
++    <field name="material_type_ssm">Ships&#39; manifests</field>
+     <field name="material_type_ssm">Receipts (financial records)</field>
+     <field name="material_type_ssm">Indentures.</field>
+     <field name="material_type_ssm">Estate inventories.</field>

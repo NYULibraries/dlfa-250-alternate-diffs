@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="scopecontent_teim">Blood Purifiers:
+ Sarsaparilla, 
+ Miscellaneous</field>
+-    <field name="scopecontent_teim">Children's</field>
++    <field name="scopecontent_teim">Children&#39;s</field>
+     <field name="scopecontent_teim">Digestives;
+ Ex-Lax, 
+ Miscellaneous</field>
+@@ -42,6 +42,7 @@
+     <field name="location_ssm">Offsite-Box: 126</field>
+     <field name="location_si">Offsite-Box: 126</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries II: MEDIUM EPHEMERA</field>

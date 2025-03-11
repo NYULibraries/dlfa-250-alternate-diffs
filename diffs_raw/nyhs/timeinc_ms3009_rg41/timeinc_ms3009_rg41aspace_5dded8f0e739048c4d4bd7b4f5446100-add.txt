@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,11 @@
+     <field name="collection_ssm">Time Inc. Video Group Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 41</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;All's Well That Ends Well&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      All's Well That Ends Well
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;All&#39;s Well That Ends Well&lt;/em&gt;</field>
++    <field name="unittitle_teim">All&#39;s Well That Ends Well</field>
+     <field name="unitdate_inclusive_teim">1981-1986</field>
+-    <field name="title_teim">All's Well That Ends Well</field>
+-    <field name="title_ssm">All's Well That Ends Well</field>
++    <field name="title_teim">All&#39;s Well That Ends Well</field>
++    <field name="title_ssm">All&#39;s Well That Ends Well</field>
+     <field name="ref_ssi">aspace_5dded8f0e739048c4d4bd7b4f5446100</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -34,15 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 3397, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 3397, Folder: 8</field>
+     <field name="collection_teim">Time Inc. Video Group Records</field>
++    <field name="author_teim">Samantha Brown and Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3009-RG 41</field>
+     <field name="series_sim">Series VIII. Time-Life Video Records</field>
+     <field name="series_sim">Subseries VIII.B. Business Manager Kathy Coraggio Files</field>
+-    <field name="series_si">Series VIII. Time-Life Video Records &gt;&gt; Subseries VIII.B. Business Manager Kathy Coraggio Files &gt;&gt; 
+-      &lt;em&gt;All's Well That Ends Well&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      All's Well That Ends Well
+-    </field>
++    <field name="series_si">Series VIII. Time-Life Video Records &gt;&gt; Subseries VIII.B. Business Manager Kathy Coraggio Files &gt;&gt; &lt;em&gt;All&#39;s Well That Ends Well&lt;/em&gt;</field>
++    <field name="heading_ssm">All&#39;s Well That Ends Well</field>
+     <field name="unitdate_ssm">Inclusive, 1981-1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1767</field>

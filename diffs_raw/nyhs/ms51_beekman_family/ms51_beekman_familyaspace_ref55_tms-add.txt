@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Beekman family papers</field>
+     <field name="collection_unitid_ssm">MS 51</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman's Wife Lydia (d 1837)</field>
+-    <field name="unittitle_teim">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman's Wife Lydia (d 1837)</field>
++    <field name="unittitle_ssm">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman&#39;s Wife Lydia (d 1837)</field>
++    <field name="unittitle_teim">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman&#39;s Wife Lydia (d 1837)</field>
+     <field name="unitdate_teim">1830-1836</field>
+-    <field name="scopecontent_teim">White's notes do not describe all the material within this folder.</field>
++    <field name="scopecontent_teim">White&#39;s notes do not describe all the material within this folder.</field>
+     <field name="ref_ssi">aspace_ref55_tms</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 4, Folder: 1</field>
+     <field name="location_si">Box: 4, Folder: 1</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 4, James Beekman, Gerard Beekman</field>
+-    <field name="series_si">Box 4, James Beekman, Gerard Beekman &gt;&gt; Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman's Wife Lydia (d 1837)</field>
+-    <field name="heading_ssm">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman's Wife Lydia (d 1837)</field>
++    <field name="series_si">Box 4, James Beekman, Gerard Beekman &gt;&gt; Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman&#39;s Wife Lydia (d 1837)</field>
++    <field name="heading_ssm">Record of Correspondence between James Beekman, Jr. (d. 1836) and Mrs. Elizabeth Dunkin (executrix) regarding Disposition of Estate of Beekman&#39;s Wife Lydia (d 1837)</field>
+     <field name="unitdate_ssm">1830-1836</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">46</field>

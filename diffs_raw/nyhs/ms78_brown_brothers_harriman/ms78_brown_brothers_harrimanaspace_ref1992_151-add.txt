@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Finance&lt;/em&gt;; "The Fifty- Niner"</field>
+-    <field name="unittitle_teim">Finance; "The Fifty- Niner"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Finance&lt;/em&gt;; &#34;The Fifty- Niner&#34;</field>
++    <field name="unittitle_teim">Finance; &#34;The Fifty- Niner&#34;</field>
+     <field name="unitdate_teim">1944 June 10; 1945 March, Fall</field>
+     <field name="ref_ssi">aspace_ref1992_151</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 117, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 117, Folder: 8</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series VII. Promotional and Press Material (1944-1993)</field>
+-    <field name="series_si">Series VII. Promotional and Press Material (1944-1993) &gt;&gt; &lt;em&gt;Finance&lt;/em&gt;; "The Fifty- Niner"</field>
+-    <field name="heading_ssm">Finance; "The Fifty- Niner"</field>
++    <field name="series_si">Series VII. Promotional and Press Material (1944-1993) &gt;&gt; &lt;em&gt;Finance&lt;/em&gt;; &#34;The Fifty- Niner&#34;</field>
++    <field name="heading_ssm">Finance; &#34;The Fifty- Niner&#34;</field>
+     <field name="unitdate_ssm">1944 June 10; 1945 March, Fall</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1880</field>

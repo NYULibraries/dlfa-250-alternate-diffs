@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Art Poster file</field>
+     <field name="collection_unitid_ssm">PR 55-1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba's Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
+-    <field name="unittitle_teim">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba's Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
++    <field name="unittitle_ssm">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba&#39;s Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
++    <field name="unittitle_teim">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba&#39;s Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
+     <field name="unitdate_teim">1896/05/00</field>
+     <field name="ref_ssi">aspace_ref950_k4m</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">item: PR-055-001-0322</field>
+     <field name="location_si">item: PR-055-001-0322</field>
+     <field name="collection_teim">Art Poster file</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-1</field>
+     <field name="series_sim">Series I. Magazine and Journal Posters</field>
+-    <field name="series_si">Series I. Magazine and Journal Posters &gt;&gt; Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba's Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
+-    <field name="heading_ssm">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba's Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
++    <field name="series_si">Series I. Magazine and Journal Posters &gt;&gt; Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba&#39;s Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
++    <field name="heading_ssm">Metropolitan Magazine/ Duse, Artist and Woman/ Loie Fuller/ Cuba&#39;s Struggle for Liberty/ 10 cents (Potthast, Edward)</field>
+     <field name="unitdate_ssm">1896/05/00</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">323</field>

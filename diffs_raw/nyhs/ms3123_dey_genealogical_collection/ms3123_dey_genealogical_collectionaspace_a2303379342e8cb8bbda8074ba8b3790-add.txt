@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Dey Genealogical Collection Box 20</field>
+     <field name="unittitle_teim">Dey Genealogical Collection Box 20</field>
+-    <field name="scopecontent_teim">Box labeled "Indentures &amp; legal forms." Contains:</field>
++    <field name="scopecontent_teim">Box labeled &#34;Indentures &amp; legal forms.&#34; Contains:</field>
+     <field name="ref_ssi">aspace_a2303379342e8cb8bbda8074ba8b3790</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Offsite-Box: J</field>
+     <field name="location_si">Offsite-Box: J</field>
+     <field name="collection_teim">Dey genealogical collection</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 3123</field>
+     <field name="series_si">Dey Genealogical Collection Box 20</field>
+     <field name="heading_ssm">Dey Genealogical Collection Box 20</field>

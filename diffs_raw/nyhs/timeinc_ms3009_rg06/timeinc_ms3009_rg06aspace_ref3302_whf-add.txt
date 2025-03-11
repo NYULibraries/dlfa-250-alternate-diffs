@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">1978: &lt;em&gt;Time&lt;/em&gt; Covers: National Portrait Gallery [RESTRICTED]</field>
+     <field name="unittitle_teim">1978: Time Covers: National Portrait Gallery [RESTRICTED]</field>
+-    <field name="scopecontent_teim">The restricted file contains the gift agreement transferring Time Inc.'s collection of Time covers to the Smithsonian's National Portrait Gallery.</field>
++    <field name="scopecontent_teim">The restricted file contains the gift agreement transferring Time Inc.&#39;s collection of Time covers to the Smithsonian&#39;s National Portrait Gallery.</field>
+     <field name="title_teim">Time</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Offsite-Box: R18</field>
+     <field name="location_si">Offsite-Box: R18</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>

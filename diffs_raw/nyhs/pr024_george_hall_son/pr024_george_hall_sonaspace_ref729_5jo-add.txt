@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Albany - Capitol Building, Governor's Office, interior (2)</field>
+-    <field name="unittitle_teim">Albany - Capitol Building, Governor's Office, interior (2)</field>
++    <field name="unittitle_ssm">Albany - Capitol Building, Governor&#39;s Office, interior (2)</field>
++    <field name="unittitle_teim">Albany - Capitol Building, Governor&#39;s Office, interior (2)</field>
+     <field name="unitdate_normal_ssm">1905/1905</field>
+     <field name="unitdate_normal_teim">1905/1905</field>
+     <field name="unitdate_normal_sim">1905/1905</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">Box: 24, Folder: 221</field>
+     <field name="location_si">Box: 24, Folder: 221</field>
+     <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 24</field>
+     <field name="series_sim">Series III: Photographs Outside New York</field>
+     <field name="series_sim">Mounted</field>
+     <field name="series_sim">New York</field>
+-    <field name="series_si">Series III: Photographs Outside New York &gt;&gt; Mounted &gt;&gt; New York &gt;&gt; Albany - Capitol Building, Governor's Office, interior (2)</field>
+-    <field name="heading_ssm">Albany - Capitol Building, Governor's Office, interior (2)</field>
++    <field name="series_si">Series III: Photographs Outside New York &gt;&gt; Mounted &gt;&gt; New York &gt;&gt; Albany - Capitol Building, Governor&#39;s Office, interior (2)</field>
++    <field name="heading_ssm">Albany - Capitol Building, Governor&#39;s Office, interior (2)</field>
+     <field name="unitdate_start_sim">1905</field>
+     <field name="unitdate_start_ssm">1905</field>
+     <field name="unitdate_start_si">1905</field>

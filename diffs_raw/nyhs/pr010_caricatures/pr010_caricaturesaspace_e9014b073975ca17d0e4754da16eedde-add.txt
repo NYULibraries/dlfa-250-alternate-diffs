@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Season's Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
+-    <field name="unittitle_teim">The Season's Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
++    <field name="unittitle_ssm">The Season&#39;s Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
++    <field name="unittitle_teim">The Season&#39;s Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
+     <field name="unitdate_teim">1941</field>
+-    <field name="scopecontent_teim">Greeting card with a Augusto ferran lithograph inside. The lithograph is entitled Tipos Californianos. A Good Freight. Noted inside: "Number 5 of a series of twelve California lithographs published at Havana in 1850. In pencil on back, "By Grabhorn Press."</field>
++    <field name="scopecontent_teim">Greeting card with a Augusto ferran lithograph inside. The lithograph is entitled Tipos Californianos. A Good Freight. Noted inside: &#34;Number 5 of a series of twelve California lithographs published at Havana in 1850. In pencil on back, &#34;By Grabhorn Press.&#34;</field>
+     <field name="ref_ssi">aspace_e9014b073975ca17d0e4754da16eedde</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-145, item: 1941-No #</field>
+     <field name="location_si">Folder: FF-145, item: 1941-No #</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; The Season's Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
+-    <field name="heading_ssm">The Season's Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; The Season&#39;s Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
++    <field name="heading_ssm">The Season&#39;s Greetings. Carl Hoffman. 1941. Tipos Californianos. </field>
+     <field name="unitdate_ssm">1941</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1316</field>

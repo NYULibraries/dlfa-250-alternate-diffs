@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,11 +5,11 @@
+     <field name="ead_ssi">ms464_henry_oreilly</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Henry O'Reilly papers</field>
+-    <field name="collection_ssm">Henry O'Reilly papers</field>
++    <field name="collection_sim">Henry O&#39;Reilly papers</field>
++    <field name="collection_ssm">Henry O&#39;Reilly papers</field>
+     <field name="collection_unitid_ssm">MS 464</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series XV: Irish &amp;amp; American Steamship Company, 1851</field>
++    <field name="unittitle_ssm">Series XV: Irish &amp; American Steamship Company, 1851</field>
+     <field name="unittitle_teim">Series XV: Irish &amp; American Steamship Company, 1851</field>
+     <field name="ref_ssi">aspace_ref840_u4n</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -17,9 +17,10 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Henry O'Reilly papers</field>
++    <field name="collection_teim">Henry O&#39;Reilly papers</field>
++    <field name="author_teim">Rohinie J. Munzel</field>
+     <field name="collection_unitid_teim">MS 464</field>
+-    <field name="series_si">Series XV: Irish &amp;amp; American Steamship Company, 1851</field>
++    <field name="series_si">Series XV: Irish &amp; American Steamship Company, 1851</field>
+     <field name="heading_ssm">Series XV: Irish &amp; American Steamship Company, 1851</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">803</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Anthony Imbert lithographs</field>
+     <field name="collection_unitid_ssm">PR 225</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"The Doric Mansion, on Throgs Neck," drawn by A. J. Davis (2 copies)</field>
+-    <field name="unittitle_teim">"The Doric Mansion, on Throgs Neck," drawn by A. J. Davis (2 copies)</field>
++    <field name="unittitle_ssm">&#34;The Doric Mansion, on Throgs Neck,&#34; drawn by A. J. Davis (2 copies)</field>
++    <field name="unittitle_teim">&#34;The Doric Mansion, on Throgs Neck,&#34; drawn by A. J. Davis (2 copies)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_1c6ca87d681f69b46710d7e78f3bf90a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">Anthony Imbert lithographs</field>
++    <field name="author_teim">Jenny Gotwals (2003); migrated to ArchivesSpace by Joseph Ditta (2020)</field>
+     <field name="collection_unitid_teim">PR 225</field>
+     <field name="series_sim">5. Views of The Bronx</field>
+-    <field name="series_si">5. Views of The Bronx &gt;&gt; "The Doric Mansion, on Throgs Neck," drawn by A. J. Davis (2 copies)</field>
+-    <field name="heading_ssm">"The Doric Mansion, on Throgs Neck," drawn by A. J. Davis (2 copies)</field>
++    <field name="series_si">5. Views of The Bronx &gt;&gt; &#34;The Doric Mansion, on Throgs Neck,&#34; drawn by A. J. Davis (2 copies)</field>
++    <field name="heading_ssm">&#34;The Doric Mansion, on Throgs Neck,&#34; drawn by A. J. Davis (2 copies)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

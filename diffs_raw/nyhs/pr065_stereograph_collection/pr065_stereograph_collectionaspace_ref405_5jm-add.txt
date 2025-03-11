@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+     <field name="collection_unitid_ssm">PR 65</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York--NYC -- Manhattan--Parks &amp;amp; Squares -- Times Square</field>
++    <field name="unittitle_ssm">New York--NYC -- Manhattan--Parks &amp; Squares -- Times Square</field>
+     <field name="unittitle_teim">New York--NYC -- Manhattan--Parks &amp; Squares -- Times Square</field>
+     <field name="unitdate_normal_ssm">1940/1963</field>
+     <field name="unitdate_normal_teim">1940/1963</field>
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1940/1963</field>
+     <field name="unitdate_inclusive_teim">1940-1963</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0391</field>
+-    <field name="scopecontent_teim">Times Square: Neon sign and billboards. Looking north toward the Planter's Peanut, Four Roses and Chevrolet signs, later the site of the Chevrolet, Canadian Club and Admiral signs, large Pepsi advertisement on the right; animated Grand Union sign at 46th and Broadway; looking north at night, only lighted signs visible; theater signs; TWA and other signs, Broadway and 43rd; Pepsi sign, and Bond Clothiers; looking north from 45th street at night, Chevrolet sign reflected in puddle; east side of Broadway north of 46th, showing various lights and signs; looking south toward 1 Times Square building; 7th Avenue n. from 41st street showing Times building and clock.</field>
++    <field name="scopecontent_teim">Times Square: Neon sign and billboards. Looking north toward the Planter&#39;s Peanut, Four Roses and Chevrolet signs, later the site of the Chevrolet, Canadian Club and Admiral signs, large Pepsi advertisement on the right; animated Grand Union sign at 46th and Broadway; looking north at night, only lighted signs visible; theater signs; TWA and other signs, Broadway and 43rd; Pepsi sign, and Bond Clothiers; looking north from 45th street at night, Chevrolet sign reflected in puddle; east side of Broadway north of 46th, showing various lights and signs; looking south toward 1 Times Square building; 7th Avenue n. from 41st street showing Times building and clock.</field>
+     <field name="scopecontent_teim">17 items</field>
+     <field name="ref_ssi">aspace_ref405_5jm</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,9 +31,10 @@
+     <field name="location_ssm">Box: 38</field>
+     <field name="location_si">Box: 38</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+-    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Parks &amp;amp; Squares -- Times Square</field>
++    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Parks &amp; Squares -- Times Square</field>
+     <field name="heading_ssm">New York--NYC -- Manhattan--Parks &amp; Squares -- Times Square</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>

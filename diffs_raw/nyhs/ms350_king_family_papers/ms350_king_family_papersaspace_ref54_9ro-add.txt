@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">King Family Papers</field>
+     <field name="collection_unitid_ssm">MS 350</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">James Cowles Fisher: "Memorandum of my Birth and Connections"</field>
+-    <field name="unittitle_teim">James Cowles Fisher: "Memorandum of my Birth and Connections"</field>
++    <field name="unittitle_ssm">James Cowles Fisher: &#34;Memorandum of my Birth and Connections&#34;</field>
++    <field name="unittitle_teim">James Cowles Fisher: &#34;Memorandum of my Birth and Connections&#34;</field>
+     <field name="unitdate_normal_ssm">1832/1832</field>
+     <field name="unitdate_normal_teim">1832/1832</field>
+     <field name="unitdate_normal_sim">1832/1832</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">King Family Papers</field>
++    <field name="author_teim">Erin Shaw</field>
+     <field name="collection_unitid_teim">MS 350</field>
+     <field name="series_sim">Series II: General Family Materials</field>
+-    <field name="series_si">Series II: General Family Materials &gt;&gt; James Cowles Fisher: "Memorandum of my Birth and Connections"</field>
+-    <field name="heading_ssm">James Cowles Fisher: "Memorandum of my Birth and Connections"</field>
++    <field name="series_si">Series II: General Family Materials &gt;&gt; James Cowles Fisher: &#34;Memorandum of my Birth and Connections&#34;</field>
++    <field name="heading_ssm">James Cowles Fisher: &#34;Memorandum of my Birth and Connections&#34;</field>
+     <field name="unitdate_start_sim">1832</field>
+     <field name="unitdate_start_ssm">1832</field>
+     <field name="unitdate_start_si">1832</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2922_oxman</field>
+     <field name="parent_ssi">aspace_ref20_dfu</field>
+     <field name="parent_ssm">aspace_ref20_dfu</field>
+-    <field name="parent_unittitles_ssm">Series I. Principal's diaries</field>
+-    <field name="parent_unittitles_teim">Series I. Principal's diaries</field>
++    <field name="parent_unittitles_ssm">Series I. Principal&amp;#39;s diaries</field>
++    <field name="parent_unittitles_teim">Series I. Principal&amp;#39;s diaries</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Harriet Oxman papers</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 10</field>
+     <field name="collection_teim">Harriet Oxman papers</field>
++    <field name="author_teim">Joseph Ditta (2018, 2019)</field>
+     <field name="collection_unitid_teim">MS 2922</field>
+-    <field name="series_sim">Series I. Principal's diaries</field>
+-    <field name="series_si">Series I. Principal's diaries &gt;&gt; [notebook]</field>
++    <field name="series_sim">Series I. Principal&amp;#39;s diaries</field>
++    <field name="series_si">Series I. Principal&#39;s diaries &gt;&gt; [notebook]</field>
+     <field name="heading_ssm">[notebook]</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

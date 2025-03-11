@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">June Weeks</field>
+     <field name="unittitle_teim">June Weeks</field>
+     <field name="unitdate_inclusive_teim">1982-1993</field>
+-    <field name="scopecontent_teim">Ephemera, schedules, and rosters for week-long "Pre-K to Grade 3" program.</field>
++    <field name="scopecontent_teim">Ephemera, schedules, and rosters for week-long &#34;Pre-K to Grade 3&#34; program.</field>
+     <field name="ref_ssi">aspace_96701c36a38457552ab4476ddd96c032</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 89, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 89, Folder: 22</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 6. Camps and programs (1920s-2008; 1.25 linear feet)</field>
+     <field name="series_si">Record Group 6. Camps and programs (1920s-2008; 1.25 linear feet) &gt;&gt; June Weeks</field>

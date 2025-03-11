@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Widow Butler" [Benjamin F. Butler]</field>
+-    <field name="unittitle_teim">"Widow Butler" [Benjamin F. Butler]</field>
++    <field name="unittitle_ssm">&#34;Widow Butler&#34; [Benjamin F. Butler]</field>
++    <field name="unittitle_teim">&#34;Widow Butler&#34; [Benjamin F. Butler]</field>
+     <field name="unitdate_teim">1875</field>
+-    <field name="scopecontent_teim">Reproduction of pen and ink drawing by Thomas Nast entitled, "Widow Butler", a caricature of Ben. F. Butler. [Based on speech by Butler at Lawrence, Mass. Aug. 21, 1875.]</field>
++    <field name="scopecontent_teim">Reproduction of pen and ink drawing by Thomas Nast entitled, &#34;Widow Butler&#34;, a caricature of Ben. F. Butler. [Based on speech by Butler at Lawrence, Mass. Aug. 21, 1875.]</field>
+     <field name="ref_ssi">aspace_fcb2d05c91a1986bdd5fe380d7827aed</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-104, item: 1875-2b</field>
+     <field name="location_si">Folder: FF-104, item: 1875-2b</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; "Widow Butler" [Benjamin F. Butler]</field>
+-    <field name="heading_ssm">"Widow Butler" [Benjamin F. Butler]</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; &#34;Widow Butler&#34; [Benjamin F. Butler]</field>
++    <field name="heading_ssm">&#34;Widow Butler&#34; [Benjamin F. Butler]</field>
+     <field name="unitdate_ssm">1875</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1041</field>

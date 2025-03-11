@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,14 +16,11 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;New York City | Celebrations | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      New York City | Celebrations | Souvenir Folders &amp; Sets
+-    </field>
+-    <field name="scopecontent_teim">World's Fair, 1939
+-World's Fair, 1964-65</field>
++    <field name="unittitle_ssm">&lt;strong&gt;New York City | Celebrations | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="unittitle_teim">New York City | Celebrations | Souvenir Folders &amp; Sets</field>
++    <field name="scopecontent_teim">World&#39;s Fair, 1939
++
++World&#39;s Fair, 1964-65</field>
+     <field name="ref_ssi">aspace_f1cf2fe0d7490a18d6958dca129d5c10</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,15 +30,12 @@
+     <field name="location_ssm">Box: 96-D</field>
+     <field name="location_si">Box: 96-D</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;New York City | Celebrations | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      New York City | Celebrations | Souvenir Folders &amp; Sets
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;New York City | Celebrations | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="heading_ssm">New York City | Celebrations | Souvenir Folders &amp; Sets</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">171</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">London Times Sportswoman of the Year</field>
+     <field name="unittitle_teim">London Times Sportswoman of the Year</field>
+     <field name="unitdate_teim">2007 November 20</field>
+-    <field name="scopecontent_teim">Contains event program, itinerary, and BJK's typed and handwritten remarks for congratulating recipients of the awards.</field>
++    <field name="scopecontent_teim">Contains event program, itinerary, and BJK&#39;s typed and handwritten remarks for congratulating recipients of the awards.</field>
+     <field name="ref_ssi">aspace_6a73fa57563eff37b66f376e877468be</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 23, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 23, Folder: 2</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; London Times Sportswoman of the Year</field>

@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Time Inc. Corporate Public Affairs Department Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 19</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1967 August 5: &lt;em&gt;America's Great Wilderness&lt;/em&gt;</field>
+-    <field name="unittitle_teim">1967 August 5: America's Great Wilderness</field>
++    <field name="unittitle_ssm">1967 August 5: &lt;em&gt;America&#39;s Great Wilderness&lt;/em&gt;</field>
++    <field name="unittitle_teim">1967 August 5: America&#39;s Great Wilderness</field>
+     <field name="unitdate_inclusive_teim">1967</field>
+-    <field name="title_teim">America's Great Wilderness</field>
+-    <field name="title_ssm">America's Great Wilderness</field>
++    <field name="title_teim">America&#39;s Great Wilderness</field>
++    <field name="title_ssm">America&#39;s Great Wilderness</field>
+     <field name="ref_ssi">aspace_42a9b75f6a0e58ddcfaaf28f9d07fe78</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 4048, Folder: 13-14</field>
+     <field name="location_si">Offsite-Box: 4048, Folder: 13-14</field>
+     <field name="collection_teim">Time Inc. Corporate Public Affairs Department Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 19</field>
+     <field name="series_sim">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center</field>
+     <field name="series_sim">Subseries VII.B. Exhibition Files</field>
+-    <field name="series_si">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center &gt;&gt; Subseries VII.B. Exhibition Files &gt;&gt; 1967 August 5: &lt;em&gt;America's Great Wilderness&lt;/em&gt;</field>
+-    <field name="heading_ssm">1967 August 5: America's Great Wilderness</field>
++    <field name="series_si">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center &gt;&gt; Subseries VII.B. Exhibition Files &gt;&gt; 1967 August 5: &lt;em&gt;America&#39;s Great Wilderness&lt;/em&gt;</field>
++    <field name="heading_ssm">1967 August 5: America&#39;s Great Wilderness</field>
+     <field name="unitdate_ssm">Inclusive, 1967</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">817</field>

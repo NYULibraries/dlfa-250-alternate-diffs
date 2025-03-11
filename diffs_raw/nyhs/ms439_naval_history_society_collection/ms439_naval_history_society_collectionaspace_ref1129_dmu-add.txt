@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Our Other War in Korea," by William M. Leary, Jr., &lt;em&gt;U.S. Naval Institute Proceedings&lt;/em&gt; 94, no. 6: 46-53</field>
+-    <field name="unittitle_teim">"Our Other War in Korea," by William M. Leary, Jr., U.S. Naval Institute Proceedings 94, no. 6: 46-53</field>
++    <field name="unittitle_ssm">&#34;Our Other War in Korea,&#34; by William M. Leary, Jr., &lt;em&gt;U.S. Naval Institute Proceedings&lt;/em&gt; 94, no. 6: 46-53</field>
++    <field name="unittitle_teim">&#34;Our Other War in Korea,&#34; by William M. Leary, Jr., U.S. Naval Institute Proceedings 94, no. 6: 46-53</field>
+     <field name="unitdate_teim">1968 June</field>
+     <field name="title_teim">U.S. Naval Institute Proceedings</field>
+     <field name="title_ssm">U.S. Naval Institute Proceedings</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 46. William K. Wheeler (1860-1975)</field>
+-    <field name="series_si">Series 46. William K. Wheeler (1860-1975) &gt;&gt; "Our Other War in Korea," by William M. Leary, Jr., &lt;em&gt;U.S. Naval Institute Proceedings&lt;/em&gt; 94, no. 6: 46-53</field>
+-    <field name="heading_ssm">"Our Other War in Korea," by William M. Leary, Jr., U.S. Naval Institute Proceedings 94, no. 6: 46-53</field>
++    <field name="series_si">Series 46. William K. Wheeler (1860-1975) &gt;&gt; &#34;Our Other War in Korea,&#34; by William M. Leary, Jr., &lt;em&gt;U.S. Naval Institute Proceedings&lt;/em&gt; 94, no. 6: 46-53</field>
++    <field name="heading_ssm">&#34;Our Other War in Korea,&#34; by William M. Leary, Jr., U.S. Naval Institute Proceedings 94, no. 6: 46-53</field>
+     <field name="unitdate_ssm">1968 June</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1058</field>

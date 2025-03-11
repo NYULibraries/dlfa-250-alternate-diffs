@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Robert M. Lester Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 215</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Art Shows"</field>
+-    <field name="unittitle_teim">"Art Shows"</field>
++    <field name="unittitle_ssm">&#34;Art Shows&#34;</field>
++    <field name="unittitle_teim">&#34;Art Shows&#34;</field>
+     <field name="unitdate_teim">1947-1951</field>
+     <field name="ref_ssi">aspace_ref59_msn</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 3, Folder: 44</field>
+     <field name="location_si">Box: 3, Folder: 44</field>
+     <field name="collection_teim">Robert M. Lester Photograph Collection</field>
++    <field name="author_teim">Jennifer Lewis and Margaret Evans</field>
+     <field name="collection_unitid_teim">PR 215</field>
+     <field name="series_sim">Series II: Slides</field>
+-    <field name="series_si">Series II: Slides &gt;&gt; "Art Shows"</field>
+-    <field name="heading_ssm">"Art Shows"</field>
++    <field name="series_si">Series II: Slides &gt;&gt; &#34;Art Shows&#34;</field>
++    <field name="heading_ssm">&#34;Art Shows&#34;</field>
+     <field name="unitdate_ssm">1947-1951</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">45</field>

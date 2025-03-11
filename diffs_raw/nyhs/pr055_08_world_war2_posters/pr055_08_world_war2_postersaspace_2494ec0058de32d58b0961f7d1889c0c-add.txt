@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of World War II posters</field>
+     <field name="collection_unitid_ssm">PR 55-8</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Women's Army Auxiliary Corps (WAACs)</field>
+-    <field name="unittitle_teim">Women's Army Auxiliary Corps (WAACs)</field>
++    <field name="unittitle_ssm">Women&#39;s Army Auxiliary Corps (WAACs)</field>
++    <field name="unittitle_teim">Women&#39;s Army Auxiliary Corps (WAACs)</field>
+     <field name="scopecontent_teim">See also Recruitment folder above.</field>
+     <field name="ref_ssi">aspace_2494ec0058de32d58b0961f7d1889c0c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Folder: Flat File</field>
+     <field name="location_si">Folder: Flat File</field>
+     <field name="collection_teim">New-York Historical Society collection of World War II posters</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 55-8</field>
+-    <field name="series_si">Women's Army Auxiliary Corps (WAACs)</field>
+-    <field name="heading_ssm">Women's Army Auxiliary Corps (WAACs)</field>
++    <field name="series_si">Women&#39;s Army Auxiliary Corps (WAACs)</field>
++    <field name="heading_ssm">Women&#39;s Army Auxiliary Corps (WAACs)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>
+   </doc>

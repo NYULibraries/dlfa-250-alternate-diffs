@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series XV. Army supply papers</field>
+     <field name="unittitle_teim">Series XV. Army supply papers</field>
+     <field name="unitdate_inclusive_teim">1781-1785</field>
+-    <field name="scopecontent_teim">The series contain records and receipts from Duer's contracts to supply divisions of the American army with food and other necessities during and after the Revolutionary War.</field>
++    <field name="scopecontent_teim">The series contain records and receipts from Duer&#39;s contracts to supply divisions of the American army with food and other necessities during and after the Revolutionary War.</field>
+     <field name="ref_ssi">aspace_ref112_ejw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William Duer papers</field>
++    <field name="author_teim">Processed by Mary Jo Kline and Jan Hilley.</field>
+     <field name="collection_unitid_teim">MS 182</field>
+     <field name="series_si">Series XV. Army supply papers</field>
+     <field name="heading_ssm">Series XV. Army supply papers</field>

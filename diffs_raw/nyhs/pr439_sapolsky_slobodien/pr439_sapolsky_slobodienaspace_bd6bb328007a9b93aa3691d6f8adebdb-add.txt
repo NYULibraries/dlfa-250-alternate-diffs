@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sapolsky and Slobodien Architecture collection</field>
+     <field name="collection_unitid_ssm">PR 439</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">65-71, Arthur Brown, Grand Central Artists' Materials, 3 East 40th Street, NYC</field>
+-    <field name="unittitle_teim">65-71, Arthur Brown, Grand Central Artists' Materials, 3 East 40th Street, NYC</field>
++    <field name="unittitle_ssm">65-71, Arthur Brown, Grand Central Artists&#39; Materials, 3 East 40th Street, NYC</field>
++    <field name="unittitle_teim">65-71, Arthur Brown, Grand Central Artists&#39; Materials, 3 East 40th Street, NYC</field>
+     <field name="unitdate_inclusive_teim">1965</field>
+     <field name="ref_ssi">aspace_bd6bb328007a9b93aa3691d6f8adebdb</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 12</field>
+     <field name="location_si">Offsite-Box: 12</field>
+     <field name="collection_teim">Sapolsky and Slobodien Architecture collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 439</field>
+     <field name="series_sim">Series V: Other Buildings</field>
+-    <field name="series_si">Series V: Other Buildings &gt;&gt; 65-71, Arthur Brown, Grand Central Artists' Materials, 3 East 40th Street, NYC</field>
+-    <field name="heading_ssm">65-71, Arthur Brown, Grand Central Artists' Materials, 3 East 40th Street, NYC</field>
++    <field name="series_si">Series V: Other Buildings &gt;&gt; 65-71, Arthur Brown, Grand Central Artists&#39; Materials, 3 East 40th Street, NYC</field>
++    <field name="heading_ssm">65-71, Arthur Brown, Grand Central Artists&#39; Materials, 3 East 40th Street, NYC</field>
+     <field name="unitdate_ssm">Inclusive, 1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">289</field>

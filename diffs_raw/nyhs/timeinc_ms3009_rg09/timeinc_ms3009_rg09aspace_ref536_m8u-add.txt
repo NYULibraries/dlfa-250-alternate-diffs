@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Life Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Benigno, Teodoro (Philippines President's Press Secretary)</field>
+-    <field name="unittitle_teim">Benigno, Teodoro (Philippines President's Press Secretary)</field>
++    <field name="unittitle_ssm">Benigno, Teodoro (Philippines President&#39;s Press Secretary)</field>
++    <field name="unittitle_teim">Benigno, Teodoro (Philippines President&#39;s Press Secretary)</field>
+     <field name="unitdate_normal_ssm">1989/1989</field>
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 2209, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 2209, Folder: 9</field>
+     <field name="collection_teim">Time Inc. Life Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 9</field>
+     <field name="series_sim">Series II.D. Managing Editor Patricia Ryan Files</field>
+-    <field name="series_si">Series II.D. Managing Editor Patricia Ryan Files &gt;&gt; Benigno, Teodoro (Philippines President's Press Secretary)</field>
+-    <field name="heading_ssm">Benigno, Teodoro (Philippines President's Press Secretary)</field>
++    <field name="series_si">Series II.D. Managing Editor Patricia Ryan Files &gt;&gt; Benigno, Teodoro (Philippines President&#39;s Press Secretary)</field>
++    <field name="heading_ssm">Benigno, Teodoro (Philippines President&#39;s Press Secretary)</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>
+     <field name="unitdate_start_si">1989</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1860/1905</field>
+     <field name="unitdate_inclusive_teim">[1860-1905]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0754 </field>
+-    <field name="scopecontent_teim">Holy Land including Palestine (Israel), Lebanon, and Syria: Bethlehem; tomb of Rachel; Bethany; Cana in Galilee; Jerusalem: general views, the Wailing Wall, Garden of Gesthemane, "David's Judgement seat," Mount of Olives, pool of Gihon, tombs of Abraham and the Patriarchs, street scenes, portrait of a Jew of Jerusalem; wilderness of Engedi; Mount Carmel; Mount Tabor; Jenin; Jezreel; mosque at Hebron; valley of Kedron; Nazareth from the west; ruins of Church of St. John in Samaria; Jacob's well; Sharon; Shechem; Shiloh; Sinai: valley, palms, convent, and portrait of abbot and monks, Wady Mukatteb, with specimen of Semitic writing; travelers on camels; fountain of Jericho; site of Capernaum, ruins of synagogue; Rasheiya, looking towards Lebanon; Cedars of Lebanon; sheik's house, Mt. Lebanon; Beirut, including interior of home; interior of hotel in Damascus; Caesarea Philippi; Tiberias; Gorge of Brook Cherith and Elijah Convent.</field>
++    <field name="scopecontent_teim">Holy Land including Palestine (Israel), Lebanon, and Syria: Bethlehem; tomb of Rachel; Bethany; Cana in Galilee; Jerusalem: general views, the Wailing Wall, Garden of Gesthemane, &#34;David&#39;s Judgement seat,&#34; Mount of Olives, pool of Gihon, tombs of Abraham and the Patriarchs, street scenes, portrait of a Jew of Jerusalem; wilderness of Engedi; Mount Carmel; Mount Tabor; Jenin; Jezreel; mosque at Hebron; valley of Kedron; Nazareth from the west; ruins of Church of St. John in Samaria; Jacob&#39;s well; Sharon; Shechem; Shiloh; Sinai: valley, palms, convent, and portrait of abbot and monks, Wady Mukatteb, with specimen of Semitic writing; travelers on camels; fountain of Jericho; site of Capernaum, ruins of synagogue; Rasheiya, looking towards Lebanon; Cedars of Lebanon; sheik&#39;s house, Mt. Lebanon; Beirut, including interior of home; interior of hotel in Damascus; Caesarea Philippi; Tiberias; Gorge of Brook Cherith and Elijah Convent.</field>
+     <field name="scopecontent_teim">73 items</field>
+     <field name="ref_ssi">aspace_ref768_rcv</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 70</field>
+     <field name="location_si">Box: 70</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; Asia, Holy Land</field>

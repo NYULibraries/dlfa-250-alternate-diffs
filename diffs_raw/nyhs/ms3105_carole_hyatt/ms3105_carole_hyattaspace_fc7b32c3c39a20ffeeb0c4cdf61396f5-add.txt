@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">International Workshops other than Japan</field>
+     <field name="unittitle_teim">International Workshops other than Japan</field>
+     <field name="unitdate_inclusive_teim">1984, 1990</field>
+-    <field name="scopecontent_teim">Files on a United Nations Women Managers Assertiveness Training in Vienna (1984) and on women's focus group in Eastern Europe (Budapest and Poland).</field>
++    <field name="scopecontent_teim">Files on a United Nations Women Managers Assertiveness Training in Vienna (1984) and on women&#39;s focus group in Eastern Europe (Budapest and Poland).</field>
+     <field name="ref_ssi">aspace_fc7b32c3c39a20ffeeb0c4cdf61396f5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 9, Folder: 5</field>
+     <field name="location_si">Box: 9, Folder: 5</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series II. Research and Working Files</field>
+     <field name="series_sim">Subseries II.B. Working Files</field>

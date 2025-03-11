@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Sports Illustrated&lt;/em&gt;: Tom O'Reilly Piece</field>
+-    <field name="unittitle_teim">Sports Illustrated: Tom O'Reilly Piece</field>
++    <field name="unittitle_ssm">&lt;em&gt;Sports Illustrated&lt;/em&gt;: Tom O&#39;Reilly Piece</field>
++    <field name="unittitle_teim">Sports Illustrated: Tom O&#39;Reilly Piece</field>
+     <field name="unitdate_teim">1955</field>
+     <field name="title_teim">Sports Illustrated</field>
+     <field name="title_ssm">Sports Illustrated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 783, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 783, Folder: 6</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series II.A. President, Chairman of the Executive Committee, and Vice-chairman of the Board: Roy E. Larsen Files</field>
+-    <field name="series_si">Series II.A. President, Chairman of the Executive Committee, and Vice-chairman of the Board: Roy E. Larsen Files &gt;&gt; &lt;em&gt;Sports Illustrated&lt;/em&gt;: Tom O'Reilly Piece</field>
+-    <field name="heading_ssm">Sports Illustrated: Tom O'Reilly Piece</field>
++    <field name="series_si">Series II.A. President, Chairman of the Executive Committee, and Vice-chairman of the Board: Roy E. Larsen Files &gt;&gt; &lt;em&gt;Sports Illustrated&lt;/em&gt;: Tom O&#39;Reilly Piece</field>
++    <field name="heading_ssm">Sports Illustrated: Tom O&#39;Reilly Piece</field>
+     <field name="unitdate_ssm">1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">249</field>

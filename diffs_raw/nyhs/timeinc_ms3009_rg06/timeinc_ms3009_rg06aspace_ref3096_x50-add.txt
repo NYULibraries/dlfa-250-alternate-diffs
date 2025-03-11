@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,14 +16,14 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1980: Duncan's Washington Meeting</field>
+-    <field name="unittitle_teim">1980: Duncan's Washington Meeting</field>
++    <field name="unittitle_ssm">1980: Duncan&#39;s Washington Meeting</field>
++    <field name="unittitle_teim">1980: Duncan&#39;s Washington Meeting</field>
+     <field name="unitdate_normal_ssm">1980/1980</field>
+     <field name="unitdate_normal_teim">1980/1980</field>
+     <field name="unitdate_normal_sim">1980/1980</field>
+     <field name="unitdate_inclusive_teim">1980</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog, ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side A label: "Lucey." On side B label: "Yankelovich."</field>
+-    <field name="scopecontent_teim"> 1 audiocassette : analog, ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side A label: "Strauss." On side B label: "Jordan."</field>
++    <field name="scopecontent_teim">1 audiocassette : analog, ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side A label: &#34;Lucey.&#34; On side B label: &#34;Yankelovich.&#34;</field>
++    <field name="scopecontent_teim"> 1 audiocassette : analog, ; 1 15/16 x 1 5/16 in., 1/8 in. tape. On side A label: &#34;Strauss.&#34; On side B label: &#34;Jordan.&#34;</field>
+     <field name="ref_ssi">aspace_ref3096_x50</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Offsite-Box: 1030, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1030, Folder: 5</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>
+-    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1980: Duncan's Washington Meeting</field>
+-    <field name="heading_ssm">1980: Duncan's Washington Meeting</field>
++    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1980: Duncan&#39;s Washington Meeting</field>
++    <field name="heading_ssm">1980: Duncan&#39;s Washington Meeting</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>

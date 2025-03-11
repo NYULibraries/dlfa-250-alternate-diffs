@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Jerry at the Dentist's Office: Seinfeld: NBC-TV</field>
+-    <field name="unittitle_teim">Jerry at the Dentist's Office: Seinfeld: NBC-TV</field>
++    <field name="unittitle_ssm">Jerry at the Dentist&#39;s Office: Seinfeld: NBC-TV</field>
++    <field name="unittitle_teim">Jerry at the Dentist&#39;s Office: Seinfeld: NBC-TV</field>
+     <field name="unitdate_teim">1995 March 16</field>
+-    <field name="scopecontent_teim">1 videocassette (U-matic) (30 sec.): On labels on case front and cassette: "'Jerry at the Dentist's Office'  Seinfeld  NBC-TV Network  March 16, 1995 9:00-9:30 PM ET  0:30". On label on case side: "'Jerry at the Dentist's Offie  Seinfeld  NBC-TV Network  3/16/95 9:00 PM ET 0:30".</field>
++    <field name="scopecontent_teim">1 videocassette (U-matic) (30 sec.): On labels on case front and cassette: &#34;&#39;Jerry at the Dentist&#39;s Office&#39;  Seinfeld  NBC-TV Network  March 16, 1995 9:00-9:30 PM ET  0:30&#34;. On label on case side: &#34;&#39;Jerry at the Dentist&#39;s Offie  Seinfeld  NBC-TV Network  3/16/95 9:00 PM ET 0:30&#34;.</field>
+     <field name="ref_ssi">aspace_2e95c49f3e7035ac71c87ea6af838e8c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 2941, item: 10</field>
+     <field name="location_si">Offsite-Box: 2941, item: 10</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.E. Miscellaneous</field>
+-    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.E. Miscellaneous &gt;&gt; Jerry at the Dentist's Office: Seinfeld: NBC-TV</field>
+-    <field name="heading_ssm">Jerry at the Dentist's Office: Seinfeld: NBC-TV</field>
++    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.E. Miscellaneous &gt;&gt; Jerry at the Dentist&#39;s Office: Seinfeld: NBC-TV</field>
++    <field name="heading_ssm">Jerry at the Dentist&#39;s Office: Seinfeld: NBC-TV</field>
+     <field name="unitdate_ssm">1995 March 16</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">539</field>

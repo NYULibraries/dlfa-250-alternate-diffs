@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Register of Distinguished Visitors to N-YHS</field>
+     <field name="unittitle_teim">Register of Distinguished Visitors to N-YHS</field>
+     <field name="unitdate_teim">1939, 1954, 1957</field>
+-    <field name="scopecontent_teim">Includes visitors from the official opening in 1939 of the renovated N-YHS building; a dinner held at the Union Club in 1954 to celebrate N-YHS's 150th anniversary; and signatures of Marquis de Lafayette's descendants on the occasion of the 200th anniversary of his birth</field>
++    <field name="scopecontent_teim">Includes visitors from the official opening in 1939 of the renovated N-YHS building; a dinner held at the Union Club in 1954 to celebrate N-YHS&#39;s 150th anniversary; and signatures of Marquis de Lafayette&#39;s descendants on the occasion of the 200th anniversary of his birth</field>
+     <field name="ref_ssi">aspace_ref866_z31</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 305, item: -</field>
+     <field name="location_si">Offsite-Box: 305, item: -</field>
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+     <field name="series_sim">Series X. Public Service (RESTRICTED IN PART)</field>
+     <field name="series_sim">Subseries X.A. Visitor Sign-in Registers and Related Material</field>

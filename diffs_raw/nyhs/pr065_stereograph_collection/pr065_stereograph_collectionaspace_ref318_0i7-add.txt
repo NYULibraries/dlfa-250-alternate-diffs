@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">New York--NYC -- Manhattan--Churches -- Unitarian</field>
+     <field name="unitdate_teim">[1858-1875]</field>
+     <field name="scopecontent_teim">PR-065-0304</field>
+-    <field name="scopecontent_teim">Dr. Belknap's church, the Church of All Souls, or "Church of the Holy Beefsteak", Fourth Avenue and 20th Street.</field>
++    <field name="scopecontent_teim">Dr. Belknap&#39;s church, the Church of All Souls, or &#34;Church of the Holy Beefsteak&#34;, Fourth Avenue and 20th Street.</field>
+     <field name="scopecontent_teim">5 items</field>
+     <field name="ref_ssi">aspace_ref318_0i7</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 30</field>
+     <field name="location_si">Box: 30</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Churches -- Unitarian</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Bill Saporito: Men's Fashion: NY1</field>
+-    <field name="unittitle_teim">Bill Saporito: Men's Fashion: NY1</field>
++    <field name="unittitle_ssm">Bill Saporito: Men&#39;s Fashion: NY1</field>
++    <field name="unittitle_teim">Bill Saporito: Men&#39;s Fashion: NY1</field>
+     <field name="unitdate_teim">1993 September 3</field>
+-    <field name="scopecontent_teim">1 videocassette (VHS): On label on case front: "Bill Saporito -  NY1 - Men's Fashion  9/3/93". On label on case side: "Saporito 9/3/93  NY1-Men's  Fashion".</field>
++    <field name="scopecontent_teim">1 videocassette (VHS): On label on case front: &#34;Bill Saporito -  NY1 - Men&#39;s Fashion  9/3/93&#34;. On label on case side: &#34;Saporito 9/3/93  NY1-Men&#39;s  Fashion&#34;.</field>
+     <field name="ref_ssi">aspace_6d01ed52f70597893ef8defde14a2f13</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 2914, item: 3</field>
+     <field name="location_si">Offsite-Box: 2914, item: 3</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.A. Fortune Editors on TV</field>
+-    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Bill Saporito: Men's Fashion: NY1</field>
+-    <field name="heading_ssm">Bill Saporito: Men's Fashion: NY1</field>
++    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Bill Saporito: Men&#39;s Fashion: NY1</field>
++    <field name="heading_ssm">Bill Saporito: Men&#39;s Fashion: NY1</field>
+     <field name="unitdate_ssm">1993 September 3</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">225</field>

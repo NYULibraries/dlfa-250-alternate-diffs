@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Time Inc. Sports Illustrated Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Women's Sports &amp;amp; Fitness&lt;/em&gt;: Spring Shape Up [RESTRICTED]</field>
+-    <field name="unittitle_teim">Women's Sports &amp; Fitness: Spring Shape Up [RESTRICTED]</field>
++    <field name="unittitle_ssm">&lt;em&gt;Women&#39;s Sports &amp; Fitness&lt;/em&gt;: Spring Shape Up [RESTRICTED]</field>
++    <field name="unittitle_teim">Women&#39;s Sports &amp; Fitness: Spring Shape Up [RESTRICTED]</field>
+     <field name="unitdate_inclusive_teim">1987</field>
+-    <field name="title_teim">Women's Sports &amp; Fitness</field>
+-    <field name="title_ssm">Women's Sports &amp; Fitness</field>
++    <field name="title_teim">Women&#39;s Sports &amp; Fitness</field>
++    <field name="title_ssm">Women&#39;s Sports &amp; Fitness</field>
+     <field name="ref_ssi">aspace_b072efac88075e7aa55e8035b33caa4f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: R65</field>
+     <field name="location_si">Offsite-Box: R65</field>
+     <field name="collection_teim">Time Inc. Sports Illustrated Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 35</field>
+     <field name="series_sim">Series IV. Advertising Promotion Department Records</field>
+     <field name="series_sim">Subseries IV.C. Promotion Development Manager Kathie-Lee Wilcox Files </field>
+-    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.C. Promotion Development Manager Kathie-Lee Wilcox Files  &gt;&gt; &lt;em&gt;Women's Sports &amp;amp; Fitness&lt;/em&gt;: Spring Shape Up [RESTRICTED]</field>
+-    <field name="heading_ssm">Women's Sports &amp; Fitness: Spring Shape Up [RESTRICTED]</field>
++    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.C. Promotion Development Manager Kathie-Lee Wilcox Files  &gt;&gt; &lt;em&gt;Women&#39;s Sports &amp; Fitness&lt;/em&gt;: Spring Shape Up [RESTRICTED]</field>
++    <field name="heading_ssm">Women&#39;s Sports &amp; Fitness: Spring Shape Up [RESTRICTED]</field>
+     <field name="unitdate_ssm">Inclusive, 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">376</field>

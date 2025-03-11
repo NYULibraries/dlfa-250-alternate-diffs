@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tennis Magazine's The Best in Tennis</field>
+-    <field name="unittitle_teim">Tennis Magazine's The Best in Tennis</field>
++    <field name="unittitle_ssm">Tennis Magazine&#39;s The Best in Tennis</field>
++    <field name="unittitle_teim">Tennis Magazine&#39;s The Best in Tennis</field>
+     <field name="unitdate_inclusive_teim">1987 November</field>
+     <field name="ref_ssi">aspace_87830b79f754c91075f89b01006b123f</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 23, Folder: 29</field>
+     <field name="location_si">Offsite-Box: 23, Folder: 29</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series V. Awards and recognition</field>
+-    <field name="series_si">Series V. Awards and recognition &gt;&gt; Tennis Magazine's The Best in Tennis</field>
+-    <field name="heading_ssm">Tennis Magazine's The Best in Tennis</field>
++    <field name="series_si">Series V. Awards and recognition &gt;&gt; Tennis Magazine&#39;s The Best in Tennis</field>
++    <field name="heading_ssm">Tennis Magazine&#39;s The Best in Tennis</field>
+     <field name="unitdate_ssm">Inclusive, 1987 November</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">328</field>

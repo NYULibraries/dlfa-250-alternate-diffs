@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Statement of administrator of late Captain R.W. Meade, USN"</field>
+-    <field name="unittitle_teim">"Statement of administrator of late Captain R.W. Meade, USN"</field>
++    <field name="unittitle_ssm">&#34;Statement of administrator of late Captain R.W. Meade, USN&#34;</field>
++    <field name="unittitle_teim">&#34;Statement of administrator of late Captain R.W. Meade, USN&#34;</field>
+     <field name="unitdate_teim">1871</field>
+     <field name="ref_ssi">aspace_ref950_xmv</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 1</field>
+     <field name="location_si">Box: 2, Folder: 1</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976)</field>
+-    <field name="series_si">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976) &gt;&gt; "Statement of administrator of late Captain R.W. Meade, USN"</field>
+-    <field name="heading_ssm">"Statement of administrator of late Captain R.W. Meade, USN"</field>
++    <field name="series_si">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976) &gt;&gt; &#34;Statement of administrator of late Captain R.W. Meade, USN&#34;</field>
++    <field name="heading_ssm">&#34;Statement of administrator of late Captain R.W. Meade, USN&#34;</field>
+     <field name="unitdate_ssm">1871</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">895</field>

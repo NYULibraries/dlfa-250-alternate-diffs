@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George B. Post architectural records</field>
+     <field name="collection_unitid_ssm">PR 53</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New Jersey—Atlantic City | Child's Building</field>
+-    <field name="unittitle_teim">New Jersey—Atlantic City | Child's Building</field>
++    <field name="unittitle_ssm">New Jersey—Atlantic City | Child&#39;s Building</field>
++    <field name="unittitle_teim">New Jersey—Atlantic City | Child&#39;s Building</field>
+     <field name="ref_ssi">aspace_bf06399e0e4417c806eeb30d4f4f0530</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Offsite-Box: RD-065, tube: 220</field>
+     <field name="location_si">Offsite-Box: RD-065, tube: 220</field>
+     <field name="collection_teim">George B. Post architectural records</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 53</field>
+     <field name="series_sim">Series I. Rolled Drawings</field>
+     <field name="series_sim">New Jersey</field>
+-    <field name="series_si">Series I. Rolled Drawings &gt;&gt; New Jersey &gt;&gt; New Jersey—Atlantic City | Child's Building</field>
+-    <field name="heading_ssm">New Jersey—Atlantic City | Child's Building</field>
++    <field name="series_si">Series I. Rolled Drawings &gt;&gt; New Jersey &gt;&gt; New Jersey—Atlantic City | Child&#39;s Building</field>
++    <field name="heading_ssm">New Jersey—Atlantic City | Child&#39;s Building</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">57</field>
+   </doc>

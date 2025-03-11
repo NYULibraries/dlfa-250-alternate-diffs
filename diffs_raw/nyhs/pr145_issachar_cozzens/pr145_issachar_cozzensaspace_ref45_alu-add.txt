@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Issachar Cozzens portfolio print collection</field>
+     <field name="collection_unitid_ssm">PR 145</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Map of Madison's Cave</field>
+-    <field name="unittitle_teim">Map of Madison's Cave</field>
++    <field name="unittitle_ssm">Map of Madison&#39;s Cave</field>
++    <field name="unittitle_teim">Map of Madison&#39;s Cave</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_ref45_alu</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Folder: 1, item: 61.3B</field>
+     <field name="location_si">Folder: 1, item: 61.3B</field>
+     <field name="collection_teim">Issachar Cozzens portfolio print collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 145</field>
+-    <field name="series_si">Map of Madison's Cave</field>
+-    <field name="heading_ssm">Map of Madison's Cave</field>
++    <field name="series_si">Map of Madison&#39;s Cave</field>
++    <field name="heading_ssm">Map of Madison&#39;s Cave</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">34</field>

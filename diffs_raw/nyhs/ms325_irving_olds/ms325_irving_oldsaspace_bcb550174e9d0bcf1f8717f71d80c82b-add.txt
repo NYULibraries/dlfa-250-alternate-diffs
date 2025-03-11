@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence, Behrend</field>
+     <field name="unittitle_teim">Correspondence, Behrend</field>
+     <field name="unitdate_inclusive_teim">1922-1945</field>
+-    <field name="scopecontent_teim">Includes correspondence regarding Ernst R Behrend, the President of the Hammermill Paper Company, who was a close friend of Olds, and had ties to Olds's childhood hometown of Erie, Pennsylvania</field>
++    <field name="scopecontent_teim">Includes correspondence regarding Ernst R Behrend, the President of the Hammermill Paper Company, who was a close friend of Olds, and had ties to Olds&#39;s childhood hometown of Erie, Pennsylvania</field>
+     <field name="ref_ssi">aspace_bcb550174e9d0bcf1f8717f71d80c82b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 7</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Correspondence, Behrend</field>

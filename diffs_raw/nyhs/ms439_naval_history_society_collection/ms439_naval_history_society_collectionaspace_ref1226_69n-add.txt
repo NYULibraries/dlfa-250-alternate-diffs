@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">A log book for the ship &lt;em&gt;Bon Homme Richard&lt;/em&gt;, the honorible [sic] John Paul Jones, Commander. Begun at L'Orient, Saturday 8th of May 1779 [transcript]</field>
+-    <field name="unittitle_teim">A log book for the ship Bon Homme Richard, the honorible [sic] John Paul Jones, Commander. Begun at L'Orient, Saturday 8th of May 1779 [transcript]</field>
++    <field name="unittitle_ssm">A log book for the ship &lt;em&gt;Bon Homme Richard&lt;/em&gt;, the honorible [sic] John Paul Jones, Commander. Begun at L&#39;Orient, Saturday 8th of May 1779 [transcript]</field>
++    <field name="unittitle_teim">A log book for the ship Bon Homme Richard, the honorible [sic] John Paul Jones, Commander. Begun at L&#39;Orient, Saturday 8th of May 1779 [transcript]</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="title_teim">Bon Homme Richard</field>
+     <field name="title_ssm">Bon Homme Richard</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Volume: 7</field>
+     <field name="location_si">Volume: 7</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 49. Logbooks: U.S. Navy (1799-1928, undated)</field>
+-    <field name="series_si">Series 49. Logbooks: U.S. Navy (1799-1928, undated) &gt;&gt; A log book for the ship &lt;em&gt;Bon Homme Richard&lt;/em&gt;, the honorible [sic] John Paul Jones, Commander. Begun at L'Orient, Saturday 8th of May 1779 [transcript]</field>
+-    <field name="heading_ssm">A log book for the ship Bon Homme Richard, the honorible [sic] John Paul Jones, Commander. Begun at L'Orient, Saturday 8th of May 1779 [transcript]</field>
++    <field name="series_si">Series 49. Logbooks: U.S. Navy (1799-1928, undated) &gt;&gt; A log book for the ship &lt;em&gt;Bon Homme Richard&lt;/em&gt;, the honorible [sic] John Paul Jones, Commander. Begun at L&#39;Orient, Saturday 8th of May 1779 [transcript]</field>
++    <field name="heading_ssm">A log book for the ship Bon Homme Richard, the honorible [sic] John Paul Jones, Commander. Begun at L&#39;Orient, Saturday 8th of May 1779 [transcript]</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1152</field>

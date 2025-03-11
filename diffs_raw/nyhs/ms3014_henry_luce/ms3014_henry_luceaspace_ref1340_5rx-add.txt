@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Henry R. Luce papers</field>
+     <field name="collection_unitid_ssm">MS 3014</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Harper &amp;amp; Brothers Receipts</field>
++    <field name="unittitle_ssm">Harper &amp; Brothers Receipts</field>
+     <field name="unittitle_teim">Harper &amp; Brothers Receipts</field>
+     <field name="unitdate_teim">1942-1945</field>
+-    <field name="scopecontent_teim">Revenue for the sale of "The Day of the Saxon" and "Valor of Ignorance."</field>
++    <field name="scopecontent_teim">Revenue for the sale of &#34;The Day of the Saxon&#34; and &#34;Valor of Ignorance.&#34;</field>
+     <field name="ref_ssi">aspace_ref1340_5rx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 67, Folder: 7</field>
+     <field name="location_si">Box: 67, Folder: 7</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series VIII. Financial Files</field>
+     <field name="series_sim">Subseries VIII.B. Clare Boothe Luce Financial Files</field>
+-    <field name="series_si">Series VIII. Financial Files &gt;&gt; Subseries VIII.B. Clare Boothe Luce Financial Files &gt;&gt; Harper &amp;amp; Brothers Receipts</field>
++    <field name="series_si">Series VIII. Financial Files &gt;&gt; Subseries VIII.B. Clare Boothe Luce Financial Files &gt;&gt; Harper &amp; Brothers Receipts</field>
+     <field name="heading_ssm">Harper &amp; Brothers Receipts</field>
+     <field name="unitdate_ssm">1942-1945</field>
+     <field name="date_range_sim">undated &amp; other</field>

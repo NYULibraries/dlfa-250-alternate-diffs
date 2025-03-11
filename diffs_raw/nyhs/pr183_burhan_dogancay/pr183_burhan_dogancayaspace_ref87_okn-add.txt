@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;The Paris Review&lt;/em&gt;, Number 134</field>
+     <field name="unittitle_teim">The Paris Review, Number 134</field>
+     <field name="unitdate_teim">1995</field>
+-    <field name="scopecontent_teim">Includes Dogançay's drawing Detour on the cover.</field>
++    <field name="scopecontent_teim">Includes Dogançay&#39;s drawing Detour on the cover.</field>
+     <field name="ref_ssi">aspace_ref87_okn</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,8 @@
+     <field name="location_ssm">Box: 13, Folder: 5</field>
+     <field name="location_si">Box: 13, Folder: 5</field>
+     <field name="collection_teim">Burhan Dogançay (Dogancay) photographs and sketchbooks</field>
++    <field name="author_teim">Jessica Flon and Larry Weimer
++</field>
+     <field name="collection_unitid_teim">PR 183</field>
+     <field name="series_sim">Series IV. Books and Other Print Matter</field>
+     <field name="series_si">Series IV. Books and Other Print Matter &gt;&gt; &lt;em&gt;The Paris Review&lt;/em&gt;, Number 134</field>

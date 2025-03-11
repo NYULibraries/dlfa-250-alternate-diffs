@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">US Open Court of Champions</field>
+     <field name="unittitle_teim">US Open Court of Champions</field>
+     <field name="unitdate_inclusive_teim">2003 August</field>
+-    <field name="scopecontent_teim">Contains handwritten speech. Topics include childhood experiences with tennis, USTA leadership, and equality in earnings for women's tennis.</field>
++    <field name="scopecontent_teim">Contains handwritten speech. Topics include childhood experiences with tennis, USTA leadership, and equality in earnings for women&#39;s tennis.</field>
+     <field name="ref_ssi">aspace_dcbc7af873dfd25528861220c0a550ad</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 21, Folder: 23</field>
+     <field name="location_si">Offsite-Box: 21, Folder: 23</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; US Open Court of Champions</field>

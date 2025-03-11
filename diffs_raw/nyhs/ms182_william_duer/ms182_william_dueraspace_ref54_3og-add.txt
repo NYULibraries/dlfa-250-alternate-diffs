@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series III. Correspondence: Catherine (Mrs. William) Duer</field>
+     <field name="unittitle_teim">Series III. Correspondence: Catherine (Mrs. William) Duer</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">These letters deal with family matters and Duer's financial situation.</field>
++    <field name="scopecontent_teim">These letters deal with family matters and Duer&#39;s financial situation.</field>
+     <field name="ref_ssi">aspace_ref54_3og</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William Duer papers</field>
++    <field name="author_teim">Processed by Mary Jo Kline and Jan Hilley.</field>
+     <field name="collection_unitid_teim">MS 182</field>
+     <field name="series_si">Series III. Correspondence: Catherine (Mrs. William) Duer</field>
+     <field name="heading_ssm">Series III. Correspondence: Catherine (Mrs. William) Duer</field>

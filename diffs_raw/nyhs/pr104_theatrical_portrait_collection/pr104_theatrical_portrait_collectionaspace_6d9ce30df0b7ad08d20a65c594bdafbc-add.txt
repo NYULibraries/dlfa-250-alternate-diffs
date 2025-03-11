@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,13 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (large) "P"</field>
+-    <field name="unittitle_teim">Individuals (large) "P"</field>
++    <field name="unittitle_ssm">Individuals (large) &#34;P&#34;</field>
++    <field name="unittitle_teim">Individuals (large) &#34;P&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Patti, Adelina
++
+ Potter, Mrs. James Brown
++
+ Powers, Leland T. (2 images)</field>
+     <field name="ref_ssi">aspace_6d9ce30df0b7ad08d20a65c594bdafbc</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,11 +33,12 @@
+     <field name="location_ssm">drawer: Large</field>
+     <field name="location_si">drawer: Large</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.C. Individuals (large format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.C. Individuals (large format) &gt;&gt; Individuals (large) "P"</field>
+-    <field name="heading_ssm">Individuals (large) "P"</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.C. Individuals (large format) &gt;&gt; Individuals (large) &#34;P&#34;</field>
++    <field name="heading_ssm">Individuals (large) &#34;P&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">77</field>

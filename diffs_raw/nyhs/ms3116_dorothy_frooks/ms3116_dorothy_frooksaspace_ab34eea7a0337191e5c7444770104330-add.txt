@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Scrapbook [#9]</field>
+     <field name="unittitle_teim">Scrapbook [#9]</field>
+     <field name="unitdate_inclusive_teim">1934 August-September</field>
+-    <field name="scopecontent_teim">Clippings on politics (including Frook's bid to be the Democratic congressional candidate from NY's 25th district), speaking engagements, legal matters, and her proposal to exempt property from taxes after 25 years.</field>
++    <field name="scopecontent_teim">Clippings on politics (including Frook&#39;s bid to be the Democratic congressional candidate from NY&#39;s 25th district), speaking engagements, legal matters, and her proposal to exempt property from taxes after 25 years.</field>
+     <field name="ref_ssi">aspace_ab34eea7a0337191e5c7444770104330</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Dorothy Frooks papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3116</field>
+     <field name="series_si">Scrapbook [#9]</field>
+     <field name="heading_ssm">Scrapbook [#9]</field>

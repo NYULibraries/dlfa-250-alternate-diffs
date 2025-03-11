@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,15 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Austria Belgium Canada Dominican Republic France Germany Greece Italy  United Kingdom</field>
+-    <field name="unittitle_teim">Austria Belgium Canada Dominican Republic France Germany Greece Italy  United Kingdom</field>
++    <field name="unittitle_teim">Austria 
++Belgium 
++Canada 
++Dominican Republic 
++France 
++Germany
++ Greece 
++Italy 
++ United Kingdom</field>
+     <field name="ref_ssi">aspace_ref1281_eq0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +35,20 @@
+     <field name="location_ssm">Offsite-Box: 60</field>
+     <field name="location_si">Offsite-Box: 60</field>
+     <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
++    <field name="author_teim">Ricky Hunter</field>
+     <field name="collection_unitid_teim">PR 73</field>
+     <field name="series_sim">Series II. Negatives</field>
+     <field name="series_sim">INTERNATIONAL</field>
+     <field name="series_si">Series II. Negatives &gt;&gt; INTERNATIONAL &gt;&gt; Austria Belgium Canada Dominican Republic France Germany Greece Italy  United Kingdom</field>
+-    <field name="heading_ssm">Austria Belgium Canada Dominican Republic France Germany Greece Italy  United Kingdom</field>
++    <field name="heading_ssm">Austria 
++Belgium 
++Canada 
++Dominican Republic 
++France 
++Germany
++ Greece 
++Italy 
++ United Kingdom</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">722</field>
+   </doc>

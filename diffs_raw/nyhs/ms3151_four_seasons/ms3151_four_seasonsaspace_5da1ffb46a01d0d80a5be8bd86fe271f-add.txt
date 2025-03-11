@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;New York Times&lt;/em&gt; plaque</field>
+     <field name="unittitle_teim">New York Times plaque</field>
+     <field name="unitdate_teim">1995 March 17</field>
+-    <field name="scopecontent_teim">Columnist Ruth Reichl's New York Times "Dining in New York" review of the Four Seasons, March 17, 1995, shellacked and mounted on a wooden plaque (19.5 x 12.5 inches).</field>
++    <field name="scopecontent_teim">Columnist Ruth Reichl&#39;s New York Times &#34;Dining in New York&#34; review of the Four Seasons, March 17, 1995, shellacked and mounted on a wooden plaque (19.5 x 12.5 inches).</field>
+     <field name="ref_ssi">aspace_5da1ffb46a01d0d80a5be8bd86fe271f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 13</field>
+     <field name="location_si">Offsite-Box: 13</field>
+     <field name="collection_teim">Four Seasons Restaurant collection</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3151</field>
+     <field name="series_sim">Series VII. Objects</field>
+     <field name="series_si">Series VII. Objects &gt;&gt; &lt;em&gt;New York Times&lt;/em&gt; plaque</field>

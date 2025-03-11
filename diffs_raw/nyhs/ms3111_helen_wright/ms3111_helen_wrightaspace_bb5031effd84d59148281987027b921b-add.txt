@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Helen Martha Wright books</field>
+     <field name="unittitle_teim">Helen Martha Wright books</field>
+     <field name="unitdate_inclusive_teim">1810-1920</field>
+-    <field name="scopecontent_teim">Contains books from Wright's personal library.</field>
++    <field name="scopecontent_teim">Contains books from Wright&#39;s personal library.</field>
+     <field name="ref_ssi">aspace_bb5031effd84d59148281987027b921b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 11</field>
+     <field name="location_si">Offsite-Box: 11</field>
+     <field name="collection_teim">Helen Martha Wright papers</field>
++    <field name="author_teim">Elise Winks, revised by Marybeth Kavanagh 2022</field>
+     <field name="collection_unitid_teim">MS 3111</field>
+     <field name="series_si">Helen Martha Wright books</field>
+     <field name="heading_ssm">Helen Martha Wright books</field>

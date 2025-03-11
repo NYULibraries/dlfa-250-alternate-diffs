@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr164_civil_war_photographs</field>
+     <field name="parent_ssi">aspace_ref185_7mx</field>
+     <field name="parent_ssm">aspace_ref185_7mx</field>
+-    <field name="parent_unittitles_ssm">Series V: "Brady's Album Gallery"</field>
+-    <field name="parent_unittitles_teim">Series V: "Brady's Album Gallery"</field>
++    <field name="parent_unittitles_ssm">Series V: &amp;#34;Brady&amp;#39;s Album Gallery&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series V: &amp;#34;Brady&amp;#39;s Album Gallery&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Civil War photograph file</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 8, Folder: unknown container</field>
+     <field name="location_si">Box: 8, Folder: unknown container</field>
+     <field name="collection_teim">Civil War photograph file</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 164</field>
+-    <field name="series_sim">Series V: "Brady's Album Gallery"</field>
+-    <field name="series_si">Series V: "Brady's Album Gallery" &gt;&gt; Image numbers 102-646, not inclusive</field>
++    <field name="series_sim">Series V: &amp;#34;Brady&amp;#39;s Album Gallery&amp;#34;</field>
++    <field name="series_si">Series V: &#34;Brady&#39;s Album Gallery&#34; &gt;&gt; Image numbers 102-646, not inclusive</field>
+     <field name="heading_ssm">Image numbers 102-646, not inclusive</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">160</field>

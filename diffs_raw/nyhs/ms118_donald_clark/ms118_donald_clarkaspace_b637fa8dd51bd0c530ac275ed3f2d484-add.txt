@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Hancock, John, President of the Continental Congress. Commission to John Hodge. Philadelphia</field>
+     <field name="unittitle_teim">Hancock, John, President of the Continental Congress. Commission to John Hodge. Philadelphia</field>
+     <field name="unitdate_teim">1776 October 10</field>
+-    <field name="scopecontent_teim">Hodge named Captain of Frigate, Montgomery. Contains John Hancock's signature.</field>
++    <field name="scopecontent_teim">Hodge named Captain of Frigate, Montgomery. Contains John Hancock&#39;s signature.</field>
+     <field name="ref_ssi">aspace_b637fa8dd51bd0c530ac275ed3f2d484</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 4, item: 555</field>
+     <field name="location_si">Box: 4, item: 555</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+     <field name="series_si">Hancock, John, President of the Continental Congress. Commission to John Hodge. Philadelphia</field>
+     <field name="heading_ssm">Hancock, John, President of the Continental Congress. Commission to John Hodge. Philadelphia</field>

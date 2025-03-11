@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Sugar Warehouse (1 of 2 folders)</field>
+     <field name="unittitle_teim">Sugar Warehouse (1 of 2 folders)</field>
+     <field name="unitdate_teim">2000 January 12</field>
+-    <field name="scopecontent_teim">Handwritten note on first page of document reads: "Sugar warehouse used for Confederate soldiers. Chains were placed in the walls. Some still remain."</field>
++    <field name="scopecontent_teim">Handwritten note on first page of document reads: &#34;Sugar warehouse used for Confederate soldiers. Chains were placed in the walls. Some still remain.&#34;</field>
+     <field name="ref_ssi">aspace_faee3663a3580a407962dd7fc821f332</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 7</field>
+     <field name="collection_teim">Carole De Saram papers</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3059</field>
+     <field name="series_sim">Series 1: Subject Files</field>
+     <field name="series_si">Series 1: Subject Files &gt;&gt; Sugar Warehouse (1 of 2 folders)</field>

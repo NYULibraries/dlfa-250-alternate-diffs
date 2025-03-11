@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Library Additions (2 of 2). Loose Sheets Removed From Vol. RG15.22</field>
+     <field name="unittitle_teim">Library Additions (2 of 2). Loose Sheets Removed From Vol. RG15.22</field>
+     <field name="unitdate_teim">1925</field>
+-    <field name="scopecontent_teim">Includes the marketing brochure, The Collector's Book List for 1925.</field>
++    <field name="scopecontent_teim">Includes the marketing brochure, The Collector&#39;s Book List for 1925.</field>
+     <field name="ref_ssi">aspace_ref79_arl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society collection accession registers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 15</field>
+     <field name="series_si">Library Additions (2 of 2). Loose Sheets Removed From Vol. RG15.22</field>
+     <field name="heading_ssm">Library Additions (2 of 2). Loose Sheets Removed From Vol. RG15.22</field>

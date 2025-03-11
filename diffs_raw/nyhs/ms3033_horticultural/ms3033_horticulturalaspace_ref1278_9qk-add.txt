@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Doing Time in the Garden: Life Lessons Through Prison Horticulture&lt;/em&gt; by James Jiler</field>
+     <field name="unittitle_teim">Doing Time in the Garden: Life Lessons Through Prison Horticulture by James Jiler</field>
+     <field name="unitdate_teim">2006</field>
+-    <field name="scopecontent_teim">Book is about Hort's GreenHouse and GreenTeam programs concerning vocational training at Rikers Island prison. The N-YHS Library holds another copy of this title under call number F128 HV9306.N6 J55 2006.</field>
++    <field name="scopecontent_teim">Book is about Hort&#39;s GreenHouse and GreenTeam programs concerning vocational training at Rikers Island prison. The N-YHS Library holds another copy of this title under call number F128 HV9306.N6 J55 2006.</field>
+     <field name="ref_ssi">aspace_ref1278_9qk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 86, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 86, Folder: 12</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.B. Other Hort Print Matter</field>

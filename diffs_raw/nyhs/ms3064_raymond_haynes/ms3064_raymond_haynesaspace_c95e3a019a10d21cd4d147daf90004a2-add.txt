@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Certificates</field>
+     <field name="unittitle_teim">Certificates</field>
+     <field name="unitdate_inclusive_teim">1945, undated</field>
+-    <field name="scopecontent_teim">Two certificates, both to Mrs. Raymond B. Haynes. One dated 1945 for meritorious service from the New York National War Fund Campaign, Women's Division. One undated for patriotic service from the New York War Fund.</field>
++    <field name="scopecontent_teim">Two certificates, both to Mrs. Raymond B. Haynes. One dated 1945 for meritorious service from the New York National War Fund Campaign, Women&#39;s Division. One undated for patriotic service from the New York War Fund.</field>
+     <field name="ref_ssi">aspace_c95e3a019a10d21cd4d147daf90004a2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 4</field>
+     <field name="location_si">Box: 1, Folder: 4</field>
+     <field name="collection_teim">Raymond B. Haynes papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3064</field>
+     <field name="series_si">Certificates</field>
+     <field name="heading_ssm">Certificates</field>

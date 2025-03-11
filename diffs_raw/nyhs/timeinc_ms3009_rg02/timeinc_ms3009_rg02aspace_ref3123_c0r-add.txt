@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Bio Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Neil, Paul</field>
+-    <field name="unittitle_teim">O'Neil, Paul</field>
++    <field name="unittitle_ssm">O&#39;Neil, Paul</field>
++    <field name="unittitle_teim">O&#39;Neil, Paul</field>
+     <field name="ref_ssi">aspace_ref3123_c0r</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 379, Folder: 37-40</field>
+     <field name="location_si">Offsite-Box: 379, Folder: 37-40</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names O</field>
+-    <field name="series_si">Names O &gt;&gt; O'Neil, Paul</field>
+-    <field name="heading_ssm">O'Neil, Paul</field>
++    <field name="series_si">Names O &gt;&gt; O&#39;Neil, Paul</field>
++    <field name="heading_ssm">O&#39;Neil, Paul</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2890</field>
+   </doc>

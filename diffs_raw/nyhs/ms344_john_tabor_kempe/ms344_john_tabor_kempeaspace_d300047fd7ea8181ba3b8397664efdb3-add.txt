@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Petition of David McKendles and John Shaw </field>
+     <field name="unittitle_teim">Petition of David McKendles and John Shaw </field>
+     <field name="unitdate_teim">1774</field>
+-    <field name="scopecontent_teim">Petition from debtor's prison for relief.</field>
++    <field name="scopecontent_teim">Petition from debtor&#39;s prison for relief.</field>
+     <field name="ref_ssi">aspace_d300047fd7ea8181ba3b8397664efdb3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 12, Folder: 6</field>
+     <field name="location_si">Box: 12, Folder: 6</field>
+     <field name="collection_teim">John Tabor Kempe Papers</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 344</field>
+     <field name="series_sim">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+     <field name="series_sim">Subseries 6: Undetermined Cases</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Correspondence, Financial documents</field>
+     <field name="unittitle_teim">Correspondence, Financial documents</field>
+     <field name="unitdate_inclusive_teim">1818</field>
+-    <field name="scopecontent_teim">In addition to general correspondence, this folder contains letters and legal documents between Bradish and George Gibbs. These papers relate to the death of Bradish's wife, Helen Elizabeth Gibbs.</field>
++    <field name="scopecontent_teim">In addition to general correspondence, this folder contains letters and legal documents between Bradish and George Gibbs. These papers relate to the death of Bradish&#39;s wife, Helen Elizabeth Gibbs.</field>
+     <field name="ref_ssi">aspace_37c66cc7e24313fa0ac087efd259eaf8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 2, Folder: 2</field>
+     <field name="location_si">Box: 2, Folder: 2</field>
+     <field name="collection_teim">Luther Bradish papers</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">MS 71</field>
+     <field name="series_si">Correspondence, Financial documents</field>
+     <field name="heading_ssm">Correspondence, Financial documents</field>

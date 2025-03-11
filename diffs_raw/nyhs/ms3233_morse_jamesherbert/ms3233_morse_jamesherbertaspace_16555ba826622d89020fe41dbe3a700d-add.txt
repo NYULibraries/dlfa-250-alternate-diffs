@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Summer Haven Songs</field>
+     <field name="unittitle_teim">Summer Haven Songs</field>
+     <field name="unitdate_teim">1886</field>
+-    <field name="scopecontent_teim">A green cloth-bound copy of Morse's Summer Haven Songs, published in New York and London by G.P. Putnam's Sons in 1886.</field>
++    <field name="scopecontent_teim">A green cloth-bound copy of Morse&#39;s Summer Haven Songs, published in New York and London by G.P. Putnam&#39;s Sons in 1886.</field>
+     <field name="title_teim">Summer Haven Songs</field>
+     <field name="title_ssm">Summer Haven Songs</field>
+     <field name="ref_ssi">aspace_16555ba826622d89020fe41dbe3a700d</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Volume: 5</field>
+     <field name="location_si">Offsite-Box: 1, Volume: 5</field>
+     <field name="collection_teim">James Herbert Morse poetry collection</field>
++    <field name="author_teim">Paul-Louis Biondi</field>
+     <field name="collection_unitid_teim">MS 3233</field>
+     <field name="series_sim">Poetry notebooks and published work</field>
+     <field name="series_si">Poetry notebooks and published work &gt;&gt; Summer Haven Songs</field>

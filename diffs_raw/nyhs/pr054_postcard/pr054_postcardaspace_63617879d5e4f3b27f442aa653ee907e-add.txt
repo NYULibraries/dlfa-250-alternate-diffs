@@ -1,0 +1,81 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,30 +16,44 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Restaurants (L)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Restaurants (L)
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Restaurants (L)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Restaurants (L)</field>
+     <field name="scopecontent_teim">La Fourchette
+-L'Armorique
+-Larre's Restaurant and Cafe
++
++L&#39;Armorique
++
++Larre&#39;s Restaurant and Cafe
++
+ Le Café Arnold
++
+ Le Café Chambord
++
+ Le Chambertin
++
+ Le Chanteclair
+-Lee's
+-Leon and Eddie's
++
++Lee&#39;s
++
++Leon and Eddie&#39;s
++
+ Le Parisienne Rotisserie
++
+ Les Pyrenees
+-Lindy's
+-Lion D'Or Table D'Hote
+-Lion's Rock
++
++Lindy&#39;s
++
++Lion D&#39;Or Table D&#39;Hote
++
++Lion&#39;s Rock
++
+ Little Hungary
++
+ Lobster
++
+ Chas. S Low
+-Lüchow's
++
++Lüchow&#39;s
++
+ Lum Fong</field>
+     <field name="ref_ssi">aspace_63617879d5e4f3b27f442aa653ee907e</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -50,15 +64,12 @@
+     <field name="location_ssm">Box: 54</field>
+     <field name="location_si">Box: 54</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Restaurants (L)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Restaurants (L)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Restaurants (L)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Restaurants (L)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">276</field>
+   </doc>

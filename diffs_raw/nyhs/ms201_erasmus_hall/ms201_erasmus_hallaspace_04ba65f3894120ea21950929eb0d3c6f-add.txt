@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_0ea4ffde861b94eae628ceef2da369f6</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_0ea4ffde861b94eae628ceef2da369f6</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Erasmus Hall High School—Grade Advisors</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Erasmus Hall High School—Grade Advisors</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -20,8 +20,10 @@
+     <field name="unittitle_teim">[Printed notices]</field>
+     <field name="unitdate_inclusive_teim">circa 1914–1917, undated</field>
+     <field name="scopecontent_teim">•	Printed notice of welcome to Erasmus Hall freshmen, signed by Emilie L. Platt, Grade Advisor, n.d., but World War I era.
++
+ •	Printed notice of welcome, similar to above, but signed Charles M. Stebbins, n.d.
+-•	Printed notice of consolation to students who failed first semester's work, signed Charles M. Stebbins, n.d.</field>
++
++•	Printed notice of consolation to students who failed first semester&#39;s work, signed Charles M. Stebbins, n.d.</field>
+     <field name="ref_ssi">aspace_04ba65f3894120ea21950929eb0d3c6f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,10 +33,11 @@
+     <field name="location_ssm">Offsite-Box: RC-2, Folder: EHHS—Grade Advisors</field>
+     <field name="location_si">Offsite-Box: RC-2, Folder: EHHS—Grade Advisors</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Erasmus Hall High School—Grade Advisors</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall High School—Grade Advisors &gt;&gt; [Printed notices]</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Erasmus Hall High School—Grade Advisors &gt;&gt; [Printed notices]</field>
+     <field name="heading_ssm">[Printed notices]</field>
+     <field name="unitdate_ssm">Inclusive, circa 1914–1917, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

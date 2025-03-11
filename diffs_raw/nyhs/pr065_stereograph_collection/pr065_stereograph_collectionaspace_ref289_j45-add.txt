@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1956/1956</field>
+     <field name="unitdate_inclusive_teim">1956</field>
+     <field name="scopecontent_teim">Identifier: PR-065-0275</field>
+-    <field name="scopecontent_teim">Footbridge to Ward's Island, looking from Manhattan toward the Island.</field>
++    <field name="scopecontent_teim">Footbridge to Ward&#39;s Island, looking from Manhattan toward the Island.</field>
+     <field name="scopecontent_teim">1 item</field>
+     <field name="ref_ssi">aspace_ref289_j45</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 27</field>
+     <field name="location_si">Box: 27</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York--NYC--Bridges -- Wards Island</field>

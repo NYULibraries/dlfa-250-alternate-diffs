@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Board of Managers minutes, Volume [8]. April-October 1878</field>
+     <field name="unittitle_teim">Board of Managers minutes, Volume [8]. April-October 1878</field>
+     <field name="unitdate_teim">1878</field>
+-    <field name="scopecontent_teim">The volume's spine incorrectly identifies this as volume 7.</field>
++    <field name="scopecontent_teim">The volume&#39;s spine incorrectly identifies this as volume 7.</field>
+     <field name="ref_ssi">aspace_46dea4f04c27dffa407a1aaf98031856</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: PE-44, Volume: SN-96</field>
+     <field name="location_si">Offsite-Box: PE-44, Volume: SN-96</field>
+     <field name="collection_teim">New York Produce Exchange records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 449</field>
+     <field name="series_si">Board of Managers minutes, Volume [8]. April-October 1878</field>
+     <field name="heading_ssm">Board of Managers minutes, Volume [8]. April-October 1878</field>

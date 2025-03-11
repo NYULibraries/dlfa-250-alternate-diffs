@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Clinton, Bill and Hillary</field>
+     <field name="unittitle_teim">Clinton, Bill and Hillary</field>
+     <field name="unitdate_inclusive_teim">1993-2016</field>
+-    <field name="scopecontent_teim">Contains two typed letters and handwritten note from William "Bill" Jefferson Clinton and several typed letters from Hillary Rodham Clinton. HRC's letters include personal condolences and official invitations and thanks for BJK's support of her Presidential campaign.</field>
++    <field name="scopecontent_teim">Contains two typed letters and handwritten note from William &#34;Bill&#34; Jefferson Clinton and several typed letters from Hillary Rodham Clinton. HRC&#39;s letters include personal condolences and official invitations and thanks for BJK&#39;s support of her Presidential campaign.</field>
+     <field name="ref_ssi">aspace_62aabaa3fb201cb5fa8948e83e9342d8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 24, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 24, Folder: 14</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VI. Correspondence</field>
+     <field name="series_sim">Subseries VI.A. Alphabetical correspondence</field>

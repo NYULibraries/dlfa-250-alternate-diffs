@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1890/1899</field>
+     <field name="unitdate_normal_sim">1890/1899</field>
+     <field name="unitdate_inclusive_teim">[1890-1899]</field>
+-    <field name="scopecontent_teim">Ft. Bayard, N.M., San Carlos, A.T., Fort Apache, Ariz., Ft. Stanton, N.M.; woman and baby; Lt. Walton; dog sitting up "on guard" at top of stairs; Col. Bliss and officers at Ft. Bayard; group portraits (commercial photographer) of Apache, Mojave and Indians, including women, children, scouts, some in traditional costume; cactus and soapweed; general views of Ft. Apache; San Carlos Agency: general view, Saturday issue, officer's quarters, surgeon's quarters, including interior with Apache woman and child; Battalion of the 24th infantry; dead wildcat at Ft. Stanton; Col. Z.B. Bliss at the Hotel Del Coronado; group of men (Apache?) with guns including Al-che-zay.</field>
++    <field name="scopecontent_teim">Ft. Bayard, N.M., San Carlos, A.T., Fort Apache, Ariz., Ft. Stanton, N.M.; woman and baby; Lt. Walton; dog sitting up &#34;on guard&#34; at top of stairs; Col. Bliss and officers at Ft. Bayard; group portraits (commercial photographer) of Apache, Mojave and Indians, including women, children, scouts, some in traditional costume; cactus and soapweed; general views of Ft. Apache; San Carlos Agency: general view, Saturday issue, officer&#39;s quarters, surgeon&#39;s quarters, including interior with Apache woman and child; Battalion of the 24th infantry; dead wildcat at Ft. Stanton; Col. Z.B. Bliss at the Hotel Del Coronado; group of men (Apache?) with guns including Al-che-zay.</field>
+     <field name="ref_ssi">aspace_ref348_zpf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Volume: 108</field>
+     <field name="location_si">Offsite-Box: 11, Volume: 108</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[Album of photographs of military camps and Indian agencies in Arizona and New Mexico]</field>
+     <field name="heading_ssm">[Album of photographs of military camps and Indian agencies in Arizona and New Mexico]</field>

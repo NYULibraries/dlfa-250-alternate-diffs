@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Frank W. Crane photograph collection</field>
+     <field name="collection_unitid_ssm">PR 128</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">C-23: Cushman's old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
+-    <field name="unittitle_teim">C-23: Cushman's old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
++    <field name="unittitle_ssm">C-23: Cushman&#39;s old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
++    <field name="unittitle_teim">C-23: Cushman&#39;s old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
+     <field name="unitdate_teim">1911 Feb.</field>
+     <field name="ref_ssi">aspace_ref164_jzd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Frank W. Crane photograph collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 128</field>
+     <field name="series_sim">Series II. Prints</field>
+     <field name="series_sim">Subseries II.A. Numbered Prints</field>
+-    <field name="series_si">Series II. Prints &gt;&gt; Subseries II.A. Numbered Prints &gt;&gt; C-23: Cushman's old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
+-    <field name="heading_ssm">C-23: Cushman's old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
++    <field name="series_si">Series II. Prints &gt;&gt; Subseries II.A. Numbered Prints &gt;&gt; C-23: Cushman&#39;s old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
++    <field name="heading_ssm">C-23: Cushman&#39;s old store, N.E. corner of 10th St. and Greenwich Ave., looking down 10th St.</field>
+     <field name="unitdate_ssm">1911 Feb.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">105</field>

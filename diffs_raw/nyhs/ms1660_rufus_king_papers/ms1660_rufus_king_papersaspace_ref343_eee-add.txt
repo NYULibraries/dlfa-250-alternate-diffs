@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1794/1801</field>
+     <field name="unitdate_normal_sim">1794/1801</field>
+     <field name="unitdate_inclusive_teim">1794-1801</field>
+-    <field name="scopecontent_teim">This volume includes King's memorandum dated May 13, 1797, of his conversation with Benjamin West, which includes West's statement that King George had thought Washington to be "the greatest character of the age."</field>
++    <field name="scopecontent_teim">This volume includes King&#39;s memorandum dated May 13, 1797, of his conversation with Benjamin West, which includes West&#39;s statement that King George had thought Washington to be &#34;the greatest character of the age.&#34;</field>
+     <field name="ref_ssi">aspace_ref343_eee</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Volume: 73</field>
+     <field name="location_si">Volume: 73</field>
+     <field name="collection_teim">Rufus King papers</field>
++    <field name="author_teim">Processed by Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 1660</field>
+     <field name="series_sim">Volume 73- Notebook</field>
+     <field name="series_si">Volume 73- Notebook &gt;&gt; Notebook, Rufus King Memoranda and Reflections about Contemporary People and Events</field>

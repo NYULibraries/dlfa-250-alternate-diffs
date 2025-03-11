@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1899/1899</field>
+     <field name="unitdate_inclusive_teim">1899</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0513</field>
+-    <field name="scopecontent_teim">Parade in honor of Admiral George Dewey, and the end of the Spanish American War: views of the Dewey Triumphal Arch on Fifth Avenue, including one view from the fifth Avenue Hotel, with Madison Square Garden in the distance, and with crowds and troops nearby; the Tenth Pennsylvania Regiment, the Tenth U.S. Cavalry; 7th regiment, N.Y. National Guard; "Wendell's Battery," with Grant's Tomb in the background, "sea fighters" from the Olympia, Dewey's flagship, 23rd Regiment, N.G.N.Y.; West Point Cadets.</field>
++    <field name="scopecontent_teim">Parade in honor of Admiral George Dewey, and the end of the Spanish American War: views of the Dewey Triumphal Arch on Fifth Avenue, including one view from the fifth Avenue Hotel, with Madison Square Garden in the distance, and with crowds and troops nearby; the Tenth Pennsylvania Regiment, the Tenth U.S. Cavalry; 7th regiment, N.Y. National Guard; &#34;Wendell&#39;s Battery,&#34; with Grant&#39;s Tomb in the background, &#34;sea fighters&#34; from the Olympia, Dewey&#39;s flagship, 23rd Regiment, N.G.N.Y.; West Point Cadets.</field>
+     <field name="scopecontent_teim">22 items</field>
+     <field name="ref_ssi">aspace_ref527_wu3</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 44</field>
+     <field name="location_si">Box: 44</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Topics -- Parades, Dewey, 1899</field>

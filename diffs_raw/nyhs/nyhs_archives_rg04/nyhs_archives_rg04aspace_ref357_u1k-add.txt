@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society building renovations and maintenance records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 4</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lee H. Skolnick. DiMenna Children's Museum.</field>
+-    <field name="unittitle_teim">Lee H. Skolnick. DiMenna Children's Museum.</field>
++    <field name="unittitle_ssm">Lee H. Skolnick. DiMenna Children&#39;s Museum.</field>
++    <field name="unittitle_teim">Lee H. Skolnick. DiMenna Children&#39;s Museum.</field>
+     <field name="unitdate_teim">2009?</field>
+-    <field name="scopecontent_teim">Includes one mounted "vision rendering" of the gallery.</field>
++    <field name="scopecontent_teim">Includes one mounted &#34;vision rendering&#34; of the gallery.</field>
+     <field name="ref_ssi">aspace_ref357_u1k</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">drawer: 9B-B6, Folder: 3</field>
+     <field name="location_si">drawer: 9B-B6, Folder: 3</field>
+     <field name="collection_teim">New-York Historical Society building renovations and maintenance records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 4</field>
+     <field name="series_sim">Series I. General Subject Files</field>
+-    <field name="series_si">Series I. General Subject Files &gt;&gt; Lee H. Skolnick. DiMenna Children's Museum.</field>
+-    <field name="heading_ssm">Lee H. Skolnick. DiMenna Children's Museum.</field>
++    <field name="series_si">Series I. General Subject Files &gt;&gt; Lee H. Skolnick. DiMenna Children&#39;s Museum.</field>
++    <field name="heading_ssm">Lee H. Skolnick. DiMenna Children&#39;s Museum.</field>
+     <field name="unitdate_ssm">2009?</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">60</field>

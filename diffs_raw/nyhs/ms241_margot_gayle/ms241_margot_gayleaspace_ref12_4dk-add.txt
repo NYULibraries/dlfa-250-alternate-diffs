@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: &lt;em&gt;Daily News &lt;/em&gt;Columns and Related Materials</field>
+     <field name="unittitle_teim">Series I: Daily News Columns and Related Materials</field>
+-    <field name="scopecontent_teim">This series focuses on Gayle's role as a journalist. Almost every folder uses the title Gayle gave to it. Similarly, each folder contains Gayle's research notes for a Daily News column, as well as relevant clippings and photographs and a final copy of the finished article. It is arranged chronologically by date of publication of completed article.</field>
++    <field name="scopecontent_teim">This series focuses on Gayle&#39;s role as a journalist. Almost every folder uses the title Gayle gave to it. Similarly, each folder contains Gayle&#39;s research notes for a Daily News column, as well as relevant clippings and photographs and a final copy of the finished article. It is arranged chronologically by date of publication of completed article.</field>
+     <field name="title_teim">Daily News </field>
+     <field name="title_teim">Daily News</field>
+     <field name="title_ssm">Daily News </field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Margot Gayle papers</field>
++    <field name="author_teim">Processed by Alex Poole with additions by Alison Barr</field>
+     <field name="collection_unitid_teim">MS 241</field>
+     <field name="series_si">Series I: &lt;em&gt;Daily News &lt;/em&gt;Columns and Related Materials</field>
+     <field name="heading_ssm">Series I: Daily News Columns and Related Materials</field>

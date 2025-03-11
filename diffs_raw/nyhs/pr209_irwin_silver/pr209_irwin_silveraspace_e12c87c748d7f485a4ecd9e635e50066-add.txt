@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Irwin Silver photographs</field>
+     <field name="collection_unitid_ssm">PR 209</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Soldiers, Sailors &amp;amp; Airmen's Club, NYC, May 28, 1988, 2 AM</field>
+-    <field name="unittitle_teim">Soldiers, Sailors &amp; Airmen's Club, NYC, May 28, 1988, 2 AM</field>
++    <field name="unittitle_ssm">Soldiers, Sailors &amp; Airmen&#39;s Club, NYC, May 28, 1988, 2 AM</field>
++    <field name="unittitle_teim">Soldiers, Sailors &amp; Airmen&#39;s Club, NYC, May 28, 1988, 2 AM</field>
+     <field name="unitdate_teim">1988</field>
+     <field name="ref_ssi">aspace_e12c87c748d7f485a4ecd9e635e50066</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Box: 1, Folder: 7</field>
+     <field name="collection_teim">Irwin Silver photographs</field>
++    <field name="author_teim">Jenny Gotwals (2003); revisions and additions by Marybeth Kavanagh (2017) and Larry Weimer (2019)</field>
+     <field name="collection_unitid_teim">PR 209</field>
+     <field name="series_sim">Series IV. Nightwalks</field>
+-    <field name="series_si">Series IV. Nightwalks &gt;&gt; Soldiers, Sailors &amp;amp; Airmen's Club, NYC, May 28, 1988, 2 AM</field>
+-    <field name="heading_ssm">Soldiers, Sailors &amp; Airmen's Club, NYC, May 28, 1988, 2 AM</field>
++    <field name="series_si">Series IV. Nightwalks &gt;&gt; Soldiers, Sailors &amp; Airmen&#39;s Club, NYC, May 28, 1988, 2 AM</field>
++    <field name="heading_ssm">Soldiers, Sailors &amp; Airmen&#39;s Club, NYC, May 28, 1988, 2 AM</field>
+     <field name="unitdate_ssm">1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">101</field>

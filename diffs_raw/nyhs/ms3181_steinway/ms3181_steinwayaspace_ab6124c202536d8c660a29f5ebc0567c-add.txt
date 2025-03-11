@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Theodore E. Steinway collection of Steinway &amp; Sons ephemera</field>
+     <field name="collection_unitid_ssm">MS 3181</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Volume of "Intimate Recitals, Steinway Hall, 14th Street &amp;amp; 57th Street"</field>
+-    <field name="unittitle_teim">Volume of "Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street"</field>
++    <field name="unittitle_ssm">Volume of &#34;Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street&#34;</field>
++    <field name="unittitle_teim">Volume of &#34;Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street&#34;</field>
+     <field name="unitdate_inclusive_teim">1921–1923</field>
+-    <field name="scopecontent_teim">Despite this volume's cover inscription, it contains no programs from the 57th Street location of Steinway Hall.</field>
++    <field name="scopecontent_teim">Despite this volume&#39;s cover inscription, it contains no programs from the 57th Street location of Steinway Hall.</field>
+     <field name="ref_ssi">aspace_ab6124c202536d8c660a29f5ebc0567c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 10</field>
+     <field name="location_si">Offsite-Box: 10</field>
+     <field name="collection_teim">Theodore E. Steinway collection of Steinway &amp; Sons ephemera</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3181</field>
+     <field name="series_sim">Series I. Programs</field>
+-    <field name="series_si">Series I. Programs &gt;&gt; Volume of "Intimate Recitals, Steinway Hall, 14th Street &amp;amp; 57th Street"</field>
+-    <field name="heading_ssm">Volume of "Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street"</field>
++    <field name="series_si">Series I. Programs &gt;&gt; Volume of &#34;Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street&#34;</field>
++    <field name="heading_ssm">Volume of &#34;Intimate Recitals, Steinway Hall, 14th Street &amp; 57th Street&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1921–1923</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">18</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Company Records and Correspondence</field>
+     <field name="unittitle_teim">Series III: Company Records and Correspondence</field>
+-    <field name="scopecontent_teim">Series III spans the years from 1922 to 1954 and consists largely of letters from satisfied customers, some of which were used as publicity by Silver &amp; Co. The series also includes a 1922 report from Raymond Bell Consulting on the organization of Silver &amp; Co., a 1923 report from Cooley &amp; Marvin Co. about a proposed rearrangement of Silver's manufacturing equipment; and a 1946 Silver Company manual.</field>
++    <field name="scopecontent_teim">Series III spans the years from 1922 to 1954 and consists largely of letters from satisfied customers, some of which were used as publicity by Silver &amp; Co. The series also includes a 1922 report from Raymond Bell Consulting on the organization of Silver &amp; Co., a 1923 report from Cooley &amp; Marvin Co. about a proposed rearrangement of Silver&#39;s manufacturing equipment; and a 1946 Silver Company manual.</field>
+     <field name="ref_ssi">aspace_ref120_wel</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">S. S. Silver &amp; Company Archive</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 61</field>
+     <field name="series_si">Series III: Company Records and Correspondence</field>
+     <field name="heading_ssm">Series III: Company Records and Correspondence</field>

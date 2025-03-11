@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Comptroller's Department</field>
+-    <field name="unittitle_teim">Comptroller's Department</field>
++    <field name="unittitle_ssm">Comptroller&#39;s Department</field>
++    <field name="unittitle_teim">Comptroller&#39;s Department</field>
+     <field name="unitdate_inclusive_teim">1960-1961</field>
+     <field name="ref_ssi">aspace_e38c565214bb2cdcc312702394acf91d</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 770, Folder: 28</field>
+     <field name="location_si">Offsite-Box: 770, Folder: 28</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series II. Office of the Business Manager Files</field>
+     <field name="series_sim">Subseries II.A. Business Manager James A. Thomason Files</field>
+-    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.A. Business Manager James A. Thomason Files &gt;&gt; Comptroller's Department</field>
+-    <field name="heading_ssm">Comptroller's Department</field>
++    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.A. Business Manager James A. Thomason Files &gt;&gt; Comptroller&#39;s Department</field>
++    <field name="heading_ssm">Comptroller&#39;s Department</field>
+     <field name="unitdate_ssm">Inclusive, 1960-1961</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">HRL - Art - Yale Alumni Art Exhibit, New Haven, May 2-June 13</field>
+     <field name="unittitle_teim">HRL - Art - Yale Alumni Art Exhibit, New Haven, May 2-June 13</field>
+     <field name="unitdate_teim">1955-1956</field>
+-    <field name="scopecontent_teim">Includes a photograph of James W. Fosburgh and George E. Dix hanging and adjusting Whistler's painting "Wapping on Thames." Correspondents include Lamont Moore, Stephen A. Kezerian, and Wharton D. Hubbard.</field>
++    <field name="scopecontent_teim">Includes a photograph of James W. Fosburgh and George E. Dix hanging and adjusting Whistler&#39;s painting &#34;Wapping on Thames.&#34; Correspondents include Lamont Moore, Stephen A. Kezerian, and Wharton D. Hubbard.</field>
+     <field name="ref_ssi">aspace_ref5044_sfr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 161, Folder: 6</field>
+     <field name="location_si">Box: 161, Folder: 6</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series VI. Allen Grover Files</field>
+     <field name="series_si">Series VI. Allen Grover Files &gt;&gt; HRL - Art - Yale Alumni Art Exhibit, New Haven, May 2-June 13</field>

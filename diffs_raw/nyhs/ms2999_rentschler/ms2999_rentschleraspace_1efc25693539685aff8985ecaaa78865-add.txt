@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,8 @@
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_inclusive_teim">circa 1948-1956</field>
+     <field name="scopecontent_teim">1) Annotated business card from Bernard M. Baruch to Mary C. Rentschler and gordon S. Rentschler
+-2) Letter from Bernard M. Baruch to Mary C. Rentschler congratulating her on the announcement of Susan R. Witter's marriage</field>
++
++2) Letter from Bernard M. Baruch to Mary C. Rentschler congratulating her on the announcement of Susan R. Witter&#39;s marriage</field>
+     <field name="ref_ssi">aspace_1efc25693539685aff8985ecaaa78865</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,6 +31,7 @@
+     <field name="location_ssm">Offsite-Box: Man-12, Folder: 15</field>
+     <field name="location_si">Offsite-Box: Man-12, Folder: 15</field>
+     <field name="collection_teim">Mary Coolidge Rentschler collection</field>
++    <field name="author_teim">Helen Selsdon (outside archival consultant, 2002/2004); finding aid migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">MS 2999</field>
+     <field name="series_sim">Series I. Manuscripts and memorabilia</field>
+     <field name="series_sim">Subseries I.B. Mary Coolidge Rentschler (1892–1988) [MCR]</field>

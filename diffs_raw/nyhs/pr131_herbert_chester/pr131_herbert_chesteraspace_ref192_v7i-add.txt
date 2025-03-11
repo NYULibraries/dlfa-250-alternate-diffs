@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref175_cn3</field>
+     <field name="parent_ssm">aspace_ref191_yi1</field>
+     <field name="parent_unittitles_ssm">Colorado</field>
+-    <field name="parent_unittitles_ssm">Pike's Peak Region</field>
++    <field name="parent_unittitles_ssm">Pike&amp;#39;s Peak Region</field>
+     <field name="parent_unittitles_teim">Colorado</field>
+-    <field name="parent_unittitles_teim">Pike's Peak Region</field>
++    <field name="parent_unittitles_teim">Pike&amp;#39;s Peak Region</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">H.M. Chester photograph collection</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4, Folder: 205</field>
+     <field name="location_si">Box: 4, Folder: 205</field>
+     <field name="collection_teim">H.M. Chester photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 131</field>
+     <field name="series_sim">Colorado</field>
+-    <field name="series_sim">Pike's Peak Region</field>
+-    <field name="series_si">Colorado &gt;&gt; Pike's Peak Region &gt;&gt; Cave of the Winds</field>
++    <field name="series_sim">Pike&amp;#39;s Peak Region</field>
++    <field name="series_si">Colorado &gt;&gt; Pike&#39;s Peak Region &gt;&gt; Cave of the Winds</field>
+     <field name="heading_ssm">Cave of the Winds</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

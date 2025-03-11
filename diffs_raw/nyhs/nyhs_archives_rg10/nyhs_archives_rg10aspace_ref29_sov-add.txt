@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Publication Fund Shareholders A-Z</field>
+     <field name="unittitle_teim">Publication Fund Shareholders A-Z</field>
+     <field name="unitdate_teim">[1944]-circa 1979</field>
+-    <field name="scopecontent_teim">This is a set of index cards with shareholder information in alphabetical order by name. Likely initiated in the 1940s to complement the "new book." Updates to the cards extend to about 1979.</field>
++    <field name="scopecontent_teim">This is a set of index cards with shareholder information in alphabetical order by name. Likely initiated in the 1940s to complement the &#34;new book.&#34; Updates to the cards extend to about 1979.</field>
+     <field name="ref_ssi">aspace_ref29_sov</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">New-York Historical Society John Watts DePeyster Publication Fund records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 10</field>
+     <field name="series_sim">Series I. Transaction Records</field>
+     <field name="series_si">Series I. Transaction Records &gt;&gt; Publication Fund Shareholders A-Z</field>

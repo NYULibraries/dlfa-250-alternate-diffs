@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Harvard College--Class of 1863. Verses by James Herbert Morse. Read June 25, 1901, at the class dinner.</field>
+     <field name="unittitle_teim">Harvard College--Class of 1863. Verses by James Herbert Morse. Read June 25, 1901, at the class dinner.</field>
+     <field name="unitdate_teim">1901</field>
+-    <field name="scopecontent_teim">A printed pamphlet (8 pages) of Morse's poems read at a Harvard class dinner for the Class of 1863. The upper left corner is inscribed by Morse: "Compliments of the author."</field>
++    <field name="scopecontent_teim">A printed pamphlet (8 pages) of Morse&#39;s poems read at a Harvard class dinner for the Class of 1863. The upper left corner is inscribed by Morse: &#34;Compliments of the author.&#34;</field>
+     <field name="ref_ssi">aspace_e80c78e648ad63ca33dab803357d2882</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Volume: 6</field>
+     <field name="location_si">Offsite-Box: 1, Volume: 6</field>
+     <field name="collection_teim">James Herbert Morse poetry collection</field>
++    <field name="author_teim">Paul-Louis Biondi</field>
+     <field name="collection_unitid_teim">MS 3233</field>
+     <field name="series_sim">Poetry notebooks and published work</field>
+     <field name="series_si">Poetry notebooks and published work &gt;&gt; Harvard College--Class of 1863. Verses by James Herbert Morse. Read June 25, 1901, at the class dinner.</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">David (2 tapes/4 files)</field>
+     <field name="unittitle_teim">David (2 tapes/4 files)</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Tape 1 (item 119) is labeled only as "David." Tape 2 (item 120) is labeled "David, cont'd. Trigger" on first side and "David. (Stuck)" on second side." [On index, re: Shifting Gears]</field>
++    <field name="scopecontent_teim">Tape 1 (item 119) is labeled only as &#34;David.&#34; Tape 2 (item 120) is labeled &#34;David, cont&#39;d. Trigger&#34; on first side and &#34;David. (Stuck)&#34; on second side.&#34; [On index, re: Shifting Gears]</field>
+     <field name="ref_ssi">aspace_7d3fe95ba6497413cd8ee0f3c263dbb4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: T2, Item: 119-120</field>
+     <field name="location_si">Box: T2, Item: 119-120</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>

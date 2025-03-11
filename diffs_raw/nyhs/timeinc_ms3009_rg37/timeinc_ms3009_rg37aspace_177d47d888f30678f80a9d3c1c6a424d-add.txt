@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series I: Finance Control Files</field>
+     <field name="unittitle_teim">Series I: Finance Control Files</field>
+     <field name="unitdate_inclusive_teim">1957-1982</field>
+-    <field name="scopecontent_teim">Series I contains materials produced by the Finance Control division of the Comptroller's department and contains correspondence largely involving Comptrollers or Assistant Comptrollers, spreadsheets, data on lease payments for offices, meeting agenda, expenditure summaries, inventory counts, financial statements, balance sheets and other financial documents, and invoices.</field>
++    <field name="scopecontent_teim">Series I contains materials produced by the Finance Control division of the Comptroller&#39;s department and contains correspondence largely involving Comptrollers or Assistant Comptrollers, spreadsheets, data on lease payments for offices, meeting agenda, expenditure summaries, inventory counts, financial statements, balance sheets and other financial documents, and invoices.</field>
+     <field name="ref_ssi">aspace_177d47d888f30678f80a9d3c1c6a424d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Time Inc. Comptroller Records</field>
++    <field name="author_teim">Allen Thomas</field>
+     <field name="collection_unitid_teim">MS 3009-RG 37</field>
+     <field name="series_si">Series I: Finance Control Files</field>
+     <field name="heading_ssm">Series I: Finance Control Files</field>

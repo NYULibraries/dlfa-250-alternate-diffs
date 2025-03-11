@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Certificate</field>
+     <field name="unittitle_teim">Certificate</field>
+     <field name="unitdate_inclusive_teim">1907</field>
+-    <field name="scopecontent_teim">Framed certificate acknowledging Sulzer's visit to the Free &amp; Accepted Masons Anvil Lodge #140 at Nome, Alaska.</field>
++    <field name="scopecontent_teim">Framed certificate acknowledging Sulzer&#39;s visit to the Free &amp; Accepted Masons Anvil Lodge #140 at Nome, Alaska.</field>
+     <field name="ref_ssi">aspace_2840e83b420468c6ab9095c9835342a5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 24</field>
+     <field name="location_si">Offsite-Box: 24</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Certificate</field>
+     <field name="heading_ssm">Certificate</field>

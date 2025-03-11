@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="parent_ssm">aspace_ref26_nxr</field>
+     <field name="parent_ssm">aspace_ref49_9kr</field>
+     <field name="parent_unittitles_ssm">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+-    <field name="parent_unittitles_ssm">Subseries II.4: President's Fund</field>
++    <field name="parent_unittitles_ssm">Subseries II.4: President&amp;#39;s Fund</field>
+     <field name="parent_unittitles_teim">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+-    <field name="parent_unittitles_teim">Subseries II.4: President's Fund</field>
++    <field name="parent_unittitles_teim">Subseries II.4: President&amp;#39;s Fund</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+-    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_sim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="collection_ssm">Saint Andrew&#39;s Society of the State of New York records</field>
+     <field name="collection_unitid_ssm">MS 2997</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Correspondence and reports</field>
+@@ -27,11 +27,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 28, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 28, Folder: 5</field>
+-    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_teim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="author_teim">Luis Rodriguez</field>
+     <field name="collection_unitid_teim">MS 2997</field>
+     <field name="series_sim">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+-    <field name="series_sim">Subseries II.4: President's Fund</field>
+-    <field name="series_si">Series II: Charitable Records (RESTRICTIONS APPLY) &gt;&gt; Subseries II.4: President's Fund &gt;&gt; Correspondence and reports</field>
++    <field name="series_sim">Subseries II.4: President&amp;#39;s Fund</field>
++    <field name="series_si">Series II: Charitable Records (RESTRICTIONS APPLY) &gt;&gt; Subseries II.4: President&#39;s Fund &gt;&gt; Correspondence and reports</field>
+     <field name="heading_ssm">Correspondence and reports</field>
+     <field name="unitdate_ssm">1957 - 1958</field>
+     <field name="date_range_sim">undated &amp; other</field>

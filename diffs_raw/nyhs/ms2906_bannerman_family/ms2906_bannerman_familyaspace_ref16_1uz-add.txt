@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bannerman Family papers</field>
+     <field name="collection_unitid_ssm">MS 2906</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Scrapbook, "To Francis Bannerman Esq. from the Scottish Company City of London National Guard"</field>
+-    <field name="unittitle_teim">Scrapbook, "To Francis Bannerman Esq. from the Scottish Company City of London National Guard"</field>
++    <field name="unittitle_ssm">Scrapbook, &#34;To Francis Bannerman Esq. from the Scottish Company City of London National Guard&#34;</field>
++    <field name="unittitle_teim">Scrapbook, &#34;To Francis Bannerman Esq. from the Scottish Company City of London National Guard&#34;</field>
+     <field name="unitdate_teim">1916</field>
+     <field name="ref_ssi">aspace_ref16_1uz</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">Bannerman Family papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MS 2906</field>
+     <field name="series_sim">Series I: Bannerman Family</field>
+-    <field name="series_si">Series I: Bannerman Family &gt;&gt; Scrapbook, "To Francis Bannerman Esq. from the Scottish Company City of London National Guard"</field>
+-    <field name="heading_ssm">Scrapbook, "To Francis Bannerman Esq. from the Scottish Company City of London National Guard"</field>
++    <field name="series_si">Series I: Bannerman Family &gt;&gt; Scrapbook, &#34;To Francis Bannerman Esq. from the Scottish Company City of London National Guard&#34;</field>
++    <field name="heading_ssm">Scrapbook, &#34;To Francis Bannerman Esq. from the Scottish Company City of London National Guard&#34;</field>
+     <field name="unitdate_ssm">1916</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">10</field>

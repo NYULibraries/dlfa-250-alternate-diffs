@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Park West Camera Club records</field>
+     <field name="collection_unitid_ssm">PR 368</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Through Our Eyes." Otto Litzel</field>
+-    <field name="unittitle_teim">"Through Our Eyes." Otto Litzel</field>
++    <field name="unittitle_ssm">&#34;Through Our Eyes.&#34; Otto Litzel</field>
++    <field name="unittitle_teim">&#34;Through Our Eyes.&#34; Otto Litzel</field>
+     <field name="unitdate_inclusive_teim">1970s</field>
+-    <field name="scopecontent_teim">2 items: a dust jacket for Litzel's book "Darkroom Magic" and a thumbnail reproduction of "The Artist," photograph by Bill Berriell.</field>
++    <field name="scopecontent_teim">2 items: a dust jacket for Litzel&#39;s book &#34;Darkroom Magic&#34; and a thumbnail reproduction of &#34;The Artist,&#34; photograph by Bill Berriell.</field>
+     <field name="ref_ssi">aspace_8035f0f2b6ffd3e8bab4314c28f6fe5c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-10</field>
+     <field name="location_si">Folder: FF-10</field>
+     <field name="collection_teim">Park West Camera Club records</field>
++    <field name="author_teim">Ariana Heinsdorf and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 368</field>
+     <field name="series_sim">Series III. Club Activities and Exhibitions</field>
+-    <field name="series_si">Series III. Club Activities and Exhibitions &gt;&gt; "Through Our Eyes." Otto Litzel</field>
+-    <field name="heading_ssm">"Through Our Eyes." Otto Litzel</field>
++    <field name="series_si">Series III. Club Activities and Exhibitions &gt;&gt; &#34;Through Our Eyes.&#34; Otto Litzel</field>
++    <field name="heading_ssm">&#34;Through Our Eyes.&#34; Otto Litzel</field>
+     <field name="unitdate_ssm">Inclusive, 1970s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Jeff Petticoats." [Jefferson Davis]</field>
+-    <field name="unittitle_teim">"Jeff Petticoats." [Jefferson Davis]</field>
++    <field name="unittitle_ssm">&#34;Jeff Petticoats.&#34; [Jefferson Davis]</field>
++    <field name="unittitle_teim">&#34;Jeff Petticoats.&#34; [Jefferson Davis]</field>
+     <field name="unitdate_teim">1865</field>
+-    <field name="scopecontent_teim">The story of Jefferson Davis's attempted escape in disguise told in a series of seven caricatures in fold out booklet form. "Copies for sale by the American News Company."</field>
++    <field name="scopecontent_teim">The story of Jefferson Davis&#39;s attempted escape in disguise told in a series of seven caricatures in fold out booklet form. &#34;Copies for sale by the American News Company.&#34;</field>
+     <field name="ref_ssi">aspace_b417bf20f9d012515d63653de5ba776c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-90, item: 1865-34</field>
+     <field name="location_si">Folder: FF-90, item: 1865-34</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; "Jeff Petticoats." [Jefferson Davis]</field>
+-    <field name="heading_ssm">"Jeff Petticoats." [Jefferson Davis]</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; &#34;Jeff Petticoats.&#34; [Jefferson Davis]</field>
++    <field name="heading_ssm">&#34;Jeff Petticoats.&#34; [Jefferson Davis]</field>
+     <field name="unitdate_ssm">1865</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">916</field>

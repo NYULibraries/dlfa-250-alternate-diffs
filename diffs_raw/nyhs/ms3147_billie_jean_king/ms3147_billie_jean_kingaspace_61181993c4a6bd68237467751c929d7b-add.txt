@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Kansas City clippings </field>
+     <field name="unittitle_teim">Kansas City clippings </field>
+     <field name="unitdate_inclusive_teim">1975-1978</field>
+-    <field name="scopecontent_teim">Album containing newspaper clippings on BJK primarily from the Kansas City Star, covering topics including Battle of the Sexes, Wimbledon, World TeamTennis, and BJK's tennis career in general.</field>
++    <field name="scopecontent_teim">Album containing newspaper clippings on BJK primarily from the Kansas City Star, covering topics including Battle of the Sexes, Wimbledon, World TeamTennis, and BJK&#39;s tennis career in general.</field>
+     <field name="ref_ssi">aspace_61181993c4a6bd68237467751c929d7b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 15, Volume: 2</field>
+     <field name="location_si">Offsite-Box: 15, Volume: 2</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series II. Albums</field>
+     <field name="series_si">Series II. Albums &gt;&gt; Kansas City clippings </field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Indexes</field>
+     <field name="unittitle_teim">Indexes</field>
+     <field name="unitdate_teim">1975</field>
+-    <field name="scopecontent_teim">Includes the alphabetical indexes for Beame's remarks, statements, messages, articles, and the like during 1975. Press releases are not included in the indexes.</field>
++    <field name="scopecontent_teim">Includes the alphabetical indexes for Beame&#39;s remarks, statements, messages, articles, and the like during 1975. Press releases are not included in the indexes.</field>
+     <field name="ref_ssi">aspace_ref204_w13</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 15, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 15, Folder: 1</field>
+     <field name="collection_teim">Henry Walter papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3016</field>
+     <field name="series_sim">Series I. Public Relations Files. Abraham D. Beame</field>
+     <field name="series_sim">Subseries I.B. Mayoralty Years</field>

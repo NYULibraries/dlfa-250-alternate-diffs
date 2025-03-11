@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Fines Dinner records (5 folders)</field>
+     <field name="unittitle_teim">Fines Dinner records (5 folders)</field>
+     <field name="unitdate_inclusive_teim">1895-1899</field>
+-    <field name="scopecontent_teim">Records of the annual "Fines" dinner held at the Union League, unrelated to the much larger and extravagant Annual Dinner.</field>
++    <field name="scopecontent_teim">Records of the annual &#34;Fines&#34; dinner held at the Union League, unrelated to the much larger and extravagant Annual Dinner.</field>
+     <field name="ref_ssi">aspace_8214eeee17559d0fc57fa4930dd7bcf6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 14, Folder: 15-19</field>
+     <field name="location_si">Offsite-Box: 14, Folder: 15-19</field>
+     <field name="collection_teim">New England Society in the City of New York records</field>
++    <field name="author_teim">Austin Davis</field>
+     <field name="collection_unitid_teim">MS 3113</field>
+     <field name="series_sim">Series VI. Event Records</field>
+     <field name="series_sim">Subseries VI.B. Other Events</field>

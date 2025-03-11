@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation's defense</field>
+-    <field name="unittitle_teim">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation's defense</field>
++    <field name="unittitle_ssm">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation&#39;s defense</field>
++    <field name="unittitle_teim">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation&#39;s defense</field>
+     <field name="ref_ssi">aspace_ref212_7lk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 5</field>
+     <field name="location_si">Folder: 5</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series I: Recruitment</field>
+     <field name="series_sim">Subseries I.3: Navy</field>
+-    <field name="series_si">Series I: Recruitment &gt;&gt; Subseries I.3: Navy &gt;&gt; The Navy League / Has the honor of announcing, that this house has furnished a man for the nation's defense</field>
+-    <field name="heading_ssm">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation's defense</field>
++    <field name="series_si">Series I: Recruitment &gt;&gt; Subseries I.3: Navy &gt;&gt; The Navy League / Has the honor of announcing, that this house has furnished a man for the nation&#39;s defense</field>
++    <field name="heading_ssm">The Navy League / Has the honor of announcing, that this house has furnished a man for the nation&#39;s defense</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">121</field>
+   </doc>

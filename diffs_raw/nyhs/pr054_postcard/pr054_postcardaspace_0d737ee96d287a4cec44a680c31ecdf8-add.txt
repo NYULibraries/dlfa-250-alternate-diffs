@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,17 +16,18 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Restaurants (O)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Restaurants (O)
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Restaurants (O)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Restaurants (O)</field>
+     <field name="scopecontent_teim">Oh-Ho-So
++
+ Old Brew House
++
+ Old China
++
+ Olde Chop House
++
+ Olde Dutch Tavern
++
+ One if By Land, Two if By Sea</field>
+     <field name="ref_ssi">aspace_0d737ee96d287a4cec44a680c31ecdf8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -37,15 +38,12 @@
+     <field name="location_ssm">Box: 54</field>
+     <field name="location_si">Box: 54</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Restaurants (O)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Restaurants (O)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Restaurants (O)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Restaurants (O)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">280</field>
+   </doc>

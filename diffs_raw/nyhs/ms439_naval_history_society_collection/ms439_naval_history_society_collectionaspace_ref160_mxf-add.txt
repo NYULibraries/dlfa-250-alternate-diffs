@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">US Flagship &lt;em&gt;Wabash &lt;/em&gt; "Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master's Mate"</field>
+-    <field name="unittitle_teim">US Flagship Wabash  "Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master's Mate"</field>
++    <field name="unittitle_ssm">US Flagship &lt;em&gt;Wabash &lt;/em&gt; &#34;Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master&#39;s Mate&#34;</field>
++    <field name="unittitle_teim">US Flagship Wabash  &#34;Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master&#39;s Mate&#34;</field>
+     <field name="unitdate_teim">1862</field>
+     <field name="title_teim">Wabash </field>
+     <field name="title_ssm">Wabash </field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Volume: 1</field>
+     <field name="location_si">Volume: 1</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 14. William A. Duer (1862)</field>
+-    <field name="series_si">Series 14. William A. Duer (1862) &gt;&gt; US Flagship &lt;em&gt;Wabash &lt;/em&gt; "Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master's Mate"</field>
+-    <field name="heading_ssm">US Flagship Wabash  "Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master's Mate"</field>
++    <field name="series_si">Series 14. William A. Duer (1862) &gt;&gt; US Flagship &lt;em&gt;Wabash &lt;/em&gt; &#34;Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master&#39;s Mate&#34;</field>
++    <field name="heading_ssm">US Flagship Wabash  &#34;Watch, Station, Fire and Quarter Bill kept by William A. Duer, Acting Master&#39;s Mate&#34;</field>
+     <field name="unitdate_ssm">1862</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">136</field>

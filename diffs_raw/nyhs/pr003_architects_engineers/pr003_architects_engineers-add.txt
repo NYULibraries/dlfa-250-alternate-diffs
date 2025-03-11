@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -4,7 +4,7 @@
+     <field name="author_teim">Susan Benz</field>
+     <field name="author_ssm">Susan Benz</field>
+     <field name="unittitle_teim">Architects &amp; Engineers collection</field>
+-    <field name="unittitle_ssm">Architects &amp;amp; Engineers collection</field>
++    <field name="unittitle_ssm">Architects &amp; Engineers collection</field>
+     <field name="unitid_teim">PR 3</field>
+     <field name="unitid_ssm">PR 3</field>
+     <field name="abstract_teim">The collection consists of approximately 1,500 drawings in many media, including ink and graphite drawings, renderings, sketches, blueprints, and lithographs representing works by more than 150 locally and nationally prominent architects and engineers.</field>
+@@ -39,7 +39,7 @@
+     <field name="corpname_ssm">Peabody &amp; Stearns (Boston, Mass.)</field>
+     <field name="corpname_ssm">Skidmore Owings &amp; Merrill</field>
+     <field name="corpname_ssm">Warren &amp; Wetmore</field>
+-    <field name="genreform_teim">Societies' buildings</field>
++    <field name="genreform_teim">Societies&#39; buildings</field>
+     <field name="genreform_teim">Estate records.</field>
+     <field name="genreform_teim">Lithographs.</field>
+     <field name="genreform_teim">Blueprints (reprographic copies)</field>
+@@ -51,7 +51,7 @@
+     <field name="genreform_teim">Technical drawings.</field>
+     <field name="genreform_teim">Engineering drawings</field>
+     <field name="genreform_teim">Architectural drawings (visual works)</field>
+-    <field name="genreform_ssm">Societies' buildings</field>
++    <field name="genreform_ssm">Societies&#39; buildings</field>
+     <field name="genreform_ssm">Estate records.</field>
+     <field name="genreform_ssm">Lithographs.</field>
+     <field name="genreform_ssm">Blueprints (reprographic copies)</field>
+@@ -401,7 +401,7 @@
+     <field name="subject_sim">Apartment houses.</field>
+     <field name="subject_sim">Local transit.</field>
+     <field name="subject_sim">Subways.</field>
+-    <field name="material_type_sim">Societies' buildings</field>
++    <field name="material_type_sim">Societies&#39; buildings</field>
+     <field name="material_type_sim">Estate records.</field>
+     <field name="material_type_sim">Lithographs.</field>
+     <field name="material_type_sim">Blueprints (reprographic copies)</field>
+@@ -413,7 +413,7 @@
+     <field name="material_type_sim">Technical drawings.</field>
+     <field name="material_type_sim">Engineering drawings</field>
+     <field name="material_type_sim">Architectural drawings (visual works)</field>
+-    <field name="material_type_ssm">Societies' buildings</field>
++    <field name="material_type_ssm">Societies&#39; buildings</field>
+     <field name="material_type_ssm">Estate records.</field>
+     <field name="material_type_ssm">Lithographs.</field>
+     <field name="material_type_ssm">Blueprints (reprographic copies)</field>

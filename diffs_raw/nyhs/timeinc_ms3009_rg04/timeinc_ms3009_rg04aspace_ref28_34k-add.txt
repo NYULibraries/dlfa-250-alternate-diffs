@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Index Cards</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 4</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">National Urban Policy Conference  --  Newswomen's Club of New York</field>
+-    <field name="unittitle_teim">National Urban Policy Conference  --  Newswomen's Club of New York</field>
++    <field name="unittitle_ssm">National Urban Policy Conference  --  Newswomen&#39;s Club of New York</field>
++    <field name="unittitle_teim">National Urban Policy Conference  --  Newswomen&#39;s Club of New York</field>
+     <field name="ref_ssi">aspace_ref28_34k</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 26</field>
+     <field name="location_si">Offsite-Box: 26</field>
+     <field name="collection_teim">Time Inc. Index Cards</field>
++    <field name="author_teim">Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 4</field>
+     <field name="series_sim">Series VI: Subject Files </field>
+-    <field name="series_si">Series VI: Subject Files  &gt;&gt; National Urban Policy Conference  --  Newswomen's Club of New York</field>
+-    <field name="heading_ssm">National Urban Policy Conference  --  Newswomen's Club of New York</field>
++    <field name="series_si">Series VI: Subject Files  &gt;&gt; National Urban Policy Conference  --  Newswomen&#39;s Club of New York</field>
++    <field name="heading_ssm">National Urban Policy Conference  --  Newswomen&#39;s Club of New York</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">139</field>
+   </doc>

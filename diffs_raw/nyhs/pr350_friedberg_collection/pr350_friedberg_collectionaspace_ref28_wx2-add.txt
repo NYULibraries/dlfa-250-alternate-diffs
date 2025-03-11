@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Clothing (4 folders)</field>
+     <field name="unittitle_teim">Clothing (4 folders)</field>
+-    <field name="scopecontent_teim">Includes several cards that appear to date from the late 1800s, including an oversize card for Bloomingdale Bros., New York City, in the shape of an artist's palette, listing the store's departments on the back.</field>
++    <field name="scopecontent_teim">Includes several cards that appear to date from the late 1800s, including an oversize card for Bloomingdale Bros., New York City, in the shape of an artist&#39;s palette, listing the store&#39;s departments on the back.</field>
+     <field name="ref_ssi">aspace_ref28_wx2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Box: 4, Folder: 7-10</field>
+     <field name="location_si">Box: 4, Folder: 7-10</field>
+     <field name="collection_teim">Friedberg collection of business cards &amp; ephemera</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 350</field>
+     <field name="series_si">Clothing (4 folders)</field>
+     <field name="heading_ssm">Clothing (4 folders)</field>

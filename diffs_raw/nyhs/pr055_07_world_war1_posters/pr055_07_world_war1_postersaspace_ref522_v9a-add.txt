@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Good bye, Dad, I'm off to fight for Old Glory, you buy U.S. Government bonds"/Third Liberty Loan</field>
+-    <field name="unittitle_teim">"Good bye, Dad, I'm off to fight for Old Glory, you buy U.S. Government bonds"/Third Liberty Loan</field>
++    <field name="unittitle_ssm">&#34;Good bye, Dad, I&#39;m off to fight for Old Glory, you buy U.S. Government bonds&#34;/Third Liberty Loan</field>
++    <field name="unittitle_teim">&#34;Good bye, Dad, I&#39;m off to fight for Old Glory, you buy U.S. Government bonds&#34;/Third Liberty Loan</field>
+     <field name="ref_ssi">aspace_ref522_v9a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 13</field>
+     <field name="location_si">Folder: 13</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series II: Monetary Appeals</field>
+     <field name="series_sim">Subseries II.3: Third Liberty Loan</field>
+-    <field name="series_si">Series II: Monetary Appeals &gt;&gt; Subseries II.3: Third Liberty Loan &gt;&gt; "Good bye, Dad, I'm off to fight for Old Glory, you buy U.S. Government bonds"/Third Liberty Loan</field>
+-    <field name="heading_ssm">"Good bye, Dad, I'm off to fight for Old Glory, you buy U.S. Government bonds"/Third Liberty Loan</field>
++    <field name="series_si">Series II: Monetary Appeals &gt;&gt; Subseries II.3: Third Liberty Loan &gt;&gt; &#34;Good bye, Dad, I&#39;m off to fight for Old Glory, you buy U.S. Government bonds&#34;/Third Liberty Loan</field>
++    <field name="heading_ssm">&#34;Good bye, Dad, I&#39;m off to fight for Old Glory, you buy U.S. Government bonds&#34;/Third Liberty Loan</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">301</field>
+   </doc>

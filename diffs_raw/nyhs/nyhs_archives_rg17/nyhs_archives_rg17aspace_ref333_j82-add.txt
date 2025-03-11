@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ritchie, Donald A. "Gary Committee"</field>
+-    <field name="unittitle_teim">Ritchie, Donald A. "Gary Committee"</field>
++    <field name="unittitle_ssm">Ritchie, Donald A. &#34;Gary Committee&#34;</field>
++    <field name="unittitle_teim">Ritchie, Donald A. &#34;Gary Committee&#34;</field>
+     <field name="unitdate_teim">1972-1973</field>
+     <field name="ref_ssi">aspace_ref333_j82</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 20, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 20, Folder: 5</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series II. Publications (1960s-1980)</field>
+     <field name="series_sim">Subseries II.A. Correspondence by Author</field>
+-    <field name="series_si">Series II. Publications (1960s-1980) &gt;&gt; Subseries II.A. Correspondence by Author &gt;&gt; Ritchie, Donald A. "Gary Committee"</field>
+-    <field name="heading_ssm">Ritchie, Donald A. "Gary Committee"</field>
++    <field name="series_si">Series II. Publications (1960s-1980) &gt;&gt; Subseries II.A. Correspondence by Author &gt;&gt; Ritchie, Donald A. &#34;Gary Committee&#34;</field>
++    <field name="heading_ssm">Ritchie, Donald A. &#34;Gary Committee&#34;</field>
+     <field name="unitdate_ssm">1972-1973</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">203</field>

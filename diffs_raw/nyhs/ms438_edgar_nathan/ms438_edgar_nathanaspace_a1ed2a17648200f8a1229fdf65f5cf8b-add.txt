@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Edgar J. Nathan, Jr. papers</field>
+     <field name="collection_unitid_ssm">MS 438</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Pre-Publication Booklet on Georges Lukomski's &lt;em&gt;Old European Synagogues&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Pre-Publication Booklet on Georges Lukomski's Old European Synagogues</field>
++    <field name="unittitle_ssm">Pre-Publication Booklet on Georges Lukomski&#39;s &lt;em&gt;Old European Synagogues&lt;/em&gt;</field>
++    <field name="unittitle_teim">Pre-Publication Booklet on Georges Lukomski&#39;s Old European Synagogues</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+     <field name="ref_ssi">aspace_a1ed2a17648200f8a1229fdf65f5cf8b</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 12, Folder: 14</field>
+     <field name="location_si">Box: 12, Folder: 14</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.B Loose Print Matter</field>
+-    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.B Loose Print Matter &gt;&gt; Pre-Publication Booklet on Georges Lukomski's &lt;em&gt;Old European Synagogues&lt;/em&gt;</field>
+-    <field name="heading_ssm">Pre-Publication Booklet on Georges Lukomski's Old European Synagogues</field>
++    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.B Loose Print Matter &gt;&gt; Pre-Publication Booklet on Georges Lukomski&#39;s &lt;em&gt;Old European Synagogues&lt;/em&gt;</field>
++    <field name="heading_ssm">Pre-Publication Booklet on Georges Lukomski&#39;s Old European Synagogues</field>
+     <field name="unitdate_ssm">Inclusive, Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">239</field>

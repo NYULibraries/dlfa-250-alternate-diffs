@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Peter A. Frasse &amp; Co. Records</field>
+     <field name="collection_unitid_ssm">MS 2189</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Documents interleaved in "Minutes, 1891-1907"</field>
+-    <field name="unittitle_teim">Documents interleaved in "Minutes, 1891-1907"</field>
++    <field name="unittitle_ssm">Documents interleaved in &#34;Minutes, 1891-1907&#34;</field>
++    <field name="unittitle_teim">Documents interleaved in &#34;Minutes, 1891-1907&#34;</field>
+     <field name="unitdate_teim">1891-1907</field>
+     <field name="ref_ssi">aspace_ref32_eme</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Peter A. Frasse &amp; Co. Records</field>
++    <field name="author_teim">Luke Meagher</field>
+     <field name="collection_unitid_teim">MS 2189</field>
+     <field name="series_sim">Series II: Minutes, 1891-1977</field>
+-    <field name="series_si">Series II: Minutes, 1891-1977 &gt;&gt; Documents interleaved in "Minutes, 1891-1907"</field>
+-    <field name="heading_ssm">Documents interleaved in "Minutes, 1891-1907"</field>
++    <field name="series_si">Series II: Minutes, 1891-1977 &gt;&gt; Documents interleaved in &#34;Minutes, 1891-1907&#34;</field>
++    <field name="heading_ssm">Documents interleaved in &#34;Minutes, 1891-1907&#34;</field>
+     <field name="unitdate_ssm">1891-1907</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

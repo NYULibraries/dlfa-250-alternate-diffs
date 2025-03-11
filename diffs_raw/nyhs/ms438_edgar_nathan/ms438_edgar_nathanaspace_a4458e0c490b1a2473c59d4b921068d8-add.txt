@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Edgar J. Nathan, Jr. papers</field>
+     <field name="collection_unitid_ssm">MS 438</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mabel Nathan's Certificates</field>
+-    <field name="unittitle_teim">Mabel Nathan's Certificates</field>
++    <field name="unittitle_ssm">Mabel Nathan&#39;s Certificates</field>
++    <field name="unittitle_teim">Mabel Nathan&#39;s Certificates</field>
+     <field name="unitdate_inclusive_teim">1915-1950</field>
+     <field name="ref_ssi">aspace_a4458e0c490b1a2473c59d4b921068d8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 11, Folder: 25</field>
+     <field name="location_si">Box: 11, Folder: 25</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series VII. Memorabilia</field>
+-    <field name="series_si">Series VII. Memorabilia &gt;&gt; Mabel Nathan's Certificates</field>
+-    <field name="heading_ssm">Mabel Nathan's Certificates</field>
++    <field name="series_si">Series VII. Memorabilia &gt;&gt; Mabel Nathan&#39;s Certificates</field>
++    <field name="heading_ssm">Mabel Nathan&#39;s Certificates</field>
+     <field name="unitdate_ssm">Inclusive, 1915-1950</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">288</field>

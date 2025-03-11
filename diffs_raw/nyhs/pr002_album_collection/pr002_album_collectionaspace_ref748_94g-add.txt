@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of albums</field>
+     <field name="collection_unitid_ssm">PR 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Faculty and students, Packard's Business College</field>
+-    <field name="unittitle_teim">Faculty and students, Packard's Business College</field>
++    <field name="unittitle_ssm">Faculty and students, Packard&#39;s Business College</field>
++    <field name="unittitle_teim">Faculty and students, Packard&#39;s Business College</field>
+     <field name="unitdate_normal_ssm">1875/1875</field>
+     <field name="unitdate_normal_teim">1875/1875</field>
+     <field name="unitdate_normal_sim">1875/1875</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Offsite-Box: 33, Volume: 230.2</field>
+     <field name="location_si">Offsite-Box: 33, Volume: 230.2</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+-    <field name="series_si">Faculty and students, Packard's Business College</field>
+-    <field name="heading_ssm">Faculty and students, Packard's Business College</field>
++    <field name="series_si">Faculty and students, Packard&#39;s Business College</field>
++    <field name="heading_ssm">Faculty and students, Packard&#39;s Business College</field>
+     <field name="unitdate_start_sim">1875</field>
+     <field name="unitdate_start_ssm">1875</field>
+     <field name="unitdate_start_si">1875</field>

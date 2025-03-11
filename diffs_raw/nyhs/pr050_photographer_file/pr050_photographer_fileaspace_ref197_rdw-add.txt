@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Photographer File</field>
+     <field name="collection_unitid_ssm">PR 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"A Day in Bedford Stuyvesant Brooklyn, 1968" (12 photos)</field>
+-    <field name="unittitle_teim">"A Day in Bedford Stuyvesant Brooklyn, 1968" (12 photos)</field>
++    <field name="unittitle_ssm">&#34;A Day in Bedford Stuyvesant Brooklyn, 1968&#34; (12 photos)</field>
++    <field name="unittitle_teim">&#34;A Day in Bedford Stuyvesant Brooklyn, 1968&#34; (12 photos)</field>
+     <field name="unitdate_teim">1968</field>
+     <field name="ref_ssi">aspace_ref197_rdw</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Photographer File</field>
++    <field name="author_teim">Jennifer Lewis, Marybeth Kavanagh, and others</field>
+     <field name="collection_unitid_teim">PR 50</field>
+     <field name="series_sim">Zimbel, George (1929-)</field>
+-    <field name="series_si">Zimbel, George (1929-) &gt;&gt; "A Day in Bedford Stuyvesant Brooklyn, 1968" (12 photos)</field>
+-    <field name="heading_ssm">"A Day in Bedford Stuyvesant Brooklyn, 1968" (12 photos)</field>
++    <field name="series_si">Zimbel, George (1929-) &gt;&gt; &#34;A Day in Bedford Stuyvesant Brooklyn, 1968&#34; (12 photos)</field>
++    <field name="heading_ssm">&#34;A Day in Bedford Stuyvesant Brooklyn, 1968&#34; (12 photos)</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">212</field>

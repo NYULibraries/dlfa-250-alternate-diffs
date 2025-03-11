@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Time Newstour '81: Middle East, Eastern Europe, and Soviet Union</field>
+-    <field name="unittitle_teim">Time Newstour '81: Middle East, Eastern Europe, and Soviet Union</field>
++    <field name="unittitle_ssm">Time Newstour &#39;81: Middle East, Eastern Europe, and Soviet Union</field>
++    <field name="unittitle_teim">Time Newstour &#39;81: Middle East, Eastern Europe, and Soviet Union</field>
+     <field name="unitdate_inclusive_teim">1978-1981</field>
+     <field name="ref_ssi">aspace_580c08c1db3b3fdd3869392e4fe0c31a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Offsite-Box: 2867, Folder: 1-2</field>
+     <field name="location_si">Offsite-Box: 2867, Folder: 1-2</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series IV. Promotion and Public Affairs Department Records</field>
+     <field name="series_sim">Subseries IV.K. Newstour Files</field>
+     <field name="series_sim">Subsubseries IV.K.1. Administrative Files</field>
+-    <field name="series_si">Series IV. Promotion and Public Affairs Department Records &gt;&gt; Subseries IV.K. Newstour Files &gt;&gt; Subsubseries IV.K.1. Administrative Files &gt;&gt; Time Newstour '81: Middle East, Eastern Europe, and Soviet Union</field>
+-    <field name="heading_ssm">Time Newstour '81: Middle East, Eastern Europe, and Soviet Union</field>
++    <field name="series_si">Series IV. Promotion and Public Affairs Department Records &gt;&gt; Subseries IV.K. Newstour Files &gt;&gt; Subsubseries IV.K.1. Administrative Files &gt;&gt; Time Newstour &#39;81: Middle East, Eastern Europe, and Soviet Union</field>
++    <field name="heading_ssm">Time Newstour &#39;81: Middle East, Eastern Europe, and Soviet Union</field>
+     <field name="unitdate_ssm">Inclusive, 1978-1981</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1027</field>

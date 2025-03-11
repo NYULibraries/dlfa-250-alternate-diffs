@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Asher B. Durand print collection</field>
+     <field name="collection_unitid_ssm">PR 221</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Prints after Durand's paintings</field>
+-    <field name="unittitle_teim">Prints after Durand's paintings</field>
++    <field name="unittitle_ssm">Prints after Durand&#39;s paintings</field>
++    <field name="unittitle_teim">Prints after Durand&#39;s paintings</field>
+     <field name="ref_ssi">aspace_ref31_acf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Folder: FF-14</field>
+     <field name="location_si">Folder: FF-14</field>
+     <field name="collection_teim">Asher B. Durand print collection</field>
++    <field name="author_teim">Jenny Gotwals (2011); Larry Weimer (2021)</field>
+     <field name="collection_unitid_teim">PR 221</field>
+     <field name="series_sim">Series II: Oversize Prints</field>
+-    <field name="series_si">Series II: Oversize Prints &gt;&gt; Prints after Durand's paintings</field>
+-    <field name="heading_ssm">Prints after Durand's paintings</field>
++    <field name="series_si">Series II: Oversize Prints &gt;&gt; Prints after Durand&#39;s paintings</field>
++    <field name="heading_ssm">Prints after Durand&#39;s paintings</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">17</field>
+   </doc>

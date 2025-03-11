@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooke Astor papers</field>
+     <field name="collection_unitid_ssm">MS 3157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Brooke Astor, Laureate of the Library"</field>
+-    <field name="unittitle_teim">"Brooke Astor, Laureate of the Library"</field>
++    <field name="unittitle_ssm">&#34;Brooke Astor, Laureate of the Library&#34;</field>
++    <field name="unittitle_teim">&#34;Brooke Astor, Laureate of the Library&#34;</field>
+     <field name="unitdate_teim">circa 1990</field>
+     <field name="scopecontent_teim">Typescript of remarks by Barbaralee Diamonstein.</field>
+     <field name="ref_ssi">aspace_fca683c4bc33eb4aacdc5971403e5d13</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 12</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series III. Writings by and about Brooke Astor</field>
+-    <field name="series_si">Series III. Writings by and about Brooke Astor &gt;&gt; "Brooke Astor, Laureate of the Library"</field>
+-    <field name="heading_ssm">"Brooke Astor, Laureate of the Library"</field>
++    <field name="series_si">Series III. Writings by and about Brooke Astor &gt;&gt; &#34;Brooke Astor, Laureate of the Library&#34;</field>
++    <field name="heading_ssm">&#34;Brooke Astor, Laureate of the Library&#34;</field>
+     <field name="unitdate_ssm">circa 1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">104</field>

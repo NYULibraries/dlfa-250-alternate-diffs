@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Garner, James Wilford</field>
+     <field name="unittitle_teim">Garner, James Wilford</field>
+     <field name="unitdate_inclusive_teim">1917, 1920-1921</field>
+-    <field name="scopecontent_teim">Primarily concerns Garner's lecture tour in France (1921) and related matters.</field>
++    <field name="scopecontent_teim">Primarily concerns Garner&#39;s lecture tour in France (1921) and related matters.</field>
+     <field name="ref_ssi">aspace_3e3a1f9b83a8d77c24e6459c43e58c1a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 5, Folder: 4</field>
+     <field name="location_si">Box: 5, Folder: 4</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Garner, James Wilford</field>

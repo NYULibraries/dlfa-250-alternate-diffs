@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Issachar Cozzens portfolio print collection</field>
+     <field name="collection_unitid_ssm">PR 145</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Restaurant near Sybil's Cave</field>
+-    <field name="unittitle_teim">Restaurant near Sybil's Cave</field>
++    <field name="unittitle_ssm">Restaurant near Sybil&#39;s Cave</field>
++    <field name="unittitle_teim">Restaurant near Sybil&#39;s Cave</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_ref38_a4u</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Folder: 1, item: 61.3</field>
+     <field name="location_si">Folder: 1, item: 61.3</field>
+     <field name="collection_teim">Issachar Cozzens portfolio print collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 145</field>
+-    <field name="series_si">Restaurant near Sybil's Cave</field>
+-    <field name="heading_ssm">Restaurant near Sybil's Cave</field>
++    <field name="series_si">Restaurant near Sybil&#39;s Cave</field>
++    <field name="heading_ssm">Restaurant near Sybil&#39;s Cave</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">27</field>

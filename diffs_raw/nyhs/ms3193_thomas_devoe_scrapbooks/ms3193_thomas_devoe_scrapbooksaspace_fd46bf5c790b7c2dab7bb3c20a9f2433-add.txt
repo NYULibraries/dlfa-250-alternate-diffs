@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Markets</field>
+     <field name="unittitle_teim">Markets</field>
+     <field name="unitdate_inclusive_teim">1850-1883</field>
+-    <field name="scopecontent_teim">Includes, among others, articles about De Voe's book.</field>
++    <field name="scopecontent_teim">Includes, among others, articles about De Voe&#39;s book.</field>
+     <field name="ref_ssi">aspace_fd46bf5c790b7c2dab7bb3c20a9f2433</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 9, Volume: SN-56</field>
+     <field name="location_si">Offsite-Box: 9, Volume: SN-56</field>
+     <field name="collection_teim">Thomas F. De Voe scrapbooks</field>
++    <field name="author_teim">Larry Weimer and Elise Winks</field>
+     <field name="collection_unitid_teim">MS 3193</field>
+     <field name="series_si">Markets</field>
+     <field name="heading_ssm">Markets</field>

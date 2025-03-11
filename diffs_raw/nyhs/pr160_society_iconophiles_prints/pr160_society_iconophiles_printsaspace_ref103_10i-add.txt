@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Society of Iconophiles Print Collection</field>
+     <field name="collection_unitid_ssm">PR 160</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">12. St. Paul's Chapel about 1812 from a Painting by Wm. Strickland</field>
+-    <field name="unittitle_teim">12. St. Paul's Chapel about 1812 from a Painting by Wm. Strickland</field>
++    <field name="unittitle_ssm">12. St. Paul&#39;s Chapel about 1812 from a Painting by Wm. Strickland</field>
++    <field name="unittitle_teim">12. St. Paul&#39;s Chapel about 1812 from a Painting by Wm. Strickland</field>
+     <field name="unitdate_normal_ssm">1908/1908</field>
+     <field name="unitdate_normal_teim">1908/1908</field>
+     <field name="unitdate_normal_sim">1908/1908</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 37</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 37</field>
+     <field name="collection_teim">Society of Iconophiles Print Collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 160</field>
+     <field name="series_sim">Series IX: Twelve Engravings by W. M. Aikman, Frances S. King, and Sidney L. Smith</field>
+-    <field name="series_si">Series IX: Twelve Engravings by W. M. Aikman, Frances S. King, and Sidney L. Smith &gt;&gt; 12. St. Paul's Chapel about 1812 from a Painting by Wm. Strickland</field>
+-    <field name="heading_ssm">12. St. Paul's Chapel about 1812 from a Painting by Wm. Strickland</field>
++    <field name="series_si">Series IX: Twelve Engravings by W. M. Aikman, Frances S. King, and Sidney L. Smith &gt;&gt; 12. St. Paul&#39;s Chapel about 1812 from a Painting by Wm. Strickland</field>
++    <field name="heading_ssm">12. St. Paul&#39;s Chapel about 1812 from a Painting by Wm. Strickland</field>
+     <field name="unitdate_start_sim">1908</field>
+     <field name="unitdate_start_ssm">1908</field>
+     <field name="unitdate_start_si">1908</field>

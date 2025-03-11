@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,18 @@
+     <field name="collection_ssm">William Sharman papers</field>
+     <field name="collection_unitid_ssm">MS 3068</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York World's Fair</field>
+-    <field name="unittitle_teim">New York World's Fair</field>
++    <field name="unittitle_ssm">New York World&#39;s Fair</field>
++    <field name="unittitle_teim">New York World&#39;s Fair</field>
+     <field name="unitdate_inclusive_teim">1939, 1964-65</field>
+-    <field name="scopecontent_teim">Contains:</field>
+-    <field name="scopecontent_teim">1939 | "Your Guide to General Motors Highways and Horizons Exhibit"
+-1939 | photograph of fountain outside Westinghouse exhibit</field>
+-    <field name="scopecontent_teim">1964-65 | "Seagram's World's Fair Map and New York City Guide" (2 copies)
+-1964-65 | "The Triumph of Man" as presented by the Travelers Insurance Company (a 45-rpm record in a folding, illustrated sleeve)</field>
++    <field name="scopecontent_teim">Contains:
++</field>
++    <field name="scopecontent_teim">1939 | &#34;Your Guide to General Motors Highways and Horizons Exhibit&#34;
++
++1939 | photograph of fountain outside Westinghouse exhibit
++</field>
++    <field name="scopecontent_teim">1964-65 | &#34;Seagram&#39;s World&#39;s Fair Map and New York City Guide&#34; (2 copies)
++
++1964-65 | &#34;The Triumph of Man&#34; as presented by the Travelers Insurance Company (a 45-rpm record in a folding, illustrated sleeve)</field>
+     <field name="ref_ssi">aspace_39ff216d2c313e8fa58d64035e9277e0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,10 +34,11 @@
+     <field name="location_ssm">Box: 1, Folder: 22</field>
+     <field name="location_si">Box: 1, Folder: 22</field>
+     <field name="collection_teim">William Sharman papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3068</field>
+     <field name="series_sim">Series IV. Ephemera &amp;amp; Photographs</field>
+-    <field name="series_si">Series IV. Ephemera &amp;amp; Photographs &gt;&gt; New York World's Fair</field>
+-    <field name="heading_ssm">New York World's Fair</field>
++    <field name="series_si">Series IV. Ephemera &amp; Photographs &gt;&gt; New York World&#39;s Fair</field>
++    <field name="heading_ssm">New York World&#39;s Fair</field>
+     <field name="unitdate_ssm">Inclusive, 1939, 1964-65</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>

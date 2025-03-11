@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_ssm">PC 001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Little Boy's &amp;amp; Girl's Library&lt;/em&gt;: &lt;em&gt;Gift to Young Friends&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Little Boy's &amp; Girl's Library: Gift to Young Friends</field>
++    <field name="unittitle_ssm">&lt;em&gt;Little Boy&#39;s &amp; Girl&#39;s Library&lt;/em&gt;: &lt;em&gt;Gift to Young Friends&lt;/em&gt;</field>
++    <field name="unittitle_teim">Little Boy&#39;s &amp; Girl&#39;s Library: Gift to Young Friends</field>
+     <field name="scopecontent_teim">3 woodblocks.</field>
+-    <field name="title_teim">Little Boy's &amp; Girl's Library</field>
++    <field name="title_teim">Little Boy&#39;s &amp; Girl&#39;s Library</field>
+     <field name="title_teim">Gift to Young Friends</field>
+-    <field name="title_ssm">Little Boy's &amp; Girl's Library</field>
++    <field name="title_ssm">Little Boy&#39;s &amp; Girl&#39;s Library</field>
+     <field name="title_ssm">Gift to Young Friends</field>
+     <field name="ref_ssi">aspace_d45ef1d65ad870d575fe9464ad4c8d52</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 15, Box: 2C (10)</field>
+     <field name="location_si">Offsite-Box: 15, Box: 2C (10)</field>
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
++    <field name="author_teim">Crystal Toscano</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series VI. Robert H. Elton, engraver</field>
+-    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; &lt;em&gt;Little Boy's &amp;amp; Girl's Library&lt;/em&gt;: &lt;em&gt;Gift to Young Friends&lt;/em&gt;</field>
+-    <field name="heading_ssm">Little Boy's &amp; Girl's Library: Gift to Young Friends</field>
++    <field name="series_si">Series VI. Robert H. Elton, engraver &gt;&gt; &lt;em&gt;Little Boy&#39;s &amp; Girl&#39;s Library&lt;/em&gt;: &lt;em&gt;Gift to Young Friends&lt;/em&gt;</field>
++    <field name="heading_ssm">Little Boy&#39;s &amp; Girl&#39;s Library: Gift to Young Friends</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">85</field>
+   </doc>

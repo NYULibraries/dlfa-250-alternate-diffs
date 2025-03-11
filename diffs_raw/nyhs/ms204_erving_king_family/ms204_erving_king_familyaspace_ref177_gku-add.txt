@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Erving-King Family papers</field>
+     <field name="collection_unitid_ssm">MS 204</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ship's Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
+-    <field name="unittitle_teim">Ship's Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
++    <field name="unittitle_ssm">Ship&#39;s Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
++    <field name="unittitle_teim">Ship&#39;s Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
+     <field name="unitdate_teim">1826 June-1827 Sept.</field>
+     <field name="ref_ssi">aspace_ref177_gku</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Volume: E2</field>
+     <field name="location_si">Volume: E2</field>
+     <field name="collection_teim">Erving-King Family papers</field>
++    <field name="author_teim">Processed by Caroline D. Bain.</field>
+     <field name="collection_unitid_teim">MS 204</field>
+     <field name="series_sim">Series I: Erving and Related Families</field>
+-    <field name="series_si">Series I: Erving and Related Families &gt;&gt; Ship's Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
+-    <field name="heading_ssm">Ship's Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
++    <field name="series_si">Series I: Erving and Related Families &gt;&gt; Ship&#39;s Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
++    <field name="heading_ssm">Ship&#39;s Log: Frigate Macedonian, James Biddle, Commander. (T.O. Langdon-Elwyn was midshipman aboard.)</field>
+     <field name="unitdate_ssm">1826 June-1827 Sept.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">144</field>

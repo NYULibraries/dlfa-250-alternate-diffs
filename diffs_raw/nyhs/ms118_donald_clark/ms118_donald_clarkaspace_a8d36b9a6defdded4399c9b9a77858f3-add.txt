@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Donald F. Clark collection</field>
+     <field name="collection_unitid_ssm">MS 118</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Eustis, William. Letter to Gen. Greene Robinson's house</field>
+-    <field name="unittitle_teim">Eustis, William. Letter to Gen. Greene Robinson's house</field>
++    <field name="unittitle_ssm">Eustis, William. Letter to Gen. Greene Robinson&#39;s house</field>
++    <field name="unittitle_teim">Eustis, William. Letter to Gen. Greene Robinson&#39;s house</field>
+     <field name="unitdate_teim">1780 October 13</field>
+     <field name="scopecontent_teim">Photocopy only, original returned.</field>
+     <field name="ref_ssi">aspace_a8d36b9a6defdded4399c9b9a77858f3</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 1, item: 11</field>
+     <field name="location_si">Box: 1, item: 11</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+-    <field name="series_si">Eustis, William. Letter to Gen. Greene Robinson's house</field>
+-    <field name="heading_ssm">Eustis, William. Letter to Gen. Greene Robinson's house</field>
++    <field name="series_si">Eustis, William. Letter to Gen. Greene Robinson&#39;s house</field>
++    <field name="heading_ssm">Eustis, William. Letter to Gen. Greene Robinson&#39;s house</field>
+     <field name="unitdate_ssm">1780 October 13</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">250</field>

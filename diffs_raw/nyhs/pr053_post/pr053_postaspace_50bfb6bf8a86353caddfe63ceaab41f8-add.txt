@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">George B. Post architectural records</field>
+     <field name="collection_unitid_ssm">PR 53</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Vol. 38. Journal [label = "Sundries"]</field>
+-    <field name="unittitle_teim">Vol. 38. Journal [label = "Sundries"]</field>
++    <field name="unittitle_ssm">Vol. 38. Journal [label = &#34;Sundries&#34;]</field>
++    <field name="unittitle_teim">Vol. 38. Journal [label = &#34;Sundries&#34;]</field>
+     <field name="unitdate_inclusive_teim">1875 Jan. - 1886 Dec. 31 </field>
+     <field name="ref_ssi">aspace_50bfb6bf8a86353caddfe63ceaab41f8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 74</field>
+     <field name="location_si">Offsite-Box: 74</field>
+     <field name="collection_teim">George B. Post architectural records</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 53</field>
+     <field name="series_sim">Series III. Bound Volumes</field>
+-    <field name="series_si">Series III. Bound Volumes &gt;&gt; Vol. 38. Journal [label = "Sundries"]</field>
+-    <field name="heading_ssm">Vol. 38. Journal [label = "Sundries"]</field>
++    <field name="series_si">Series III. Bound Volumes &gt;&gt; Vol. 38. Journal [label = &#34;Sundries&#34;]</field>
++    <field name="heading_ssm">Vol. 38. Journal [label = &#34;Sundries&#34;]</field>
+     <field name="unitdate_ssm">Inclusive, 1875 Jan. - 1886 Dec. 31 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">727</field>

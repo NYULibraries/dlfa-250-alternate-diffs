@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Official Papers. 1849 (1 of 4). </field>
+     <field name="unittitle_teim">Official Papers. 1849 (1 of 4). </field>
+     <field name="unitdate_teim">1849</field>
+-    <field name="scopecontent_teim">Includes the report of the committee formed to consider the proposal from the Lyceum of Natural History for an exchange of objects found in the former Cabinet of the N-YHS for books; in considering this proposal, the committee briefly recounts the history of the Lyceum's acquisition of objects from N-YHS.</field>
++    <field name="scopecontent_teim">Includes the report of the committee formed to consider the proposal from the Lyceum of Natural History for an exchange of objects found in the former Cabinet of the N-YHS for books; in considering this proposal, the committee briefly recounts the history of the Lyceum&#39;s acquisition of objects from N-YHS.</field>
+     <field name="ref_ssi">aspace_ref160_gyi</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 1</field>
+     <field name="location_si">Box: 4, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society management committee records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 1</field>
+     <field name="series_sim">Series IV. Official Papers </field>
+     <field name="series_si">Series IV. Official Papers  &gt;&gt; Official Papers. 1849 (1 of 4). </field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ulrich's International Periodicals Directory and Time Warner Corporate Information Packet</field>
+-    <field name="unittitle_teim">Ulrich's International Periodicals Directory and Time Warner Corporate Information Packet</field>
++    <field name="unittitle_ssm">Ulrich&#39;s International Periodicals Directory and Time Warner Corporate Information Packet</field>
++    <field name="unittitle_teim">Ulrich&#39;s International Periodicals Directory and Time Warner Corporate Information Packet</field>
+     <field name="unitdate_inclusive_teim">1990</field>
+     <field name="ref_ssi">aspace_e89ac5cbca5efcfac04f1de9f2815eef</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 2905, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 2905, Folder: 8</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series II. Public Relations Department Files</field>
+     <field name="series_sim">Subseries II.A. Public Relations Director Emma Dockendorff</field>
+-    <field name="series_si">Series II. Public Relations Department Files &gt;&gt; Subseries II.A. Public Relations Director Emma Dockendorff &gt;&gt; Ulrich's International Periodicals Directory and Time Warner Corporate Information Packet</field>
+-    <field name="heading_ssm">Ulrich's International Periodicals Directory and Time Warner Corporate Information Packet</field>
++    <field name="series_si">Series II. Public Relations Department Files &gt;&gt; Subseries II.A. Public Relations Director Emma Dockendorff &gt;&gt; Ulrich&#39;s International Periodicals Directory and Time Warner Corporate Information Packet</field>
++    <field name="heading_ssm">Ulrich&#39;s International Periodicals Directory and Time Warner Corporate Information Packet</field>
+     <field name="unitdate_ssm">Inclusive, 1990</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">106</field>

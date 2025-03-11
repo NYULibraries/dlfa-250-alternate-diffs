@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,13 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Web Digest&lt;/em&gt; / &lt;em&gt;What's Up&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Web Digest / What's Up</field>
++    <field name="unittitle_ssm">&lt;em&gt;Web Digest&lt;/em&gt; / &lt;em&gt;What&#39;s Up&lt;/em&gt;</field>
++    <field name="unittitle_teim">Web Digest / What&#39;s Up</field>
+     <field name="unitdate_inclusive_teim">1996</field>
+     <field name="title_teim">Web Digest</field>
+-    <field name="title_teim">What's Up</field>
++    <field name="title_teim">What&#39;s Up</field>
+     <field name="title_ssm">Web Digest</field>
+-    <field name="title_ssm">What's Up</field>
++    <field name="title_ssm">What&#39;s Up</field>
+     <field name="ref_ssi">aspace_65a129ece7237baf51b878e348654d11</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 3816, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 3816, Folder: 12</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series V. Development Editor Isolde Motley Dead Magazine Proposal Files</field>
+-    <field name="series_si">Series V. Development Editor Isolde Motley Dead Magazine Proposal Files &gt;&gt; &lt;em&gt;Web Digest&lt;/em&gt; / &lt;em&gt;What's Up&lt;/em&gt;</field>
+-    <field name="heading_ssm">Web Digest / What's Up</field>
++    <field name="series_si">Series V. Development Editor Isolde Motley Dead Magazine Proposal Files &gt;&gt; &lt;em&gt;Web Digest&lt;/em&gt; / &lt;em&gt;What&#39;s Up&lt;/em&gt;</field>
++    <field name="heading_ssm">Web Digest / What&#39;s Up</field>
+     <field name="unitdate_ssm">Inclusive, 1996</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3880</field>

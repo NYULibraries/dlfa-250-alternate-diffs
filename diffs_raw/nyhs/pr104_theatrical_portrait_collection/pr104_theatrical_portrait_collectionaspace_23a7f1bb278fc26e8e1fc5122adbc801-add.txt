@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,18 +16,27 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (medium) "F"</field>
+-    <field name="unittitle_teim">Individuals (medium) "F"</field>
++    <field name="unittitle_ssm">Individuals (medium) &#34;F&#34;</field>
++    <field name="unittitle_teim">Individuals (medium) &#34;F&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Faversham, William
++
+ Fechter, Charles
++
+ Fetter, Selene
++
+ Fish, Nicholas (2 images)
++
+ Fisher, Charles (2 images)
++
+ Fiske, Minnie Maddern
++
+ Florence, William Jermyn
++
+ Florence, Mrs. W. J. (William Jermyn)
++
+ Forrest, Edwin (2 images)
++
+ French, Colonel</field>
+     <field name="ref_ssi">aspace_23a7f1bb278fc26e8e1fc5122adbc801</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -38,11 +47,12 @@
+     <field name="location_ssm">drawer: Medium</field>
+     <field name="location_si">drawer: Medium</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.B. Individuals (medium format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) "F"</field>
+-    <field name="heading_ssm">Individuals (medium) "F"</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) &#34;F&#34;</field>
++    <field name="heading_ssm">Individuals (medium) &#34;F&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">56</field>

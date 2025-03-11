@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Scrapbook 1</field>
+     <field name="unittitle_teim">Scrapbook 1</field>
+     <field name="unitdate_inclusive_teim">1885-1888</field>
+-    <field name="scopecontent_teim">This volume documents Sherrill's Yale undergraduate years, including church services, rules and guidelines, fraternity life, athletics, dinners, and other events.</field>
++    <field name="scopecontent_teim">This volume documents Sherrill&#39;s Yale undergraduate years, including church services, rules and guidelines, fraternity life, athletics, dinners, and other events.</field>
+     <field name="ref_ssi">aspace_eae2782e9c418517bdadc473b03a9be6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Volume: 1</field>
+     <field name="location_si">Offsite-Box: 1, Volume: 1</field>
+     <field name="collection_teim">Charles H. Sherrill scrapbooks</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 3191</field>
+     <field name="series_si">Scrapbook 1</field>
+     <field name="heading_ssm">Scrapbook 1</field>

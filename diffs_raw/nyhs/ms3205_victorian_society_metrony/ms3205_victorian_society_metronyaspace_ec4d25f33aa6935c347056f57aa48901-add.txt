@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,8 @@
+     <field name="unitdate_inclusive_teim">1985</field>
+     <field name="scopecontent_teim">The set holds Folder Codes: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, T</field>
+     <field name="scopecontent_teim">Folder Notes:
+-H—Among other items, includes party photographs by Bob Kaufman noted as "mid-1980s."</field>
++
++H—Among other items, includes party photographs by Bob Kaufman noted as &#34;mid-1980s.&#34;</field>
+     <field name="ref_ssi">aspace_ec4d25f33aa6935c347056f57aa48901</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 1-15</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 1-15</field>
+     <field name="collection_teim">Victorian Society in America, Metropolitan Chapter records</field>
++    <field name="author_teim">Michelle D. Novak</field>
+     <field name="collection_unitid_teim">MS 3205</field>
+     <field name="series_sim">Series I. Paper-based Files</field>
+     <field name="series_si">Series I. Paper-based Files &gt;&gt; VSNY Files</field>

@@ -1,0 +1,73 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,28 +16,39 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Manhattan | Restaurants (G)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Manhattan | Restaurants (G)
+-    </field>
+-    <field name="scopecontent_teim">Gallagher's Steak House
++    <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Restaurants (G)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Manhattan | Restaurants (G)</field>
++    <field name="scopecontent_teim">Gallagher&#39;s Steak House
++
+ Garden Cafeteria
++
+ Garden Restaurant
++
+ Geigers Konditorei und Kaffee
++
+ German American Rathskeller
+-Gertner's
++
++Gertner&#39;s
++
+ Gilhuly Bros.
+-Gilmore's Restaurant
+-Gilmore's Steakhouse
++
++Gilmore&#39;s Restaurant
++
++Gilmore&#39;s Steakhouse
++
+ Giolito Bros. Cedar Garden
++
+ Giolito Venetian Garden
++
+ Grand Central Terminal Restaurant / Oyster Bar
++
+ Janssen Graybar
++
+ Greenwich Village Inn
++
+ Grill Room, Hotel McAlpin
+-Gus-andy's</field>
++
++Gus-andy&#39;s</field>
+     <field name="ref_ssi">aspace_c87971876969b7c1750aa1446849c526</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -47,15 +58,12 @@
+     <field name="location_ssm">Box: 54</field>
+     <field name="location_si">Box: 54</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;Manhattan | Restaurants (G)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Manhattan | Restaurants (G)
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;Manhattan | Restaurants (G)&lt;/strong&gt;</field>
++    <field name="heading_ssm">Manhattan | Restaurants (G)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">271</field>
+   </doc>

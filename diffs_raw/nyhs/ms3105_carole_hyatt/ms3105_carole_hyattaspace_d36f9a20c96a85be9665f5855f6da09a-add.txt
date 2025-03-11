@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Carole Hyatt papers</field>
+     <field name="collection_unitid_ssm">MS 3105</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Pat Finley. Seattle Today. Shifting Gears"</field>
+-    <field name="unittitle_teim">"Pat Finley. Seattle Today. Shifting Gears"</field>
++    <field name="unittitle_ssm">&#34;Pat Finley. Seattle Today. Shifting Gears&#34;</field>
++    <field name="unittitle_teim">&#34;Pat Finley. Seattle Today. Shifting Gears&#34;</field>
+     <field name="unitdate_teim">1991 January 30</field>
+     <field name="ref_ssi">aspace_d36f9a20c96a85be9665f5855f6da09a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series IV. Videotapes</field>
+-    <field name="series_si">Series IV. Videotapes &gt;&gt; "Pat Finley. Seattle Today. Shifting Gears"</field>
+-    <field name="heading_ssm">"Pat Finley. Seattle Today. Shifting Gears"</field>
++    <field name="series_si">Series IV. Videotapes &gt;&gt; &#34;Pat Finley. Seattle Today. Shifting Gears&#34;</field>
++    <field name="heading_ssm">&#34;Pat Finley. Seattle Today. Shifting Gears&#34;</field>
+     <field name="unitdate_ssm">1991 January 30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">517</field>

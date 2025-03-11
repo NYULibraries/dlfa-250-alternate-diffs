@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Stamps</field>
+     <field name="unittitle_teim">Stamps</field>
+     <field name="unitdate_teim">1944-1946</field>
+-    <field name="scopecontent_teim">Includes the first issue of the first stamp issued by the Charles de Gaulle Government after the liberation of France with autographs by the artist, designer and General Jean de Lattre de Tassigny. There are also souvenir first flight stamps with envelopes to Wheeling, West Virginia, Egypt and France, Tuskegee Institute George Washington Carver Foundation stamps, and an "ABLE Day" letter sent the day on which the atomic bomb was dropped at Bikini Atoll.</field>
++    <field name="scopecontent_teim">Includes the first issue of the first stamp issued by the Charles de Gaulle Government after the liberation of France with autographs by the artist, designer and General Jean de Lattre de Tassigny. There are also souvenir first flight stamps with envelopes to Wheeling, West Virginia, Egypt and France, Tuskegee Institute George Washington Carver Foundation stamps, and an &#34;ABLE Day&#34; letter sent the day on which the atomic bomb was dropped at Bikini Atoll.</field>
+     <field name="ref_ssi">aspace_ref1278_c4e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 63, Folder: 15</field>
+     <field name="location_si">Box: 63, Folder: 15</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series VIII. Financial Files</field>
+     <field name="series_sim">Subseries VIII.B. Clare Boothe Luce Financial Files</field>

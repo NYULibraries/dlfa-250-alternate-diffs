@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Subject Material</field>
+     <field name="unittitle_teim">Series II: Subject Material</field>
+-    <field name="scopecontent_teim">Likely preserved for future columns (though Gayle's ultimate intentions remain unclear), subject material files kept by Gayle are arranged alphabetically. Comprised of notes, clippings, and correspondence, they focus on her preservationist efforts.</field>
++    <field name="scopecontent_teim">Likely preserved for future columns (though Gayle&#39;s ultimate intentions remain unclear), subject material files kept by Gayle are arranged alphabetically. Comprised of notes, clippings, and correspondence, they focus on her preservationist efforts.</field>
+     <field name="ref_ssi">aspace_ref345_dgv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Margot Gayle papers</field>
++    <field name="author_teim">Processed by Alex Poole with additions by Alison Barr</field>
+     <field name="collection_unitid_teim">MS 241</field>
+     <field name="series_si">Series II: Subject Material</field>
+     <field name="heading_ssm">Series II: Subject Material</field>

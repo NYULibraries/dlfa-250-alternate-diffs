@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mildred "Betty" Jerman Moffitt certificates</field>
+-    <field name="unittitle_teim">Mildred "Betty" Jerman Moffitt certificates</field>
++    <field name="unittitle_ssm">Mildred &#34;Betty&#34; Jerman Moffitt certificates</field>
++    <field name="unittitle_teim">Mildred &#34;Betty&#34; Jerman Moffitt certificates</field>
+     <field name="unitdate_inclusive_teim">1926-1941</field>
+-    <field name="scopecontent_teim">Contains "Cradle Role Certificate" from the First Brethren Sunday School of Long Beach, California, 1926 and diploma from The Harbell College of Cosmetology, 1941.</field>
++    <field name="scopecontent_teim">Contains &#34;Cradle Role Certificate&#34; from the First Brethren Sunday School of Long Beach, California, 1926 and diploma from The Harbell College of Cosmetology, 1941.</field>
+     <field name="ref_ssi">aspace_5f5a3487b83810981ae0a53a8ce0e4e3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 40, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 40, Folder: 1</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series I. Early life and Moffitt family</field>
+     <field name="series_sim">Subseries I.B. Moffitt family</field>
+-    <field name="series_si">Series I. Early life and Moffitt family &gt;&gt; Subseries I.B. Moffitt family &gt;&gt; Mildred "Betty" Jerman Moffitt certificates</field>
+-    <field name="heading_ssm">Mildred "Betty" Jerman Moffitt certificates</field>
++    <field name="series_si">Series I. Early life and Moffitt family &gt;&gt; Subseries I.B. Moffitt family &gt;&gt; Mildred &#34;Betty&#34; Jerman Moffitt certificates</field>
++    <field name="heading_ssm">Mildred &#34;Betty&#34; Jerman Moffitt certificates</field>
+     <field name="unitdate_ssm">Inclusive, 1926-1941</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">20</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Donald F. Clark collection</field>
+     <field name="collection_unitid_ssm">MS 118</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Croghan, William. Letter. Smith's Cove</field>
+-    <field name="unittitle_teim">Croghan, William. Letter. Smith's Cove</field>
++    <field name="unittitle_ssm">Croghan, William. Letter. Smith&#39;s Cove</field>
++    <field name="unittitle_teim">Croghan, William. Letter. Smith&#39;s Cove</field>
+     <field name="unitdate_teim">1779 July 31</field>
+     <field name="scopecontent_teim">Original returned, photocopy only. Letter stating Virginia Line is stationed and commanded by Lord Stirling; remaining army near West Point.</field>
+     <field name="ref_ssi">aspace_972371847b004df1ade734024cbf5708</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 3, item: 413</field>
+     <field name="location_si">Box: 3, item: 413</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+-    <field name="series_si">Croghan, William. Letter. Smith's Cove</field>
+-    <field name="heading_ssm">Croghan, William. Letter. Smith's Cove</field>
++    <field name="series_si">Croghan, William. Letter. Smith&#39;s Cove</field>
++    <field name="heading_ssm">Croghan, William. Letter. Smith&#39;s Cove</field>
+     <field name="unitdate_ssm">1779 July 31</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">193</field>

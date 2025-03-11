@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Shurkitt, Joseph. Letter to John Fisher. Fishkill</field>
+     <field name="unittitle_teim">Shurkitt, Joseph. Letter to John Fisher. Fishkill</field>
+     <field name="unitdate_teim">1780 July 8</field>
+-    <field name="scopecontent_teim">Regarding Marquis' baggage.</field>
++    <field name="scopecontent_teim">Regarding Marquis&#39; baggage.</field>
+     <field name="ref_ssi">aspace_b349d6934822a73a35394b82f72a9eb9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 2, item: 273</field>
+     <field name="location_si">Box: 2, item: 273</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+     <field name="series_si">Shurkitt, Joseph. Letter to John Fisher. Fishkill</field>
+     <field name="heading_ssm">Shurkitt, Joseph. Letter to John Fisher. Fishkill</field>

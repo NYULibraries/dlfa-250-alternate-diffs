@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 1: Walter Rutherfurd - Correspondence</field>
+     <field name="unittitle_teim">Subseries 1: Walter Rutherfurd - Correspondence</field>
+-    <field name="scopecontent_teim">This subseries includes letters received by Walter Rutherfurd, and drafts of replies to letters. Most of the material concerns Walter Rutherfurd's land holdings in New Jersey and New York. Specific subjects include surveys, the Business of the Proprietors of the Eastern Division of New Jersey, tenants, and lawsuits. Correspondents include George Reyerse, David Ogden, James Duane, Dirck ten Broeck, and Cornelius Haring.</field>
++    <field name="scopecontent_teim">This subseries includes letters received by Walter Rutherfurd, and drafts of replies to letters. Most of the material concerns Walter Rutherfurd&#39;s land holdings in New Jersey and New York. Specific subjects include surveys, the Business of the Proprietors of the Eastern Division of New Jersey, tenants, and lawsuits. Correspondents include George Reyerse, David Ogden, James Duane, Dirck ten Broeck, and Cornelius Haring.</field>
+     <field name="ref_ssi">aspace_ref68_t5a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 533</field>
+     <field name="series_sim">Series II: Walter Rutherfurd</field>
+     <field name="series_si">Series II: Walter Rutherfurd &gt;&gt; Subseries 1: Walter Rutherfurd - Correspondence</field>

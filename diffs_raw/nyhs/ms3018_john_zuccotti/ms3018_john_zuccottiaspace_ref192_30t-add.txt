@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">HUD Administration. Miscellaneous</field>
+     <field name="unittitle_teim">HUD Administration. Miscellaneous</field>
+     <field name="unitdate_teim">1967</field>
+-    <field name="scopecontent_teim">Includes a memo on planning a series of center city conferences; a list of general questions about operations; a draft memo from Mitchell Sviridoff about the President's Task Force on Government Organization; and some other minor documents.</field>
++    <field name="scopecontent_teim">Includes a memo on planning a series of center city conferences; a list of general questions about operations; a draft memo from Mitchell Sviridoff about the President&#39;s Task Force on Government Organization; and some other minor documents.</field>
+     <field name="ref_ssi">aspace_ref192_30t</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 24</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 24</field>
+     <field name="collection_teim">John Zuccotti papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3018</field>
+     <field name="series_sim">Series III. Housing &amp;amp; Urban Development (HUD) Files</field>
+-    <field name="series_si">Series III. Housing &amp;amp; Urban Development (HUD) Files &gt;&gt; HUD Administration. Miscellaneous</field>
++    <field name="series_si">Series III. Housing &amp; Urban Development (HUD) Files &gt;&gt; HUD Administration. Miscellaneous</field>
+     <field name="heading_ssm">HUD Administration. Miscellaneous</field>
+     <field name="unitdate_ssm">1967</field>
+     <field name="date_range_sim">undated &amp; other</field>

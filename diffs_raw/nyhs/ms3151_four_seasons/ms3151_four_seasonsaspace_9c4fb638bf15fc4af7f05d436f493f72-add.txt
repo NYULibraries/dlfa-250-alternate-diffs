@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Four Seasons Restaurant collection</field>
+     <field name="collection_unitid_ssm">MS 3151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">DVD. Rothko's Rooms: The Life and Works of an American Artist</field>
+-    <field name="unittitle_teim">DVD. Rothko's Rooms: The Life and Works of an American Artist</field>
++    <field name="unittitle_ssm">DVD. Rothko&#39;s Rooms: The Life and Works of an American Artist</field>
++    <field name="unittitle_teim">DVD. Rothko&#39;s Rooms: The Life and Works of an American Artist</field>
+     <field name="unitdate_inclusive_teim">2000</field>
+     <field name="ref_ssi">aspace_9c4fb638bf15fc4af7f05d436f493f72</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 19</field>
+     <field name="collection_teim">Four Seasons Restaurant collection</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3151</field>
+     <field name="series_sim">Series VI. Audiovisual</field>
+     <field name="series_sim">Sub-series VI.B. CDs &amp;amp; DVDs (29 discs)</field>
+-    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.B. CDs &amp;amp; DVDs (29 discs) &gt;&gt; DVD. Rothko's Rooms: The Life and Works of an American Artist</field>
+-    <field name="heading_ssm">DVD. Rothko's Rooms: The Life and Works of an American Artist</field>
++    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.B. CDs &amp; DVDs (29 discs) &gt;&gt; DVD. Rothko&#39;s Rooms: The Life and Works of an American Artist</field>
++    <field name="heading_ssm">DVD. Rothko&#39;s Rooms: The Life and Works of an American Artist</field>
+     <field name="unitdate_ssm">Inclusive, 2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">141</field>

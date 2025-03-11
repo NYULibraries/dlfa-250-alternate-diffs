@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Negatives 39308-39687. Glass, 4 x 5 </field>
+     <field name="unittitle_teim">Negatives 39308-39687. Glass, 4 x 5 </field>
+     <field name="unitdate_teim">1903-1920</field>
+-    <field name="scopecontent_teim">Subjects include Indian Falls, Cold Spring, NY, Inwood, Washington Heights, and Hunt's Point Road.</field>
++    <field name="scopecontent_teim">Subjects include Indian Falls, Cold Spring, NY, Inwood, Washington Heights, and Hunt&#39;s Point Road.</field>
+     <field name="ref_ssi">aspace_ref17_5wp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 5, envelope: 1-21</field>
+     <field name="location_si">Box: 5, envelope: 1-21</field>
+     <field name="collection_teim">New-York Historical Society Field Exploration Committee photographs</field>
++    <field name="author_teim">Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 6</field>
+     <field name="series_si">Negatives 39308-39687. Glass, 4 x 5 </field>
+     <field name="heading_ssm">Negatives 39308-39687. Glass, 4 x 5 </field>

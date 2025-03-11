@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">David Dows obituaries scrapbook</field>
+     <field name="unittitle_teim">David Dows obituaries scrapbook</field>
+     <field name="unitdate_inclusive_teim">circa 1890</field>
+-    <field name="scopecontent_teim">1 volume of newspaper clippings regarding David Dow's failing health and death. Most clippings are obituaries from various newspapers.</field>
++    <field name="scopecontent_teim">1 volume of newspaper clippings regarding David Dow&#39;s failing health and death. Most clippings are obituaries from various newspapers.</field>
+     <field name="ref_ssi">aspace_4a2a5ac2de5246408b9b6734a68dcb4f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1</field>
+     <field name="location_si">Offsite-Box: 1</field>
+     <field name="collection_teim">New-York Historical Society collection of scrapbooks and clippings</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3158</field>
+     <field name="series_si">David Dows obituaries scrapbook</field>
+     <field name="heading_ssm">David Dows obituaries scrapbook</field>

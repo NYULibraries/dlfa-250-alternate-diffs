@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1675/1860</field>
+     <field name="unitdate_normal_sim">1675/1860</field>
+     <field name="unitdate_inclusive_teim">1675–1860, undated</field>
+-    <field name="scopecontent_teim">This series consists of land surveys of the lots of land the Bowers family owned in upstate New York. The surveys are either written descriptions of the lots or drawings. Also included in the oversized section of this series is a drawing of Henry Bower Jr.'s Bowerstown.</field>
++    <field name="scopecontent_teim">This series consists of land surveys of the lots of land the Bowers family owned in upstate New York. The surveys are either written descriptions of the lots or drawings. Also included in the oversized section of this series is a drawing of Henry Bower Jr.&#39;s Bowerstown.</field>
+     <field name="ref_ssi">aspace_ref39_p8w</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bowers family papers</field>
++    <field name="author_teim">Christine George</field>
+     <field name="collection_unitid_teim">MS 2902</field>
+     <field name="series_si">Series IV: Surveys</field>
+     <field name="heading_ssm">Series IV: Surveys</field>

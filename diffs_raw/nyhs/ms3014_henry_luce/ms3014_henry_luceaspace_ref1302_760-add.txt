@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Finances</field>
+     <field name="unittitle_teim">Finances</field>
+     <field name="unitdate_teim">1937-1947</field>
+-    <field name="scopecontent_teim">Includes a "Memorandum Regarding Certain Colorado Gold Mining Properties" and a letter signed by CBL on official congressional letterhead.</field>
++    <field name="scopecontent_teim">Includes a &#34;Memorandum Regarding Certain Colorado Gold Mining Properties&#34; and a letter signed by CBL on official congressional letterhead.</field>
+     <field name="ref_ssi">aspace_ref1302_760</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 64, Folder: 11</field>
+     <field name="location_si">Box: 64, Folder: 11</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series VIII. Financial Files</field>
+     <field name="series_sim">Subseries VIII.B. Clare Boothe Luce Financial Files</field>

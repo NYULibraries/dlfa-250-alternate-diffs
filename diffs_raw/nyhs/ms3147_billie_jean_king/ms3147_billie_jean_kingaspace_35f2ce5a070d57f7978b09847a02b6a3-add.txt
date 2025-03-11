@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Lehman Brothers</field>
+     <field name="unittitle_teim">Lehman Brothers</field>
+     <field name="unitdate_inclusive_teim">2004 June 16</field>
+-    <field name="scopecontent_teim">Contains material from a Lehman Brothers Gay &amp; Lesbian Network event, including itinerary, background information on Lehman Brothers and past events, and BJK's typed remarks. Topics of BJK's remarks include personal history, homophobia experienced by LGBTQ youth, and the Women's Sports Foundation.</field>
++    <field name="scopecontent_teim">Contains material from a Lehman Brothers Gay &amp; Lesbian Network event, including itinerary, background information on Lehman Brothers and past events, and BJK&#39;s typed remarks. Topics of BJK&#39;s remarks include personal history, homophobia experienced by LGBTQ youth, and the Women&#39;s Sports Foundation.</field>
+     <field name="ref_ssi">aspace_35f2ce5a070d57f7978b09847a02b6a3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 21, Folder: 25</field>
+     <field name="location_si">Offsite-Box: 21, Folder: 25</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; Lehman Brothers</field>

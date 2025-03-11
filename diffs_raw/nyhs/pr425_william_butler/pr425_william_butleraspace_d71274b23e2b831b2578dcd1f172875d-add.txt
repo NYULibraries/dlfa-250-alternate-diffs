@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">[5th Avenue, NYC] </field>
+     <field name="unittitle_teim">[5th Avenue, NYC] </field>
+     <field name="unitdate_teim">1912</field>
+-    <field name="scopecontent_teim">Printed in the 1950's. While the photographer is unknown, the photo originates from Ewing Galloway's photography agency.</field>
++    <field name="scopecontent_teim">Printed in the 1950&#39;s. While the photographer is unknown, the photo originates from Ewing Galloway&#39;s photography agency.</field>
+     <field name="ref_ssi">aspace_d71274b23e2b831b2578dcd1f172875d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, item: 4</field>
+     <field name="location_si">Offsite-Box: 1, item: 4</field>
+     <field name="collection_teim">William G. Butler photography collection</field>
++    <field name="author_teim">Sydney Bebon</field>
+     <field name="collection_unitid_teim">PR 425</field>
+     <field name="series_si">[5th Avenue, NYC] </field>
+     <field name="heading_ssm">[5th Avenue, NYC] </field>

@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. People Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 27</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Adweek&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Adweek
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Adweek&lt;/em&gt;</field>
++    <field name="unittitle_teim">Adweek</field>
+     <field name="unitdate_inclusive_teim">1981</field>
+     <field name="title_teim">Adweek</field>
+     <field name="title_ssm">Adweek</field>
+@@ -34,15 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 2981, Folder: 39</field>
+     <field name="location_si">Offsite-Box: 2981, Folder: 39</field>
+     <field name="collection_teim">Time Inc. People Publishing and Business Records</field>
++    <field name="author_teim">Melanie Rinehart and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 27</field>
+     <field name="series_sim">Series I. Publisher Richard Durrell Files</field>
+     <field name="series_sim">Subseries I.B. Subject Files</field>
+-    <field name="series_si">Series I. Publisher Richard Durrell Files &gt;&gt; Subseries I.B. Subject Files &gt;&gt; 
+-      &lt;em&gt;Adweek&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Adweek
+-    </field>
++    <field name="series_si">Series I. Publisher Richard Durrell Files &gt;&gt; Subseries I.B. Subject Files &gt;&gt; &lt;em&gt;Adweek&lt;/em&gt;</field>
++    <field name="heading_ssm">Adweek</field>
+     <field name="unitdate_ssm">Inclusive, 1981</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1507</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Subseries 3: Antoine Lentilhon Foster, (1900-1908)</field>
+     <field name="unittitle_teim">Subseries 3: Antoine Lentilhon Foster, (1900-1908)</field>
+-    <field name="scopecontent_teim">This subseries contains letters to Antoine Lentilhon Foster, Anna Foster Robinson's brother. The letters are from Herman Robinson and Charlie Robinson.</field>
++    <field name="scopecontent_teim">This subseries contains letters to Antoine Lentilhon Foster, Anna Foster Robinson&#39;s brother. The letters are from Herman Robinson and Charlie Robinson.</field>
+     <field name="ref_ssi">aspace_ref169_gcd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Robinson Family Papers</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 520, MS 2309</field>
+     <field name="series_sim">Series IX: Foster Family (1843-1908)</field>
+     <field name="series_si">Series IX: Foster Family (1843-1908) &gt;&gt; Subseries 3: Antoine Lentilhon Foster, (1900-1908)</field>

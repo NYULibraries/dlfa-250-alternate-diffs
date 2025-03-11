@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate's Court</field>
+-    <field name="unittitle_teim">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate's Court</field>
++    <field name="unittitle_ssm">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate&#39;s Court</field>
++    <field name="unittitle_teim">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate&#39;s Court</field>
+     <field name="unitdate_normal_ssm">1919/1922</field>
+     <field name="unitdate_normal_teim">1919/1922</field>
+     <field name="unitdate_normal_sim">1919/1922</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">Offsite-Box: OS 4, Folder: 16</field>
+     <field name="location_si">Offsite-Box: OS 4, Folder: 16</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+     <field name="series_sim">Subseries C. People Files (pre-1600s -1973)</field>
+     <field name="series_sim">Subseries C.vi. Partners (pre-1600s - 1970)</field>
+-    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries C. People Files (pre-1600s -1973) &gt;&gt; Subseries C.vi. Partners (pre-1600s - 1970) &gt;&gt; Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate's Court</field>
+-    <field name="heading_ssm">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate's Court</field>
++    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries C. People Files (pre-1600s -1973) &gt;&gt; Subseries C.vi. Partners (pre-1600s - 1970) &gt;&gt; Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate&#39;s Court</field>
++    <field name="heading_ssm">Charles Denston Dickey, Jr. (1860-1919): estate, transfer tax, Surrogate&#39;s Court</field>
+     <field name="unitdate_start_sim">1919</field>
+     <field name="unitdate_start_ssm">1919</field>
+     <field name="unitdate_start_si">1919</field>

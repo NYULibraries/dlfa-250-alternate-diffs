@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unittitle_ssm">Airlines Dinner (canceled)</field>
+     <field name="unittitle_teim">Airlines Dinner (canceled)</field>
+     <field name="unitdate_inclusive_teim">1966</field>
+-    <field name="scopecontent_teim">This event was going to be a tribute to the air transportation industry as part of Time's 40th anniversary celebrations. It was canceled because it coincided with Boeing's plans for its 50th corporate anniversary.</field>
++    <field name="scopecontent_teim">This event was going to be a tribute to the air transportation industry as part of Time&#39;s 40th anniversary celebrations. It was canceled because it coincided with Boeing&#39;s plans for its 50th corporate anniversary.</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+     <field name="ref_ssi">aspace_b062528b933dc1bde6673ac0d8170a11</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Offsite-Box: 3054, Folder: 17-18</field>
+     <field name="location_si">Offsite-Box: 3054, Folder: 17-18</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series IV. Promotion and Public Affairs Department Records</field>
+     <field name="series_sim">Subseries IV.A. Director Robert Sweeney Files</field>

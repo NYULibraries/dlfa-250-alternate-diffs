@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Journal of Remarkable Transactions &amp;amp; Occurances [sic] on Board of the Ship &lt;em&gt;Governor Clinton&lt;/em&gt; Homeward Bound from Payta "coast of Peru" to New York in 1828", 1828 July 3 - October 6 [transcript]</field>
+-    <field name="unittitle_teim">"Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship Governor Clinton Homeward Bound from Payta "coast of Peru" to New York in 1828", 1828 July 3 - October 6 [transcript]</field>
++    <field name="unittitle_ssm">&#34;Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship &lt;em&gt;Governor Clinton&lt;/em&gt; Homeward Bound from Payta &#34;coast of Peru&#34; to New York in 1828&#34;, 1828 July 3 - October 6 [transcript]</field>
++    <field name="unittitle_teim">&#34;Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship Governor Clinton Homeward Bound from Payta &#34;coast of Peru&#34; to New York in 1828&#34;, 1828 July 3 - October 6 [transcript]</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="title_teim">Governor Clinton</field>
+     <field name="title_ssm">Governor Clinton</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Volume: 20</field>
+     <field name="location_si">Volume: 20</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 51. Logbooks: Commercial vessels (1799-1865, undated)</field>
+-    <field name="series_si">Series 51. Logbooks: Commercial vessels (1799-1865, undated) &gt;&gt; "Journal of Remarkable Transactions &amp;amp; Occurances [sic] on Board of the Ship &lt;em&gt;Governor Clinton&lt;/em&gt; Homeward Bound from Payta "coast of Peru" to New York in 1828", 1828 July 3 - October 6 [transcript]</field>
+-    <field name="heading_ssm">"Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship Governor Clinton Homeward Bound from Payta "coast of Peru" to New York in 1828", 1828 July 3 - October 6 [transcript]</field>
++    <field name="series_si">Series 51. Logbooks: Commercial vessels (1799-1865, undated) &gt;&gt; &#34;Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship &lt;em&gt;Governor Clinton&lt;/em&gt; Homeward Bound from Payta &#34;coast of Peru&#34; to New York in 1828&#34;, 1828 July 3 - October 6 [transcript]</field>
++    <field name="heading_ssm">&#34;Journal of Remarkable Transactions &amp; Occurances [sic] on Board of the Ship Governor Clinton Homeward Bound from Payta &#34;coast of Peru&#34; to New York in 1828&#34;, 1828 July 3 - October 6 [transcript]</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1188</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Perspectives on the Collections of The New-York Historical Society&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Perspectives on the Collections of The New-York Historical Society
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Perspectives on the Collections of The New-York Historical Society&lt;/em&gt;</field>
++    <field name="unittitle_teim">Perspectives on the Collections of The New-York Historical Society</field>
+     <field name="unitdate_teim">2000</field>
+     <field name="scopecontent_teim">Includes the dust jacket and unbound pages of the book.</field>
+     <field name="ref_ssi">aspace_ref665_v4o</field>
+@@ -30,14 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 42, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 42, Folder: 8</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series III. Publications (1980s-2000)</field>
+-    <field name="series_si">Series III. Publications (1980s-2000) &gt;&gt; 
+-      &lt;em&gt;Perspectives on the Collections of The New-York Historical Society&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Perspectives on the Collections of The New-York Historical Society
+-    </field>
++    <field name="series_si">Series III. Publications (1980s-2000) &gt;&gt; &lt;em&gt;Perspectives on the Collections of The New-York Historical Society&lt;/em&gt;</field>
++    <field name="heading_ssm">Perspectives on the Collections of The New-York Historical Society</field>
+     <field name="unitdate_ssm">2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">387</field>

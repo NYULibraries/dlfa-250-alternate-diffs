@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Official Papers. 1928. </field>
+     <field name="unittitle_teim">Official Papers. 1928. </field>
+     <field name="unitdate_teim">1928</field>
+-    <field name="scopecontent_teim">Includes the New York State legislative act adding "educational purposes" to the stated purposes of N-YHS.</field>
++    <field name="scopecontent_teim">Includes the New York State legislative act adding &#34;educational purposes&#34; to the stated purposes of N-YHS.</field>
+     <field name="ref_ssi">aspace_ref578_gxh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 28, Folder: 3</field>
+     <field name="location_si">Box: 28, Folder: 3</field>
+     <field name="collection_teim">New-York Historical Society management committee records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 1</field>
+     <field name="series_sim">Series IV. Official Papers </field>
+     <field name="series_si">Series IV. Official Papers  &gt;&gt; Official Papers. 1928. </field>

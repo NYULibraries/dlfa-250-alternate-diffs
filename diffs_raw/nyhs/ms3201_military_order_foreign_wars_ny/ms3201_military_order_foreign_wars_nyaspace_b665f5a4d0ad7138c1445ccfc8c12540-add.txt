@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Annual meeting documents</field>
+     <field name="unittitle_teim">Annual meeting documents</field>
+     <field name="unitdate_inclusive_teim">1902</field>
+-    <field name="scopecontent_teim">Includes annotated list of members; Secretary's report to the annual meeting; and report of the annual meeting.</field>
++    <field name="scopecontent_teim">Includes annotated list of members; Secretary&#39;s report to the annual meeting; and report of the annual meeting.</field>
+     <field name="ref_ssi">aspace_b665f5a4d0ad7138c1445ccfc8c12540</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 19</field>
+     <field name="collection_teim">Military Order of Foreign Wars of the United States, New York Commandery records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3201</field>
+     <field name="series_sim">Series II. Organizational Records</field>
+     <field name="series_si">Series II. Organizational Records &gt;&gt; Annual meeting documents</field>

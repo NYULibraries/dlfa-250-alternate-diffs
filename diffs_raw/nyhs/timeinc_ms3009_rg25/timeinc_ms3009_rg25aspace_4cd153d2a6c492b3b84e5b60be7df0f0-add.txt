@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Lee Smith: &lt;em&gt;Fortune&lt;/em&gt; Magazine  Trade Talks: &lt;em&gt;Wake Up America&lt;/em&gt;: America's Talking</field>
+-    <field name="unittitle_teim">Lee Smith: Fortune Magazine  Trade Talks: Wake Up America: America's Talking</field>
++    <field name="unittitle_ssm">Lee Smith: &lt;em&gt;Fortune&lt;/em&gt; Magazine  Trade Talks: &lt;em&gt;Wake Up America&lt;/em&gt;: America&#39;s Talking</field>
++    <field name="unittitle_teim">Lee Smith: Fortune Magazine  Trade Talks: Wake Up America: America&#39;s Talking</field>
+     <field name="unitdate_teim">1995 Jun 29</field>
+-    <field name="scopecontent_teim">1 videocassette (U-matic) (3 min., 30 sec.): On labels on case front and cassette: "'Lee Smith, Fortune Magazine Trade Talks'  Wake Up America  America's Talking  June 29, 1995 7:00-8:00 AM ET  3:30". On label on case side: "'Lee Smith, Fortune Magazine Trade Talks'  Wake Up America  America's Talking  6/29/95 7:00 AM ET 3:30".</field>
++    <field name="scopecontent_teim">1 videocassette (U-matic) (3 min., 30 sec.): On labels on case front and cassette: &#34;&#39;Lee Smith, Fortune Magazine Trade Talks&#39;  Wake Up America  America&#39;s Talking  June 29, 1995 7:00-8:00 AM ET  3:30&#34;. On label on case side: &#34;&#39;Lee Smith, Fortune Magazine Trade Talks&#39;  Wake Up America  America&#39;s Talking  6/29/95 7:00 AM ET 3:30&#34;.</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_teim">Wake Up America</field>
+     <field name="title_teim">Fortune</field>
+@@ -37,11 +37,12 @@
+     <field name="location_ssm">Offsite-Box: 2918, item: 8</field>
+     <field name="location_si">Offsite-Box: 2918, item: 8</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.A. Fortune Editors on TV</field>
+-    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Lee Smith: &lt;em&gt;Fortune&lt;/em&gt; Magazine  Trade Talks: &lt;em&gt;Wake Up America&lt;/em&gt;: America's Talking</field>
+-    <field name="heading_ssm">Lee Smith: Fortune Magazine  Trade Talks: Wake Up America: America's Talking</field>
++    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Lee Smith: &lt;em&gt;Fortune&lt;/em&gt; Magazine  Trade Talks: &lt;em&gt;Wake Up America&lt;/em&gt;: America&#39;s Talking</field>
++    <field name="heading_ssm">Lee Smith: Fortune Magazine  Trade Talks: Wake Up America: America&#39;s Talking</field>
+     <field name="unitdate_ssm">1995 Jun 29</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">290</field>

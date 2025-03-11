@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Letters to Otto and Helen Pickhardt from others</field>
+     <field name="unittitle_teim">Letters to Otto and Helen Pickhardt from others</field>
+-    <field name="scopecontent_teim">Includes a copy of a letter dated June 17, 1919 from Helen where she refers to her husband stationed with the American Expeditionary Forces at the Russian Prisoner's of War Camp at Sagan, Germany.</field>
++    <field name="scopecontent_teim">Includes a copy of a letter dated June 17, 1919 from Helen where she refers to her husband stationed with the American Expeditionary Forces at the Russian Prisoner&#39;s of War Camp at Sagan, Germany.</field>
+     <field name="ref_ssi">aspace_ref7_6ol</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Dr. Otto C. Pickhardt Papers</field>
++    <field name="author_teim">Megan Dolan</field>
+     <field name="collection_unitid_teim">MS 488</field>
+     <field name="series_si">Letters to Otto and Helen Pickhardt from others</field>
+     <field name="heading_ssm">Letters to Otto and Helen Pickhardt from others</field>

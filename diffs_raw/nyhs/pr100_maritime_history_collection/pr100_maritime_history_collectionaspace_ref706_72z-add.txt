@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Races</field>
+     <field name="unittitle_teim">Races</field>
+-    <field name="scopecontent_teim">This file contains photographs and prints of various races, including Currier &amp; Ives lithograph Vigilant and Valkyrie in a "Thrash to Windward".</field>
++    <field name="scopecontent_teim">This file contains photographs and prints of various races, including Currier &amp; Ives lithograph Vigilant and Valkyrie in a &#34;Thrash to Windward&#34;.</field>
+     <field name="ref_ssi">aspace_ref706_72z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: Flat File, Folder: FF 129</field>
+     <field name="location_si">Box: Flat File, Folder: FF 129</field>
+     <field name="collection_teim">Maritime History Collection</field>
++    <field name="author_teim">Kelly McAnnaney; finding aid updated and expanded by Eva Gretta, 2015</field>
+     <field name="collection_unitid_teim">PR 100</field>
+     <field name="series_sim">Series III.  Large Format Flat Files</field>
+     <field name="series_sim">Subseries III.7: Events</field>

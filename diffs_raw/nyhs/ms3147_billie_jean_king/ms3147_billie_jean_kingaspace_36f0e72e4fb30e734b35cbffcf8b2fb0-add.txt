@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">UBS All Bar None</field>
+     <field name="unittitle_teim">UBS All Bar None</field>
+     <field name="unitdate_teim">2007 October 30</field>
+-    <field name="scopecontent_teim">Contains itinerary, service agreement, and suggested questions for BJK interview at UBS Women's event.</field>
++    <field name="scopecontent_teim">Contains itinerary, service agreement, and suggested questions for BJK interview at UBS Women&#39;s event.</field>
+     <field name="ref_ssi">aspace_36f0e72e4fb30e734b35cbffcf8b2fb0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 61</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 61</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; UBS All Bar None</field>

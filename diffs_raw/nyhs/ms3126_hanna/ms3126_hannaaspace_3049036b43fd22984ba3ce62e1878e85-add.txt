@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tiffin, Edward. "A Memoir of a Man who Should Occupy First Place in the History of the State"</field>
+-    <field name="unittitle_teim">Tiffin, Edward. "A Memoir of a Man who Should Occupy First Place in the History of the State"</field>
++    <field name="unittitle_ssm">Tiffin, Edward. &#34;A Memoir of a Man who Should Occupy First Place in the History of the State&#34;</field>
++    <field name="unittitle_teim">Tiffin, Edward. &#34;A Memoir of a Man who Should Occupy First Place in the History of the State&#34;</field>
+     <field name="ref_ssi">aspace_3049036b43fd22984ba3ce62e1878e85</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 18, Volume: SN-128</field>
+     <field name="location_si">Offsite-Box: 18, Volume: SN-128</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Tiffin, Edward. "A Memoir of a Man who Should Occupy First Place in the History of the State"</field>
+-    <field name="heading_ssm">Tiffin, Edward. "A Memoir of a Man who Should Occupy First Place in the History of the State"</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Tiffin, Edward. &#34;A Memoir of a Man who Should Occupy First Place in the History of the State&#34;</field>
++    <field name="heading_ssm">Tiffin, Edward. &#34;A Memoir of a Man who Should Occupy First Place in the History of the State&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">178</field>
+   </doc>

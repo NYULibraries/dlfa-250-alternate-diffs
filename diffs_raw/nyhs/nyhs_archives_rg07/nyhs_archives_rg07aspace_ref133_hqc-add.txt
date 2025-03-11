@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">The Phrenology of the Land: How to Read the New York Landscape</field>
+     <field name="unittitle_teim">The Phrenology of the Land: How to Read the New York Landscape</field>
+     <field name="unitdate_teim">1980</field>
+-    <field name="scopecontent_teim">Also includes clippings related to N-YHS's showing of the documentary Henry Hudson's River: A Biography.</field>
++    <field name="scopecontent_teim">Also includes clippings related to N-YHS&#39;s showing of the documentary Henry Hudson&#39;s River: A Biography.</field>
+     <field name="ref_ssi">aspace_ref133_hqc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 27, Folder: 18</field>
+     <field name="location_si">Box: 27, Folder: 18</field>
+     <field name="collection_teim">New-York Historical Society press clippings</field>
++    <field name="author_teim">Margaret Kaczorowski and Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 7</field>
+     <field name="series_sim">Series II. Subject Files</field>
+     <field name="series_si">Series II. Subject Files &gt;&gt; The Phrenology of the Land: How to Read the New York Landscape</field>

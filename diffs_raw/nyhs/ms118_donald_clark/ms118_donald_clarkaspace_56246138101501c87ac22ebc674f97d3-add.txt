@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,9 +9,9 @@
+     <field name="collection_ssm">Donald F. Clark collection</field>
+     <field name="collection_unitid_ssm">MS 118</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen's House
+-</field>
+-    <field name="unittitle_teim">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen's House
++    <field name="unittitle_ssm">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen&#39;s House
++</field>
++    <field name="unittitle_teim">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen&#39;s House
+ </field>
+     <field name="unitdate_teim">1778 March 20</field>
+     <field name="scopecontent_teim">Discussion of troop movements.</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 1, item: 45</field>
+     <field name="location_si">Box: 1, item: 45</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+-    <field name="series_si">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen's House
+-</field>
+-    <field name="heading_ssm">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen's House
++    <field name="series_si">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen&#39;s House
++</field>
++    <field name="heading_ssm">(King George III) Marginal note: From the King to General Hervey. Remarks on the Conduct of the War from Canada. Queen&#39;s House
+ </field>
+     <field name="unitdate_ssm">1778 March 20</field>
+     <field name="date_range_sim">undated &amp; other</field>

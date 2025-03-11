@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Record of Bond Sales</field>
+     <field name="unittitle_teim">Record of Bond Sales</field>
+     <field name="unitdate_inclusive_teim">1919 August-1921 June</field>
+-    <field name="scopecontent_teim">Haynes's journal of his sales for Redmond &amp; Co., showing date of sale, buyer, bond sold, and sale price.</field>
++    <field name="scopecontent_teim">Haynes&#39;s journal of his sales for Redmond &amp; Co., showing date of sale, buyer, bond sold, and sale price.</field>
+     <field name="ref_ssi">aspace_87327efb9709a26a56d14ab0b0e429a7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">Raymond B. Haynes papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3064</field>
+     <field name="series_si">Record of Bond Sales</field>
+     <field name="heading_ssm">Record of Bond Sales</field>

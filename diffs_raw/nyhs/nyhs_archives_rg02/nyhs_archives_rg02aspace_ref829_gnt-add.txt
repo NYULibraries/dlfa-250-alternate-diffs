@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence. 1901 March 16-31</field>
+     <field name="unittitle_teim">Correspondence. 1901 March 16-31</field>
+     <field name="unitdate_teim">1901</field>
+-    <field name="scopecontent_teim">Includes March 25 summons of N-YHS Librarian Robert H. Kelby to testify and give evidence of a manuscript, "Map of Long Island Richard Ryder Surveyor 1670," in the New York State Supreme Court Case Sandiford vs. Town of Hempstead, overseen by Charles H. Brown; March 27 letter from architect Cass Gilbert offering old Dutch brick relics that were recently excavated from the Custom House.</field>
++    <field name="scopecontent_teim">Includes March 25 summons of N-YHS Librarian Robert H. Kelby to testify and give evidence of a manuscript, &#34;Map of Long Island Richard Ryder Surveyor 1670,&#34; in the New York State Supreme Court Case Sandiford vs. Town of Hempstead, overseen by Charles H. Brown; March 27 letter from architect Cass Gilbert offering old Dutch brick relics that were recently excavated from the Custom House.</field>
+     <field name="ref_ssi">aspace_ref829_gnt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 49, Folder: 3</field>
+     <field name="location_si">Box: 49, Folder: 3</field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series III. General Correspondence</field>
+     <field name="series_si">Series III. General Correspondence &gt;&gt; Correspondence. 1901 March 16-31</field>

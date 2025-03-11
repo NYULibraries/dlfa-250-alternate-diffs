@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Letters to Lester from his family and friends </field>
+     <field name="unittitle_teim">Letters to Lester from his family and friends </field>
+     <field name="unitdate_teim">1941-1946</field>
+-    <field name="scopecontent_teim">Includes a V Mail letter from Lester's aunt and a letter from Ralph (his closest friend on the Oxford) dated 1946.</field>
++    <field name="scopecontent_teim">Includes a V Mail letter from Lester&#39;s aunt and a letter from Ralph (his closest friend on the Oxford) dated 1946.</field>
+     <field name="ref_ssi">aspace_ref53_h90</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 8</field>
+     <field name="location_si">Box: 4, Folder: 8</field>
+     <field name="collection_teim">Halbreich Papers</field>
++    <field name="author_teim">Megan Dolan</field>
+     <field name="collection_unitid_teim">MS 2959</field>
+     <field name="series_sim">Series III: Letters and cards from family and friends to both Shirley and Lester</field>
+     <field name="series_si">Series III: Letters and cards from family and friends to both Shirley and Lester &gt;&gt; Letters to Lester from his family and friends </field>

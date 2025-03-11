@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Records of the Grand Army of the Republic, James Monroe Post, No. 607</field>
+     <field name="collection_unitid_ssm">MS 3084</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Print matter. "The American Flag"</field>
+-    <field name="unittitle_teim">Print matter. "The American Flag"</field>
++    <field name="unittitle_ssm">Print matter. &#34;The American Flag&#34;</field>
++    <field name="unittitle_teim">Print matter. &#34;The American Flag&#34;</field>
+     <field name="unitdate_teim">1910</field>
+     <field name="scopecontent_teim">Issued by the State of New York Education Department</field>
+     <field name="ref_ssi">aspace_53c9a68a012c5135283c46b1827f1076</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 13</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 13</field>
+     <field name="collection_teim">Records of the Grand Army of the Republic, James Monroe Post, No. 607</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3084</field>
+-    <field name="series_si">Print matter. "The American Flag"</field>
+-    <field name="heading_ssm">Print matter. "The American Flag"</field>
++    <field name="series_si">Print matter. &#34;The American Flag&#34;</field>
++    <field name="heading_ssm">Print matter. &#34;The American Flag&#34;</field>
+     <field name="unitdate_ssm">1910</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">21</field>

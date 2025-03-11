@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Client Lists</field>
+     <field name="unittitle_teim">Client Lists</field>
+     <field name="unitdate_inclusive_teim">1937-1938, 1960s?</field>
+-    <field name="scopecontent_teim">Includes two lists: one was found with the 1937-38 correspondence and appears to be the result of an effort to identify "current accounts" and, perhaps, past and potential clients. The other list is undated and unheaded but is likely from the 1960s.</field>
++    <field name="scopecontent_teim">Includes two lists: one was found with the 1937-38 correspondence and appears to be the result of an effort to identify &#34;current accounts&#34; and, perhaps, past and potential clients. The other list is undated and unheaded but is likely from the 1960s.</field>
+     <field name="ref_ssi">aspace_28919da36d5d1603664830ce7c2c8f6d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 75</field>
+     <field name="location_si">Offsite-Box: 75</field>
+     <field name="collection_teim">Robert Ensko Inc. records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 200</field>
+     <field name="series_sim">Series IV. Client Lists &amp;amp; Related Records</field>
+-    <field name="series_si">Series IV. Client Lists &amp;amp; Related Records &gt;&gt; Client Lists</field>
++    <field name="series_si">Series IV. Client Lists &amp; Related Records &gt;&gt; Client Lists</field>
+     <field name="heading_ssm">Client Lists</field>
+     <field name="unitdate_ssm">Inclusive, 1937-1938, 1960s?</field>
+     <field name="date_range_sim">undated &amp; other</field>

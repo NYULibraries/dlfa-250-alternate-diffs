@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Judson Trappan photographs</field>
+     <field name="collection_unitid_ssm">PR 071</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Inauguration March 4th 1901"</field>
+-    <field name="unittitle_teim">"Inauguration March 4th 1901"</field>
++    <field name="unittitle_ssm">&#34;Inauguration March 4th 1901&#34;</field>
++    <field name="unittitle_teim">&#34;Inauguration March 4th 1901&#34;</field>
+     <field name="unitdate_inclusive_teim">1901 March 4</field>
+     <field name="ref_ssi">aspace_c8149da48ce8a5db083902c4dc21f269</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">John Judson Trappan photographs</field>
++    <field name="author_teim">Julie Viggiano (2003); updated by Jenny Gotwals (2006); migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">PR 071</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_sim">Subseries I.A. Photograph Albums</field>
+-    <field name="series_si">Series I. Photographs &gt;&gt; Subseries I.A. Photograph Albums &gt;&gt; "Inauguration March 4th 1901"</field>
+-    <field name="heading_ssm">"Inauguration March 4th 1901"</field>
++    <field name="series_si">Series I. Photographs &gt;&gt; Subseries I.A. Photograph Albums &gt;&gt; &#34;Inauguration March 4th 1901&#34;</field>
++    <field name="heading_ssm">&#34;Inauguration March 4th 1901&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1901 March 4</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7</field>

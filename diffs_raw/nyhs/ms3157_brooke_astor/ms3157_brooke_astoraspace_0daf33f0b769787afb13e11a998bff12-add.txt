@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Dogs</field>
+     <field name="unittitle_teim">Dogs</field>
+     <field name="unitdate_inclusive_teim">1980s-1991</field>
+-    <field name="scopecontent_teim">Drafts of an article about Brooke Astor's 1930s dog, Fafner, with the final form as published in Home &amp; Garden (1991). Also short pieces on the Kissinger's dog (Tyler), Bill Blass's dogs (Kate and Bruce), Barbara Walters's dog (Sale Goose), and Annette Reed's dog (Pickle).</field>
++    <field name="scopecontent_teim">Drafts of an article about Brooke Astor&#39;s 1930s dog, Fafner, with the final form as published in Home &amp; Garden (1991). Also short pieces on the Kissinger&#39;s dog (Tyler), Bill Blass&#39;s dogs (Kate and Bruce), Barbara Walters&#39;s dog (Sale Goose), and Annette Reed&#39;s dog (Pickle).</field>
+     <field name="ref_ssi">aspace_0daf33f0b769787afb13e11a998bff12</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 61</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 61</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series III. Writings by and about Brooke Astor</field>
+     <field name="series_si">Series III. Writings by and about Brooke Astor &gt;&gt; Dogs</field>

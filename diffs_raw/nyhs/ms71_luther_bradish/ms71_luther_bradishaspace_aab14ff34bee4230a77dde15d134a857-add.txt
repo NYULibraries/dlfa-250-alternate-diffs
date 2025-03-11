@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="unittitle_ssm">Trinity Church </field>
+     <field name="unittitle_teim">Trinity Church </field>
+     <field name="unitdate_inclusive_teim">1846</field>
+-    <field name="scopecontent_teim">This folder contains papers relating to an attempt made by the Episcopalians of New York City in their endeavor to petition the New York Legislature to "alter the name of the corporation of Trinity church." (quoted from collection) </field>
+-    <field name="scopecontent_teim">Documents include: handwritten copies of the Act of 1814, the Charter of 1697, the Act of 1784, the Act of 1788 papers relating to Queen Anne's land grant permit, and a Remonstrance of Trinity Church. </field>
++    <field name="scopecontent_teim">This folder contains papers relating to an attempt made by the Episcopalians of New York City in their endeavor to petition the New York Legislature to &#34;alter the name of the corporation of Trinity church.&#34; (quoted from collection) </field>
++    <field name="scopecontent_teim">Documents include: handwritten copies of the Act of 1814, the Charter of 1697, the Act of 1784, the Act of 1788 papers relating to Queen Anne&#39;s land grant permit, and a Remonstrance of Trinity Church. </field>
+     <field name="ref_ssi">aspace_aab14ff34bee4230a77dde15d134a857</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="location_ssm">Box: 10, Folder: 12</field>
+     <field name="location_si">Box: 10, Folder: 12</field>
+     <field name="collection_teim">Luther Bradish papers</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">MS 71</field>
+     <field name="series_si">Trinity Church </field>
+     <field name="heading_ssm">Trinity Church </field>

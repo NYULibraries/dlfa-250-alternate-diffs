@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">War of 1812- Battle of Lake Erie</field>
+     <field name="unittitle_teim">War of 1812- Battle of Lake Erie</field>
+-    <field name="scopecontent_teim">his file contains the engravings Perry's Victory on Lake Erie, after J.J. Barralet, Perry's Victory on Lake Erie, after Thomas Birch and others.</field>
++    <field name="scopecontent_teim">his file contains the engravings Perry&#39;s Victory on Lake Erie, after J.J. Barralet, Perry&#39;s Victory on Lake Erie, after Thomas Birch and others.</field>
+     <field name="ref_ssi">aspace_ref663_e0q</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: Flat File, Folder: FF 117</field>
+     <field name="location_si">Box: Flat File, Folder: FF 117</field>
+     <field name="collection_teim">Maritime History Collection</field>
++    <field name="author_teim">Kelly McAnnaney; finding aid updated and expanded by Eva Gretta, 2015</field>
+     <field name="collection_unitid_teim">PR 100</field>
+     <field name="series_sim">Series III.  Large Format Flat Files</field>
+     <field name="series_sim">Subseries III.7: Events</field>

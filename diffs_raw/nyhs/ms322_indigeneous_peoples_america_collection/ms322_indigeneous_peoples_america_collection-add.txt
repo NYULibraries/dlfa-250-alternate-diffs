@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Processed by Ted O'Reilly</field>
+-    <field name="author_ssm">Processed by Ted O'Reilly</field>
++    <field name="author_teim">Processed by Ted O&#39;Reilly</field>
++    <field name="author_ssm">Processed by Ted O&#39;Reilly</field>
+     <field name="unittitle_teim">American Indian Collection</field>
+     <field name="unittitle_ssm">American Indian Collection</field>
+     <field name="unitid_teim">MS 322</field>
+@@ -11,7 +11,7 @@
+     <field name="abstract_ssm">This collection is composed of various documents relating to the history of American Indians from the early period of European settlement up to the late 19th Century, particularly covering their relationship with European and American settlers, and the colonial and American governments.</field>
+     <field name="unitdate_inclusive_teim">1651-1872</field>
+     <field name="scopecontent_teim">This collection is composed of an assortment of documents all relating to American Indians. In particular, it concerns their relationship with European and American settlers, as well as the colonial and American governments. Many of the documents concern land disputes and transactions but also cover a number of other topics. It includes correspondence, minutes, speeches, land papers, translations, legal and financial documents and a sketch. Although much of the material relates to the northeast region, it has a broad geographic range, with documents also relating to Indians in Florida, Canada, Georgia and Kansas.</field>
+-    <field name="scopecontent_teim">Please note that references to Indian tribes appear as they do in the documents themselves. This relates specifically to the Mohicans, which are described in certain instances as "Maquas" and "Maques".</field>
++    <field name="scopecontent_teim">Please note that references to Indian tribes appear as they do in the documents themselves. This relates specifically to the Mohicans, which are described in certain instances as &#34;Maquas&#34; and &#34;Maques&#34;.</field>
+     <field name="scopecontent_teim">This collection is described at the item level. </field>
+     <field name="custodhist_teim">This is an artifical collection composed of material acquired by the New-York Historical Society at various times.</field>
+     <field name="corpname_teim">New-York Historical Society</field>

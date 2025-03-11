@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VI. Library Items, [1929], undated</field>
+     <field name="unittitle_teim">Series VI. Library Items, [1929], undated</field>
+-    <field name="scopecontent_teim">The series contains a handwritten catalog system for Blashfield's personal library. There are also catalog cards of some of his works, which note the date created and their location.</field>
++    <field name="scopecontent_teim">The series contains a handwritten catalog system for Blashfield&#39;s personal library. There are also catalog cards of some of his works, which note the date created and their location.</field>
+     <field name="ref_ssi">aspace_ref81_sb3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edwin Howland Blashfield papers</field>
++    <field name="author_teim">Processed by Gregory Tavormina</field>
+     <field name="collection_unitid_teim">MS 61</field>
+     <field name="series_si">Series VI. Library Items, [1929], undated</field>
+     <field name="heading_ssm">Series VI. Library Items, [1929], undated</field>

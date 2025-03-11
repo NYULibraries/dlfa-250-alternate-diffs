@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Druggists</field>
+     <field name="unittitle_teim">Druggists</field>
+     <field name="scopecontent_teim">Vermont continued: 
+-A-Z druggists; Henry, Johnson &amp; Lord; Peck &amp; Spear; Humphrey's; Fredrick &amp; Francis Fenn &amp; Co.; John F. Henry &amp; Co.; M.K. Paine</field>
++A-Z druggists; Henry, Johnson &amp; Lord; Peck &amp; Spear; Humphrey&#39;s; Fredrick &amp; Francis Fenn &amp; Co.; John F. Henry &amp; Co.; M.K. Paine</field>
+     <field name="scopecontent_teim">Virginia</field>
+     <field name="scopecontent_teim">Washington, D.C.</field>
+     <field name="scopecontent_teim">Wisconsin</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Offsite-Box: 28</field>
+     <field name="location_si">Offsite-Box: 28</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

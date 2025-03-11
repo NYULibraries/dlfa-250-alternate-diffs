@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Winston Weisman Soho Historic District collection</field>
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company's daily reports</field>
+-    <field name="unittitle_teim">Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company's daily reports</field>
++    <field name="unittitle_ssm">Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company&#39;s daily reports</field>
++    <field name="unittitle_teim">Laing Stores Survey 1971
++journal of disassembly by Benjamin Walbert
++copies of demolition company&#39;s daily reports</field>
+     <field name="ref_ssi">aspace_ref1514_g5d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +29,14 @@
+     <field name="location_ssm">Offsite-Box: 87, Folder: 913</field>
+     <field name="location_si">Offsite-Box: 87, Folder: 913</field>
+     <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
++    <field name="author_teim">Ricky Hunter</field>
+     <field name="collection_unitid_teim">PR 73</field>
+     <field name="series_sim">Series V. Laing Stores Project</field>
+     <field name="series_sim">REPORTS</field>
+-    <field name="series_si">Series V. Laing Stores Project &gt;&gt; REPORTS &gt;&gt; Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company's daily reports</field>
+-    <field name="heading_ssm">Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company's daily reports</field>
++    <field name="series_si">Series V. Laing Stores Project &gt;&gt; REPORTS &gt;&gt; Laing Stores Survey 1971journal of disassembly by Benjamin Walbertcopies of demolition company&#39;s daily reports</field>
++    <field name="heading_ssm">Laing Stores Survey 1971
++journal of disassembly by Benjamin Walbert
++copies of demolition company&#39;s daily reports</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">947</field>
+   </doc>

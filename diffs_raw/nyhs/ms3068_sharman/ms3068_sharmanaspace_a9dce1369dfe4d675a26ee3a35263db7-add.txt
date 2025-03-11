@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Automotive</field>
+     <field name="unittitle_teim">Automotive</field>
+     <field name="unitdate_inclusive_teim">circa 1930, 1934</field>
+-    <field name="scopecontent_teim">Contains a circa 1930 broadside for "New York's 1st Outdoor Automobile Carnival," at which William Sharman was one of three judges of the "Kiddie Kontest," and a brochure for the 1934 Aerodynamic Hupmobile.</field>
++    <field name="scopecontent_teim">Contains a circa 1930 broadside for &#34;New York&#39;s 1st Outdoor Automobile Carnival,&#34; at which William Sharman was one of three judges of the &#34;Kiddie Kontest,&#34; and a brochure for the 1934 Aerodynamic Hupmobile.</field>
+     <field name="ref_ssi">aspace_a9dce1369dfe4d675a26ee3a35263db7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Box: 1, Folder: 20</field>
+     <field name="location_si">Box: 1, Folder: 20</field>
+     <field name="collection_teim">William Sharman papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3068</field>
+     <field name="series_sim">Series IV. Ephemera &amp;amp; Photographs</field>
+-    <field name="series_si">Series IV. Ephemera &amp;amp; Photographs &gt;&gt; Automotive</field>
++    <field name="series_si">Series IV. Ephemera &amp; Photographs &gt;&gt; Automotive</field>
+     <field name="heading_ssm">Automotive</field>
+     <field name="unitdate_ssm">Inclusive, circa 1930, 1934</field>
+     <field name="date_range_sim">undated &amp; other</field>

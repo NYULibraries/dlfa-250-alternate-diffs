@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Association for the Relief of Respectable, Aged and Indigent Females in New York City</field>
+     <field name="collection_unitid_ssm">MS 801</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Pensioners' roll [labeled vol. 1]</field>
+-    <field name="unittitle_teim">Pensioners' roll [labeled vol. 1]</field>
++    <field name="unittitle_ssm">Pensioners&#39; roll [labeled vol. 1]</field>
++    <field name="unittitle_teim">Pensioners&#39; roll [labeled vol. 1]</field>
+     <field name="unitdate_teim">1813-1832</field>
+     <field name="ref_ssi">aspace_ref20_55o</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: 5</field>
+     <field name="location_si">Folder: 5</field>
+     <field name="collection_teim">Records of the Association for the Relief of Respectable, Aged and Indigent Females in New York City</field>
++    <field name="author_teim">processed by Joseph Ditta.</field>
+     <field name="collection_unitid_teim">MS 801</field>
+     <field name="series_sim">Series II: Pensioner and Asylum Records</field>
+-    <field name="series_si">Series II: Pensioner and Asylum Records &gt;&gt; Pensioners' roll [labeled vol. 1]</field>
+-    <field name="heading_ssm">Pensioners' roll [labeled vol. 1]</field>
++    <field name="series_si">Series II: Pensioner and Asylum Records &gt;&gt; Pensioners&#39; roll [labeled vol. 1]</field>
++    <field name="heading_ssm">Pensioners&#39; roll [labeled vol. 1]</field>
+     <field name="unitdate_ssm">1813-1832</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7</field>

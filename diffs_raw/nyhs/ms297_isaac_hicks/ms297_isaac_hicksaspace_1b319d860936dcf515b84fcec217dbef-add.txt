@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Hicks Ledger Book </field>
+     <field name="unittitle_teim">Hicks Ledger Book </field>
+     <field name="unitdate_inclusive_teim">1799-1807</field>
+-    <field name="scopecontent_teim">This box contains an oversized volume labeled "ledger book".  The cover is separating from the remainder of the binding.  A majority of the volume is organized date, and the pages are labeled by the individual or company discussed, and the entries are for payments to individuals or to specific accounts.</field>
++    <field name="scopecontent_teim">This box contains an oversized volume labeled &#34;ledger book&#34;.  The cover is separating from the remainder of the binding.  A majority of the volume is organized date, and the pages are labeled by the individual or company discussed, and the entries are for payments to individuals or to specific accounts.</field>
+     <field name="ref_ssi">aspace_1b319d860936dcf515b84fcec217dbef</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 107</field>
+     <field name="location_si">Box: 107</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Ledger Book </field>

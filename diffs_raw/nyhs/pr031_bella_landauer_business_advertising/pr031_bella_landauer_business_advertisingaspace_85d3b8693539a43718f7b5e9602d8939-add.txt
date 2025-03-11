@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="scopecontent_teim">
+ Easter</field>
+     <field name="scopecontent_teim">
+-New Year's
++New Year&#39;s
+     </field>
+     <field name="scopecontent_teim">Thanksgiving
+     </field>
+@@ -41,6 +41,7 @@
+     <field name="location_ssm">Offsite-Box: 93</field>
+     <field name="location_si">Offsite-Box: 93</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

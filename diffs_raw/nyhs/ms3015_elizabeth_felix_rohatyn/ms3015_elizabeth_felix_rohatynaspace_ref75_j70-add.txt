@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">I Have A Dream</field>
+     <field name="unittitle_teim">I Have A Dream</field>
+     <field name="unitdate_teim">1986, 1992</field>
+-    <field name="scopecontent_teim">Includes photocopies of junior high school student letters expressing their career dreams (1986) and a thank you letter to the Rohatyns from a "dreamer."</field>
++    <field name="scopecontent_teim">Includes photocopies of junior high school student letters expressing their career dreams (1986) and a thank you letter to the Rohatyns from a &#34;dreamer.&#34;</field>
+     <field name="ref_ssi">aspace_ref75_j70</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 1</field>
+     <field name="collection_teim">Elizabeth and Felix G. Rohatyn papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3015</field>
+     <field name="series_sim">Series I. General Correspondence and Subject Files</field>
+     <field name="series_si">Series I. General Correspondence and Subject Files &gt;&gt; I Have A Dream</field>

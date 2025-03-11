@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">G.M. &amp; A.W. Speir records on the estate of William Payne</field>
+     <field name="collection_unitid_ssm">MS 3057</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Rec'd Oct 2nd '80</field>
+-    <field name="unittitle_teim">Rec'd Oct 2nd '80</field>
++    <field name="unittitle_ssm">Rec&#39;d Oct 2nd &#39;80</field>
++    <field name="unittitle_teim">Rec&#39;d Oct 2nd &#39;80</field>
+     <field name="unitdate_inclusive_teim">1880</field>
+     <field name="ref_ssi">aspace_105a54e56fd3b4fb9ed6a45718adcc27</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 2, Folder: 2.3</field>
+     <field name="location_si">Box: 2, Folder: 2.3</field>
+     <field name="collection_teim">G.M. &amp; A.W. Speir records on the estate of William Payne</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3057</field>
+-    <field name="series_si">Rec'd Oct 2nd '80</field>
+-    <field name="heading_ssm">Rec'd Oct 2nd '80</field>
++    <field name="series_si">Rec&#39;d Oct 2nd &#39;80</field>
++    <field name="heading_ssm">Rec&#39;d Oct 2nd &#39;80</field>
+     <field name="unitdate_ssm">Inclusive, 1880</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

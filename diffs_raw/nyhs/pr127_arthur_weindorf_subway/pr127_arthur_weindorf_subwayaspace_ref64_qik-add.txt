@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas"</field>
+-    <field name="unittitle_teim">"Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas"</field>
++    <field name="unittitle_ssm">&#34;Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas&#34;</field>
++    <field name="unittitle_teim">&#34;Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas&#34;</field>
+     <field name="unitdate_teim">1930</field>
+     <field name="ref_ssi">aspace_ref64_qik</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series I: Drawings and Illustrations</field>
+     <field name="series_sim">Subseries I.E. Vehicular Tunnels, Mid-town Tunnel</field>
+-    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.E. Vehicular Tunnels, Mid-town Tunnel &gt;&gt; "Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas"</field>
+-    <field name="heading_ssm">"Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas"</field>
++    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.E. Vehicular Tunnels, Mid-town Tunnel &gt;&gt; &#34;Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas&#34;</field>
++    <field name="heading_ssm">&#34;Mid-town Vehicular tunnels and Hudson River Vehicular Tunnels, West Side Plazas&#34;</field>
+     <field name="unitdate_ssm">1930</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">47</field>

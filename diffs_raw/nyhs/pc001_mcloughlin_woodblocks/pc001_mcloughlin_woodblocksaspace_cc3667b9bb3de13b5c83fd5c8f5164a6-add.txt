@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_ssm">PC 001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Little ABCs&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Little ABCs
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Little ABCs&lt;/em&gt;</field>
++    <field name="unittitle_teim">Little ABCs</field>
+     <field name="scopecontent_teim">5 woodblocks.</field>
+     <field name="title_teim">Little ABCs</field>
+     <field name="title_ssm">Little ABCs</field>
+@@ -31,14 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 22, Box: 3F (5)</field>
+     <field name="location_si">Offsite-Box: 22, Box: 3F (5)</field>
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
++    <field name="author_teim">Crystal Toscano</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series IX. Alphabet books</field>
+-    <field name="series_si">Series IX. Alphabet books &gt;&gt; 
+-      &lt;em&gt;Little ABCs&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Little ABCs
+-    </field>
++    <field name="series_si">Series IX. Alphabet books &gt;&gt; &lt;em&gt;Little ABCs&lt;/em&gt;</field>
++    <field name="heading_ssm">Little ABCs</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">128</field>
+   </doc>

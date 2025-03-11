@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Working Files. 1970 November?-December</field>
+     <field name="unittitle_teim">Working Files. 1970 November?-December</field>
+     <field name="unitdate_teim">1970</field>
+-    <field name="scopecontent_teim">Includes a copy of the report prepared by the Comptroller's Office School Construction Costs: A Study in Escalation.</field>
++    <field name="scopecontent_teim">Includes a copy of the report prepared by the Comptroller&#39;s Office School Construction Costs: A Study in Escalation.</field>
+     <field name="ref_ssi">aspace_ref38_by0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 22</field>
+     <field name="collection_teim">Henry Walter papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3016</field>
+     <field name="series_sim">Series I. Public Relations Files. Abraham D. Beame</field>
+     <field name="series_sim">Subseries I.A. Comptrollership Years</field>

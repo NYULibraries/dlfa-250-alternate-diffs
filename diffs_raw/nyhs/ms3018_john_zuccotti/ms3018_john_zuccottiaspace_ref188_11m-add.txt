@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Studies on Race Relations</field>
+     <field name="unittitle_teim">Studies on Race Relations</field>
+     <field name="unitdate_teim">1968</field>
+-    <field name="scopecontent_teim">Includes a proposal from the University of Chicago for a federal grant to study "The Urban Negro American in the Twentieth Century" and a paper from the Lemberg Center for the Study of Violence "Six-City Study: A Survey of Racial Attitudes in Six Northern Cities: Preliminary Findings."</field>
++    <field name="scopecontent_teim">Includes a proposal from the University of Chicago for a federal grant to study &#34;The Urban Negro American in the Twentieth Century&#34; and a paper from the Lemberg Center for the Study of Violence &#34;Six-City Study: A Survey of Racial Attitudes in Six Northern Cities: Preliminary Findings.&#34;</field>
+     <field name="ref_ssi">aspace_ref188_11m</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 22</field>
+     <field name="collection_teim">John Zuccotti papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3018</field>
+     <field name="series_sim">Series III. Housing &amp;amp; Urban Development (HUD) Files</field>
+-    <field name="series_si">Series III. Housing &amp;amp; Urban Development (HUD) Files &gt;&gt; Studies on Race Relations</field>
++    <field name="series_si">Series III. Housing &amp; Urban Development (HUD) Files &gt;&gt; Studies on Race Relations</field>
+     <field name="heading_ssm">Studies on Race Relations</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>

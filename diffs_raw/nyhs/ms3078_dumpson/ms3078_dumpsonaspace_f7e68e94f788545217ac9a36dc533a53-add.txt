@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,13 @@
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Contains:
+ 
++
++
+ Colored Orphan Asylum: A Short Account of its History, Work and Present Needs (undated).
+ 
+-The Story of Riverdale Children's Association, Founded in 1836 as the Colored Orphan Asylum (undated).</field>
++
++
++The Story of Riverdale Children&#39;s Association, Founded in 1836 as the Colored Orphan Asylum (undated).</field>
+     <field name="ref_ssi">aspace_f7e68e94f788545217ac9a36dc533a53</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,6 +37,7 @@
+     <field name="location_ssm">Offsite-Box: 17, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 17, Folder: 12</field>
+     <field name="collection_teim">James R. Dumpson papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3078</field>
+     <field name="series_sim">Series VIII. Print matter</field>
+     <field name="series_sim">Sub-series VIII.A. Pamphlets and softbound publications</field>

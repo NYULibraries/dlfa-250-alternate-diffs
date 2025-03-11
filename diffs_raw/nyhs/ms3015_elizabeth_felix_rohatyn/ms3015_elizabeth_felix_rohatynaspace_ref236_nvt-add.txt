@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Access Cards</field>
+     <field name="unittitle_teim">Access Cards</field>
+     <field name="unitdate_teim">1998-2001</field>
+-    <field name="scopecontent_teim">Includes passes to the Louvre, L'Association des Amis du Musee Gustave Moreau, Musee d'Orsay, Centre Pompidou, and ICOM membership card.</field>
++    <field name="scopecontent_teim">Includes passes to the Louvre, L&#39;Association des Amis du Musee Gustave Moreau, Musee d&#39;Orsay, Centre Pompidou, and ICOM membership card.</field>
+     <field name="ref_ssi">aspace_ref236_nvt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 9, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 9, Folder: 26</field>
+     <field name="collection_teim">Elizabeth and Felix G. Rohatyn papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3015</field>
+     <field name="series_sim">Series IV. Ambassadorship Files</field>
+     <field name="series_si">Series IV. Ambassadorship Files &gt;&gt; Access Cards</field>

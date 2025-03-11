@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence, Leases to Ernest Conrad and John B. Morrel</field>
+     <field name="unittitle_teim">Correspondence, Leases to Ernest Conrad and John B. Morrel</field>
+     <field name="unitdate_teim">1849, 1857</field>
+-    <field name="scopecontent_teim">Items in this folder are not described in White's guide.</field>
++    <field name="scopecontent_teim">Items in this folder are not described in White&#39;s guide.</field>
+     <field name="ref_ssi">aspace_ref533_l0l</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Box: 33, Folder: 2</field>
+     <field name="location_si">Box: 33, Folder: 2</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 32(B), James Beekman, &amp;amp; Box 33, Beekman Family Property &amp;amp; Correspondence</field>
+-    <field name="series_si">Box 32(B), James Beekman, &amp;amp; Box 33, Beekman Family Property &amp;amp; Correspondence &gt;&gt; Correspondence, Leases to Ernest Conrad and John B. Morrel</field>
++    <field name="series_si">Box 32(B), James Beekman, &amp; Box 33, Beekman Family Property &amp; Correspondence &gt;&gt; Correspondence, Leases to Ernest Conrad and John B. Morrel</field>
+     <field name="heading_ssm">Correspondence, Leases to Ernest Conrad and John B. Morrel</field>
+     <field name="unitdate_ssm">1849, 1857</field>
+     <field name="date_range_sim">undated &amp; other</field>

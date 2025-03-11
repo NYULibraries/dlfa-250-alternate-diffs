@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Kings County Wheelmen's Clubhouse</field>
+-    <field name="unittitle_teim">Kings County Wheelmen's Clubhouse</field>
++    <field name="unittitle_ssm">Kings County Wheelmen&#39;s Clubhouse</field>
++    <field name="unittitle_teim">Kings County Wheelmen&#39;s Clubhouse</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref563_as0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Box: 19, Folder: 171</field>
+     <field name="location_si">Box: 19, Folder: 171</field>
+     <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 24</field>
+     <field name="series_sim">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island</field>
+     <field name="series_sim">Brooklyn</field>
+     <field name="series_sim">Buildings -- Unmounted</field>
+-    <field name="series_si">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island &gt;&gt; Brooklyn &gt;&gt; Buildings -- Unmounted &gt;&gt; Kings County Wheelmen's Clubhouse</field>
+-    <field name="heading_ssm">Kings County Wheelmen's Clubhouse</field>
++    <field name="series_si">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island &gt;&gt; Brooklyn &gt;&gt; Buildings -- Unmounted &gt;&gt; Kings County Wheelmen&#39;s Clubhouse</field>
++    <field name="heading_ssm">Kings County Wheelmen&#39;s Clubhouse</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">550</field>

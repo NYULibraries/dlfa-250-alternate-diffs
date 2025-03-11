@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Norway&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Norway
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Norway&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Norway</field>
+     <field name="ref_ssi">aspace_b8cd2822902c5f9a255de1a2e9793c75</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,15 +27,12 @@
+     <field name="location_ssm">Box: 86-B</field>
+     <field name="location_si">Box: 86-B</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series III. Geographic Locations | International</field>
+     <field name="series_sim">Subseries III.C. Europe</field>
+-    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.C. Europe &gt;&gt; 
+-      &lt;strong&gt;Norway&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Norway
+-    </field>
++    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.C. Europe &gt;&gt; &lt;strong&gt;Norway&lt;/strong&gt;</field>
++    <field name="heading_ssm">Norway</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">362</field>
+   </doc>

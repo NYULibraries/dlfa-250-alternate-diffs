@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">John Cross, David Crosse, Peter Blackburn, Robert Barclay, and John Crosse vs. Robert Sinclair: Trespass </field>
+     <field name="unittitle_teim">John Cross, David Crosse, Peter Blackburn, Robert Barclay, and John Crosse vs. Robert Sinclair: Trespass </field>
+     <field name="unitdate_inclusive_teim">1773-1774</field>
+-    <field name="scopecontent_teim">Narratio also says New York Mayor's Court on front and Supreme Court on abstract. Special bail field with the Chief Justice. Case includes narratio, notice of bail, and costs.</field>
++    <field name="scopecontent_teim">Narratio also says New York Mayor&#39;s Court on front and Supreme Court on abstract. Special bail field with the Chief Justice. Case includes narratio, notice of bail, and costs.</field>
+     <field name="ref_ssi">aspace_e8713a3f5a1e0a0b3fccf3842a349cb8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 3, Folder: 2</field>
+     <field name="location_si">Box: 3, Folder: 2</field>
+     <field name="collection_teim">John Tabor Kempe Papers</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 344</field>
+     <field name="series_sim">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+     <field name="series_sim">Subseries 2: Supreme Court of Judicature, Civil </field>

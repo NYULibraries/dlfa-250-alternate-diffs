@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew Alpern papers</field>
+     <field name="collection_unitid_ssm">PR 324</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Grant's Tomb</field>
+-    <field name="unittitle_teim">Grant's Tomb</field>
++    <field name="unittitle_ssm">Grant&#39;s Tomb</field>
++    <field name="unittitle_teim">Grant&#39;s Tomb</field>
+     <field name="ref_ssi">aspace_ref30_7n4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 3</field>
+     <field name="collection_teim">Andrew Alpern papers</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 324</field>
+     <field name="series_sim">Series I: Building and Neighborhood Reference Files</field>
+-    <field name="series_si">Series I: Building and Neighborhood Reference Files &gt;&gt; Grant's Tomb</field>
+-    <field name="heading_ssm">Grant's Tomb</field>
++    <field name="series_si">Series I: Building and Neighborhood Reference Files &gt;&gt; Grant&#39;s Tomb</field>
++    <field name="heading_ssm">Grant&#39;s Tomb</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">35</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series IX: Publications</field>
+     <field name="unittitle_teim">Series IX: Publications</field>
+     <field name="unitdate_inclusive_teim">1952, 1963-1965</field>
+-    <field name="scopecontent_teim">This series includes copies of the club's newsletter, ""The Harmonie," which was published from 1963 to 1965.  Also included are two copies of One Hundred Years, a history of the club from its founding in 1852 until the 1950's.</field>
++    <field name="scopecontent_teim">This series includes copies of the club&#39;s newsletter, &#34;&#34;The Harmonie,&#34; which was published from 1963 to 1965.  Also included are two copies of One Hundred Years, a history of the club from its founding in 1852 until the 1950&#39;s.</field>
+     <field name="ref_ssi">aspace_ref157_rxi</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Harmonie Club records</field>
++    <field name="author_teim">Peter Asch</field>
+     <field name="collection_unitid_teim">MS 282</field>
+     <field name="series_si">Series IX: Publications</field>
+     <field name="heading_ssm">Series IX: Publications</field>

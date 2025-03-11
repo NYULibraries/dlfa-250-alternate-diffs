@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The World's Fair. Slow Progress</field>
+-    <field name="unittitle_teim">The World's Fair. Slow Progress</field>
++    <field name="unittitle_ssm">The World&#39;s Fair. Slow Progress</field>
++    <field name="unittitle_teim">The World&#39;s Fair. Slow Progress</field>
+     <field name="unitdate_teim">1881</field>
+     <field name="scopecontent_teim">Photograph of lithograph. Drawn by Keppler for Puck. 2 copies. Acquisition date: Dec. 18, 1941.</field>
+     <field name="ref_ssi">aspace_7b44d7f8f9f6f6b0a50a2fda6be255e0</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-110, item: 1881-No #</field>
+     <field name="location_si">Folder: FF-110, item: 1881-No #</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; The World's Fair. Slow Progress</field>
+-    <field name="heading_ssm">The World's Fair. Slow Progress</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; The World&#39;s Fair. Slow Progress</field>
++    <field name="heading_ssm">The World&#39;s Fair. Slow Progress</field>
+     <field name="unitdate_ssm">1881</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1081</field>

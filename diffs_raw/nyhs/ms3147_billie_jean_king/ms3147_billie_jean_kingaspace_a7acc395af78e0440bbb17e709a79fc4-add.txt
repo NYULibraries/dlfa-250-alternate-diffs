@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">US Open Women's Singles 100th Anniversary frame</field>
+-    <field name="unittitle_teim">US Open Women's Singles 100th Anniversary frame</field>
++    <field name="unittitle_ssm">US Open Women&#39;s Singles 100th Anniversary frame</field>
++    <field name="unittitle_teim">US Open Women&#39;s Singles 100th Anniversary frame</field>
+     <field name="unitdate_inclusive_teim">1986</field>
+-    <field name="scopecontent_teim">Empty frame engraved with "US Open Tennis Championships 100th Anniversary - Women's Singles 1886-1986."</field>
++    <field name="scopecontent_teim">Empty frame engraved with &#34;US Open Tennis Championships 100th Anniversary - Women&#39;s Singles 1886-1986.&#34;</field>
+     <field name="ref_ssi">aspace_a7acc395af78e0440bbb17e709a79fc4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 62</field>
+     <field name="location_si">Offsite-Box: 62</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VII. Print matter</field>
+     <field name="series_sim">Subseries VII.E. Ephemera</field>
+-    <field name="series_si">Series VII. Print matter &gt;&gt; Subseries VII.E. Ephemera &gt;&gt; US Open Women's Singles 100th Anniversary frame</field>
+-    <field name="heading_ssm">US Open Women's Singles 100th Anniversary frame</field>
++    <field name="series_si">Series VII. Print matter &gt;&gt; Subseries VII.E. Ephemera &gt;&gt; US Open Women&#39;s Singles 100th Anniversary frame</field>
++    <field name="heading_ssm">US Open Women&#39;s Singles 100th Anniversary frame</field>
+     <field name="unitdate_ssm">Inclusive, 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">605</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unittitle_teim">Series I. Panorama from California Street Hill</field>
+     <field name="unitdate_inclusive_teim">1878</field>
+     <field name="scopecontent_teim">13 albumen prints creating a panorama.</field>
+-    <field name="scopecontent_teim">These images of San Franscisco have been digitized and can be found in N-YHS's digital library</field>
++    <field name="scopecontent_teim">These images of San Franscisco have been digitized and can be found in N-YHS&#39;s digital library</field>
+     <field name="ref_ssi">aspace_10bd10d36cec5f51627aa42917815590</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Eadweard Muybridge photograph collection</field>
++    <field name="author_teim">Elise Winks</field>
+     <field name="collection_unitid_teim">PR 205</field>
+     <field name="series_si">Series I. Panorama from California Street Hill</field>
+     <field name="heading_ssm">Series I. Panorama from California Street Hill</field>

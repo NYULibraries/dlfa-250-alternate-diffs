@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_bb08feee7cd3c34a89f9fce7282b1309</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_bb08feee7cd3c34a89f9fce7282b1309</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Lloyd Family</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Lloyd Family</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,9 @@
+     <field name="unittitle_ssm">Rowe, Elizabeth. &lt;em&gt;Devout Exercises of the Heart&lt;/em&gt; . . . (New York: William Durrell)</field>
+     <field name="unittitle_teim">Rowe, Elizabeth. Devout Exercises of the Heart . . . (New York: William Durrell)</field>
+     <field name="unitdate_inclusive_teim">1795</field>
+-    <field name="scopecontent_teim">Book that belonged to Abigail (Lefferts) Lloyd (1759–1847), daughter of Jacob Leffers and wife of Capt. Bateman Lloyd, of Flatbush. Inscribed on fly-leaf: "A. L. Lloyd to C. L. Duryea, Flatbush, 1842."
++    <field name="scopecontent_teim">Book that belonged to Abigail (Lefferts) Lloyd (1759–1847), daughter of Jacob Leffers and wife of Capt. Bateman Lloyd, of Flatbush. Inscribed on fly-leaf: &#34;A. L. Lloyd to C. L. Duryea, Flatbush, 1842.&#34;
++
++
+ 
+ With a delicate paper cutting by Mrs. Lloyd affixed inside the front cover (see P. L. Schenck, The Zabriskie Homestead, 1881, for details of her artistry).</field>
+     <field name="ref_ssi">aspace_9c0f95a12d4b3c389f783b35b54127db</field>
+@@ -31,10 +33,11 @@
+     <field name="location_ssm">Offsite-Box: RC-16, envelope: Lloyd Family of Flatbush—Books</field>
+     <field name="location_si">Offsite-Box: RC-16, envelope: Lloyd Family of Flatbush—Books</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Lloyd Family</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Lloyd Family &gt;&gt; Rowe, Elizabeth. &lt;em&gt;Devout Exercises of the Heart&lt;/em&gt; . . . (New York: William Durrell)</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Lloyd Family &gt;&gt; Rowe, Elizabeth. &lt;em&gt;Devout Exercises of the Heart&lt;/em&gt; . . . (New York: William Durrell)</field>
+     <field name="heading_ssm">Rowe, Elizabeth. Devout Exercises of the Heart . . . (New York: William Durrell)</field>
+     <field name="unitdate_ssm">Inclusive, 1795</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Book report</field>
+     <field name="unittitle_teim">Book report</field>
+     <field name="unitdate_inclusive_teim">circa 1926-1929</field>
+-    <field name="scopecontent_teim">Brief report on the book "Opening of the Iron Trail."</field>
++    <field name="scopecontent_teim">Brief report on the book &#34;Opening of the Iron Trail.&#34;</field>
+     <field name="ref_ssi">aspace_02b7b45689e61ea053baea1524be032b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 52, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 52, Folder: 17</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 2. Early and defunct schools (1879-1957; 13.17 linear feet)</field>
+     <field name="series_sim">Series II. Ethical Culture School</field>

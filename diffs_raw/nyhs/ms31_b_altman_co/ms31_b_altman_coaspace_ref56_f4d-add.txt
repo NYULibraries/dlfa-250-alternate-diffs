@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV. Legal Records, 1913-1953</field>
+     <field name="unittitle_teim">Series IV. Legal Records, 1913-1953</field>
+-    <field name="scopecontent_teim">Includes copyright and trademark certificates of registration and a trial transcript, Weitsman v. B. Altman &amp; Co., case of "malicious prosecution," involving stolen goods.</field>
++    <field name="scopecontent_teim">Includes copyright and trademark certificates of registration and a trial transcript, Weitsman v. B. Altman &amp; Co., case of &#34;malicious prosecution,&#34; involving stolen goods.</field>
+     <field name="ref_ssi">aspace_ref56_f4d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">B. Altman &amp; Co. records</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 31</field>
+     <field name="series_si">Series IV. Legal Records, 1913-1953</field>
+     <field name="heading_ssm">Series IV. Legal Records, 1913-1953</field>

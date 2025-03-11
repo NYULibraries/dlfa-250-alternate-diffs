@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unittitle_teim">Series 3: Mary Alexander</field>
+     <field name="unitdate_inclusive_teim">1726-1766</field>
+     <field name="scopecontent_teim">Series 3 consists primarily of correspondence and papers relating to the land holdings, merchant business, and estate of Mary Alexander. Much of her business was conducted with the merchant house of David Barclay &amp; Sons of London. Invoices from this firm sometimes include samples of fabrics that Mary Alexander had requested or purchased. Most of the letters in the collection received by Mary Alexander are from this firm. Letters received by Mary Alexander are arranged chronologically. There are only two letters in the collection for which Mary Alexander is the sender. One is to Jonathan Scott (August 10, [1756]), the subject of which is unclear, and the other is to James Stevenson (September 17, 1757) and concerns business.</field>
+-    <field name="scopecontent_teim">Other business papers of Mary Alexander consist of accounts, bills, receipts, and invoices. One folder of material consists of legal and business papers regarding Mary Alexander's estate.</field>
++    <field name="scopecontent_teim">Other business papers of Mary Alexander consist of accounts, bills, receipts, and invoices. One folder of material consists of legal and business papers regarding Mary Alexander&#39;s estate.</field>
+     <field name="ref_ssi">aspace_ref87_ue1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Alexander papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 8</field>
+     <field name="series_si">Series 3: Mary Alexander</field>
+     <field name="heading_ssm">Series 3: Mary Alexander</field>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">1965 Mayoral campaign. FCC complaint</field>
+     <field name="unittitle_teim">1965 Mayoral campaign. FCC complaint</field>
+     <field name="unitdate_inclusive_teim">1965 September - November</field>
+-    <field name="scopecontent_teim">Robert Price alleged that station personnel at WNBC-TV, Channel 4, New York, committed prejudicial acts against John Lindsay's mayoral campaign. For instance, one Lindsay television spot lacked sound, but the commercial preceding it and a Beame advertisement following it were audible.</field>
++    <field name="scopecontent_teim">Robert Price alleged that station personnel at WNBC-TV, Channel 4, New York, committed prejudicial acts against John Lindsay&#39;s mayoral campaign. For instance, one Lindsay television spot lacked sound, but the commercial preceding it and a Beame advertisement following it were audible.</field>
+     <field name="ref_ssi">aspace_edd5f51ef9880b446380f9fa0398cee5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 19</field>
+     <field name="collection_teim">Robert Price papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3130</field>
+     <field name="series_sim">Series I. John V. Lindsay political campaigns</field>
+     <field name="series_sim">Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous</field>
+-    <field name="series_si">Series I. John V. Lindsay political campaigns &gt;&gt; Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous &gt;&gt; 1965 Mayoral campaign. FCC complaint</field>
++    <field name="series_si">Series I. John V. Lindsay political campaigns &gt;&gt; Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous &gt;&gt; 1965 Mayoral campaign. FCC complaint</field>
+     <field name="heading_ssm">1965 Mayoral campaign. FCC complaint</field>
+     <field name="unitdate_ssm">Inclusive, 1965 September - November</field>
+     <field name="date_range_sim">undated &amp; other</field>

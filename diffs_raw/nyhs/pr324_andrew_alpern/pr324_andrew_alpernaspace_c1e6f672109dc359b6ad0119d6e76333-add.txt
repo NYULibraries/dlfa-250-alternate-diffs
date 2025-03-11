@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series IV: Slides </field>
+     <field name="unittitle_teim">Series IV: Slides </field>
+     <field name="unitdate_inclusive_teim">1975</field>
+-    <field name="scopecontent_teim">This series consists of 62 slides of New York City buildings featured in Alpern's 1975 book Apartments for the Affluent.</field>
++    <field name="scopecontent_teim">This series consists of 62 slides of New York City buildings featured in Alpern&#39;s 1975 book Apartments for the Affluent.</field>
+     <field name="ref_ssi">aspace_c1e6f672109dc359b6ad0119d6e76333</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Andrew Alpern papers</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 324</field>
+     <field name="series_si">Series IV: Slides </field>
+     <field name="heading_ssm">Series IV: Slides </field>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">1965 Mayoral campaign. Balloons</field>
+     <field name="unittitle_teim">1965 Mayoral campaign. Balloons</field>
+     <field name="unitdate_inclusive_teim">1965</field>
+-    <field name="scopecontent_teim">Orange, yellow, green, blue, and pink balloons stamped in black "LINDSAY FOR MAYOR."</field>
++    <field name="scopecontent_teim">Orange, yellow, green, blue, and pink balloons stamped in black &#34;LINDSAY FOR MAYOR.&#34;</field>
+     <field name="ref_ssi">aspace_74f3a529e2e37f3327913360554060a4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 2</field>
+     <field name="collection_teim">Robert Price papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3130</field>
+     <field name="series_sim">Series I. John V. Lindsay political campaigns</field>
+     <field name="series_sim">Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous</field>
+-    <field name="series_si">Series I. John V. Lindsay political campaigns &gt;&gt; Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous &gt;&gt; 1965 Mayoral campaign. Balloons</field>
++    <field name="series_si">Series I. John V. Lindsay political campaigns &gt;&gt; Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous &gt;&gt; 1965 Mayoral campaign. Balloons</field>
+     <field name="heading_ssm">1965 Mayoral campaign. Balloons</field>
+     <field name="unitdate_ssm">Inclusive, 1965</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Loose Documents Removed from Minutes Volume 1 </field>
+     <field name="unittitle_teim">Loose Documents Removed from Minutes Volume 1 </field>
+     <field name="unitdate_teim">ca. 1954</field>
+-    <field name="scopecontent_teim">Includes mostly brief notes likely related to Vail's research for his N-YHS history.</field>
++    <field name="scopecontent_teim">Includes mostly brief notes likely related to Vail&#39;s research for his N-YHS history.</field>
+     <field name="ref_ssi">aspace_ref72_9x5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society management committee records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 1</field>
+     <field name="series_sim">Series I. Society Meeting Minutes  </field>
+     <field name="series_si">Series I. Society Meeting Minutes   &gt;&gt; Loose Documents Removed from Minutes Volume 1 </field>

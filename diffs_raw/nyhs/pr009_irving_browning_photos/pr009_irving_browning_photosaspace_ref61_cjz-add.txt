@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Browning, Irving</field>
+     <field name="unittitle_teim">Browning, Irving</field>
+-    <field name="scopecontent_teim">The Irving Browning subseries includes views of Irving Browning's office interior as well as promotional posters for his photographic services, one of which features a portrait of Irving Browning.</field>
++    <field name="scopecontent_teim">The Irving Browning subseries includes views of Irving Browning&#39;s office interior as well as promotional posters for his photographic services, one of which features a portrait of Irving Browning.</field>
+     <field name="ref_ssi">aspace_ref61_cjz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Browning photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 9</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_si">Series I. Photographs &gt;&gt; Browning, Irving</field>

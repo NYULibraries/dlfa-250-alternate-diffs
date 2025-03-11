@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Henry R. Luce papers</field>
+     <field name="collection_unitid_ssm">MS 3014</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Untitled, Producers' Council Inc., Chicago, IL, 29 September 1949</field>
+-    <field name="unittitle_teim">Untitled, Producers' Council Inc., Chicago, IL, 29 September 1949</field>
++    <field name="unittitle_ssm">Untitled, Producers&#39; Council Inc., Chicago, IL, 29 September 1949</field>
++    <field name="unittitle_teim">Untitled, Producers&#39; Council Inc., Chicago, IL, 29 September 1949</field>
+     <field name="unitdate_teim">1949</field>
+     <field name="ref_ssi">aspace_ref144_ypf</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 32, Folder: 5</field>
+     <field name="location_si">Box: 32, Folder: 5</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series II. Speeches and Writings</field>
+     <field name="series_sim">Subseries II.A. Working Files</field>
+-    <field name="series_si">Series II. Speeches and Writings &gt;&gt; Subseries II.A. Working Files &gt;&gt; Untitled, Producers' Council Inc., Chicago, IL, 29 September 1949</field>
+-    <field name="heading_ssm">Untitled, Producers' Council Inc., Chicago, IL, 29 September 1949</field>
++    <field name="series_si">Series II. Speeches and Writings &gt;&gt; Subseries II.A. Working Files &gt;&gt; Untitled, Producers&#39; Council Inc., Chicago, IL, 29 September 1949</field>
++    <field name="heading_ssm">Untitled, Producers&#39; Council Inc., Chicago, IL, 29 September 1949</field>
+     <field name="unitdate_ssm">1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">468</field>

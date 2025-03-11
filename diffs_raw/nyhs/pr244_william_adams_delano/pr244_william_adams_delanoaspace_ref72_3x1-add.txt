@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William Adams Delano collection</field>
+     <field name="collection_unitid_ssm">PR 244</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Une Ecurie d'Etat</field>
+-    <field name="unittitle_teim">Une Ecurie d'Etat</field>
++    <field name="unittitle_ssm">Une Ecurie d&#39;Etat</field>
++    <field name="unittitle_teim">Une Ecurie d&#39;Etat</field>
+     <field name="unitdate_teim">1899 Jan. 23</field>
+     <field name="ref_ssi">aspace_ref72_3x1</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 41</field>
+     <field name="location_si">Box: 2, Folder: 41</field>
+     <field name="collection_teim">William Adams Delano collection</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 244</field>
+     <field name="series_sim">Series II: Student Drawings</field>
+     <field name="series_sim">Subseries I: Exercises, Dated</field>
+-    <field name="series_si">Series II: Student Drawings &gt;&gt; Subseries I: Exercises, Dated &gt;&gt; Une Ecurie d'Etat</field>
+-    <field name="heading_ssm">Une Ecurie d'Etat</field>
++    <field name="series_si">Series II: Student Drawings &gt;&gt; Subseries I: Exercises, Dated &gt;&gt; Une Ecurie d&#39;Etat</field>
++    <field name="heading_ssm">Une Ecurie d&#39;Etat</field>
+     <field name="unitdate_ssm">1899 Jan. 23</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

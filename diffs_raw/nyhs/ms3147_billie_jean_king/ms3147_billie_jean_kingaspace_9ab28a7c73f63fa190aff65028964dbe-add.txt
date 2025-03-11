@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Cal State LA</field>
+     <field name="unittitle_teim">Cal State LA</field>
+     <field name="unitdate_teim">2007 October 6</field>
+-    <field name="scopecontent_teim">Contains schedule of events, schedule of speakers, and BJK's typed remarks for the BJK and Friends, Presenting the Joe Shapiro Award event. Topics of remarks include history of the event, student-athlete scholarships, and legacy.</field>
++    <field name="scopecontent_teim">Contains schedule of events, schedule of speakers, and BJK&#39;s typed remarks for the BJK and Friends, Presenting the Joe Shapiro Award event. Topics of remarks include history of the event, student-athlete scholarships, and legacy.</field>
+     <field name="ref_ssi">aspace_9ab28a7c73f63fa190aff65028964dbe</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 54</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 54</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+     <field name="series_si">Series IV. Speeches &gt;&gt; Cal State LA</field>

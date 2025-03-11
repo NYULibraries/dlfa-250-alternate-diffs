@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1895/1895</field>
+     <field name="unitdate_normal_sim">1895/1895</field>
+     <field name="unitdate_inclusive_teim">[1895]</field>
+-    <field name="scopecontent_teim">Has a description of "A perfect woman" pasted on inside front cover; images of women, many taken from "Sarony's Living Pictures" published by Napoleon Sarony in 1895; includes views from other sources, including reproductions of sculpture and paintings.</field>
++    <field name="scopecontent_teim">Has a description of &#34;A perfect woman&#34; pasted on inside front cover; images of women, many taken from &#34;Sarony&#39;s Living Pictures&#34; published by Napoleon Sarony in 1895; includes views from other sources, including reproductions of sculpture and paintings.</field>
+     <field name="ref_ssi">aspace_ref1049_vgh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 82, Volume: 308</field>
+     <field name="location_si">Offsite-Box: 82, Volume: 308</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[Album of images of women]</field>
+     <field name="heading_ssm">[Album of images of women]</field>

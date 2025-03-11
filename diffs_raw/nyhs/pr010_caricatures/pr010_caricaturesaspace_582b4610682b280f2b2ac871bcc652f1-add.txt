@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Southern "Volunteers". [Confederate Coercion re Recruits]</field>
+-    <field name="unittitle_teim">Southern "Volunteers". [Confederate Coercion re Recruits]</field>
++    <field name="unittitle_ssm">Southern &#34;Volunteers&#34;. [Confederate Coercion re Recruits]</field>
++    <field name="unittitle_teim">Southern &#34;Volunteers&#34;. [Confederate Coercion re Recruits]</field>
+     <field name="unitdate_teim">1862</field>
+-    <field name="scopecontent_teim">Lithograph: No imprint.  Stamped on back, "The Gift of Henry O. Havemeyer, Yale 1900. Collection of United States Naval Prints and Painting".  Acquisition(?) date on back: Oct. 7, 1946.</field>
++    <field name="scopecontent_teim">Lithograph: No imprint.  Stamped on back, &#34;The Gift of Henry O. Havemeyer, Yale 1900. Collection of United States Naval Prints and Painting&#34;.  Acquisition(?) date on back: Oct. 7, 1946.</field>
+     <field name="ref_ssi">aspace_582b4610682b280f2b2ac871bcc652f1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-82, item: 1862-18</field>
+     <field name="location_si">Folder: FF-82, item: 1862-18</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Southern "Volunteers". [Confederate Coercion re Recruits]</field>
+-    <field name="heading_ssm">Southern "Volunteers". [Confederate Coercion re Recruits]</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Southern &#34;Volunteers&#34;. [Confederate Coercion re Recruits]</field>
++    <field name="heading_ssm">Southern &#34;Volunteers&#34;. [Confederate Coercion re Recruits]</field>
+     <field name="unitdate_ssm">1862</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">793</field>

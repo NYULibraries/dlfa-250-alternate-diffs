@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Campaign samples. Bottle stoppers [2 items]</field>
+     <field name="unittitle_teim">Campaign samples. Bottle stoppers [2 items]</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">"Colorful Plastic Bottle Caps for your opened soft drink bottles. They will keep your beverages fresh and sparkling for weeks." Apparently customizable, the two examples present are printed with "The Winchester Bank" and "SAKRETE." Perhaps Robert Price considered using bottle caps as a form of campaign advertisement.</field>
++    <field name="scopecontent_teim">&#34;Colorful Plastic Bottle Caps for your opened soft drink bottles. They will keep your beverages fresh and sparkling for weeks.&#34; Apparently customizable, the two examples present are printed with &#34;The Winchester Bank&#34; and &#34;SAKRETE.&#34; Perhaps Robert Price considered using bottle caps as a form of campaign advertisement.</field>
+     <field name="ref_ssi">aspace_d63f23afd570965a4d03313c58198bf9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 8, Box: 8c</field>
+     <field name="location_si">Offsite-Box: 8, Box: 8c</field>
+     <field name="collection_teim">Robert Price papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3130</field>
+     <field name="series_sim">Series III. Other political activities &amp;amp; material</field>
+-    <field name="series_si">Series III. Other political activities &amp;amp; material &gt;&gt; Campaign samples. Bottle stoppers [2 items]</field>
++    <field name="series_si">Series III. Other political activities &amp; material &gt;&gt; Campaign samples. Bottle stoppers [2 items]</field>
+     <field name="heading_ssm">Campaign samples. Bottle stoppers [2 items]</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

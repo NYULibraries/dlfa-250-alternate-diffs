@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sam. A Solider I am for a Lady, What Beau was ere arm'd compleater &amp;amp;c [Comic Figure]</field>
+-    <field name="unittitle_teim">Sam. A Solider I am for a Lady, What Beau was ere arm'd compleater &amp;c [Comic Figure]</field>
++    <field name="unittitle_ssm">Sam. A Solider I am for a Lady, What Beau was ere arm&#39;d compleater &amp;c [Comic Figure]</field>
++    <field name="unittitle_teim">Sam. A Solider I am for a Lady, What Beau was ere arm&#39;d compleater &amp;c [Comic Figure]</field>
+     <field name="unitdate_teim">1789</field>
+     <field name="scopecontent_teim">Kay del &amp; sculp 1789; 2 copies - Copy 2 has margins trimmed; both copies have Acquisition(?) date: July 1, 1933; both also have other markings in pencil that are difficult to read.</field>
+     <field name="ref_ssi">aspace_2b2e6f309efcd2bb3c93262ef20fccd3</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-12, item: 1789-1</field>
+     <field name="location_si">Folder: FF-12, item: 1789-1</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series I. Colonial &amp;amp; Revolutionary Period</field>
+-    <field name="series_si">Series I. Colonial &amp;amp; Revolutionary Period &gt;&gt; Sam. A Solider I am for a Lady, What Beau was ere arm'd compleater &amp;amp;c [Comic Figure]</field>
+-    <field name="heading_ssm">Sam. A Solider I am for a Lady, What Beau was ere arm'd compleater &amp;c [Comic Figure]</field>
++    <field name="series_si">Series I. Colonial &amp; Revolutionary Period &gt;&gt; Sam. A Solider I am for a Lady, What Beau was ere arm&#39;d compleater &amp;c [Comic Figure]</field>
++    <field name="heading_ssm">Sam. A Solider I am for a Lady, What Beau was ere arm&#39;d compleater &amp;c [Comic Figure]</field>
+     <field name="unitdate_ssm">1789</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">89</field>

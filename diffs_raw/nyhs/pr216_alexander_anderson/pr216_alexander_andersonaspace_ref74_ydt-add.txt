@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Alexander Anderson Print Collection</field>
+     <field name="collection_unitid_ssm">PR 216</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Anderson's engraving tools</field>
+-    <field name="unittitle_teim">Anderson's engraving tools</field>
++    <field name="unittitle_ssm">Anderson&#39;s engraving tools</field>
++    <field name="unittitle_teim">Anderson&#39;s engraving tools</field>
+     <field name="ref_ssi">aspace_ref74_ydt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Alexander Anderson Print Collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 216</field>
+     <field name="series_sim">Oversize Material</field>
+     <field name="series_sim">From Series IV. Documentation and Tools</field>
+-    <field name="series_si">Oversize Material &gt;&gt; From Series IV. Documentation and Tools &gt;&gt; Anderson's engraving tools</field>
+-    <field name="heading_ssm">Anderson's engraving tools</field>
++    <field name="series_si">Oversize Material &gt;&gt; From Series IV. Documentation and Tools &gt;&gt; Anderson&#39;s engraving tools</field>
++    <field name="heading_ssm">Anderson&#39;s engraving tools</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">45</field>
+   </doc>

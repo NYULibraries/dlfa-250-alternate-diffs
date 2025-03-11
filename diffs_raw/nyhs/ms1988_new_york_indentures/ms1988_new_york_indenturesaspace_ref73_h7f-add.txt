@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Free Papers (1803-1814)</field>
+     <field name="unittitle_teim">Series III: Free Papers (1803-1814)</field>
+-    <field name="scopecontent_teim">This series contains documents relating to the freedom of former slaves. The documents of manumission are the documents granting both male and female slaves freedom. They include the former slave's name and age, and the signature of their former master with the signature of mayor DeWitt Clinton. The Certificates of Freedom are documents that verify a particular person is a free man or woman. They include the name and age of the person in question and the testimony and signature of a free person who can confirm that the person in question is free.</field>
++    <field name="scopecontent_teim">This series contains documents relating to the freedom of former slaves. The documents of manumission are the documents granting both male and female slaves freedom. They include the former slave&#39;s name and age, and the signature of their former master with the signature of mayor DeWitt Clinton. The Certificates of Freedom are documents that verify a particular person is a free man or woman. They include the name and age of the person in question and the testimony and signature of a free person who can confirm that the person in question is free.</field>
+     <field name="ref_ssi">aspace_ref73_h7f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York City indentures collection</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 1988</field>
+     <field name="series_si">Series III: Free Papers (1803-1814)</field>
+     <field name="heading_ssm">Series III: Free Papers (1803-1814)</field>

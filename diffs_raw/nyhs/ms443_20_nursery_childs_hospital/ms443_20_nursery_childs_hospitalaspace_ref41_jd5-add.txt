@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Correspondence </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+-    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
++    <field name="collection_sim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="collection_ssm">Nursery and Child&#39;s Hospital Records</field>
+     <field name="collection_unitid_ssm">MS 443.20</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Country Branch Outing Correspondence</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2, Folder: 7</field>
+     <field name="location_si">Box: 2, Folder: 7</field>
+-    <field name="collection_teim">Nursery and Child's Hospital Records</field>
++    <field name="collection_teim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="author_teim">Ann Christiansen</field>
+     <field name="collection_unitid_teim">MS 443.20</field>
+     <field name="series_sim">Correspondence </field>
+     <field name="series_si">Correspondence  &gt;&gt; Country Branch Outing Correspondence</field>

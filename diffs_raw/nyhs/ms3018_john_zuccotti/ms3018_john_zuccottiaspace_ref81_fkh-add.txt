@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence, 1984</field>
+     <field name="unittitle_teim">Correspondence, 1984</field>
+     <field name="unitdate_teim">1984</field>
+-    <field name="scopecontent_teim">Includes mostly thanks for donations or other help, or forwarding contributions to Zuccotti in connection with his award from Catholic Charities. Correspondents include Edward Koch, Mario Cuomo, and Bishop of Brooklyn Francis J. Mugavero. Also a letter from developer Robert A. Rosen concerning Tufo &amp; Zuccotti's services in connection with 48 Old Slip and several outgoing letters from Zuccotti acknowledging good wishes sent him in connection with a surgery.</field>
++    <field name="scopecontent_teim">Includes mostly thanks for donations or other help, or forwarding contributions to Zuccotti in connection with his award from Catholic Charities. Correspondents include Edward Koch, Mario Cuomo, and Bishop of Brooklyn Francis J. Mugavero. Also a letter from developer Robert A. Rosen concerning Tufo &amp; Zuccotti&#39;s services in connection with 48 Old Slip and several outgoing letters from Zuccotti acknowledging good wishes sent him in connection with a surgery.</field>
+     <field name="ref_ssi">aspace_ref81_fkh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 17</field>
+     <field name="collection_teim">John Zuccotti papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3018</field>
+     <field name="series_sim">Series I. Biographical and Photograph Files</field>
+     <field name="series_si">Series I. Biographical and Photograph Files &gt;&gt; Correspondence, 1984</field>

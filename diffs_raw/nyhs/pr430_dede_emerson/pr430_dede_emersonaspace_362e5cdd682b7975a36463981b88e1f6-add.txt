@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Dede Emerson photographs</field>
+     <field name="collection_unitid_ssm">PR 430</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Inventory of files on "Photos of Manhattan" CD</field>
+-    <field name="unittitle_teim">Inventory of files on "Photos of Manhattan" CD</field>
++    <field name="unittitle_ssm">Inventory of files on &#34;Photos of Manhattan&#34; CD</field>
++    <field name="unittitle_teim">Inventory of files on &#34;Photos of Manhattan&#34; CD</field>
+     <field name="unitdate_inclusive_teim">2005-2008</field>
+     <field name="scopecontent_teim">Holds list of images in chronological order provided by the photographer with date, area, and description.</field>
+     <field name="ref_ssi">aspace_362e5cdd682b7975a36463981b88e1f6</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Dede Emerson photographs</field>
++    <field name="author_teim">Margo Padilla</field>
+     <field name="collection_unitid_teim">PR 430</field>
+-    <field name="series_si">Inventory of files on "Photos of Manhattan" CD</field>
+-    <field name="heading_ssm">Inventory of files on "Photos of Manhattan" CD</field>
++    <field name="series_si">Inventory of files on &#34;Photos of Manhattan&#34; CD</field>
++    <field name="heading_ssm">Inventory of files on &#34;Photos of Manhattan&#34; CD</field>
+     <field name="unitdate_ssm">Inclusive, 2005-2008</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unittitle_teim">Theatrical Productions: P-S</field>
+     <field name="unitdate_inclusive_teim">1931-1954, undated</field>
+     <field name="scopecontent_teim">Parade;</field>
+-    <field name="scopecontent_teim">The Play's the Thing;</field>
++    <field name="scopecontent_teim">The Play&#39;s the Thing;</field>
+     <field name="scopecontent_teim">Porgy;</field>
+     <field name="scopecontent_teim">Precedent (1931);</field>
+     <field name="scopecontent_teim">Rosalinda (1942);</field>
+@@ -45,6 +45,7 @@
+     <field name="location_ssm">Box: 3, Folder: 13</field>
+     <field name="location_si">Box: 3, Folder: 13</field>
+     <field name="collection_teim">Edward Farbenblum and Orly Lieberman collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 378</field>
+     <field name="series_sim">Series I. New York Theatre</field>
+     <field name="series_sim"> Vandamm  Studio</field>

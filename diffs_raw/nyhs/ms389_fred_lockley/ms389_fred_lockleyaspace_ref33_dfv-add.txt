@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 2: Letters from Lockley, 1882-1955</field>
+     <field name="unittitle_teim">Subseries 2: Letters from Lockley, 1882-1955</field>
+-    <field name="scopecontent_teim">This subseries contains letters, and copies of letters, from Lockley to various friends and family members. Topics include travels, rare books, Western history, and the death of Lockley's daughter, Hope, in 1920. Also included are several letters from France in 1918, written while Lockley served as a war correspondent, and two letters written from Nome, Alaska in 1900.</field>
++    <field name="scopecontent_teim">This subseries contains letters, and copies of letters, from Lockley to various friends and family members. Topics include travels, rare books, Western history, and the death of Lockley&#39;s daughter, Hope, in 1920. Also included are several letters from France in 1918, written while Lockley served as a war correspondent, and two letters written from Nome, Alaska in 1900.</field>
+     <field name="ref_ssi">aspace_ref33_dfv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Fred Lockley Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 389</field>
+     <field name="series_sim">Series I: Correspondence, 1839-1958, undated</field>
+     <field name="series_si">Series I: Correspondence, 1839-1958, undated &gt;&gt; Subseries 2: Letters from Lockley, 1882-1955</field>

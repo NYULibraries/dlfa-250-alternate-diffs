@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Ann Feinstein collection of New York City prints</field>
+     <field name="collection_unitid_ssm">PR 300</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Church&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Church
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Church&lt;/em&gt;</field>
++    <field name="unittitle_teim">Church</field>
+     <field name="unitdate_teim">2002</field>
+     <field name="ref_ssi">aspace_ref26_hij</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -32,15 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1</field>
+     <field name="location_si">Offsite-Box: 1</field>
+     <field name="collection_teim">Ann Feinstein collection of New York City prints</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 300</field>
+     <field name="series_sim">Series I: Fine Art Prints</field>
+     <field name="series_sim">Subseries I.11: PETRULIS, Alan (b. 1954)</field>
+-    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.11: PETRULIS, Alan (b. 1954) &gt;&gt; 
+-      &lt;em&gt;Church&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Church
+-    </field>
++    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.11: PETRULIS, Alan (b. 1954) &gt;&gt; &lt;em&gt;Church&lt;/em&gt;</field>
++    <field name="heading_ssm">Church</field>
+     <field name="unitdate_ssm">2002</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">67</field>

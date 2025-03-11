@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Above: Champion Prize Envelope - Lincoln &amp;amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, "I will smother those pirates" [Lincoln]</field>
+-    <field name="unittitle_teim">Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, "I will smother those pirates" [Lincoln]</field>
++    <field name="unittitle_ssm">Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, &#34;I will smother those pirates&#34; [Lincoln]</field>
++    <field name="unittitle_teim">Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, &#34;I will smother those pirates&#34; [Lincoln]</field>
+     <field name="unitdate_teim">1861</field>
+     <field name="scopecontent_teim">Engraving: Published by J.H. Tingley. Entered 1861 by T.S. Peirce, New York. Printed on regulation size envelope.</field>
+     <field name="ref_ssi">aspace_a72093edda9920e287ca74479d23aaa6</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-80, item: 1861-54</field>
+     <field name="location_si">Folder: FF-80, item: 1861-54</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Above: Champion Prize Envelope - Lincoln &amp;amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, "I will smother those pirates" [Lincoln]</field>
+-    <field name="heading_ssm">Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, "I will smother those pirates" [Lincoln]</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, &#34;I will smother those pirates&#34; [Lincoln]</field>
++    <field name="heading_ssm">Above: Champion Prize Envelope - Lincoln &amp; Davis in 5 Rounds. 3d Round. Below: Lincoln, &#34;I will smother those pirates&#34; [Lincoln]</field>
+     <field name="unitdate_ssm">1861</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">769</field>

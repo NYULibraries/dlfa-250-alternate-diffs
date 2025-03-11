@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Harriet Oxman papers</field>
+     <field name="collection_unitid_ssm">MS 2922</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Harriet Oxman. "Autobiographical Study of Harriet Oxman"</field>
+-    <field name="unittitle_teim">Harriet Oxman. "Autobiographical Study of Harriet Oxman"</field>
++    <field name="unittitle_ssm">Harriet Oxman. &#34;Autobiographical Study of Harriet Oxman&#34;</field>
++    <field name="unittitle_teim">Harriet Oxman. &#34;Autobiographical Study of Harriet Oxman&#34;</field>
+     <field name="unitdate_inclusive_teim">circa 1957</field>
+     <field name="ref_ssi">aspace_953592243009e3e96f3988226fc25b6c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 5</field>
+     <field name="collection_teim">Harriet Oxman papers</field>
++    <field name="author_teim">Joseph Ditta (2018, 2019)</field>
+     <field name="collection_unitid_teim">MS 2922</field>
+     <field name="series_sim">Series III. Print matter and ephemera</field>
+-    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; Harriet Oxman. "Autobiographical Study of Harriet Oxman"</field>
+-    <field name="heading_ssm">Harriet Oxman. "Autobiographical Study of Harriet Oxman"</field>
++    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; Harriet Oxman. &#34;Autobiographical Study of Harriet Oxman&#34;</field>
++    <field name="heading_ssm">Harriet Oxman. &#34;Autobiographical Study of Harriet Oxman&#34;</field>
+     <field name="unitdate_ssm">Inclusive, circa 1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">18</field>

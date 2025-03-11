@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+     <field name="collection_unitid_ssm">MS 171</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Book Sales &amp;amp; Royalty Calculations</field>
++    <field name="unittitle_ssm">Book Sales &amp; Royalty Calculations</field>
+     <field name="unittitle_teim">Book Sales &amp; Royalty Calculations</field>
+     <field name="unitdate_inclusive_teim">1930-1950s</field>
+     <field name="ref_ssi">aspace_0ba6914266bc19d3f4cc8b171555f0cf</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 52</field>
+     <field name="location_si">Offsite-Box: 52</field>
+     <field name="collection_teim">Dodd, Mead &amp; Company records</field>
++    <field name="author_teim">Sydney Bebon &amp; Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 171</field>
+     <field name="series_sim">Series II. Financial Records</field>
+     <field name="series_sim">Subseries II.A. Financial Reports and Related Material</field>
+-    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material &gt;&gt; Book Sales &amp;amp; Royalty Calculations</field>
++    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material &gt;&gt; Book Sales &amp; Royalty Calculations</field>
+     <field name="heading_ssm">Book Sales &amp; Royalty Calculations</field>
+     <field name="unitdate_ssm">Inclusive, 1930-1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>

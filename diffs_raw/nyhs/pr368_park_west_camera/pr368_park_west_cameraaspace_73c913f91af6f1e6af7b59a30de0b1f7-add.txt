@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Park West Camera Club records</field>
+     <field name="collection_unitid_ssm">PR 368</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Just One Day Old." Ryan Center Exhibit</field>
+-    <field name="unittitle_teim">"Just One Day Old." Ryan Center Exhibit</field>
++    <field name="unittitle_ssm">&#34;Just One Day Old.&#34; Ryan Center Exhibit</field>
++    <field name="unittitle_teim">&#34;Just One Day Old.&#34; Ryan Center Exhibit</field>
+     <field name="unitdate_teim">2016 March</field>
+-    <field name="scopecontent_teim">Print of digital reproduction of Harry Noah's photograph. Formerly in frame as presented at the Ryan Center exhibition; unframed during processing. Photocopy of exhibit label from backing is in folder.</field>
++    <field name="scopecontent_teim">Print of digital reproduction of Harry Noah&#39;s photograph. Formerly in frame as presented at the Ryan Center exhibition; unframed during processing. Photocopy of exhibit label from backing is in folder.</field>
+     <field name="ref_ssi">aspace_73c913f91af6f1e6af7b59a30de0b1f7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 4, Folder: 4</field>
+     <field name="location_si">Box: 4, Folder: 4</field>
+     <field name="collection_teim">Park West Camera Club records</field>
++    <field name="author_teim">Ariana Heinsdorf and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 368</field>
+     <field name="series_sim">Series III. Club Activities and Exhibitions</field>
+-    <field name="series_si">Series III. Club Activities and Exhibitions &gt;&gt; "Just One Day Old." Ryan Center Exhibit</field>
+-    <field name="heading_ssm">"Just One Day Old." Ryan Center Exhibit</field>
++    <field name="series_si">Series III. Club Activities and Exhibitions &gt;&gt; &#34;Just One Day Old.&#34; Ryan Center Exhibit</field>
++    <field name="heading_ssm">&#34;Just One Day Old.&#34; Ryan Center Exhibit</field>
+     <field name="unitdate_ssm">2016 March</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>

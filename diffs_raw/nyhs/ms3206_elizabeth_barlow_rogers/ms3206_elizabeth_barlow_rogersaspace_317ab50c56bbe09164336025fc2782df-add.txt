@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Miscellaneous Correspondence </field>
+     <field name="unittitle_teim">Miscellaneous Correspondence </field>
+     <field name="unitdate_inclusive_teim">1970, circa 1990</field>
+-    <field name="scopecontent_teim">Some materials relate to EBR's ongoing relationship with New York Magazine.</field>
++    <field name="scopecontent_teim">Some materials relate to EBR&#39;s ongoing relationship with New York Magazine.</field>
+     <field name="ref_ssi">aspace_317ab50c56bbe09164336025fc2782df</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 11</field>
+     <field name="collection_teim">Elizabeth Barlow Rogers papers</field>
++    <field name="author_teim">Lia Warner</field>
+     <field name="collection_unitid_teim">MS 3206</field>
+     <field name="series_sim">Series I. Written Works and Materials</field>
+     <field name="series_sim">Subseries I.A Drafts and Research</field>

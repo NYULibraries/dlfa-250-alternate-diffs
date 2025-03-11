@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The New Yorker&lt;/em&gt;: Connie Bruck article, "The World of Business"</field>
+-    <field name="unittitle_teim">The New Yorker: Connie Bruck article, "The World of Business"</field>
++    <field name="unittitle_ssm">&lt;em&gt;The New Yorker&lt;/em&gt;: Connie Bruck article, &#34;The World of Business&#34;</field>
++    <field name="unittitle_teim">The New Yorker: Connie Bruck article, &#34;The World of Business&#34;</field>
+     <field name="unitdate_inclusive_teim">1989-1992</field>
+     <field name="title_teim">The New Yorker</field>
+     <field name="title_ssm">The New Yorker</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 3700, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 3700, Folder: 1</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series IX. Vice President of Communications Peter Costiglio Files</field>
+-    <field name="series_si">Series IX. Vice President of Communications Peter Costiglio Files &gt;&gt; &lt;em&gt;The New Yorker&lt;/em&gt;: Connie Bruck article, "The World of Business"</field>
+-    <field name="heading_ssm">The New Yorker: Connie Bruck article, "The World of Business"</field>
++    <field name="series_si">Series IX. Vice President of Communications Peter Costiglio Files &gt;&gt; &lt;em&gt;The New Yorker&lt;/em&gt;: Connie Bruck article, &#34;The World of Business&#34;</field>
++    <field name="heading_ssm">The New Yorker: Connie Bruck article, &#34;The World of Business&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1989-1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2241</field>

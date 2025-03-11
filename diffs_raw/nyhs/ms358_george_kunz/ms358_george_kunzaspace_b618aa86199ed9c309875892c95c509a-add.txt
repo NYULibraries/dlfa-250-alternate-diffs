@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Poem</field>
+     <field name="unittitle_teim">Poem</field>
+     <field name="unitdate_teim">1862</field>
+-    <field name="scopecontent_teim">Manuscript poem "Line." "Written on our troops crossing the Potomac, March , 1862." Unsigned.</field>
++    <field name="scopecontent_teim">Manuscript poem &#34;Line.&#34; &#34;Written on our troops crossing the Potomac, March , 1862.&#34; Unsigned.</field>
+     <field name="ref_ssi">aspace_b618aa86199ed9c309875892c95c509a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 6, Folder: 11</field>
+     <field name="location_si">Box: 6, Folder: 11</field>
+     <field name="collection_teim">George F. Kunz papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 358</field>
+     <field name="series_si">Poem</field>
+     <field name="heading_ssm">Poem</field>

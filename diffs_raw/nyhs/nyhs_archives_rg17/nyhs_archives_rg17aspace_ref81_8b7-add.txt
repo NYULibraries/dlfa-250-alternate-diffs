@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Kramer Article</field>
+     <field name="unittitle_teim">Kramer Article</field>
+     <field name="unitdate_teim">1962-1964</field>
+-    <field name="scopecontent_teim">Concerns Eugene F. Kramer's unpublished article "The Harry Croswell Case: A Milestone in the Freedom of the Press." Includes a version with N-YHS's proposed edits.</field>
++    <field name="scopecontent_teim">Concerns Eugene F. Kramer&#39;s unpublished article &#34;The Harry Croswell Case: A Milestone in the Freedom of the Press.&#34; Includes a version with N-YHS&#39;s proposed edits.</field>
+     <field name="ref_ssi">aspace_ref81_8b7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 6, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 6, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series I. Publications (1940s-1960s)</field>
+     <field name="series_sim">Subseries I.A. General Correspondence</field>

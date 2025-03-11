@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Harmonie Club records</field>
+     <field name="collection_unitid_ssm">MS 282</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Harmony Club Sect'y</field>
+-    <field name="unittitle_teim">Harmony Club Sect'y</field>
++    <field name="unittitle_ssm">Harmony Club Sect&#39;y</field>
++    <field name="unittitle_teim">Harmony Club Sect&#39;y</field>
+     <field name="unitdate_teim">1897 September 9 - 1899 April 9</field>
+     <field name="ref_ssi">aspace_ref26_fcg</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 5, Volume: 10</field>
+     <field name="location_si">Offsite-Box: 5, Volume: 10</field>
+     <field name="collection_teim">Harmonie Club records</field>
++    <field name="author_teim">Peter Asch</field>
+     <field name="collection_unitid_teim">MS 282</field>
+     <field name="series_sim">Series I: Minutes</field>
+     <field name="series_sim">Subseries 2: Secretary Minutes</field>
+-    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 2: Secretary Minutes &gt;&gt; Harmony Club Sect'y</field>
+-    <field name="heading_ssm">Harmony Club Sect'y</field>
++    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 2: Secretary Minutes &gt;&gt; Harmony Club Sect&#39;y</field>
++    <field name="heading_ssm">Harmony Club Sect&#39;y</field>
+     <field name="unitdate_ssm">1897 September 9 - 1899 April 9</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">13</field>

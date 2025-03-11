@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1856/1858</field>
+     <field name="unitdate_normal_sim">1856/1858</field>
+     <field name="unitdate_inclusive_teim">1856-circa 1858</field>
+-    <field name="scopecontent_teim">Within these subseries are roll books, rosters, notes, fliers, and other information pertaining to Sigel's time in the New York militia. This series is in English.</field>
++    <field name="scopecontent_teim">Within these subseries are roll books, rosters, notes, fliers, and other information pertaining to Sigel&#39;s time in the New York militia. This series is in English.</field>
+     <field name="ref_ssi">aspace_ref58_do6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Franz Sigel papers</field>
++    <field name="author_teim">Corrinne Collett. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 565</field>
+     <field name="series_sim">Series IV: Military Documents</field>
+     <field name="series_si">Series IV: Military Documents &gt;&gt; Subseries IV.A: New York State Militia Materials</field>

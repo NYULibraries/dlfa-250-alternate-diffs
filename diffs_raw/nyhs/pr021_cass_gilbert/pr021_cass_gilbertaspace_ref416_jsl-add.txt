@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV. Personal Files</field>
+     <field name="unittitle_teim">Series IV. Personal Files</field>
+-    <field name="scopecontent_teim">This series includes Gilbert's files that do not reflect his architectural work or professional life. The material includes letters among his friends and family as well as important papers from his personal life.</field>
++    <field name="scopecontent_teim">This series includes Gilbert&#39;s files that do not reflect his architectural work or professional life. The material includes letters among his friends and family as well as important papers from his personal life.</field>
+     <field name="ref_ssi">aspace_ref416_jsl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Cass Gilbert papers and architectural drawings</field>
++    <field name="author_teim">Maurita Baldock with assistance by Kerri Anne Burke.</field>
+     <field name="collection_unitid_teim">PR 21</field>
+     <field name="series_si">Series IV. Personal Files</field>
+     <field name="heading_ssm">Series IV. Personal Files</field>

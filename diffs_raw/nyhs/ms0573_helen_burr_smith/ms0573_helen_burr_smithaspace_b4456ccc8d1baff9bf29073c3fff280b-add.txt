@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Original Document</field>
+     <field name="unittitle_teim">Original Document</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">One small handwritten inventory, unidentified. Smith's notes indicate "I have no idea whose estate it is from."</field>
++    <field name="scopecontent_teim">One small handwritten inventory, unidentified. Smith&#39;s notes indicate &#34;I have no idea whose estate it is from.&#34;</field>
+     <field name="ref_ssi">aspace_b4456ccc8d1baff9bf29073c3fff280b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 97, Box: 52</field>
+     <field name="location_si">Offsite-Box: 97, Box: 52</field>
+     <field name="collection_teim">Helen Burr Smith papers</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 0573</field>
+     <field name="series_sim">Series IV: Documents Relating to Colonial Silver</field>
+     <field name="series_si">Series IV: Documents Relating to Colonial Silver &gt;&gt; Original Document</field>

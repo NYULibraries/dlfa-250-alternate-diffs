@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,11 @@
+     <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+     <field name="collection_unitid_ssm">PR 011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Sculpture&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Sculpture
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Sculpture&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Sculpture</field>
+     <field name="scopecontent_teim">General (15)
+-Rogers' Groups (36)</field>
++
++Rogers&#39; Groups (36)</field>
+     <field name="ref_ssi">aspace_36b920b02d5f77b153c9ae0c274244bb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,14 +27,11 @@
+     <field name="location_ssm">Box: 28</field>
+     <field name="location_si">Box: 28</field>
+     <field name="collection_teim">New-York Historical Society carte de visite photograph collection</field>
++    <field name="author_teim">N-YHS staff, 2005; finding aid migrated by Joseph Ditta, 2020.</field>
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series IV. Miscellaneous</field>
+-    <field name="series_si">Series IV. Miscellaneous &gt;&gt; 
+-      &lt;strong&gt;Sculpture&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Sculpture
+-    </field>
++    <field name="series_si">Series IV. Miscellaneous &gt;&gt; &lt;strong&gt;Sculpture&lt;/strong&gt;</field>
++    <field name="heading_ssm">Sculpture</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">112</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Manhattan — Streets — Cooper Square [1 image]</field>
+     <field name="unittitle_teim">Manhattan — Streets — Cooper Square [1 image]</field>
+     <field name="unitdate_inclusive_teim">circa 1964</field>
+-    <field name="scopecontent_teim">View of 61–71 Cooper Square between East 7th Street and St. Mark's Place.</field>
++    <field name="scopecontent_teim">View of 61–71 Cooper Square between East 7th Street and St. Mark&#39;s Place.</field>
+     <field name="ref_ssi">aspace_4b76c72f819fcb9aad65e66ff0a8fda8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 22</field>
+     <field name="location_si">Box: 1, Folder: 22</field>
+     <field name="collection_teim">Peter Cohen collection of New York City snapshots</field>
++    <field name="author_teim">Joseph Ditta (March-April 2023)</field>
+     <field name="collection_unitid_teim">PR-456</field>
+     <field name="series_sim">Series I. Views of New York City</field>
+     <field name="series_si">Series I. Views of New York City &gt;&gt; Manhattan — Streets — Cooper Square [1 image]</field>

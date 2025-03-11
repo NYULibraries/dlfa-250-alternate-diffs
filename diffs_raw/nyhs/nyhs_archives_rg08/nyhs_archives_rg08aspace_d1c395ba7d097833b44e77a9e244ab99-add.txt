@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Working files</field>
+     <field name="unittitle_teim">Working files</field>
+     <field name="unitdate_inclusive_teim">1989-1991</field>
+-    <field name="scopecontent_teim">The box holds primarily files concerning exhibitions and other programs, with some files related to general public relations activities and notes on "image overhaul," signage, and the like.</field>
++    <field name="scopecontent_teim">The box holds primarily files concerning exhibitions and other programs, with some files related to general public relations activities and notes on &#34;image overhaul,&#34; signage, and the like.</field>
+     <field name="ref_ssi">aspace_d1c395ba7d097833b44e77a9e244ab99</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 11</field>
+     <field name="location_si">Offsite-Box: 11</field>
+     <field name="collection_teim">New-York Historical Society public relations material</field>
++    <field name="author_teim">Margaret Kaczorowski (2016); Larry Weimer (2021)</field>
+     <field name="collection_unitid_teim">NYHS-RG 8</field>
+     <field name="series_sim">Series III. Compiled Public Relations Files</field>
+     <field name="series_si">Series III. Compiled Public Relations Files &gt;&gt; Working files</field>

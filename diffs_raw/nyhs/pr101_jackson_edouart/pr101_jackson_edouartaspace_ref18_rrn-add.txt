@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series I: Photographs</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Emily Jackson photograph collection of Édouart's American silhouette portraits</field>
+-    <field name="collection_ssm">Emily Jackson photograph collection of Édouart's American silhouette portraits</field>
++    <field name="collection_sim">Emily Jackson photograph collection of Édouart&#39;s American silhouette portraits</field>
++    <field name="collection_ssm">Emily Jackson photograph collection of Édouart&#39;s American silhouette portraits</field>
+     <field name="collection_unitid_ssm">PR 101</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Édouart sheets numbered 201-203, 205-229, 229a, 230-250</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+-    <field name="collection_teim">Emily Jackson photograph collection of Édouart's American silhouette portraits</field>
++    <field name="collection_teim">Emily Jackson photograph collection of Édouart&#39;s American silhouette portraits</field>
++    <field name="author_teim">Processed by Emily Wolff and Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 101</field>
+     <field name="series_sim">Series I: Photographs</field>
+     <field name="series_si">Series I: Photographs &gt;&gt; Édouart sheets numbered 201-203, 205-229, 229a, 230-250</field>

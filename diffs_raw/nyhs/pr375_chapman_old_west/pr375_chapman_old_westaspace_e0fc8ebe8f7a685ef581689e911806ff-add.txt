@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr375_chapman_old_west</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
+-    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+     <field name="collection_unitid_ssm">PR 375</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Marshall Christian Madsen</field>
+@@ -13,8 +13,10 @@
+     <field name="unittitle_teim">Marshall Christian Madsen</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Christen Madsen Rørmose (1851–1944).
+-Cabinet photograph, 4 &amp; 1/6" (W) x 5.75" (L).
+-Verso advertisement for "Parcell / North Side Square / Kirksville, Mo."</field>
++
++Cabinet photograph, 4 &amp; 1/6&#34; (W) x 5.75&#34; (L).
++
++Verso advertisement for &#34;Parcell / North Side Square / Kirksville, Mo.&#34;</field>
+     <field name="ref_ssi">aspace_e0fc8ebe8f7a685ef581689e911806ff</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,7 +25,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">item: 47</field>
+     <field name="location_si">item: 47</field>
+-    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 375</field>
+     <field name="series_si">Marshall Christian Madsen</field>
+     <field name="heading_ssm">Marshall Christian Madsen</field>

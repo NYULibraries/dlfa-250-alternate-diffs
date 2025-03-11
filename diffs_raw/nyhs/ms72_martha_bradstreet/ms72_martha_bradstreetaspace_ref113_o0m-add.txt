@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Martha Bradstreet papers</field>
+     <field name="collection_unitid_ssm">MS 72</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Edward Bell's Bill re: E. G. Smith's account against Mrs. Codd</field>
+-    <field name="unittitle_teim">Edward Bell's Bill re: E. G. Smith's account against Mrs. Codd</field>
++    <field name="unittitle_ssm">Edward Bell&#39;s Bill re: E. G. Smith&#39;s account against Mrs. Codd</field>
++    <field name="unittitle_teim">Edward Bell&#39;s Bill re: E. G. Smith&#39;s account against Mrs. Codd</field>
+     <field name="unitdate_teim">1815</field>
+     <field name="ref_ssi">aspace_ref113_o0m</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 19</field>
+     <field name="location_si">Box: 2, Folder: 19</field>
+     <field name="collection_teim">Martha Bradstreet papers</field>
++    <field name="author_teim">Corey Farbstein</field>
+     <field name="collection_unitid_teim">MS 72</field>
+     <field name="series_sim">Series IV: Legal Documentation. Materials regarding lawsuits</field>
+     <field name="series_sim">Subseries IV.D. Attorney POA, Bills</field>
+-    <field name="series_si">Series IV: Legal Documentation. Materials regarding lawsuits &gt;&gt; Subseries IV.D. Attorney POA, Bills &gt;&gt; Edward Bell's Bill re: E. G. Smith's account against Mrs. Codd</field>
+-    <field name="heading_ssm">Edward Bell's Bill re: E. G. Smith's account against Mrs. Codd</field>
++    <field name="series_si">Series IV: Legal Documentation. Materials regarding lawsuits &gt;&gt; Subseries IV.D. Attorney POA, Bills &gt;&gt; Edward Bell&#39;s Bill re: E. G. Smith&#39;s account against Mrs. Codd</field>
++    <field name="heading_ssm">Edward Bell&#39;s Bill re: E. G. Smith&#39;s account against Mrs. Codd</field>
+     <field name="unitdate_ssm">1815</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">91</field>

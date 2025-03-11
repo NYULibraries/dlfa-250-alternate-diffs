@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,14 @@
+     <field name="parent_unittitles_teim">Series I. American Playing Cards (1824- )</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Playing card and game collection</field>
+-    <field name="collection_ssm">Playing card and game collection</field>
++    <field name="collection_sim">Playing card and game collection
++</field>
++    <field name="collection_ssm">Playing card and game collection
++</field>
+     <field name="collection_unitid_ssm">PR 115</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">American Chronological Cards, or Uncle Thomas' Game for the Young Patriots of America</field>
+-    <field name="unittitle_teim">American Chronological Cards, or Uncle Thomas' Game for the Young Patriots of America</field>
++    <field name="unittitle_ssm">American Chronological Cards, or Uncle Thomas&#39; Game for the Young Patriots of America</field>
++    <field name="unittitle_teim">American Chronological Cards, or Uncle Thomas&#39; Game for the Young Patriots of America</field>
+     <field name="unitdate_normal_ssm">1850/1850</field>
+     <field name="unitdate_normal_teim">1850/1850</field>
+     <field name="unitdate_normal_sim">1850/1850</field>
+@@ -27,11 +29,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 17</field>
+     <field name="location_si">Box: 1, Folder: 17</field>
+-    <field name="collection_teim">Playing card and game collection</field>
++    <field name="collection_teim">Playing card and game collection
++</field>
++    <field name="author_teim">Jason Burns</field>
+     <field name="collection_unitid_teim">PR 115</field>
+     <field name="series_sim">Series I. American Playing Cards (1824- )</field>
+-    <field name="series_si">Series I. American Playing Cards (1824- ) &gt;&gt; American Chronological Cards, or Uncle Thomas' Game for the Young Patriots of America</field>
+-    <field name="heading_ssm">American Chronological Cards, or Uncle Thomas' Game for the Young Patriots of America</field>
++    <field name="series_si">Series I. American Playing Cards (1824- ) &gt;&gt; American Chronological Cards, or Uncle Thomas&#39; Game for the Young Patriots of America</field>
++    <field name="heading_ssm">American Chronological Cards, or Uncle Thomas&#39; Game for the Young Patriots of America</field>
+     <field name="unitdate_start_sim">1850</field>
+     <field name="unitdate_start_ssm">1850</field>
+     <field name="unitdate_start_si">1850</field>

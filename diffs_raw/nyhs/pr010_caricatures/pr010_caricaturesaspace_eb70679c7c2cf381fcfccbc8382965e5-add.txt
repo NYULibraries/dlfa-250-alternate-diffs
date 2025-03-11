@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">You're Slipping, Doctor Goebbels! [Hitler, World War II]</field>
+-    <field name="unittitle_teim">You're Slipping, Doctor Goebbels! [Hitler, World War II]</field>
++    <field name="unittitle_ssm">You&#39;re Slipping, Doctor Goebbels! [Hitler, World War II]</field>
++    <field name="unittitle_teim">You&#39;re Slipping, Doctor Goebbels! [Hitler, World War II]</field>
+     <field name="unitdate_teim">1942</field>
+     <field name="scopecontent_teim">Drawing. Drawn for Philco by William Maxwell.  Acquisition(?) date on back: Mar. 29, 1943.</field>
+     <field name="ref_ssi">aspace_eb70679c7c2cf381fcfccbc8382965e5</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-145, item: 1942-2</field>
+     <field name="location_si">Folder: FF-145, item: 1942-2</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; You're Slipping, Doctor Goebbels! [Hitler, World War II]</field>
+-    <field name="heading_ssm">You're Slipping, Doctor Goebbels! [Hitler, World War II]</field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; You&#39;re Slipping, Doctor Goebbels! [Hitler, World War II]</field>
++    <field name="heading_ssm">You&#39;re Slipping, Doctor Goebbels! [Hitler, World War II]</field>
+     <field name="unitdate_ssm">1942</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1318</field>

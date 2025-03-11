@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">SCPI Land Use Task Force, 1973-1975</field>
+     <field name="unittitle_teim">SCPI Land Use Task Force, 1973-1975</field>
+     <field name="unitdate_teim">1973-1975</field>
+-    <field name="scopecontent_teim">Of note is the booklet, "Land Use and the West Side Highway Recommendations" from the Transportation Administration of New York and City Planning Commission.</field>
++    <field name="scopecontent_teim">Of note is the booklet, &#34;Land Use and the West Side Highway Recommendations&#34; from the Transportation Administration of New York and City Planning Commission.</field>
+     <field name="ref_ssi">aspace_ref168_xnm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 5</field>
+     <field name="collection_teim">Cyrus Adler papers</field>
++    <field name="author_teim">Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">MS 3</field>
+     <field name="series_sim">Series III: Transportation Initiatives</field>
+     <field name="series_sim">Subseries III.1: Westway Tunnel Project</field>

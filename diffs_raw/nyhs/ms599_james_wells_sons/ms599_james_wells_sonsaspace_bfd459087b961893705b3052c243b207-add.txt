@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms599_james_wells_sons</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">James N. Wells' Sons records</field>
+-    <field name="collection_ssm">James N. Wells' Sons records</field>
++    <field name="collection_sim">James N. Wells&#39; Sons records</field>
++    <field name="collection_ssm">James N. Wells&#39; Sons records</field>
+     <field name="collection_unitid_ssm">MS 599</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Box 23</field>
+@@ -21,7 +21,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 23</field>
+     <field name="location_si">Offsite-Box: 23</field>
+-    <field name="collection_teim">James N. Wells' Sons records</field>
++    <field name="collection_teim">James N. Wells&#39; Sons records</field>
++    <field name="author_teim">Larry Weimer and Elise Winks</field>
+     <field name="collection_unitid_teim">MS 599</field>
+     <field name="series_si">Box 23</field>
+     <field name="heading_ssm">Box 23</field>

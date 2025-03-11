@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Adele Buchalter scrapbooks</field>
+     <field name="collection_unitid_ssm">MS 86</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Volume 18. "England, Holland"</field>
+-    <field name="unittitle_teim">Volume 18. "England, Holland"</field>
++    <field name="unittitle_ssm">Volume 18. &#34;England, Holland&#34;</field>
++    <field name="unittitle_teim">Volume 18. &#34;England, Holland&#34;</field>
+     <field name="unitdate_inclusive_teim">1971</field>
+     <field name="scopecontent_teim">This volume continues from volume 17.</field>
+     <field name="ref_ssi">aspace_7407cde64a6382aefb9c84c28f214d82</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Offsite-Box: 9</field>
+     <field name="location_si">Offsite-Box: 9</field>
+     <field name="collection_teim">Adele Buchalter scrapbooks</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 86</field>
+-    <field name="series_si">Volume 18. "England, Holland"</field>
+-    <field name="heading_ssm">Volume 18. "England, Holland"</field>
++    <field name="series_si">Volume 18. &#34;England, Holland&#34;</field>
++    <field name="heading_ssm">Volume 18. &#34;England, Holland&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">18</field>

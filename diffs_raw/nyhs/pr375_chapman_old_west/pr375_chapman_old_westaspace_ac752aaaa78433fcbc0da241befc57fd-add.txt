@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr375_chapman_old_west</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
+-    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+     <field name="collection_unitid_ssm">PR 375</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sheriff John Selman</field>
+@@ -13,7 +13,8 @@
+     <field name="unittitle_teim">Sheriff John Selman</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">John Henry Selman (1839–1896).
+-Tintype, 2.5" (W) x 3 &amp; 7/16" (L).</field>
++
++Tintype, 2.5&#34; (W) x 3 &amp; 7/16&#34; (L).</field>
+     <field name="ref_ssi">aspace_ac752aaaa78433fcbc0da241befc57fd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">item: 61</field>
+     <field name="location_si">item: 61</field>
+-    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 375</field>
+     <field name="series_si">Sheriff John Selman</field>
+     <field name="heading_ssm">Sheriff John Selman</field>

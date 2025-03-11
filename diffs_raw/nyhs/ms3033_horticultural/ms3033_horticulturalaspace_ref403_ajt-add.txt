@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Subjects. W-Z</field>
+     <field name="unittitle_teim">Subjects. W-Z</field>
+     <field name="unitdate_teim">2000, 2008-2010</field>
+-    <field name="scopecontent_teim">Includes print-outs of Hort's website (2008) and book recommendations from Abbie Zabar (2000).</field>
++    <field name="scopecontent_teim">Includes print-outs of Hort&#39;s website (2008) and book recommendations from Abbie Zabar (2000).</field>
+     <field name="ref_ssi">aspace_ref403_ajt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 59, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 59, Folder: 10</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.C. Librarian Files</field>
+-    <field name="series_si">Series II. Library &amp;amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. W-Z</field>
++    <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. W-Z</field>
+     <field name="heading_ssm">Subjects. W-Z</field>
+     <field name="unitdate_ssm">2000, 2008-2010</field>
+     <field name="date_range_sim">undated &amp; other</field>

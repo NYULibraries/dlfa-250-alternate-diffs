@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,17 +16,17 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;New York City | Islands&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      New York City | Islands
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;New York City | Islands&lt;/strong&gt;</field>
++    <field name="unittitle_teim">New York City | Islands</field>
+     <field name="scopecontent_teim">Ellis Island
+-Governor's Island
++
++Governor&#39;s Island
++
+ Liberty Island (and Statue of Liberty)
+-Randall's Island
+-Roosevelt Island (formerly Blackwell's and Welfare Island)</field>
++
++Randall&#39;s Island
++
++Roosevelt Island (formerly Blackwell&#39;s and Welfare Island)</field>
+     <field name="ref_ssi">aspace_ref262_tgy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -36,15 +36,12 @@
+     <field name="location_ssm">Box: 42</field>
+     <field name="location_si">Box: 42</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>
+-    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+-      &lt;strong&gt;New York City | Islands&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      New York City | Islands
+-    </field>
++    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; &lt;strong&gt;New York City | Islands&lt;/strong&gt;</field>
++    <field name="heading_ssm">New York City | Islands</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">175</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Various drawings (oversize flat file)</field>
+     <field name="unittitle_teim">Various drawings (oversize flat file)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Includes drawings (crayon, pencil, pen &amp; ink, watercolors) including, among others, Beach 116 Street Entrance for Rockaway Park, NY; "Nature of this flower is to bloom"; wall painting for Municipal Parking Lot #2, Astoria, Queens; etc.</field>
++    <field name="scopecontent_teim">Includes drawings (crayon, pencil, pen &amp; ink, watercolors) including, among others, Beach 116 Street Entrance for Rockaway Park, NY; &#34;Nature of this flower is to bloom&#34;; wall painting for Municipal Parking Lot #2, Astoria, Queens; etc.</field>
+     <field name="ref_ssi">aspace_c1facb5b99e4fea2eaa4a4da1cb40a82</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Folder: FF-5</field>
+     <field name="location_si">Folder: FF-5</field>
+     <field name="collection_teim">CITYarts Inc. records</field>
++    <field name="author_teim">Sydney Bebon and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3096</field>
+     <field name="series_sim">Series V. Artwork, Miscellaneous Photographs, and Other Visual Materials</field>
+     <field name="series_si">Series V. Artwork, Miscellaneous Photographs, and Other Visual Materials &gt;&gt; Various drawings (oversize flat file)</field>

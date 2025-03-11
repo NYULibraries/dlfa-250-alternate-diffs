@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Messler, Rev. A. "First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J."</field>
+-    <field name="unittitle_teim">Messler, Rev. A. "First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J."</field>
++    <field name="unittitle_ssm">Messler, Rev. A. &#34;First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J.&#34;</field>
++    <field name="unittitle_teim">Messler, Rev. A. &#34;First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J.&#34;</field>
+     <field name="unitdate_inclusive_teim">1899</field>
+     <field name="ref_ssi">aspace_8f8c67721616a1a56cbf0f70af6777aa</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 18, Volume: SN-134</field>
+     <field name="location_si">Offsite-Box: 18, Volume: SN-134</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Messler, Rev. A. "First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J."</field>
+-    <field name="heading_ssm">Messler, Rev. A. "First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J."</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Messler, Rev. A. &#34;First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J.&#34;</field>
++    <field name="heading_ssm">Messler, Rev. A. &#34;First Things in Old Somerset, A Collection of Articles Relating to Somerset County, N.J.&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1899</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">138</field>

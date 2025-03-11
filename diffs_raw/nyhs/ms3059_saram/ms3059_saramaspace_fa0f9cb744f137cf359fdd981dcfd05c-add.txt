@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Mathew Brady</field>
+     <field name="unittitle_teim">Mathew Brady</field>
+     <field name="unitdate_inclusive_teim">1991</field>
+-    <field name="scopecontent_teim">Original folder reads: "359 Broadway Studio. First photo of Abraham Lincoln. '359 Brady's Gallery' sign painted over in 1988. Petition signed by P.S.234 students to save building. They won."</field>
++    <field name="scopecontent_teim">Original folder reads: &#34;359 Broadway Studio. First photo of Abraham Lincoln. &#39;359 Brady&#39;s Gallery&#39; sign painted over in 1988. Petition signed by P.S.234 students to save building. They won.&#34;</field>
+     <field name="ref_ssi">aspace_fa0f9cb744f137cf359fdd981dcfd05c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 8</field>
+     <field name="collection_teim">Carole De Saram papers</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3059</field>
+     <field name="series_sim">Series 1: Subject Files</field>
+     <field name="series_si">Series 1: Subject Files &gt;&gt; Mathew Brady</field>

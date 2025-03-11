@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Judson Trappan photographs</field>
+     <field name="collection_unitid_ssm">PR 071</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Berkshire Hills" (includes manuscript account of the trip)</field>
+-    <field name="unittitle_teim">"Berkshire Hills" (includes manuscript account of the trip)</field>
++    <field name="unittitle_ssm">&#34;Berkshire Hills&#34; (includes manuscript account of the trip)</field>
++    <field name="unittitle_teim">&#34;Berkshire Hills&#34; (includes manuscript account of the trip)</field>
+     <field name="unitdate_inclusive_teim">1898 October 10–15</field>
+     <field name="ref_ssi">aspace_988e99f6bb9a643e4dcb9c41b78d5e3a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">John Judson Trappan photographs</field>
++    <field name="author_teim">Julie Viggiano (2003); updated by Jenny Gotwals (2006); migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">PR 071</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_sim">Subseries I.A. Photograph Albums</field>
+-    <field name="series_si">Series I. Photographs &gt;&gt; Subseries I.A. Photograph Albums &gt;&gt; "Berkshire Hills" (includes manuscript account of the trip)</field>
+-    <field name="heading_ssm">"Berkshire Hills" (includes manuscript account of the trip)</field>
++    <field name="series_si">Series I. Photographs &gt;&gt; Subseries I.A. Photograph Albums &gt;&gt; &#34;Berkshire Hills&#34; (includes manuscript account of the trip)</field>
++    <field name="heading_ssm">&#34;Berkshire Hills&#34; (includes manuscript account of the trip)</field>
+     <field name="unitdate_ssm">Inclusive, 1898 October 10–15</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

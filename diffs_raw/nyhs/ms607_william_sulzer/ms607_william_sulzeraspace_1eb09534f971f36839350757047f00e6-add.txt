@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Mailing lists</field>
+     <field name="unittitle_teim">Mailing lists</field>
+     <field name="unitdate_inclusive_teim">1916</field>
+-    <field name="scopecontent_teim">Various mailing lists compiled by the United States Addressing and Printing Co.: Brotherhood of Railroad Trainmen, New York State; Grand Lodges of the Brotherhood of Railroad Trainmen, U.S.; Members Roll of Honor for Distinguished Service, New York State; Enrolled Democrats, New York State?; Democrats, Progressives and Americans of Tioga County; William Sulzer's List, New York State and U.S.</field>
++    <field name="scopecontent_teim">Various mailing lists compiled by the United States Addressing and Printing Co.: Brotherhood of Railroad Trainmen, New York State; Grand Lodges of the Brotherhood of Railroad Trainmen, U.S.; Members Roll of Honor for Distinguished Service, New York State; Enrolled Democrats, New York State?; Democrats, Progressives and Americans of Tioga County; William Sulzer&#39;s List, New York State and U.S.</field>
+     <field name="ref_ssi">aspace_1eb09534f971f36839350757047f00e6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 25</field>
+     <field name="location_si">Offsite-Box: 25</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Mailing lists</field>
+     <field name="heading_ssm">Mailing lists</field>

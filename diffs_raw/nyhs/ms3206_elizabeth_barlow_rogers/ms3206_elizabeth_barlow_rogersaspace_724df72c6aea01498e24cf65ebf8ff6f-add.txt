@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Miscellaneous Unpublished Essays </field>
+     <field name="unittitle_teim">Miscellaneous Unpublished Essays </field>
+     <field name="unitdate_inclusive_teim">circa 1970</field>
+-    <field name="scopecontent_teim">Essays include: "Tidewater Hudson"; "How Green Was My City"; "The Public Park: A Brief History"; Pelham Bay and Nature Study"</field>
++    <field name="scopecontent_teim">Essays include: &#34;Tidewater Hudson&#34;; &#34;How Green Was My City&#34;; &#34;The Public Park: A Brief History&#34;; Pelham Bay and Nature Study&#34;</field>
+     <field name="ref_ssi">aspace_724df72c6aea01498e24cf65ebf8ff6f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 10</field>
+     <field name="collection_teim">Elizabeth Barlow Rogers papers</field>
++    <field name="author_teim">Lia Warner</field>
+     <field name="collection_unitid_teim">MS 3206</field>
+     <field name="series_sim">Series I. Written Works and Materials</field>
+     <field name="series_sim">Subseries I.A Drafts and Research</field>

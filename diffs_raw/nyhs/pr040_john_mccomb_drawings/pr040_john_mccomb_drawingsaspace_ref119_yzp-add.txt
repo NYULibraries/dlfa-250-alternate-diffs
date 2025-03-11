@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">John McComb architectural drawings collection</field>
+     <field name="collection_unitid_ssm">PR 40</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Church, unidentified graphite, LL: "Pulpit"</field>
+-    <field name="unittitle_teim">Church, unidentified graphite, LL: "Pulpit"</field>
++    <field name="unittitle_ssm">Church, unidentified graphite, LL: &#34;Pulpit&#34;</field>
++    <field name="unittitle_teim">Church, unidentified graphite, LL: &#34;Pulpit&#34;</field>
+     <field name="ref_ssi">aspace_ref119_yzp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: McComb Box 9, item: 143</field>
+     <field name="location_si">Box: McComb Box 9, item: 143</field>
+     <field name="collection_teim">John McComb architectural drawings collection</field>
++    <field name="author_teim">Jenny Gotwals and Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 40</field>
+-    <field name="series_si">Church, unidentified graphite, LL: "Pulpit"</field>
+-    <field name="heading_ssm">Church, unidentified graphite, LL: "Pulpit"</field>
++    <field name="series_si">Church, unidentified graphite, LL: &#34;Pulpit&#34;</field>
++    <field name="heading_ssm">Church, unidentified graphite, LL: &#34;Pulpit&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">114</field>
+   </doc>

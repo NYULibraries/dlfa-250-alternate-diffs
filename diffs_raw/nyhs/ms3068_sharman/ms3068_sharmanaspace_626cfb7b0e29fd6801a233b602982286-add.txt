@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,16 @@
+     <field name="unittitle_ssm">Periodical | &lt;em&gt;The Home Sector, A Weekly for the New Civilian&lt;/em&gt;</field>
+     <field name="unittitle_teim">Periodical | The Home Sector, A Weekly for the New Civilian</field>
+     <field name="unitdate_inclusive_teim">1920</field>
+-    <field name="scopecontent_teim">Contains four issues:</field>
++    <field name="scopecontent_teim">Contains four issues:
++</field>
+     <field name="scopecontent_teim">Vol. 2, no. 8 (1920 February 21)
++
+ Vol. 2, no. 9 (1920 February 28)
++
+ Vol. 2, no. 15 (1920 April 10)
+-Vol. 2, no. 16 (1920 April 17)</field>
++
++Vol. 2, no. 16 (1920 April 17)
++</field>
+     <field name="scopecontent_teim">The New-York Historical Society Library holds earlier issues of this periodical under call number D501 .H6 Oversize.</field>
+     <field name="ref_ssi">aspace_626cfb7b0e29fd6801a233b602982286</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,9 +36,10 @@
+     <field name="location_ssm">Box: 1, Folder: 8</field>
+     <field name="location_si">Box: 1, Folder: 8</field>
+     <field name="collection_teim">William Sharman papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3068</field>
+     <field name="series_sim">Series I. Border War &amp;amp; World War I</field>
+-    <field name="series_si">Series I. Border War &amp;amp; World War I &gt;&gt; Periodical | &lt;em&gt;The Home Sector, A Weekly for the New Civilian&lt;/em&gt;</field>
++    <field name="series_si">Series I. Border War &amp; World War I &gt;&gt; Periodical | &lt;em&gt;The Home Sector, A Weekly for the New Civilian&lt;/em&gt;</field>
+     <field name="heading_ssm">Periodical | The Home Sector, A Weekly for the New Civilian</field>
+     <field name="unitdate_ssm">Inclusive, 1920</field>
+     <field name="date_range_sim">undated &amp; other</field>

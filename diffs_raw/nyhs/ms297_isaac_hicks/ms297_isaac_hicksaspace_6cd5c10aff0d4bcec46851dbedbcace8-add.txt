@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Bills</field>
+     <field name="unittitle_teim">Bills</field>
+     <field name="unitdate_inclusive_teim">1801-1804</field>
+-    <field name="scopecontent_teim">The folders in this box are labeled "business papers".  However, most of the folders have sub-categories such as Liverpool, Bills, Bills of Parsells, and Bills Re Store &amp; Wharf Acct.  All the documents in the folder "Liverpool" are labeled "Port Liverpool"  and many are in relation to shipping goods on the ship Allegheny to New York.  Most documents are lists of goods (in either list or paragraph form), with a total at the bottom.  The folder labeled "Bills Re Store &amp; Wharf Acct" is labeled this way because the documents were originally bound together with this label.  There is nothing on most of the documents themselves to designate that they are associated with this account.  The folder labeled "Bills" contains assorted bills in multiple formats.  The folders labeled "bills of parsells" are labeled this way because they were bound with this label, but the folders are comprised of regular bills that are found in the other folders.</field>
++    <field name="scopecontent_teim">The folders in this box are labeled &#34;business papers&#34;.  However, most of the folders have sub-categories such as Liverpool, Bills, Bills of Parsells, and Bills Re Store &amp; Wharf Acct.  All the documents in the folder &#34;Liverpool&#34; are labeled &#34;Port Liverpool&#34;  and many are in relation to shipping goods on the ship Allegheny to New York.  Most documents are lists of goods (in either list or paragraph form), with a total at the bottom.  The folder labeled &#34;Bills Re Store &amp; Wharf Acct&#34; is labeled this way because the documents were originally bound together with this label.  There is nothing on most of the documents themselves to designate that they are associated with this account.  The folder labeled &#34;Bills&#34; contains assorted bills in multiple formats.  The folders labeled &#34;bills of parsells&#34; are labeled this way because they were bound with this label, but the folders are comprised of regular bills that are found in the other folders.</field>
+     <field name="ref_ssi">aspace_6cd5c10aff0d4bcec46851dbedbcace8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 48</field>
+     <field name="location_si">Box: 48</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Bills</field>

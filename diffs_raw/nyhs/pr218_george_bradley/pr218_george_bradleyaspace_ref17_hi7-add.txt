@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Colonel George W. Bradley collection of Civil War photographs</field>
+     <field name="collection_unitid_ssm">PR 218</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Office, Col. [George] Bradley [and Provost Marshal's office]</field>
+-    <field name="unittitle_teim">Office, Col. [George] Bradley [and Provost Marshal's office]</field>
++    <field name="unittitle_ssm">Office, Col. [George] Bradley [and Provost Marshal&#39;s office]</field>
++    <field name="unittitle_teim">Office, Col. [George] Bradley [and Provost Marshal&#39;s office]</field>
+     <field name="unitdate_teim">1865 Jan.</field>
+     <field name="ref_ssi">aspace_ref17_hi7</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1</field>
+     <field name="collection_teim">Colonel George W. Bradley collection of Civil War photographs</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 218</field>
+     <field name="series_sim">Series I: City Point on the James and Appomattox Rivers, Virginia</field>
+     <field name="series_sim">Administrative buildings</field>
+-    <field name="series_si">Series I: City Point on the James and Appomattox Rivers, Virginia &gt;&gt; Administrative buildings &gt;&gt; Office, Col. [George] Bradley [and Provost Marshal's office]</field>
+-    <field name="heading_ssm">Office, Col. [George] Bradley [and Provost Marshal's office]</field>
++    <field name="series_si">Series I: City Point on the James and Appomattox Rivers, Virginia &gt;&gt; Administrative buildings &gt;&gt; Office, Col. [George] Bradley [and Provost Marshal&#39;s office]</field>
++    <field name="heading_ssm">Office, Col. [George] Bradley [and Provost Marshal&#39;s office]</field>
+     <field name="unitdate_ssm">1865 Jan.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series XIII. Gold Mine Documents, 1844-1866</field>
+     <field name="unittitle_teim">Series XIII. Gold Mine Documents, 1844-1866</field>
+-    <field name="scopecontent_teim">This series includes documents relating to Henry A. Frey's involvement in a gold mining venture in South Carolina, including gold bullion deposit receipts, copies of indentures, articles of agreement, leases, and surveys.</field>
++    <field name="scopecontent_teim">This series includes documents relating to Henry A. Frey&#39;s involvement in a gold mining venture in South Carolina, including gold bullion deposit receipts, copies of indentures, articles of agreement, leases, and surveys.</field>
+     <field name="ref_ssi">aspace_ref484_tpl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Frey Family Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 235</field>
+     <field name="series_si">Series XIII. Gold Mine Documents, 1844-1866</field>
+     <field name="heading_ssm">Series XIII. Gold Mine Documents, 1844-1866</field>

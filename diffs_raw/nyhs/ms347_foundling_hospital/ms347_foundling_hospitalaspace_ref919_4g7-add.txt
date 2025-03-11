@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Pamphlet: St. Mary's Shelter (2 copies)</field>
+-    <field name="unittitle_teim">Pamphlet: St. Mary's Shelter (2 copies)</field>
++    <field name="unittitle_ssm">Pamphlet: St. Mary&#39;s Shelter (2 copies)</field>
++    <field name="unittitle_teim">Pamphlet: St. Mary&#39;s Shelter (2 copies)</field>
+     <field name="unitdate_teim">circa 1930-1965</field>
+     <field name="dao_teim">Click to view image</field>
+     <field name="dao_ssm">Click to view image</field>
+@@ -31,11 +31,12 @@
+     <field name="location_si">Offsite-Box: 52, Folder: 4</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009</field>
+     <field name="series_sim">Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007</field>
+-    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007 &gt;&gt; Pamphlet: St. Mary's Shelter (2 copies)</field>
+-    <field name="heading_ssm">Pamphlet: St. Mary's Shelter (2 copies)</field>
++    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.1. Pamphlets, Appeals, Public Relations Materials, 1909-2007 &gt;&gt; Pamphlet: St. Mary&#39;s Shelter (2 copies)</field>
++    <field name="heading_ssm">Pamphlet: St. Mary&#39;s Shelter (2 copies)</field>
+     <field name="unitdate_ssm">circa 1930-1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">833</field>

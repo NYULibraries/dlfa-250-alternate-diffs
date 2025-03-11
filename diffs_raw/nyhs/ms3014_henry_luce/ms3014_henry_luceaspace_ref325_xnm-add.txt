@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Untitled, Cleveland Printing Week, OH, 15 January 1964</field>
+     <field name="unittitle_teim">Untitled, Cleveland Printing Week, OH, 15 January 1964</field>
+     <field name="unitdate_teim">1963-1964</field>
+-    <field name="scopecontent_teim">Does not contain the speech. The speech "The Knowledge Industry," given to the Graphic Arts Council of Chicago, IL on 13 January 1964 may have been repeated in Ohio.</field>
++    <field name="scopecontent_teim">Does not contain the speech. The speech &#34;The Knowledge Industry,&#34; given to the Graphic Arts Council of Chicago, IL on 13 January 1964 may have been repeated in Ohio.</field>
+     <field name="ref_ssi">aspace_ref325_xnm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 43, Folder: 6</field>
+     <field name="location_si">Box: 43, Folder: 6</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series II. Speeches and Writings</field>
+     <field name="series_sim">Subseries II.A. Working Files</field>

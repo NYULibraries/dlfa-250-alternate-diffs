@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_f3a1935505cb35df5c6c75ca6274cce3</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_f3a1935505cb35df5c6c75ca6274cce3</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Illuminated Manuscript</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Illuminated Manuscript</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,9 @@
+     <field name="unittitle_ssm">Parchment page from a big book that contained the church service</field>
+     <field name="unittitle_teim">Parchment page from a big book that contained the church service</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Size 14 x 20".
++    <field name="scopecontent_teim">Size 14 x 20&#34;.
++
++
+ 
+ Presented by Miss Marjorie Weirich.</field>
+     <field name="ref_ssi">aspace_fed424d6fe6d3a911de9bfaf16892380</field>
+@@ -31,10 +33,11 @@
+     <field name="location_ssm">Offsite-Box: RC-7</field>
+     <field name="location_si">Offsite-Box: RC-7</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Illuminated Manuscript</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Illuminated Manuscript &gt;&gt; Parchment page from a big book that contained the church service</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Illuminated Manuscript &gt;&gt; Parchment page from a big book that contained the church service</field>
+     <field name="heading_ssm">Parchment page from a big book that contained the church service</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

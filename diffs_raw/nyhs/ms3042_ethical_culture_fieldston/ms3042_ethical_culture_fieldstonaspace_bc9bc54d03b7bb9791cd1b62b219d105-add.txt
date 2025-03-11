@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Principal David Schwartz</field>
+     <field name="unittitle_teim">Principal David Schwartz</field>
+     <field name="unitdate_inclusive_teim">1984-1987, 2000</field>
+-    <field name="scopecontent_teim">Records on election as principal, copy of Schwartz's statement of educational philosophy. Also includes some of Schwartz's English teaching materials from Fieldston Upper.</field>
++    <field name="scopecontent_teim">Records on election as principal, copy of Schwartz&#39;s statement of educational philosophy. Also includes some of Schwartz&#39;s English teaching materials from Fieldston Upper.</field>
+     <field name="ref_ssi">aspace_bc9bc54d03b7bb9791cd1b62b219d105</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 83, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 83, Folder: 12</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 5. Fieldston Lower (1933-2012; 6.5 linear feet)</field>
+     <field name="series_sim">Series I. Administrative affairs</field>

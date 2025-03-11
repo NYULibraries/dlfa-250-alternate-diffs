@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Samuel Gilford Papers</field>
+     <field name="collection_unitid_ssm">MS 249</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Ship's Account Book, [&lt;em&gt;Cornelia&lt;/em&gt;?]</field>
+-    <field name="unittitle_teim">Ship's Account Book, [Cornelia?]</field>
++    <field name="unittitle_ssm">Ship&#39;s Account Book, [&lt;em&gt;Cornelia&lt;/em&gt;?]</field>
++    <field name="unittitle_teim">Ship&#39;s Account Book, [Cornelia?]</field>
+     <field name="unitdate_teim">1768-1769</field>
+     <field name="title_teim">Cornelia</field>
+     <field name="title_ssm">Cornelia</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 2, Folder: 4</field>
+     <field name="location_si">Box: 2, Folder: 4</field>
+     <field name="collection_teim">Samuel Gilford Papers</field>
++    <field name="author_teim">Processed by Matthew Murphy</field>
+     <field name="collection_unitid_teim">MS 249</field>
+     <field name="series_sim">Series I: Gilford Family, 1753-1909, undated</field>
+     <field name="series_sim">Subseries II: Business Records, 1753-1842, undated</field>
+-    <field name="series_si">Series I: Gilford Family, 1753-1909, undated &gt;&gt; Subseries II: Business Records, 1753-1842, undated &gt;&gt; Ship's Account Book, [&lt;em&gt;Cornelia&lt;/em&gt;?]</field>
+-    <field name="heading_ssm">Ship's Account Book, [Cornelia?]</field>
++    <field name="series_si">Series I: Gilford Family, 1753-1909, undated &gt;&gt; Subseries II: Business Records, 1753-1842, undated &gt;&gt; Ship&#39;s Account Book, [&lt;em&gt;Cornelia&lt;/em&gt;?]</field>
++    <field name="heading_ssm">Ship&#39;s Account Book, [Cornelia?]</field>
+     <field name="unitdate_ssm">1768-1769</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>

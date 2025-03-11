@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr312_jane_hoffer</field>
+     <field name="parent_ssi">aspace_725cacca8e5e4b080272f47152d63956</field>
+     <field name="parent_ssm">aspace_725cacca8e5e4b080272f47152d63956</field>
+-    <field name="parent_unittitles_ssm">Series I. "On the Beat"</field>
+-    <field name="parent_unittitles_teim">Series I. "On the Beat"</field>
++    <field name="parent_unittitles_ssm">Series I. &amp;#34;On the Beat&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series I. &amp;#34;On the Beat&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Jane Hoffer photographs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 20-21</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 20-21</field>
+     <field name="collection_teim">Jane Hoffer photographs</field>
++    <field name="author_teim">Sophie Glidden-Lyon (2015), Joseph Ditta (2019), Margo Padilla and Larry Weimer (2022)</field>
+     <field name="collection_unitid_teim">PR 312</field>
+-    <field name="series_sim">Series I. "On the Beat"</field>
+-    <field name="series_si">Series I. "On the Beat" &gt;&gt; Wilson</field>
++    <field name="series_sim">Series I. &amp;#34;On the Beat&amp;#34;</field>
++    <field name="series_si">Series I. &#34;On the Beat&#34; &gt;&gt; Wilson</field>
+     <field name="heading_ssm">Wilson</field>
+     <field name="unitdate_ssm">Inclusive, circa 1975, circa 1977, 1978, [undated]</field>
+     <field name="date_range_sim">undated &amp; other</field>

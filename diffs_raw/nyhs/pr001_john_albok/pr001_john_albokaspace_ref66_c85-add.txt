@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Albok photograph collection</field>
+     <field name="collection_unitid_ssm">PR 1</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">World's Fair</field>
+-    <field name="unittitle_teim">World's Fair</field>
++    <field name="unittitle_ssm">World&#39;s Fair</field>
++    <field name="unittitle_teim">World&#39;s Fair</field>
+     <field name="ref_ssi">aspace_ref66_c85</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,10 +22,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Albok photograph collection</field>
++    <field name="author_teim">Jason Steinhauer</field>
+     <field name="collection_unitid_teim">PR 1</field>
+     <field name="series_sim">Series I. Prints</field>
+-    <field name="series_si">Series I. Prints &gt;&gt; World's Fair</field>
+-    <field name="heading_ssm">World's Fair</field>
++    <field name="series_si">Series I. Prints &gt;&gt; World&#39;s Fair</field>
++    <field name="heading_ssm">World&#39;s Fair</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>
+   </doc>

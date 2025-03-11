@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+     <field name="collection_unitid_ssm">MS 171</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"First One Hundred Years" by Edward H. Dodd Jr. Manuscript and Notes </field>
+-    <field name="unittitle_teim">"First One Hundred Years" by Edward H. Dodd Jr. Manuscript and Notes </field>
++    <field name="unittitle_ssm">&#34;First One Hundred Years&#34; by Edward H. Dodd Jr. Manuscript and Notes </field>
++    <field name="unittitle_teim">&#34;First One Hundred Years&#34; by Edward H. Dodd Jr. Manuscript and Notes </field>
+     <field name="unitdate_teim">Circa 1939</field>
+     <field name="scopecontent_teim">Includes a photograph of Mrs. Dodd.</field>
+     <field name="ref_ssi">aspace_e5a9f4f422ec4badc3fd7e2f24c1c034</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 51, Folder: 38</field>
+     <field name="location_si">Offsite-Box: 51, Folder: 38</field>
+     <field name="collection_teim">Dodd, Mead &amp; Company records</field>
++    <field name="author_teim">Sydney Bebon &amp; Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 171</field>
+     <field name="series_sim">Series III: Publications Publicity</field>
+     <field name="series_sim">Subseries III.B. Publicity Material</field>
+-    <field name="series_si">Series III: Publications Publicity &gt;&gt; Subseries III.B. Publicity Material &gt;&gt; "First One Hundred Years" by Edward H. Dodd Jr. Manuscript and Notes </field>
+-    <field name="heading_ssm">"First One Hundred Years" by Edward H. Dodd Jr. Manuscript and Notes </field>
++    <field name="series_si">Series III: Publications Publicity &gt;&gt; Subseries III.B. Publicity Material &gt;&gt; &#34;First One Hundred Years&#34; by Edward H. Dodd Jr. Manuscript and Notes </field>
++    <field name="heading_ssm">&#34;First One Hundred Years&#34; by Edward H. Dodd Jr. Manuscript and Notes </field>
+     <field name="unitdate_ssm">Circa 1939</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">95</field>

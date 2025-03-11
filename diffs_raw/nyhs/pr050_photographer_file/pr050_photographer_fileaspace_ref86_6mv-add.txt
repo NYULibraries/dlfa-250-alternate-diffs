@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Photographer File</field>
+     <field name="collection_unitid_ssm">PR 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer's series "Night Gallery".</field>
+-    <field name="unittitle_teim">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer's series "Night Gallery".</field>
++    <field name="unittitle_ssm">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer&#39;s series &#34;Night Gallery&#34;.</field>
++    <field name="unittitle_teim">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer&#39;s series &#34;Night Gallery&#34;.</field>
+     <field name="unitdate_teim">[1975]</field>
+     <field name="ref_ssi">aspace_ref86_6mv</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Photographer File</field>
++    <field name="author_teim">Jennifer Lewis, Marybeth Kavanagh, and others</field>
+     <field name="collection_unitid_teim">PR 50</field>
+     <field name="series_sim">Rosenberg, Fred</field>
+-    <field name="series_si">Rosenberg, Fred &gt;&gt; 15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer's series "Night Gallery".</field>
+-    <field name="heading_ssm">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer's series "Night Gallery".</field>
++    <field name="series_si">Rosenberg, Fred &gt;&gt; 15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer&#39;s series &#34;Night Gallery&#34;.</field>
++    <field name="heading_ssm">15 gelatin silver prints, 11 x 14 in., of Manhattan residents and street scenes at night, from the photographer&#39;s series &#34;Night Gallery&#34;.</field>
+     <field name="unitdate_ssm">[1975]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">151</field>

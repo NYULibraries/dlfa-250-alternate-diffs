@@ -1,0 +1,60 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,23 +13,30 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Transportation&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Transportation
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Transportation&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Transportation</field>
+     <field name="scopecontent_teim">Aeronautics
++
+ Automotive
++
+ Horse-drawn Vehicles
++
+ Mountain Railways
+-Railroads</field>
++
++Railroads
++</field>
+     <field name="scopecontent_teim">Ships
++
+ named, A-G
++
+ named, H-R
++
+ named, S-Z
++
+ groups of ships
+-unidentified ships</field>
++
++unidentified ships
++</field>
+     <field name="scopecontent_teim">Trolley Cars</field>
+     <field name="ref_ssi">aspace_ref358_yo5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -40,14 +47,11 @@
+     <field name="location_ssm">Box: 92-95</field>
+     <field name="location_si">Box: 92-95</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series IV. Subjects</field>
+-    <field name="series_si">Series IV. Subjects &gt;&gt; 
+-      &lt;strong&gt;Transportation&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Transportation
+-    </field>
++    <field name="series_si">Series IV. Subjects &gt;&gt; &lt;strong&gt;Transportation&lt;/strong&gt;</field>
++    <field name="heading_ssm">Transportation</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">447</field>
+   </doc>

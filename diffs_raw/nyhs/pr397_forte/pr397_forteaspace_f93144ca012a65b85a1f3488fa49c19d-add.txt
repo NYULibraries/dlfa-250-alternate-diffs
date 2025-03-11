@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">UMBRELLA</field>
+     <field name="unittitle_teim">UMBRELLA</field>
+     <field name="unitdate_inclusive_teim">1994</field>
+-    <field name="scopecontent_teim">"50th Street between 5th and 6th Avenue."</field>
++    <field name="scopecontent_teim">&#34;50th Street between 5th and 6th Avenue.&#34;</field>
+     <field name="ref_ssi">aspace_f93144ca012a65b85a1f3488fa49c19d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

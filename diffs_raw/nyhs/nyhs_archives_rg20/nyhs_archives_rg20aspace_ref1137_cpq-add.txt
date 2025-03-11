@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 20</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Set 2&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Set 2
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Set 2&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Set 2</field>
+     <field name="ref_ssi">aspace_ref1137_cpq</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,15 +27,12 @@
+     <field name="location_ssm">Box: -, Folder: -</field>
+     <field name="location_si">Box: -, Folder: -</field>
+     <field name="collection_teim">New-York Historical Society Museum Department records</field>
++    <field name="author_teim">Margaret Kaczorowski, Katherine Palm and Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 20</field>
+     <field name="series_sim">Series III. Curatorial and Administration Files</field>
+     <field name="series_sim">Subseries III.A. General Files</field>
+-    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.A. General Files &gt;&gt; 
+-      &lt;strong&gt;Set 2&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Set 2
+-    </field>
++    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.A. General Files &gt;&gt; &lt;strong&gt;Set 2&lt;/strong&gt;</field>
++    <field name="heading_ssm">Set 2</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">547</field>
+   </doc>

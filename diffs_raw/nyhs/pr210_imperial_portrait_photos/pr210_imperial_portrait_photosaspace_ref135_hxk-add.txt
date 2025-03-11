@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Imperial Portrait Photograph File</field>
+     <field name="collection_unitid_ssm">PR 210</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[Committee of the House of Representatives reading Lincoln's Emancipation Proclamation]</field>
+-    <field name="unittitle_teim">[Committee of the House of Representatives reading Lincoln's Emancipation Proclamation]</field>
++    <field name="unittitle_ssm">[Committee of the House of Representatives reading Lincoln&#39;s Emancipation Proclamation]</field>
++    <field name="unittitle_teim">[Committee of the House of Representatives reading Lincoln&#39;s Emancipation Proclamation]</field>
+     <field name="unitdate_teim">1864</field>
+     <field name="ref_ssi">aspace_ref135_hxk</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 5, Folder: 24</field>
+     <field name="location_si">Box: 5, Folder: 24</field>
+     <field name="collection_teim">Imperial Portrait Photograph File</field>
++    <field name="author_teim">Processed by Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 210</field>
+     <field name="series_sim">Series II: Portraits by Alexander Gardner</field>
+     <field name="series_sim">Groups</field>
+-    <field name="series_si">Series II: Portraits by Alexander Gardner &gt;&gt; Groups &gt;&gt; [Committee of the House of Representatives reading Lincoln's Emancipation Proclamation]</field>
+-    <field name="heading_ssm">[Committee of the House of Representatives reading Lincoln's Emancipation Proclamation]</field>
++    <field name="series_si">Series II: Portraits by Alexander Gardner &gt;&gt; Groups &gt;&gt; [Committee of the House of Representatives reading Lincoln&#39;s Emancipation Proclamation]</field>
++    <field name="heading_ssm">[Committee of the House of Representatives reading Lincoln&#39;s Emancipation Proclamation]</field>
+     <field name="unitdate_ssm">1864</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">66</field>

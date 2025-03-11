@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3000_boys_club_ny</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Boys' Club of New York records</field>
+-    <field name="collection_ssm">Boys' Club of New York records</field>
++    <field name="collection_sim">Boys&#39; Club of New York records</field>
++    <field name="collection_ssm">Boys&#39; Club of New York records</field>
+     <field name="collection_unitid_ssm">MS 3000</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Organizational Records</field>
+@@ -15,7 +15,7 @@
+     <field name="scopecontent_teim">Subseries I.1, Governing Documents, contains the legal documents which created and govern BCNY.</field>
+     <field name="scopecontent_teim">Subseries I.2, Board of Trustees, includes minutes of Board of Trustee meetings, as well as office files of individual trustees and executives. </field>
+     <field name="scopecontent_teim">Subseries I.3, Board Committees, includes minutes and files of the various board committees which oversee BCNY operations. </field>
+-    <field name="scopecontent_teim">Subseries I.4, Women's Board, includes minutes and files of that body, which was established in 1968 to manage fund raising benefits.</field>
++    <field name="scopecontent_teim">Subseries I.4, Women&#39;s Board, includes minutes and files of that body, which was established in 1968 to manage fund raising benefits.</field>
+     <field name="ref_ssi">aspace_ref1_fre</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,7 +22,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Boys' Club of New York records</field>
++    <field name="collection_teim">Boys&#39; Club of New York records</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 3000</field>
+     <field name="series_si">Series I: Organizational Records</field>
+     <field name="heading_ssm">Series I: Organizational Records</field>

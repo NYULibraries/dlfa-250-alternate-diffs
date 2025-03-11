@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">[NYC]</field>
+     <field name="unittitle_teim">[NYC]</field>
+     <field name="unitdate_teim">1920s</field>
+-    <field name="scopecontent_teim">The photograph seems to have originally been the possession of Air France and published in their "Tele-Magazine" as noted on the back.</field>
++    <field name="scopecontent_teim">The photograph seems to have originally been the possession of Air France and published in their &#34;Tele-Magazine&#34; as noted on the back.</field>
+     <field name="ref_ssi">aspace_67603f5fa0f7cf8af5d3c5fc37b1e8bc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, item: 6</field>
+     <field name="location_si">Offsite-Box: 1, item: 6</field>
+     <field name="collection_teim">William G. Butler photography collection</field>
++    <field name="author_teim">Sydney Bebon</field>
+     <field name="collection_unitid_teim">PR 425</field>
+     <field name="series_si">[NYC]</field>
+     <field name="heading_ssm">[NYC]</field>

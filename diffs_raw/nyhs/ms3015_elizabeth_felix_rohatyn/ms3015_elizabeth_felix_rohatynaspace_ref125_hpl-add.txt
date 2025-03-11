@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Elizabeth and Felix G. Rohatyn papers</field>
+     <field name="collection_unitid_ssm">MS 3015</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">FGR's Signature (Photocopies)</field>
+-    <field name="unittitle_teim">FGR's Signature (Photocopies)</field>
++    <field name="unittitle_ssm">FGR&#39;s Signature (Photocopies)</field>
++    <field name="unittitle_teim">FGR&#39;s Signature (Photocopies)</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref125_hpl</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 17</field>
+     <field name="collection_teim">Elizabeth and Felix G. Rohatyn papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3015</field>
+     <field name="series_sim">Series I. General Correspondence and Subject Files</field>
+-    <field name="series_si">Series I. General Correspondence and Subject Files &gt;&gt; FGR's Signature (Photocopies)</field>
+-    <field name="heading_ssm">FGR's Signature (Photocopies)</field>
++    <field name="series_si">Series I. General Correspondence and Subject Files &gt;&gt; FGR&#39;s Signature (Photocopies)</field>
++    <field name="heading_ssm">FGR&#39;s Signature (Photocopies)</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">75</field>

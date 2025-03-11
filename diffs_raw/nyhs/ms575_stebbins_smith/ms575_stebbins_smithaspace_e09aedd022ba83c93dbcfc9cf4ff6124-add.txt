@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">W. Stebbins Smith papers</field>
+     <field name="collection_unitid_ssm">MS 575</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Notes on Smith's cases</field>
+-    <field name="unittitle_teim">Notes on Smith's cases</field>
++    <field name="unittitle_ssm">Notes on Smith&#39;s cases</field>
++    <field name="unittitle_teim">Notes on Smith&#39;s cases</field>
+     <field name="unitdate_inclusive_teim">1913-1924</field>
+-    <field name="scopecontent_teim">Volume includes a record of Smith's cases with daily entries of events related to each case.</field>
++    <field name="scopecontent_teim">Volume includes a record of Smith&#39;s cases with daily entries of events related to each case.</field>
+     <field name="ref_ssi">aspace_e09aedd022ba83c93dbcfc9cf4ff6124</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 14, Volume: 1</field>
+     <field name="location_si">Offsite-Box: 14, Volume: 1</field>
+     <field name="collection_teim">W. Stebbins Smith papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 575</field>
+     <field name="series_sim">Series II. Bound Volumes</field>
+-    <field name="series_si">Series II. Bound Volumes &gt;&gt; Notes on Smith's cases</field>
+-    <field name="heading_ssm">Notes on Smith's cases</field>
++    <field name="series_si">Series II. Bound Volumes &gt;&gt; Notes on Smith&#39;s cases</field>
++    <field name="heading_ssm">Notes on Smith&#39;s cases</field>
+     <field name="unitdate_ssm">Inclusive, 1913-1924</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

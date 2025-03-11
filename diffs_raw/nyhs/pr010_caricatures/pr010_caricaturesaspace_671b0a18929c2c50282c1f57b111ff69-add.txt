@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,15 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Snake coiled around skyscrapers with the words "Traffic Jams" on its body</field>
+-    <field name="unittitle_teim">Snake coiled around skyscrapers with the words "Traffic Jams" on its body</field>
++    <field name="unittitle_ssm">Snake coiled around skyscrapers with the words &#34;Traffic Jams&#34; on its body</field>
++    <field name="unittitle_teim">Snake coiled around skyscrapers with the words &#34;Traffic Jams&#34; on its body</field>
+     <field name="unitdate_inclusive_teim">circa 1958</field>
+-    <field name="scopecontent_teim">[text, center] The City's Industrial Life
++    <field name="scopecontent_teim">[text, center] The City&#39;s Industrial Life
++
+ [text, bottom] The Constrictor
+ 
++
++
+ Drawn by C. D. Batchelor (1888-1977) for the New York Daily News. Gift of the artist, 1958.</field>
+     <field name="ref_ssi">aspace_671b0a18929c2c50282c1f57b111ff69</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -29,10 +32,11 @@
+     <field name="location_ssm">Folder: FF-156, item: 1958-4</field>
+     <field name="location_si">Folder: FF-156, item: 1958-4</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; Snake coiled around skyscrapers with the words "Traffic Jams" on its body</field>
+-    <field name="heading_ssm">Snake coiled around skyscrapers with the words "Traffic Jams" on its body</field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; Snake coiled around skyscrapers with the words &#34;Traffic Jams&#34; on its body</field>
++    <field name="heading_ssm">Snake coiled around skyscrapers with the words &#34;Traffic Jams&#34; on its body</field>
+     <field name="unitdate_ssm">Inclusive, circa 1958</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1327</field>

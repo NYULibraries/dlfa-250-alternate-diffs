@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Unidentified Ships</field>
+     <field name="unittitle_teim">Unidentified Ships</field>
+-    <field name="scopecontent_teim">This file contains clippings from periodicals, photographs and Nathaniel Currier's lithograph U.S. Ship of the Line in a Gale.</field>
++    <field name="scopecontent_teim">This file contains clippings from periodicals, photographs and Nathaniel Currier&#39;s lithograph U.S. Ship of the Line in a Gale.</field>
+     <field name="ref_ssi">aspace_ref500_xyv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: Flat File, Folder: FF 40</field>
+     <field name="location_si">Box: Flat File, Folder: FF 40</field>
+     <field name="collection_teim">Maritime History Collection</field>
++    <field name="author_teim">Kelly McAnnaney; finding aid updated and expanded by Eva Gretta, 2015</field>
+     <field name="collection_unitid_teim">PR 100</field>
+     <field name="series_sim">Series II.  Medium Format Flat Files </field>
+     <field name="series_sim">Subseries II.3: Naval Vessles</field>

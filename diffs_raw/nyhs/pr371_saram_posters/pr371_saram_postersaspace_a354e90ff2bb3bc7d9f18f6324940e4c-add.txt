@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Carole De Saram collection of posters</field>
+     <field name="collection_unitid_ssm">PR 371</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Harry Potter and the Sorcerer's Stone&lt;/em&gt; Movie Poster</field>
+-    <field name="unittitle_teim">Harry Potter and the Sorcerer's Stone Movie Poster</field>
++    <field name="unittitle_ssm">&lt;em&gt;Harry Potter and the Sorcerer&#39;s Stone&lt;/em&gt; Movie Poster</field>
++    <field name="unittitle_teim">Harry Potter and the Sorcerer&#39;s Stone Movie Poster</field>
+     <field name="unitdate_teim">2001</field>
+     <field name="ref_ssi">aspace_a354e90ff2bb3bc7d9f18f6324940e4c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Folder: Flat File, Folder: 5</field>
+     <field name="location_si">Folder: Flat File, Folder: 5</field>
+     <field name="collection_teim">Carole De Saram collection of posters</field>
++    <field name="author_teim">Zora Arum and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 371</field>
+-    <field name="series_si">&lt;em&gt;Harry Potter and the Sorcerer's Stone&lt;/em&gt; Movie Poster</field>
+-    <field name="heading_ssm">Harry Potter and the Sorcerer's Stone Movie Poster</field>
++    <field name="series_si">&lt;em&gt;Harry Potter and the Sorcerer&#39;s Stone&lt;/em&gt; Movie Poster</field>
++    <field name="heading_ssm">Harry Potter and the Sorcerer&#39;s Stone Movie Poster</field>
+     <field name="unitdate_ssm">2001</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">27</field>

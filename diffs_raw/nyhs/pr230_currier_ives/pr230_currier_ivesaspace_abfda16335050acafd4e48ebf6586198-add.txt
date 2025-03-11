@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of Currier &amp; Ives prints</field>
+     <field name="collection_unitid_ssm">PR 230</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"My Little White Kitties Playing Dominoes"</field>
+-    <field name="unittitle_teim">"My Little White Kitties Playing Dominoes"</field>
++    <field name="unittitle_ssm">&#34;My Little White Kitties Playing Dominoes&#34;</field>
++    <field name="unittitle_teim">&#34;My Little White Kitties Playing Dominoes&#34;</field>
+     <field name="unitdate_inclusive_teim">circa 1872-1874</field>
+     <field name="ref_ssi">aspace_abfda16335050acafd4e48ebf6586198</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Folder: FF7</field>
+     <field name="location_si">Folder: FF7</field>
+     <field name="collection_teim">New-York Historical Society collection of Currier &amp; Ives prints</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 230</field>
+-    <field name="series_si">"My Little White Kitties Playing Dominoes"</field>
+-    <field name="heading_ssm">"My Little White Kitties Playing Dominoes"</field>
++    <field name="series_si">&#34;My Little White Kitties Playing Dominoes&#34;</field>
++    <field name="heading_ssm">&#34;My Little White Kitties Playing Dominoes&#34;</field>
+     <field name="unitdate_ssm">Inclusive, circa 1872-1874</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

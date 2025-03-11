@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Letters from &lt;strong&gt;Peter G. Stuyvesant&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Letters from Peter G. Stuyvesant</field>
+     <field name="unitdate_teim">1841-1847</field>
+-    <field name="scopecontent_teim">Letters and some papers from New York City, mostly concerning the controversy surrounding the opening of Stuyvesant Square. Peter G. Stuyvesant (1778-1847) was the maternal uncle of George Folsom's wife, Margaret Cornelia (Winthrop) Folsom.</field>
++    <field name="scopecontent_teim">Letters and some papers from New York City, mostly concerning the controversy surrounding the opening of Stuyvesant Square. Peter G. Stuyvesant (1778-1847) was the maternal uncle of George Folsom&#39;s wife, Margaret Cornelia (Winthrop) Folsom.</field>
+     <field name="ref_ssi">aspace_ref50_meh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 5</field>
+     <field name="location_si">Box: 4, Folder: 5</field>
+     <field name="collection_teim">George Folsom papers</field>
++    <field name="author_teim">Joseph Ditta (2017, 2018)</field>
+     <field name="collection_unitid_teim">MS 222</field>
+     <field name="series_sim">Box 4: Letters, 1841-1845 (March)</field>
+     <field name="series_si">Box 4: Letters, 1841-1845 (March) &gt;&gt; Letters from &lt;strong&gt;Peter G. Stuyvesant&lt;/strong&gt;</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">PEOPLE - WOMEN</field>
+     <field name="unittitle_teim">PEOPLE - WOMEN</field>
+-    <field name="scopecontent_teim">The category of Women consists mainly suffrage-era photography. Many of these photos were used bythe New York State Women's Suffrage Party for publicity purposes. Views include parades, voter registrations (some organized by the League of Women Voters), and two women flying an airplane.</field>
++    <field name="scopecontent_teim">The category of Women consists mainly suffrage-era photography. Many of these photos were used bythe New York State Women&#39;s Suffrage Party for publicity purposes. Views include parades, voter registrations (some organized by the League of Women Voters), and two women flying an airplane.</field>
+     <field name="ref_ssi">aspace_ref215_71u</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+     <field name="collection_teim">Subject File</field>
++    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+     <field name="collection_unitid_teim">PR 68</field>
+     <field name="series_sim">Series I: Boxed Files</field>
+     <field name="series_si">Series I: Boxed Files &gt;&gt; PEOPLE - WOMEN</field>

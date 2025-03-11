@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,12 @@
+     <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Press: United States: &lt;em&gt;Ladies' Home Journal&lt;/em&gt;-&lt;em&gt;Life&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Press: United States: Ladies' Home Journal-Life</field>
++    <field name="unittitle_ssm">Press: United States: &lt;em&gt;Ladies&#39; Home Journal&lt;/em&gt;-&lt;em&gt;Life&lt;/em&gt;</field>
++    <field name="unittitle_teim">Press: United States: Ladies&#39; Home Journal-Life</field>
+     <field name="unitdate_inclusive_teim">1930-1993</field>
+-    <field name="title_teim">Ladies' Home Journal</field>
++    <field name="title_teim">Ladies&#39; Home Journal</field>
+     <field name="title_teim">Life</field>
+-    <field name="title_ssm">Ladies' Home Journal</field>
++    <field name="title_ssm">Ladies&#39; Home Journal</field>
+     <field name="title_ssm">Life</field>
+     <field name="ref_ssi">aspace_bfd56f9a610fa26e58474830b9f3befe</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Offsite-Box: 2310, Folder: 1-32</field>
+     <field name="location_si">Offsite-Box: 2310, Folder: 1-32</field>
+     <field name="collection_teim">Time Inc. Time Research Center Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 13</field>
+     <field name="series_sim">Series III. Subject Files</field>
+     <field name="series_sim">Press</field>
+-    <field name="series_si">Series III. Subject Files &gt;&gt; Press &gt;&gt; Press: United States: &lt;em&gt;Ladies' Home Journal&lt;/em&gt;-&lt;em&gt;Life&lt;/em&gt;</field>
+-    <field name="heading_ssm">Press: United States: Ladies' Home Journal-Life</field>
++    <field name="series_si">Series III. Subject Files &gt;&gt; Press &gt;&gt; Press: United States: &lt;em&gt;Ladies&#39; Home Journal&lt;/em&gt;-&lt;em&gt;Life&lt;/em&gt;</field>
++    <field name="heading_ssm">Press: United States: Ladies&#39; Home Journal-Life</field>
+     <field name="unitdate_ssm">Inclusive, 1930-1993</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6793</field>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">McKinsey &amp;amp; Co. Project</field>
++    <field name="unittitle_ssm">McKinsey &amp; Co. Project</field>
+     <field name="unittitle_teim">McKinsey &amp; Co. Project</field>
+     <field name="unitdate_normal_ssm">1983/1983</field>
+     <field name="unitdate_normal_teim">1983/1983</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Offsite-Box: 1335, Folder: 20</field>
+     <field name="location_si">Offsite-Box: 1335, Folder: 20</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series II.D. Editorial Director Ray Cave Files</field>
+     <field name="series_sim">Subseries II.D.4. Subject Files</field>
+-    <field name="series_si">Series II.D. Editorial Director Ray Cave Files &gt;&gt; Subseries II.D.4. Subject Files &gt;&gt; McKinsey &amp;amp; Co. Project</field>
++    <field name="series_si">Series II.D. Editorial Director Ray Cave Files &gt;&gt; Subseries II.D.4. Subject Files &gt;&gt; McKinsey &amp; Co. Project</field>
+     <field name="heading_ssm">McKinsey &amp; Co. Project</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>

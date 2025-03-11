@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Robert L. Bracklow photograph collection</field>
+     <field name="collection_unitid_ssm">PR 8</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Claremont and Grant's Tomb from river [Manhattan (New York, N.Y.)]</field>
+-    <field name="unittitle_teim">Claremont and Grant's Tomb from river [Manhattan (New York, N.Y.)]</field>
++    <field name="unittitle_ssm">Claremont and Grant&#39;s Tomb from river [Manhattan (New York, N.Y.)]</field>
++    <field name="unittitle_teim">Claremont and Grant&#39;s Tomb from river [Manhattan (New York, N.Y.)]</field>
+     <field name="ref_ssi">aspace_ref7344_nhf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">item: 2165</field>
+     <field name="location_si">item: 2165</field>
+     <field name="collection_teim">Robert L. Bracklow photograph collection</field>
++    <field name="author_teim">Jenny Gotwals, 2003; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 8</field>
+     <field name="series_sim">Series I: Alland Purchase</field>
+     <field name="series_sim">Subseries I.1: Alland Purchase: Negatives</field>
+-    <field name="series_si">Series I: Alland Purchase &gt;&gt; Subseries I.1: Alland Purchase: Negatives &gt;&gt; Claremont and Grant's Tomb from river [Manhattan (New York, N.Y.)]</field>
+-    <field name="heading_ssm">Claremont and Grant's Tomb from river [Manhattan (New York, N.Y.)]</field>
++    <field name="series_si">Series I: Alland Purchase &gt;&gt; Subseries I.1: Alland Purchase: Negatives &gt;&gt; Claremont and Grant&#39;s Tomb from river [Manhattan (New York, N.Y.)]</field>
++    <field name="heading_ssm">Claremont and Grant&#39;s Tomb from river [Manhattan (New York, N.Y.)]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1701</field>
+   </doc>

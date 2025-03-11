@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">June Rovenger Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Views from Rovenger's Commerce Street apartment (color)</field>
+-    <field name="unittitle_teim">Views from Rovenger's Commerce Street apartment (color)</field>
++    <field name="unittitle_ssm">Views from Rovenger&#39;s Commerce Street apartment (color)</field>
++    <field name="unittitle_teim">Views from Rovenger&#39;s Commerce Street apartment (color)</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref9_rkb</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">June Rovenger Photograph Collection</field>
++    <field name="author_teim">Susan Kriete.  Machine readable finding aid created by Susan Kriete.</field>
+     <field name="collection_unitid_teim">PR 291</field>
+     <field name="series_sim">Series I: Photographic prints (8 x 10 inches and smaller), contact sheets and negatives</field>
+-    <field name="series_si">Series I: Photographic prints (8 x 10 inches and smaller), contact sheets and negatives &gt;&gt; Views from Rovenger's Commerce Street apartment (color)</field>
+-    <field name="heading_ssm">Views from Rovenger's Commerce Street apartment (color)</field>
++    <field name="series_si">Series I: Photographic prints (8 x 10 inches and smaller), contact sheets and negatives &gt;&gt; Views from Rovenger&#39;s Commerce Street apartment (color)</field>
++    <field name="heading_ssm">Views from Rovenger&#39;s Commerce Street apartment (color)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

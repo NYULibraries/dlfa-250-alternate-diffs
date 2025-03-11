@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series III - Reports</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Children's Aid Society records</field>
+-    <field name="collection_ssm">Children's Aid Society records</field>
++    <field name="collection_sim">Children&#39;s Aid Society records</field>
++    <field name="collection_ssm">Children&#39;s Aid Society records</field>
+     <field name="collection_unitid_ssm">MS 111</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries III.6 - Reports by the State Charities Aid Association</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1898/1906</field>
+     <field name="unitdate_normal_sim">1898/1906</field>
+     <field name="unitdate_inclusive_teim">1898-1906</field>
+-    <field name="scopecontent_teim">Subseries III.6 contains reports 1898-1906 and one folder of luncheon speeches (1928) from the State Charities Aid Association, a child placing agency originally unconnected to the Children's Aid Society which merged into the CAS Adoption Services Department in 1965. The SCAA items in this subseries were transferred to CAS after the 1965 merger and were kept by CAS. The remaining files of the SCAA may have been lost or discarded. The reports in this subseries reflect the work of an agency similar in mission to the CAS, which later became part of the CAS.</field>
++    <field name="scopecontent_teim">Subseries III.6 contains reports 1898-1906 and one folder of luncheon speeches (1928) from the State Charities Aid Association, a child placing agency originally unconnected to the Children&#39;s Aid Society which merged into the CAS Adoption Services Department in 1965. The SCAA items in this subseries were transferred to CAS after the 1965 merger and were kept by CAS. The remaining files of the SCAA may have been lost or discarded. The reports in this subseries reflect the work of an agency similar in mission to the CAS, which later became part of the CAS.</field>
+     <field name="ref_ssi">aspace_ref26_wa0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,7 +26,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Children's Aid Society records</field>
++    <field name="collection_teim">Children&#39;s Aid Society records</field>
++    <field name="author_teim">Cherie Acierno and Alegria Barclay (2009), Larry Weimer (2018-19)</field>
+     <field name="collection_unitid_teim">MS 111</field>
+     <field name="series_sim">Series III - Reports</field>
+     <field name="series_si">Series III - Reports &gt;&gt; Subseries III.6 - Reports by the State Charities Aid Association</field>

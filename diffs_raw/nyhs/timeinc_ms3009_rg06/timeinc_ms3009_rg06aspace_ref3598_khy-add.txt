@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1984: June 27: Lincoln Center: Remarks at &lt;em&gt;People&lt;/em&gt;'s Tenth Anniversary Party</field>
+-    <field name="unittitle_teim">1984: June 27: Lincoln Center: Remarks at People's Tenth Anniversary Party</field>
++    <field name="unittitle_ssm">1984: June 27: Lincoln Center: Remarks at &lt;em&gt;People&lt;/em&gt;&#39;s Tenth Anniversary Party</field>
++    <field name="unittitle_teim">1984: June 27: Lincoln Center: Remarks at People&#39;s Tenth Anniversary Party</field>
+     <field name="unitdate_normal_ssm">1984/1984</field>
+     <field name="unitdate_normal_teim">1984/1984</field>
+     <field name="unitdate_normal_sim">1984/1984</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Offsite-Box: 1048, Folder: 30</field>
+     <field name="location_si">Offsite-Box: 1048, Folder: 30</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.6. Speeches</field>
+-    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.6. Speeches &gt;&gt; 1984: June 27: Lincoln Center: Remarks at &lt;em&gt;People&lt;/em&gt;'s Tenth Anniversary Party</field>
+-    <field name="heading_ssm">1984: June 27: Lincoln Center: Remarks at People's Tenth Anniversary Party</field>
++    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.6. Speeches &gt;&gt; 1984: June 27: Lincoln Center: Remarks at &lt;em&gt;People&lt;/em&gt;&#39;s Tenth Anniversary Party</field>
++    <field name="heading_ssm">1984: June 27: Lincoln Center: Remarks at People&#39;s Tenth Anniversary Party</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

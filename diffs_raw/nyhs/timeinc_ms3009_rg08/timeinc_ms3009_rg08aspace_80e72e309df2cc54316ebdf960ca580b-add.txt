@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Fortune Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 8</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1982 Sept. 6 Issue: Reagan's Economic Team [RESTRICTED]</field>
+-    <field name="unittitle_teim">1982 Sept. 6 Issue: Reagan's Economic Team [RESTRICTED]</field>
++    <field name="unittitle_ssm">1982 Sept. 6 Issue: Reagan&#39;s Economic Team [RESTRICTED]</field>
++    <field name="unittitle_teim">1982 Sept. 6 Issue: Reagan&#39;s Economic Team [RESTRICTED]</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_80e72e309df2cc54316ebdf960ca580b</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: R42</field>
+     <field name="location_si">Offsite-Box: R42</field>
+     <field name="collection_teim">Time Inc. Fortune Editorial Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 8</field>
+     <field name="series_sim">Series III. Art Department Files</field>
+-    <field name="series_si">Series III. Art Department Files &gt;&gt; 1982 Sept. 6 Issue: Reagan's Economic Team [RESTRICTED]</field>
+-    <field name="heading_ssm">1982 Sept. 6 Issue: Reagan's Economic Team [RESTRICTED]</field>
++    <field name="series_si">Series III. Art Department Files &gt;&gt; 1982 Sept. 6 Issue: Reagan&#39;s Economic Team [RESTRICTED]</field>
++    <field name="heading_ssm">1982 Sept. 6 Issue: Reagan&#39;s Economic Team [RESTRICTED]</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">172</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">William Beekman, Deceased October 8, 1795, Estate Book</field>
+     <field name="unittitle_teim">William Beekman, Deceased October 8, 1795, Estate Book</field>
+     <field name="unitdate_teim">1803-1812</field>
+-    <field name="scopecontent_teim">Description of contents in White's guide, Volume 2, P. 310.</field>
++    <field name="scopecontent_teim">Description of contents in White&#39;s guide, Volume 2, P. 310.</field>
+     <field name="ref_ssi">aspace_ref579_n67</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 35(B), Folder: 14</field>
+     <field name="location_si">Box: 35(B), Folder: 14</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 35(B), Estate Papers</field>
+     <field name="series_si">Box 35(B), Estate Papers &gt;&gt; William Beekman, Deceased October 8, 1795, Estate Book</field>

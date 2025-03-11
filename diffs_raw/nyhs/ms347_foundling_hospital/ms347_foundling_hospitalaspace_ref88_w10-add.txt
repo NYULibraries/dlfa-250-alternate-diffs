@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Administrator's Reports to the Board of Managers</field>
+-    <field name="unittitle_teim">Administrator's Reports to the Board of Managers</field>
++    <field name="unittitle_ssm">Administrator&#39;s Reports to the Board of Managers</field>
++    <field name="unittitle_teim">Administrator&#39;s Reports to the Board of Managers</field>
+     <field name="unitdate_normal_ssm">1961/1961</field>
+     <field name="unitdate_normal_teim">1961/1961</field>
+     <field name="unitdate_normal_sim">1961/1961</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 1</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series I. Minutes of the Board of Trustees/Managers, and Related Materials, 1869-1978</field>
+-    <field name="series_si">Series I. Minutes of the Board of Trustees/Managers, and Related Materials, 1869-1978 &gt;&gt; Administrator's Reports to the Board of Managers</field>
+-    <field name="heading_ssm">Administrator's Reports to the Board of Managers</field>
++    <field name="series_si">Series I. Minutes of the Board of Trustees/Managers, and Related Materials, 1869-1978 &gt;&gt; Administrator&#39;s Reports to the Board of Managers</field>
++    <field name="heading_ssm">Administrator&#39;s Reports to the Board of Managers</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

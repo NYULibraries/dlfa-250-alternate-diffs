@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Southern Tombstones; An Inside View of "Dixie" Taken by our "Special Artist" after the Rebellion. [Defeat of the Confederacy]</field>
+-    <field name="unittitle_teim">Southern Tombstones; An Inside View of "Dixie" Taken by our "Special Artist" after the Rebellion. [Defeat of the Confederacy]</field>
++    <field name="unittitle_ssm">Southern Tombstones; An Inside View of &#34;Dixie&#34; Taken by our &#34;Special Artist&#34; after the Rebellion. [Defeat of the Confederacy]</field>
++    <field name="unittitle_teim">Southern Tombstones; An Inside View of &#34;Dixie&#34; Taken by our &#34;Special Artist&#34; after the Rebellion. [Defeat of the Confederacy]</field>
+     <field name="unitdate_teim">1865</field>
+     <field name="scopecontent_teim">Lithograph: No imprint. Acquisition(?) date on front: Dec 6, 1906.</field>
+     <field name="ref_ssi">aspace_7d5cc58c0d65cc2a40c6a8c7f2fc22c3</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-90, item: 1865-17</field>
+     <field name="location_si">Folder: FF-90, item: 1865-17</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Southern Tombstones; An Inside View of "Dixie" Taken by our "Special Artist" after the Rebellion. [Defeat of the Confederacy]</field>
+-    <field name="heading_ssm">Southern Tombstones; An Inside View of "Dixie" Taken by our "Special Artist" after the Rebellion. [Defeat of the Confederacy]</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; Southern Tombstones; An Inside View of &#34;Dixie&#34; Taken by our &#34;Special Artist&#34; after the Rebellion. [Defeat of the Confederacy]</field>
++    <field name="heading_ssm">Southern Tombstones; An Inside View of &#34;Dixie&#34; Taken by our &#34;Special Artist&#34; after the Rebellion. [Defeat of the Confederacy]</field>
+     <field name="unitdate_ssm">1865</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">899</field>

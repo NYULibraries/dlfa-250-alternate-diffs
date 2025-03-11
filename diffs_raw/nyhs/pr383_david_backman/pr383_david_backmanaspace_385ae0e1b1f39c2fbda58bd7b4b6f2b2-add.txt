@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Joyner, Jackie</field>
+     <field name="unittitle_teim">Joyner, Jackie</field>
+     <field name="unitdate_inclusive_teim">1989</field>
+-    <field name="scopecontent_teim">also know as Jackie Joyner-Kersee. Photo with the staff of a McDonald's restaurant.</field>
++    <field name="scopecontent_teim">also know as Jackie Joyner-Kersee. Photo with the staff of a McDonald&#39;s restaurant.</field>
+     <field name="ref_ssi">aspace_385ae0e1b1f39c2fbda58bd7b4b6f2b2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 2</field>
+     <field name="collection_teim">David Backman collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 383</field>
+     <field name="series_sim">Series I: Photographs by Ken Regan</field>
+     <field name="series_si">Series I: Photographs by Ken Regan &gt;&gt; Joyner, Jackie</field>

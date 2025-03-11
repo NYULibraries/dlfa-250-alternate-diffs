@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Long Range Plans</field>
+     <field name="unittitle_teim">Long Range Plans</field>
+     <field name="unitdate_teim">1960s-1990s</field>
+-    <field name="scopecontent_teim">Includes, among other documents,  an original of the Master Plan Committee's Long Range Plan for 1983-1992.</field>
++    <field name="scopecontent_teim">Includes, among other documents,  an original of the Master Plan Committee&#39;s Long Range Plan for 1983-1992.</field>
+     <field name="ref_ssi">aspace_ref449_awf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 61, Folder: 20</field>
+     <field name="location_si">Offsite-Box: 61, Folder: 20</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.D. Archives Files</field>
+-    <field name="series_si">Series II. Library &amp;amp; Archives Files &gt;&gt; Subseries II.D. Archives Files &gt;&gt; Long Range Plans</field>
++    <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.D. Archives Files &gt;&gt; Long Range Plans</field>
+     <field name="heading_ssm">Long Range Plans</field>
+     <field name="unitdate_ssm">1960s-1990s</field>
+     <field name="date_range_sim">undated &amp; other</field>

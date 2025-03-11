@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">New York--Thousand Islands</field>
+     <field name="unitdate_inclusive_teim">[1870-1885]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0597</field>
+-    <field name="scopecontent_teim">Views in Thousand Islands: islands and the Saint Lawrence River; general view of Alexandria Bay; summer houses in the park; hotels and cottages with guests out front; balloon ready for ascension by H.D. Squire, in front of Thousand Island House; summer houses; a bridge on Sport Island; steam yachts and other boats; steamboat at Thousand Island Park dock; group portraits including group of young African Americans (students?) and a white family; partridge in a nest; King bird's nest with eggs.</field>
++    <field name="scopecontent_teim">Views in Thousand Islands: islands and the Saint Lawrence River; general view of Alexandria Bay; summer houses in the park; hotels and cottages with guests out front; balloon ready for ascension by H.D. Squire, in front of Thousand Island House; summer houses; a bridge on Sport Island; steam yachts and other boats; steamboat at Thousand Island Park dock; group portraits including group of young African Americans (students?) and a white family; partridge in a nest; King bird&#39;s nest with eggs.</field>
+     <field name="scopecontent_teim">37 items</field>
+     <field name="ref_ssi">aspace_ref611_wuy</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 52</field>
+     <field name="location_si">Box: 52</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York--Thousand Islands</field>

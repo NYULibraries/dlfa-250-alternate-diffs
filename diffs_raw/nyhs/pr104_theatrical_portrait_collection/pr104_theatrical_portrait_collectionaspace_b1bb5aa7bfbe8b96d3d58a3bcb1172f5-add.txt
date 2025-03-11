@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,21 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (medium) "L"</field>
+-    <field name="unittitle_teim">Individuals (medium) "L"</field>
++    <field name="unittitle_ssm">Individuals (medium) &#34;L&#34;</field>
++    <field name="unittitle_teim">Individuals (medium) &#34;L&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Lackaye, Wilton
++
+ Lauder, Sir Harry (2 images)
++
+ Langtry, Lillie (2 images)
++
+ Lecomte
++
+ Lewis, James
++
+ Lind, Jenny (separate folder; 74 images)
++
+ Little Mac</field>
+     <field name="ref_ssi">aspace_b1bb5aa7bfbe8b96d3d58a3bcb1172f5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,11 +41,12 @@
+     <field name="location_ssm">drawer: Medium</field>
+     <field name="location_si">drawer: Medium</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.B. Individuals (medium format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) "L"</field>
+-    <field name="heading_ssm">Individuals (medium) "L"</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) &#34;L&#34;</field>
++    <field name="heading_ssm">Individuals (medium) &#34;L&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">62</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Darktown Fire Brigade. The Chief, On Duty.  "Lite up dem hose dar - yous heah me!" [African-Americans]</field>
+-    <field name="unittitle_teim">Darktown Fire Brigade. The Chief, On Duty.  "Lite up dem hose dar - yous heah me!" [African-Americans]</field>
++    <field name="unittitle_ssm">Darktown Fire Brigade. The Chief, On Duty.  &#34;Lite up dem hose dar - yous heah me!&#34; [African-Americans]</field>
++    <field name="unittitle_teim">Darktown Fire Brigade. The Chief, On Duty.  &#34;Lite up dem hose dar - yous heah me!&#34; [African-Americans]</field>
+     <field name="unitdate_teim">1885</field>
+-    <field name="scopecontent_teim">Lithograph, colored: Published by Currier &amp; Ives. Printed note on back: "The James D. Wilbur Fund Purchase May 2, 1941". Acquisition: Purchase, The James D. Wilbur Fund, May 2, 1941.</field>
++    <field name="scopecontent_teim">Lithograph, colored: Published by Currier &amp; Ives. Printed note on back: &#34;The James D. Wilbur Fund Purchase May 2, 1941&#34;. Acquisition: Purchase, The James D. Wilbur Fund, May 2, 1941.</field>
+     <field name="ref_ssi">aspace_0567ccfa9e6b58dbf922a2921a2fb131</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-114, item: 1885-2</field>
+     <field name="location_si">Folder: FF-114, item: 1885-2</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Darktown Fire Brigade. The Chief, On Duty.  "Lite up dem hose dar - yous heah me!" [African-Americans]</field>
+-    <field name="heading_ssm">Darktown Fire Brigade. The Chief, On Duty.  "Lite up dem hose dar - yous heah me!" [African-Americans]</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Darktown Fire Brigade. The Chief, On Duty.  &#34;Lite up dem hose dar - yous heah me!&#34; [African-Americans]</field>
++    <field name="heading_ssm">Darktown Fire Brigade. The Chief, On Duty.  &#34;Lite up dem hose dar - yous heah me!&#34; [African-Americans]</field>
+     <field name="unitdate_ssm">1885</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1116</field>

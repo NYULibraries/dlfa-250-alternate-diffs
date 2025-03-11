@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooke Astor papers</field>
+     <field name="collection_unitid_ssm">MS 3157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photograph album [5]. Presidential Citizen's Award</field>
+-    <field name="unittitle_teim">Photograph album [5]. Presidential Citizen's Award</field>
++    <field name="unittitle_ssm">Photograph album [5]. Presidential Citizen&#39;s Award</field>
++    <field name="unittitle_teim">Photograph album [5]. Presidential Citizen&#39;s Award</field>
+     <field name="unitdate_inclusive_teim">1988</field>
+     <field name="scopecontent_teim">Photographs from the presentation of the award to Brooke Astor by Ronald Reagan and from the following reception, at the White House.</field>
+     <field name="ref_ssi">aspace_07dba36cdc1c933a1ace5f10fa980f47</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 4</field>
+     <field name="location_si">Offsite-Box: 4</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series IV. Photographs</field>
+-    <field name="series_si">Series IV. Photographs &gt;&gt; Photograph album [5]. Presidential Citizen's Award</field>
+-    <field name="heading_ssm">Photograph album [5]. Presidential Citizen's Award</field>
++    <field name="series_si">Series IV. Photographs &gt;&gt; Photograph album [5]. Presidential Citizen&#39;s Award</field>
++    <field name="heading_ssm">Photograph album [5]. Presidential Citizen&#39;s Award</field>
+     <field name="unitdate_ssm">Inclusive, 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">113</field>

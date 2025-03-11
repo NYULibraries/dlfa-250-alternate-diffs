@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Photograph Album.</field>
+     <field name="unittitle_teim">Photograph Album.</field>
+     <field name="unitdate_teim">1958</field>
+-    <field name="scopecontent_teim">Album embossed with Irving S. Olds's name for "An Exhibition of Painted Trays and Old Colored Prints by Evelyn Foster Olds at The Peabody Museum, Salem, Mass., January 2 to March 8, 1958." With photographs of exhibits and related labels.</field>
++    <field name="scopecontent_teim">Album embossed with Irving S. Olds&#39;s name for &#34;An Exhibition of Painted Trays and Old Colored Prints by Evelyn Foster Olds at The Peabody Museum, Salem, Mass., January 2 to March 8, 1958.&#34; With photographs of exhibits and related labels.</field>
+     <field name="ref_ssi">aspace_0921c5334130fbfc9f8f592193b14635</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 7, Folder: 1</field>
+     <field name="location_si">Box: 7, Folder: 1</field>
+     <field name="collection_teim">Irving S. Olds collection of naval and other historical prints and related papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 47</field>
+     <field name="series_sim">Series I. Prints &amp;amp; Related Papers from the Original Olds Donation</field>
+     <field name="series_sim">Subseries I.B. Papers Related to the Collection</field>
+-    <field name="series_si">Series I. Prints &amp;amp; Related Papers from the Original Olds Donation &gt;&gt; Subseries I.B. Papers Related to the Collection &gt;&gt; Photograph Album.</field>
++    <field name="series_si">Series I. Prints &amp; Related Papers from the Original Olds Donation &gt;&gt; Subseries I.B. Papers Related to the Collection &gt;&gt; Photograph Album.</field>
+     <field name="heading_ssm">Photograph Album.</field>
+     <field name="unitdate_ssm">1958</field>
+     <field name="date_range_sim">undated &amp; other</field>

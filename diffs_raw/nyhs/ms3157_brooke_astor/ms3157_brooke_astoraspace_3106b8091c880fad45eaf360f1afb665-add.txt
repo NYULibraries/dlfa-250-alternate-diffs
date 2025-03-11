@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Genealogical and family history notes</field>
+     <field name="unittitle_teim">Genealogical and family history notes</field>
+     <field name="unitdate_inclusive_teim">1943, 1982, undated</field>
+-    <field name="scopecontent_teim">The principal document is a notebook prepared by Brooke Astor (then Brooke Marshall) for her son, Anthony Marshall, in 1943. Includes a family tree on Brooke's maternal side, with transcribed notes about ancestors, the Carroll family and Robert Traill Spence. Also undated notes on the origin of the name Astor prepared by genealogist Henry Dudley Teeter, and a booklet "The History of Astor on the St. Johns, Astor Park" compiled by A. Wass de Czege (1982).</field>
++    <field name="scopecontent_teim">The principal document is a notebook prepared by Brooke Astor (then Brooke Marshall) for her son, Anthony Marshall, in 1943. Includes a family tree on Brooke&#39;s maternal side, with transcribed notes about ancestors, the Carroll family and Robert Traill Spence. Also undated notes on the origin of the name Astor prepared by genealogist Henry Dudley Teeter, and a booklet &#34;The History of Astor on the St. Johns, Astor Park&#34; compiled by A. Wass de Czege (1982).</field>
+     <field name="ref_ssi">aspace_3106b8091c880fad45eaf360f1afb665</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series I. Family Papers</field>
+     <field name="series_si">Series I. Family Papers &gt;&gt; Genealogical and family history notes</field>

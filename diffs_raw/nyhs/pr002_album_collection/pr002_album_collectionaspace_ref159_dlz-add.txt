@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1870/1879</field>
+     <field name="unitdate_normal_sim">1870/1879</field>
+     <field name="unitdate_inclusive_teim">[1870-1879]</field>
+-    <field name="scopecontent_teim">Cartes-de visite, including portraits of men and women, a copy of a portrait of Robert Burns; "Grip," the raven of Barnaby Rudge; copy of a print showing a Church in England; a dancer; S.M. Acker, London.</field>
++    <field name="scopecontent_teim">Cartes-de visite, including portraits of men and women, a copy of a portrait of Robert Burns; &#34;Grip,&#34; the raven of Barnaby Rudge; copy of a print showing a Church in England; a dancer; S.M. Acker, London.</field>
+     <field name="ref_ssi">aspace_ref159_dlz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Volume: 50</field>
+     <field name="location_si">Offsite-Box: 4, Volume: 50</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[Acker Album]</field>
+     <field name="heading_ssm">[Acker Album]</field>

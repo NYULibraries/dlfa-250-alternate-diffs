@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,16 +13,12 @@
+     <field name="collection_ssm">Erving-King Family papers</field>
+     <field name="collection_unitid_ssm">MS 204</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The Traveller's Directory...from Philadelphia to New York....&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The Traveller's Directory...from Philadelphia to New York....
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Traveller&#39;s Directory...from Philadelphia to New York....&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Traveller&#39;s Directory...from Philadelphia to New York....</field>
+     <field name="unitdate_teim">1804</field>
+     <field name="phystech_teim">1 volume</field>
+-    <field name="title_teim">The Traveller's Directory...from Philadelphia to New York....</field>
+-    <field name="title_ssm">The Traveller's Directory...from Philadelphia to New York....</field>
++    <field name="title_teim">The Traveller&#39;s Directory...from Philadelphia to New York....</field>
++    <field name="title_ssm">The Traveller&#39;s Directory...from Philadelphia to New York....</field>
+     <field name="ref_ssi">aspace_ref300_l1s</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,14 +28,11 @@
+     <field name="location_ssm">Box: 24, Folder: K54-B</field>
+     <field name="location_si">Box: 24, Folder: K54-B</field>
+     <field name="collection_teim">Erving-King Family papers</field>
++    <field name="author_teim">Processed by Caroline D. Bain.</field>
+     <field name="collection_unitid_teim">MS 204</field>
+     <field name="series_sim">Series II: King and Related Families</field>
+-    <field name="series_si">Series II: King and Related Families &gt;&gt; 
+-      &lt;em&gt;The Traveller's Directory...from Philadelphia to New York....&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The Traveller's Directory...from Philadelphia to New York....
+-    </field>
++    <field name="series_si">Series II: King and Related Families &gt;&gt; &lt;em&gt;The Traveller&#39;s Directory...from Philadelphia to New York....&lt;/em&gt;</field>
++    <field name="heading_ssm">The Traveller&#39;s Directory...from Philadelphia to New York....</field>
+     <field name="unitdate_ssm">1804</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">243</field>

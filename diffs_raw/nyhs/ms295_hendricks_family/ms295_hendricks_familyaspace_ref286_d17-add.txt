@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hendricks Family papers</field>
+     <field name="collection_unitid_ssm">MS 295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Proceedings of the General Convention of Agriculturists and Manufacturers and Others" </field>
+-    <field name="unittitle_teim">"Proceedings of the General Convention of Agriculturists and Manufacturers and Others" </field>
++    <field name="unittitle_ssm">&#34;Proceedings of the General Convention of Agriculturists and Manufacturers and Others&#34; </field>
++    <field name="unittitle_teim">&#34;Proceedings of the General Convention of Agriculturists and Manufacturers and Others&#34; </field>
+     <field name="unitdate_teim">1827 July 30</field>
+     <field name="ref_ssi">aspace_ref286_d17</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 21, Folder: 3</field>
+     <field name="location_si">Box: 21, Folder: 3</field>
+     <field name="collection_teim">Hendricks Family papers</field>
++    <field name="author_teim">Meaghan Dwyer, 2000; EAD finding aid prepared by Celia Hartmann, 2010; revisions and additions by Joseph Ditta, June-July 2017 and January 2020.</field>
+     <field name="collection_unitid_teim">MS 295</field>
+     <field name="series_sim">Series VII. Printed Material (1796-1875)</field>
+-    <field name="series_si">Series VII. Printed Material (1796-1875) &gt;&gt; "Proceedings of the General Convention of Agriculturists and Manufacturers and Others" </field>
+-    <field name="heading_ssm">"Proceedings of the General Convention of Agriculturists and Manufacturers and Others" </field>
++    <field name="series_si">Series VII. Printed Material (1796-1875) &gt;&gt; &#34;Proceedings of the General Convention of Agriculturists and Manufacturers and Others&#34; </field>
++    <field name="heading_ssm">&#34;Proceedings of the General Convention of Agriculturists and Manufacturers and Others&#34; </field>
+     <field name="unitdate_ssm">1827 July 30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">292</field>

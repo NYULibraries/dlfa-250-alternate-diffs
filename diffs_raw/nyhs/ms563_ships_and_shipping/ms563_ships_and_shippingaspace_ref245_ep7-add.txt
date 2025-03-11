@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Ship Pacific</field>
+     <field name="unittitle_teim">Ship Pacific</field>
+     <field name="unitdate_teim">1812</field>
+-    <field name="scopecontent_teim">Passengers' Thank you note to Captain Stanton on their voyage from Liverpool to New York; Passenger List.</field>
++    <field name="scopecontent_teim">Passengers&#39; Thank you note to Captain Stanton on their voyage from Liverpool to New York; Passenger List.</field>
+     <field name="ref_ssi">aspace_ref245_ep7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 2, Folder: 23</field>
+     <field name="location_si">Box: 2, Folder: 23</field>
+     <field name="collection_teim">New-York Historical Society collection of ships and shipping records</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 563</field>
+     <field name="series_si">Ship Pacific</field>
+     <field name="heading_ssm">Ship Pacific</field>

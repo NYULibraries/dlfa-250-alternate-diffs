@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Subseries 3. [Helen Ludlow], 1860</field>
+     <field name="unittitle_teim">Subseries 3. [Helen Ludlow], 1860</field>
+-    <field name="scopecontent_teim">Pocket diary probably belonging to Helen Ludlow. Entries detail daily household and social activities, family news, her emotional state, reading, cooking, trips to Niagara and Boston, her father's sermons, and what appears to be an aborted courtship. Notes in the back of the volume include a list of daily chores, poetry, and finances.</field>
++    <field name="scopecontent_teim">Pocket diary probably belonging to Helen Ludlow. Entries detail daily household and social activities, family news, her emotional state, reading, cooking, trips to Niagara and Boston, her father&#39;s sermons, and what appears to be an aborted courtship. Notes in the back of the volume include a list of daily chores, poetry, and finances.</field>
+     <field name="ref_ssi">aspace_ref391_cui</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Frey Family Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 235</field>
+     <field name="series_sim">Series II. Diaries, 1821-[18]92, undated</field>
+     <field name="series_si">Series II. Diaries, 1821-[18]92, undated &gt;&gt; Subseries 3. [Helen Ludlow], 1860</field>

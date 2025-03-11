@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">New York</field>
+     <field name="unitdate_inclusive_teim">[1870-1945]</field>
+     <field name="scopecontent_teim">Identifier: PR-065-0194</field>
+-    <field name="scopecontent_teim">New York, views presumed to be N.Y., but with no further identification: hotel; an ice grotto; view in a glen, with tourists, waterfall and bridge; street scenes; hop pickers; views on the Erie Railroad at unidentified locations, including a locomotive and a bridge; winter view of an outlet to a lake in the "North Woods" of New York; an organ grinder by a Gazebo, made by a Cortland, N.Y. photographer.</field>
++    <field name="scopecontent_teim">New York, views presumed to be N.Y., but with no further identification: hotel; an ice grotto; view in a glen, with tourists, waterfall and bridge; street scenes; hop pickers; views on the Erie Railroad at unidentified locations, including a locomotive and a bridge; winter view of an outlet to a lake in the &#34;North Woods&#34; of New York; an organ grinder by a Gazebo, made by a Cortland, N.Y. photographer.</field>
+     <field name="scopecontent_teim">12 items</field>
+     <field name="ref_ssi">aspace_ref208_qli</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 22</field>
+     <field name="location_si">Box: 22</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York</field>

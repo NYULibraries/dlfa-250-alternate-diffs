@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,11 +19,11 @@
+     <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Perry's Victory on Lake Erie&lt;/em&gt;, [painting]</field>
+-    <field name="unittitle_teim">Perry's Victory on Lake Erie, [painting]</field>
++    <field name="unittitle_ssm">&lt;em&gt;Perry&#39;s Victory on Lake Erie&lt;/em&gt;, [painting]</field>
++    <field name="unittitle_teim">Perry&#39;s Victory on Lake Erie, [painting]</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="title_teim">Perry's Victory on Lake Erie</field>
+-    <field name="title_ssm">Perry's Victory on Lake Erie</field>
++    <field name="title_teim">Perry&#39;s Victory on Lake Erie</field>
++    <field name="title_ssm">Perry&#39;s Victory on Lake Erie</field>
+     <field name="ref_ssi">aspace_ref911_ix2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 33</field>
+     <field name="location_si">Box: 33</field>
+     <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 24</field>
+     <field name="series_sim">Series V: Negatives</field>
+     <field name="series_sim">10 x 12 inches</field>
+     <field name="series_sim">Miscellaneous</field>
+-    <field name="series_si">Series V: Negatives &gt;&gt; 10 x 12 inches &gt;&gt; Miscellaneous &gt;&gt; &lt;em&gt;Perry's Victory on Lake Erie&lt;/em&gt;, [painting]</field>
+-    <field name="heading_ssm">Perry's Victory on Lake Erie, [painting]</field>
++    <field name="series_si">Series V: Negatives &gt;&gt; 10 x 12 inches &gt;&gt; Miscellaneous &gt;&gt; &lt;em&gt;Perry&#39;s Victory on Lake Erie&lt;/em&gt;, [painting]</field>
++    <field name="heading_ssm">Perry&#39;s Victory on Lake Erie, [painting]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">895</field>

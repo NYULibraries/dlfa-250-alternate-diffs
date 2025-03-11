@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lurie, Ra'anan</field>
+-    <field name="unittitle_teim">Lurie, Ra'anan</field>
++    <field name="unittitle_ssm">Lurie, Ra&#39;anan</field>
++    <field name="unittitle_teim">Lurie, Ra&#39;anan</field>
+     <field name="ref_ssi">aspace_ref524_ree</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Offsite-Box: 857, Folder: 60</field>
+     <field name="location_si">Offsite-Box: 857, Folder: 60</field>
+     <field name="collection_teim">Time Inc. Time Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Melanie Rinehart, and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 7</field>
+     <field name="series_sim">Series III.A. Art Department: Cover Researcher Rosemary Frank Files</field>
+     <field name="series_sim">Subseries III.A.2. Artist Files</field>
+-    <field name="series_si">Series III.A. Art Department: Cover Researcher Rosemary Frank Files &gt;&gt; Subseries III.A.2. Artist Files &gt;&gt; Lurie, Ra'anan</field>
+-    <field name="heading_ssm">Lurie, Ra'anan</field>
++    <field name="series_si">Series III.A. Art Department: Cover Researcher Rosemary Frank Files &gt;&gt; Subseries III.A.2. Artist Files &gt;&gt; Lurie, Ra&#39;anan</field>
++    <field name="heading_ssm">Lurie, Ra&#39;anan</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1537</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Oswald Garrison Villard, A.M.. The Early History of Wall Street, 1653-1789</field>
+     <field name="unittitle_teim">Oswald Garrison Villard, A.M.. The Early History of Wall Street, 1653-1789</field>
+     <field name="unitdate_teim">[1905 May 2]</field>
+-    <field name="scopecontent_teim">Includes Villard's paper and the meeting announcement.</field>
++    <field name="scopecontent_teim">Includes Villard&#39;s paper and the meeting announcement.</field>
+     <field name="ref_ssi">aspace_ref233_mh3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 7, Folder: 13</field>
+     <field name="location_si">Box: 7, Folder: 13</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+     <field name="series_si">Oswald Garrison Villard, A.M.. The Early History of Wall Street, 1653-1789</field>
+     <field name="heading_ssm">Oswald Garrison Villard, A.M.. The Early History of Wall Street, 1653-1789</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Henry R. Luce papers</field>
+     <field name="collection_unitid_ssm">MS 3014</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Yeaman's Hall Club Cottage</field>
+-    <field name="unittitle_teim">Yeaman's Hall Club Cottage</field>
++    <field name="unittitle_ssm">Yeaman&#39;s Hall Club Cottage</field>
++    <field name="unittitle_teim">Yeaman&#39;s Hall Club Cottage</field>
+     <field name="unitdate_teim">1949-1954</field>
+     <field name="scopecontent_teim">Includes a window curtain fabric sample.</field>
+     <field name="ref_ssi">aspace_ref911_eow</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 26, Folder: 5</field>
+     <field name="location_si">Box: 26, Folder: 5</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series I. Biographical and Subject Files</field>
+-    <field name="series_si">Series I. Biographical and Subject Files &gt;&gt; Yeaman's Hall Club Cottage</field>
+-    <field name="heading_ssm">Yeaman's Hall Club Cottage</field>
++    <field name="series_si">Series I. Biographical and Subject Files &gt;&gt; Yeaman&#39;s Hall Club Cottage</field>
++    <field name="heading_ssm">Yeaman&#39;s Hall Club Cottage</field>
+     <field name="unitdate_ssm">1949-1954</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">293</field>

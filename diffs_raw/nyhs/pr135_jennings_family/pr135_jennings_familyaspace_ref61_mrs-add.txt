@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Jennings Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 135</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Massillon -- St. Timothy's Protestant Episcopal Church</field>
+-    <field name="unittitle_teim">Massillon -- St. Timothy's Protestant Episcopal Church</field>
++    <field name="unittitle_ssm">Massillon -- St. Timothy&#39;s Protestant Episcopal Church</field>
++    <field name="unittitle_teim">Massillon -- St. Timothy&#39;s Protestant Episcopal Church</field>
+     <field name="unitdate_teim">1893-1898</field>
+     <field name="ref_ssi">aspace_ref61_mrs</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Jennings Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 135</field>
+     <field name="series_sim">Series I: Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A.</field>
+     <field name="series_sim">Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A. [Copy 1; the following buildings are depicted:]</field>
+     <field name="series_sim">Ohio</field>
+-    <field name="series_si">Series I: Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A. &gt;&gt; Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A. [Copy 1; the following buildings are depicted:] &gt;&gt; Ohio &gt;&gt; Massillon -- St. Timothy's Protestant Episcopal Church</field>
+-    <field name="heading_ssm">Massillon -- St. Timothy's Protestant Episcopal Church</field>
++    <field name="series_si">Series I: Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A. &gt;&gt; Church Designs also Residence and College Buildings by Arthur B. Jennings, F.A.I.A. [Copy 1; the following buildings are depicted:] &gt;&gt; Ohio &gt;&gt; Massillon -- St. Timothy&#39;s Protestant Episcopal Church</field>
++    <field name="heading_ssm">Massillon -- St. Timothy&#39;s Protestant Episcopal Church</field>
+     <field name="unitdate_ssm">1893-1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">47</field>

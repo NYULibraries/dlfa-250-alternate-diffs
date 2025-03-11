@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Le Boutillier Family Papers</field>
+     <field name="collection_unitid_ssm">MS 2961</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier's mother)</field>
+-    <field name="unittitle_teim">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier's mother)</field>
++    <field name="unittitle_ssm">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier&#39;s mother)</field>
++    <field name="unittitle_teim">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier&#39;s mother)</field>
+     <field name="unitdate_teim">1878, 1894, 1910-11</field>
+     <field name="ref_ssi">aspace_ref4_s62</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">Le Boutillier Family Papers</field>
++    <field name="author_teim">Joe Festa</field>
+     <field name="collection_unitid_teim">MS 2961</field>
+-    <field name="series_si">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier's mother)</field>
+-    <field name="heading_ssm">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier's mother)</field>
++    <field name="series_si">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier&#39;s mother)</field>
++    <field name="heading_ssm">Sketchbook of George Le Boutillier, checkbook, account book of Aida Groshon (Isabel Le Boutillier&#39;s mother)</field>
+     <field name="unitdate_ssm">1878, 1894, 1910-11</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3</field>

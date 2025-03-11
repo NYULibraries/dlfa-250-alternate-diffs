@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,18 +13,19 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Massachusetts | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Massachusetts | Souvenir Folders &amp; Sets
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Massachusetts | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Massachusetts | Souvenir Folders &amp; Sets</field>
+     <field name="scopecontent_teim">Boston (4)
+ Cape Ann, Gloucester, and Rockport
++
+ Lawrence
++
+ Mohawk Trail
++
+ Pilgrim Plymouth
++
+ Whipple House, Ipswich
++
+ Worcester (3)</field>
+     <field name="ref_ssi">aspace_f9203a2874c8ef40ca700a7f7f25752f</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -35,14 +36,11 @@
+     <field name="location_ssm">Box: 96-A</field>
+     <field name="location_si">Box: 96-A</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series I. Geographic Locations | United States (except New York)</field>
+-    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; 
+-      &lt;strong&gt;Massachusetts | Souvenir Folders &amp;amp; Sets&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Massachusetts | Souvenir Folders &amp; Sets
+-    </field>
++    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; &lt;strong&gt;Massachusetts | Souvenir Folders &amp; Sets&lt;/strong&gt;</field>
++    <field name="heading_ssm">Massachusetts | Souvenir Folders &amp; Sets</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>
+   </doc>

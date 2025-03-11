@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Envelope 32</field>
+     <field name="unittitle_teim">Envelope 32</field>
+     <field name="unitdate_teim">1929 December 21–1930 March 15</field>
+-    <field name="scopecontent_teim">Boats on Hudon River; lower Manhattan skyline; excavation for new Bloomingdale's store (Lexington Avenue at 59th Street, Manhattan).</field>
++    <field name="scopecontent_teim">Boats on Hudon River; lower Manhattan skyline; excavation for new Bloomingdale&#39;s store (Lexington Avenue at 59th Street, Manhattan).</field>
+     <field name="ref_ssi">aspace_ref29_4yw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Folder: 21</field>
+     <field name="location_si">Folder: 21</field>
+     <field name="collection_teim">Gordon Burris photographs</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 333</field>
+     <field name="series_si">Envelope 32</field>
+     <field name="heading_ssm">Envelope 32</field>

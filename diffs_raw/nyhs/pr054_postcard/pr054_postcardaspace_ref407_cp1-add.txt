@@ -1,0 +1,63 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,25 +18,44 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;New York State&lt;/strong&gt; (continued)</field>
+     <field name="unittitle_teim">New York State (continued)</field>
+-    <field name="scopecontent_teim">Hudson River 
+-Anthony's Nose
++    <field name="scopecontent_teim">Hudson River
++ 
++Anthony&#39;s Nose
++
+ Breakneck Mountain
+-Crow's Nest Mountain
++
++Crow&#39;s Nest Mountain
++
+ Highlands
++
+ Indian Point
++
+ Islands
++
+ Stony Points
++
+ Storm King Highway
++
+ Storm King Mountain
++
+ Sugar Loaf Mountain
+-General</field>
++
++General
++</field>
+     <field name="scopecontent_teim">Huntington
++
+ Hurley
++
+ Hyde Park
+-I</field>
+-    <field name="scopecontent_teim">Ithaca 
++
++I
++</field>
++    <field name="scopecontent_teim">Ithaca
++ 
+ Cornell University
+-General</field>
++
++General
++</field>
+     <field name="ref_ssi">aspace_ref407_cp1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -46,6 +65,7 @@
+     <field name="location_ssm">Box: 35</field>
+     <field name="location_si">Box: 35</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.A. New York State</field>

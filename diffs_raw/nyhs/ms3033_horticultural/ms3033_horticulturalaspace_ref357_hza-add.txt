@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Subjects. Community Gardens</field>
+     <field name="unittitle_teim">Subjects. Community Gardens</field>
+     <field name="unitdate_teim">1999-2001</field>
+-    <field name="scopecontent_teim">Includes a table "Green Thumb Group Tracking information" identifying gardens by location and name in the five New York City boroughs.</field>
++    <field name="scopecontent_teim">Includes a table &#34;Green Thumb Group Tracking information&#34; identifying gardens by location and name in the five New York City boroughs.</field>
+     <field name="ref_ssi">aspace_ref357_hza</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 56, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 56, Folder: 6</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.C. Librarian Files</field>
+-    <field name="series_si">Series II. Library &amp;amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. Community Gardens</field>
++    <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.C. Librarian Files &gt;&gt; Subjects. Community Gardens</field>
+     <field name="heading_ssm">Subjects. Community Gardens</field>
+     <field name="unitdate_ssm">1999-2001</field>
+     <field name="date_range_sim">undated &amp; other</field>

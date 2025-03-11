@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the "Square" . [Social]</field>
+-    <field name="unittitle_teim">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the "Square" . [Social]</field>
++    <field name="unittitle_ssm">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the &#34;Square&#34; . [Social]</field>
++    <field name="unittitle_teim">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the &#34;Square&#34; . [Social]</field>
+     <field name="unitdate_teim">1850</field>
+     <field name="scopecontent_teim">Lithograph: Published by Gobble, Viper &amp; Co., published simultaneously in London, Paris &amp; New York. Acquisition info on back: Purchase, July 15, 1949, Wilbur Fund</field>
+     <field name="ref_ssi">aspace_7bbe7a734772655043c5a2313e1af8a5</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-68, item: 1850-10</field>
+     <field name="location_si">Folder: FF-68, item: 1850-10</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series IV. Antebellum Period</field>
+-    <field name="series_si">Series IV. Antebellum Period &gt;&gt; [Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the "Square" . [Social]</field>
+-    <field name="heading_ssm">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the "Square" . [Social]</field>
++    <field name="series_si">Series IV. Antebellum Period &gt;&gt; [Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the &#34;Square&#34; . [Social]</field>
++    <field name="heading_ssm">[Under right hand image] Upper Ten Dom, Entering Washington Square... [Left hand image] Upper Ten Dom, Leaving the &#34;Square&#34; . [Social]</field>
+     <field name="unitdate_ssm">1850</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">592</field>

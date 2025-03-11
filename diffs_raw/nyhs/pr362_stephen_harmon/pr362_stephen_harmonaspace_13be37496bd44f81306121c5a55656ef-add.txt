@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen Harmon photographs</field>
+     <field name="collection_unitid_ssm">PR 362</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Rocco's pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
+-    <field name="unittitle_teim">Rocco's pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
++    <field name="unittitle_ssm">Rocco&#39;s pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
++    <field name="unittitle_teim">Rocco&#39;s pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
+     <field name="unitdate_inclusive_teim">circa 1982</field>
+     <field name="ref_ssi">aspace_13be37496bd44f81306121c5a55656ef</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Digital-Folder: 20160717, Digital-File: 1_1, email</field>
+     <field name="location_si">Digital-Folder: 20160717, Digital-File: 1_1, email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+     <field name="series_sim">Series D.II. New York City Buildings, Parks and Other Cityscapes (prior to 2002)</field>
+-    <field name="series_si">Series D.II. New York City Buildings, Parks and Other Cityscapes (prior to 2002) &gt;&gt; Rocco's pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
+-    <field name="heading_ssm">Rocco's pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
++    <field name="series_si">Series D.II. New York City Buildings, Parks and Other Cityscapes (prior to 2002) &gt;&gt; Rocco&#39;s pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
++    <field name="heading_ssm">Rocco&#39;s pastry shop on Bleecker Street, Greenwich Village (1 photo + 1 email)</field>
+     <field name="unitdate_ssm">Inclusive, circa 1982</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">26</field>

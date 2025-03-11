@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Awards</field>
+     <field name="unittitle_teim">Awards</field>
+     <field name="unitdate_inclusive_teim">1907-1948</field>
+-    <field name="scopecontent_teim">Contains certificates from the Pinnacle Club, Yale University, Sons of the Revolution, 1964-65 New York World's Fair, Society of the New York Hospital, and New-York Historical Society</field>
++    <field name="scopecontent_teim">Contains certificates from the Pinnacle Club, Yale University, Sons of the Revolution, 1964-65 New York World&#39;s Fair, Society of the New York Hospital, and New-York Historical Society</field>
+     <field name="ref_ssi">aspace_b1d6c365d69a34bbb42a56d3f1c08621</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Offsite-Box: 12, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 12, Folder: 5</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series V. Photographs &amp;amp; Ephemera</field>
+-    <field name="series_si">Series V. Photographs &amp;amp; Ephemera &gt;&gt; Awards</field>
++    <field name="series_si">Series V. Photographs &amp; Ephemera &gt;&gt; Awards</field>
+     <field name="heading_ssm">Awards</field>
+     <field name="unitdate_ssm">Inclusive, 1907-1948</field>
+     <field name="date_range_sim">undated &amp; other</field>

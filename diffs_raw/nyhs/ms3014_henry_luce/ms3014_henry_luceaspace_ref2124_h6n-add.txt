@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Lippman, Walter</field>
+     <field name="unittitle_teim">Lippman, Walter</field>
+     <field name="unitdate_teim">1937-1963</field>
+-    <field name="scopecontent_teim">Includes the memorandum "Walter Lippmann's Foreign Policy."</field>
++    <field name="scopecontent_teim">Includes the memorandum &#34;Walter Lippmann&#39;s Foreign Policy.&#34;</field>
+     <field name="ref_ssi">aspace_ref2124_h6n</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 93, Folder: 4</field>
+     <field name="location_si">Box: 93, Folder: 4</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>

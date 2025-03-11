@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,14 @@
+     <field name="ead_ssi">pr369_rose_oneill</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Rose O'Neill collection</field>
+-    <field name="collection_ssm">Rose O'Neill collection</field>
++    <field name="collection_sim">Rose O&#39;Neill collection</field>
++    <field name="collection_ssm">Rose O&#39;Neill collection</field>
+     <field name="collection_unitid_ssm">PR 369</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Photograph by Paul Thompson</field>
+     <field name="unittitle_teim">Photograph by Paul Thompson</field>
+     <field name="unitdate_teim">1914</field>
+-    <field name="scopecontent_teim">Captioned "Rose at No. 12 Fifth Ave., Summer 1914. Painting Kewps. They look like ones for Woman's Home Companion paper dolls." Photographer's stamp: Paul Thompson, 10 Spruce Street, New York City.</field>
++    <field name="scopecontent_teim">Captioned &#34;Rose at No. 12 Fifth Ave., Summer 1914. Painting Kewps. They look like ones for Woman&#39;s Home Companion paper dolls.&#34; Photographer&#39;s stamp: Paul Thompson, 10 Spruce Street, New York City.</field>
+     <field name="ref_ssi">aspace_7a6d1fe4dab7d3558a4b333c536c31ef</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,7 +21,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 2</field>
+-    <field name="collection_teim">Rose O'Neill collection</field>
++    <field name="collection_teim">Rose O&#39;Neill collection</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 369</field>
+     <field name="series_si">Photograph by Paul Thompson</field>
+     <field name="heading_ssm">Photograph by Paul Thompson</field>

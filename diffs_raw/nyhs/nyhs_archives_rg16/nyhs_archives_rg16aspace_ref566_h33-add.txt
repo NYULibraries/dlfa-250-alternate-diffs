@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Roach, John</field>
+     <field name="unittitle_teim">Roach, John</field>
+     <field name="unitdate_teim">1916</field>
+-    <field name="scopecontent_teim">Gift from Roach's heirs of silver service set presented to Roach by the Merchants of New York.</field>
++    <field name="scopecontent_teim">Gift from Roach&#39;s heirs of silver service set presented to Roach by the Merchants of New York.</field>
+     <field name="ref_ssi">aspace_ref566_h33</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 8, Folder: 22</field>
+     <field name="location_si">Box: 8, Folder: 22</field>
+     <field name="collection_teim">New-York Historical Society bequests, gifts and related matters</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 16</field>
+     <field name="series_sim">Series I. Bequests to Circa 1960</field>
+     <field name="series_si">Series I. Bequests to Circa 1960 &gt;&gt; Roach, John</field>

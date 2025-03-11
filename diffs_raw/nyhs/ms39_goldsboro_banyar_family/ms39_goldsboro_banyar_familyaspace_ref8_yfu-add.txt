@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Goldsboro Banyar and Banyar Family papers</field>
+     <field name="collection_unitid_ssm">MS 39</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Auditor's Office correspondence and related documents (OS)</field>
+-    <field name="unittitle_teim">Auditor's Office correspondence and related documents (OS)</field>
++    <field name="unittitle_ssm">Auditor&#39;s Office correspondence and related documents (OS)</field>
++    <field name="unittitle_teim">Auditor&#39;s Office correspondence and related documents (OS)</field>
+     <field name="unitdate_teim">1745-1768</field>
+     <field name="ref_ssi">aspace_ref8_yfu</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: OS small, Folder: Banyar OS 6</field>
+     <field name="location_si">Box: OS small, Folder: Banyar OS 6</field>
+     <field name="collection_teim">Goldsboro Banyar and Banyar Family papers</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 39</field>
+     <field name="series_sim">Series I: Goldsboro Banyar</field>
+     <field name="series_sim">Subseries I.1: Colonial administration records</field>
+-    <field name="series_si">Series I: Goldsboro Banyar &gt;&gt; Subseries I.1: Colonial administration records &gt;&gt; Auditor's Office correspondence and related documents (OS)</field>
+-    <field name="heading_ssm">Auditor's Office correspondence and related documents (OS)</field>
++    <field name="series_si">Series I: Goldsboro Banyar &gt;&gt; Subseries I.1: Colonial administration records &gt;&gt; Auditor&#39;s Office correspondence and related documents (OS)</field>
++    <field name="heading_ssm">Auditor&#39;s Office correspondence and related documents (OS)</field>
+     <field name="unitdate_ssm">1745-1768</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

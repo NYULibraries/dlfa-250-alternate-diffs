@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Leaves of Record of Family of William Beekman (in Dutch with translation)</field>
+     <field name="unittitle_teim">Leaves of Record of Family of William Beekman (in Dutch with translation)</field>
+-    <field name="scopecontent_teim">Leaves of Record missing from White's guide.</field>
++    <field name="scopecontent_teim">Leaves of Record missing from White&#39;s guide.</field>
+     <field name="ref_ssi">aspace_ref225_zfm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 12, Folder: 8</field>
+     <field name="location_si">Box: 12, Folder: 8</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 12, Genealogy and Property</field>
+     <field name="series_si">Box 12, Genealogy and Property &gt;&gt; Leaves of Record of Family of William Beekman (in Dutch with translation)</field>

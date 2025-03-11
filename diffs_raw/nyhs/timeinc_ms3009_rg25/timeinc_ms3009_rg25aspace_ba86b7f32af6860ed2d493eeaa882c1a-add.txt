@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Time Inc. Fortune Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 25</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Betsy Morris: Women's Midlife Crisis: &lt;em&gt;The Money Wheel&lt;/em&gt; and &lt;em&gt;Good Morning America&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Betsy Morris: Women's Midlife Crisis: The Money Wheel and Good Morning America</field>
++    <field name="unittitle_ssm">Betsy Morris: Women&#39;s Midlife Crisis: &lt;em&gt;The Money Wheel&lt;/em&gt; and &lt;em&gt;Good Morning America&lt;/em&gt;</field>
++    <field name="unittitle_teim">Betsy Morris: Women&#39;s Midlife Crisis: The Money Wheel and Good Morning America</field>
+     <field name="unitdate_teim">1995 August 31 - September 4</field>
+-    <field name="scopecontent_teim">1 videocassette (VHS): 1/2 in. On label: "Betsy Morris: The Money Wheel 8/31/95  Good Morning America 9/4/95  Women's Midlife Crisis".</field>
++    <field name="scopecontent_teim">1 videocassette (VHS): 1/2 in. On label: &#34;Betsy Morris: The Money Wheel 8/31/95  Good Morning America 9/4/95  Women&#39;s Midlife Crisis&#34;.</field>
+     <field name="title_teim">The Money Wheel</field>
+     <field name="title_teim">Good Morning America</field>
+     <field name="title_ssm">The Money Wheel</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Offsite-Box: 2921, item: 9</field>
+     <field name="location_si">Offsite-Box: 2921, item: 9</field>
+     <field name="collection_teim">Time Inc. Fortune Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 25</field>
+     <field name="series_sim">Series V. Audiovisual  [RESTRICTED]</field>
+     <field name="series_sim">Subseries V.A. Fortune Editors on TV</field>
+-    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Betsy Morris: Women's Midlife Crisis: &lt;em&gt;The Money Wheel&lt;/em&gt; and &lt;em&gt;Good Morning America&lt;/em&gt;</field>
+-    <field name="heading_ssm">Betsy Morris: Women's Midlife Crisis: The Money Wheel and Good Morning America</field>
++    <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.A. Fortune Editors on TV &gt;&gt; Betsy Morris: Women&#39;s Midlife Crisis: &lt;em&gt;The Money Wheel&lt;/em&gt; and &lt;em&gt;Good Morning America&lt;/em&gt;</field>
++    <field name="heading_ssm">Betsy Morris: Women&#39;s Midlife Crisis: The Money Wheel and Good Morning America</field>
+     <field name="unitdate_ssm">1995 August 31 - September 4</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">325</field>

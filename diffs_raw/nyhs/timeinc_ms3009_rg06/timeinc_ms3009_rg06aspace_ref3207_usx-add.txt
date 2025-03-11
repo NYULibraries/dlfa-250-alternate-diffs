@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1982/1982</field>
+     <field name="unitdate_normal_sim">1982/1982</field>
+     <field name="unitdate_inclusive_teim">1982</field>
+-    <field name="scopecontent_teim">Time Inc. hosted a symposium with panels titled "The Risk Merchants of Silicon Valley," "Computers and Information," "The New Immigrants," and "Terrorism." Panelists included James Treybig of Tandem Computers, Steve Jobs of Apple Computer, and Utah Governor Scott Matheson. Guests included California Governor Edmund "Jerry" Brown. Materials include the symposium agenda and presentation transcripts.</field>
++    <field name="scopecontent_teim">Time Inc. hosted a symposium with panels titled &#34;The Risk Merchants of Silicon Valley,&#34; &#34;Computers and Information,&#34; &#34;The New Immigrants,&#34; and &#34;Terrorism.&#34; Panelists included James Treybig of Tandem Computers, Steve Jobs of Apple Computer, and Utah Governor Scott Matheson. Guests included California Governor Edmund &#34;Jerry&#34; Brown. Materials include the symposium agenda and presentation transcripts.</field>
+     <field name="ref_ssi">aspace_ref3207_usx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Offsite-Box: 1034, Folder: 5-7</field>
+     <field name="location_si">Offsite-Box: 1034, Folder: 5-7</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>

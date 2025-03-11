@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref205_vie</field>
+     <field name="parent_ssm">aspace_ref207_zev</field>
+     <field name="parent_unittitles_ssm">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+-    <field name="parent_unittitles_ssm">Subseries 1: "New York City 100 Chart of Accounts" Binder [restricted for 75 years]</field>
++    <field name="parent_unittitles_ssm">Subseries 1: &amp;#34;New York City 100 Chart of Accounts&amp;#34; Binder [restricted for 75 years]</field>
+     <field name="parent_unittitles_teim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+-    <field name="parent_unittitles_teim">Subseries 1: "New York City 100 Chart of Accounts" Binder [restricted for 75 years]</field>
++    <field name="parent_unittitles_teim">Subseries 1: &amp;#34;New York City 100 Chart of Accounts&amp;#34; Binder [restricted for 75 years]</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The New York City 100 Records</field>
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">The New York City 100 Records</field>
+     <field name="collection_unitid_ssm">MS 444</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Expenses: Tel. Com. 811 and Mail &amp;amp; Messr 821 [restricted for 75 years]</field>
++    <field name="unittitle_ssm">Expenses: Tel. Com. 811 and Mail &amp; Messr 821 [restricted for 75 years]</field>
+     <field name="unittitle_teim">Expenses: Tel. Com. 811 and Mail &amp; Messr 821 [restricted for 75 years]</field>
+     <field name="unitdate_normal_ssm">1997/1998</field>
+     <field name="unitdate_normal_teim">1997/1998</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 11, Folder: 2</field>
+     <field name="location_si">Box: 11, Folder: 2</field>
+     <field name="collection_teim">The New York City 100 Records</field>
++    <field name="author_teim">Jan Hilley, Machine readable finding aid created by Julianna Monjeau</field>
+     <field name="collection_unitid_teim">MS 444</field>
+     <field name="series_sim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+-    <field name="series_sim">Subseries 1: "New York City 100 Chart of Accounts" Binder [restricted for 75 years]</field>
+-    <field name="series_si">Series XIV: Accounting and Finance [restricted for 75 years] &gt;&gt; Subseries 1: "New York City 100 Chart of Accounts" Binder [restricted for 75 years] &gt;&gt; Expenses: Tel. Com. 811 and Mail &amp;amp; Messr 821 [restricted for 75 years]</field>
++    <field name="series_sim">Subseries 1: &amp;#34;New York City 100 Chart of Accounts&amp;#34; Binder [restricted for 75 years]</field>
++    <field name="series_si">Series XIV: Accounting and Finance [restricted for 75 years] &gt;&gt; Subseries 1: &#34;New York City 100 Chart of Accounts&#34; Binder [restricted for 75 years] &gt;&gt; Expenses: Tel. Com. 811 and Mail &amp; Messr 821 [restricted for 75 years]</field>
+     <field name="heading_ssm">Expenses: Tel. Com. 811 and Mail &amp; Messr 821 [restricted for 75 years]</field>
+     <field name="unitdate_start_sim">1997</field>
+     <field name="unitdate_start_ssm">1997</field>

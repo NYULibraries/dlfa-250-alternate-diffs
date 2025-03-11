@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Miscellaneous, 1962</field>
+     <field name="unittitle_teim">Miscellaneous, 1962</field>
+     <field name="unitdate_teim">1962</field>
+-    <field name="scopecontent_teim">Includes HRL's notes on TIME and a suggested itinerary for a visit to Rome.</field>
++    <field name="scopecontent_teim">Includes HRL&#39;s notes on TIME and a suggested itinerary for a visit to Rome.</field>
+     <field name="ref_ssi">aspace_ref968_dum</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 27, Folder: 5</field>
+     <field name="location_si">Box: 27, Folder: 5</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series I. Biographical and Subject Files</field>
+     <field name="series_si">Series I. Biographical and Subject Files &gt;&gt; Miscellaneous, 1962</field>

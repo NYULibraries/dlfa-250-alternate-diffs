@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Albok photograph collection</field>
+     <field name="collection_unitid_ssm">PR 1</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Albok's Tailor Shop</field>
+-    <field name="unittitle_teim">Albok's Tailor Shop</field>
++    <field name="unittitle_ssm">Albok&#39;s Tailor Shop</field>
++    <field name="unittitle_teim">Albok&#39;s Tailor Shop</field>
+     <field name="ref_ssi">aspace_ref78_c5y</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,10 +22,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Albok photograph collection</field>
++    <field name="author_teim">Jason Steinhauer</field>
+     <field name="collection_unitid_teim">PR 1</field>
+     <field name="series_sim">Series I. Prints</field>
+-    <field name="series_si">Series I. Prints &gt;&gt; Albok's Tailor Shop</field>
+-    <field name="heading_ssm">Albok's Tailor Shop</field>
++    <field name="series_si">Series I. Prints &gt;&gt; Albok&#39;s Tailor Shop</field>
++    <field name="heading_ssm">Albok&#39;s Tailor Shop</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>
+   </doc>

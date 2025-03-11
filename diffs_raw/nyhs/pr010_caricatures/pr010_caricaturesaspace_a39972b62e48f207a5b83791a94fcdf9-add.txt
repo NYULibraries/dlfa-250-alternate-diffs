@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tom Paine's Nightly Pest</field>
+-    <field name="unittitle_teim">Tom Paine's Nightly Pest</field>
++    <field name="unittitle_ssm">Tom Paine&#39;s Nightly Pest</field>
++    <field name="unittitle_teim">Tom Paine&#39;s Nightly Pest</field>
+     <field name="unitdate_teim">1792</field>
+     <field name="scopecontent_teim">BM #8137; Published by H. Humphrey; James Gilray, design et fect.; on back is another design by James Gilray. Acquisition(?) date: Nov. 1, 1944.</field>
+     <field name="ref_ssi">aspace_a39972b62e48f207a5b83791a94fcdf9</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-13, item: 1792-3</field>
+     <field name="location_si">Folder: FF-13, item: 1792-3</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series II. Early Republic Period</field>
+-    <field name="series_si">Series II. Early Republic Period &gt;&gt; Tom Paine's Nightly Pest</field>
+-    <field name="heading_ssm">Tom Paine's Nightly Pest</field>
++    <field name="series_si">Series II. Early Republic Period &gt;&gt; Tom Paine&#39;s Nightly Pest</field>
++    <field name="heading_ssm">Tom Paine&#39;s Nightly Pest</field>
+     <field name="unitdate_ssm">1792</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">96</field>

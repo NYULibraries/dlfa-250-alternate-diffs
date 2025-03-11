@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Robert M. Lester Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 215</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Pennsylvania Station (interior); Old Merchant's House (East 4th Street); First Avenue at 49th Street</field>
+-    <field name="unittitle_teim">Pennsylvania Station (interior); Old Merchant's House (East 4th Street); First Avenue at 49th Street</field>
++    <field name="unittitle_ssm">Pennsylvania Station (interior); Old Merchant&#39;s House (East 4th Street); First Avenue at 49th Street</field>
++    <field name="unittitle_teim">Pennsylvania Station (interior); Old Merchant&#39;s House (East 4th Street); First Avenue at 49th Street</field>
+     <field name="unitdate_teim">1953</field>
+     <field name="ref_ssi">aspace_ref53_jot</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 40</field>
+     <field name="location_si">Box: 2, Folder: 40</field>
+     <field name="collection_teim">Robert M. Lester Photograph Collection</field>
++    <field name="author_teim">Jennifer Lewis and Margaret Evans</field>
+     <field name="collection_unitid_teim">PR 215</field>
+     <field name="series_sim">Series I: Photographs</field>
+-    <field name="series_si">Series I: Photographs &gt;&gt; Pennsylvania Station (interior); Old Merchant's House (East 4th Street); First Avenue at 49th Street</field>
+-    <field name="heading_ssm">Pennsylvania Station (interior); Old Merchant's House (East 4th Street); First Avenue at 49th Street</field>
++    <field name="series_si">Series I: Photographs &gt;&gt; Pennsylvania Station (interior); Old Merchant&#39;s House (East 4th Street); First Avenue at 49th Street</field>
++    <field name="heading_ssm">Pennsylvania Station (interior); Old Merchant&#39;s House (East 4th Street); First Avenue at 49th Street</field>
+     <field name="unitdate_ssm">1953</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Log books His Majesty's sloop &lt;em&gt;Princess Carolina&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Log books His Majesty's sloop Princess Carolina</field>
++    <field name="unittitle_ssm">Log books His Majesty&#39;s sloop &lt;em&gt;Princess Carolina&lt;/em&gt;</field>
++    <field name="unittitle_teim">Log books His Majesty&#39;s sloop Princess Carolina</field>
+     <field name="unitdate_teim">1810 January 26 - 1813 June 13</field>
+     <field name="title_teim">Princess Carolina</field>
+     <field name="title_ssm">Princess Carolina</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Volume: 7</field>
+     <field name="location_si">Volume: 7</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 50. Logbooks: British Navy (1758-1933; bulk, 1807-1837)</field>
+-    <field name="series_si">Series 50. Logbooks: British Navy (1758-1933; bulk, 1807-1837) &gt;&gt; Log books His Majesty's sloop &lt;em&gt;Princess Carolina&lt;/em&gt;</field>
+-    <field name="heading_ssm">Log books His Majesty's sloop Princess Carolina</field>
++    <field name="series_si">Series 50. Logbooks: British Navy (1758-1933; bulk, 1807-1837) &gt;&gt; Log books His Majesty&#39;s sloop &lt;em&gt;Princess Carolina&lt;/em&gt;</field>
++    <field name="heading_ssm">Log books His Majesty&#39;s sloop Princess Carolina</field>
+     <field name="unitdate_ssm">1810 January 26 - 1813 June 13</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1161</field>

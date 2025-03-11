@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr375_chapman_old_west</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
+-    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+     <field name="collection_unitid_ssm">PR 375</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">James Earp</field>
+@@ -13,7 +13,8 @@
+     <field name="unittitle_teim">James Earp</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">James Cooksey Earp (1841–1926).
+-Tintype, 2 &amp; 5/16" (W) x 3 &amp; 3/8" (L).</field>
++
++Tintype, 2 &amp; 5/16&#34; (W) x 3 &amp; 3/8&#34; (L).</field>
+     <field name="ref_ssi">aspace_59e4b5ac08baf4244ea5705af3cd38b7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">item: 13</field>
+     <field name="location_si">item: 13</field>
+-    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 375</field>
+     <field name="series_si">James Earp</field>
+     <field name="heading_ssm">James Earp</field>

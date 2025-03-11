@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society manuscripts of lectures and addresses</field>
+     <field name="collection_unitid_ssm">NYHS-RG 11</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Clarence Storm. Burton's Views of New York, 1830</field>
+-    <field name="unittitle_teim">Clarence Storm. Burton's Views of New York, 1830</field>
++    <field name="unittitle_ssm">Clarence Storm. Burton&#39;s Views of New York, 1830</field>
++    <field name="unittitle_teim">Clarence Storm. Burton&#39;s Views of New York, 1830</field>
+     <field name="unitdate_teim">1904 June 7</field>
+     <field name="scopecontent_teim">Includes two copies of the address and the meeting announcement. See also the set of folders below for related material: [Clarence Storm]. [Research Notes].</field>
+     <field name="ref_ssi">aspace_ref223_gf4</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 7, Folder: 7</field>
+     <field name="location_si">Box: 7, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+-    <field name="series_si">Clarence Storm. Burton's Views of New York, 1830</field>
+-    <field name="heading_ssm">Clarence Storm. Burton's Views of New York, 1830</field>
++    <field name="series_si">Clarence Storm. Burton&#39;s Views of New York, 1830</field>
++    <field name="heading_ssm">Clarence Storm. Burton&#39;s Views of New York, 1830</field>
+     <field name="unitdate_ssm">1904 June 7</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">128</field>

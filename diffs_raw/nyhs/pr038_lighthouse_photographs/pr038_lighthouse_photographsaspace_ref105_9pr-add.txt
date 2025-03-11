@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Lighthouse Photograph and Print Collection</field>
+     <field name="collection_unitid_ssm">PR 38</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Brown's Head</field>
+-    <field name="unittitle_teim">Brown's Head</field>
++    <field name="unittitle_ssm">Brown&#39;s Head</field>
++    <field name="unittitle_teim">Brown&#39;s Head</field>
+     <field name="unitdate_normal_ssm">1880/1880</field>
+     <field name="unitdate_normal_teim">1880/1880</field>
+     <field name="unitdate_normal_sim">1880/1880</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 19</field>
+     <field name="collection_teim">Lighthouse Photograph and Print Collection</field>
++    <field name="author_teim">Holly Hinman and Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 38</field>
+     <field name="series_sim">Series II: Lighthouses</field>
+     <field name="series_sim">American Lighthouses -- Maine</field>
+-    <field name="series_si">Series II: Lighthouses &gt;&gt; American Lighthouses -- Maine &gt;&gt; Brown's Head</field>
+-    <field name="heading_ssm">Brown's Head</field>
++    <field name="series_si">Series II: Lighthouses &gt;&gt; American Lighthouses -- Maine &gt;&gt; Brown&#39;s Head</field>
++    <field name="heading_ssm">Brown&#39;s Head</field>
+     <field name="unitdate_start_sim">1880</field>
+     <field name="unitdate_start_ssm">1880</field>
+     <field name="unitdate_start_si">1880</field>

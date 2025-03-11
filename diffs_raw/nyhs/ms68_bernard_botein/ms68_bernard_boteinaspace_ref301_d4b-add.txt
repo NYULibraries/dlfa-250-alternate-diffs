@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bernard Botein papers</field>
+     <field name="collection_unitid_ssm">MS 68</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Address to Women's City Club</field>
+-    <field name="unittitle_teim">Address to Women's City Club</field>
++    <field name="unittitle_ssm">Address to Women&#39;s City Club</field>
++    <field name="unittitle_teim">Address to Women&#39;s City Club</field>
+     <field name="unitdate_teim">1962</field>
+     <field name="ref_ssi">aspace_ref301_d4b</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 19, Folder: 18</field>
+     <field name="location_si">Box: 19, Folder: 18</field>
+     <field name="collection_teim">Bernard Botein papers</field>
++    <field name="author_teim">Emma Curtis</field>
+     <field name="collection_unitid_teim">MS 68</field>
+     <field name="series_sim">Series II. Speeches, Addresses and Writings </field>
+-    <field name="series_si">Series II. Speeches, Addresses and Writings  &gt;&gt; Address to Women's City Club</field>
+-    <field name="heading_ssm">Address to Women's City Club</field>
++    <field name="series_si">Series II. Speeches, Addresses and Writings  &gt;&gt; Address to Women&#39;s City Club</field>
++    <field name="heading_ssm">Address to Women&#39;s City Club</field>
+     <field name="unitdate_ssm">1962</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">180</field>

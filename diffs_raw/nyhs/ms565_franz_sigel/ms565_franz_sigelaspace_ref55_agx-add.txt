@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1854/1872</field>
+     <field name="unitdate_normal_sim">1854/1872</field>
+     <field name="unitdate_inclusive_teim">circa 1854-1872</field>
+-    <field name="scopecontent_teim">This series contains materials concerning Sigel's educational, military, and political endeavors. It contains official documents, handwritten notes, and printed materials. This series is in both English and German.</field>
++    <field name="scopecontent_teim">This series contains materials concerning Sigel&#39;s educational, military, and political endeavors. It contains official documents, handwritten notes, and printed materials. This series is in both English and German.</field>
+     <field name="ref_ssi">aspace_ref55_agx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Franz Sigel papers</field>
++    <field name="author_teim">Corrinne Collett. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 565</field>
+     <field name="series_si">Series III: Professional and Political Documents</field>
+     <field name="heading_ssm">Series III: Professional and Political Documents</field>

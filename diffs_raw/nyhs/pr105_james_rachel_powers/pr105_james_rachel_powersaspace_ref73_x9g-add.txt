@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III. Ephemera</field>
+     <field name="unittitle_teim">Series III. Ephemera</field>
+-    <field name="scopecontent_teim">This series consists of folders of printed ephemera related to James T. Powers' career.</field>
++    <field name="scopecontent_teim">This series consists of folders of printed ephemera related to James T. Powers&#39; career.</field>
+     <field name="ref_ssi">aspace_ref73_x9g</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">James T. and Rachel Booth Powers Collection</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 105</field>
+     <field name="series_si">Series III. Ephemera</field>
+     <field name="heading_ssm">Series III. Ephemera</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Sharp, George C.</field>
+     <field name="unittitle_teim">Sharp, George C.</field>
+     <field name="unitdate_inclusive_teim">1932</field>
+-    <field name="scopecontent_teim">Concerns the possibility of acquiring a portrait of Sharp's father for the American Chancery.</field>
++    <field name="scopecontent_teim">Concerns the possibility of acquiring a portrait of Sharp&#39;s father for the American Chancery.</field>
+     <field name="ref_ssi">aspace_a10021eb1637fdbc63a4ec3d5519c147</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 11, Folder: 17</field>
+     <field name="location_si">Box: 11, Folder: 17</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Sharp, George C.</field>

@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Time Inc. Life Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 26</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The Making of LIFE&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The Making of LIFE
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Making of LIFE&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Making of LIFE</field>
+     <field name="unitdate_inclusive_teim">1963</field>
+     <field name="title_teim">The Making of LIFE</field>
+     <field name="title_ssm">The Making of LIFE</field>
+@@ -34,15 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 3325, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 3325, Folder: 4</field>
+     <field name="collection_teim">Time Inc. Life Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 26</field>
+     <field name="series_sim">Series III. Advertising Sales Records</field>
+     <field name="series_sim">Subseries III.B. Advertising Sales and Marketing: Paul Hadhazy Files</field>
+-    <field name="series_si">Series III. Advertising Sales Records &gt;&gt; Subseries III.B. Advertising Sales and Marketing: Paul Hadhazy Files &gt;&gt; 
+-      &lt;em&gt;The Making of LIFE&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The Making of LIFE
+-    </field>
++    <field name="series_si">Series III. Advertising Sales Records &gt;&gt; Subseries III.B. Advertising Sales and Marketing: Paul Hadhazy Files &gt;&gt; &lt;em&gt;The Making of LIFE&lt;/em&gt;</field>
++    <field name="heading_ssm">The Making of LIFE</field>
+     <field name="unitdate_ssm">Inclusive, 1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">308</field>

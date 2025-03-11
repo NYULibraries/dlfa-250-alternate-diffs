@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Hurley, Patrick</field>
+     <field name="unittitle_teim">Hurley, Patrick</field>
+     <field name="unitdate_teim">1945-1963</field>
+-    <field name="scopecontent_teim">Includes a photostat copy of a letter from Franklin D. Roosevelt, the pamphlet "America's Failure in China," and the press release "A Few Comments About One Thousand Pages of White Paper."</field>
++    <field name="scopecontent_teim">Includes a photostat copy of a letter from Franklin D. Roosevelt, the pamphlet &#34;America&#39;s Failure in China,&#34; and the press release &#34;A Few Comments About One Thousand Pages of White Paper.&#34;</field>
+     <field name="ref_ssi">aspace_ref2010_zxw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 89, Folder: 6</field>
+     <field name="location_si">Box: 89, Folder: 6</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>

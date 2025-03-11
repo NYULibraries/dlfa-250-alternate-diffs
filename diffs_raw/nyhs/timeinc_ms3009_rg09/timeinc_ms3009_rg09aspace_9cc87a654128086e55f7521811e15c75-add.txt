@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Life Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lawsuit "Life" [RESTRICTED]</field>
+-    <field name="unittitle_teim">Lawsuit "Life" [RESTRICTED]</field>
++    <field name="unittitle_ssm">Lawsuit &#34;Life&#34; [RESTRICTED]</field>
++    <field name="unittitle_teim">Lawsuit &#34;Life&#34; [RESTRICTED]</field>
+     <field name="unitdate_inclusive_teim">1988-1989</field>
+     <field name="ref_ssi">aspace_9cc87a654128086e55f7521811e15c75</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: R38</field>
+     <field name="location_si">Offsite-Box: R38</field>
+     <field name="collection_teim">Time Inc. Life Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 9</field>
+     <field name="series_sim">Series II.F. Managing Editor General Files</field>
+-    <field name="series_si">Series II.F. Managing Editor General Files &gt;&gt; Lawsuit "Life" [RESTRICTED]</field>
+-    <field name="heading_ssm">Lawsuit "Life" [RESTRICTED]</field>
++    <field name="series_si">Series II.F. Managing Editor General Files &gt;&gt; Lawsuit &#34;Life&#34; [RESTRICTED]</field>
++    <field name="heading_ssm">Lawsuit &#34;Life&#34; [RESTRICTED]</field>
+     <field name="unitdate_ssm">Inclusive, 1988-1989</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">349</field>

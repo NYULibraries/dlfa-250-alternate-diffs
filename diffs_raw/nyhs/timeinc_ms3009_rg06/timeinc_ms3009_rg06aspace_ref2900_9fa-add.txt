@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1963-1973: Notes on "W" [Watergate]</field>
+-    <field name="unittitle_teim">1963-1973: Notes on "W" [Watergate]</field>
++    <field name="unittitle_ssm">1963-1973: Notes on &#34;W&#34; [Watergate]</field>
++    <field name="unittitle_teim">1963-1973: Notes on &#34;W&#34; [Watergate]</field>
+     <field name="unitdate_normal_ssm">1973/1973</field>
+     <field name="unitdate_normal_teim">1973/1973</field>
+     <field name="unitdate_normal_sim">1973/1973</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Offsite-Box: 1022, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1022, Folder: 1</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>
+-    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1963-1973: Notes on "W" [Watergate]</field>
+-    <field name="heading_ssm">1963-1973: Notes on "W" [Watergate]</field>
++    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1963-1973: Notes on &#34;W&#34; [Watergate]</field>
++    <field name="heading_ssm">1963-1973: Notes on &#34;W&#34; [Watergate]</field>
+     <field name="unitdate_start_sim">1973</field>
+     <field name="unitdate_start_ssm">1973</field>
+     <field name="unitdate_start_si">1973</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Sporting Times / Otherwise known as "The Pinic 'uh' / Us / And / At 'Em</field>
+-    <field name="unittitle_teim">The Sporting Times / Otherwise known as "The Pinic 'uh' / Us / And / At 'Em</field>
++    <field name="unittitle_ssm">The Sporting Times / Otherwise known as &#34;The Pinic &#39;uh&#39; / Us / And / At &#39;Em</field>
++    <field name="unittitle_teim">The Sporting Times / Otherwise known as &#34;The Pinic &#39;uh&#39; / Us / And / At &#39;Em</field>
+     <field name="unitdate_teim">1914-08-08</field>
+     <field name="ref_ssi">aspace_ref1831_23m</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 53</field>
+     <field name="location_si">Folder: 53</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series VII: Miscellaneous</field>
+     <field name="series_sim">Subseries VII.3: Foreign Non-recruitment</field>
+-    <field name="series_si">Series VII: Miscellaneous &gt;&gt; Subseries VII.3: Foreign Non-recruitment &gt;&gt; The Sporting Times / Otherwise known as "The Pinic 'uh' / Us / And / At 'Em</field>
+-    <field name="heading_ssm">The Sporting Times / Otherwise known as "The Pinic 'uh' / Us / And / At 'Em</field>
++    <field name="series_si">Series VII: Miscellaneous &gt;&gt; Subseries VII.3: Foreign Non-recruitment &gt;&gt; The Sporting Times / Otherwise known as &#34;The Pinic &#39;uh&#39; / Us / And / At &#39;Em</field>
++    <field name="heading_ssm">The Sporting Times / Otherwise known as &#34;The Pinic &#39;uh&#39; / Us / And / At &#39;Em</field>
+     <field name="unitdate_ssm">1914-08-08</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1073</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Doris Ulmann Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 72</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU's studio chair with turned arms, at table, spools of sewing thread on table</field>
+-    <field name="unittitle_teim">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU's studio chair with turned arms, at table, spools of sewing thread on table</field>
++    <field name="unittitle_ssm">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU&#39;s studio chair with turned arms, at table, spools of sewing thread on table</field>
++    <field name="unittitle_teim">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU&#39;s studio chair with turned arms, at table, spools of sewing thread on table</field>
+     <field name="ref_ssi">aspace_ref3591_cig</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,11 @@
+     <field name="location_ssm">item: 2220</field>
+     <field name="location_si">item: 2220</field>
+     <field name="collection_teim">Doris Ulmann Photograph Collection</field>
++    <field name="author_teim">Tamara Thompson; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016
++T</field>
+     <field name="collection_unitid_teim">PR 72</field>
+-    <field name="series_si">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU's studio chair with turned arms, at table, spools of sewing thread on table</field>
+-    <field name="heading_ssm">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU's studio chair with turned arms, at table, spools of sewing thread on table</field>
++    <field name="series_si">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU&#39;s studio chair with turned arms, at table, spools of sewing thread on table</field>
++    <field name="heading_ssm">bald, some medium dark hair in back, white hair on sides, middle aged, suit, vest, tie, seated in DU&#39;s studio chair with turned arms, at table, spools of sewing thread on table</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2220</field>
+   </doc>

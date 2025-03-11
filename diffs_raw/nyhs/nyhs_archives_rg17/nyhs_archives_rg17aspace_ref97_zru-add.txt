@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,14 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;New York Past and Present&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      New York Past and Present
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;New York Past and Present&lt;/em&gt;</field>
++    <field name="unittitle_teim">New York Past and Present</field>
+     <field name="unitdate_teim">1955-1956, 1963</field>
+-    <field name="scopecontent_teim">Includes correspondence with John Davis Hatch concerning a proposed reprint of I.N. Phelps Stokes's book.</field>
++    <field name="scopecontent_teim">Includes correspondence with John Davis Hatch concerning a proposed reprint of I.N. Phelps Stokes&#39;s book.</field>
+     <field name="ref_ssi">aspace_ref97_zru</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,15 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series I. Publications (1940s-1960s)</field>
+     <field name="series_sim">Subseries I.A. General Correspondence</field>
+-    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.A. General Correspondence &gt;&gt; 
+-      &lt;em&gt;New York Past and Present&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      New York Past and Present
+-    </field>
++    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.A. General Correspondence &gt;&gt; &lt;em&gt;New York Past and Present&lt;/em&gt;</field>
++    <field name="heading_ssm">New York Past and Present</field>
+     <field name="unitdate_ssm">1955-1956, 1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">46</field>

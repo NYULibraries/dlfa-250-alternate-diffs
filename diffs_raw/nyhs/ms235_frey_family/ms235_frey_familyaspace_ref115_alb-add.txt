@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Frey Family Papers</field>
+     <field name="collection_unitid_ssm">MS 235</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Subseries 33. Frey, Henrietta Swift, 1875-1882 ["Etta"]</field>
+-    <field name="unittitle_teim">Subseries 33. Frey, Henrietta Swift, 1875-1882 ["Etta"]</field>
+-    <field name="scopecontent_teim">Letters concerning family news, her children's activities.</field>
++    <field name="unittitle_ssm">Subseries 33. Frey, Henrietta Swift, 1875-1882 [&#34;Etta&#34;]</field>
++    <field name="unittitle_teim">Subseries 33. Frey, Henrietta Swift, 1875-1882 [&#34;Etta&#34;]</field>
++    <field name="scopecontent_teim">Letters concerning family news, her children&#39;s activities.</field>
+     <field name="ref_ssi">aspace_ref115_alb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,10 +23,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Frey Family Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 235</field>
+     <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+-    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 33. Frey, Henrietta Swift, 1875-1882 ["Etta"]</field>
+-    <field name="heading_ssm">Subseries 33. Frey, Henrietta Swift, 1875-1882 ["Etta"]</field>
++    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 33. Frey, Henrietta Swift, 1875-1882 [&#34;Etta&#34;]</field>
++    <field name="heading_ssm">Subseries 33. Frey, Henrietta Swift, 1875-1882 [&#34;Etta&#34;]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">75</field>
+   </doc>

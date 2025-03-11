@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Student class work - fourth grade</field>
+     <field name="unittitle_teim">Student class work - fourth grade</field>
+     <field name="unitdate_teim">1905, 1907</field>
+-    <field name="scopecontent_teim">Book created by class, "The Story of a River."</field>
++    <field name="scopecontent_teim">Book created by class, &#34;The Story of a River.&#34;</field>
+     <field name="ref_ssi">aspace_ref765_hl2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 51, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 51, Folder: 26</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 2. Early and defunct schools (1879-1957; 13.17 linear feet)</field>
+     <field name="series_sim">Series II. Ethical Culture School</field>

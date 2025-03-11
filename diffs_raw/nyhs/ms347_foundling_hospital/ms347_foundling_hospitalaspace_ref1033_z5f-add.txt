@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. John's Children's Hospital exterior - view NW from above 3rd Avenue El</field>
+-    <field name="unittitle_teim">St. John's Children's Hospital exterior - view NW from above 3rd Avenue El</field>
++    <field name="unittitle_ssm">St. John&#39;s Children&#39;s Hospital exterior - view NW from above 3rd Avenue El</field>
++    <field name="unittitle_teim">St. John&#39;s Children&#39;s Hospital exterior - view NW from above 3rd Avenue El</field>
+     <field name="unitdate_teim">circa 1882-1896</field>
+     <field name="ref_ssi">aspace_ref1033_z5f</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 59, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 59, Folder: 6</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series XI. Visual Materials, circa 1880-2005</field>
+-    <field name="series_si">Series XI. Visual Materials, circa 1880-2005 &gt;&gt; St. John's Children's Hospital exterior - view NW from above 3rd Avenue El</field>
+-    <field name="heading_ssm">St. John's Children's Hospital exterior - view NW from above 3rd Avenue El</field>
++    <field name="series_si">Series XI. Visual Materials, circa 1880-2005 &gt;&gt; St. John&#39;s Children&#39;s Hospital exterior - view NW from above 3rd Avenue El</field>
++    <field name="heading_ssm">St. John&#39;s Children&#39;s Hospital exterior - view NW from above 3rd Avenue El</field>
+     <field name="unitdate_ssm">circa 1882-1896</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">949</field>

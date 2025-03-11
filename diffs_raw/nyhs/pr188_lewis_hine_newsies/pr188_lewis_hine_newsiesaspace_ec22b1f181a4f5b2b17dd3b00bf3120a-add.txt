@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Lewis Hine New York City newsboys album</field>
+     <field name="collection_unitid_ssm">PR 188</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Page 47. Men with disabilities ("cripples") selling papers. Park Row end Brooklyn Bridge</field>
+-    <field name="unittitle_teim">Page 47. Men with disabilities ("cripples") selling papers. Park Row end Brooklyn Bridge</field>
++    <field name="unittitle_ssm">Page 47. Men with disabilities (&#34;cripples&#34;) selling papers. Park Row end Brooklyn Bridge</field>
++    <field name="unittitle_teim">Page 47. Men with disabilities (&#34;cripples&#34;) selling papers. Park Row end Brooklyn Bridge</field>
+     <field name="ref_ssi">aspace_ec22b1f181a4f5b2b17dd3b00bf3120a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+     <field name="collection_teim">Lewis Hine New York City newsboys album</field>
++    <field name="author_teim">Holly Hinman (2003), Larry Weimer (2019)</field>
+     <field name="collection_unitid_teim">PR 188</field>
+-    <field name="series_si">Page 47. Men with disabilities ("cripples") selling papers. Park Row end Brooklyn Bridge</field>
+-    <field name="heading_ssm">Page 47. Men with disabilities ("cripples") selling papers. Park Row end Brooklyn Bridge</field>
++    <field name="series_si">Page 47. Men with disabilities (&#34;cripples&#34;) selling papers. Park Row end Brooklyn Bridge</field>
++    <field name="heading_ssm">Page 47. Men with disabilities (&#34;cripples&#34;) selling papers. Park Row end Brooklyn Bridge</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">47</field>
+   </doc>

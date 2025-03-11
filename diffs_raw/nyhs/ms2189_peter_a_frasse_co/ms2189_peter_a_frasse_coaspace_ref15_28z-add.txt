@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Financial Records, 1818-1928</field>
+     <field name="unittitle_teim">Series I: Financial Records, 1818-1928</field>
+-    <field name="scopecontent_teim">This series contains the accounts of Henri Frasse, founder of Peter A. Frasse &amp; Co.from 1818-1851 and the accounts books Peter A. Frasse &amp; Co. from 1878-1880. This series also contains five Auditor's Reports of Peter A. Frasse &amp; Co. This series is divided into two subseries.</field>
++    <field name="scopecontent_teim">This series contains the accounts of Henri Frasse, founder of Peter A. Frasse &amp; Co.from 1818-1851 and the accounts books Peter A. Frasse &amp; Co. from 1878-1880. This series also contains five Auditor&#39;s Reports of Peter A. Frasse &amp; Co. This series is divided into two subseries.</field>
+     <field name="ref_ssi">aspace_ref15_28z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Peter A. Frasse &amp; Co. Records</field>
++    <field name="author_teim">Luke Meagher</field>
+     <field name="collection_unitid_teim">MS 2189</field>
+     <field name="series_si">Series I: Financial Records, 1818-1928</field>
+     <field name="heading_ssm">Series I: Financial Records, 1818-1928</field>

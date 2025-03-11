@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3144_livingston</field>
+     <field name="parent_ssi">aspace_1ffe0ad728c9bac1f4ed95b4fc82a46f</field>
+     <field name="parent_ssm">aspace_1ffe0ad728c9bac1f4ed95b4fc82a46f</field>
+-    <field name="parent_unittitles_ssm">Series V. "James Duane Livingston III (1930–[2019])," part two</field>
+-    <field name="parent_unittitles_teim">Series V. "James Duane Livingston III (1930–[2019])," part two</field>
++    <field name="parent_unittitles_ssm">Series V. &amp;#34;James Duane Livingston III (1930–[2019]),&amp;#34; part two</field>
++    <field name="parent_unittitles_teim">Series V. &amp;#34;James Duane Livingston III (1930–[2019]),&amp;#34; part two</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James Duane Livingston III family papers</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 3, Folder: 2</field>
+     <field name="location_si">Box: 3, Folder: 2</field>
+     <field name="collection_teim">James Duane Livingston III family papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3144</field>
+-    <field name="series_sim">Series V. "James Duane Livingston III (1930–[2019])," part two</field>
+-    <field name="series_si">Series V. "James Duane Livingston III (1930–[2019])," part two &gt;&gt; [James Duane Livingston III. Glenville Town Council run (2nd)]</field>
++    <field name="series_sim">Series V. &amp;#34;James Duane Livingston III (1930–[2019]),&amp;#34; part two</field>
++    <field name="series_si">Series V. &#34;James Duane Livingston III (1930–[2019]),&#34; part two &gt;&gt; [James Duane Livingston III. Glenville Town Council run (2nd)]</field>
+     <field name="heading_ssm">[James Duane Livingston III. Glenville Town Council run (2nd)]</field>
+     <field name="unitdate_ssm">Inclusive, 1969</field>
+     <field name="date_range_sim">undated &amp; other</field>

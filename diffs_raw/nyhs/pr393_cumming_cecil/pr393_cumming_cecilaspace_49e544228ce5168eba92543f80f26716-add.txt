@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Fabric samples</field>
+     <field name="unittitle_teim">Fabric samples</field>
+     <field name="unitdate_inclusive_teim">1978, undated</field>
+-    <field name="scopecontent_teim">Nine fabric samples, some with tags for "Rose Cumming Chintzes" (one bears a copyright date of 1978), and seven small, striped slipcovers or antimacassars.</field>
++    <field name="scopecontent_teim">Nine fabric samples, some with tags for &#34;Rose Cumming Chintzes&#34; (one bears a copyright date of 1978), and seven small, striped slipcovers or antimacassars.</field>
+     <field name="ref_ssi">aspace_49e544228ce5168eba92543f80f26716</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Rose Cumming, Russell L. Cecil, and affiliated families photographs and papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 393</field>
+     <field name="series_sim">Series I. Cumming family photographs and papers</field>
+     <field name="series_sim">Sub-series I.A. Rose Stuart Cumming</field>

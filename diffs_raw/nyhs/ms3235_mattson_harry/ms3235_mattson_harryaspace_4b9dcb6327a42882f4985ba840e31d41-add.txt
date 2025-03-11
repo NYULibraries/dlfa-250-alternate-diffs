@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Harry R. Mattson letters</field>
+     <field name="unittitle_teim">Harry R. Mattson letters</field>
+     <field name="unitdate_inclusive_teim">1917 August</field>
+-    <field name="scopecontent_teim">One letter dated August 23, 1917, plus Mattson's calling card.</field>
++    <field name="scopecontent_teim">One letter dated August 23, 1917, plus Mattson&#39;s calling card.</field>
+     <field name="ref_ssi">aspace_4b9dcb6327a42882f4985ba840e31d41</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1</field>
+     <field name="collection_teim">Harry R. Mattson letters</field>
++    <field name="author_teim">Joseph Ditta (July 2023)</field>
+     <field name="collection_unitid_teim">MS 3235</field>
+     <field name="series_si">Harry R. Mattson letters</field>
+     <field name="heading_ssm">Harry R. Mattson letters</field>

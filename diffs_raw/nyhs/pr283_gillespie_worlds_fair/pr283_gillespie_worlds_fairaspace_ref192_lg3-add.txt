@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr283_gillespie_worlds_fair</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Paul Gillespie collection of New York World's Fair materials</field>
+-    <field name="collection_ssm">Paul Gillespie collection of New York World's Fair materials</field>
++    <field name="collection_sim">Paul Gillespie collection of New York World&#39;s Fair materials</field>
++    <field name="collection_ssm">Paul Gillespie collection of New York World&#39;s Fair materials</field>
+     <field name="collection_unitid_ssm">PR 283</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VII. Oversize Materials</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1939/1989</field>
+     <field name="unitdate_inclusive_teim">1939, 1986, 1989</field>
+     <field name="scopecontent_teim">This series includes oversize materials from Series I. Photographs; Series V. Ephemera; and Series VI. Publications.</field>
+-    <field name="scopecontent_teim">Noteworthy items include, "Time Tears On," a souvenir book made for and by New York World's Fair employees, and the "U.S. Camera, World's Fair Issue," which contains an interesting collection of fair photography.</field>
++    <field name="scopecontent_teim">Noteworthy items include, &#34;Time Tears On,&#34; a souvenir book made for and by New York World&#39;s Fair employees, and the &#34;U.S. Camera, World&#39;s Fair Issue,&#34; which contains an interesting collection of fair photography.</field>
+     <field name="ref_ssi">aspace_ref192_lg3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,7 +23,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Paul Gillespie collection of New York World's Fair materials</field>
++    <field name="collection_teim">Paul Gillespie collection of New York World&#39;s Fair materials</field>
++    <field name="author_teim">Kenneth Cleary</field>
+     <field name="collection_unitid_teim">PR 283</field>
+     <field name="series_si">Series VII. Oversize Materials</field>
+     <field name="heading_ssm">Series VII. Oversize Materials</field>

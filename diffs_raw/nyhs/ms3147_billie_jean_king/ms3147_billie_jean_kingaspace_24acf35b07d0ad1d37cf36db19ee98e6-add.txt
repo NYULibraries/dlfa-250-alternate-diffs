@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">The White House</field>
+     <field name="unittitle_teim">The White House</field>
+     <field name="unitdate_inclusive_teim">1970-2017</field>
+-    <field name="scopecontent_teim">Contains correspondence from The White House sent over various administrations, including a congratulatory letter for BJK's victories at Wimbledon from President Richard Nixon, Christmas cards from the Nixons, a note from Michelle Obama's Chief of Staff Tina Chen, and a letter from John DeStefano on behalf of President Trump ending BJK's appointment to the President's Council on Fitness, Sports, and Nutrition and thanking her for prior service.</field>
++    <field name="scopecontent_teim">Contains correspondence from The White House sent over various administrations, including a congratulatory letter for BJK&#39;s victories at Wimbledon from President Richard Nixon, Christmas cards from the Nixons, a note from Michelle Obama&#39;s Chief of Staff Tina Chen, and a letter from John DeStefano on behalf of President Trump ending BJK&#39;s appointment to the President&#39;s Council on Fitness, Sports, and Nutrition and thanking her for prior service.</field>
+     <field name="ref_ssi">aspace_24acf35b07d0ad1d37cf36db19ee98e6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 24, Folder: 39</field>
+     <field name="location_si">Offsite-Box: 24, Folder: 39</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VI. Correspondence</field>
+     <field name="series_sim">Subseries VI.A. Alphabetical correspondence</field>

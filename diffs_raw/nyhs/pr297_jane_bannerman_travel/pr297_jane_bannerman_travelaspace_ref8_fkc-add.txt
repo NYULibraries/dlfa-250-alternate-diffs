@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Jane Bannerman Travel Sketchbooks Collection</field>
+     <field name="collection_unitid_ssm">PR 297</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Martha's Vineyard, MA</field>
+-    <field name="unittitle_teim">Martha's Vineyard, MA</field>
++    <field name="unittitle_ssm">Martha&#39;s Vineyard, MA</field>
++    <field name="unittitle_teim">Martha&#39;s Vineyard, MA</field>
+     <field name="unitdate_teim">1960</field>
+     <field name="ref_ssi">aspace_ref8_fkc</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 2</field>
+     <field name="collection_teim">Jane Bannerman Travel Sketchbooks Collection</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 297</field>
+-    <field name="series_si">Martha's Vineyard, MA</field>
+-    <field name="heading_ssm">Martha's Vineyard, MA</field>
++    <field name="series_si">Martha&#39;s Vineyard, MA</field>
++    <field name="heading_ssm">Martha&#39;s Vineyard, MA</field>
+     <field name="unitdate_ssm">1960</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

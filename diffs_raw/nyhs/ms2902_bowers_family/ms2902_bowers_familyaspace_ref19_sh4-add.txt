@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1741/1901</field>
+     <field name="unitdate_normal_sim">1741/1901</field>
+     <field name="unitdate_inclusive_teim">1741-1901, undated</field>
+-    <field name="scopecontent_teim">Subseries A contains documents pertaining to the Bowers family's land transactions. These documents include leases, bonds for deed, releases, various state documents, as well as a variety of real property documents. All of these documents are arranged chronologically.</field>
++    <field name="scopecontent_teim">Subseries A contains documents pertaining to the Bowers family&#39;s land transactions. These documents include leases, bonds for deed, releases, various state documents, as well as a variety of real property documents. All of these documents are arranged chronologically.</field>
+     <field name="ref_ssi">aspace_ref19_sh4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bowers family papers</field>
++    <field name="author_teim">Christine George</field>
+     <field name="collection_unitid_teim">MS 2902</field>
+     <field name="series_sim">Series II: Legal Papers</field>
+     <field name="series_si">Series II: Legal Papers &gt;&gt; Subseries II.A: Property Documents</field>

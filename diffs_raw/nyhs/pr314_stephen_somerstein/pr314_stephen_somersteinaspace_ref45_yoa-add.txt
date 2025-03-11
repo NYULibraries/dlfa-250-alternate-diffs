@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Stephen Somerstein photographs of the 1965 march from Selma to Montgomery</field>
+     <field name="collection_unitid_ssm">PR 314</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[45] Family watching civil rights marchers, with "Things Go Better With Coke" billboard behind them.</field>
+-    <field name="unittitle_teim">[45] Family watching civil rights marchers, with "Things Go Better With Coke" billboard behind them.</field>
++    <field name="unittitle_ssm">[45] Family watching civil rights marchers, with &#34;Things Go Better With Coke&#34; billboard behind them.</field>
++    <field name="unittitle_teim">[45] Family watching civil rights marchers, with &#34;Things Go Better With Coke&#34; billboard behind them.</field>
+     <field name="unitid_teim">45</field>
+     <field name="unitid_ssm">45</field>
+     <field name="unitdate_teim">1965</field>
+@@ -23,9 +23,10 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Stephen Somerstein photographs of the 1965 march from Selma to Montgomery</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 314</field>
+-    <field name="series_si">[45] Family watching civil rights marchers, with "Things Go Better With Coke" billboard behind them.</field>
+-    <field name="heading_ssm">[45] Family watching civil rights marchers, with "Things Go Better With Coke" billboard behind them.</field>
++    <field name="series_si">[45] Family watching civil rights marchers, with &#34;Things Go Better With Coke&#34; billboard behind them.</field>
++    <field name="heading_ssm">[45] Family watching civil rights marchers, with &#34;Things Go Better With Coke&#34; billboard behind them.</field>
+     <field name="unitdate_ssm">1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">45</field>

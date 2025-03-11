@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Military Order of Foreign Wars of the United States, New York Commandery records</field>
+     <field name="collection_unitid_ssm">MS 3201</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Events. President's Day celebration</field>
+-    <field name="unittitle_teim">Events. President's Day celebration</field>
++    <field name="unittitle_ssm">Events. President&#39;s Day celebration</field>
++    <field name="unittitle_teim">Events. President&#39;s Day celebration</field>
+     <field name="unitdate_inclusive_teim">2008 February 21</field>
+     <field name="scopecontent_teim">Includes print-outs of digital photographs. The folder also has the CD of images; this is restricted from use in order not to corrupt the files. For access, make arrangements with the manuscripts curator at manuscripts@nyhistory.org.</field>
+     <field name="ref_ssi">aspace_19f56178520fe1d62aa97173e6940d3a</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 43</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 43</field>
+     <field name="collection_teim">Military Order of Foreign Wars of the United States, New York Commandery records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3201</field>
+     <field name="series_sim">Series III. Photographs and Graphic Material</field>
+-    <field name="series_si">Series III. Photographs and Graphic Material &gt;&gt; Events. President's Day celebration</field>
+-    <field name="heading_ssm">Events. President's Day celebration</field>
++    <field name="series_si">Series III. Photographs and Graphic Material &gt;&gt; Events. President&#39;s Day celebration</field>
++    <field name="heading_ssm">Events. President&#39;s Day celebration</field>
+     <field name="unitdate_ssm">Inclusive, 2008 February 21</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">68</field>

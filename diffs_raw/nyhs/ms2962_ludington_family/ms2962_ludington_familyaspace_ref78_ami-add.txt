@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ludington Family Papers</field>
+     <field name="collection_unitid_ssm">MS 2962</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Engraving plate, Lewis Ludington's home in Carmel</field>
+-    <field name="unittitle_teim">Engraving plate, Lewis Ludington's home in Carmel</field>
++    <field name="unittitle_ssm">Engraving plate, Lewis Ludington&#39;s home in Carmel</field>
++    <field name="unittitle_teim">Engraving plate, Lewis Ludington&#39;s home in Carmel</field>
+     <field name="ref_ssi">aspace_ref78_ami</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 7, Folder: 12</field>
+     <field name="location_si">Box: 7, Folder: 12</field>
+     <field name="collection_teim">Ludington Family Papers</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 2962</field>
+     <field name="series_sim">Series VI: Printing plates and personal effects</field>
+-    <field name="series_si">Series VI: Printing plates and personal effects &gt;&gt; Engraving plate, Lewis Ludington's home in Carmel</field>
+-    <field name="heading_ssm">Engraving plate, Lewis Ludington's home in Carmel</field>
++    <field name="series_si">Series VI: Printing plates and personal effects &gt;&gt; Engraving plate, Lewis Ludington&#39;s home in Carmel</field>
++    <field name="heading_ssm">Engraving plate, Lewis Ludington&#39;s home in Carmel</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>
+   </doc>

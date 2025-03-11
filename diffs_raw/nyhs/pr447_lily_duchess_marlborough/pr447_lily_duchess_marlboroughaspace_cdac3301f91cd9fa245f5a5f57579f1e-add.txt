@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Tear sheet</field>
+     <field name="unittitle_teim">Tear sheet</field>
+     <field name="unitdate_teim">1906</field>
+-    <field name="scopecontent_teim">"The Bystander" of January 24, 1906; front page with photo of Lily and her son.</field>
++    <field name="scopecontent_teim">&#34;The Bystander&#34; of January 24, 1906; front page with photo of Lily and her son.</field>
+     <field name="ref_ssi">aspace_cdac3301f91cd9fa245f5a5f57579f1e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Lily Spencer-Churchill, Duchess of Marlborough collection</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 447</field>
+     <field name="series_si">Tear sheet</field>
+     <field name="heading_ssm">Tear sheet</field>

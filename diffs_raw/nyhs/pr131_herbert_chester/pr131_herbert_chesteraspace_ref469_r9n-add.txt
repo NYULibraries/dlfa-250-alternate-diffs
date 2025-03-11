@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">H.M. Chester photograph collection</field>
+     <field name="collection_unitid_ssm">PR 131</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Columbia&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Columbia
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Columbia&lt;/em&gt;</field>
++    <field name="unittitle_teim">Columbia</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="title_teim">Columbia</field>
+     <field name="title_ssm">Columbia</field>
+@@ -34,15 +30,12 @@
+     <field name="location_ssm">Box: 9, Folder: 533</field>
+     <field name="location_si">Box: 9, Folder: 533</field>
+     <field name="collection_teim">H.M. Chester photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 131</field>
+     <field name="series_sim">Miscellaneous</field>
+     <field name="series_sim">Ships</field>
+-    <field name="series_si">Miscellaneous &gt;&gt; Ships &gt;&gt; 
+-      &lt;em&gt;Columbia&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Columbia
+-    </field>
++    <field name="series_si">Miscellaneous &gt;&gt; Ships &gt;&gt; &lt;em&gt;Columbia&lt;/em&gt;</field>
++    <field name="heading_ssm">Columbia</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">456</field>

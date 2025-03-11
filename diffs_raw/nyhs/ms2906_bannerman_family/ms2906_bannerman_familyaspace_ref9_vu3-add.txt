@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Bannerman Family papers</field>
+     <field name="collection_unitid_ssm">MS 2906</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Cornell's Intermediate Geography&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Cornell's Intermediate Geography
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Cornell&#39;s Intermediate Geography&lt;/em&gt;</field>
++    <field name="unittitle_teim">Cornell&#39;s Intermediate Geography</field>
+     <field name="unitdate_teim">[1865]</field>
+     <field name="ref_ssi">aspace_ref9_vu3</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -29,14 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">Bannerman Family papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MS 2906</field>
+     <field name="series_sim">Series I: Bannerman Family</field>
+-    <field name="series_si">Series I: Bannerman Family &gt;&gt; 
+-      &lt;em&gt;Cornell's Intermediate Geography&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Cornell's Intermediate Geography
+-    </field>
++    <field name="series_si">Series I: Bannerman Family &gt;&gt; &lt;em&gt;Cornell&#39;s Intermediate Geography&lt;/em&gt;</field>
++    <field name="heading_ssm">Cornell&#39;s Intermediate Geography</field>
+     <field name="unitdate_ssm">[1865]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

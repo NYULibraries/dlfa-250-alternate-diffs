@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Office of Price Administration | Award</field>
+     <field name="unittitle_teim">Office of Price Administration | Award</field>
+     <field name="unitdate_teim">1944 July 1</field>
+-    <field name="scopecontent_teim">War Service Award issued by the Office of Price Administration to William Sharman "for voluntary service in the successful operation of price control and rationing."</field>
++    <field name="scopecontent_teim">War Service Award issued by the Office of Price Administration to William Sharman &#34;for voluntary service in the successful operation of price control and rationing.&#34;</field>
+     <field name="ref_ssi">aspace_21085cde06475ceb0f5e72ba48764a85</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">oversize: medium, Folder: 1 (of 1)</field>
+     <field name="location_si">oversize: medium, Folder: 1 (of 1)</field>
+     <field name="collection_teim">William Sharman papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3068</field>
+     <field name="series_sim">Series II. World War II</field>
+     <field name="series_si">Series II. World War II &gt;&gt; Office of Price Administration | Award</field>

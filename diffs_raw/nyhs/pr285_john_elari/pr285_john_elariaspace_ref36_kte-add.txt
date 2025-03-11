@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Events</field>
+     <field name="unittitle_teim">Events</field>
+     <field name="unitdate_teim">1971-1999</field>
+-    <field name="scopecontent_teim">Images of the Macy's Thanksgiving Day parade, the Bicentennial Celebration, Christmas displays, and the Easter parade.</field>
++    <field name="scopecontent_teim">Images of the Macy&#39;s Thanksgiving Day parade, the Bicentennial Celebration, Christmas displays, and the Easter parade.</field>
+     <field name="ref_ssi">aspace_ref36_kte</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">John Elari photographic slide collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 285</field>
+     <field name="series_si">Events</field>
+     <field name="heading_ssm">Events</field>

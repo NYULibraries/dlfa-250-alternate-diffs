@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Richard M. Pieronek photographic slides of New York City</field>
+     <field name="collection_unitid_ssm">PR 327</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Slide Case 4. World's Fair</field>
+-    <field name="unittitle_teim">Slide Case 4. World's Fair</field>
++    <field name="unittitle_ssm">Slide Case 4. World&#39;s Fair</field>
++    <field name="unittitle_teim">Slide Case 4. World&#39;s Fair</field>
+     <field name="unitdate_teim">1964</field>
+     <field name="ref_ssi">aspace_ref10_w11</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, slide-case: 4</field>
+     <field name="location_si">Box: 1, slide-case: 4</field>
+     <field name="collection_teim">Richard M. Pieronek photographic slides of New York City</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 327</field>
+-    <field name="series_si">Slide Case 4. World's Fair</field>
+-    <field name="heading_ssm">Slide Case 4. World's Fair</field>
++    <field name="series_si">Slide Case 4. World&#39;s Fair</field>
++    <field name="heading_ssm">Slide Case 4. World&#39;s Fair</field>
+     <field name="unitdate_ssm">1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

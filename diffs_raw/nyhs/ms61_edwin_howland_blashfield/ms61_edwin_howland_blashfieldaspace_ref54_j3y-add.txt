@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 3: Speeches, [1921-1936], undated</field>
+     <field name="unittitle_teim">Subseries 3: Speeches, [1921-1936], undated</field>
+-    <field name="scopecontent_teim">This subseries contains speeches and lectures written by Blashfield on the subject of art. He would often address his colleagues regarding issues facing their professional art associations. He also lectured. There is also a speech written by R. U. Johnson about "preserving the English Language in its beauty and purity."</field>
++    <field name="scopecontent_teim">This subseries contains speeches and lectures written by Blashfield on the subject of art. He would often address his colleagues regarding issues facing their professional art associations. He also lectured. There is also a speech written by R. U. Johnson about &#34;preserving the English Language in its beauty and purity.&#34;</field>
+     <field name="ref_ssi">aspace_ref54_j3y</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edwin Howland Blashfield papers</field>
++    <field name="author_teim">Processed by Gregory Tavormina</field>
+     <field name="collection_unitid_teim">MS 61</field>
+     <field name="series_sim">Series II: Writings, [1870-1936], undated</field>
+     <field name="series_si">Series II: Writings, [1870-1936], undated &gt;&gt; Subseries 3: Speeches, [1921-1936], undated</field>

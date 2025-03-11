@@ -1,0 +1,78 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,30 +16,44 @@
+     <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+     <field name="collection_unitid_ssm">PR 54</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Canada&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Canada
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Canada&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Canada</field>
+     <field name="scopecontent_teim">Alberta
++
+ Banff
++
+ Jasper National Park
++
+ Lake Louise
++
+ Moraine Lake
+-General</field>
++
++General
++</field>
+     <field name="scopecontent_teim">British Columbia
++
+ Field
++
+ Glacier
++
+ Vancouver
++
+ Victoria
+-General</field>
+-    <field name="scopecontent_teim">Manitoba</field>
++
++General
++</field>
++    <field name="scopecontent_teim">Manitoba
++</field>
+     <field name="scopecontent_teim">New Brunswick
++
+ Fredericton
++
+ St. John
+-General</field>
+-    <field name="scopecontent_teim">Newfoundland</field>
++
++General
++</field>
++    <field name="scopecontent_teim">Newfoundland
++</field>
+     <field name="ref_ssi">aspace_ref488_815</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -49,15 +63,12 @@
+     <field name="location_ssm">Box: 86-B</field>
+     <field name="location_si">Box: 86-B</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series III. Geographic Locations | International</field>
+     <field name="series_sim">Subseries III.E. North and Central America</field>
+-    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.E. North and Central America &gt;&gt; 
+-      &lt;strong&gt;Canada&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Canada
+-    </field>
++    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.E. North and Central America &gt;&gt; &lt;strong&gt;Canada&lt;/strong&gt;</field>
++    <field name="heading_ssm">Canada</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">377</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">[Legal Documents] (Folder 2 of 2)</field>
+     <field name="unittitle_teim">[Legal Documents] (Folder 2 of 2)</field>
+     <field name="unitdate_inclusive_teim">1824</field>
+-    <field name="scopecontent_teim">William Belden's oversized warranty deed / indenture for property in the Seventh Ward of New York City.</field>
++    <field name="scopecontent_teim">William Belden&#39;s oversized warranty deed / indenture for property in the Seventh Ward of New York City.</field>
+     <field name="ref_ssi">aspace_6399aa69d0b580576f0992ec33a3e9a5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: Oversize Small</field>
+     <field name="location_si">Box: Oversize Small</field>
+     <field name="collection_teim">Abigail Belden Whelpley papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 3067</field>
+     <field name="series_si">[Legal Documents] (Folder 2 of 2)</field>
+     <field name="heading_ssm">[Legal Documents] (Folder 2 of 2)</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Eugenia Flatow papers</field>
+     <field name="collection_unitid_ssm">MS 3175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The State of The City's Waters</field>
+-    <field name="unittitle_teim">The State of The City's Waters</field>
++    <field name="unittitle_ssm">The State of The City&#39;s Waters</field>
++    <field name="unittitle_teim">The State of The City&#39;s Waters</field>
+     <field name="unitdate_inclusive_teim">1994</field>
+     <field name="ref_ssi">aspace_8b07e67071600b1d7f13fba185d6b67c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 11</field>
+     <field name="collection_teim">Eugenia Flatow papers</field>
++    <field name="author_teim">Nicole Font</field>
+     <field name="collection_unitid_teim">MS 3175</field>
+     <field name="series_sim">Series III. Waterfronts, Waterways, and Waterborne Transportation</field>
+     <field name="series_sim">Subseries III.B. Water Quality</field>
+-    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.B. Water Quality &gt;&gt; The State of The City's Waters</field>
+-    <field name="heading_ssm">The State of The City's Waters</field>
++    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.B. Water Quality &gt;&gt; The State of The City&#39;s Waters</field>
++    <field name="heading_ssm">The State of The City&#39;s Waters</field>
+     <field name="unitdate_ssm">Inclusive, 1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">311</field>

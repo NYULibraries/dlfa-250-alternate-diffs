@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Cobb, Irvin S. and Buff</field>
+     <field name="unittitle_teim">Cobb, Irvin S. and Buff</field>
+     <field name="unitdate_teim">1942</field>
+-    <field name="scopecontent_teim">Includes the poem "Roll Call" by Irvin S. Cobb.</field>
++    <field name="scopecontent_teim">Includes the poem &#34;Roll Call&#34; by Irvin S. Cobb.</field>
+     <field name="ref_ssi">aspace_ref1735_aop</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 82, Folder: 4</field>
+     <field name="location_si">Box: 82, Folder: 4</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Letters</field>
+     <field name="unittitle_teim">Letters</field>
+     <field name="unitdate_teim">1852 January-April</field>
+-    <field name="scopecontent_teim">See 1852 March 17, from Eastman Johnson, at Venice, on the rigors of his European travels and comments on art: "Florence is beautiful, tho. I was somewhat disappointed in its pictures. The more I see of old pictures the more humbug I find in them, &amp; I have had a surfeit these past few days." Johnson (1824-1906) was an artist and co-founder of the Metropolitan Museum of Art.</field>
++    <field name="scopecontent_teim">See 1852 March 17, from Eastman Johnson, at Venice, on the rigors of his European travels and comments on art: &#34;Florence is beautiful, tho. I was somewhat disappointed in its pictures. The more I see of old pictures the more humbug I find in them, &amp; I have had a surfeit these past few days.&#34; Johnson (1824-1906) was an artist and co-founder of the Metropolitan Museum of Art.</field>
+     <field name="ref_ssi">aspace_ref84_p5w</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 7, Folder: 6</field>
+     <field name="location_si">Box: 7, Folder: 6</field>
+     <field name="collection_teim">George Folsom papers</field>
++    <field name="author_teim">Joseph Ditta (2017, 2018)</field>
+     <field name="collection_unitid_teim">MS 222</field>
+     <field name="series_sim">Box 7: Letters, 1849-1852 (September)</field>
+     <field name="series_si">Box 7: Letters, 1849-1852 (September) &gt;&gt; Letters</field>

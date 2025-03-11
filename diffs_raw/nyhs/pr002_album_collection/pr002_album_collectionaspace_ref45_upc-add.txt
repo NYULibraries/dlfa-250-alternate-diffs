@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1900/1901</field>
+     <field name="unitdate_normal_sim">1900/1901</field>
+     <field name="unitdate_inclusive_teim">1900-1901</field>
+-    <field name="scopecontent_teim">Views of Francis Boyer, "Aunt Nathalie"; a house called Brendon; dogs and cats; gardens; Florham, Madison, New Jersey; Flossie Twombly in wagon; Shelbourne Farms, Vermont: house, training stables, Lake Champlain, Flossie Twombly, Fredenia Webb with tennis rackets; Seward Webb, Watson Webb, including view of Watson Webb on horseback; views on Jekyl Island, Georgia, March 1901, group portraits; Josephine Atterburn; 37th Street (West), The Brick Church; Lucy Gumer [?]; 42 W. 37th Street; Otter Creek; other views.</field>
++    <field name="scopecontent_teim">Views of Francis Boyer, &#34;Aunt Nathalie&#34;; a house called Brendon; dogs and cats; gardens; Florham, Madison, New Jersey; Flossie Twombly in wagon; Shelbourne Farms, Vermont: house, training stables, Lake Champlain, Flossie Twombly, Fredenia Webb with tennis rackets; Seward Webb, Watson Webb, including view of Watson Webb on horseback; views on Jekyl Island, Georgia, March 1901, group portraits; Josephine Atterburn; 37th Street (West), The Brick Church; Lucy Gumer [?]; 42 W. 37th Street; Otter Creek; other views.</field>
+     <field name="ref_ssi">aspace_ref45_upc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Volume: 13</field>
+     <field name="location_si">Offsite-Box: 1, Volume: 13</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[Album of snapshots in Vermont, New Jersey, Georgia and New York, possibly by Pauline Robinson]</field>
+     <field name="heading_ssm">[Album of snapshots in Vermont, New Jersey, Georgia and New York, possibly by Pauline Robinson]</field>

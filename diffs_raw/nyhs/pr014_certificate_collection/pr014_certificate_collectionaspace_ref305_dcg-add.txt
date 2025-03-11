@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,8 +15,8 @@
+     <field name="scopecontent_teim"> This series contains certificates of membership to societies such as the American
+ Association for the Advancement of Science, the National Geographic Society, the New York Academy of
+ Science, and the New York Zoological Society. </field>
+-    <field name="scopecontent_teim">Award certificates from various environmental, agricultural, and horticultural societies include an award for "a superior market wagon" from the Queens County Agricultural Society, and "best 12 ears
+-of sweet corn" from the Horticultural Society of Morrisania.</field>
++    <field name="scopecontent_teim">Award certificates from various environmental, agricultural, and horticultural societies include an award for &#34;a superior market wagon&#34; from the Queens County Agricultural Society, and &#34;best 12 ears
++of sweet corn&#34; from the Horticultural Society of Morrisania.</field>
+     <field name="scopecontent_teim">A certificate of membership in the Audubon
+ Society is embellished with an engraved portrait of Audubon as well as a small image of Cedar Birds. </field>
+     <field name="scopecontent_teim">A hand-lettered certificate by Tiffany and Co. from the American Numismatic and Archaeological Society
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New-York Historical Society collection of certificates</field>
++    <field name="author_teim">Kelly McAnnaney (2008). Revised by Marybeth Kavanagh (2018).</field>
+     <field name="collection_unitid_teim">PR 014</field>
+     <field name="series_si">Series XIX: Scientific</field>
+     <field name="heading_ssm">Series XIX: Scientific</field>

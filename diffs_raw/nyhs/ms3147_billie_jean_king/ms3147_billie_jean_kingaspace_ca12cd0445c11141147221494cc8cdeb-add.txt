@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries VIII.D. Events</field>
+     <field name="unittitle_teim">Subseries VIII.D. Events</field>
+     <field name="unitdate_inclusive_teim">1960-2020</field>
+-    <field name="scopecontent_teim">Subseries VIII.D includes photographs from various events attended by BJK, including fundraising events, sporting events, awards presentations, and television appearances. Notable events include BJK's induction into the International Tennis Hall of Fame, induction into the National Women's Hall of Fame, and renaming ceremony for the USTA BJK National Tennis Center. Photos date from 1960 to 2020.</field>
++    <field name="scopecontent_teim">Subseries VIII.D includes photographs from various events attended by BJK, including fundraising events, sporting events, awards presentations, and television appearances. Notable events include BJK&#39;s induction into the International Tennis Hall of Fame, induction into the National Women&#39;s Hall of Fame, and renaming ceremony for the USTA BJK National Tennis Center. Photos date from 1960 to 2020.</field>
+     <field name="ref_ssi">aspace_ca12cd0445c11141147221494cc8cdeb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VIII. Photographs</field>
+     <field name="series_si">Series VIII. Photographs &gt;&gt; Subseries VIII.D. Events</field>

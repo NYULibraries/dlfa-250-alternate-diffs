@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Events, dinners, inspections, etc.</field>
+     <field name="unittitle_teim">Events, dinners, inspections, etc.</field>
+     <field name="unitdate_inclusive_teim">1914-1918</field>
+-    <field name="scopecontent_teim">Among other subjects, this volume holds documents other than clippings concerning the Corps' World War I service.</field>
++    <field name="scopecontent_teim">Among other subjects, this volume holds documents other than clippings concerning the Corps&#39; World War I service.</field>
+     <field name="ref_ssi">aspace_8cf477774b8381b2d266e666d9e4e46b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Volume: SN-2</field>
+     <field name="location_si">Offsite-Box: 4, Volume: SN-2</field>
+     <field name="collection_teim">Veteran Corps of Artillery and Military Society of the War of 1812 records</field>
++    <field name="author_teim">Larry Weimer and Elise Winks</field>
+     <field name="collection_unitid_teim">MS 3120</field>
+     <field name="series_sim">Series III. Scrapbooks</field>
+     <field name="series_si">Series III. Scrapbooks &gt;&gt; Events, dinners, inspections, etc.</field>

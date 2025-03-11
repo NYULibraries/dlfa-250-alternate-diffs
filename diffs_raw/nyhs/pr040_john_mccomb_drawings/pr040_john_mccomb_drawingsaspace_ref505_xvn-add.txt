@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">John McComb architectural drawings collection</field>
+     <field name="collection_unitid_ssm">PR 40</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lighthouse at Eaton's Neck, L.I.N.Y.</field>
+-    <field name="unittitle_teim">Lighthouse at Eaton's Neck, L.I.N.Y.</field>
++    <field name="unittitle_ssm">Lighthouse at Eaton&#39;s Neck, L.I.N.Y.</field>
++    <field name="unittitle_teim">Lighthouse at Eaton&#39;s Neck, L.I.N.Y.</field>
+     <field name="ref_ssi">aspace_ref505_xvn</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: McComb box 4, item: 78</field>
+     <field name="location_si">Box: McComb box 4, item: 78</field>
+     <field name="collection_teim">John McComb architectural drawings collection</field>
++    <field name="author_teim">Jenny Gotwals and Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 40</field>
+-    <field name="series_si">Lighthouse at Eaton's Neck, L.I.N.Y.</field>
+-    <field name="heading_ssm">Lighthouse at Eaton's Neck, L.I.N.Y.</field>
++    <field name="series_si">Lighthouse at Eaton&#39;s Neck, L.I.N.Y.</field>
++    <field name="heading_ssm">Lighthouse at Eaton&#39;s Neck, L.I.N.Y.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">501</field>
+   </doc>

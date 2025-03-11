@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Lewis L. Delafield, Eugene D. Hawkins and affiliated attorneys records</field>
+     <field name="collection_unitid_ssm">MS 157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">D &amp;amp; L Print Matter Packet 49</field>
++    <field name="unittitle_ssm">D &amp; L Print Matter Packet 49</field>
+     <field name="unittitle_teim">D &amp; L Print Matter Packet 49</field>
+     <field name="unitdate_inclusive_teim">1893-1901</field>
+-    <field name="scopecontent_teim">The content are not printed papers, but financial records. It is not entirely clear but these seem to be records of architects Abner J. Haydel and Augustus D. Shepard, Jr. All of the volumes are initialed on the inside cover "WHM Dec 2 '02." The volumes are: 1) Cash record from May 1893-February 1901. 2) Account book ca. 1894-1901. 3) Day book, November 1894-April 1901 (there are some Haydel/Shepard invoices in this book). 4) 5 checkbooks May 1893-June 1901.</field>
++    <field name="scopecontent_teim">The content are not printed papers, but financial records. It is not entirely clear but these seem to be records of architects Abner J. Haydel and Augustus D. Shepard, Jr. All of the volumes are initialed on the inside cover &#34;WHM Dec 2 &#39;02.&#34; The volumes are: 1) Cash record from May 1893-February 1901. 2) Account book ca. 1894-1901. 3) Day book, November 1894-April 1901 (there are some Haydel/Shepard invoices in this book). 4) 5 checkbooks May 1893-June 1901.</field>
+     <field name="ref_ssi">aspace_942187727ad181d4406fcc7a6015cc94</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 30</field>
+     <field name="location_si">Offsite-Box: 30</field>
+     <field name="collection_teim">Lewis L. Delafield, Eugene D. Hawkins and affiliated attorneys records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 157</field>
+     <field name="series_sim">Series I. Boxes labeled D-L (Delafield-Longfellow)</field>
+     <field name="series_sim">Subseries I.B. Printed Papers</field>
+-    <field name="series_si">Series I. Boxes labeled D-L (Delafield-Longfellow) &gt;&gt; Subseries I.B. Printed Papers &gt;&gt; D &amp;amp; L Print Matter Packet 49</field>
++    <field name="series_si">Series I. Boxes labeled D-L (Delafield-Longfellow) &gt;&gt; Subseries I.B. Printed Papers &gt;&gt; D &amp; L Print Matter Packet 49</field>
+     <field name="heading_ssm">D &amp; L Print Matter Packet 49</field>
+     <field name="unitdate_ssm">Inclusive, 1893-1901</field>
+     <field name="date_range_sim">undated &amp; other</field>

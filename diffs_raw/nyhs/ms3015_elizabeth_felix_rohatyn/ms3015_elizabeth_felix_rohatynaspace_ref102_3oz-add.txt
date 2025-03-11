@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Nixon, Richard</field>
+     <field name="unittitle_teim">Nixon, Richard</field>
+     <field name="unitdate_teim">1989</field>
+-    <field name="scopecontent_teim">Includes one letter, responding favorably to Rohatyn's address at the Chicago Economic Club.</field>
++    <field name="scopecontent_teim">Includes one letter, responding favorably to Rohatyn&#39;s address at the Chicago Economic Club.</field>
+     <field name="ref_ssi">aspace_ref102_3oz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 24</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 24</field>
+     <field name="collection_teim">Elizabeth and Felix G. Rohatyn papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3015</field>
+     <field name="series_sim">Series I. General Correspondence and Subject Files</field>
+     <field name="series_si">Series I. General Correspondence and Subject Files &gt;&gt; Nixon, Richard</field>

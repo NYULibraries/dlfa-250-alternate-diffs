@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter's stance. In the background are representations of the Capitol and the White House.</field>
+-    <field name="unittitle_teim">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter's stance. In the background are representations of the Capitol and the White House.</field>
++    <field name="unittitle_ssm">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter&#39;s stance. In the background are representations of the Capitol and the White House.</field>
++    <field name="unittitle_teim">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter&#39;s stance. In the background are representations of the Capitol and the White House.</field>
+     <field name="unitdate_teim">1861</field>
+     <field name="scopecontent_teim">Woodcut: Signed Morse. Acquisition(?) date on front: Apr. 14, 1908.</field>
+     <field name="ref_ssi">aspace_97e3397207d73cc244091bf50ad4335a</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-80, item: 1861-36</field>
+     <field name="location_si">Folder: FF-80, item: 1861-36</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; [No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter's stance. In the background are representations of the Capitol and the White House.</field>
+-    <field name="heading_ssm">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter's stance. In the background are representations of the Capitol and the White House.</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; [No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter&#39;s stance. In the background are representations of the Capitol and the White House.</field>
++    <field name="heading_ssm">[No Title] Picture shows Lincoln and Jefferson Davis (?) in boxer tights striking a fighter&#39;s stance. In the background are representations of the Capitol and the White House.</field>
+     <field name="unitdate_ssm">1861</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">753</field>

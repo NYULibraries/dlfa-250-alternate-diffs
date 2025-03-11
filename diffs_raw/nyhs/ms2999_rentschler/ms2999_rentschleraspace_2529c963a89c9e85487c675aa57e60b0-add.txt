@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Financial: publication</field>
+     <field name="unittitle_teim">Financial: publication</field>
+     <field name="unitdate_inclusive_teim">1919</field>
+-    <field name="scopecontent_teim">Dummy book "Seventy Years of Growth: The Modern Development of Heavy Duty Engines," the Hooven Owens Rentschler Company, Hamilton, Ohio.</field>
++    <field name="scopecontent_teim">Dummy book &#34;Seventy Years of Growth: The Modern Development of Heavy Duty Engines,&#34; the Hooven Owens Rentschler Company, Hamilton, Ohio.</field>
+     <field name="ref_ssi">aspace_2529c963a89c9e85487c675aa57e60b0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: Man-14, Folder: 17</field>
+     <field name="location_si">Offsite-Box: Man-14, Folder: 17</field>
+     <field name="collection_teim">Mary Coolidge Rentschler collection</field>
++    <field name="author_teim">Helen Selsdon (outside archival consultant, 2002/2004); finding aid migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">MS 2999</field>
+     <field name="series_sim">Series I. Manuscripts and memorabilia</field>
+     <field name="series_sim">Subseries I.C. Gordon Sohn Rentschler (1885–1948) [GSR]</field>

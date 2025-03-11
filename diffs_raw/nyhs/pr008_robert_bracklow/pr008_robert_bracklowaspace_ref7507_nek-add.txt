@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">1949 Gift</field>
+     <field name="unittitle_teim">1949 Gift</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">Mrs. Hopper Striker Mott donated one "Glimpses Through the Camera" mounted photo.</field>
++    <field name="scopecontent_teim">Mrs. Hopper Striker Mott donated one &#34;Glimpses Through the Camera&#34; mounted photo.</field>
+     <field name="ref_ssi">aspace_ref7507_nek</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 33, Folder: 119</field>
+     <field name="location_si">Box: 33, Folder: 119</field>
+     <field name="collection_teim">Robert L. Bracklow photograph collection</field>
++    <field name="author_teim">Jenny Gotwals, 2003; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 8</field>
+     <field name="series_sim">Series IV: Other Sources</field>
+     <field name="series_si">Series IV: Other Sources &gt;&gt; 1949 Gift</field>

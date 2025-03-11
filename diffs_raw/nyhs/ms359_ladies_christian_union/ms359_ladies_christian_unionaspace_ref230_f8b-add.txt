@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ms359_ladies_christian_union</field>
+     <field name="parent_ssi">aspace_ref229_55z</field>
+     <field name="parent_ssm">aspace_ref229_55z</field>
+-    <field name="parent_unittitles_ssm">Series XIV: Young Women's Christian Association (YWCA)</field>
+-    <field name="parent_unittitles_teim">Series XIV: Young Women's Christian Association (YWCA)</field>
++    <field name="parent_unittitles_ssm">Series XIV: Young Women&amp;#39;s Christian Association (YWCA)</field>
++    <field name="parent_unittitles_teim">Series XIV: Young Women&amp;#39;s Christian Association (YWCA)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ladies' Christian Union Records</field>
+-    <field name="collection_ssm">Ladies' Christian Union Records</field>
++    <field name="collection_sim">Ladies&#39; Christian Union Records</field>
++    <field name="collection_ssm">Ladies&#39; Christian Union Records</field>
+     <field name="collection_unitid_ssm">MS 359</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Historical Sketches of the YWCA</field>
+@@ -27,10 +27,11 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 12, Folder: 7</field>
+     <field name="location_si">Box: 12, Folder: 7</field>
+-    <field name="collection_teim">Ladies' Christian Union Records</field>
++    <field name="collection_teim">Ladies&#39; Christian Union Records</field>
++    <field name="author_teim">Processed by Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 359</field>
+-    <field name="series_sim">Series XIV: Young Women's Christian Association (YWCA)</field>
+-    <field name="series_si">Series XIV: Young Women's Christian Association (YWCA) &gt;&gt; Historical Sketches of the YWCA</field>
++    <field name="series_sim">Series XIV: Young Women&amp;#39;s Christian Association (YWCA)</field>
++    <field name="series_si">Series XIV: Young Women&#39;s Christian Association (YWCA) &gt;&gt; Historical Sketches of the YWCA</field>
+     <field name="heading_ssm">Historical Sketches of the YWCA</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>

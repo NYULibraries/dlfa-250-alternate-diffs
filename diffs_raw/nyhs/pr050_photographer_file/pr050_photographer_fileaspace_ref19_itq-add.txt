@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Photographer File</field>
+     <field name="collection_unitid_ssm">PR 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys' Club of New York at 287 E. 10th St. in Manhattan</field>
+-    <field name="unittitle_teim">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys' Club of New York at 287 E. 10th St. in Manhattan</field>
++    <field name="unittitle_ssm">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys&#39; Club of New York at 287 E. 10th St. in Manhattan</field>
++    <field name="unittitle_teim">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys&#39; Club of New York at 287 E. 10th St. in Manhattan</field>
+     <field name="unitdate_teim">1976-1986</field>
+     <field name="ref_ssi">aspace_ref19_itq</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Photographer File</field>
++    <field name="author_teim">Jennifer Lewis, Marybeth Kavanagh, and others</field>
+     <field name="collection_unitid_teim">PR 50</field>
+     <field name="series_sim">Beecher, Jim</field>
+-    <field name="series_si">Beecher, Jim &gt;&gt; 13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys' Club of New York at 287 E. 10th St. in Manhattan</field>
+-    <field name="heading_ssm">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys' Club of New York at 287 E. 10th St. in Manhattan</field>
++    <field name="series_si">Beecher, Jim &gt;&gt; 13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys&#39; Club of New York at 287 E. 10th St. in Manhattan</field>
++    <field name="heading_ssm">13 gelatin silver prints, 8 x 10 in., taken at the Tompkins Square Boys&#39; Club of New York at 287 E. 10th St. in Manhattan</field>
+     <field name="unitdate_ssm">1976-1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">13</field>

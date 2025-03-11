@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries II.A: Drawings</field>
+     <field name="unittitle_teim">Subseries II.A: Drawings</field>
+     <field name="unitdate_inclusive_teim">circa 1888-1895</field>
+-    <field name="scopecontent_teim">Files contain original drawings reflecting William Halsey Wood's professional practice in various design phases. Included are sketches, details and perspectives on paper.</field>
++    <field name="scopecontent_teim">Files contain original drawings reflecting William Halsey Wood&#39;s professional practice in various design phases. Included are sketches, details and perspectives on paper.</field>
+     <field name="ref_ssi">aspace_ref66_m1r</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William Halsey Wood papers</field>
++    <field name="author_teim">Luis Rodriguez</field>
+     <field name="collection_unitid_teim">MS 141</field>
+     <field name="series_sim">Series II: Project Documents</field>
+     <field name="series_si">Series II: Project Documents &gt;&gt; Subseries II.A: Drawings</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Parker, Arthur C. "Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y."</field>
+-    <field name="unittitle_teim">Parker, Arthur C. "Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y."</field>
++    <field name="unittitle_ssm">Parker, Arthur C. &#34;Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y.&#34;</field>
++    <field name="unittitle_teim">Parker, Arthur C. &#34;Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y.&#34;</field>
+     <field name="unitdate_inclusive_teim">1907</field>
+     <field name="scopecontent_teim">New York State Museum Bulltein 117; Archeology [sic] 14.</field>
+     <field name="ref_ssi">aspace_eb507d9868ce47a033e7169e7815f426</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 18, Volume: SN-141</field>
+     <field name="location_si">Offsite-Box: 18, Volume: SN-141</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Parker, Arthur C. "Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y."</field>
+-    <field name="heading_ssm">Parker, Arthur C. "Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y."</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Parker, Arthur C. &#34;Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y.&#34;</field>
++    <field name="heading_ssm">Parker, Arthur C. &#34;Excavations in an Erie Indian Village and Burial Site at Ripley, Chautauqua Co., N.Y.&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1907</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">160</field>

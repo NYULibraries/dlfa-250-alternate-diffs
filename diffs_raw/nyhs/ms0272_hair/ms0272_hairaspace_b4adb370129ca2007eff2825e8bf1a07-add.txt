@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,16 +13,15 @@
+     <field name="collection_ssm">Souvenir locks of hair collection</field>
+     <field name="collection_unitid_ssm">MS 272</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Dorothy Barck note&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Dorothy Barck note
+-    </field>
+-    <field name="scopecontent_teim">•	Note written on an envelope: "Mr. Wall—The enclosed locks of hair of members of the Beekman family were found with the papers. Does Dr. Beekman want them to remain with them? DB" [INV.85]
+-•	"Mr. Wall" = Alexander J. Wall (1884–1944), N-YHS librarian 1921–1937; director 1937–1944.
+-•	"Dr. Beekman" = Dr. Fenwick Beekman (1882–1962), N-YHS president 1947–1956.
+-•	"DB" = Dorothy C. Barck (1900–1965), N-YHS assistant librarian 1922–1942; librarian 1942–1954.</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Dorothy Barck note&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Dorothy Barck note</field>
++    <field name="scopecontent_teim">•	Note written on an envelope: &#34;Mr. Wall—The enclosed locks of hair of members of the Beekman family were found with the papers. Does Dr. Beekman want them to remain with them? DB&#34; [INV.85]
++
++•	&#34;Mr. Wall&#34; = Alexander J. Wall (1884–1944), N-YHS librarian 1921–1937; director 1937–1944.
++
++•	&#34;Dr. Beekman&#34; = Dr. Fenwick Beekman (1882–1962), N-YHS president 1947–1956.
++
++•	&#34;DB&#34; = Dorothy C. Barck (1900–1965), N-YHS assistant librarian 1922–1942; librarian 1942–1954.</field>
+     <field name="ref_ssi">aspace_b4adb370129ca2007eff2825e8bf1a07</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,14 +31,11 @@
+     <field name="location_ssm">Box: 1, Folder: 10</field>
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="collection_teim">Souvenir locks of hair collection</field>
++    <field name="author_teim">Joseph Ditta (August 2023)</field>
+     <field name="collection_unitid_teim">MS 272</field>
+     <field name="series_sim">Series I. Beekman family hair</field>
+-    <field name="series_si">Series I. Beekman family hair &gt;&gt; 
+-      &lt;strong&gt;Dorothy Barck note&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Dorothy Barck note
+-    </field>
++    <field name="series_si">Series I. Beekman family hair &gt;&gt; &lt;strong&gt;Dorothy Barck note&lt;/strong&gt;</field>
++    <field name="heading_ssm">Dorothy Barck note</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">11</field>
+   </doc>

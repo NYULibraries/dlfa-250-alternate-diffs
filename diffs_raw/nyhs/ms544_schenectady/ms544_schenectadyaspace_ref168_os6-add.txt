@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unittitle_teim">Invoice
+ </field>
+     <field name="unitdate_teim">1756</field>
+-    <field name="scopecontent_teim">Invoice for taking care of King's horses directed to Jacob Glen signed by Johan Hall</field>
++    <field name="scopecontent_teim">Invoice for taking care of King&#39;s horses directed to Jacob Glen signed by Johan Hall</field>
+     <field name="ref_ssi">aspace_ref168_os6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society Schenectady collection</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 544</field>
+     <field name="series_si">Invoice
+ </field>

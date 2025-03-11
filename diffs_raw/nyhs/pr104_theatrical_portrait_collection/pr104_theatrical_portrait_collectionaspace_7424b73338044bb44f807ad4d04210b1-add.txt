@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,13 +16,17 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (small) "N"</field>
+-    <field name="unittitle_teim">Individuals (small) "N"</field>
++    <field name="unittitle_ssm">Individuals (small) &#34;N&#34;</field>
++    <field name="unittitle_teim">Individuals (small) &#34;N&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">N miscellaneous
++
+ Neryda
++
+ Neilson, Adelaide (2 folders)
++
+ Nilsson, Christine
++
+ Nordica, Lillian</field>
+     <field name="ref_ssi">aspace_7424b73338044bb44f807ad4d04210b1</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -33,11 +37,12 @@
+     <field name="location_ssm">Offsite-Box: 28</field>
+     <field name="location_si">Offsite-Box: 28</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.A. Individuals (small format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) "N"</field>
+-    <field name="heading_ssm">Individuals (small) "N"</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) &#34;N&#34;</field>
++    <field name="heading_ssm">Individuals (small) &#34;N&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>

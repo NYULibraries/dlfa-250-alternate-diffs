@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries VI.C: Family Bibles</field>
+     <field name="unittitle_teim">Subseries VI.C: Family Bibles</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Subseries C contains the Bowers family's bibles. These bibles do not contain much, if any, genealogical information.</field>
++    <field name="scopecontent_teim">Subseries C contains the Bowers family&#39;s bibles. These bibles do not contain much, if any, genealogical information.</field>
+     <field name="ref_ssi">aspace_ref62_6qx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bowers family papers</field>
++    <field name="author_teim">Christine George</field>
+     <field name="collection_unitid_teim">MS 2902</field>
+     <field name="series_sim">Series VI: Books</field>
+     <field name="series_si">Series VI: Books &gt;&gt; Subseries VI.C: Family Bibles</field>

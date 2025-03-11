@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Cigar store Indian</field>
+     <field name="unittitle_teim">Cigar store Indian</field>
+-    <field name="unitdate_teim">1950's</field>
++    <field name="unitdate_teim">1950&#39;s</field>
+     <field name="ref_ssi">aspace_ref1_vs9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,11 +25,12 @@
+     <field name="location_ssm">Box: 1, Folder: 8</field>
+     <field name="location_si">Box: 1, Folder: 8</field>
+     <field name="collection_teim">Myron Golden Photograph Collection</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">PR 303</field>
+     <field name="series_sim">Series I: Gelatin silver prints</field>
+     <field name="series_si">Series I: Gelatin silver prints &gt;&gt; Cigar store Indian</field>
+     <field name="heading_ssm">Cigar store Indian</field>
+-    <field name="unitdate_ssm">1950's</field>
++    <field name="unitdate_ssm">1950&#39;s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">13</field>
+   </doc>

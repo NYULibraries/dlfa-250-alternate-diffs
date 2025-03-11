@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,10 +19,15 @@
+     <field name="unittitle_ssm">Religion</field>
+     <field name="unittitle_teim">Religion</field>
+     <field name="scopecontent_teim">American Christian Union
++
+ Dutch Reformed
++
+ Episcopal
+-....includes choir of St. Agnes' Chapel, Trinity Parish, sought side of 92nd Street between Columbus and Amsterdam Avenues
++
++....includes choir of St. Agnes&#39; Chapel, Trinity Parish, sought side of 92nd Street between Columbus and Amsterdam Avenues
++
+ General
++
+ Methodist</field>
+     <field name="ref_ssi">aspace_de6c83b52a9b6a5d483693a9388e7795</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -33,6 +38,7 @@
+     <field name="location_ssm">drawer: Medium</field>
+     <field name="location_si">drawer: Medium</field>
+     <field name="collection_teim">New-York Historical Society portrait collection</field>
++    <field name="author_teim">committee, 2003; finding aid migrated by Joseph Ditta, 2020.</field>
+     <field name="collection_unitid_teim">PR 52</field>
+     <field name="series_sim">Series II. Groups</field>
+     <field name="series_sim">Subseries II.B. Groups: Medium Format</field>

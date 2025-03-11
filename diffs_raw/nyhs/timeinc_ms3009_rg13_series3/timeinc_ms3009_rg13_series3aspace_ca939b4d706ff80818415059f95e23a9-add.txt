@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Time Research Center Files: Subject Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 13.Series III</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">United States: Population: "Negroes" [African Americans]: State: Alabama: Selma</field>
+-    <field name="unittitle_teim">United States: Population: "Negroes" [African Americans]: State: Alabama: Selma</field>
++    <field name="unittitle_ssm">United States: Population: &#34;Negroes&#34; [African Americans]: State: Alabama: Selma</field>
++    <field name="unittitle_teim">United States: Population: &#34;Negroes&#34; [African Americans]: State: Alabama: Selma</field>
+     <field name="unitdate_inclusive_teim">1965-1970</field>
+     <field name="ref_ssi">aspace_ca939b4d706ff80818415059f95e23a9</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 2341, Folder: 37-38</field>
+     <field name="location_si">Offsite-Box: 2341, Folder: 37-38</field>
+     <field name="collection_teim">Time Inc. Time Research Center Files: Subject Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 13.Series III</field>
+     <field name="series_sim">Series III. Subject Files</field>
+-    <field name="series_si">Series III. Subject Files &gt;&gt; United States: Population: "Negroes" [African Americans]: State: Alabama: Selma</field>
+-    <field name="heading_ssm">United States: Population: "Negroes" [African Americans]: State: Alabama: Selma</field>
++    <field name="series_si">Series III. Subject Files &gt;&gt; United States: Population: &#34;Negroes&#34; [African Americans]: State: Alabama: Selma</field>
++    <field name="heading_ssm">United States: Population: &#34;Negroes&#34; [African Americans]: State: Alabama: Selma</field>
+     <field name="unitdate_ssm">Inclusive, 1965-1970</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7781</field>

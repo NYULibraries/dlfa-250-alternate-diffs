@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,14 @@
+     <field name="ead_ssi">ms111_childrens_aid_society</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Children's Aid Society records</field>
+-    <field name="collection_ssm">Children's Aid Society records</field>
++    <field name="collection_sim">Children&#39;s Aid Society records</field>
++    <field name="collection_ssm">Children&#39;s Aid Society records</field>
+     <field name="collection_unitid_ssm">MS 111</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II - Certificates of Incorporation, Constitution, and other Organizational Records</field>
+     <field name="unittitle_teim">Series II - Certificates of Incorporation, Constitution, and other Organizational Records</field>
+     <field name="unitdate_teim">1854-1936 (bulk 1854-1899)</field>
+-    <field name="scopecontent_teim">Series II contains official documents related to the incorporation, trustees, inventory, and constitution of the Children's Aid Society. It is arranged into 3 small subseries, each arranged chronologically:</field>
++    <field name="scopecontent_teim">Series II contains official documents related to the incorporation, trustees, inventory, and constitution of the Children&#39;s Aid Society. It is arranged into 3 small subseries, each arranged chronologically:</field>
+     <field name="scopecontent_teim">II.1 - Founding Documents</field>
+     <field name="scopecontent_teim">II.2 - Annual Certificates</field>
+     <field name="scopecontent_teim">II.3 - Constitution</field>
+@@ -22,7 +22,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Children's Aid Society records</field>
++    <field name="collection_teim">Children&#39;s Aid Society records</field>
++    <field name="author_teim">Cherie Acierno and Alegria Barclay (2009), Larry Weimer (2018-19)</field>
+     <field name="collection_unitid_teim">MS 111</field>
+     <field name="series_si">Series II - Certificates of Incorporation, Constitution, and other Organizational Records</field>
+     <field name="heading_ssm">Series II - Certificates of Incorporation, Constitution, and other Organizational Records</field>

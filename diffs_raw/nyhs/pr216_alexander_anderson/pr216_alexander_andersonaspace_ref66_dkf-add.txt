@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Alexander Anderson Print Collection</field>
+     <field name="collection_unitid_ssm">PR 216</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Water Fowl," after David Teniers</field>
+-    <field name="unittitle_teim">"Water Fowl," after David Teniers</field>
++    <field name="unittitle_ssm">&#34;Water Fowl,&#34; after David Teniers</field>
++    <field name="unittitle_teim">&#34;Water Fowl,&#34; after David Teniers</field>
+     <field name="unitdate_teim">1818</field>
+     <field name="ref_ssi">aspace_ref66_dkf</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Box: 2, Folder: 22</field>
+     <field name="location_si">Box: 2, Folder: 22</field>
+     <field name="collection_teim">Alexander Anderson Print Collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 216</field>
+     <field name="series_sim">Oversize Material</field>
+     <field name="series_sim">From Series I. Works by Anderson</field>
+     <field name="series_sim">Engravings</field>
+-    <field name="series_si">Oversize Material &gt;&gt; From Series I. Works by Anderson &gt;&gt; Engravings &gt;&gt; "Water Fowl," after David Teniers</field>
+-    <field name="heading_ssm">"Water Fowl," after David Teniers</field>
++    <field name="series_si">Oversize Material &gt;&gt; From Series I. Works by Anderson &gt;&gt; Engravings &gt;&gt; &#34;Water Fowl,&#34; after David Teniers</field>
++    <field name="heading_ssm">&#34;Water Fowl,&#34; after David Teniers</field>
+     <field name="unitdate_ssm">1818</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">38</field>

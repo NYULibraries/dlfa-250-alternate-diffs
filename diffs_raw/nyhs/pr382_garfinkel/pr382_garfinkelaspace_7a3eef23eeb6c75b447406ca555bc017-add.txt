@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Victor Laredo</field>
+     <field name="unittitle_teim">Victor Laredo</field>
+     <field name="unitdate_inclusive_teim">1948-1960</field>
+-    <field name="scopecontent_teim">Central Park Interlude [pigeon landing on a man's hand] (1948)</field>
++    <field name="scopecontent_teim">Central Park Interlude [pigeon landing on a man&#39;s hand] (1948)</field>
+     <field name="scopecontent_teim">Central Park, New York [detail of carved stone staircase] (1960)</field>
+     <field name="scopecontent_teim">East Harlem [kids playing in a vacant lot] (1952)</field>
+     <field name="scopecontent_teim">Flatiron Building seen from Madison Square Park (1953)</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+     <field name="collection_teim">Barry and Gloria Garfinkel collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 382</field>
+     <field name="series_si">Victor Laredo</field>
+     <field name="heading_ssm">Victor Laredo</field>

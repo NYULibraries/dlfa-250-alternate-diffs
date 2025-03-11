@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">It's going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
+-    <field name="unittitle_teim">It's going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
++    <field name="unittitle_ssm">It&#39;s going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
++    <field name="unittitle_teim">It&#39;s going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
+     <field name="unitdate_teim">1914</field>
+     <field name="ref_ssi">aspace_ref1735_hm4</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 50</field>
+     <field name="location_si">Folder: 50</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series VII: Miscellaneous</field>
+     <field name="series_sim">Subseries VII.2: British and Foreign Recruitment</field>
+-    <field name="series_si">Series VII: Miscellaneous &gt;&gt; Subseries VII.2: British and Foreign Recruitment &gt;&gt; It's going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
+-    <field name="heading_ssm">It's going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
++    <field name="series_si">Series VII: Miscellaneous &gt;&gt; Subseries VII.2: British and Foreign Recruitment &gt;&gt; It&#39;s going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
++    <field name="heading_ssm">It&#39;s going to be a long / Drawnout sturggle / The Prime Minister / At the Guildhall / Novmeber 9th 1914</field>
+     <field name="unitdate_ssm">1914</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1012</field>

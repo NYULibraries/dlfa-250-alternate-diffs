@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Edward Wenzel photographs</field>
+     <field name="collection_unitid_ssm">PR 74</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York - New York - Bronx - Hunt's Point</field>
+-    <field name="unittitle_teim">New York - New York - Bronx - Hunt's Point</field>
++    <field name="unittitle_ssm">New York - New York - Bronx - Hunt&#39;s Point</field>
++    <field name="unittitle_teim">New York - New York - Bronx - Hunt&#39;s Point</field>
+     <field name="ref_ssi">aspace_ref22_7la</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">Edward Wenzel photographs</field>
++    <field name="author_teim">Lucas Buresch</field>
+     <field name="collection_unitid_teim">PR 74</field>
+     <field name="series_sim">Series I: Photographs</field>
+     <field name="series_sim">Subseries I.A: 4 x 5 Inch Prints</field>
+-    <field name="series_si">Series I: Photographs &gt;&gt; Subseries I.A: 4 x 5 Inch Prints &gt;&gt; New York - New York - Bronx - Hunt's Point</field>
+-    <field name="heading_ssm">New York - New York - Bronx - Hunt's Point</field>
++    <field name="series_si">Series I: Photographs &gt;&gt; Subseries I.A: 4 x 5 Inch Prints &gt;&gt; New York - New York - Bronx - Hunt&#39;s Point</field>
++    <field name="heading_ssm">New York - New York - Bronx - Hunt&#39;s Point</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">11</field>
+   </doc>

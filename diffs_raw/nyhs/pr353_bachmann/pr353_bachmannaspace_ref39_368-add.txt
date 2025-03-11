@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Views of Other Cities</field>
+     <field name="unittitle_teim">Series II: Views of Other Cities</field>
+     <field name="unitdate_teim">1850-1874</field>
+-    <field name="scopecontent_teim">This series consists of 5 bird's-eye view lithographs of American cities outside of New York, arranged chronologically.</field>
++    <field name="scopecontent_teim">This series consists of 5 bird&#39;s-eye view lithographs of American cities outside of New York, arranged chronologically.</field>
+     <field name="ref_ssi">aspace_ref39_368</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Collection of John Bachmann Prints</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 353</field>
+     <field name="series_si">Series II: Views of Other Cities</field>
+     <field name="heading_ssm">Series II: Views of Other Cities</field>

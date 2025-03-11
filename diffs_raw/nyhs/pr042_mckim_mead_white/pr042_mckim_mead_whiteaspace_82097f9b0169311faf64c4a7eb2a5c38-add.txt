@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Columbia University, New York, NY (Box 18 of 81)</field>
+     <field name="unittitle_teim">Columbia University, New York, NY (Box 18 of 81)</field>
+-    <field name="scopecontent_teim">President's House (79), cont'd; Faculty Club (proposed)	(80); Pedestal, Schermerhorn bust (81)</field>
++    <field name="scopecontent_teim">President&#39;s House (79), cont&#39;d; Faculty Club (proposed)	(80); Pedestal, Schermerhorn bust (81)</field>
+     <field name="ref_ssi">aspace_82097f9b0169311faf64c4a7eb2a5c38</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Offsite-Box: II.132</field>
+     <field name="location_si">Offsite-Box: II.132</field>
+     <field name="collection_teim">McKim, Mead and White architectural records</field>
++    <field name="author_teim">N-YHS staff  </field>
+     <field name="collection_unitid_teim">PR 42</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_sim">Subseries II.A: 1950 Transfer</field>

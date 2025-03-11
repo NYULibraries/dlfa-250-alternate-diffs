@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Photograph album #35</field>
+     <field name="unittitle_teim">Photograph album #35</field>
+     <field name="unitdate_inclusive_teim">1911 April-May</field>
+-    <field name="scopecontent_teim">From the dealer's notes: "139 photos, includes photos of Florence, Pisa, River Po, San Gimignano, Torcello, Turin, Venice, Italy; [Paris, Versailles, France; return to New York]; amongst other places.</field>
++    <field name="scopecontent_teim">From the dealer&#39;s notes: &#34;139 photos, includes photos of Florence, Pisa, River Po, San Gimignano, Torcello, Turin, Venice, Italy; [Paris, Versailles, France; return to New York]; amongst other places.</field>
+     <field name="ref_ssi">aspace_3e771bb8307d1b3465d06b496e7a6ff3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 12</field>
+     <field name="collection_teim">Blanche Potter photograph albums and travel journals</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3100</field>
+     <field name="series_si">Photograph album #35</field>
+     <field name="heading_ssm">Photograph album #35</field>

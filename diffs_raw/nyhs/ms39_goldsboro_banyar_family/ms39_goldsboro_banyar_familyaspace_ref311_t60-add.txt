@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Goldsborough Banyar (formerly John Campbell White)</field>
+     <field name="unittitle_teim">Series III: Goldsborough Banyar (formerly John Campbell White)</field>
+-    <field name="scopecontent_teim">This series spans the period from 1872 to 1904 and consists primarily of papers relating to the routine management of the properties in the Banyar estate by Campbell and Harriet's son John White, who in accordance with his uncle's will changed his name to Goldsborough Banyar. There is also a small amount of personal correspondence of John White's sisters, Ann, Cornelia and Mary.  Receipts include local businesses, many with pictorial billheads.</field>
++    <field name="scopecontent_teim">This series spans the period from 1872 to 1904 and consists primarily of papers relating to the routine management of the properties in the Banyar estate by Campbell and Harriet&#39;s son John White, who in accordance with his uncle&#39;s will changed his name to Goldsborough Banyar. There is also a small amount of personal correspondence of John White&#39;s sisters, Ann, Cornelia and Mary.  Receipts include local businesses, many with pictorial billheads.</field>
+     <field name="ref_ssi">aspace_ref311_t60</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Goldsboro Banyar and Banyar Family papers</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 39</field>
+     <field name="series_si">Series III: Goldsborough Banyar (formerly John Campbell White)</field>
+     <field name="heading_ssm">Series III: Goldsborough Banyar (formerly John Campbell White)</field>

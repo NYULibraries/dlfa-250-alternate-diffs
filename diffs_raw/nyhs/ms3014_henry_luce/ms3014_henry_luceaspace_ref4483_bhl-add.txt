@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Thompson, Dorothy</field>
+     <field name="unittitle_teim">Thompson, Dorothy</field>
+     <field name="unitdate_teim">1937-1954</field>
+-    <field name="scopecontent_teim">Includes a statement concerning the need for re-declaration of American faith titled "Declaration of Independence - 1939," pamphlets with Thompson's radio speeches, and correspondence  and memoranda regarding the creation of the American Friends of the Middle East.</field>
++    <field name="scopecontent_teim">Includes a statement concerning the need for re-declaration of American faith titled &#34;Declaration of Independence - 1939,&#34; pamphlets with Thompson&#39;s radio speeches, and correspondence  and memoranda regarding the creation of the American Friends of the Middle East.</field>
+     <field name="ref_ssi">aspace_ref4483_bhl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 140, Folder: 3</field>
+     <field name="location_si">Box: 140, Folder: 3</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.B. Name Files B</field>
