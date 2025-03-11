@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Liederkranz Collection</field>
+     <field name="collection_unitid_ssm">MSS.130</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Composer: Strindberg, August
+-
+- Title: Tva Dikter</field>
+-    <field name="unittitle_teim">Composer: Strindberg, August
+-
+- Title: Tva Dikter</field>
++    <field name="unittitle_ssm">Composer: Strindberg, August Title: Tva Dikter</field>
++    <field name="unittitle_teim">Composer: Strindberg, August Title: Tva Dikter</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/895798</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/895798</field>
+     <field name="ref_ssi">aspace_ref7366</field>
+@@ -32,12 +28,8 @@
+     <field name="collection_teim">Liederkranz Collection</field>
+     <field name="collection_unitid_teim">MSS.130</field>
+     <field name="series_sim">Series IV: Printed Sheet Music Collection</field>
+-    <field name="series_si">Series IV: Printed Sheet Music Collection &gt;&gt; Composer: Strindberg, August
+-
+- Title: Tva Dikter</field>
+-    <field name="heading_ssm">Composer: Strindberg, August
+-
+- Title: Tva Dikter</field>
++    <field name="series_si">Series IV: Printed Sheet Music Collection &gt;&gt; Composer: Strindberg, August Title: Tva Dikter</field>
++    <field name="heading_ssm">Composer: Strindberg, August Title: Tva Dikter</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3065</field>
+   </doc>

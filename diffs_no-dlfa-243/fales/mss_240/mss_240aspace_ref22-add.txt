@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Irma Goldstraw Collection</field>
+     <field name="collection_unitid_ssm">MSS.240</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The Joker of Seville&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The Joker of Seville
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Joker of Seville&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Joker of Seville</field>
+     <field name="unitid_teim">ID: 240.0001</field>
+     <field name="unitid_ssm">ID: 240.0001</field>
+     <field name="unitdate_teim">undated</field>
+@@ -38,12 +34,8 @@
+     <field name="collection_unitid_teim">MSS.240</field>
+     <field name="series_sim">Series V: Audio</field>
+     <field name="series_sim">Subseries B: Originals</field>
+-    <field name="series_si">Series V: Audio &gt;&gt; Subseries B: Originals &gt;&gt; 
+-      &lt;em&gt;The Joker of Seville&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The Joker of Seville
+-    </field>
++    <field name="series_si">Series V: Audio &gt;&gt; Subseries B: Originals &gt;&gt; &lt;em&gt;The Joker of Seville&lt;/em&gt;</field>
++    <field name="heading_ssm">The Joker of Seville</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

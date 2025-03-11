@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Marcelo DeMoura Papers</field>
+     <field name="collection_unitid_ssm">MSS.112</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;All Dogs Go to Heaven&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      All Dogs Go to Heaven
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;All Dogs Go to Heaven&lt;/em&gt;</field>
++    <field name="unittitle_teim">All Dogs Go to Heaven</field>
+     <field name="unitdate_normal_ssm">1989/1989</field>
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+@@ -38,12 +34,8 @@
+     <field name="collection_unitid_teim">MSS.112</field>
+     <field name="series_sim">Series I: Original Works (Oversize)</field>
+     <field name="series_sim">Subseries A: Drawings</field>
+-    <field name="series_si">Series I: Original Works (Oversize) &gt;&gt; Subseries A: Drawings &gt;&gt; 
+-      &lt;em&gt;All Dogs Go to Heaven&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      All Dogs Go to Heaven
+-    </field>
++    <field name="series_si">Series I: Original Works (Oversize) &gt;&gt; Subseries A: Drawings &gt;&gt; &lt;em&gt;All Dogs Go to Heaven&lt;/em&gt;</field>
++    <field name="heading_ssm">All Dogs Go to Heaven</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>
+     <field name="unitdate_start_si">1989</field>

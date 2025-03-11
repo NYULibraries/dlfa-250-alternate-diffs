@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">My Own Magazine Archive</field>
+     <field name="collection_unitid_ssm">MSS.018</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;My Own Magazine&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      My Own Magazine
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;My Own Magazine&lt;/em&gt;</field>
++    <field name="unittitle_teim">My Own Magazine</field>
+     <field name="unitdate_teim">February 1965</field>
+     <field name="title_teim">My Own Magazine</field>
+     <field name="title_ssm">My Own Magazine</field>
+@@ -33,12 +29,8 @@
+     <field name="collection_teim">My Own Magazine Archive</field>
+     <field name="collection_unitid_teim">MSS.018</field>
+     <field name="series_sim">Series II: Issues</field>
+-    <field name="series_si">Series II: Issues &gt;&gt; 
+-      &lt;em&gt;My Own Magazine&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      My Own Magazine
+-    </field>
++    <field name="series_si">Series II: Issues &gt;&gt; &lt;em&gt;My Own Magazine&lt;/em&gt;</field>
++    <field name="heading_ssm">My Own Magazine</field>
+     <field name="unitdate_ssm">February 1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">19</field>

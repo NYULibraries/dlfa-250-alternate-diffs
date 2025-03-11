@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -8,10 +8,10 @@
+     <field name="parent_ssm">aspace_ref5984</field>
+     <field name="parent_ssm">aspace_ref6109</field>
+     <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_ssm">Gardiner: Oversize </field>
++    <field name="parent_unittitles_ssm">Gardiner: Oversize</field>
+     <field name="parent_unittitles_ssm">Oversize Series A, Subseries 6: Printed Materials</field>
+     <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_teim">Gardiner: Oversize </field>
++    <field name="parent_unittitles_teim">Gardiner: Oversize</field>
+     <field name="parent_unittitles_teim">Oversize Series A, Subseries 6: Printed Materials</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,12 +19,8 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;The New-York Statesman&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      The New-York Statesman
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;The New-York Statesman&lt;/em&gt;</field>
++    <field name="unittitle_teim">The New-York Statesman</field>
+     <field name="unitid_teim">cuid1622</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/509571</field>
+     <field name="unitid_ssm">cuid1622</field>
+@@ -44,14 +40,10 @@
+     <field name="collection_teim">Sylvester Manor Archive</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+-    <field name="series_sim">Gardiner: Oversize </field>
++    <field name="series_sim">Gardiner: Oversize</field>
+     <field name="series_sim">Oversize Series A, Subseries 6: Printed Materials</field>
+-    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Gardiner: Oversize  &gt;&gt; Oversize Series A, Subseries 6: Printed Materials &gt;&gt; 
+-      &lt;em&gt;The New-York Statesman&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      The New-York Statesman
+-    </field>
++    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Gardiner: Oversize &gt;&gt; Oversize Series A, Subseries 6: Printed Materials &gt;&gt; &lt;em&gt;The New-York Statesman&lt;/em&gt;</field>
++    <field name="heading_ssm">The New-York Statesman</field>
+     <field name="unitdate_start_sim">1824</field>
+     <field name="unitdate_start_ssm">1824</field>
+     <field name="unitdate_start_si">1824</field>

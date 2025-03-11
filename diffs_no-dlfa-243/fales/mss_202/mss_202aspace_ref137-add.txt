@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,12 @@
+     <field name="collection_ssm">Jimmy De Sana Papers</field>
+     <field name="collection_unitid_ssm">MSS.202</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt; Title: &lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-       Title: 
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt; Title: &lt;/strong&gt;</field>
++    <field name="unittitle_teim">Title:</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim"> Description: String Abstraction </field>
+-    <field name="phystech_teim"> Process: 11x14 Silver Gelatin </field>
+-    <field name="phystech_teim"> Number of Items:  1 </field>
++    <field name="phystech_teim">Description: String Abstraction</field>
++    <field name="phystech_teim">Process: 11x14 Silver Gelatin</field>
++    <field name="phystech_teim">Number of Items: 1</field>
+     <field name="ref_ssi">aspace_ref137</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,12 +34,8 @@
+     <field name="collection_unitid_teim">MSS.202</field>
+     <field name="series_sim">Series I: Prints by project</field>
+     <field name="series_sim">Subseries E: $dobjects</field>
+-    <field name="series_si">Series I: Prints by project &gt;&gt; Subseries E: $dobjects &gt;&gt; 
+-      &lt;strong&gt; Title: &lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-       Title: 
+-    </field>
++    <field name="series_si">Series I: Prints by project &gt;&gt; Subseries E: $dobjects &gt;&gt; &lt;strong&gt; Title: &lt;/strong&gt;</field>
++    <field name="heading_ssm">Title:</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">66</field>
