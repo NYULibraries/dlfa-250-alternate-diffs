@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Mahmoud Hammad Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.091</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">1. "[Adham Ismail]," Damascus, 1964</field>
+-    <field name="unittitle_teim">1. "[Adham Ismail]," Damascus, 1964</field>
++    <field name="unittitle_ssm">1. &#34;[Adham Ismail],&#34; Damascus, 1964</field>
++    <field name="unittitle_teim">1. &#34;[Adham Ismail],&#34; Damascus, 1964</field>
+     <field name="unitid_teim">cuid257</field>
+     <field name="unitid_ssm">cuid257</field>
+     <field name="ref_ssi">aspace_f113cc37b6cf2ea2cec45b0217cf7cc5</field>
+@@ -27,11 +27,13 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Mahmoud Hammad Collection</field>
++    <field name="author_teim">Ibrahim Mohamed Ali, Anneka Lenssen, Dina Taha, Ala Younis, Jonathan Burr, and Jasmine Soliman.
++</field>
+     <field name="collection_unitid_teim">AD.MC.091</field>
+     <field name="series_sim">Series I: Exhibition Materials, 1950s - 2001</field>
+     <field name="series_sim">I.B. Exhibitions Not Featuring Mahmoud Hammad</field>
+-    <field name="series_si">Series I: Exhibition Materials, 1950s - 2001 &gt;&gt; I.B. Exhibitions Not Featuring Mahmoud Hammad &gt;&gt; 1. "[Adham Ismail]," Damascus, 1964</field>
+-    <field name="heading_ssm">1. "[Adham Ismail]," Damascus, 1964</field>
++    <field name="series_si">Series I: Exhibition Materials, 1950s - 2001 &gt;&gt; I.B. Exhibitions Not Featuring Mahmoud Hammad &gt;&gt; 1. &#34;[Adham Ismail],&#34; Damascus, 1964</field>
++    <field name="heading_ssm">1. &#34;[Adham Ismail],&#34; Damascus, 1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">65</field>
+   </doc>
