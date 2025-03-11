@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Keller Mechanical Engineering Corporation Collection</field>
+     <field name="collection_unitid_ssm">RG.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+-    <field name="unittitle_teim">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
++    <field name="unittitle_ssm">&#34;Dies Sinking and Metal Pattern-making by Automatic Machine&#34;</field>
++    <field name="unittitle_teim">&#34;Dies Sinking and Metal Pattern-making by Automatic Machine&#34;</field>
+     <field name="unitdate_teim">1921 September</field>
+     <field name="ref_ssi">aspace_ref16_v6c</field>
+     <field name="repository_ssi">poly</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">box: 24, folder: 1, object: 1</field>
+     <field name="location_si">box: 24, folder: 1, object: 1</field>
+     <field name="collection_teim">Keller Mechanical Engineering Corporation Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.001</field>
+     <field name="series_sim">Series V: Publications</field>
+     <field name="series_sim">Mechanical Engineering, 1921</field>
+-    <field name="series_si">Series V: Publications &gt;&gt; Mechanical Engineering, 1921 &gt;&gt; "Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+-    <field name="heading_ssm">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
++    <field name="series_si">Series V: Publications &gt;&gt; Mechanical Engineering, 1921 &gt;&gt; &#34;Dies Sinking and Metal Pattern-making by Automatic Machine&#34;</field>
++    <field name="heading_ssm">&#34;Dies Sinking and Metal Pattern-making by Automatic Machine&#34;</field>
+     <field name="unitdate_ssm">1921 September</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

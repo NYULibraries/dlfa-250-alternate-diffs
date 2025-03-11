@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,11 +5,11 @@
+     <field name="ead_ssi">poly_rg_042</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Polytechnic President's Office Records</field>
+-    <field name="collection_ssm">Polytechnic President's Office Records</field>
++    <field name="collection_sim">Polytechnic President&#39;s Office Records</field>
++    <field name="collection_ssm">Polytechnic President&#39;s Office Records</field>
+     <field name="collection_unitid_ssm">RG.042</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Chemical &amp;amp; Engineering News - 75th Anniversary Issue]</field>
++    <field name="unittitle_ssm">[Chemical &amp; Engineering News - 75th Anniversary Issue]</field>
+     <field name="unittitle_teim">[Chemical &amp; Engineering News - 75th Anniversary Issue]</field>
+     <field name="unitdate_normal_ssm">1998/1998</field>
+     <field name="unitdate_normal_teim">1998/1998</field>
+@@ -23,9 +23,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 1, folder: 24</field>
+     <field name="location_si">box: 1, folder: 24</field>
+-    <field name="collection_teim">Polytechnic President's Office Records</field>
++    <field name="collection_teim">Polytechnic President&#39;s Office Records</field>
++    <field name="author_teim">Zoe Blecher-Cohen</field>
+     <field name="collection_unitid_teim">RG.042</field>
+-    <field name="series_si">[Chemical &amp;amp; Engineering News - 75th Anniversary Issue]</field>
++    <field name="series_si">[Chemical &amp; Engineering News - 75th Anniversary Issue]</field>
+     <field name="heading_ssm">[Chemical &amp; Engineering News - 75th Anniversary Issue]</field>
+     <field name="unitdate_start_sim">1998</field>
+     <field name="unitdate_start_ssm">1998</field>

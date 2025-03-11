@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Poly Archives Historic Photograph Collection</field>
+     <field name="collection_unitid_ssm">RG.026</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mayor's Award for Excellence in Science and Technology</field>
+-    <field name="unittitle_teim">Mayor's Award for Excellence in Science and Technology</field>
++    <field name="unittitle_ssm">Mayor&#39;s Award for Excellence in Science and Technology</field>
++    <field name="unittitle_teim">Mayor&#39;s Award for Excellence in Science and Technology</field>
+     <field name="unitid_teim">cuid900</field>
+     <field name="unitid_ssm">cuid900</field>
+     <field name="unitdate_teim">2000 March 8</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">box: 21, folder: 23</field>
+     <field name="location_si">box: 21, folder: 23</field>
+     <field name="collection_teim">Poly Archives Historic Photograph Collection</field>
++    <field name="author_teim">Lindsay Anderberg and Absar Alam</field>
+     <field name="collection_unitid_teim">RG.026</field>
+     <field name="series_sim">Series VII: Events</field>
+     <field name="series_sim">Subseries H: Miscellaneous Events</field>
+-    <field name="series_si">Series VII: Events &gt;&gt; Subseries H: Miscellaneous Events &gt;&gt; Mayor's Award for Excellence in Science and Technology</field>
+-    <field name="heading_ssm">Mayor's Award for Excellence in Science and Technology</field>
++    <field name="series_si">Series VII: Events &gt;&gt; Subseries H: Miscellaneous Events &gt;&gt; Mayor&#39;s Award for Excellence in Science and Technology</field>
++    <field name="heading_ssm">Mayor&#39;s Award for Excellence in Science and Technology</field>
+     <field name="unitdate_ssm">2000 March 8</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">939</field>

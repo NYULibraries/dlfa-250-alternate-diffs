@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Herman F. Mark Collection</field>
+     <field name="collection_unitid_ssm">RG.002</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">IBM Update '77 Recognition of Participation</field>
+-    <field name="unittitle_teim">IBM Update '77 Recognition of Participation</field>
++    <field name="unittitle_ssm">IBM Update &#39;77 Recognition of Participation</field>
++    <field name="unittitle_teim">IBM Update &#39;77 Recognition of Participation</field>
+     <field name="unitid_teim">cuid3490</field>
+     <field name="unitid_ssm">cuid3490</field>
+     <field name="unitdate_normal_ssm">1977-07-31/1977-08-26</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">box: 32, item: 4</field>
+     <field name="location_si">box: 32, item: 4</field>
+     <field name="collection_teim">Herman F. Mark Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.002</field>
+     <field name="series_sim">Series VIII: Framed photographs and documents</field>
+     <field name="series_sim">Subseries B: Unframed Items</field>
+-    <field name="series_si">Series VIII: Framed photographs and documents &gt;&gt; Subseries B: Unframed Items &gt;&gt; IBM Update '77 Recognition of Participation</field>
+-    <field name="heading_ssm">IBM Update '77 Recognition of Participation</field>
++    <field name="series_si">Series VIII: Framed photographs and documents &gt;&gt; Subseries B: Unframed Items &gt;&gt; IBM Update &#39;77 Recognition of Participation</field>
++    <field name="heading_ssm">IBM Update &#39;77 Recognition of Participation</field>
+     <field name="unitdate_ssm">Inclusive, 1977-07-31-1977-08-26</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">997</field>

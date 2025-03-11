@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1998/2011</field>
+     <field name="unitdate_normal_sim">1998/2011</field>
+     <field name="unitdate_inclusive_teim">1998-2011</field>
+-    <field name="scopecontent_teim">The contents of George Bugliarello's hard drive from the Chancellor's Office, Jacobs Building (Room 350) were transferred to the archives in January 2011 and are retained on a dedicated archives server. The hard drive contains 2.56GB of data in 6,663 files. These digital files have not been reorganized or altered from their original state.</field>
++    <field name="scopecontent_teim">The contents of George Bugliarello&#39;s hard drive from the Chancellor&#39;s Office, Jacobs Building (Room 350) were transferred to the archives in January 2011 and are retained on a dedicated archives server. The hard drive contains 2.56GB of data in 6,663 files. These digital files have not been reorganized or altered from their original state.</field>
+     <field name="ref_ssi">aspace_ref3259_wyu</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">RG.007</field>
+     <field name="series_si">Series X: Hard drive </field>
+     <field name="heading_ssm">Series X: Hard drive </field>

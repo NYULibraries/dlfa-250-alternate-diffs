@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,11 +5,11 @@
+     <field name="ead_ssi">poly_rg_051</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Dean's Office Records</field>
+-    <field name="collection_ssm">Dean's Office Records</field>
++    <field name="collection_sim">Dean&#39;s Office Records</field>
++    <field name="collection_ssm">Dean&#39;s Office Records</field>
+     <field name="collection_unitid_ssm">RG.051</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NYU-Univ. Relations &amp;amp; Pub. Aff. 2007-2009 (1)</field>
++    <field name="unittitle_ssm">NYU-Univ. Relations &amp; Pub. Aff. 2007-2009 (1)</field>
+     <field name="unittitle_teim">NYU-Univ. Relations &amp; Pub. Aff. 2007-2009 (1)</field>
+     <field name="unitdate_normal_ssm">2008/2009</field>
+     <field name="unitdate_normal_teim">2008/2009</field>
+@@ -23,9 +23,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 61, folder: 2</field>
+     <field name="location_si">box: 61, folder: 2</field>
+-    <field name="collection_teim">Dean's Office Records</field>
++    <field name="collection_teim">Dean&#39;s Office Records</field>
++    <field name="author_teim">Tommy Qiu and Aileen Thong</field>
+     <field name="collection_unitid_teim">RG.051</field>
+-    <field name="series_si">NYU-Univ. Relations &amp;amp; Pub. Aff. 2007-2009 (1)</field>
++    <field name="series_si">NYU-Univ. Relations &amp; Pub. Aff. 2007-2009 (1)</field>
+     <field name="heading_ssm">NYU-Univ. Relations &amp; Pub. Aff. 2007-2009 (1)</field>
+     <field name="unitdate_start_sim">2008</field>
+     <field name="unitdate_start_ssm">2008</field>

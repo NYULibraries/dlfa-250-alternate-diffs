@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Poly Archives Memorabilia Collection</field>
+     <field name="collection_unitid_ssm">RG.027</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Small stuffed panda with "Polytechnic University" shirt</field>
+-    <field name="unittitle_teim">Small stuffed panda with "Polytechnic University" shirt</field>
++    <field name="unittitle_ssm">Small stuffed panda with &#34;Polytechnic University&#34; shirt</field>
++    <field name="unittitle_teim">Small stuffed panda with &#34;Polytechnic University&#34; shirt</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_592b1d1955899fcf3abfb4faba978ea5</field>
+     <field name="repository_ssi">poly</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">box: 21, object: 9</field>
+     <field name="location_si">box: 21, object: 9</field>
+     <field name="collection_teim">Poly Archives Memorabilia Collection</field>
++    <field name="author_teim">Zoe Blecher-Cohen</field>
+     <field name="collection_unitid_teim">RG.027</field>
+     <field name="series_sim">Series V: Realia</field>
+     <field name="series_sim">Subseries B: Polytechnic University Realia</field>
+-    <field name="series_si">Series V: Realia &gt;&gt; Subseries B: Polytechnic University Realia &gt;&gt; Small stuffed panda with "Polytechnic University" shirt</field>
+-    <field name="heading_ssm">Small stuffed panda with "Polytechnic University" shirt</field>
++    <field name="series_si">Series V: Realia &gt;&gt; Subseries B: Polytechnic University Realia &gt;&gt; Small stuffed panda with &#34;Polytechnic University&#34; shirt</field>
++    <field name="heading_ssm">Small stuffed panda with &#34;Polytechnic University&#34; shirt</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">120</field>

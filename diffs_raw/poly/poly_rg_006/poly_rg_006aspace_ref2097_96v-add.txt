@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Administrative Papers of the President George Bugliarello</field>
+     <field name="collection_unitid_ssm">RG.006</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Instituto Dermopatico Dell'Immacolata</field>
+-    <field name="unittitle_teim">Instituto Dermopatico Dell'Immacolata</field>
++    <field name="unittitle_ssm">Instituto Dermopatico Dell&#39;Immacolata</field>
++    <field name="unittitle_teim">Instituto Dermopatico Dell&#39;Immacolata</field>
+     <field name="unitdate_normal_ssm">1992/1992</field>
+     <field name="unitdate_normal_teim">1992/1992</field>
+     <field name="unitdate_normal_sim">1992/1992</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 46, folder: 26</field>
+     <field name="location_si">box: 46, folder: 26</field>
+     <field name="collection_teim">Administrative Papers of the President George Bugliarello</field>
++    <field name="author_teim">Julianna Monjeau and Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.006</field>
+     <field name="series_sim">Series IX: Photographs</field>
+-    <field name="series_si">Series IX: Photographs &gt;&gt; Instituto Dermopatico Dell'Immacolata</field>
+-    <field name="heading_ssm">Instituto Dermopatico Dell'Immacolata</field>
++    <field name="series_si">Series IX: Photographs &gt;&gt; Instituto Dermopatico Dell&#39;Immacolata</field>
++    <field name="heading_ssm">Instituto Dermopatico Dell&#39;Immacolata</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

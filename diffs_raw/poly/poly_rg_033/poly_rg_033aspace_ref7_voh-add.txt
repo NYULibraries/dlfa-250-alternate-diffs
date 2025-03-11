@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Ernst Weber Collection</field>
+     <field name="collection_unitid_ssm">RG.033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Autobiography 'Listen'"</field>
+-    <field name="unittitle_teim">"Autobiography 'Listen'"</field>
++    <field name="unittitle_ssm">&#34;Autobiography &#39;Listen&#39;&#34;</field>
++    <field name="unittitle_teim">&#34;Autobiography &#39;Listen&#39;&#34;</field>
+     <field name="unitdate_normal_ssm">1981/1984</field>
+     <field name="unitdate_normal_teim">1981/1984</field>
+     <field name="unitdate_normal_sim">1981/1984</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 1, folder: 2</field>
+     <field name="location_si">box: 1, folder: 2</field>
+     <field name="collection_teim">Ernst Weber Collection</field>
++    <field name="author_teim">Erica Saunders and Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.033</field>
+     <field name="series_sim">Series I: Biographical</field>
+     <field name="series_sim">Subseries A: Biographical and Personal</field>
+-    <field name="series_si">Series I: Biographical &gt;&gt; Subseries A: Biographical and Personal &gt;&gt; "Autobiography 'Listen'"</field>
+-    <field name="heading_ssm">"Autobiography 'Listen'"</field>
++    <field name="series_si">Series I: Biographical &gt;&gt; Subseries A: Biographical and Personal &gt;&gt; &#34;Autobiography &#39;Listen&#39;&#34;</field>
++    <field name="heading_ssm">&#34;Autobiography &#39;Listen&#39;&#34;</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

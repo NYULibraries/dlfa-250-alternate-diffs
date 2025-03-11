@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Administrative Papers of Chancellor George Bugliarello</field>
+     <field name="collection_unitid_ssm">RG.007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mayor's Award for Excellence in Science and Technology – RESTRICT</field>
+-    <field name="unittitle_teim">Mayor's Award for Excellence in Science and Technology – RESTRICT</field>
++    <field name="unittitle_ssm">Mayor&#39;s Award for Excellence in Science and Technology – RESTRICT</field>
++    <field name="unittitle_teim">Mayor&#39;s Award for Excellence in Science and Technology – RESTRICT</field>
+     <field name="unitdate_normal_ssm">2005/2005</field>
+     <field name="unitdate_normal_teim">2005/2005</field>
+     <field name="unitdate_normal_sim">2005/2005</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 21, folder: 43</field>
+     <field name="location_si">box: 21, folder: 43</field>
+     <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">RG.007</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_sim">Subseries A: Alphabetical Files</field>
+-    <field name="series_si">Series II: Subject Files &gt;&gt; Subseries A: Alphabetical Files &gt;&gt; Mayor's Award for Excellence in Science and Technology – RESTRICT</field>
+-    <field name="heading_ssm">Mayor's Award for Excellence in Science and Technology – RESTRICT</field>
++    <field name="series_si">Series II: Subject Files &gt;&gt; Subseries A: Alphabetical Files &gt;&gt; Mayor&#39;s Award for Excellence in Science and Technology – RESTRICT</field>
++    <field name="heading_ssm">Mayor&#39;s Award for Excellence in Science and Technology – RESTRICT</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>
+     <field name="unitdate_start_si">2005</field>

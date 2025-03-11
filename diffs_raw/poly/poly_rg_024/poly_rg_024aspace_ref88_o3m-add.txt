@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Herbert Resnicow Papers</field>
+     <field name="collection_unitid_ssm">RG.024</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Problem: Macy's Window</field>
+-    <field name="unittitle_teim">Problem: Macy's Window</field>
++    <field name="unittitle_ssm">Problem: Macy&#39;s Window</field>
++    <field name="unittitle_teim">Problem: Macy&#39;s Window</field>
+     <field name="unitdate_normal_ssm">1991/1991</field>
+     <field name="unitdate_normal_teim">1991/1991</field>
+     <field name="unitdate_normal_sim">1991/1991</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 8, folder: 14</field>
+     <field name="location_si">box: 8, folder: 14</field>
+     <field name="collection_teim">Herbert Resnicow Papers</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.024</field>
+     <field name="series_sim">Series V: Short Stories and Screenplays</field>
+-    <field name="series_si">Series V: Short Stories and Screenplays &gt;&gt; Problem: Macy's Window</field>
+-    <field name="heading_ssm">Problem: Macy's Window</field>
++    <field name="series_si">Series V: Short Stories and Screenplays &gt;&gt; Problem: Macy&#39;s Window</field>
++    <field name="heading_ssm">Problem: Macy&#39;s Window</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>
+     <field name="unitdate_start_si">1991</field>
