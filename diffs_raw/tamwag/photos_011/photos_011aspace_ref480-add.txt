@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Metro Area Postal Union Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Annual Children's Christmas Party- 1957</field>
+-    <field name="unittitle_teim">Annual Children's Christmas Party- 1957</field>
++    <field name="unittitle_ssm">Annual Children&#39;s Christmas Party- 1957</field>
++    <field name="unittitle_teim">Annual Children&#39;s Christmas Party- 1957</field>
+     <field name="unitdate_teim">1957</field>
+     <field name="ref_ssi">aspace_ref480</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -23,10 +23,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">New York Metro Area Postal Union Photographs</field>
++    <field name="author_teim">Hui-Min Tsen. Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description, 2013</field>
+     <field name="collection_unitid_teim">PHOTOS.011</field>
+     <field name="series_sim">Series XVIII: Dinners/Parties</field>
+-    <field name="series_si">Series XVIII: Dinners/Parties &gt;&gt; Annual Children's Christmas Party- 1957</field>
+-    <field name="heading_ssm">Annual Children's Christmas Party- 1957</field>
++    <field name="series_si">Series XVIII: Dinners/Parties &gt;&gt; Annual Children&#39;s Christmas Party- 1957</field>
++    <field name="heading_ssm">Annual Children&#39;s Christmas Party- 1957</field>
+     <field name="unitdate_ssm">1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">445</field>

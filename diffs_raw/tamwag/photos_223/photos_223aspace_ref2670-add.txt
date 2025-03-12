@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,23 +21,23 @@
+     <field name="unitdate_normal_teim">1966/1971</field>
+     <field name="unitdate_normal_sim">1966/1971</field>
+     <field name="unitdate_inclusive_teim">1966-1971, undated</field>
+-    <field name="name_teim">Turner, James</field>
+     <field name="name_ssm">Turner, James</field>
+-    <field name="subject_teim">Bakery Workers</field>
+-    <field name="subject_teim">Food Service Industry and Workers</field>
+-    <field name="subject_teim">McDonald's Corporation</field>
+-    <field name="subject_teim">Milk</field>
+-    <field name="subject_teim">Sugar</field>
+-    <field name="subject_teim">Workers - African Americans - Women</field>
+-    <field name="subject_teim">Bakery Workers</field>
+-    <field name="subject_teim">Food Service Industry and Workers</field>
+-    <field name="subject_teim">McDonald's Corporation</field>
++    <field name="name_teim">Turner, James</field>
++    <field name="subject_teim">Bakery Workers</field>
++    <field name="subject_teim">Food Service Industry and Workers</field>
++    <field name="subject_teim">McDonald&#39;s Corporation</field>
++    <field name="subject_teim">Milk</field>
++    <field name="subject_teim">Sugar</field>
++    <field name="subject_teim">Workers - African Americans - Women</field>
++    <field name="subject_teim">Bakery Workers</field>
++    <field name="subject_teim">Food Service Industry and Workers</field>
++    <field name="subject_teim">McDonald&#39;s Corporation</field>
+     <field name="subject_teim">Milk</field>
+     <field name="subject_teim">Sugar</field>
+     <field name="subject_teim">Workers - African Americans - Women</field>
+     <field name="subject_ssm">Bakery Workers</field>
+     <field name="subject_ssm">Food Service Industry and Workers</field>
+-    <field name="subject_ssm">McDonald's Corporation</field>
++    <field name="subject_ssm">McDonald&#39;s Corporation</field>
+     <field name="subject_ssm">Milk</field>
+     <field name="subject_ssm">Sugar</field>
+     <field name="subject_ssm">Workers - African Americans - Women</field>
+@@ -51,11 +51,12 @@
+     <field name="location_si">Box: 459, Folder: 21465</field>
+     <field name="subject_sim">Bakery Workers</field>
+     <field name="subject_sim">Food Service Industry and Workers</field>
+-    <field name="subject_sim">McDonald's Corporation</field>
++    <field name="subject_sim">McDonald&#39;s Corporation</field>
+     <field name="subject_sim">Milk</field>
+     <field name="subject_sim">Sugar</field>
+     <field name="subject_sim">Workers - African Americans - Women</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Food - Clippings and Graphics</field>

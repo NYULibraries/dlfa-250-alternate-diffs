@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1986/1998</field>
+     <field name="unitdate_normal_teim">1986/1998</field>
+     <field name="unitdate_normal_sim">1986/1998</field>
+-    <field name="unitdate_inclusive_teim">1986-1998, undated</field>
++    <field name="unitdate_inclusive_teim">1986-1998, undated </field>
+     <field name="ref_ssi">aspace_ref1128</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 34, Folder: 34</field>
+     <field name="location_si">Box: 34, Folder: 34</field>
+     <field name="collection_teim">American Federation of State, County and Municipal Employees (AFSCME), District Council 37 Photographs</field>
++    <field name="author_teim">Melissa Haley and Beth Daniel Lindsay</field>
+     <field name="collection_unitid_teim">PHOTOS.247</field>
+     <field name="series_sim">Series IV: DC 37 Subject Files, 1957-2000.</field>
+     <field name="series_si">Series IV: DC 37 Subject Files, 1957-2000. &gt;&gt; Community Association (Images Taken for Newsletter)</field>
+@@ -38,7 +39,7 @@
+     <field name="unitdate_end_sim">1998</field>
+     <field name="unitdate_end_ssm">1998</field>
+     <field name="unitdate_end_si">1998</field>
+-    <field name="unitdate_ssm">Inclusive, 1986-1998, undated</field>
++    <field name="unitdate_ssm">Inclusive, 1986-1998, undated </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">1116</field>
+   </doc>

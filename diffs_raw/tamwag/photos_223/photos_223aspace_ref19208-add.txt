@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,19 +21,19 @@
+     <field name="unitdate_normal_teim">1971/1984</field>
+     <field name="unitdate_normal_sim">1971/1984</field>
+     <field name="unitdate_inclusive_teim">1971-1984</field>
+-    <field name="name_teim">Krupsak, Mary Anne</field>
+-    <field name="name_teim">Walker, Alice</field>
+     <field name="name_ssm">Krupsak, Mary Anne</field>
+     <field name="name_ssm">Walker, Alice</field>
+-    <field name="subject_teim">Abortion - Demonstrations for and against</field>
+-    <field name="subject_teim">Women - Equal Rights Amendment</field>
+-    <field name="subject_teim">Women - National Women's Conference - 1977</field>
+-    <field name="subject_teim">Abortion - Demonstrations for and against</field>
+-    <field name="subject_teim">Women - Equal Rights Amendment</field>
+-    <field name="subject_teim">Women - National Women's Conference - 1977</field>
++    <field name="name_teim">Krupsak, Mary Anne</field>
++    <field name="name_teim">Walker, Alice</field>
++    <field name="subject_teim">Abortion - Demonstrations for and against</field>
++    <field name="subject_teim">Women - Equal Rights Amendment</field>
++    <field name="subject_teim">Women - National Women&#39;s Conference - 1977</field>
++    <field name="subject_teim">Abortion - Demonstrations for and against</field>
++    <field name="subject_teim">Women - Equal Rights Amendment</field>
++    <field name="subject_teim">Women - National Women&#39;s Conference - 1977</field>
+     <field name="subject_ssm">Abortion - Demonstrations for and against</field>
+     <field name="subject_ssm">Women - Equal Rights Amendment</field>
+-    <field name="subject_ssm">Women - National Women's Conference - 1977</field>
++    <field name="subject_ssm">Women - National Women&#39;s Conference - 1977</field>
+     <field name="ref_ssi">aspace_ref19208</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -44,8 +44,9 @@
+     <field name="location_si">Box: 292, Folder: 16563</field>
+     <field name="subject_sim">Abortion - Demonstrations for and against</field>
+     <field name="subject_sim">Women - Equal Rights Amendment</field>
+-    <field name="subject_sim">Women - National Women's Conference - 1977</field>
++    <field name="subject_sim">Women - National Women&#39;s Conference - 1977</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Steinem, Gloria - Clippings, Pre-Press and Unifax Prints</field>

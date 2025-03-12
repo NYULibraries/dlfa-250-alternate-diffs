@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
+     <field name="collection_unitid_ssm">PHOTOS.223</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Connor, Frank D.</field>
+-    <field name="unittitle_teim">O'Connor, Frank D.</field>
++    <field name="unittitle_ssm">O&#39;Connor, Frank D.</field>
++    <field name="unittitle_teim">O&#39;Connor, Frank D.</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/126890</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/126890</field>
+     <field name="unitdate_normal_ssm">1968/1968</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 229, Folder: 13052</field>
+     <field name="location_si">Box: 229, Folder: 13052</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+-    <field name="series_si">Series I: Biographical Files &gt;&gt; O'Connor, Frank D.</field>
+-    <field name="heading_ssm">O'Connor, Frank D.</field>
++    <field name="series_si">Series I: Biographical Files &gt;&gt; O&#39;Connor, Frank D.</field>
++    <field name="heading_ssm">O&#39;Connor, Frank D.</field>
+     <field name="unitdate_start_sim">1968</field>
+     <field name="unitdate_start_ssm">1968</field>
+     <field name="unitdate_start_si">1968</field>

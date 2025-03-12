@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,14 +21,14 @@
+     <field name="unitdate_normal_teim">1987/1997</field>
+     <field name="unitdate_normal_sim">1987/1997</field>
+     <field name="unitdate_inclusive_teim">1987-1997</field>
+-    <field name="name_teim">Allen, Woody</field>
+-    <field name="name_teim">Bieber, Owen</field>
+-    <field name="name_teim">Iacocca, Lee H.</field>
+-    <field name="name_teim">Sweeney, John</field>
+     <field name="name_ssm">Allen, Woody</field>
+     <field name="name_ssm">Bieber, Owen</field>
+     <field name="name_ssm">Iacocca, Lee H.</field>
+     <field name="name_ssm">Sweeney, John</field>
++    <field name="name_teim">Allen, Woody</field>
++    <field name="name_teim">Bieber, Owen</field>
++    <field name="name_teim">Iacocca, Lee H.</field>
++    <field name="name_teim">Sweeney, John</field>
+     <field name="subject_teim">Labor Organizations - Political Action</field>
+     <field name="subject_teim">Labor Organizations - Political Action</field>
+     <field name="subject_ssm">Labor Organizations - Political Action</field>
+@@ -42,6 +42,7 @@
+     <field name="location_si">Box: 111, Folder: 6350</field>
+     <field name="subject_sim">Labor Organizations - Political Action</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Gephardt, Richard A. (Richard Andrew)</field>

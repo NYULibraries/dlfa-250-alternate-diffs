@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,16 +21,16 @@
+     <field name="unitdate_normal_teim">1969/1970</field>
+     <field name="unitdate_normal_sim">1969/1970</field>
+     <field name="unitdate_inclusive_teim">1969-1970</field>
+-    <field name="name_teim">Davis, Angela Y.</field>
+-    <field name="name_teim">Feliciano, Carlos</field>
+-    <field name="name_teim">Gerson, Simon W.</field>
+-    <field name="name_teim">Kaufman, David</field>
+-    <field name="name_teim">Stevens, José</field>
+     <field name="name_ssm">Davis, Angela Y.</field>
+     <field name="name_ssm">Feliciano, Carlos</field>
+     <field name="name_ssm">Gerson, Simon W.</field>
+     <field name="name_ssm">Kaufman, David</field>
+-    <field name="name_ssm">Stevens, José</field>
++    <field name="name_ssm">Stevens, José </field>
++    <field name="name_teim">Davis, Angela Y.</field>
++    <field name="name_teim">Feliciano, Carlos</field>
++    <field name="name_teim">Gerson, Simon W.</field>
++    <field name="name_teim">Kaufman, David</field>
++    <field name="name_teim">Stevens, José </field>
+     <field name="subject_teim">Communist Party of the United States of America - Election Campaigns</field>
+     <field name="subject_teim">Cost of Living - Meat Boycott</field>
+     <field name="subject_teim">Puerto Rican Day Parades</field>
+@@ -52,6 +52,7 @@
+     <field name="subject_sim">Cost of Living - Meat Boycott</field>
+     <field name="subject_sim">Puerto Rican Day Parades</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Storey, Rasheed - Clippings and Pre-Press Prints</field>

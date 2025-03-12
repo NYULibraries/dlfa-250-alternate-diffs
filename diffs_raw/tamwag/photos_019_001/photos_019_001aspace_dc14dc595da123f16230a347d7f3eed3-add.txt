@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">United Federation of Teachers Hans Weissenstein Negatives</field>
+     <field name="collection_unitid_ssm">PHOTOS.019.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Teachers' Guild meeting Trade High School</field>
+-    <field name="unittitle_teim">Teachers' Guild meeting Trade High School</field>
++    <field name="unittitle_ssm">Teachers&#39; Guild meeting Trade High School</field>
++    <field name="unittitle_teim">Teachers&#39; Guild meeting Trade High School</field>
+     <field name="unitdate_normal_ssm">1957/1957</field>
+     <field name="unitdate_normal_teim">1957/1957</field>
+     <field name="unitdate_normal_sim">1957/1957</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Box: 1, Item: 3486</field>
+     <field name="location_si">Box: 1, Box: 1, Item: 3486</field>
+     <field name="collection_teim">United Federation of Teachers Hans Weissenstein Negatives</field>
++    <field name="author_teim">Holly Halmo, Stephina Fisher, Erika Gottfried, Kevin Andreano, Devon Bixler, Aliqae Geracci.</field>
+     <field name="collection_unitid_teim">PHOTOS.019.001</field>
+     <field name="series_sim">Series XII. Meetings</field>
+-    <field name="series_si">Series XII. Meetings &gt;&gt; Teachers' Guild meeting Trade High School</field>
+-    <field name="heading_ssm">Teachers' Guild meeting Trade High School</field>
++    <field name="series_si">Series XII. Meetings &gt;&gt; Teachers&#39; Guild meeting Trade High School</field>
++    <field name="heading_ssm">Teachers&#39; Guild meeting Trade High School</field>
+     <field name="unitdate_start_sim">1957</field>
+     <field name="unitdate_start_ssm">1957</field>
+     <field name="unitdate_start_si">1957</field>

@@ -1,0 +1,62 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
+     <field name="collection_unitid_ssm">PHOTOS.223</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;People's Weekly World&lt;/em&gt; (newspaper) - Clippings</field>
+-    <field name="unittitle_teim">People's Weekly World (newspaper) - Clippings</field>
++    <field name="unittitle_ssm">&lt;em&gt;People&#39;s Weekly World&lt;/em&gt; (newspaper) - Clippings</field>
++    <field name="unittitle_teim">People&#39;s Weekly World (newspaper) - Clippings</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/137870</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/137870</field>
+     <field name="unitdate_normal_ssm">1997/1998</field>
+@@ -21,16 +21,6 @@
+     <field name="unitdate_normal_teim">1997/1998</field>
+     <field name="unitdate_normal_sim">1997/1998</field>
+     <field name="unitdate_inclusive_teim">1997-1998</field>
+-    <field name="name_teim">Alarcon, Evelina</field>
+-    <field name="name_teim">Bechtel, Marilyn</field>
+-    <field name="name_teim">Dean, Amy</field>
+-    <field name="name_teim">Ellis, Pat</field>
+-    <field name="name_teim">Jordan, Katie</field>
+-    <field name="name_teim">Marshall, Scott</field>
+-    <field name="name_teim">Nelson, Lonnie</field>
+-    <field name="name_teim">Riles, Wilson C.</field>
+-    <field name="name_teim">Winters, David</field>
+-    <field name="name_teim">Wood, Roberta</field>
+     <field name="name_ssm">Alarcon, Evelina</field>
+     <field name="name_ssm">Bechtel, Marilyn</field>
+     <field name="name_ssm">Dean, Amy</field>
+@@ -41,6 +31,16 @@
+     <field name="name_ssm">Riles, Wilson C.</field>
+     <field name="name_ssm">Winters, David</field>
+     <field name="name_ssm">Wood, Roberta</field>
++    <field name="name_teim">Alarcon, Evelina</field>
++    <field name="name_teim">Bechtel, Marilyn</field>
++    <field name="name_teim">Dean, Amy</field>
++    <field name="name_teim">Ellis, Pat</field>
++    <field name="name_teim">Jordan, Katie</field>
++    <field name="name_teim">Marshall, Scott</field>
++    <field name="name_teim">Nelson, Lonnie</field>
++    <field name="name_teim">Riles, Wilson C.</field>
++    <field name="name_teim">Winters, David</field>
++    <field name="name_teim">Wood, Roberta</field>
+     <field name="subject_teim">Labor Organizations - United Auto Workers - Strikes - Caterpillar, Inc</field>
+     <field name="subject_teim">Labor Organizations - United Paperworkers International Union</field>
+     <field name="subject_teim">Labor Organizations - United Steelworkers of America - Strikes - Newport News</field>
+@@ -62,10 +62,11 @@
+     <field name="subject_sim">Labor Organizations - United Paperworkers International Union</field>
+     <field name="subject_sim">Labor Organizations - United Steelworkers of America - Strikes - Newport News</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+-    <field name="series_si">Series II: Subject Files &gt;&gt; &lt;em&gt;People's Weekly World&lt;/em&gt; (newspaper) - Clippings</field>
+-    <field name="heading_ssm">People's Weekly World (newspaper) - Clippings</field>
++    <field name="series_si">Series II: Subject Files &gt;&gt; &lt;em&gt;People&#39;s Weekly World&lt;/em&gt; (newspaper) - Clippings</field>
++    <field name="heading_ssm">People&#39;s Weekly World (newspaper) - Clippings</field>
+     <field name="unitdate_start_sim">1997</field>
+     <field name="unitdate_start_ssm">1997</field>
+     <field name="unitdate_start_si">1997</field>

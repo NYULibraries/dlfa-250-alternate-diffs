@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
+     <field name="collection_unitid_ssm">PHOTOS.223</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">National Women's Political Caucus</field>
+-    <field name="unittitle_teim">National Women's Political Caucus</field>
++    <field name="unittitle_ssm">National Women&#39;s Political Caucus</field>
++    <field name="unittitle_teim">National Women&#39;s Political Caucus</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/137521</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/137521</field>
+     <field name="unitdate_normal_ssm">1975/1975</field>
+@@ -21,10 +21,10 @@
+     <field name="unitdate_normal_teim">1975/1975</field>
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">1975</field>
+-    <field name="name_teim">Abzug, Bella</field>
+-    <field name="name_teim">Jackson, Jesse</field>
+     <field name="name_ssm">Abzug, Bella</field>
+     <field name="name_ssm">Jackson, Jesse</field>
++    <field name="name_teim">Abzug, Bella</field>
++    <field name="name_teim">Jackson, Jesse</field>
+     <field name="ref_ssi">aspace_ref3759</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 579, Folder: 23645</field>
+     <field name="location_si">Box: 579, Folder: 23645</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+-    <field name="series_si">Series II: Subject Files &gt;&gt; National Women's Political Caucus</field>
+-    <field name="heading_ssm">National Women's Political Caucus</field>
++    <field name="series_si">Series II: Subject Files &gt;&gt; National Women&#39;s Political Caucus</field>
++    <field name="heading_ssm">National Women&#39;s Political Caucus</field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>
+     <field name="unitdate_start_si">1975</field>

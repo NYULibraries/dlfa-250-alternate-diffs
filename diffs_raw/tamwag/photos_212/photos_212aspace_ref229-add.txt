@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">AFSCME, Local 420, Hospital Workers Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.212</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Butler, James' 20th Anniversary Celebration]</field>
+-    <field name="unittitle_teim">[Butler, James' 20th Anniversary Celebration]</field>
++    <field name="unittitle_ssm">[Butler, James&#39; 20th Anniversary Celebration]</field>
++    <field name="unittitle_teim">[Butler, James&#39; 20th Anniversary Celebration]</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/111594</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/111594</field>
+     <field name="unitdate_teim">Oct 9, 1992</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 5, Folder: 202</field>
+     <field name="location_si">Box: 5, Folder: 202</field>
+     <field name="collection_teim">AFSCME, Local 420, Hospital Workers Photographs</field>
++    <field name="author_teim">Erika Gottfried and Alicia West, 2005</field>
+     <field name="collection_unitid_teim">PHOTOS.212</field>
+     <field name="series_sim">Series I: Black and White Prints</field>
+     <field name="series_sim">Subseries C: Local 420</field>
+     <field name="series_sim">Sub-subseries viii: Local Officers</field>
+-    <field name="series_si">Series I: Black and White Prints &gt;&gt; Subseries C: Local 420 &gt;&gt; Sub-subseries viii: Local Officers &gt;&gt; [Butler, James' 20th Anniversary Celebration]</field>
+-    <field name="heading_ssm">[Butler, James' 20th Anniversary Celebration]</field>
++    <field name="series_si">Series I: Black and White Prints &gt;&gt; Subseries C: Local 420 &gt;&gt; Sub-subseries viii: Local Officers &gt;&gt; [Butler, James&#39; 20th Anniversary Celebration]</field>
++    <field name="heading_ssm">[Butler, James&#39; 20th Anniversary Celebration]</field>
+     <field name="unitdate_ssm">Oct 9, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">215</field>

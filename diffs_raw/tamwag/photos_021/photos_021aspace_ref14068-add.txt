@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref13165</field>
+     <field name="parent_ssm">aspace_ref14063</field>
+     <field name="parent_unittitles_ssm">Series II: Labor Organizations.</field>
+-    <field name="parent_unittitles_ssm">Subseries AB: Workmen's Circle</field>
++    <field name="parent_unittitles_ssm">Subseries AB: Workmen&amp;#39;s Circle</field>
+     <field name="parent_unittitles_teim">Series II: Labor Organizations.</field>
+-    <field name="parent_unittitles_teim">Subseries AB: Workmen's Circle</field>
++    <field name="parent_unittitles_teim">Subseries AB: Workmen&amp;#39;s Circle</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sam Reiss Negatives</field>
+@@ -17,7 +17,8 @@
+     <field name="collection_unitid_ssm">PHOTOS.021</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Workmens Circle Neptune Ave 4/ /65 [Total negs: 2]</field>
+-    <field name="unittitle_teim">Workmens Circle Neptune Ave 4/ /65 [Total negs: 2]</field>
++    <field name="unittitle_teim">Workmens Circle Neptune Ave 4/ /65 
++[Total negs: 2]</field>
+     <field name="unitdate_normal_ssm">1965/1965</field>
+     <field name="unitdate_normal_teim">1965/1965</field>
+     <field name="unitdate_normal_sim">1965/1965</field>
+@@ -31,11 +32,13 @@
+     <field name="location_ssm">Box: 104, Item: 5413</field>
+     <field name="location_si">Box: 104, Item: 5413</field>
+     <field name="collection_teim">Sam Reiss Negatives</field>
++    <field name="author_teim">Maneesha Patel and Erika Gottfried, with the assistance of Emily Brewer-Yarnell, Stephina Fisher, Bridget Hartzler, Mieke Duffly, Benjamin Hatch, and Shelley Lightburn. Related archival materials note updated by Erika Gottfried in 2013.</field>
+     <field name="collection_unitid_teim">PHOTOS.021</field>
+     <field name="series_sim">Series II: Labor Organizations.</field>
+-    <field name="series_sim">Subseries AB: Workmen's Circle</field>
+-    <field name="series_si">Series II: Labor Organizations. &gt;&gt; Subseries AB: Workmen's Circle &gt;&gt; Workmens Circle Neptune Ave 4/ /65 [Total negs: 2]</field>
+-    <field name="heading_ssm">Workmens Circle Neptune Ave 4/ /65 [Total negs: 2]</field>
++    <field name="series_sim">Subseries AB: Workmen&amp;#39;s Circle</field>
++    <field name="series_si">Series II: Labor Organizations. &gt;&gt; Subseries AB: Workmen&#39;s Circle &gt;&gt; Workmens Circle Neptune Ave 4/ /65 [Total negs: 2]</field>
++    <field name="heading_ssm">Workmens Circle Neptune Ave 4/ /65 
++[Total negs: 2]</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

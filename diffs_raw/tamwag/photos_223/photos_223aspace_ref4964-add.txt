@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,12 +21,6 @@
+     <field name="unitdate_normal_teim">1969/1972</field>
+     <field name="unitdate_normal_sim">1969/1972</field>
+     <field name="unitdate_inclusive_teim">1969-1972, undated</field>
+-    <field name="name_teim">Brakefield, William</field>
+-    <field name="name_teim">Mora, Dennis</field>
+-    <field name="name_teim">Narváez, Juanita</field>
+-    <field name="name_teim">Samas, David</field>
+-    <field name="name_teim">Smith, Wayne L.</field>
+-    <field name="name_teim">Struck, Susan R.</field>
+     <field name="name_ssm">Brakefield, William</field>
+     <field name="name_ssm">Mora, Dennis</field>
+     <field name="name_ssm">Narváez, Juanita</field>
+@@ -33,14 +27,20 @@
+     <field name="name_ssm">Samas, David</field>
+     <field name="name_ssm">Smith, Wayne L.</field>
+     <field name="name_ssm">Struck, Susan R.</field>
+-    <field name="subject_teim">African Americans - Armed Forces</field>
+-    <field name="subject_teim">American Servicemen's Union</field>
+-    <field name="subject_teim">Vietnam War - United States Soldiers against</field>
+-    <field name="subject_teim">African Americans - Armed Forces</field>
+-    <field name="subject_teim">American Servicemen's Union</field>
++    <field name="name_teim">Brakefield, William</field>
++    <field name="name_teim">Mora, Dennis</field>
++    <field name="name_teim">Narváez, Juanita</field>
++    <field name="name_teim">Samas, David</field>
++    <field name="name_teim">Smith, Wayne L.</field>
++    <field name="name_teim">Struck, Susan R.</field>
++    <field name="subject_teim">African Americans - Armed Forces</field>
++    <field name="subject_teim">American Servicemen&#39;s Union </field>
++    <field name="subject_teim">Vietnam War - United States Soldiers against</field>
++    <field name="subject_teim">African Americans - Armed Forces</field>
++    <field name="subject_teim">American Servicemen&#39;s Union </field>
+     <field name="subject_teim">Vietnam War - United States Soldiers against</field>
+     <field name="subject_ssm">African Americans - Armed Forces</field>
+-    <field name="subject_ssm">American Servicemen's Union</field>
++    <field name="subject_ssm">American Servicemen&#39;s Union </field>
+     <field name="subject_ssm">Vietnam War - United States Soldiers against</field>
+     <field name="ref_ssi">aspace_ref4964</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -51,9 +51,10 @@
+     <field name="location_ssm">Box: 701, Folder: 25711</field>
+     <field name="location_si">Box: 701, Folder: 25711</field>
+     <field name="subject_sim">African Americans - Armed Forces</field>
+-    <field name="subject_sim">American Servicemen's Union</field>
++    <field name="subject_sim">American Servicemen&#39;s Union </field>
+     <field name="subject_sim">Vietnam War - United States Soldiers against</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; United States - Army - Legal Cases - Clippings</field>

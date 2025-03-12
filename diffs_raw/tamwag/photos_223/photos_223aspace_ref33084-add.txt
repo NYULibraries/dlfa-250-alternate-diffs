@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,12 +21,12 @@
+     <field name="unitdate_normal_teim">1967/1986</field>
+     <field name="unitdate_normal_sim">1967/1986</field>
+     <field name="unitdate_inclusive_teim">1967-1986</field>
+-    <field name="name_teim">Reynolds, Barbara</field>
+-    <field name="name_teim">Tibbets, Paul W.</field>
+-    <field name="name_teim">Truman, Harry S.</field>
+     <field name="name_ssm">Reynolds, Barbara</field>
+     <field name="name_ssm">Tibbets, Paul W.</field>
+     <field name="name_ssm">Truman, Harry S.</field>
++    <field name="name_teim">Reynolds, Barbara</field>
++    <field name="name_teim">Tibbets, Paul W.</field>
++    <field name="name_teim">Truman, Harry S.</field>
+     <field name="subject_teim">Japan - Demonstrations against Nuclear Bombings</field>
+     <field name="subject_teim">Japan Press Service - Nuclear Weapons - Demonstrations against</field>
+     <field name="subject_teim">Nuclear Weapons - Demonstrations against</field>
+@@ -48,6 +48,7 @@
+     <field name="subject_sim">Japan Press Service - Nuclear Weapons - Demonstrations against</field>
+     <field name="subject_sim">Nuclear Weapons - Demonstrations against</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Japan - World War II - Hiroshima and Nagasaki - Atomic Bomb Victims - Clippings, Pre-Press and Unifax Prints</field>

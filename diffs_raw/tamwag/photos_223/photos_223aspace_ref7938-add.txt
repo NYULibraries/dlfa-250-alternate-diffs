@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,11 +21,11 @@
+     <field name="unitdate_normal_teim">1971/1984</field>
+     <field name="unitdate_normal_sim">1971/1984</field>
+     <field name="unitdate_inclusive_teim">1971-1984</field>
+-    <field name="name_teim">Rosen, Pauline</field>
+     <field name="name_ssm">Rosen, Pauline</field>
+-    <field name="subject_teim">International Women's Year</field>
+-    <field name="subject_teim">International Women's Year</field>
+-    <field name="subject_ssm">International Women's Year</field>
++    <field name="name_teim">Rosen, Pauline</field>
++    <field name="subject_teim">International Women&#39;s Year</field>
++    <field name="subject_teim">International Women&#39;s Year</field>
++    <field name="subject_ssm">International Women&#39;s Year</field>
+     <field name="ref_ssi">aspace_ref7938</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,8 +34,9 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 43, Folder: 2470</field>
+     <field name="location_si">Box: 43, Folder: 2470</field>
+-    <field name="subject_sim">International Women's Year</field>
++    <field name="subject_sim">International Women&#39;s Year</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Burrows, Vinie - Clippings</field>

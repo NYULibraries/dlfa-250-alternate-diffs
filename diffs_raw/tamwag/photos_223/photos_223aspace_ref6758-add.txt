@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1977/1997</field>
+     <field name="unitdate_normal_sim">1977/1997</field>
+     <field name="unitdate_inclusive_teim">1977-1997</field>
+-    <field name="corpname_teim">People's Weekly World</field>
+-    <field name="corpname_ssm">People's Weekly World</field>
++    <field name="corpname_teim">People&#39;s Weekly World</field>
++    <field name="corpname_ssm">People&#39;s Weekly World</field>
+     <field name="ref_ssi">aspace_ref6758</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,9 +31,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 23, Folder: 1235</field>
+     <field name="location_si">Box: 23, Folder: 1235</field>
+-    <field name="name_sim">People's Weekly World</field>
+-    <field name="name_teim">People's Weekly World</field>
++    <field name="name_sim">People&#39;s Weekly World</field>
++    <field name="name_teim">People&#39;s Weekly World</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Bechtel, Marilyn</field>

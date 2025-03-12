@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,12 +21,12 @@
+     <field name="unitdate_normal_teim">1968/1986</field>
+     <field name="unitdate_normal_sim">1968/1986</field>
+     <field name="unitdate_inclusive_teim">1968-1986</field>
+-    <field name="name_teim">Ferber, Mike</field>
+-    <field name="name_teim">King, Martin Luther, Jr.</field>
+-    <field name="name_teim">Levy, Howard B.</field>
+     <field name="name_ssm">Ferber, Mike</field>
+     <field name="name_ssm">King, Martin Luther, Jr.</field>
+     <field name="name_ssm">Levy, Howard B.</field>
++    <field name="name_teim">Ferber, Mike</field>
++    <field name="name_teim">King, Martin Luther, Jr.</field>
++    <field name="name_teim">Levy, Howard B.</field>
+     <field name="subject_teim">Peace Demonstrations (1961-1963)</field>
+     <field name="subject_teim">Soviet Union - Artek (camp)</field>
+     <field name="subject_teim">Vietnam War - Demonstrations against - United States</field>
+@@ -48,6 +48,7 @@
+     <field name="subject_sim">Soviet Union - Artek (camp)</field>
+     <field name="subject_sim">Vietnam War - Demonstrations against - United States</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Spock, Benjamin - Clippings, Pre-Press and Unifax Prints</field>
