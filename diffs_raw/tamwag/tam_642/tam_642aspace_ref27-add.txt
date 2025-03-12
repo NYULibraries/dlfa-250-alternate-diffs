@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1954/2013</field>
+     <field name="unitdate_normal_sim">1954/2013</field>
+     <field name="unitdate_inclusive_teim">1954-2013</field>
+-    <field name="scopecontent_teim">This series contains several scrapbooks documenting Dissent magazine's development from 1954-1989 and other assorted memorabilia related to special events such as parties and anniversaries.</field>
++    <field name="scopecontent_teim">This series contains several scrapbooks documenting Dissent magazine&#39;s development from 1954-1989 and other assorted memorabilia related to special events such as parties and anniversaries.</field>
+     <field name="ref_ssi">aspace_ref27</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Dissent Magazine Records</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.642</field>
+     <field name="series_si">Series VI. Special Events and Memorabilia</field>
+     <field name="heading_ssm">Series VI. Special Events and Memorabilia</field>

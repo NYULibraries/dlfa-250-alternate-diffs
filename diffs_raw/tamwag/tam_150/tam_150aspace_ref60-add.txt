@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hugo Gellert Papers</field>
+     <field name="collection_unitid_ssm">TAM.150</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photographs of Other Artists' Works</field>
+-    <field name="unittitle_teim">Photographs of Other Artists' Works</field>
++    <field name="unittitle_ssm">Photographs of Other Artists&#39; Works </field>
++    <field name="unittitle_teim">Photographs of Other Artists&#39; Works </field>
+     <field name="unitdate_normal_ssm">1940/1959</field>
+     <field name="unitdate_normal_teim">1940/1959</field>
+     <field name="unitdate_normal_sim">1940/1959</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 3</field>
+     <field name="location_si">Box: 3, Folder: 3</field>
+     <field name="collection_teim">Hugo Gellert Papers</field>
++    <field name="author_teim">Peter Meyer Filardo, 2009. Edited by Erika Gottfried to reflect the incorporation of nonprint materials and for compliance with DACS and Tamiment Required Elements for Archival Description, March 2013.</field>
+     <field name="collection_unitid_teim">TAM.150</field>
+     <field name="series_sim">Series II: Graphic and Photographic Materials</field>
+-    <field name="series_si">Series II: Graphic and Photographic Materials &gt;&gt; Photographs of Other Artists' Works</field>
+-    <field name="heading_ssm">Photographs of Other Artists' Works</field>
++    <field name="series_si">Series II: Graphic and Photographic Materials &gt;&gt; Photographs of Other Artists&#39; Works </field>
++    <field name="heading_ssm">Photographs of Other Artists&#39; Works </field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

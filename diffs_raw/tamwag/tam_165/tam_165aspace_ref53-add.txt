@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1945/2000</field>
+     <field name="unitdate_normal_sim">1945/2000</field>
+     <field name="unitdate_inclusive_teim">1945, 1959-2000, undated</field>
+-    <field name="scopecontent_teim">The series contains Japanese American News Corporation stock certificates and Isaku and Emi Kida's personal bank statements, tax returns, calendars, and ledgers. The ledgers document nearly 45 years of Emi's life. The majority of the entries are in Japanese.</field>
++    <field name="scopecontent_teim">The series contains Japanese American News Corporation stock certificates and Isaku and Emi Kida&#39;s personal bank statements, tax returns, calendars, and ledgers. The ledgers document nearly 45 years of Emi&#39;s life. The majority of the entries are in Japanese.</field>
+     <field name="ref_ssi">aspace_ref53</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Isaku and Emi Kida Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.165</field>
+     <field name="series_si">Series IV. Financial records</field>
+     <field name="heading_ssm">Series IV. Financial records</field>

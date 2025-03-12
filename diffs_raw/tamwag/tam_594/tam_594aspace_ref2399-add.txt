@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor S. Navasky Papers</field>
+     <field name="collection_unitid_ssm">TAM.594</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Venona: "Venona and Alger Hiss" by John Lowenthal</field>
+-    <field name="unittitle_teim">Venona: "Venona and Alger Hiss" by John Lowenthal</field>
++    <field name="unittitle_ssm">Venona: &#34;Venona and Alger Hiss&#34; by John Lowenthal</field>
++    <field name="unittitle_teim">Venona: &#34;Venona and Alger Hiss&#34; by John Lowenthal</field>
+     <field name="unitdate_normal_ssm">2000/2000</field>
+     <field name="unitdate_normal_teim">2000/2000</field>
+     <field name="unitdate_normal_sim">2000/2000</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 88, Folder: 24</field>
+     <field name="location_si">Box: 88, Folder: 24</field>
+     <field name="collection_teim">Victor S. Navasky Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Mary Corcoran, Heather Mulliner, and Giana Ricci</field>
+     <field name="collection_unitid_teim">TAM.594</field>
+     <field name="series_sim">Series IX: Subject Files</field>
+-    <field name="series_si">Series IX: Subject Files &gt;&gt; Venona: "Venona and Alger Hiss" by John Lowenthal</field>
+-    <field name="heading_ssm">Venona: "Venona and Alger Hiss" by John Lowenthal</field>
++    <field name="series_si">Series IX: Subject Files &gt;&gt; Venona: &#34;Venona and Alger Hiss&#34; by John Lowenthal</field>
++    <field name="heading_ssm">Venona: &#34;Venona and Alger Hiss&#34; by John Lowenthal</field>
+     <field name="unitdate_start_sim">2000</field>
+     <field name="unitdate_start_ssm">2000</field>
+     <field name="unitdate_start_si">2000</field>

@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="unittitle_ssm">&lt;em&gt;Berkeley Barb &lt;/em&gt;- John Poland</field>
+     <field name="unittitle_teim">Berkeley Barb - John Poland</field>
+     <field name="unitdate_teim">1971</field>
+-    <field name="title_teim">Berkeley Barb</field>
+-    <field name="title_ssm">Berkeley Barb</field>
++    <field name="title_teim">Berkeley Barb </field>
++    <field name="title_ssm">Berkeley Barb </field>
+     <field name="ref_ssi">aspace_ref72</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 2, Folder: 32</field>
+     <field name="location_si">Box: 2, Folder: 32</field>
+     <field name="collection_teim">Robert E. Treuhaft Papers</field>
++    <field name="author_teim">Erika Gottfried</field>
+     <field name="collection_unitid_teim">TAM.664</field>
+     <field name="series_sim">Legal Case Files</field>
+     <field name="series_si">Legal Case Files &gt;&gt; &lt;em&gt;Berkeley Barb &lt;/em&gt;- John Poland</field>

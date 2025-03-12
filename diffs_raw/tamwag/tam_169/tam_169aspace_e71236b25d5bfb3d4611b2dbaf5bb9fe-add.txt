@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George Breitman Papers</field>
+     <field name="collection_unitid_ssm">TAM.169</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"The Wisdom of Malcolm X: From the Streets of Harlem"</field>
+-    <field name="unittitle_teim">"The Wisdom of Malcolm X: From the Streets of Harlem"</field>
++    <field name="unittitle_ssm">&#34;The Wisdom of Malcolm X: From the Streets of Harlem&#34;</field>
++    <field name="unittitle_teim">&#34;The Wisdom of Malcolm X: From the Streets of Harlem&#34;</field>
+     <field name="unitid_teim">cuid42809</field>
+     <field name="unitid_ssm">cuid42809</field>
+     <field name="unitdate_normal_ssm">1963-08-10/1963-08-10</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1963-08-10/1963-08-10</field>
+     <field name="unitdate_normal_sim">1963-08-10/1963-08-10</field>
+     <field name="unitdate_teim">August 10, 1963</field>
+-    <field name="scopecontent_teim">Mo' Soul Records</field>
++    <field name="scopecontent_teim">Mo&#39; Soul Records</field>
+     <field name="ref_ssi">aspace_e71236b25d5bfb3d4611b2dbaf5bb9fe</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 69, audiocassette: 169_0009, 169_0010</field>
+     <field name="location_si">Box: 69, audiocassette: 169_0009, 169_0010</field>
+     <field name="collection_teim">George Breitman Papers</field>
++    <field name="author_teim">Ellen Kastel, Katja Vehlow, Peter Filardo, 2001. </field>
+     <field name="collection_unitid_teim">TAM.169</field>
+     <field name="series_sim">Series IV. Writings, Lectures, and Interviews</field>
+     <field name="series_sim">Subseries C: Malcolm X</field>
+-    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries C: Malcolm X &gt;&gt; "The Wisdom of Malcolm X: From the Streets of Harlem"</field>
+-    <field name="heading_ssm">"The Wisdom of Malcolm X: From the Streets of Harlem"</field>
++    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries C: Malcolm X &gt;&gt; &#34;The Wisdom of Malcolm X: From the Streets of Harlem&#34;</field>
++    <field name="heading_ssm">&#34;The Wisdom of Malcolm X: From the Streets of Harlem&#34;</field>
+     <field name="unitdate_ssm">August 10, 1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">630</field>

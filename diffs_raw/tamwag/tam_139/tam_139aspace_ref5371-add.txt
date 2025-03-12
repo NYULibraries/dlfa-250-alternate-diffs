@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwich House Records</field>
+     <field name="collection_unitid_ssm">TAM.139</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Director's Reports</field>
+-    <field name="unittitle_teim">Director's Reports</field>
++    <field name="unittitle_ssm">Director&#39;s Reports</field>
++    <field name="unittitle_teim">Director&#39;s Reports</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/190841</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/190841</field>
+     <field name="unitdate_normal_ssm">1952/1954</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 91, Folder: 44</field>
+     <field name="location_si">Box: 91, Folder: 44</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed)</field>
+     <field name="series_sim">Subseries 1: Annual Reports, Monthly Reports, Minutes, and Miscellaneous</field>
+-    <field name="series_si">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed) &gt;&gt; Subseries 1: Annual Reports, Monthly Reports, Minutes, and Miscellaneous &gt;&gt; Director's Reports</field>
+-    <field name="heading_ssm">Director's Reports</field>
++    <field name="series_si">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed) &gt;&gt; Subseries 1: Annual Reports, Monthly Reports, Minutes, and Miscellaneous &gt;&gt; Director&#39;s Reports</field>
++    <field name="heading_ssm">Director&#39;s Reports</field>
+     <field name="unitdate_start_sim">1952</field>
+     <field name="unitdate_start_ssm">1952</field>
+     <field name="unitdate_start_si">1952</field>

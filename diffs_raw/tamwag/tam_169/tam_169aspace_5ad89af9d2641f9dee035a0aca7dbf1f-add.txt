@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George Breitman Papers</field>
+     <field name="collection_unitid_ssm">TAM.169</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Panel on the Harlem "Hate Gang" Scare, New York City</field>
+-    <field name="unittitle_teim">Panel on the Harlem "Hate Gang" Scare, New York City</field>
++    <field name="unittitle_ssm">Panel on the Harlem &#34;Hate Gang&#34; Scare, New York City</field>
++    <field name="unittitle_teim">Panel on the Harlem &#34;Hate Gang&#34; Scare, New York City</field>
+     <field name="unitid_teim">cuid42822</field>
+     <field name="unitid_ssm">cuid42822</field>
+     <field name="unitdate_normal_ssm">1964-05/1964-05</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 69, audiocassette: 169_0030, 169_0031</field>
+     <field name="location_si">Box: 69, audiocassette: 169_0030, 169_0031</field>
+     <field name="collection_teim">George Breitman Papers</field>
++    <field name="author_teim">Ellen Kastel, Katja Vehlow, Peter Filardo, 2001. </field>
+     <field name="collection_unitid_teim">TAM.169</field>
+     <field name="series_sim">Series IV. Writings, Lectures, and Interviews</field>
+     <field name="series_sim">Subseries C: Malcolm X</field>
+-    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries C: Malcolm X &gt;&gt; Panel on the Harlem "Hate Gang" Scare, New York City</field>
+-    <field name="heading_ssm">Panel on the Harlem "Hate Gang" Scare, New York City</field>
++    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries C: Malcolm X &gt;&gt; Panel on the Harlem &#34;Hate Gang&#34; Scare, New York City</field>
++    <field name="heading_ssm">Panel on the Harlem &#34;Hate Gang&#34; Scare, New York City</field>
+     <field name="unitdate_ssm">May, 1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">642</field>

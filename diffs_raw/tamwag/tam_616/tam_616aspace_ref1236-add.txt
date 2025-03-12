@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993</field>
+-    <field name="scopecontent_teim">Released in 1993, Flotilla to Cuba shows a fleet of small vessels setting out from Key West, Florida, to Cuba, carrying food and medicine in a humanitarian gesture sponsored by US citizens. The film shows the flotilla's arrival in Cuba and the distribution of its cargo to hospitals in Havana, but also reveals divisions within the Cuban community in Florida. This series contains a full-length documentary, as well as raw footage of the flotilla.</field>
++    <field name="scopecontent_teim">Released in 1993, Flotilla to Cuba shows a fleet of small vessels setting out from Key West, Florida, to Cuba, carrying food and medicine in a humanitarian gesture sponsored by US citizens. The film shows the flotilla&#39;s arrival in Cuba and the distribution of its cargo to hospitals in Havana, but also reveals divisions within the Cuban community in Florida. This series contains a full-length documentary, as well as raw footage of the flotilla.</field>
+     <field name="ref_ssi">aspace_ref1236</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_si">Series IX: &lt;em&gt;Flotilla to Cuba&lt;/em&gt;</field>
+     <field name="heading_ssm">Series IX: Flotilla to Cuba</field>

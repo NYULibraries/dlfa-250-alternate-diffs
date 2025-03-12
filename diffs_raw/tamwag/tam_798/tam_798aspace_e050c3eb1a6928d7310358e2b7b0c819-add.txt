@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2023-07/2023-07</field>
+     <field name="unitdate_normal_sim">2023-07/2023-07</field>
+     <field name="unitdate_teim">July 2023</field>
+-    <field name="scopecontent_teim">The COVID-NYC Documentary Project at the Gotham Center for New York City History is a clearinghouse for the various efforts by museums, universities, libraries, neighborhood groups, and individuals to historically document New York City's experience with the COVID-19 pandemic. A resource featured on the Zip Code Memory Project website.</field>
++    <field name="scopecontent_teim">The COVID-NYC Documentary Project at the Gotham Center for New York City History is a clearinghouse for the various efforts by museums, universities, libraries, neighborhood groups, and individuals to historically document New York City&#39;s experience with the COVID-19 pandemic. A resource featured on the Zip Code Memory Project website.</field>
+     <field name="corpname_teim">Gotham Center for New York City History</field>
+     <field name="corpname_ssm">Gotham Center for New York City History</field>
+     <field name="dao_teim">COVID-NYC Documentary Project Archived Website: July 2023</field>
+@@ -38,6 +38,7 @@
+     <field name="name_teim">Gotham Center for New York City History</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York City COVID-19 Web Activism Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">TAM.798</field>
+     <field name="series_si">COVID-NYC Documentary Project</field>
+     <field name="heading_ssm">COVID-NYC Documentary Project</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">File HQ 100-32520, Section #s 6-10</field>
+     <field name="unittitle_teim">File HQ 100-32520, Section #s 6-10</field>
+     <field name="unitdate_teim">circa 1947-1948</field>
+-    <field name="scopecontent_teim">Notable documents include information on FBI interviews with a notary public who witnessed Eisler's signature on his application for an exit visa.</field>
++    <field name="scopecontent_teim">Notable documents include information on FBI interviews with a notary public who witnessed Eisler&#39;s signature on his application for an exit visa.</field>
+     <field name="ref_ssi">aspace_ref7</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Gerhart Eisler FOIA Files</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.219</field>
+     <field name="series_si">File HQ 100-32520, Section #s 6-10</field>
+     <field name="heading_ssm">File HQ 100-32520, Section #s 6-10</field>

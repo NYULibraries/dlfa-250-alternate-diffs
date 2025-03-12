@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_299</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York City People's Life Fund and New York City War Tax Resistance Records</field>
+-    <field name="collection_ssm">New York City People's Life Fund and New York City War Tax Resistance Records</field>
++    <field name="collection_sim">New York City People&#39;s Life Fund and New York City War Tax Resistance Records</field>
++    <field name="collection_ssm">New York City People&#39;s Life Fund and New York City War Tax Resistance Records</field>
+     <field name="collection_unitid_ssm">TAM.299</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sallie Marx Files: Tax Protest</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+-    <field name="collection_teim">New York City People's Life Fund and New York City War Tax Resistance Records</field>
++    <field name="collection_teim">New York City People&#39;s Life Fund and New York City War Tax Resistance Records</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">TAM.299</field>
+     <field name="series_si">Sallie Marx Files: Tax Protest</field>
+     <field name="heading_ssm">Sallie Marx Files: Tax Protest</field>

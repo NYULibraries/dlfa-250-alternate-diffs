@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_522</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Time's Up Records</field>
+-    <field name="collection_ssm">Time's Up Records</field>
++    <field name="collection_sim">Time&#39;s Up Records</field>
++    <field name="collection_ssm">Time&#39;s Up Records</field>
+     <field name="collection_unitid_ssm">TAM.522</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">2010 Donation</field>
+@@ -38,7 +38,7 @@
+     <field name="scopecontent_teim">The Hub Station: 17</field>
+     <field name="scopecontent_teim">Clear Water Festival: 9</field>
+     <field name="scopecontent_teim">WTO Seattle: 10</field>
+-    <field name="scopecontent_teim">Time's Up Trips: 20</field>
++    <field name="scopecontent_teim">Time&#39;s Up Trips: 20</field>
+     <field name="scopecontent_teim">Central Park/Strawberry Fields: 26</field>
+     <field name="scopecontent_teim">NYU Students Give Life to Abandoned Bikes: 2</field>
+     <field name="scopecontent_teim">Miscellaneous: 50</field>
+@@ -51,7 +51,8 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+-    <field name="collection_teim">Time's Up Records</field>
++    <field name="collection_teim">Time&#39;s Up Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.522</field>
+     <field name="series_si">2010 Donation</field>
+     <field name="heading_ssm">2010 Donation</field>

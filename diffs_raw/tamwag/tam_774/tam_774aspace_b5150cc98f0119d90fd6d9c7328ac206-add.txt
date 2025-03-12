@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Chiapas Media Project Records</field>
+     <field name="collection_unitid_ssm">TAM.774</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Via Video, Chiapas Natives Make Leap Into Modern World," &lt;em&gt;Chicago Tribune&lt;/em&gt;</field>
+-    <field name="unittitle_teim">"Via Video, Chiapas Natives Make Leap Into Modern World," Chicago Tribune</field>
++    <field name="unittitle_ssm">&#34;Via Video, Chiapas Natives Make Leap Into Modern World,&#34; &lt;em&gt;Chicago Tribune&lt;/em&gt;</field>
++    <field name="unittitle_teim">&#34;Via Video, Chiapas Natives Make Leap Into Modern World,&#34; Chicago Tribune</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/951604</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/951604</field>
+     <field name="unitdate_normal_ssm">2000-10-01/2000-10-01</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 17, Folder: 22</field>
+     <field name="location_si">Box: 17, Folder: 22</field>
+     <field name="collection_teim">Chiapas Media Project Records</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">TAM.774</field>
+     <field name="series_sim">Series IV. Written Works</field>
+-    <field name="series_si">Series IV. Written Works &gt;&gt; "Via Video, Chiapas Natives Make Leap Into Modern World," &lt;em&gt;Chicago Tribune&lt;/em&gt;</field>
+-    <field name="heading_ssm">"Via Video, Chiapas Natives Make Leap Into Modern World," Chicago Tribune</field>
++    <field name="series_si">Series IV. Written Works &gt;&gt; &#34;Via Video, Chiapas Natives Make Leap Into Modern World,&#34; &lt;em&gt;Chicago Tribune&lt;/em&gt;</field>
++    <field name="heading_ssm">&#34;Via Video, Chiapas Natives Make Leap Into Modern World,&#34; Chicago Tribune</field>
+     <field name="unitdate_ssm">October 1, 2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">588</field>

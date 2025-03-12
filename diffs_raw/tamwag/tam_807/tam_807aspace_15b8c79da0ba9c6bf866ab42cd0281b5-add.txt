@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Cecily McMillan Papers</field>
+     <field name="collection_unitid_ssm">TAM.807</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Cecily's Birth Year -- Photographs</field>
+-    <field name="unittitle_teim">Cecily's Birth Year -- Photographs</field>
++    <field name="unittitle_ssm">Cecily&#39;s Birth Year -- Photographs</field>
++    <field name="unittitle_teim">Cecily&#39;s Birth Year -- Photographs</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/998134</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/998134</field>
+     <field name="unitdate_normal_ssm">1988/1988</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Cecily McMillan Papers</field>
++    <field name="author_teim">Rachel Searcy and Lauren Stark</field>
+     <field name="collection_unitid_teim">TAM.807</field>
+     <field name="series_sim">Series I. Personal</field>
+-    <field name="series_si">Series I. Personal &gt;&gt; Cecily's Birth Year -- Photographs</field>
+-    <field name="heading_ssm">Cecily's Birth Year -- Photographs</field>
++    <field name="series_si">Series I. Personal &gt;&gt; Cecily&#39;s Birth Year -- Photographs</field>
++    <field name="heading_ssm">Cecily&#39;s Birth Year -- Photographs</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

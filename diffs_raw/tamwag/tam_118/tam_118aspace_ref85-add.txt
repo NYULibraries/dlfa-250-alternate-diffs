@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1927/1936</field>
+     <field name="unitdate_normal_sim">1927/1936</field>
+     <field name="unitdate_inclusive_teim">1927-1936</field>
+-    <field name="scopecontent_teim">This series contains telegrams, correspondence, medical records and reports relating to Flynn's illness and recuperation. Flynn's first attempts at writing poetry are here in a small notebook.</field>
++    <field name="scopecontent_teim">This series contains telegrams, correspondence, medical records and reports relating to Flynn&#39;s illness and recuperation. Flynn&#39;s first attempts at writing poetry are here in a small notebook.</field>
+     <field name="ref_ssi">aspace_ref85</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Elizabeth Gurley Flynn Papers</field>
++    <field name="author_teim">Martha Foley, 1985</field>
+     <field name="collection_unitid_teim">TAM.118</field>
+     <field name="series_si">Series IV: Sojourn in the West</field>
+     <field name="heading_ssm">Series IV: Sojourn in the West</field>

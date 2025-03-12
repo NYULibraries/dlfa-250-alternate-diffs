@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1920/1953</field>
+     <field name="unitdate_normal_sim">1920/1953</field>
+     <field name="unitdate_inclusive_teim">1920-1953</field>
+-    <field name="scopecontent_teim">This series contains materials related Helen Oken North's parents Morris and Jennie Oken. This series consists of correspondence written to the Okens from friends and family as well as several materials related to union involvement.</field>
++    <field name="scopecontent_teim">This series contains materials related Helen Oken North&#39;s parents Morris and Jennie Oken. This series consists of correspondence written to the Okens from friends and family as well as several materials related to union involvement.</field>
+     <field name="ref_ssi">aspace_ref15</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">North (Joseph and Helen Oken) Family Papers</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.605</field>
+     <field name="series_si">Series II: Morris and Jennie Oken Papers</field>
+     <field name="heading_ssm">Series II: Morris and Jennie Oken Papers</field>

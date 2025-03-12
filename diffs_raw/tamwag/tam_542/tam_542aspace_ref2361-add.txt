@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1812</field>
+     <field name="parent_ssm">aspace_ref1845</field>
+     <field name="parent_unittitles_ssm">Series X: Audio-Visual Material</field>
+-    <field name="parent_unittitles_ssm">Subseries X:F: Video Other Formats</field>
++    <field name="parent_unittitles_ssm">Subseries X:F: Video Other Formats </field>
+     <field name="parent_unittitles_teim">Series X: Audio-Visual Material</field>
+-    <field name="parent_unittitles_teim">Subseries X:F: Video Other Formats</field>
++    <field name="parent_unittitles_teim">Subseries X:F: Video Other Formats </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Howard Zinn Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Howard Zinn Papers</field>
+     <field name="collection_unitid_ssm">TAM.542</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox)</field>
+-    <field name="unittitle_teim">U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox)</field>
++    <field name="unittitle_ssm">U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox)</field>
++    <field name="unittitle_teim">U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox)</field>
+     <field name="unitid_teim">cuid17584</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/236412</field>
+     <field name="unitid_ssm">cuid17584</field>
+@@ -24,8 +24,8 @@
+     <field name="unitid_ssm">/repositories/2/archival_objects/236412</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="phystech_teim">Duration: 5 Minutes</field>
+-    <field name="dao_teim">U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox): undated</field>
+-    <field name="dao_ssm">U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox): undated</field>
++    <field name="dao_teim">U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox): undated</field>
++    <field name="dao_ssm">U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox): undated</field>
+     <field name="ref_ssi">aspace_ref2361</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,11 +36,12 @@
+     <field name="location_si">Box: 84, Cassette: 465</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Howard Zinn Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Maggie Schreiner and Walker Gunning</field>
+     <field name="collection_unitid_teim">TAM.542</field>
+     <field name="series_sim">Series X: Audio-Visual Material</field>
+-    <field name="series_sim">Subseries X:F: Video Other Formats</field>
+-    <field name="series_si">Series X: Audio-Visual Material &gt;&gt; Subseries X:F: Video Other Formats &gt;&gt; U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox)</field>
+-    <field name="heading_ssm">U-Matic Video Cassette: "Student Project, MA Victims of Crime" (includes note from Maribeth Cox)</field>
++    <field name="series_sim">Subseries X:F: Video Other Formats </field>
++    <field name="series_si">Series X: Audio-Visual Material &gt;&gt; Subseries X:F: Video Other Formats  &gt;&gt; U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox)</field>
++    <field name="heading_ssm">U-Matic Video Cassette: &#34;Student Project, MA Victims of Crime&#34; (includes note from Maribeth Cox)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2334</field>

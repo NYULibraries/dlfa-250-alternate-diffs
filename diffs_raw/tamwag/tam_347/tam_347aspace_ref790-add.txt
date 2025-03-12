@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1944/1979</field>
+     <field name="unitdate_normal_sim">1944/1979</field>
+     <field name="unitdate_inclusive_teim">1944-1979, undated</field>
+-    <field name="scopecontent_teim">This series contains James E. Jackson's unpublished writings. Topics include Black American leaders, politics and social conditions, and the Communist Party.</field>
++    <field name="scopecontent_teim">This series contains James E. Jackson&#39;s unpublished writings. Topics include Black American leaders, politics and social conditions, and the Communist Party.</field>
+     <field name="ref_ssi">aspace_ref790</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">James E. Jackson and Esther Cooper Jackson Papers</field>
++    <field name="author_teim">Peter Meyer Filardo and Aniko Szucs, 2006</field>
+     <field name="collection_unitid_teim">TAM.347</field>
+     <field name="series_si">Series XIV: Writings, Unpublished</field>
+     <field name="heading_ssm">Series XIV: Writings, Unpublished</field>

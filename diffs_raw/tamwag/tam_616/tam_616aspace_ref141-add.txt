@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1991/1991</field>
+     <field name="unitdate_normal_sim">1991/1991</field>
+     <field name="unitdate_inclusive_teim">1991</field>
+-    <field name="scopecontent_teim">This footage includes about ten minutes of questions and answers at a press conference. Mandela's responses to questions can be heard clearly, but many of the reporters' questions and translations are difficult to hear. In this recording Estela Bravo asks Mandela a question, which can be heard clearly. Additionally, there are places where imaging is poor and scenes are difficult to view.</field>
++    <field name="scopecontent_teim">This footage includes about ten minutes of questions and answers at a press conference. Mandela&#39;s responses to questions can be heard clearly, but many of the reporters&#39; questions and translations are difficult to hear. In this recording Estela Bravo asks Mandela a question, which can be heard clearly. Additionally, there are places where imaging is poor and scenes are difficult to view.</field>
+     <field name="ref_ssi">aspace_ref141</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 77, DVD: ref141</field>
+     <field name="location_si">Box: 77, DVD: ref141</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series XIV: Mandela in Cuba</field>
+     <field name="series_si">Series XIV: Mandela in Cuba &gt;&gt; Mandela, Nelson: Press Conference in Cuba</field>

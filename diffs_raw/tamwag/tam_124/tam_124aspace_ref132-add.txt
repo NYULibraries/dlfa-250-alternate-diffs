@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1932/1941</field>
+     <field name="unitdate_normal_sim">1932/1941</field>
+     <field name="unitdate_inclusive_teim">1932-1941</field>
+-    <field name="scopecontent_teim">Series 5 (Trials. 1932-1941) contains Darcy's notes on his defense, jail notes, defense committee materials, testimony, and clippings pertaining to Darcy's criminal syndicalism and perjury trials, and to a 1932 criminal syndicalism trial at which Darcy appeared as a defense witness.</field>
++    <field name="scopecontent_teim">Series 5 (Trials. 1932-1941) contains Darcy&#39;s notes on his defense, jail notes, defense committee materials, testimony, and clippings pertaining to Darcy&#39;s criminal syndicalism and perjury trials, and to a 1932 criminal syndicalism trial at which Darcy appeared as a defense witness.</field>
+     <field name="ref_ssi">aspace_ref132</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Samuel Adams Darcy Papers</field>
++    <field name="author_teim">Peter Filardo. An EAD finding aid was created in 2009 from the original guide to the Sam Darcy Papers written by Peter Filardo; it was edited by David Olson in 2013 for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials and addition of unprocessed materials.</field>
+     <field name="collection_unitid_teim">TAM.124</field>
+     <field name="series_si">Series V. Trials. 1932-1941.</field>
+     <field name="heading_ssm">Series V. Trials. 1932-1941.</field>

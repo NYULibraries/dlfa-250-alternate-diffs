@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">James E. Jackson and Esther Cooper Jackson Papers</field>
+     <field name="collection_unitid_ssm">TAM.347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The South's New Challenge&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The South's New Challenge</field>
++    <field name="unittitle_ssm">&lt;em&gt;The South&#39;s New Challenge&lt;/em&gt;</field>
++    <field name="unittitle_teim">The South&#39;s New Challenge</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/225813</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/225813</field>
+     <field name="unitdate_teim">1957</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 17, Folder: 35</field>
+     <field name="location_si">Box: 17, Folder: 35</field>
+     <field name="collection_teim">James E. Jackson and Esther Cooper Jackson Papers</field>
++    <field name="author_teim">Peter Meyer Filardo and Aniko Szucs, 2006</field>
+     <field name="collection_unitid_teim">TAM.347</field>
+     <field name="series_sim">Series XIII: Writings, Published</field>
+     <field name="series_sim">Subseries XIV:C: Pamphlets</field>
+-    <field name="series_si">Series XIII: Writings, Published &gt;&gt; Subseries XIV:C: Pamphlets &gt;&gt; &lt;em&gt;The South's New Challenge&lt;/em&gt;</field>
+-    <field name="heading_ssm">The South's New Challenge</field>
++    <field name="series_si">Series XIII: Writings, Published &gt;&gt; Subseries XIV:C: Pamphlets &gt;&gt; &lt;em&gt;The South&#39;s New Challenge&lt;/em&gt;</field>
++    <field name="heading_ssm">The South&#39;s New Challenge</field>
+     <field name="unitdate_ssm">1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">959</field>

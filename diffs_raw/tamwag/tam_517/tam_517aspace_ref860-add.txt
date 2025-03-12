@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref21</field>
+     <field name="parent_ssm">aspace_ref27</field>
+     <field name="parent_unittitles_ssm">Series VIII, Writings</field>
+-    <field name="parent_unittitles_ssm">Subseries VIII-E, Reviews of Agee's Writings</field>
++    <field name="parent_unittitles_ssm">Subseries VIII-E, Reviews of Agee&amp;#39;s Writings</field>
+     <field name="parent_unittitles_teim">Series VIII, Writings</field>
+-    <field name="parent_unittitles_teim">Subseries VIII-E, Reviews of Agee's Writings</field>
++    <field name="parent_unittitles_teim">Subseries VIII-E, Reviews of Agee&amp;#39;s Writings</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Philip Agee Papers</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 18, Folder: 39</field>
+     <field name="location_si">Box: 18, Folder: 39</field>
+     <field name="collection_teim">Philip Agee Papers</field>
++    <field name="author_teim">Aniko Szucs and Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.517</field>
+     <field name="series_sim">Series VIII, Writings</field>
+-    <field name="series_sim">Subseries VIII-E, Reviews of Agee's Writings</field>
+-    <field name="series_si">Series VIII, Writings &gt;&gt; Subseries VIII-E, Reviews of Agee's Writings &gt;&gt; Book Reviews-Inside the Company: CIA Diary</field>
++    <field name="series_sim">Subseries VIII-E, Reviews of Agee&amp;#39;s Writings</field>
++    <field name="series_si">Series VIII, Writings &gt;&gt; Subseries VIII-E, Reviews of Agee&#39;s Writings &gt;&gt; Book Reviews-Inside the Company: CIA Diary</field>
+     <field name="heading_ssm">Book Reviews-Inside the Company: CIA Diary</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>

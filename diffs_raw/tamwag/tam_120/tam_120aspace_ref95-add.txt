@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries B: Literary Manuscripts</field>
+     <field name="unittitle_teim">Subseries B: Literary Manuscripts</field>
+-    <field name="scopecontent_teim">The literary manuscripts consist of Falkowski's poetry, sketches, short stories, plays, and novels. The first folder in the subseries contains four unique issues of a literary journal produced by Falkowski and his friends in Pennsylvania.</field>
++    <field name="scopecontent_teim">The literary manuscripts consist of Falkowski&#39;s poetry, sketches, short stories, plays, and novels. The first folder in the subseries contains four unique issues of a literary journal produced by Falkowski and his friends in Pennsylvania.</field>
+     <field name="ref_ssi">aspace_ref95</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edward J. Falkowski Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.120</field>
+     <field name="series_sim">Series III: Writings</field>
+     <field name="series_si">Series III: Writings &gt;&gt; Subseries B: Literary Manuscripts</field>

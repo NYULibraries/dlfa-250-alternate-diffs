@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1978/1982</field>
+     <field name="unitdate_normal_sim">1978/1982</field>
+     <field name="unitdate_inclusive_teim">1978-1982</field>
+-    <field name="scopecontent_teim">The majority of the materials in this series are recordings of Jane Benedict's radio program "Tenants Fight For Survival," which was broadcast on WBLS.</field>
++    <field name="scopecontent_teim">The majority of the materials in this series are recordings of Jane Benedict&#39;s radio program &#34;Tenants Fight For Survival,&#34; which was broadcast on WBLS.</field>
+     <field name="ref_ssi">aspace_ref1223</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Metropolitan Council on Housing Records</field>
++    <field name="author_teim">Peter Filardo and Paul Sager</field>
+     <field name="collection_unitid_teim">TAM.173</field>
+     <field name="series_si">Series VI: Audio</field>
+     <field name="heading_ssm">Series VI: Audio</field>

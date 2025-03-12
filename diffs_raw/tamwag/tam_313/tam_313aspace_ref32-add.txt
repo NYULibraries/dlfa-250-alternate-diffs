@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_313</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Jane Churchman Squatters' Rights Collection</field>
+-    <field name="collection_ssm">Jane Churchman Squatters' Rights Collection</field>
++    <field name="collection_sim">Jane Churchman Squatters&#39; Rights Collection</field>
++    <field name="collection_ssm">Jane Churchman Squatters&#39; Rights Collection</field>
+     <field name="collection_unitid_ssm">TAM.313</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Tompkins Square Park: Clippings</field>
+@@ -19,7 +19,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 31</field>
+     <field name="location_si">Box: 1, Folder: 31</field>
+-    <field name="collection_teim">Jane Churchman Squatters' Rights Collection</field>
++    <field name="collection_teim">Jane Churchman Squatters&#39; Rights Collection</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.313</field>
+     <field name="series_si">Tompkins Square Park: Clippings</field>
+     <field name="heading_ssm">Tompkins Square Park: Clippings</field>

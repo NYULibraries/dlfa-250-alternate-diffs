@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Max Zaritsky Papers</field>
+     <field name="collection_unitid_ssm">TAM.006</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</field>
+-    <field name="unittitle_teim">Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</field>
++    <field name="unittitle_ssm">Saturday Evening Post Article: &#34;Can Labor Prosper Under Free Enterprise?&#34; [Jan 30, 1943]</field>
++    <field name="unittitle_teim">Saturday Evening Post Article: &#34;Can Labor Prosper Under Free Enterprise?&#34; [Jan 30, 1943]</field>
+     <field name="unitdate_normal_ssm">1942/1943</field>
+     <field name="unitdate_normal_teim">1942/1943</field>
+     <field name="unitdate_normal_sim">1942/1943</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">Max Zaritsky Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.006</field>
+     <field name="series_sim">Series 1: Max Zaritsky Papers</field>
+-    <field name="series_si">Series 1: Max Zaritsky Papers &gt;&gt; Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</field>
+-    <field name="heading_ssm">Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</field>
++    <field name="series_si">Series 1: Max Zaritsky Papers &gt;&gt; Saturday Evening Post Article: &#34;Can Labor Prosper Under Free Enterprise?&#34; [Jan 30, 1943]</field>
++    <field name="heading_ssm">Saturday Evening Post Article: &#34;Can Labor Prosper Under Free Enterprise?&#34; [Jan 30, 1943]</field>
+     <field name="unitdate_start_sim">1942</field>
+     <field name="unitdate_start_ssm">1942</field>
+     <field name="unitdate_start_si">1942</field>

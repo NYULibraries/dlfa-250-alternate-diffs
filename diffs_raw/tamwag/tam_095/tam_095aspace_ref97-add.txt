@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,14 @@
+     <field name="collection_ssm">Gil Green Papers</field>
+     <field name="collection_unitid_ssm">TAM.095</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Green, Gil: &lt;em&gt;What's Happening to Labor&lt;/em&gt;- correspondence, reviews, etc.</field>
+-    <field name="unittitle_teim">Green, Gil: What's Happening to Labor- correspondence, reviews, etc.</field>
++    <field name="unittitle_ssm">Green, Gil: &lt;em&gt;What&#39;s Happening to Labor&lt;/em&gt;- correspondence, reviews, etc.</field>
++    <field name="unittitle_teim">Green, Gil: What&#39;s Happening to Labor- correspondence, reviews, etc.</field>
+     <field name="unitdate_normal_ssm">1976/1976</field>
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">circa 1976</field>
+-    <field name="title_teim">What's Happening to Labor</field>
+-    <field name="title_ssm">What's Happening to Labor</field>
++    <field name="title_teim">What&#39;s Happening to Labor</field>
++    <field name="title_ssm">What&#39;s Happening to Labor</field>
+     <field name="ref_ssi">aspace_ref97</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 6, Folder: 2</field>
+     <field name="location_si">Box: 6, Folder: 2</field>
+     <field name="collection_teim">Gil Green Papers</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.095</field>
+     <field name="series_sim">Series III: Projects, Activities, Associates, Topics</field>
+-    <field name="series_si">Series III: Projects, Activities, Associates, Topics &gt;&gt; Green, Gil: &lt;em&gt;What's Happening to Labor&lt;/em&gt;- correspondence, reviews, etc.</field>
+-    <field name="heading_ssm">Green, Gil: What's Happening to Labor- correspondence, reviews, etc.</field>
++    <field name="series_si">Series III: Projects, Activities, Associates, Topics &gt;&gt; Green, Gil: &lt;em&gt;What&#39;s Happening to Labor&lt;/em&gt;- correspondence, reviews, etc.</field>
++    <field name="heading_ssm">Green, Gil: What&#39;s Happening to Labor- correspondence, reviews, etc.</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

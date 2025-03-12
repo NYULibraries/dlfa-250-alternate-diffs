@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Alfred Wagenknecht and Hortense Allison and Helen and Carl Winter Family Papers</field>
+     <field name="collection_unitid_ssm">TAM.583</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Manfred, Erica: "I Was a Red Diaper Baby," &lt;em&gt;New York Times Magazine&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Manfred, Erica: "I Was a Red Diaper Baby," New York Times Magazine</field>
++    <field name="unittitle_ssm">Manfred, Erica: &#34;I Was a Red Diaper Baby,&#34; &lt;em&gt;New York Times Magazine&lt;/em&gt;</field>
++    <field name="unittitle_teim">Manfred, Erica: &#34;I Was a Red Diaper Baby,&#34; New York Times Magazine</field>
+     <field name="unitdate_normal_ssm">1997/1997</field>
+     <field name="unitdate_normal_teim">1997/1997</field>
+     <field name="unitdate_normal_sim">1997/1997</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 3, Folder: 25</field>
+     <field name="location_si">Box: 3, Folder: 25</field>
+     <field name="collection_teim">Alfred Wagenknecht and Hortense Allison and Helen and Carl Winter Family Papers</field>
++    <field name="author_teim">Peter Meyer Filardo, Nicole M. Greenhouse, Hanan Ohayon</field>
+     <field name="collection_unitid_teim">TAM.583</field>
+     <field name="series_sim">II, Helen and Carl Winter Papers</field>
+     <field name="series_sim">I, Biographical and Memorabilia</field>
+-    <field name="series_si">II, Helen and Carl Winter Papers &gt;&gt; I, Biographical and Memorabilia &gt;&gt; Manfred, Erica: "I Was a Red Diaper Baby," &lt;em&gt;New York Times Magazine&lt;/em&gt;</field>
+-    <field name="heading_ssm">Manfred, Erica: "I Was a Red Diaper Baby," New York Times Magazine</field>
++    <field name="series_si">II, Helen and Carl Winter Papers &gt;&gt; I, Biographical and Memorabilia &gt;&gt; Manfred, Erica: &#34;I Was a Red Diaper Baby,&#34; &lt;em&gt;New York Times Magazine&lt;/em&gt;</field>
++    <field name="heading_ssm">Manfred, Erica: &#34;I Was a Red Diaper Baby,&#34; New York Times Magazine</field>
+     <field name="unitdate_start_sim">1997</field>
+     <field name="unitdate_start_ssm">1997</field>
+     <field name="unitdate_start_si">1997</field>

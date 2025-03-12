@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,10 +23,10 @@
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+     <field name="unitdate_inclusive_teim">1996 November 9</field>
+-    <field name="scopecontent_teim">Sydney Pollack begins by talking about his first visit to Cuba to direct a film about Ernest Hemingway. He discusses meeting with Fidel Castro, and his ongoing feelings about Cuba, where he visits often. Much of the interview focuses on the public perception of Fidel Castro and US relations with Cuba. Pollack also shares several anecdotes about Castro's interactions with Mary Hemingway.</field>
++    <field name="scopecontent_teim">Sydney Pollack begins by talking about his first visit to Cuba to direct a film about Ernest Hemingway. He discusses meeting with Fidel Castro, and his ongoing feelings about Cuba, where he visits often. Much of the interview focuses on the public perception of Fidel Castro and US relations with Cuba. Pollack also shares several anecdotes about Castro&#39;s interactions with Mary Hemingway.</field>
+     <field name="phystech_teim">Original Format: Betacam. Duration: 00:28:54.</field>
+-    <field name="dao_teim">Pollack, Sydney: Interview : Nov 9, 1996</field>
+-    <field name="dao_ssm">Pollack, Sydney: Interview : Nov 9, 1996</field>
++    <field name="dao_teim">Pollack, Sydney: Interview  : Nov 9, 1996</field>
++    <field name="dao_ssm">Pollack, Sydney: Interview  : Nov 9, 1996</field>
+     <field name="ref_ssi">aspace_ref870</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,6 +38,7 @@
+     <field name="location_si">Box: 84, DVD: ref870</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Pollack, Sydney: Interview</field>

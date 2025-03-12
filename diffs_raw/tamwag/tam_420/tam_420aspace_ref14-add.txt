@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">William Morris Letters</field>
+     <field name="collection_unitid_ssm">TAM.420</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">William Morris to: Howell, [Charles Augustus] Contents: "I return Rossetti letter…"</field>
+-    <field name="unittitle_teim">William Morris to: Howell, [Charles Augustus] Contents: "I return Rossetti letter…"</field>
++    <field name="unittitle_ssm">William Morris to: Howell, [Charles Augustus] Contents: &#34;I return Rossetti letter…&#34;</field>
++    <field name="unittitle_teim">William Morris to: Howell, [Charles Augustus] Contents: &#34;I return Rossetti letter…&#34;</field>
+     <field name="unitdate_teim">Mar 5, 1866</field>
+     <field name="ref_ssi">aspace_ref14</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">William Morris Letters</field>
++    <field name="author_teim">Peter Meyer Filardo</field>
+     <field name="collection_unitid_teim">TAM.420</field>
+     <field name="series_sim">Letters</field>
+-    <field name="series_si">Letters &gt;&gt; William Morris to: Howell, [Charles Augustus] Contents: "I return Rossetti letter…"</field>
+-    <field name="heading_ssm">William Morris to: Howell, [Charles Augustus] Contents: "I return Rossetti letter…"</field>
++    <field name="series_si">Letters &gt;&gt; William Morris to: Howell, [Charles Augustus] Contents: &#34;I return Rossetti letter…&#34;</field>
++    <field name="heading_ssm">William Morris to: Howell, [Charles Augustus] Contents: &#34;I return Rossetti letter…&#34;</field>
+     <field name="unitdate_ssm">Mar 5, 1866</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

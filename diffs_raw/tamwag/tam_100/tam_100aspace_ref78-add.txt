@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Virginia Gardner Papers</field>
+     <field name="collection_unitid_ssm">TAM.100</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Marberry, Red (Marion) - John's father</field>
+-    <field name="unittitle_teim">Marberry, Red (Marion) - John's father</field>
++    <field name="unittitle_ssm">Marberry, Red (Marion) - John&#39;s father</field>
++    <field name="unittitle_teim">Marberry, Red (Marion) - John&#39;s father</field>
+     <field name="unitdate_normal_ssm">1922/1990</field>
+     <field name="unitdate_normal_teim">1922/1990</field>
+     <field name="unitdate_normal_sim">1922/1990</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 1, Folder: 62</field>
+     <field name="location_si">Box: 1, Folder: 62</field>
+     <field name="collection_teim">Virginia Gardner Papers</field>
++    <field name="author_teim">Charmaine-Smith Campbell, 1991 &amp; Katja Vehlow, 2001</field>
+     <field name="collection_unitid_teim">TAM.100</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_sim">Subseries II:A: Correspondence with relatives.</field>
+-    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries II:A: Correspondence with relatives. &gt;&gt; Marberry, Red (Marion) - John's father</field>
+-    <field name="heading_ssm">Marberry, Red (Marion) - John's father</field>
++    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries II:A: Correspondence with relatives. &gt;&gt; Marberry, Red (Marion) - John&#39;s father</field>
++    <field name="heading_ssm">Marberry, Red (Marion) - John&#39;s father</field>
+     <field name="unitdate_start_sim">1922</field>
+     <field name="unitdate_start_ssm">1922</field>
+     <field name="unitdate_start_si">1922</field>

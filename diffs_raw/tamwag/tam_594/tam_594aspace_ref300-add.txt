@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor S. Navasky Papers</field>
+     <field name="collection_unitid_ssm">TAM.594</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Military: "53rd Infantry News"</field>
+-    <field name="unittitle_teim">Military: "53rd Infantry News"</field>
++    <field name="unittitle_ssm">Military: &#34;53rd Infantry News&#34;</field>
++    <field name="unittitle_teim">Military: &#34;53rd Infantry News&#34;</field>
+     <field name="unitdate_normal_ssm">1955/1956</field>
+     <field name="unitdate_normal_teim">1955/1956</field>
+     <field name="unitdate_normal_sim">1955/1956</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4, Folder: 27</field>
+     <field name="location_si">Box: 4, Folder: 27</field>
+     <field name="collection_teim">Victor S. Navasky Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Mary Corcoran, Heather Mulliner, and Giana Ricci</field>
+     <field name="collection_unitid_teim">TAM.594</field>
+     <field name="series_sim">Series I: Personal and Biographical Material</field>
+-    <field name="series_si">Series I: Personal and Biographical Material &gt;&gt; Military: "53rd Infantry News"</field>
+-    <field name="heading_ssm">Military: "53rd Infantry News"</field>
++    <field name="series_si">Series I: Personal and Biographical Material &gt;&gt; Military: &#34;53rd Infantry News&#34;</field>
++    <field name="heading_ssm">Military: &#34;53rd Infantry News&#34;</field>
+     <field name="unitdate_start_sim">1955</field>
+     <field name="unitdate_start_ssm">1955</field>
+     <field name="unitdate_start_si">1955</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Claessens, August. &lt;em&gt;A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking&lt;/em&gt;. New York: International Ladies' Garment Workers Union, Educational Department, 28pp.</field>
+-    <field name="unittitle_teim">Claessens, August. A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking. New York: International Ladies' Garment Workers Union, Educational Department, 28pp.</field>
++    <field name="unittitle_ssm">Claessens, August. &lt;em&gt;A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking&lt;/em&gt;. New York: International Ladies&#39; Garment Workers Union, Educational Department, 28pp.</field>
++    <field name="unittitle_teim">Claessens, August. A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking. New York: International Ladies&#39; Garment Workers Union, Educational Department, 28pp.</field>
+     <field name="unitdate_normal_ssm">1936/1936</field>
+     <field name="unitdate_normal_teim">1936/1936</field>
+     <field name="unitdate_normal_sim">1936/1936</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 48, Folder: 4</field>
+     <field name="location_si">Box: 48, Folder: 4</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series VI: Publications</field>
+     <field name="series_sim">Subseries VIB: Pamphlets and Books, 1914-1954</field>
+-    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIB: Pamphlets and Books, 1914-1954 &gt;&gt; Claessens, August. &lt;em&gt;A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking&lt;/em&gt;. New York: International Ladies' Garment Workers Union, Educational Department, 28pp.</field>
+-    <field name="heading_ssm">Claessens, August. A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking. New York: International Ladies' Garment Workers Union, Educational Department, 28pp.</field>
++    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIB: Pamphlets and Books, 1914-1954 &gt;&gt; Claessens, August. &lt;em&gt;A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking&lt;/em&gt;. New York: International Ladies&#39; Garment Workers Union, Educational Department, 28pp.</field>
++    <field name="heading_ssm">Claessens, August. A Manual for Trade Union Speakers. A Brief Text Book on Public Speaking. New York: International Ladies&#39; Garment Workers Union, Educational Department, 28pp.</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>
+     <field name="unitdate_start_si">1936</field>

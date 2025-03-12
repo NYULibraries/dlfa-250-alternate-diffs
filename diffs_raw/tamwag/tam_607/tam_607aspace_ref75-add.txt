@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Marvin Leiner Papers</field>
+     <field name="collection_unitid_ssm">TAM.607</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Children's artwork</field>
+-    <field name="unittitle_teim">Children's artwork</field>
++    <field name="unittitle_ssm">Children&#39;s artwork</field>
++    <field name="unittitle_teim">Children&#39;s artwork</field>
+     <field name="unitdate_normal_ssm">1960/1969</field>
+     <field name="unitdate_normal_teim">1960/1969</field>
+     <field name="unitdate_normal_sim">1960/1969</field>
+@@ -31,11 +31,13 @@
+     <field name="location_ssm">Box: 46, Folder: 1</field>
+     <field name="location_si">Box: 46, Folder: 1</field>
+     <field name="collection_teim">Marvin Leiner Papers</field>
++    <field name="author_teim">Rachel Schimke, 2012.
++Jasmine Larkin, 2017.</field>
+     <field name="collection_unitid_teim">TAM.607</field>
+     <field name="series_sim">Series I: Research Files</field>
+     <field name="series_sim">Subseries I.A: Cuba</field>
+-    <field name="series_si">Series I: Research Files &gt;&gt; Subseries I.A: Cuba &gt;&gt; Children's artwork</field>
+-    <field name="heading_ssm">Children's artwork</field>
++    <field name="series_si">Series I: Research Files &gt;&gt; Subseries I.A: Cuba &gt;&gt; Children&#39;s artwork</field>
++    <field name="heading_ssm">Children&#39;s artwork</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>

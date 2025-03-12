@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwich House Records</field>
+     <field name="collection_unitid_ssm">TAM.139</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Treasurer' Correspondence</field>
+-    <field name="unittitle_teim">Treasurer' Correspondence</field>
++    <field name="unittitle_ssm">Treasurer&#39; Correspondence</field>
++    <field name="unittitle_teim">Treasurer&#39; Correspondence</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/189145</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/189145</field>
+     <field name="unitdate_normal_ssm">1909/1912</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 17A, Folder: 4</field>
+     <field name="location_si">Box: 17A, Folder: 4</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series I: Administrative Records</field>
+     <field name="series_sim">Subseries F: Addendum</field>
+-    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries F: Addendum &gt;&gt; Treasurer' Correspondence</field>
+-    <field name="heading_ssm">Treasurer' Correspondence</field>
++    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries F: Addendum &gt;&gt; Treasurer&#39; Correspondence</field>
++    <field name="heading_ssm">Treasurer&#39; Correspondence</field>
+     <field name="unitdate_start_sim">1909</field>
+     <field name="unitdate_start_ssm">1909</field>
+     <field name="unitdate_start_si">1909</field>

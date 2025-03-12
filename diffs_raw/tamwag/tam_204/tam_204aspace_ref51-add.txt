@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frank Lovell Papers</field>
+     <field name="collection_unitid_ssm">TAM.204</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">On Publication of &lt;em&gt;Labor's Giant Step&lt;/em&gt;</field>
+-    <field name="unittitle_teim">On Publication of Labor's Giant Step</field>
++    <field name="unittitle_ssm">On Publication of &lt;em&gt;Labor&#39;s Giant Step&lt;/em&gt;</field>
++    <field name="unittitle_teim">On Publication of Labor&#39;s Giant Step</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/212582</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/212582</field>
+     <field name="unitdate_normal_ssm">1953/1953</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1953/1953</field>
+     <field name="unitdate_normal_sim">1953/1953</field>
+     <field name="unitdate_inclusive_teim">1953</field>
+-    <field name="title_teim">Labor's Giant Step</field>
+-    <field name="title_ssm">Labor's Giant Step</field>
++    <field name="title_teim">Labor&#39;s Giant Step</field>
++    <field name="title_ssm">Labor&#39;s Giant Step</field>
+     <field name="ref_ssi">aspace_ref51</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">Frank Lovell Papers</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.204</field>
+     <field name="series_sim">Series II: Political Activities and Writings</field>
+-    <field name="series_si">Series II: Political Activities and Writings &gt;&gt; On Publication of &lt;em&gt;Labor's Giant Step&lt;/em&gt;</field>
+-    <field name="heading_ssm">On Publication of Labor's Giant Step</field>
++    <field name="series_si">Series II: Political Activities and Writings &gt;&gt; On Publication of &lt;em&gt;Labor&#39;s Giant Step&lt;/em&gt;</field>
++    <field name="heading_ssm">On Publication of Labor&#39;s Giant Step</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>
+     <field name="unitdate_start_si">1953</field>

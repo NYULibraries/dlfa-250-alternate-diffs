@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">David Karsner Papers on the Bill Haywood Espionage Trial</field>
+     <field name="collection_unitid_ssm">TAM.430</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;United States of America v. William D. Haywood, et al.&lt;/em&gt;: Defendants' Exhibit, Marlin Arms Corporaton (Clipping)</field>
+-    <field name="unittitle_teim">United States of America v. William D. Haywood, et al.: Defendants' Exhibit, Marlin Arms Corporaton (Clipping)</field>
++    <field name="unittitle_ssm">&lt;em&gt;United States of America v. William D. Haywood, et al.&lt;/em&gt;: Defendants&#39; Exhibit, Marlin Arms Corporaton (Clipping)</field>
++    <field name="unittitle_teim">United States of America v. William D. Haywood, et al.: Defendants&#39; Exhibit, Marlin Arms Corporaton (Clipping)</field>
+     <field name="unitdate_normal_ssm">1918/1918</field>
+     <field name="unitdate_normal_teim">1918/1918</field>
+     <field name="unitdate_normal_sim">1918/1918</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">David Karsner Papers on the Bill Haywood Espionage Trial</field>
++    <field name="author_teim">Kelli Piotrowski</field>
+     <field name="collection_unitid_teim">TAM.430</field>
+     <field name="series_sim">Series I: Subject Files, 1918-1930.</field>
+-    <field name="series_si">Series I: Subject Files, 1918-1930. &gt;&gt; &lt;em&gt;United States of America v. William D. Haywood, et al.&lt;/em&gt;: Defendants' Exhibit, Marlin Arms Corporaton (Clipping)</field>
+-    <field name="heading_ssm">United States of America v. William D. Haywood, et al.: Defendants' Exhibit, Marlin Arms Corporaton (Clipping)</field>
++    <field name="series_si">Series I: Subject Files, 1918-1930. &gt;&gt; &lt;em&gt;United States of America v. William D. Haywood, et al.&lt;/em&gt;: Defendants&#39; Exhibit, Marlin Arms Corporaton (Clipping)</field>
++    <field name="heading_ssm">United States of America v. William D. Haywood, et al.: Defendants&#39; Exhibit, Marlin Arms Corporaton (Clipping)</field>
+     <field name="unitdate_start_sim">1918</field>
+     <field name="unitdate_start_ssm">1918</field>
+     <field name="unitdate_start_si">1918</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries C: Journalism, Notes, Interviews, Biography, and Autobiography</field>
+     <field name="unittitle_teim">Subseries C: Journalism, Notes, Interviews, Biography, and Autobiography</field>
+-    <field name="scopecontent_teim">The subseries includes interviews and manuscripts produced from Falkowski's work as a journalist. It also includes Falkowski's autobiography and other biographical materials.</field>
++    <field name="scopecontent_teim">The subseries includes interviews and manuscripts produced from Falkowski&#39;s work as a journalist. It also includes Falkowski&#39;s autobiography and other biographical materials.</field>
+     <field name="ref_ssi">aspace_ref96</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edward J. Falkowski Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.120</field>
+     <field name="series_sim">Series III: Writings</field>
+     <field name="series_si">Series III: Writings &gt;&gt; Subseries C: Journalism, Notes, Interviews, Biography, and Autobiography</field>

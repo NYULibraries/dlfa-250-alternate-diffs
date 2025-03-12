@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Edith Segal Papers</field>
+     <field name="collection_unitid_ssm">TAM.684</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New Year's Cards</field>
+-    <field name="unittitle_teim">New Year's Cards</field>
++    <field name="unittitle_ssm">New Year&#39;s Cards</field>
++    <field name="unittitle_teim">New Year&#39;s Cards</field>
+     <field name="unitdate_normal_ssm">1952/1965</field>
+     <field name="unitdate_normal_teim">1952/1965</field>
+     <field name="unitdate_normal_sim">1952/1965</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 9, Folder: 5</field>
+     <field name="location_si">Box: 9, Folder: 5</field>
+     <field name="collection_teim">Edith Segal Papers</field>
++    <field name="author_teim">Heather Mulliner and Lauren Stark</field>
+     <field name="collection_unitid_teim">TAM.684</field>
+     <field name="series_sim">Series II. Accretions</field>
+-    <field name="series_si">Series II. Accretions &gt;&gt; New Year's Cards</field>
+-    <field name="heading_ssm">New Year's Cards</field>
++    <field name="series_si">Series II. Accretions &gt;&gt; New Year&#39;s Cards</field>
++    <field name="heading_ssm">New Year&#39;s Cards</field>
+     <field name="unitdate_start_sim">1952</field>
+     <field name="unitdate_start_ssm">1952</field>
+     <field name="unitdate_start_si">1952</field>

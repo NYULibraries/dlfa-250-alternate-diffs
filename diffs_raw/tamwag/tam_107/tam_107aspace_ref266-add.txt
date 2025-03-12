@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tamiment Playhouse Records</field>
+     <field name="collection_unitid_ssm">TAM.107</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Baker's Sketch&lt;/em&gt;&amp; &lt;em&gt;Syncopated Clock&lt;/em&gt;(incidental music)</field>
+-    <field name="unittitle_teim">Baker's Sketch&amp; Syncopated Clock(incidental music)</field>
++    <field name="unittitle_ssm">&lt;em&gt;Baker&#39;s Sketch&lt;/em&gt;&amp; &lt;em&gt;Syncopated Clock&lt;/em&gt;(incidental music)</field>
++    <field name="unittitle_teim">Baker&#39;s Sketch&amp; Syncopated Clock(incidental music)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/167007</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/167007</field>
+     <field name="unitdate_normal_ssm">1927/1987</field>
+@@ -21,9 +21,9 @@
+     <field name="unitdate_normal_teim">1927/1987</field>
+     <field name="unitdate_normal_sim">1927/1987</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="title_teim">Baker's Sketch</field>
++    <field name="title_teim">Baker&#39;s Sketch</field>
+     <field name="title_teim">Syncopated Clock</field>
+-    <field name="title_ssm">Baker's Sketch</field>
++    <field name="title_ssm">Baker&#39;s Sketch</field>
+     <field name="title_ssm">Syncopated Clock</field>
+     <field name="ref_ssi">aspace_ref266</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 10, Folder: 3</field>
+     <field name="location_si">Box: 10, Folder: 3</field>
+     <field name="collection_teim">Tamiment Playhouse Records</field>
++    <field name="author_teim">Martha LoMonaco</field>
+     <field name="collection_unitid_teim">TAM.107</field>
+     <field name="series_sim">Series IV: Music</field>
+-    <field name="series_si">Series IV: Music &gt;&gt; &lt;em&gt;Baker's Sketch&lt;/em&gt;&amp; &lt;em&gt;Syncopated Clock&lt;/em&gt;(incidental music)</field>
+-    <field name="heading_ssm">Baker's Sketch&amp; Syncopated Clock(incidental music)</field>
++    <field name="series_si">Series IV: Music &gt;&gt; &lt;em&gt;Baker&#39;s Sketch&lt;/em&gt;&amp; &lt;em&gt;Syncopated Clock&lt;/em&gt;(incidental music)</field>
++    <field name="heading_ssm">Baker&#39;s Sketch&amp; Syncopated Clock(incidental music)</field>
+     <field name="unitdate_start_sim">1927</field>
+     <field name="unitdate_start_ssm">1927</field>
+     <field name="unitdate_start_si">1927</field>

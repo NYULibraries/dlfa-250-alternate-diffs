@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,13 +5,13 @@
+     <field name="ead_ssi">tam_316</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Women Writing Women's Lives Records</field>
+-    <field name="collection_ssm">Women Writing Women's Lives Records</field>
++    <field name="collection_sim">Women Writing Women&#39;s Lives Records</field>
++    <field name="collection_ssm">Women Writing Women&#39;s Lives Records</field>
+     <field name="collection_unitid_ssm">TAM.316</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Session Records</field>
+     <field name="unittitle_teim">Series III: Session Records</field>
+-    <field name="scopecontent_teim">The Session Records contain announcements, attendance sheets, lectures and notes from the organization's monthly meetings. Names of lecturers are indicated in the folder title.</field>
++    <field name="scopecontent_teim">The Session Records contain announcements, attendance sheets, lectures and notes from the organization&#39;s monthly meetings. Names of lecturers are indicated in the folder title.</field>
+     <field name="ref_ssi">aspace_ref51</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -18,7 +18,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Women Writing Women's Lives Records</field>
++    <field name="collection_teim">Women Writing Women&#39;s Lives Records</field>
++    <field name="author_teim">Hillel Arnold</field>
+     <field name="collection_unitid_teim">TAM.316</field>
+     <field name="series_si">Series III: Session Records</field>
+     <field name="heading_ssm">Series III: Session Records</field>

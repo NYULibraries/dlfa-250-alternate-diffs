@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1982-07-01/1982-07-01</field>
+     <field name="unitdate_normal_sim">1982-07-01/1982-07-01</field>
+     <field name="unitdate_teim">1982-07-01</field>
+-    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 60 min.</field>
++    <field name="phystech_teim">Format: 3/4&#34; Umatic, Duration: 60 min.</field>
+     <field name="dao_teim">Video 373: CCTV: 1982-07-01-</field>
+     <field name="dao_ssm">Video 373: CCTV: 1982-07-01-</field>
+     <field name="ref_ssi">aspace_a1f14e45fa92bbb2450eabfaca7c3af6</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: 107</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Asian CineVision Records</field>
++    <field name="author_teim">I-Ting Emily Chu</field>
+     <field name="collection_unitid_teim">TAM.416</field>
+     <field name="series_sim">Series III: Video Recordings</field>
+     <field name="series_si">Series III: Video Recordings &gt;&gt; Video 373: CCTV</field>

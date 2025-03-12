@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_365</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">On Davis Papers on Squatters' Rights</field>
+-    <field name="collection_ssm">On Davis Papers on Squatters' Rights</field>
++    <field name="collection_sim">On Davis Papers on Squatters&#39; Rights</field>
++    <field name="collection_ssm">On Davis Papers on Squatters&#39; Rights</field>
+     <field name="collection_unitid_ssm">TAM.365</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Posters</field>
+@@ -23,7 +23,8 @@
+     <field name="location_ssm">Box: Shared Tamiment 175, Folder: 2</field>
+     <field name="location_ssm">Flat-File-Folder: 18 Right</field>
+     <field name="location_si">Flat-File-Folder: 18 Right</field>
+-    <field name="collection_teim">On Davis Papers on Squatters' Rights</field>
++    <field name="collection_teim">On Davis Papers on Squatters&#39; Rights</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.365</field>
+     <field name="series_si">Posters</field>
+     <field name="heading_ssm">Posters</field>

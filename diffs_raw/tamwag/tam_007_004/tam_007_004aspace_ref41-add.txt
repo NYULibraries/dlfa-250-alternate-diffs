@@ -1,0 +1,16 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,9 +25,10 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: 1a, Folder: 5</field>
+-    <field name="location_si">Box: 1a, Folder: 5</field>
++    <field name="location_ssm">Box: 1a, Folder: 5  </field>
++    <field name="location_si">Box: 1a, Folder: 5  </field>
+     <field name="collection_teim">Tamiment Institute Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007.004</field>
+     <field name="series_sim">Series I: Records</field>
+     <field name="series_si">Series I: Records &gt;&gt; Clippings</field>

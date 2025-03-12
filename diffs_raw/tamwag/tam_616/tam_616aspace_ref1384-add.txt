@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1990/1990</field>
+     <field name="unitdate_normal_sim">1990/1990</field>
+     <field name="unitdate_inclusive_teim">circa 1990</field>
+-    <field name="scopecontent_teim">This video begins with a brief interview with a police officer in Guantanamo, Cuba. At minute 3:56 it changes to footage of a military rally at the Cacahual Monument features a military procession and public memorial to Cuban soldiers who died fighting in Angola. The video initially focuses on faces in the crowd, and starts and stops several times. Footage eventually turns to the speaker who celebrates the bravery of Cuban soldiers in Angola and the fight against the South African government in Namibia. He also praises Cuba's commitment to internationalism and support of people in the third world.</field>
++    <field name="scopecontent_teim">This video begins with a brief interview with a police officer in Guantanamo, Cuba. At minute 3:56 it changes to footage of a military rally at the Cacahual Monument features a military procession and public memorial to Cuban soldiers who died fighting in Angola. The video initially focuses on faces in the crowd, and starts and stops several times. Footage eventually turns to the speaker who celebrates the bravery of Cuban soldiers in Angola and the fight against the South African government in Namibia. He also praises Cuba&#39;s commitment to internationalism and support of people in the third world.</field>
+     <field name="bioghist_teim">El Cacahual Mausoleum is a monument and resting place of Cuban military commander Antonio Maceo outside of Havana. It has become a national symbol to honor those who died during military service.</field>
+     <field name="phystech_teim">Original Format: Betacam. Duration: 00:20:55.</field>
+     <field name="ref_ssi">aspace_ref1384</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 98, DVD: ref1384</field>
+     <field name="location_si">Box: 98, DVD: ref1384</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series V: Cuba/South Africa: After the Battle</field>
+     <field name="series_si">Series V: Cuba/South Africa: After the Battle &gt;&gt; Cacahual Memorial</field>

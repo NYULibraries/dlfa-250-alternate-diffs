@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Marine Workers Historical Collection</field>
+     <field name="collection_unitid_ssm">TAM.125</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">International Seamen's Union: Membership Meeting on Board the &lt;em&gt;SS California&lt;/em&gt;(photocopies)</field>
+-    <field name="unittitle_teim">International Seamen's Union: Membership Meeting on Board the SS California(photocopies)</field>
++    <field name="unittitle_ssm">International Seamen&#39;s Union: Membership Meeting on Board the &lt;em&gt;SS California&lt;/em&gt;(photocopies)</field>
++    <field name="unittitle_teim">International Seamen&#39;s Union: Membership Meeting on Board the SS California(photocopies)</field>
+     <field name="unitdate_teim">Feb 1936</field>
+     <field name="title_teim">SS California</field>
+     <field name="title_ssm">SS California</field>
+@@ -23,9 +23,10 @@
+     <field name="location_ssm">Box: 2, Folder: 21</field>
+     <field name="location_si">Box: 2, Folder: 21</field>
+     <field name="collection_teim">Marine Workers Historical Collection</field>
++    <field name="author_teim">Diana Maull, 1986; and Gail Malmgreen and Elizabeth Du Rocher, 2007. Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description and to to reflect the incorporation of nonprint materials (2013).</field>
+     <field name="collection_unitid_teim">TAM.125</field>
+-    <field name="series_si">International Seamen's Union: Membership Meeting on Board the &lt;em&gt;SS California&lt;/em&gt;(photocopies)</field>
+-    <field name="heading_ssm">International Seamen's Union: Membership Meeting on Board the SS California(photocopies)</field>
++    <field name="series_si">International Seamen&#39;s Union: Membership Meeting on Board the &lt;em&gt;SS California&lt;/em&gt;(photocopies)</field>
++    <field name="heading_ssm">International Seamen&#39;s Union: Membership Meeting on Board the SS California(photocopies)</field>
+     <field name="unitdate_ssm">Feb 1936</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">69</field>

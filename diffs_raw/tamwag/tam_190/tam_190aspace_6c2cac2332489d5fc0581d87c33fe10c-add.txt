@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1978/2009</field>
+     <field name="unitdate_normal_sim">1978/2009</field>
+     <field name="unitdate_inclusive_teim">1978-2009</field>
+-    <field name="scopecontent_teim">This series consists of correspondence, notes, legal documents, and subject files concerning the 2002 libel trial of Alexander Vassiliev and historical scholarship on the Alger Hiss perjury trials. Some of the materials in this series are created by David Lowenthal after John Lowenthal's death.</field>
++    <field name="scopecontent_teim">This series consists of correspondence, notes, legal documents, and subject files concerning the 2002 libel trial of Alexander Vassiliev and historical scholarship on the Alger Hiss perjury trials. Some of the materials in this series are created by David Lowenthal after John Lowenthal&#39;s death.</field>
+     <field name="ref_ssi">aspace_6c2cac2332489d5fc0581d87c33fe10c</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Lowenthal Papers</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">TAM.190</field>
+     <field name="series_si">Series V: 2020 Accretion</field>
+     <field name="heading_ssm">Series V: 2020 Accretion</field>

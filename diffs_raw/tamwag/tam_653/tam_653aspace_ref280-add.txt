@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,9 @@
+     <field name="collection_unitid_ssm">TAM.653</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;The Black Hills Alliance&lt;/em&gt; Publisher: The Black Hills Alliance City of publication: Rapid City, SD</field>
+-    <field name="unittitle_teim">The Black Hills Alliance Publisher: The Black Hills Alliance City of publication: Rapid City, SD</field>
++    <field name="unittitle_teim">The Black Hills Alliance
++ Publisher: The Black Hills Alliance
++ City of publication: Rapid City, SD</field>
+     <field name="unitdate_normal_ssm">1979/1979</field>
+     <field name="unitdate_normal_teim">1979/1979</field>
+     <field name="unitdate_normal_sim">1979/1979</field>
+@@ -34,10 +36,13 @@
+     <field name="name_sim">The Black Hills Alliance</field>
+     <field name="name_teim">The Black Hills Alliance</field>
+     <field name="collection_teim">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">TAM.653</field>
+     <field name="series_sim">Series II: Pamphlets by Title</field>
+     <field name="series_si">Series II: Pamphlets by Title &gt;&gt; &lt;em&gt;The Black Hills Alliance&lt;/em&gt; Publisher: The Black Hills Alliance City of publication: Rapid City, SD</field>
+-    <field name="heading_ssm">The Black Hills Alliance Publisher: The Black Hills Alliance City of publication: Rapid City, SD</field>
++    <field name="heading_ssm">The Black Hills Alliance
++ Publisher: The Black Hills Alliance
++ City of publication: Rapid City, SD</field>
+     <field name="unitdate_start_sim">1979</field>
+     <field name="unitdate_start_ssm">1979</field>
+     <field name="unitdate_start_si">1979</field>

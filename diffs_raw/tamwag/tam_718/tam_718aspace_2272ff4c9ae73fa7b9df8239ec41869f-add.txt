@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Beyond the Pale Records</field>
+     <field name="collection_unitid_ssm">TAM.718</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]</field>
+-    <field name="unittitle_teim">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]</field>
++    <field name="unittitle_ssm">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]</field>
++    <field name="unittitle_teim">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]</field>
+     <field name="unitid_teim">cuid33776</field>
+     <field name="unitid_ssm">cuid33776</field>
+     <field name="unitdate_normal_ssm">1996-12-20/1996-12-20</field>
+@@ -18,8 +18,8 @@
+     <field name="unitdate_normal_sim">1996-12-20/1996-12-20</field>
+     <field name="unitdate_inclusive_teim">1996 December 20</field>
+     <field name="phystech_teim">Duration: 0:11:46</field>
+-    <field name="dao_teim">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]: 1996 December 20</field>
+-    <field name="dao_ssm">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]: 1996 December 20</field>
++    <field name="dao_teim">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]: 1996 December 20</field>
++    <field name="dao_ssm">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]: 1996 December 20</field>
+     <field name="ref_ssi">aspace_2272ff4c9ae73fa7b9df8239ec41869f</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,9 +30,10 @@
+     <field name="location_si">Box: 3, audiocassette: 718_0087</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Beyond the Pale Records</field>
++    <field name="author_teim">Heather Mulliner, Amy C. Vo</field>
+     <field name="collection_unitid_teim">TAM.718</field>
+-    <field name="series_si">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]</field>
+-    <field name="heading_ssm">A: Scratch / B: "The Day Santa Fainted" by Jenny Romaine [1996-037]</field>
++    <field name="series_si">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]</field>
++    <field name="heading_ssm">A: Scratch / B: &#34;The Day Santa Fainted&#34; by Jenny Romaine [1996-037]</field>
+     <field name="unitdate_ssm">Inclusive, 1996 December 20</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">100</field>

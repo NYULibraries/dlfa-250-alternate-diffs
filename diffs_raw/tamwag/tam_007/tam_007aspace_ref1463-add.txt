@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,14 +16,14 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">De Leon, Solon, ed. &lt;em&gt;The American Labor Who's Who&lt;/em&gt;. New York: Hanford Press, 374pp.</field>
+-    <field name="unittitle_teim">De Leon, Solon, ed. The American Labor Who's Who. New York: Hanford Press, 374pp.</field>
++    <field name="unittitle_ssm">De Leon, Solon, ed. &lt;em&gt;The American Labor Who&#39;s Who&lt;/em&gt;. New York: Hanford Press, 374pp.</field>
++    <field name="unittitle_teim">De Leon, Solon, ed. The American Labor Who&#39;s Who. New York: Hanford Press, 374pp.</field>
+     <field name="unitdate_normal_ssm">1925/1925</field>
+     <field name="unitdate_normal_teim">1925/1925</field>
+     <field name="unitdate_normal_sim">1925/1925</field>
+     <field name="unitdate_inclusive_teim">1925</field>
+-    <field name="title_teim">The American Labor Who's Who</field>
+-    <field name="title_ssm">The American Labor Who's Who</field>
++    <field name="title_teim">The American Labor Who&#39;s Who</field>
++    <field name="title_ssm">The American Labor Who&#39;s Who</field>
+     <field name="ref_ssi">aspace_ref1463</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 49, Folder: 1</field>
+     <field name="location_si">Box: 49, Folder: 1</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series VI: Publications</field>
+     <field name="series_sim">Subseries VIB: Pamphlets and Books, 1914-1954</field>
+-    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIB: Pamphlets and Books, 1914-1954 &gt;&gt; De Leon, Solon, ed. &lt;em&gt;The American Labor Who's Who&lt;/em&gt;. New York: Hanford Press, 374pp.</field>
+-    <field name="heading_ssm">De Leon, Solon, ed. The American Labor Who's Who. New York: Hanford Press, 374pp.</field>
++    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIB: Pamphlets and Books, 1914-1954 &gt;&gt; De Leon, Solon, ed. &lt;em&gt;The American Labor Who&#39;s Who&lt;/em&gt;. New York: Hanford Press, 374pp.</field>
++    <field name="heading_ssm">De Leon, Solon, ed. The American Labor Who&#39;s Who. New York: Hanford Press, 374pp.</field>
+     <field name="unitdate_start_sim">1925</field>
+     <field name="unitdate_start_ssm">1925</field>
+     <field name="unitdate_start_si">1925</field>

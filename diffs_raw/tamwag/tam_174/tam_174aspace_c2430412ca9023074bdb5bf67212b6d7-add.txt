@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">National Committee to Reopen the Rosenberg Case Records</field>
+     <field name="collection_unitid_ssm">TAM.174</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Set Reg. Form and Envelopes for Nat'l Comm. Mtg. April</field>
+-    <field name="unittitle_teim">Set Reg. Form and Envelopes for Nat'l Comm. Mtg. April</field>
++    <field name="unittitle_ssm">Set Reg. Form and Envelopes for Nat&#39;l Comm. Mtg. April</field>
++    <field name="unittitle_teim">Set Reg. Form and Envelopes for Nat&#39;l Comm. Mtg. April</field>
+     <field name="unitdate_normal_ssm">1976/1976</field>
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 84</field>
+     <field name="location_si">Box: 1, Folder: 84</field>
+     <field name="collection_teim">National Committee to Reopen the Rosenberg Case Records</field>
++    <field name="author_teim">Maggie Schreiner and Amy C. Vo</field>
+     <field name="collection_unitid_teim">TAM.174</field>
+     <field name="series_sim">Series I. Administrative and Financial Records</field>
+-    <field name="series_si">Series I. Administrative and Financial Records &gt;&gt; Set Reg. Form and Envelopes for Nat'l Comm. Mtg. April</field>
+-    <field name="heading_ssm">Set Reg. Form and Envelopes for Nat'l Comm. Mtg. April</field>
++    <field name="series_si">Series I. Administrative and Financial Records &gt;&gt; Set Reg. Form and Envelopes for Nat&#39;l Comm. Mtg. April</field>
++    <field name="heading_ssm">Set Reg. Form and Envelopes for Nat&#39;l Comm. Mtg. April</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

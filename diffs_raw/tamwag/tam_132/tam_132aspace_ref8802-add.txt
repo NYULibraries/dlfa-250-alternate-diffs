@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1920/2001</field>
+     <field name="unitdate_normal_sim">1920/2001</field>
+     <field name="unitdate_inclusive_teim">1920-2001</field>
+-    <field name="scopecontent_teim">These files were compiled by members of the CPUSA and were likely used for reference purposes. Files are made up primarily of bulletins, clippings, mailings, and informational materials that originate from sources outside the Party. They reflect members' interest in issues such as civil rights, international communism, and peace efforts. Of particular interest, is the biographical materials on Joe Hill.</field>
++    <field name="scopecontent_teim">These files were compiled by members of the CPUSA and were likely used for reference purposes. Files are made up primarily of bulletins, clippings, mailings, and informational materials that originate from sources outside the Party. They reflect members&#39; interest in issues such as civil rights, international communism, and peace efforts. Of particular interest, is the biographical materials on Joe Hill.</field>
+     <field name="ref_ssi">aspace_ref8802</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Communist Party of the United States of America Records</field>
++    <field name="author_teim">Jillian Cuellar, Peter Filardo, Stephanie Bennett, Margaret Fraser, Nancy Ng Tam, Hester Goodwin Stanley, Maggie Schreiner, Daniel Reisner, Michelle Dean, and Hanan Ohayon (March 2012). Edited to include accessioned materials, May 2014</field>
+     <field name="collection_unitid_teim">TAM.132</field>
+     <field name="series_sim">Series X: General Files</field>
+     <field name="series_si">Series X: General Files &gt;&gt; Subseries X.F: Subject Files of National Office</field>

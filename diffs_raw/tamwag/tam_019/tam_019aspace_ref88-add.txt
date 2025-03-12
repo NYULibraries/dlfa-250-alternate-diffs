@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mark Starr Papers</field>
+     <field name="collection_unitid_ssm">TAM.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Workers Education Conference: Annual Washington's Birthday</field>
+-    <field name="unittitle_teim">Workers Education Conference: Annual Washington's Birthday</field>
++    <field name="unittitle_ssm">Workers Education Conference: Annual Washington&#39;s Birthday</field>
++    <field name="unittitle_teim">Workers Education Conference: Annual Washington&#39;s Birthday</field>
+     <field name="unitdate_normal_ssm">1937/1957</field>
+     <field name="unitdate_normal_teim">1937/1957</field>
+     <field name="unitdate_normal_sim">1937/1957</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 11, Folder: 1</field>
+     <field name="location_si">Box: 11, Folder: 1</field>
+     <field name="collection_teim">Mark Starr Papers</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.019</field>
+     <field name="series_sim">First Accession</field>
+-    <field name="series_si">First Accession &gt;&gt; Workers Education Conference: Annual Washington's Birthday</field>
+-    <field name="heading_ssm">Workers Education Conference: Annual Washington's Birthday</field>
++    <field name="series_si">First Accession &gt;&gt; Workers Education Conference: Annual Washington&#39;s Birthday</field>
++    <field name="heading_ssm">Workers Education Conference: Annual Washington&#39;s Birthday</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>
+     <field name="unitdate_start_si">1937</field>

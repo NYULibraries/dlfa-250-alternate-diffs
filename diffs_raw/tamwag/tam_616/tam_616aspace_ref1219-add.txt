@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+     <field name="collection_unitid_ssm">TAM.616</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Last Chile," "#1 Debt," and "Argentina"</field>
+-    <field name="unittitle_teim">"Last Chile," "#1 Debt," and "Argentina"</field>
++    <field name="unittitle_ssm">&#34;Last Chile,&#34; &#34;#1 Debt,&#34; and &#34;Argentina&#34;</field>
++    <field name="unittitle_teim">&#34;Last Chile,&#34; &#34;#1 Debt,&#34; and &#34;Argentina&#34;</field>
+     <field name="unitid_teim">cuid17680</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/241412</field>
+     <field name="unitid_ssm">cuid17680</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+     <field name="unitdate_inclusive_teim">circa 1987</field>
+-    <field name="scopecontent_teim">This video begins with footage of a play. At minute 6:20 it changes to still images of a funeral procession. Then at minute 8:45 it changes to footage of on-the-street interviews in Argentina. Estela Bravo asks several individuals about the country's political situation and foreign debt. Several of the interviewees express frustration with the country's politics, arguing that there is high unemployment and little opportunity for the average citizen to create political change. Several individuals discuss the country's foreign debt. They question the government's ability to pay its debt and argue that average communities suffer in poverty in the meantime.</field>
++    <field name="scopecontent_teim">This video begins with footage of a play. At minute 6:20 it changes to still images of a funeral procession. Then at minute 8:45 it changes to footage of on-the-street interviews in Argentina. Estela Bravo asks several individuals about the country&#39;s political situation and foreign debt. Several of the interviewees express frustration with the country&#39;s politics, arguing that there is high unemployment and little opportunity for the average citizen to create political change. Several individuals discuss the country&#39;s foreign debt. They question the government&#39;s ability to pay its debt and argue that average communities suffer in poverty in the meantime.</field>
+     <field name="phystech_teim">Original Format: Umatic. Duration: 0:22:08.</field>
+     <field name="ref_ssi">aspace_ref1219</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 98, DVD: ref1219</field>
+     <field name="location_si">Box: 98, DVD: ref1219</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series III: Children in Debt</field>
+-    <field name="series_si">Series III: Children in Debt &gt;&gt; "Last Chile," "#1 Debt," and "Argentina"</field>
+-    <field name="heading_ssm">"Last Chile," "#1 Debt," and "Argentina"</field>
++    <field name="series_si">Series III: Children in Debt &gt;&gt; &#34;Last Chile,&#34; &#34;#1 Debt,&#34; and &#34;Argentina&#34;</field>
++    <field name="heading_ssm">&#34;Last Chile,&#34; &#34;#1 Debt,&#34; and &#34;Argentina&#34;</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

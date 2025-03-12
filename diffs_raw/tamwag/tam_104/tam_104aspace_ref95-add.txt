@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">David Fender Papers</field>
+     <field name="collection_unitid_ssm">TAM.104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Gilman, Earl, "Open Letter to the P.O.R."</field>
+-    <field name="unittitle_teim">Gilman, Earl, "Open Letter to the P.O.R."</field>
++    <field name="unittitle_ssm">Gilman, Earl, &#34;Open Letter to the P.O.R.&#34;</field>
++    <field name="unittitle_teim">Gilman, Earl, &#34;Open Letter to the P.O.R.&#34;</field>
+     <field name="unitdate_normal_ssm">1972/1972</field>
+     <field name="unitdate_normal_teim">1972/1972</field>
+     <field name="unitdate_normal_sim">1972/1972</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 7</field>
+     <field name="location_si">Box: 2, Folder: 7</field>
+     <field name="collection_teim">David Fender Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.104</field>
+     <field name="series_sim">Manuscripts and Articles</field>
+-    <field name="series_si">Manuscripts and Articles &gt;&gt; Gilman, Earl, "Open Letter to the P.O.R."</field>
+-    <field name="heading_ssm">Gilman, Earl, "Open Letter to the P.O.R."</field>
++    <field name="series_si">Manuscripts and Articles &gt;&gt; Gilman, Earl, &#34;Open Letter to the P.O.R.&#34;</field>
++    <field name="heading_ssm">Gilman, Earl, &#34;Open Letter to the P.O.R.&#34;</field>
+     <field name="unitdate_start_sim">1972</field>
+     <field name="unitdate_start_ssm">1972</field>
+     <field name="unitdate_start_si">1972</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Asian CineVision Records</field>
+     <field name="collection_unitid_ssm">TAM.416</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Video 593: Unidentified, CCTV labeled "226"</field>
+-    <field name="unittitle_teim">Video 593: Unidentified, CCTV labeled "226"</field>
++    <field name="unittitle_ssm">Video 593: Unidentified, CCTV labeled &#34;226&#34;</field>
++    <field name="unittitle_teim">Video 593: Unidentified, CCTV labeled &#34;226&#34;</field>
+     <field name="unitid_teim">cuid1856</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/252704</field>
+     <field name="unitid_ssm">cuid1856</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 129</field>
+     <field name="location_si">Box: 129</field>
+     <field name="collection_teim">Asian CineVision Records</field>
++    <field name="author_teim">I-Ting Emily Chu</field>
+     <field name="collection_unitid_teim">TAM.416</field>
+     <field name="series_sim">Series III: Video Recordings</field>
+-    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 593: Unidentified, CCTV labeled "226"</field>
+-    <field name="heading_ssm">Video 593: Unidentified, CCTV labeled "226"</field>
++    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 593: Unidentified, CCTV labeled &#34;226&#34;</field>
++    <field name="heading_ssm">Video 593: Unidentified, CCTV labeled &#34;226&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">570</field>
+   </doc>

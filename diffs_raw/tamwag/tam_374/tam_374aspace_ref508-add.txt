@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_374</field>
+     <field name="parent_ssi">aspace_ref500</field>
+     <field name="parent_ssm">aspace_ref500</field>
+-    <field name="parent_unittitles_ssm">Series VII: Estate-Related Material</field>
+-    <field name="parent_unittitles_teim">Series VII: Estate-Related Material</field>
++    <field name="parent_unittitles_ssm">Series VII: Estate-Related Material&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series VII: Estate-Related Material&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Benjamin and Muriel Goldring Papers and Photographs</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Benjamin and Muriel Goldring Papers and Photographs</field>
+     <field name="collection_unitid_ssm">TAM.374</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lease</field>
+-    <field name="unittitle_teim">Lease</field>
++    <field name="unittitle_ssm">Lease </field>
++    <field name="unittitle_teim">Lease </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/227587</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/227587</field>
+     <field name="unitdate_teim">2006</field>
+@@ -27,10 +27,12 @@
+     <field name="location_ssm">Box: 18, Folder: 5</field>
+     <field name="location_si">Box: 18, Folder: 5</field>
+     <field name="collection_teim">Benjamin and Muriel Goldring Papers and Photographs</field>
++    <field name="author_teim">Jennifer Pondo, Daniel Michelson, and Gail Malmgreen, 2009-2010</field>
+     <field name="collection_unitid_teim">TAM.374</field>
+-    <field name="series_sim">Series VII: Estate-Related Material</field>
+-    <field name="series_si">Series VII: Estate-Related Material &gt;&gt; Lease</field>
+-    <field name="heading_ssm">Lease</field>
++    <field name="series_sim">Series VII: Estate-Related Material&amp;#xA;</field>
++    <field name="series_si">Series VII: Estate-Related Material
++ &gt;&gt; Lease </field>
++    <field name="heading_ssm">Lease </field>
+     <field name="unitdate_ssm">2006</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">488</field>

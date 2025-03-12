@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,8 +18,8 @@
+     <field name="unitdate_normal_ssm">1978/1995</field>
+     <field name="unitdate_normal_teim">1978/1995</field>
+     <field name="unitdate_normal_sim">1978/1995</field>
+-    <field name="unitdate_inclusive_teim">1978-1995</field>
+-    <field name="scopecontent_teim">This subseries focuses on the period of Navasky's editorship of The Nation under publishers Hamilton Fish and Arthur Carter. As with the initial Nation subseries, much of its content may have been collected for A Matter of Opinion. There are agreements and contracts, as well as correspondence; material concerning the magazine's operation, including personnel issues; and a selection of press clippings during that period (1978-1995).</field>
++    <field name="unitdate_inclusive_teim"> 1978-1995</field>
++    <field name="scopecontent_teim">This subseries focuses on the period of Navasky&#39;s editorship of The Nation under publishers Hamilton Fish and Arthur Carter.  As with the initial Nation subseries, much of its content may have been collected for A Matter of Opinion.  There are agreements and contracts, as well as correspondence; material concerning the magazine&#39;s operation, including personnel issues; and a selection of press clippings during that period (1978-1995).</field>
+     <field name="ref_ssi">aspace_ref320</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Victor S. Navasky Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Mary Corcoran, Heather Mulliner, and Giana Ricci</field>
+     <field name="collection_unitid_teim">TAM.594</field>
+     <field name="series_sim">Series II: Navasky and The Nation</field>
+     <field name="series_si">Series II: Navasky and The Nation &gt;&gt; Subseries IIB: Navasky as Editor</field>
+@@ -37,7 +38,7 @@
+     <field name="unitdate_end_sim">1995</field>
+     <field name="unitdate_end_ssm">1995</field>
+     <field name="unitdate_end_si">1995</field>
+-    <field name="unitdate_ssm">Inclusive, 1978-1995</field>
++    <field name="unitdate_ssm">Inclusive,  1978-1995</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">212</field>
+   </doc>

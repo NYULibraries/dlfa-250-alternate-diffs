@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,10 +26,10 @@
+     <field name="unitdate_normal_teim">1997/1997</field>
+     <field name="unitdate_normal_sim">1997/1997</field>
+     <field name="unitdate_inclusive_teim">1997 June 5</field>
+-    <field name="scopecontent_teim">In this portion of the interview Juan Almeida shares stories about Fidel's relationships with such figures as Che Guevara and Camilo Cienfuegos. He also provides other anecdotes and concludes with a discussion about his personal relationship with Fidel Castro.</field>
++    <field name="scopecontent_teim">In this portion of the interview Juan Almeida shares stories about Fidel&#39;s relationships with such figures as Che Guevara and Camilo Cienfuegos. He also provides other anecdotes and concludes with a discussion about his personal relationship with Fidel Castro.</field>
+     <field name="phystech_teim">Original Format: Betacam. Duration: 00:33:22.</field>
+-    <field name="dao_teim">Almeida, Juan: Interview -3 : Jun 5, 1997</field>
+-    <field name="dao_ssm">Almeida, Juan: Interview -3 : Jun 5, 1997</field>
++    <field name="dao_teim">Almeida, Juan: Interview -3  : Jun 5, 1997</field>
++    <field name="dao_ssm">Almeida, Juan: Interview -3  : Jun 5, 1997</field>
+     <field name="ref_ssi">aspace_ref895</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -40,6 +40,7 @@
+     <field name="location_si">Box: 69, Cassette: ref895</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_sim">Almeida, Juan: Interview -3</field>

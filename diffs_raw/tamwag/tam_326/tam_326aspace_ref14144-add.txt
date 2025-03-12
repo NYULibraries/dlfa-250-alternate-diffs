@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref15</field>
+     <field name="parent_ssm">aspace_ref13999</field>
+     <field name="parent_unittitles_ssm">Series I: Case Files</field>
+-    <field name="parent_unittitles_ssm">Sub-Series D: Politics' Packages Abroad Case Files</field>
++    <field name="parent_unittitles_ssm">Sub-Series D: Politics&amp;#39; Packages Abroad Case Files</field>
+     <field name="parent_unittitles_teim">Series I: Case Files</field>
+-    <field name="parent_unittitles_teim">Sub-Series D: Politics' Packages Abroad Case Files</field>
++    <field name="parent_unittitles_teim">Sub-Series D: Politics&amp;#39; Packages Abroad Case Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Spanish Refugee Aid Records</field>
+@@ -39,10 +39,11 @@
+     <field name="name_sim">Vallecillos, José</field>
+     <field name="name_teim">Vallecillos, José</field>
+     <field name="collection_teim">Spanish Refugee Aid Records</field>
++    <field name="author_teim">Finding aid prepared by Laura Helton and Alix Ross; with student assistants Mark Berger, Jesse Gant, and Craig Savino</field>
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series I: Case Files</field>
+-    <field name="series_sim">Sub-Series D: Politics' Packages Abroad Case Files</field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; Vallecillos, José</field>
++    <field name="series_sim">Sub-Series D: Politics&amp;#39; Packages Abroad Case Files</field>
++    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics&#39; Packages Abroad Case Files &gt;&gt; Vallecillos, José</field>
+     <field name="heading_ssm">Vallecillos, José</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>

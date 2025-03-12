@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_139</field>
+     <field name="parent_ssi">aspace_ref2553</field>
+     <field name="parent_ssm">aspace_ref2553</field>
+-    <field name="parent_unittitles_ssm">Series II: Directors' and Executives' Records</field>
+-    <field name="parent_unittitles_teim">Series II: Directors' and Executives' Records</field>
++    <field name="parent_unittitles_ssm">Series II: Directors&amp;#39; and Executives&amp;#39; Records</field>
++    <field name="parent_unittitles_teim">Series II: Directors&amp;#39; and Executives&amp;#39; Records</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Greenwich House Records</field>
+@@ -24,9 +24,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+-    <field name="series_sim">Series II: Directors' and Executives' Records</field>
+-    <field name="series_si">Series II: Directors' and Executives' Records &gt;&gt; Subseries A: Director (Mary K. Simkhovitch)</field>
++    <field name="series_sim">Series II: Directors&amp;#39; and Executives&amp;#39; Records</field>
++    <field name="series_si">Series II: Directors&#39; and Executives&#39; Records &gt;&gt; Subseries A: Director (Mary K. Simkhovitch)</field>
+     <field name="heading_ssm">Subseries A: Director (Mary K. Simkhovitch)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1292</field>

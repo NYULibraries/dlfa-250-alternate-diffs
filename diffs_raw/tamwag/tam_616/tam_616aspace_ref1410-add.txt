@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1991/1991</field>
+     <field name="unitdate_normal_sim">1991/1991</field>
+     <field name="unitdate_inclusive_teim">1991</field>
+-    <field name="scopecontent_teim">This series contains full-length versions and raw footage from the documentary Mandela Visits Jamaica, which chronicles Nelson Mandela's visit to Jamaica during his 1991 tour of the Caribbean and Latin America. Footage in this series includes scenes of crowds waiting to meet Nelson and Winnie Mandela, Mandela at speaking events, scenes from the Jamaican Parliament, and background footage.</field>
++    <field name="scopecontent_teim">This series contains full-length versions and raw footage from the documentary Mandela Visits Jamaica, which chronicles Nelson Mandela&#39;s visit to Jamaica during his 1991 tour of the Caribbean and Latin America. Footage in this series includes scenes of crowds waiting to meet Nelson and Winnie Mandela, Mandela at speaking events, scenes from the Jamaican Parliament, and background footage.</field>
+     <field name="ref_ssi">aspace_ref1410</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_si">Series XV: &lt;em&gt;Mandela Visits Jamaica&lt;/em&gt;</field>
+     <field name="heading_ssm">Series XV: Mandela Visits Jamaica</field>

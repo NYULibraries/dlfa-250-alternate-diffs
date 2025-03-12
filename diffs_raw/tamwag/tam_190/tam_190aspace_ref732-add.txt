@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Lowenthal Papers</field>
+     <field name="collection_unitid_ssm">TAM.190</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lowenthal, John: Letter to "Mother"</field>
+-    <field name="unittitle_teim">Lowenthal, John: Letter to "Mother"</field>
++    <field name="unittitle_ssm">Lowenthal, John: Letter to &#34;Mother&#34;</field>
++    <field name="unittitle_teim">Lowenthal, John: Letter to &#34;Mother&#34;</field>
+     <field name="unitid_teim">cuid8984</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/203905</field>
+     <field name="unitid_ssm">cuid8984</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 24, Folder: 5</field>
+     <field name="location_si">Box: 24, Folder: 5</field>
+     <field name="collection_teim">John Lowenthal Papers</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">TAM.190</field>
+     <field name="series_sim">Series IV: Addendum</field>
+-    <field name="series_si">Series IV: Addendum &gt;&gt; Lowenthal, John: Letter to "Mother"</field>
+-    <field name="heading_ssm">Lowenthal, John: Letter to "Mother"</field>
++    <field name="series_si">Series IV: Addendum &gt;&gt; Lowenthal, John: Letter to &#34;Mother&#34;</field>
++    <field name="heading_ssm">Lowenthal, John: Letter to &#34;Mother&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">758</field>

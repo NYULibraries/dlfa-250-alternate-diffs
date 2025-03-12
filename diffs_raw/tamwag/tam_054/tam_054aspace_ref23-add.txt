@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">United Hatters, Cap, and Millinery Workers International Union Records</field>
+     <field name="collection_unitid_ssm">TAM.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Philip Thomas' Indenture</field>
+-    <field name="unittitle_teim">Philip Thomas' Indenture</field>
++    <field name="unittitle_ssm">Philip Thomas&#39; Indenture</field>
++    <field name="unittitle_teim">Philip Thomas&#39; Indenture</field>
+     <field name="unitdate_normal_ssm">1907/1912</field>
+     <field name="unitdate_normal_teim">1907/1912</field>
+     <field name="unitdate_normal_sim">1907/1912</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 5</field>
+     <field name="location_si">Box: 2, Folder: 5</field>
+     <field name="collection_teim">United Hatters, Cap, and Millinery Workers International Union Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.054</field>
+     <field name="series_sim">Series I: Hatters Unions</field>
+-    <field name="series_si">Series I: Hatters Unions &gt;&gt; Philip Thomas' Indenture</field>
+-    <field name="heading_ssm">Philip Thomas' Indenture</field>
++    <field name="series_si">Series I: Hatters Unions &gt;&gt; Philip Thomas&#39; Indenture</field>
++    <field name="heading_ssm">Philip Thomas&#39; Indenture</field>
+     <field name="unitdate_start_sim">1907</field>
+     <field name="unitdate_start_ssm">1907</field>
+     <field name="unitdate_start_si">1907</field>

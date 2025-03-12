@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">tam_363</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Fly Papers on Squatters' Rights</field>
+-    <field name="collection_ssm">Fly Papers on Squatters' Rights</field>
++    <field name="collection_sim">Fly Papers on Squatters&#39; Rights</field>
++    <field name="collection_ssm">Fly Papers on Squatters&#39; Rights</field>
+     <field name="collection_unitid_ssm">TAM.363</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Inside Out: The Art World of the Squats" Exhibition Catalogue</field>
+-    <field name="unittitle_teim">"Inside Out: The Art World of the Squats" Exhibition Catalogue</field>
++    <field name="unittitle_ssm">&#34;Inside Out: The Art World of the Squats&#34; Exhibition Catalogue</field>
++    <field name="unittitle_teim">&#34;Inside Out: The Art World of the Squats&#34; Exhibition Catalogue</field>
+     <field name="unitdate_teim">1990s-2000s</field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -20,10 +20,11 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+-    <field name="collection_teim">Fly Papers on Squatters' Rights</field>
++    <field name="collection_teim">Fly Papers on Squatters&#39; Rights</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.363</field>
+-    <field name="series_si">"Inside Out: The Art World of the Squats" Exhibition Catalogue</field>
+-    <field name="heading_ssm">"Inside Out: The Art World of the Squats" Exhibition Catalogue</field>
++    <field name="series_si">&#34;Inside Out: The Art World of the Squats&#34; Exhibition Catalogue</field>
++    <field name="heading_ssm">&#34;Inside Out: The Art World of the Squats&#34; Exhibition Catalogue</field>
+     <field name="unitdate_ssm">1990s-2000s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

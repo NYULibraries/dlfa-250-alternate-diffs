@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Liggett Family Papers</field>
+     <field name="collection_unitid_ssm">TAM.463</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Edith Liggett: "Vic"</field>
+-    <field name="unittitle_teim">Edith Liggett: "Vic"</field>
++    <field name="unittitle_ssm">Edith Liggett: &#34;Vic&#34;</field>
++    <field name="unittitle_teim">Edith Liggett: &#34;Vic&#34;</field>
+     <field name="ref_ssi">aspace_ref234</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: 12</field>
+     <field name="location_si">Box: 12</field>
+     <field name="collection_teim">Liggett Family Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.463</field>
+-    <field name="series_si">Edith Liggett: "Vic"</field>
+-    <field name="heading_ssm">Edith Liggett: "Vic"</field>
++    <field name="series_si">Edith Liggett: &#34;Vic&#34;</field>
++    <field name="heading_ssm">Edith Liggett: &#34;Vic&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">228</field>
+   </doc>

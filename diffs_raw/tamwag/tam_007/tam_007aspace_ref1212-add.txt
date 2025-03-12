@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Willis, H. Parker, "The Currency and Financial Policies of the National &lt;em&gt;Administration"&lt;/em&gt; 13 pp.</field>
+-    <field name="unittitle_teim">Willis, H. Parker, "The Currency and Financial Policies of the National Administration" 13 pp.</field>
++    <field name="unittitle_ssm">Willis, H. Parker, &#34;The Currency and Financial Policies of the National &lt;em&gt;Administration&#34;&lt;/em&gt; 13 pp.</field>
++    <field name="unittitle_teim">Willis, H. Parker, &#34;The Currency and Financial Policies of the National Administration&#34; 13 pp.</field>
+     <field name="unitdate_teim">Oct 5, 1933</field>
+-    <field name="title_teim">Administration"</field>
+-    <field name="title_ssm">Administration"</field>
++    <field name="title_teim">Administration&#34;</field>
++    <field name="title_ssm">Administration&#34;</field>
+     <field name="ref_ssi">aspace_ref1212</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 41, Folder: 14</field>
+     <field name="location_si">Box: 41, Folder: 14</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series III: Course Records</field>
+     <field name="series_sim">Subseries IIID: Manuscripts</field>
+-    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Willis, H. Parker, "The Currency and Financial Policies of the National &lt;em&gt;Administration"&lt;/em&gt; 13 pp.</field>
+-    <field name="heading_ssm">Willis, H. Parker, "The Currency and Financial Policies of the National Administration" 13 pp.</field>
++    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Willis, H. Parker, &#34;The Currency and Financial Policies of the National &lt;em&gt;Administration&#34;&lt;/em&gt; 13 pp.</field>
++    <field name="heading_ssm">Willis, H. Parker, &#34;The Currency and Financial Policies of the National Administration&#34; 13 pp.</field>
+     <field name="unitdate_ssm">Oct 5, 1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">632</field>

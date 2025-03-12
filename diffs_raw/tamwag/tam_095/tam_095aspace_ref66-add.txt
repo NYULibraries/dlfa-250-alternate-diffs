@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1949/1961</field>
+     <field name="unitdate_normal_sim">1949/1961</field>
+     <field name="unitdate_inclusive_teim">1949-1961</field>
+-    <field name="scopecontent_teim">This series consists of copies of (mostly outgoing) letters between Gil Green and members of his family during his time in prison. The majority of the letters are addressed to Green's first wife, Lillian Green, and their children. There are also several letters between Gil Green and his brother Ben. These letters predominantly relate to personal issues, but also touch briefly on political topics in relation to Green's trial and sentence.</field>
++    <field name="scopecontent_teim">This series consists of copies of (mostly outgoing) letters between Gil Green and members of his family during his time in prison. The majority of the letters are addressed to Green&#39;s first wife, Lillian Green, and their children. There are also several letters between Gil Green and his brother Ben. These letters predominantly relate to personal issues, but also touch briefly on political topics in relation to Green&#39;s trial and sentence.</field>
+     <field name="ref_ssi">aspace_ref66</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Gil Green Papers</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.095</field>
+     <field name="series_si">Series II: Correspondence, Prison</field>
+     <field name="heading_ssm">Series II: Correspondence, Prison</field>

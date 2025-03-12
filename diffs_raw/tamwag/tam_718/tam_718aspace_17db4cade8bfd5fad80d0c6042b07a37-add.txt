@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,10 @@
+     <field name="collection_ssm">Beyond the Pale Records</field>
+     <field name="collection_unitid_ssm">TAM.718</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg</field>
+-    <field name="unittitle_teim">Nadia Hijab; Issandr El Amrani; Michelle Goldberg</field>
++    <field name="unittitle_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++</field>
++    <field name="unittitle_teim">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++</field>
+     <field name="unitid_teim">cuid36124</field>
+     <field name="unitid_ssm">cuid36124</field>
+     <field name="unitdate_normal_ssm">2011-09-25/2011-09-25</field>
+@@ -17,8 +19,10 @@
+     <field name="unitdate_normal_teim">2011-09-25/2011-09-25</field>
+     <field name="unitdate_normal_sim">2011-09-25/2011-09-25</field>
+     <field name="unitdate_teim">2011-09-25</field>
+-    <field name="dao_teim">Nadia Hijab; Issandr El Amrani; Michelle Goldberg : 2011-09-25-</field>
+-    <field name="dao_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg : 2011-09-25-</field>
++    <field name="dao_teim">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++: 2011-09-25-</field>
++    <field name="dao_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++: 2011-09-25-</field>
+     <field name="ref_ssi">aspace_17db4cade8bfd5fad80d0c6042b07a37</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,9 +33,12 @@
+     <field name="location_si">Box: Electronic Records, E-records: TW_TAM_718_ER_470</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Beyond the Pale Records</field>
++    <field name="author_teim">Heather Mulliner, Amy C. Vo</field>
+     <field name="collection_unitid_teim">TAM.718</field>
+-    <field name="series_si">Nadia Hijab; Issandr El Amrani; Michelle Goldberg</field>
+-    <field name="heading_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg</field>
++    <field name="series_si">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++</field>
++    <field name="heading_ssm">Nadia Hijab; Issandr El Amrani; Michelle Goldberg
++</field>
+     <field name="unitdate_ssm">2011-09-25</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1519</field>

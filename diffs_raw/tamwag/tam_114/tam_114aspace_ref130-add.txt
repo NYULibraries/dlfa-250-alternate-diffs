@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John and Constantine Poulos Papers</field>
+     <field name="collection_unitid_ssm">TAM.114</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Petsopoulos, John - "England at the war..."</field>
+-    <field name="unittitle_teim">Petsopoulos, John - "England at the war..."</field>
++    <field name="unittitle_ssm">Petsopoulos, John - &#34;England at the war...&#34;</field>
++    <field name="unittitle_teim">Petsopoulos, John - &#34;England at the war...&#34;</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/168005</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/168005</field>
+     <field name="unitdate_normal_ssm">1921/1978</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 3, Folder: 16</field>
+     <field name="location_si">Box: 3, Folder: 16</field>
+     <field name="collection_teim">John and Constantine Poulos Papers</field>
++    <field name="author_teim">Su Shan Chin, 1988.</field>
+     <field name="collection_unitid_teim">TAM.114</field>
+     <field name="series_sim">Series I: Constance Poulos -- Writings and Correspondence</field>
+     <field name="series_sim">Subseries I:L: Manuscripts</field>
+-    <field name="series_si">Series I: Constance Poulos -- Writings and Correspondence &gt;&gt; Subseries I:L: Manuscripts &gt;&gt; Petsopoulos, John - "England at the war..."</field>
+-    <field name="heading_ssm">Petsopoulos, John - "England at the war..."</field>
++    <field name="series_si">Series I: Constance Poulos -- Writings and Correspondence &gt;&gt; Subseries I:L: Manuscripts &gt;&gt; Petsopoulos, John - &#34;England at the war...&#34;</field>
++    <field name="heading_ssm">Petsopoulos, John - &#34;England at the war...&#34;</field>
+     <field name="unitdate_start_sim">1921</field>
+     <field name="unitdate_start_ssm">1921</field>
+     <field name="unitdate_start_si">1921</field>

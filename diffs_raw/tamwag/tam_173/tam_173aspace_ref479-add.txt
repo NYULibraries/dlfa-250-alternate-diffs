@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Metropolitan Council on Housing Records</field>
+     <field name="collection_unitid_ssm">TAM.173</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">MCH minutes and memoranda (Esther Rand's file)</field>
+-    <field name="unittitle_teim">MCH minutes and memoranda (Esther Rand's file)</field>
++    <field name="unittitle_ssm">MCH minutes and memoranda (Esther Rand&#39;s file)</field>
++    <field name="unittitle_teim">MCH minutes and memoranda (Esther Rand&#39;s file)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/199281</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/199281</field>
+     <field name="unitdate_normal_ssm">1939/2005</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 25, Folder: 45</field>
+     <field name="location_si">Box: 25, Folder: 45</field>
+     <field name="collection_teim">Metropolitan Council on Housing Records</field>
++    <field name="author_teim">Peter Filardo and Paul Sager</field>
+     <field name="collection_unitid_teim">TAM.173</field>
+     <field name="series_sim">Series III. 2002 through 2007 Accretions</field>
+-    <field name="series_si">Series III. 2002 through 2007 Accretions &gt;&gt; MCH minutes and memoranda (Esther Rand's file)</field>
+-    <field name="heading_ssm">MCH minutes and memoranda (Esther Rand's file)</field>
++    <field name="series_si">Series III. 2002 through 2007 Accretions &gt;&gt; MCH minutes and memoranda (Esther Rand&#39;s file)</field>
++    <field name="heading_ssm">MCH minutes and memoranda (Esther Rand&#39;s file)</field>
+     <field name="unitdate_start_sim">1939</field>
+     <field name="unitdate_start_ssm">1939</field>
+     <field name="unitdate_start_si">1939</field>

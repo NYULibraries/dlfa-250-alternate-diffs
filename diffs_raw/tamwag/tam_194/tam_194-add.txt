@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Tamiment staff, 2010. Edited to correct subject headings and notes, 2010.</field>
+-    <field name="author_ssm">Tamiment staff, 2010. Edited to correct subject headings and notes, 2010.</field>
++    <field name="author_teim">Tamiment staff, 2010. Edited to correct subject headings and notes, 2010. </field>
++    <field name="author_ssm">Tamiment staff, 2010. Edited to correct subject headings and notes, 2010. </field>
+     <field name="unittitle_teim">Herb Lerner World War II Letters to Ruth Lerner</field>
+     <field name="unittitle_ssm">Herb Lerner World War II Letters to Ruth Lerner</field>
+     <field name="unitid_teim">TAM.194</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1942/1945</field>
+     <field name="unitdate_normal_sim">1942/1945</field>
+     <field name="unitdate_inclusive_teim">Aug 28, 1942-Sep 10, 1945</field>
+-    <field name="scopecontent_teim">The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union). The letters contain domestic and international political commentary reflective of Lerner's Communist politics, and personal remarks, notably expressions of love and concern for his wife.</field>
++    <field name="scopecontent_teim">The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union). The letters contain domestic and international political commentary reflective of Lerner&#39;s Communist politics, and personal remarks, notably expressions of love and concern for his wife.</field>
+     <field name="bioghist_teim">Herb Lerner (1915-1972) was a Jewish Communist born in Lithuania, a soldier stationed during World War II in North Africa and Italy, and later the New Jersey director of the International Union of Mine, Mill, and Smelter Workers.</field>
+     <field name="acqinfo_teim">Donated by Roaslie Harris-Lerner in 1997. The accession number associated with this gift is 2006.015.</field>
+     <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+@@ -38,9 +38,9 @@
+     <field name="subject_teim">Communists |z New Jersey |z Newark.</field>
+     <field name="subject_teim">Jewish communists -- United States.</field>
+     <field name="subject_teim">Women communists -- United States.</field>
+-    <field name="subject_teim">World politics -- 1933-1945.</field>
+-    <field name="subject_teim">Soldiers -- United States -- Correspondence.</field>
+-    <field name="subject_teim">Communists -- New Jersey -- Newark.</field>
++    <field name="subject_teim">World politics --1933-1945.</field>
++    <field name="subject_teim">Soldiers -- United States -- Correspondence.</field>
++    <field name="subject_teim">Communists --New Jersey --Newark.</field>
+     <field name="subject_teim">Jewish communists -- United States.</field>
+     <field name="subject_teim">Women communists -- United States.</field>
+     <field name="subject_ssm">World politics |y 1933-1945.</field>
+@@ -66,10 +66,10 @@
+     <field name="name_teim">Lerner, Herb, 1915-1972</field>
+     <field name="name_teim">Harris-Lerner, Rosalie</field>
+     <field name="name_teim">Lerner, Ruth, 1917-1968</field>
+-    <field name="place_sim">United States -- Politics and government -- 1933-1945</field>
+-    <field name="subject_sim">World politics -- 1933-1945.</field>
++    <field name="place_sim">United States --Politics and government --1933-1945</field>
++    <field name="subject_sim">World politics --1933-1945.</field>
+     <field name="subject_sim">Soldiers -- United States -- Correspondence.</field>
+-    <field name="subject_sim">Communists -- New Jersey -- Newark.</field>
++    <field name="subject_sim">Communists --New Jersey --Newark.</field>
+     <field name="subject_sim">Jewish communists -- United States.</field>
+     <field name="subject_sim">Women communists -- United States.</field>
+     <field name="heading_ssm">Herb Lerner World War II Letters to Ruth Lerner</field>

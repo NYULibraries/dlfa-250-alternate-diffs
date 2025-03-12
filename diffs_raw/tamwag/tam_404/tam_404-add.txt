@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -58,8 +58,8 @@
+     <field name="persname_ssm">Edelman, Marc</field>
+     <field name="subject_teim">Civil rights |z Latin America.</field>
+     <field name="subject_teim">Human rights |z Latin America.</field>
+-    <field name="subject_teim">Civil rights -- Latin America.</field>
+-    <field name="subject_teim">Human rights -- Latin America.</field>
++    <field name="subject_teim">Civil rights --Latin America.</field>
++    <field name="subject_teim">Human rights --Latin America.</field>
+     <field name="subject_ssm">Civil rights |z Latin America.</field>
+     <field name="subject_ssm">Human rights |z Latin America.</field>
+     <field name="collection_sim">Marc Edelman Collection on the North American Congress on Latin America (NACLA)</field>
+@@ -79,14 +79,14 @@
+     <field name="name_sim">Edelman, Marc</field>
+     <field name="name_teim">North American Congress on Latin America</field>
+     <field name="name_teim">Edelman, Marc</field>
+-    <field name="place_sim">Latin America -- Foreign public opinion, American.</field>
+-    <field name="place_sim">Latin America -- Social conditions.</field>
++    <field name="place_sim">Latin America --Foreign public opinion, American.</field>
++    <field name="place_sim">Latin America --Social conditions.</field>
+     <field name="place_sim">Latin America -- Politics and government.</field>
+     <field name="place_sim">Latin America.</field>
+     <field name="place_sim">Latin America -- Relations -- United States.</field>
+-    <field name="place_sim">United States -- Foreign relations -- Latin America.</field>
+-    <field name="subject_sim">Civil rights -- Latin America.</field>
+-    <field name="subject_sim">Human rights -- Latin America.</field>
++    <field name="place_sim">United States --Foreign relations --Latin America.</field>
++    <field name="subject_sim">Civil rights --Latin America.</field>
++    <field name="subject_sim">Human rights --Latin America.</field>
+     <field name="material_type_sim">Reports.</field>
+     <field name="material_type_sim">Memorandums.</field>
+     <field name="material_type_sim">Correspondence.</field>

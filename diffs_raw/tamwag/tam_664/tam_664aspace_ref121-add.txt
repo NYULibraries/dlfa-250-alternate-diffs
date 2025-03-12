@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Research</field>
+     <field name="unittitle_teim">Research</field>
+     <field name="unitdate_teim">1961-1996</field>
+-    <field name="scopecontent_teim">Documents in this series include some of the research materials gathered by Treuhaft while working with Mitford on The American Way of Death, and for her expose of "The Famous Writers School."</field>
++    <field name="scopecontent_teim">Documents in this series include some of the research  materials gathered by Treuhaft while working with Mitford on The American Way of Death, and for her expose of &#34;The Famous Writers School.&#34;</field>
+     <field name="title_teim">The American Way of Death</field>
+     <field name="title_ssm">The American Way of Death</field>
+     <field name="ref_ssi">aspace_ref121</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Robert E. Treuhaft Papers</field>
++    <field name="author_teim">Erika Gottfried</field>
+     <field name="collection_unitid_teim">TAM.664</field>
+     <field name="series_si">Research</field>
+     <field name="heading_ssm">Research</field>

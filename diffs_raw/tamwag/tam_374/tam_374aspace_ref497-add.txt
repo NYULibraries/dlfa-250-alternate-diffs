@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_374</field>
+     <field name="parent_ssi">aspace_ref494</field>
+     <field name="parent_ssm">aspace_ref494</field>
+-    <field name="parent_unittitles_ssm">Series VI: Oversize Materials</field>
+-    <field name="parent_unittitles_teim">Series VI: Oversize Materials</field>
++    <field name="parent_unittitles_ssm">Series VI: Oversize Materials&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series VI: Oversize Materials&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Benjamin and Muriel Goldring Papers and Photographs</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Benjamin and Muriel Goldring Papers and Photographs</field>
+     <field name="collection_unitid_ssm">TAM.374</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Goodman, Abraham: Certificate of Naturalization</field>
+-    <field name="unittitle_teim">Goodman, Abraham: Certificate of Naturalization</field>
++    <field name="unittitle_ssm">Goodman, Abraham: Certificate of Naturalization </field>
++    <field name="unittitle_teim">Goodman, Abraham: Certificate of Naturalization </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/227579</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/227579</field>
+     <field name="unitdate_normal_ssm">1900/1900</field>
+@@ -30,10 +30,12 @@
+     <field name="location_ssm">Box: 17, Folder: 3</field>
+     <field name="location_si">Box: 17, Folder: 3</field>
+     <field name="collection_teim">Benjamin and Muriel Goldring Papers and Photographs</field>
++    <field name="author_teim">Jennifer Pondo, Daniel Michelson, and Gail Malmgreen, 2009-2010</field>
+     <field name="collection_unitid_teim">TAM.374</field>
+-    <field name="series_sim">Series VI: Oversize Materials</field>
+-    <field name="series_si">Series VI: Oversize Materials &gt;&gt; Goodman, Abraham: Certificate of Naturalization</field>
+-    <field name="heading_ssm">Goodman, Abraham: Certificate of Naturalization</field>
++    <field name="series_sim">Series VI: Oversize Materials&amp;#xA;</field>
++    <field name="series_si">Series VI: Oversize Materials
++ &gt;&gt; Goodman, Abraham: Certificate of Naturalization </field>
++    <field name="heading_ssm">Goodman, Abraham: Certificate of Naturalization </field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>
+     <field name="unitdate_start_si">1900</field>

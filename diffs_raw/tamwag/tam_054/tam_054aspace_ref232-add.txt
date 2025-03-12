@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">TAM.054</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The Norwalk Caseproposed by Hat Corporation of America (booklet)</field>
++    <field name="unittitle_teim">The Norwalk Caseproposed by Hat Corporation of America (booklet) </field>
+     <field name="unitdate_normal_ssm">1954/1954</field>
+     <field name="unitdate_normal_teim">1954/1954</field>
+     <field name="unitdate_normal_sim">1954/1954</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 46, Folder: 2</field>
+     <field name="location_si">Box: 46, Folder: 2</field>
+     <field name="collection_teim">United Hatters, Cap, and Millinery Workers International Union Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.054</field>
+     <field name="series_sim">Series VII: United Hatters, Cap, and Millinery Workers International Union</field>
+     <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&lt;/em&gt;</field>
+-    <field name="heading_ssm">The Norwalk Caseproposed by Hat Corporation of America (booklet)</field>
++    <field name="heading_ssm">The Norwalk Caseproposed by Hat Corporation of America (booklet) </field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>

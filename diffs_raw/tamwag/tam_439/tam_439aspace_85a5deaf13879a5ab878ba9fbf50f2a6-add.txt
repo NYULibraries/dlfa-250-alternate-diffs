@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1954/1999</field>
+     <field name="unitdate_normal_sim">1954/1999</field>
+     <field name="unitdate_inclusive_teim">1954-1999</field>
+-    <field name="scopecontent_teim">This series contains artifacts from, and collected by, Camp Kinderland, such as a bandanna with the camp's logo and a Chinese flag.</field>
++    <field name="scopecontent_teim">This series contains artifacts from, and collected by, Camp Kinderland, such as a bandanna with the camp&#39;s logo and a Chinese flag.</field>
+     <field name="ref_ssi">aspace_85a5deaf13879a5ab878ba9fbf50f2a6</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Camp Kinderland Records</field>
++    <field name="author_teim">Alexander Bloom and Michael Beebe, 2009.</field>
+     <field name="collection_unitid_teim">TAM.439</field>
+     <field name="series_si">Series XI: Objects</field>
+     <field name="heading_ssm">Series XI: Objects</field>

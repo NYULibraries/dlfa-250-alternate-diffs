@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Coldwell, Joseph M., "Clarence Darrow and Eugene V. Debs", 8pp.</field>
+-    <field name="unittitle_teim">Coldwell, Joseph M., "Clarence Darrow and Eugene V. Debs", 8pp.</field>
++    <field name="unittitle_ssm">Coldwell, Joseph M., &#34;Clarence Darrow and Eugene V. Debs&#34;, 8pp.</field>
++    <field name="unittitle_teim">Coldwell, Joseph M., &#34;Clarence Darrow and Eugene V. Debs&#34;, 8pp.</field>
+     <field name="unitdate_normal_ssm">1905/1962</field>
+     <field name="unitdate_normal_teim">1905/1962</field>
+     <field name="unitdate_normal_sim">1905/1962</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 40, Folder: 18</field>
+     <field name="location_si">Box: 40, Folder: 18</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series III: Course Records</field>
+     <field name="series_sim">Subseries IIID: Manuscripts</field>
+-    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Coldwell, Joseph M., "Clarence Darrow and Eugene V. Debs", 8pp.</field>
+-    <field name="heading_ssm">Coldwell, Joseph M., "Clarence Darrow and Eugene V. Debs", 8pp.</field>
++    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Coldwell, Joseph M., &#34;Clarence Darrow and Eugene V. Debs&#34;, 8pp.</field>
++    <field name="heading_ssm">Coldwell, Joseph M., &#34;Clarence Darrow and Eugene V. Debs&#34;, 8pp.</field>
+     <field name="unitdate_start_sim">1905</field>
+     <field name="unitdate_start_ssm">1905</field>
+     <field name="unitdate_start_si">1905</field>

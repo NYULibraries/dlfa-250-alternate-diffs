@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1934/2000</field>
+     <field name="unitdate_normal_sim">1934/2000</field>
+     <field name="unitdate_inclusive_teim">1934, 1956-1957, 1968-1978, 1985-2000, undated</field>
+-    <field name="scopecontent_teim">The material in this series dates from 1934 through 2000 with the bulk of the material from 2000. Included are portraits of Isaku and Emi Kida as well as snapshots of award ceremonies, New York City, and Emi's personal vacations to Disney World and Italy.</field>
++    <field name="scopecontent_teim">The material in this series dates from 1934 through 2000 with the bulk of the material from 2000.  Included are portraits of Isaku and Emi Kida as well as snapshots of award ceremonies, New York City, and Emi&#39;s personal vacations to Disney World and Italy.</field>
+     <field name="ref_ssi">aspace_ref64</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Isaku and Emi Kida Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.165</field>
+     <field name="series_si">Series V. Photographs</field>
+     <field name="heading_ssm">Series V. Photographs</field>

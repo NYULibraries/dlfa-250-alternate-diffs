@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1990/1990</field>
+     <field name="unitdate_normal_sim">1990/1990</field>
+     <field name="unitdate_inclusive_teim">1990 February</field>
+-    <field name="scopecontent_teim">Contains news clips from CNN, ABC, and several other news sources. They mostly relate to Nelson Mandela's release from prison. This video contains duplicated content from other videos.</field>
++    <field name="scopecontent_teim">Contains news clips from CNN, ABC, and several other news sources. They mostly relate to Nelson Mandela&#39;s release from prison. This video contains duplicated content from other videos.</field>
+     <field name="phystech_teim">Original Format: Umatic. Duration: 00:50:54.</field>
+     <field name="ref_ssi">aspace_ref835</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 83, DVD: ref835</field>
+     <field name="location_si">Box: 83, DVD: ref835</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series XXIX: Independent and Unidentified Footage</field>
+     <field name="series_si">Series XXIX: Independent and Unidentified Footage &gt;&gt; Mandela news clips, release from prison</field>
