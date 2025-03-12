@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">May 2, 2013</field>
+-    <field name="bioghist_teim">Sandie Allen (b. London, England, 1966) is an accomplished photographer who has documented events in Boston's Irish community for almost three decades.</field>
++    <field name="bioghist_teim">Sandie Allen (b. London, England, 1966) is an accomplished photographer who has documented events in Boston&#39;s Irish community for almost three decades.</field>
+     <field name="ref_ssi">aspace_ref530</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 4, Folder: 20</field>
+     <field name="location_si">Box: 4, Folder: 20</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">A</field>
+     <field name="series_si">A &gt;&gt; Allen, Sandie</field>

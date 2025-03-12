@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34729</field>
+     <field name="unitid_ssm">cuid34729</field>
+     <field name="unitdate_teim">Mar 28, 2012</field>
+-    <field name="bioghist_teim">Patricia E. Stanley (b. Jersey City, New Jersey, 1953) is a data analyst with a background in theater and music. She has done extensive genealogical research on her own family's history and has traced both sides of her family to Co. Mayo.</field>
++    <field name="bioghist_teim">Patricia E. Stanley (b. Jersey City, New Jersey, 1953) is a data analyst with a background in theater and music. She has done extensive genealogical research on her own family&#39;s history and has traced both sides of her family to Co. Mayo.</field>
+     <field name="ref_ssi">aspace_ref517</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 4, Folder: 84</field>
+     <field name="location_si">Box: 4, Folder: 84</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">S</field>
+     <field name="series_si">S &gt;&gt; Stanley, Patricia</field>

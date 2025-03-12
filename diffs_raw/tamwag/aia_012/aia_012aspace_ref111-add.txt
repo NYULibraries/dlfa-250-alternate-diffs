@@ -1,0 +1,57 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_012</field>
+     <field name="parent_ssi">aspace_ref14</field>
+     <field name="parent_ssm">aspace_ref14</field>
+-    <field name="parent_unittitles_ssm">Paul O'Dwyer (1907-1998)</field>
+-    <field name="parent_unittitles_teim">Paul O'Dwyer (1907-1998)</field>
++    <field name="parent_unittitles_ssm">Paul O&amp;#39;Dwyer (1907-1998)</field>
++    <field name="parent_unittitles_teim">Paul O&amp;#39;Dwyer (1907-1998)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Jane Conlon Muller Oral History Collection</field>
+@@ -13,19 +13,19 @@
+     <field name="collection_ssm">Jane Conlon Muller Oral History Collection</field>
+     <field name="collection_unitid_ssm">AIA.012</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Paul O'Dwyer - 4 April 1991</field>
+-    <field name="unittitle_teim">Paul O'Dwyer - 4 April 1991</field>
++    <field name="unittitle_ssm">Paul O&#39;Dwyer - 4 April 1991</field>
++    <field name="unittitle_teim">Paul O&#39;Dwyer - 4 April 1991</field>
+     <field name="unitid_teim">cuid36266</field>
+     <field name="unitid_ssm">cuid36266</field>
+     <field name="unitdate_teim">Apr 4, 1991</field>
+     <field name="scopecontent_teim">[19:16] This was the chairman of the House of Representatives?</field>
+     <field name="scopecontent_teim">[20:14] Was this the book called Beyond the Melting Pot?</field>
+-    <field name="scopecontent_teim">[20:28] It's used to teach in colleges. It's very widely read.</field>
+-    <field name="phystech_teim">Duration: 25 Minutes. Preservation Note: "Buzzing" heard in background; Side 2 is blank.</field>
+-    <field name="dao_teim">Paul O'Dwyer - 4 April 1991</field>
+-    <field name="dao_teim">Paul O'Dwyer - 4 April 1991: Apr 4, 1991</field>
+-    <field name="dao_ssm">Paul O'Dwyer - 4 April 1991</field>
+-    <field name="dao_ssm">Paul O'Dwyer - 4 April 1991: Apr 4, 1991</field>
++    <field name="scopecontent_teim">[20:28] It&#39;s used to teach in colleges. It&#39;s very widely read.</field>
++    <field name="phystech_teim">Duration: 25 Minutes. Preservation Note: &#34;Buzzing&#34; heard in background; Side 2 is blank.</field>
++    <field name="dao_teim">Paul O&#39;Dwyer - 4 April 1991</field>
++    <field name="dao_teim">Paul O&#39;Dwyer - 4 April 1991: Apr 4, 1991</field>
++    <field name="dao_ssm">Paul O&#39;Dwyer - 4 April 1991</field>
++    <field name="dao_ssm">Paul O&#39;Dwyer - 4 April 1991: Apr 4, 1991</field>
+     <field name="ref_ssi">aspace_ref111</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,10 +38,11 @@
+     <field name="location_si">Box: 3, CD: 19, track: 1</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Jane Conlon Muller Oral History Collection</field>
++    <field name="author_teim">Katie Senft</field>
+     <field name="collection_unitid_teim">AIA.012</field>
+-    <field name="series_sim">Paul O'Dwyer (1907-1998)</field>
+-    <field name="series_si">Paul O'Dwyer (1907-1998) &gt;&gt; Paul O'Dwyer - 4 April 1991</field>
+-    <field name="heading_ssm">Paul O'Dwyer - 4 April 1991</field>
++    <field name="series_sim">Paul O&amp;#39;Dwyer (1907-1998)</field>
++    <field name="series_si">Paul O&#39;Dwyer (1907-1998) &gt;&gt; Paul O&#39;Dwyer - 4 April 1991</field>
++    <field name="heading_ssm">Paul O&#39;Dwyer - 4 April 1991</field>
+     <field name="unitdate_ssm">Apr 4, 1991</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">35</field>

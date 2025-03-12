@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Connors, Frank, "When Irish Eyes Are Smiling" [S.R.1578-3] &lt;strong&gt;Side B: &lt;/strong&gt;Connors, Frank, "Little Bit of Heaven" [S.R.1579] (Sonora 1069)</field>
+-    <field name="unittitle_teim">Side A: Connors, Frank, "When Irish Eyes Are Smiling" [S.R.1578-3] Side B: Connors, Frank, "Little Bit of Heaven" [S.R.1579] (Sonora 1069)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Connors, Frank, &#34;When Irish Eyes Are Smiling&#34; [S.R.1578-3] &lt;strong&gt;Side B: &lt;/strong&gt;Connors, Frank, &#34;Little Bit of Heaven&#34; [S.R.1579] (Sonora 1069)</field>
++    <field name="unittitle_teim">Side A: Connors, Frank, &#34;When Irish Eyes Are Smiling&#34; [S.R.1578-3] Side B: Connors, Frank, &#34;Little Bit of Heaven&#34; [S.R.1579] (Sonora 1069)</field>
+     <field name="unitdate_normal_ssm">1910/1911</field>
+     <field name="unitdate_normal_teim">1910/1911</field>
+     <field name="unitdate_normal_sim">1910/1911</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">disk: XA78 1125</field>
+     <field name="location_si">disk: XA78 1125</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Connors, Frank, "When Irish Eyes Are Smiling" [S.R.1578-3] &lt;strong&gt;Side B: &lt;/strong&gt;Connors, Frank, "Little Bit of Heaven" [S.R.1579] (Sonora 1069)</field>
+-    <field name="heading_ssm">Side A: Connors, Frank, "When Irish Eyes Are Smiling" [S.R.1578-3] Side B: Connors, Frank, "Little Bit of Heaven" [S.R.1579] (Sonora 1069)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Connors, Frank, &#34;When Irish Eyes Are Smiling&#34; [S.R.1578-3] &lt;strong&gt;Side B: &lt;/strong&gt;Connors, Frank, &#34;Little Bit of Heaven&#34; [S.R.1579] (Sonora 1069)</field>
++    <field name="heading_ssm">Side A: Connors, Frank, &#34;When Irish Eyes Are Smiling&#34; [S.R.1578-3] Side B: Connors, Frank, &#34;Little Bit of Heaven&#34; [S.R.1579] (Sonora 1069)</field>
+     <field name="unitdate_start_sim">1910</field>
+     <field name="unitdate_start_ssm">1910</field>
+     <field name="unitdate_start_si">1910</field>

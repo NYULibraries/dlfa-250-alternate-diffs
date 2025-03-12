@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Dorothy Hayden Cudahy Papers</field>
+     <field name="collection_unitid_ssm">AIA.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Side A: Gunner, Jim, "Men Of Ireland's 32" Side B: Gunner, Jim, "The West's Awake"</field>
+-    <field name="unittitle_teim">Side A: Gunner, Jim, "Men Of Ireland's 32" Side B: Gunner, Jim, "The West's Awake"</field>
++    <field name="unittitle_ssm">Side A: Gunner, Jim, &#34;Men Of Ireland&#39;s 32&#34; Side B: Gunner, Jim, &#34;The West&#39;s Awake&#34;</field>
++    <field name="unittitle_teim">Side A: Gunner, Jim, &#34;Men Of Ireland&#39;s 32&#34; Side B: Gunner, Jim, &#34;The West&#39;s Awake&#34;</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/955131</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/955131</field>
+     <field name="unitdate_normal_ssm">1966/1966</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 80, Sound_Disc--Vinyl: 53</field>
+     <field name="location_si">Box: 80, Sound_Disc--Vinyl: 53</field>
+     <field name="collection_teim">Dorothy Hayden Cudahy Papers</field>
++    <field name="author_teim">Marion Casey, Kaitlyn Medley, Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.001</field>
+     <field name="series_sim">Series V. Commercial Recordings</field>
+     <field name="series_sim">45 rpm Recordings</field>
+-    <field name="series_si">Series V. Commercial Recordings &gt;&gt; 45 rpm Recordings &gt;&gt; Side A: Gunner, Jim, "Men Of Ireland's 32" Side B: Gunner, Jim, "The West's Awake"</field>
+-    <field name="heading_ssm">Side A: Gunner, Jim, "Men Of Ireland's 32" Side B: Gunner, Jim, "The West's Awake"</field>
++    <field name="series_si">Series V. Commercial Recordings &gt;&gt; 45 rpm Recordings &gt;&gt; Side A: Gunner, Jim, &#34;Men Of Ireland&#39;s 32&#34; Side B: Gunner, Jim, &#34;The West&#39;s Awake&#34;</field>
++    <field name="heading_ssm">Side A: Gunner, Jim, &#34;Men Of Ireland&#39;s 32&#34; Side B: Gunner, Jim, &#34;The West&#39;s Awake&#34;</field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_ssm">1966</field>
+     <field name="unitdate_start_si">1966</field>

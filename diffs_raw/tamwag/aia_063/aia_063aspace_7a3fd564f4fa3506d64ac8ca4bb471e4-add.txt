@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kevin Kennedy Ephemera and Photographs Collection</field>
+     <field name="collection_unitid_ssm">AIA.063</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Visitor: Ireland's Premier Tourist Magazine</field>
+-    <field name="unittitle_teim">Visitor: Ireland's Premier Tourist Magazine</field>
++    <field name="unittitle_ssm">Visitor: Ireland&#39;s Premier Tourist Magazine</field>
++    <field name="unittitle_teim">Visitor: Ireland&#39;s Premier Tourist Magazine</field>
+     <field name="unitdate_normal_ssm">2003/2003</field>
+     <field name="unitdate_normal_teim">2003/2003</field>
+     <field name="unitdate_normal_sim">2003/2003</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 24</field>
+     <field name="location_si">Box: 5, Folder: 24</field>
+     <field name="collection_teim">Kevin Kennedy Ephemera and Photographs Collection</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.063</field>
+     <field name="series_sim">Series I: Kevin Kennedy Ephemera and Personal Materials</field>
+-    <field name="series_si">Series I: Kevin Kennedy Ephemera and Personal Materials &gt;&gt; Visitor: Ireland's Premier Tourist Magazine</field>
+-    <field name="heading_ssm">Visitor: Ireland's Premier Tourist Magazine</field>
++    <field name="series_si">Series I: Kevin Kennedy Ephemera and Personal Materials &gt;&gt; Visitor: Ireland&#39;s Premier Tourist Magazine</field>
++    <field name="heading_ssm">Visitor: Ireland&#39;s Premier Tourist Magazine</field>
+     <field name="unitdate_start_sim">2003</field>
+     <field name="unitdate_start_ssm">2003</field>
+     <field name="unitdate_start_si">2003</field>

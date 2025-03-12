@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.004</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">When It's Moonlight in Mayo</field>
+-    <field name="unittitle_teim">When It's Moonlight in Mayo</field>
++    <field name="unittitle_ssm">When It&#39;s Moonlight in Mayo</field>
++    <field name="unittitle_teim">When It&#39;s Moonlight in Mayo</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ecb1b442cbf58402e1e1bd1a9a448f01</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 61, Folder: 28</field>
+     <field name="location_si">Box: 61, Folder: 28</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
++    <field name="author_teim">Marion R. Casey and Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.031.004</field>
+     <field name="series_sim">Series I: Sheet Music (Irish)</field>
+     <field name="series_sim">Accretions</field>
+-    <field name="series_si">Series I: Sheet Music (Irish) &gt;&gt; Accretions &gt;&gt; When It's Moonlight in Mayo</field>
+-    <field name="heading_ssm">When It's Moonlight in Mayo</field>
++    <field name="series_si">Series I: Sheet Music (Irish) &gt;&gt; Accretions &gt;&gt; When It&#39;s Moonlight in Mayo</field>
++    <field name="heading_ssm">When It&#39;s Moonlight in Mayo</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1434</field>

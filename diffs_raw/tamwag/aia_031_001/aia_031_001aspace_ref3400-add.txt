@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, "After You Get What You Want You Don't Want It" [79129] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, "You Tell 'Em" [79306] (Columbia A2966)</field>
+-    <field name="unittitle_teim">Side A: Van and Schenck, "After You Get What You Want You Don't Want It" [79129] Side B: Van and Schenck, "You Tell 'Em" [79306] (Columbia A2966)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, &#34;After You Get What You Want You Don&#39;t Want It&#34; [79129] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, &#34;You Tell &#39;Em&#34; [79306] (Columbia A2966)
++</field>
++    <field name="unittitle_teim">Side A: Van and Schenck, &#34;After You Get What You Want You Don&#39;t Want It&#34; [79129] Side B: Van and Schenck, &#34;You Tell &#39;Em&#34; [79306] (Columbia A2966)
++</field>
+     <field name="ref_ssi">aspace_ref3400</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +26,13 @@
+     <field name="location_ssm">disk: XA78 2613</field>
+     <field name="location_si">disk: XA78 2613</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, "After You Get What You Want You Don't Want It" [79129] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, "You Tell 'Em" [79306] (Columbia A2966)</field>
+-    <field name="heading_ssm">Side A: Van and Schenck, "After You Get What You Want You Don't Want It" [79129] Side B: Van and Schenck, "You Tell 'Em" [79306] (Columbia A2966)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, &#34;After You Get What You Want You Don&#39;t Want It&#34; [79129] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, &#34;You Tell &#39;Em&#34; [79306] (Columbia A2966)
++</field>
++    <field name="heading_ssm">Side A: Van and Schenck, &#34;After You Get What You Want You Don&#39;t Want It&#34; [79129] Side B: Van and Schenck, &#34;You Tell &#39;Em&#34; [79306] (Columbia A2966)
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2474</field>
+   </doc>

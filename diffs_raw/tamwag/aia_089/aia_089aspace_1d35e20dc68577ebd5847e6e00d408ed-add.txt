@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">The Adrian Flannelly Show Audio Recordings</field>
+     <field name="collection_unitid_ssm">AIA.089</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. Patrick's Day</field>
+-    <field name="unittitle_teim">St. Patrick's Day</field>
++    <field name="unittitle_ssm">St. Patrick&#39;s Day</field>
++    <field name="unittitle_teim">St. Patrick&#39;s Day</field>
+     <field name="unitdate_normal_ssm">2000-03-17/2000-03-17</field>
+     <field name="unitdate_normal_teim">2000-03-17/2000-03-17</field>
+     <field name="unitdate_normal_sim">2000-03-17/2000-03-17</field>
+-    <field name="unitdate_teim">March 17, 2000</field>
++    <field name="unitdate_teim">March 17, 2000 </field>
+     <field name="ref_ssi">aspace_1d35e20dc68577ebd5847e6e00d408ed</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 6, audiocassette: 089.0286</field>
+     <field name="location_si">Box: 6, audiocassette: 089.0286</field>
+     <field name="collection_teim">The Adrian Flannelly Show Audio Recordings</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.089</field>
+     <field name="series_sim">Additional Tapes</field>
+-    <field name="series_si">Additional Tapes &gt;&gt; St. Patrick's Day</field>
+-    <field name="heading_ssm">St. Patrick's Day</field>
+-    <field name="unitdate_ssm">March 17, 2000</field>
++    <field name="series_si">Additional Tapes &gt;&gt; St. Patrick&#39;s Day</field>
++    <field name="heading_ssm">St. Patrick&#39;s Day</field>
++    <field name="unitdate_ssm">March 17, 2000 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">289</field>
+   </doc>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John T. Gilroy Papers</field>
+     <field name="collection_unitid_ssm">AIA.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. Patrick's Video</field>
+-    <field name="unittitle_teim">St. Patrick's Video</field>
++    <field name="unittitle_ssm">St. Patrick&#39;s Video</field>
++    <field name="unittitle_teim">St. Patrick&#39;s Video</field>
+     <field name="unitdate_teim">Jul 12, 1996</field>
+     <field name="ref_ssi">aspace_ref57</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">John T. Gilroy Papers</field>
++    <field name="author_teim">Bonnie Gordon and Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.011</field>
+     <field name="series_sim">III. Personal Materials</field>
+-    <field name="series_si">III. Personal Materials &gt;&gt; St. Patrick's Video</field>
+-    <field name="heading_ssm">St. Patrick's Video</field>
++    <field name="series_si">III. Personal Materials &gt;&gt; St. Patrick&#39;s Video</field>
++    <field name="heading_ssm">St. Patrick&#39;s Video</field>
+     <field name="unitdate_ssm">Jul 12, 1996</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">57</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Desmond, Johnny, "Don't You Remember Me" [] &lt;strong&gt;Side B: &lt;/strong&gt;Desmond, Johnny, "In the Eyes of My Irish Colleen" [] (Victor 20-1796-B)</field>
+-    <field name="unittitle_teim">Side A: Desmond, Johnny, "Don't You Remember Me" [] Side B: Desmond, Johnny, "In the Eyes of My Irish Colleen" [] (Victor 20-1796-B)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Desmond, Johnny, &#34;Don&#39;t You Remember Me&#34; [] &lt;strong&gt;Side B: &lt;/strong&gt;Desmond, Johnny, &#34;In the Eyes of My Irish Colleen&#34; [] (Victor 20-1796-B)
++</field>
++    <field name="unittitle_teim">Side A: Desmond, Johnny, &#34;Don&#39;t You Remember Me&#34; [] Side B: Desmond, Johnny, &#34;In the Eyes of My Irish Colleen&#34; [] (Victor 20-1796-B)
++</field>
+     <field name="ref_ssi">aspace_ref3371</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +26,13 @@
+     <field name="location_ssm">disk: XA78 2584</field>
+     <field name="location_si">disk: XA78 2584</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Desmond, Johnny, "Don't You Remember Me" [] &lt;strong&gt;Side B: &lt;/strong&gt;Desmond, Johnny, "In the Eyes of My Irish Colleen" [] (Victor 20-1796-B)</field>
+-    <field name="heading_ssm">Side A: Desmond, Johnny, "Don't You Remember Me" [] Side B: Desmond, Johnny, "In the Eyes of My Irish Colleen" [] (Victor 20-1796-B)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Desmond, Johnny, &#34;Don&#39;t You Remember Me&#34; [] &lt;strong&gt;Side B: &lt;/strong&gt;Desmond, Johnny, &#34;In the Eyes of My Irish Colleen&#34; [] (Victor 20-1796-B)
++</field>
++    <field name="heading_ssm">Side A: Desmond, Johnny, &#34;Don&#39;t You Remember Me&#34; [] Side B: Desmond, Johnny, &#34;In the Eyes of My Irish Colleen&#34; [] (Victor 20-1796-B)
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2778</field>
+   </doc>

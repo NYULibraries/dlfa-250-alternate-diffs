@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_unittitles_ssm">Series I. Works</field>
+-    <field name="parent_unittitles_ssm">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="parent_unittitles_teim">Series I. Works</field>
+-    <field name="parent_unittitles_teim">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Poems sent to Eileen MacCarville (Dublin) from New Mexico</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1930/1930</field>
+     <field name="unitdate_normal_sim">1930/1930</field>
+     <field name="unitdate_inclusive_teim">1930</field>
+-    <field name="scopecontent_teim">Poems include, "Full Moon," "Earth," "The Time of Day," "Plaza," "New Moon," "Mexican," "Moonlight Song: Taos," "Shalako: Zuni," "Drums: War Dance, Puye," and "The Middenlerof."</field>
++    <field name="scopecontent_teim">Poems include, &#34;Full Moon,&#34; &#34;Earth,&#34; &#34;The Time of Day,&#34; &#34;Plaza,&#34; &#34;New Moon,&#34; &#34;Mexican,&#34; &#34;Moonlight Song: Taos,&#34; &#34;Shalako: Zuni,&#34; &#34;Drums: War Dance, Puye,&#34; and &#34;The Middenlerof.&#34;</field>
+     <field name="ref_ssi">aspace_ref58</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,11 +33,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 33</field>
+     <field name="location_si">Box: 1, Folder: 33</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series I. Works</field>
+-    <field name="series_sim">Subseries IA. Ernie O'Malley</field>
+-    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O'Malley &gt;&gt; Poems sent to Eileen MacCarville (Dublin) from New Mexico</field>
++    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
++    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Poems sent to Eileen MacCarville (Dublin) from New Mexico</field>
+     <field name="heading_ssm">Poems sent to Eileen MacCarville (Dublin) from New Mexico</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_ssm">1983/1989</field>
+     <field name="unitdate_normal_teim">1983/1989</field>
+     <field name="unitdate_normal_sim">1983/1989</field>
+-    <field name="unitdate_inclusive_teim">1983-1989</field>
++    <field name="unitdate_inclusive_teim">1983-1989 </field>
+     <field name="ref_ssi">aspace_ref266</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Box: 8, Folder: 19</field>
+     <field name="location_si">Box: 8, Folder: 19</field>
+     <field name="collection_teim">George Harrison Papers</field>
++    <field name="author_teim">Alice Naughton, Mary Kriock, Marion Casey, Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.009</field>
+     <field name="series_sim">Series IV. Oversize Materials: Publications and Fliers</field>
+     <field name="series_si">Series IV. Oversize Materials: Publications and Fliers &gt;&gt; Publications: &lt;em&gt;Palestine Focus&lt;/em&gt;: National Newsletter of the November 29th Coalition (various issues)</field>
+@@ -40,7 +41,7 @@
+     <field name="unitdate_end_sim">1989</field>
+     <field name="unitdate_end_ssm">1989</field>
+     <field name="unitdate_end_si">1989</field>
+-    <field name="unitdate_ssm">Inclusive, 1983-1989</field>
++    <field name="unitdate_ssm">Inclusive, 1983-1989 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">329</field>
+   </doc>

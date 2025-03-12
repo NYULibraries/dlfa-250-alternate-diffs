@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series II. Personal Materials</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Sylvia O'Brien Papers</field>
+-    <field name="collection_ssm">Sylvia O'Brien Papers</field>
++    <field name="collection_sim">Sylvia O&#39;Brien Papers</field>
++    <field name="collection_ssm">Sylvia O&#39;Brien Papers</field>
+     <field name="collection_unitid_ssm">AIA.054</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Diaries</field>
+@@ -29,7 +29,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 18, Folder: 1</field>
+     <field name="location_si">Box: 18, Folder: 1</field>
+-    <field name="collection_teim">Sylvia O'Brien Papers</field>
++    <field name="collection_teim">Sylvia O&#39;Brien Papers</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.054</field>
+     <field name="series_sim">Series II. Personal Materials</field>
+     <field name="series_si">Series II. Personal Materials &gt;&gt; Diaries</field>

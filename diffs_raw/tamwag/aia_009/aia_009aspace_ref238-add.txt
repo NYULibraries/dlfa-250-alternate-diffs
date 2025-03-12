@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">/repositories/2/archival_objects/2403</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/2403</field>
+     <field name="unitdate_teim">1982-1998</field>
+-    <field name="scopecontent_teim">This series contains photographs of George Harrison's family and friends, in addition to politicians like Paul O'Dwyer and President Bill Clinton. Of note is a photograph of Bernadette Devlin McAliskey, a character witness at Harrison's trial.</field>
++    <field name="scopecontent_teim">This series contains photographs of George Harrison&#39;s family and friends, in addition to politicians like Paul O&#39;Dwyer and President Bill Clinton.  Of note is a photograph of Bernadette Devlin McAliskey, a character witness at Harrison&#39;s trial.</field>
+     <field name="ref_ssi">aspace_ref238</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">George Harrison Papers</field>
++    <field name="author_teim">Alice Naughton, Mary Kriock, Marion Casey, Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.009</field>
+     <field name="series_si">Series V. Photographs</field>
+     <field name="heading_ssm">Series V. Photographs</field>

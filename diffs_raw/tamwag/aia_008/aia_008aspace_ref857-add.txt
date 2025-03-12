@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref12</field>
+     <field name="parent_ssm">aspace_ref129</field>
+     <field name="parent_unittitles_ssm">Series IV: Legal Cases, 1975-2003</field>
+-    <field name="parent_unittitles_ssm">Subseries E. Individual Cases - Extradition /Deportation</field>
++    <field name="parent_unittitles_ssm">Subseries E. Individual Cases - Extradition /Deportation &amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series IV: Legal Cases, 1975-2003</field>
+-    <field name="parent_unittitles_teim">Subseries E. Individual Cases - Extradition /Deportation</field>
++    <field name="parent_unittitles_teim">Subseries E. Individual Cases - Extradition /Deportation &amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Frank Durkan Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Frank Durkan Papers</field>
+     <field name="collection_unitid_ssm">AIA.008</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Passport Cases: "Manufacturing American Citizenship for Illegals"</field>
+-    <field name="unittitle_teim">Passport Cases: "Manufacturing American Citizenship for Illegals"</field>
++    <field name="unittitle_ssm">Passport Cases: &#34;Manufacturing American Citizenship for Illegals&#34;</field>
++    <field name="unittitle_teim">Passport Cases: &#34;Manufacturing American Citizenship for Illegals&#34;</field>
+     <field name="unitdate_teim">Jan 1988</field>
+     <field name="ref_ssi">aspace_ref857</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -30,9 +30,10 @@
+     <field name="collection_teim">Frank Durkan Papers</field>
+     <field name="collection_unitid_teim">AIA.008</field>
+     <field name="series_sim">Series IV: Legal Cases, 1975-2003</field>
+-    <field name="series_sim">Subseries E. Individual Cases - Extradition /Deportation</field>
+-    <field name="series_si">Series IV: Legal Cases, 1975-2003 &gt;&gt; Subseries E. Individual Cases - Extradition /Deportation &gt;&gt; Passport Cases: "Manufacturing American Citizenship for Illegals"</field>
+-    <field name="heading_ssm">Passport Cases: "Manufacturing American Citizenship for Illegals"</field>
++    <field name="series_sim">Subseries E. Individual Cases - Extradition /Deportation &amp;#xA;</field>
++    <field name="series_si">Series IV: Legal Cases, 1975-2003 &gt;&gt; Subseries E. Individual Cases - Extradition /Deportation 
++ &gt;&gt; Passport Cases: &#34;Manufacturing American Citizenship for Illegals&#34;</field>
++    <field name="heading_ssm">Passport Cases: &#34;Manufacturing American Citizenship for Illegals&#34;</field>
+     <field name="unitdate_ssm">Jan 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">535</field>

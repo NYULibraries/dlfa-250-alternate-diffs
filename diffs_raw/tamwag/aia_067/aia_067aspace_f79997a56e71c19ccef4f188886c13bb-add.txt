@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,12 +12,12 @@
+     <field name="parent_unittitles_teim">Sub-series I.A: 1981 Hunger Strike</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Jack O'Brien Papers</field>
+-    <field name="collection_ssm">Jack O'Brien Papers</field>
++    <field name="collection_sim">Jack O&#39;Brien Papers</field>
++    <field name="collection_ssm">Jack O&#39;Brien Papers</field>
+     <field name="collection_unitid_ssm">AIA.067</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away"</field>
+-    <field name="unittitle_teim">"On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away"</field>
++    <field name="unittitle_ssm">&#34;On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away&#34;</field>
++    <field name="unittitle_teim">&#34;On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away&#34;</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/930022</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/930022</field>
+     <field name="unitdate_normal_ssm">2020/2020</field>
+@@ -32,12 +32,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 11, Folder: 19</field>
+     <field name="location_si">Box: 11, Folder: 19</field>
+-    <field name="collection_teim">Jack O'Brien Papers</field>
++    <field name="collection_teim">Jack O&#39;Brien Papers</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder </field>
+     <field name="collection_unitid_teim">AIA.067</field>
+     <field name="series_sim">Series I: The Troubles in Northern Ireland</field>
+     <field name="series_sim">Sub-series I.A: 1981 Hunger Strike</field>
+-    <field name="series_si">Series I: The Troubles in Northern Ireland &gt;&gt; Sub-series I.A: 1981 Hunger Strike &gt;&gt; "On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away"</field>
+-    <field name="heading_ssm">"On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away"</field>
++    <field name="series_si">Series I: The Troubles in Northern Ireland &gt;&gt; Sub-series I.A: 1981 Hunger Strike &gt;&gt; &#34;On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away&#34;</field>
++    <field name="heading_ssm">&#34;On this Day: Bobby Sands, Long Kesh Hunger Strikers, Passes Away&#34;</field>
+     <field name="unitdate_start_sim">2020</field>
+     <field name="unitdate_start_ssm">2020</field>
+     <field name="unitdate_start_si">2020</field>

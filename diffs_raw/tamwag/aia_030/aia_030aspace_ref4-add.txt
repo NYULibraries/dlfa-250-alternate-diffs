@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2006/2006</field>
+     <field name="unitdate_normal_sim">2006/2006</field>
+     <field name="unitdate_inclusive_teim">Nov 8, 2006</field>
+-    <field name="bioghist_teim">Bridget Cagney (b. Cork, Co. Cork, 1937), is a retired program analyst for the Institute of International Education and member of "Point Thank You," a post-9/11 support group in New York City.</field>
++    <field name="bioghist_teim">Bridget Cagney (b. Cork, Co. Cork, 1937), is a retired program analyst for the Institute of International Education and member of &#34;Point Thank You,&#34; a post-9/11 support group in New York City.</field>
+     <field name="ref_ssi">aspace_ref4</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">C</field>
+     <field name="series_si">C &gt;&gt; Cagney, Bridget</field>

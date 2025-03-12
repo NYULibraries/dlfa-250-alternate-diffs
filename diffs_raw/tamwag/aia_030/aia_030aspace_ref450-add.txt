@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34707</field>
+     <field name="unitid_ssm">cuid34707</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="bioghist_teim">John T. Ridge (b. Brooklyn, New York, 1947), the son of immigrants from Galway and Longford, is an historian who has documented the history of the Ancient Order of Hibernians and the St. Patrick's Day Parade as well as many other aspects of New York Irish history. In 2011 he published Celebrating 250 Years of the New York City St. Patrick's Day Parade. He has been a long-time officer, including President, of the New York Irish History Roundtable.</field>
++    <field name="bioghist_teim">John T. Ridge (b. Brooklyn, New York, 1947), the son of immigrants from Galway and Longford, is an historian who has documented the history of the Ancient Order of Hibernians and the St. Patrick&#39;s Day Parade as well as many other aspects of New York Irish history. In 2011 he published Celebrating 250 Years of the New York City St. Patrick&#39;s Day Parade. He has been a long-time officer, including President, of the New York Irish History Roundtable.</field>
+     <field name="ref_ssi">aspace_ref450</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 3, Folder: 53</field>
+     <field name="location_si">Box: 3, Folder: 53</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">R</field>
+     <field name="series_si">R &gt;&gt; Ridge, John</field>

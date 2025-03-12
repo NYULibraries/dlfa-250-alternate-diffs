@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1985-01-05/1985-01-05</field>
+     <field name="unitdate_normal_teim">1985-01-05/1985-01-05</field>
+     <field name="unitdate_normal_sim">1985-01-05/1985-01-05</field>
+-    <field name="unitdate_teim">January 5, 1985</field>
++    <field name="unitdate_teim">January 5, 1985 </field>
+     <field name="ref_ssi">aspace_a0a9784932f7d69e9e950fb08ec4c515</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 4, audiocassette: 089.0016</field>
+     <field name="location_si">Box: 4, audiocassette: 089.0016</field>
+     <field name="collection_teim">The Adrian Flannelly Show Audio Recordings</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.089</field>
+     <field name="series_sim">The Adrian Flannelly Show</field>
+     <field name="series_si">The Adrian Flannelly Show &gt;&gt; Adrian Flannelly Show</field>
+     <field name="heading_ssm">Adrian Flannelly Show</field>
+-    <field name="unitdate_ssm">January 5, 1985</field>
++    <field name="unitdate_ssm">January 5, 1985 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>
+   </doc>

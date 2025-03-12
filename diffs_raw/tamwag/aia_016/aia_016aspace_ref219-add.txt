@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1990/1990</field>
+     <field name="unitdate_normal_teim">1990/1990</field>
+     <field name="unitdate_normal_sim">1990/1990</field>
+-    <field name="unitdate_inclusive_teim">March 14, 1990</field>
++    <field name="unitdate_inclusive_teim"> March 14, 1990</field>
+     <field name="ref_ssi">aspace_ref219</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 6, drawer: 28</field>
+     <field name="location_si">Box: 6, drawer: 28</field>
+     <field name="collection_teim">Irish Immigration Reform Movement, New York Chapter Records</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.016</field>
+     <field name="series_sim">III: Legislation</field>
+     <field name="series_si">III: Legislation &gt;&gt; H.R. 4300: Morrison Bill: Draft, Final</field>
+@@ -38,7 +39,7 @@
+     <field name="unitdate_end_sim">1990</field>
+     <field name="unitdate_end_ssm">1990</field>
+     <field name="unitdate_end_si">1990</field>
+-    <field name="unitdate_ssm">Inclusive, March 14, 1990</field>
++    <field name="unitdate_ssm">Inclusive,  March 14, 1990</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">202</field>
+   </doc>

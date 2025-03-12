@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Glucksman Ireland House Records</field>
+     <field name="collection_unitid_ssm">AIA.038</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Great Famine and Women's Emigration from Ireland&lt;/em&gt; (Janet Nolan)</field>
+-    <field name="unittitle_teim">The Great Famine and Women's Emigration from Ireland (Janet Nolan)</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Great Famine and Women&#39;s Emigration from Ireland&lt;/em&gt; (Janet Nolan)</field>
++    <field name="unittitle_teim">The Great Famine and Women&#39;s Emigration from Ireland (Janet Nolan)</field>
+     <field name="unitid_teim">cuid35098</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/933461</field>
+     <field name="unitid_ssm">cuid35098</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 3, Folder: 11</field>
+     <field name="location_si">Box: 3, Folder: 11</field>
+     <field name="collection_teim">Glucksman Ireland House Records</field>
++    <field name="author_teim">Bonnie Gordon and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.038</field>
+     <field name="series_sim">Series I: International Conference on Hunger</field>
+-    <field name="series_si">Series I: International Conference on Hunger &gt;&gt; &lt;em&gt;The Great Famine and Women's Emigration from Ireland&lt;/em&gt; (Janet Nolan)</field>
+-    <field name="heading_ssm">The Great Famine and Women's Emigration from Ireland (Janet Nolan)</field>
++    <field name="series_si">Series I: International Conference on Hunger &gt;&gt; &lt;em&gt;The Great Famine and Women&#39;s Emigration from Ireland&lt;/em&gt; (Janet Nolan)</field>
++    <field name="heading_ssm">The Great Famine and Women&#39;s Emigration from Ireland (Janet Nolan)</field>
+     <field name="unitdate_ssm">1995</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref422</field>
+     <field name="parent_ssm">aspace_ref423</field>
+     <field name="parent_unittitles_ssm">Series VI: Photographs</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Slides</field>
++    <field name="parent_unittitles_ssm">Subseries A: Slides&amp;#xA;&amp;#xA;&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series VI: Photographs</field>
+-    <field name="parent_unittitles_teim">Subseries A: Slides</field>
++    <field name="parent_unittitles_teim">Subseries A: Slides&amp;#xA;&amp;#xA;&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Papers</field>
+@@ -30,10 +30,14 @@
+     <field name="location_ssm">Box: 30, Folder: 2</field>
+     <field name="location_si">Box: 30, Folder: 2</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Papers</field>
++    <field name="author_teim">Brendan Dolan</field>
+     <field name="collection_unitid_teim">AIA.031.003</field>
+     <field name="series_sim">Series VI: Photographs</field>
+-    <field name="series_sim">Subseries A: Slides</field>
+-    <field name="series_si">Series VI: Photographs &gt;&gt; Subseries A: Slides &gt;&gt; Package Tours: Ireland (Folder 10)</field>
++    <field name="series_sim">Subseries A: Slides&amp;#xA;&amp;#xA;&amp;#xA;</field>
++    <field name="series_si">Series VI: Photographs &gt;&gt; Subseries A: Slides
++
++
++ &gt;&gt; Package Tours: Ireland (Folder 10)</field>
+     <field name="heading_ssm">Package Tours: Ireland (Folder 10)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

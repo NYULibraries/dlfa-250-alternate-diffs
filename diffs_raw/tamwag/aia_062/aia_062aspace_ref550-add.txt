@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bruce Boling Irish Language Papers</field>
+     <field name="collection_unitid_ssm">AIA.062</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lunt, Horace G. "On the Study of Slavic Accentuation." &lt;em&gt;Word&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Lunt, Horace G. "On the Study of Slavic Accentuation." Word</field>
++    <field name="unittitle_ssm">Lunt, Horace G. &#34;On the Study of Slavic Accentuation.&#34; &lt;em&gt;Word&lt;/em&gt;</field>
++    <field name="unittitle_teim">Lunt, Horace G. &#34;On the Study of Slavic Accentuation.&#34; Word</field>
+     <field name="unitdate_normal_ssm">1963/1963</field>
+     <field name="unitdate_normal_teim">1963/1963</field>
+     <field name="unitdate_normal_sim">1963/1963</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 8, Folder: 88</field>
+     <field name="location_si">Box: 8, Folder: 88</field>
+     <field name="collection_teim">Bruce Boling Irish Language Papers</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.062</field>
+     <field name="series_sim">Series III. Secondary Source Materials</field>
+-    <field name="series_si">Series III. Secondary Source Materials &gt;&gt; Lunt, Horace G. "On the Study of Slavic Accentuation." &lt;em&gt;Word&lt;/em&gt;</field>
+-    <field name="heading_ssm">Lunt, Horace G. "On the Study of Slavic Accentuation." Word</field>
++    <field name="series_si">Series III. Secondary Source Materials &gt;&gt; Lunt, Horace G. &#34;On the Study of Slavic Accentuation.&#34; &lt;em&gt;Word&lt;/em&gt;</field>
++    <field name="heading_ssm">Lunt, Horace G. &#34;On the Study of Slavic Accentuation.&#34; Word</field>
+     <field name="unitdate_start_sim">1963</field>
+     <field name="unitdate_start_ssm">1963</field>
+     <field name="unitdate_start_si">1963</field>

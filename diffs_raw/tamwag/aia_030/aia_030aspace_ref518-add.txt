@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34741</field>
+     <field name="unitid_ssm">cuid34741</field>
+     <field name="unitdate_teim">Mar 29, 2012</field>
+-    <field name="bioghist_teim">Jay R. Tunney (b. New York, New York, 1936) grew up in Stanford, CT, and is the son of Irish-American world heavyweight-boxing champion Gene Tunney. He is the author of The Prizefighter and the Playwright, in which he chronicles his father's relationship with the renowned playwright George Bernard Shaw.</field>
++    <field name="bioghist_teim">Jay R. Tunney (b. New York, New York, 1936) grew up in Stanford, CT, and is the son of Irish-American world heavyweight-boxing champion Gene Tunney. He is the author of The Prizefighter and the Playwright, in which he chronicles his father&#39;s relationship with the renowned playwright George Bernard Shaw.</field>
+     <field name="ref_ssi">aspace_ref518</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 4, Folder: 90</field>
+     <field name="location_si">Box: 4, Folder: 90</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">T</field>
+     <field name="series_si">T &gt;&gt; Tunney, Jay R.</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1919/2002</field>
+     <field name="unitdate_normal_sim">1919/2002</field>
+     <field name="unitdate_inclusive_teim">1919, 1969-2002</field>
+-    <field name="scopecontent_teim">This subseries contains a variety of photographs capturing moments in Irish life and culture. Major subjects include Irish architecture, Belfast's murals, general news in the country, and documentation of The Troubles.</field>
++    <field name="scopecontent_teim">This subseries contains a variety of photographs capturing moments in Irish life and culture.  Major subjects include Irish architecture, Belfast&#39;s murals, general news in the country, and documentation of The Troubles.</field>
+     <field name="ref_ssi">aspace_ref14</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Irish Echo Photographs</field>
++    <field name="author_teim">Marion Casey, Mary Corcoran, John Ridge, Rachel Searcy, and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.045</field>
+     <field name="series_sim">Series II: Ireland</field>
+     <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.E: Subjects</field>

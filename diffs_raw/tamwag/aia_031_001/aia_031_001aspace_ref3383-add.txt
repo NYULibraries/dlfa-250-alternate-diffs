@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Hall, Freddie, "He's a Devil in His Own Home Town" [76172] &lt;strong&gt;Side B: &lt;/strong&gt;Hall, Freddie, "Nobody Knows What Happened to McCarthy" [76620] (Coral 60243)</field>
+-    <field name="unittitle_teim">Side A: Hall, Freddie, "He's a Devil in His Own Home Town" [76172] Side B: Hall, Freddie, "Nobody Knows What Happened to McCarthy" [76620] (Coral 60243)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Hall, Freddie, &#34;He&#39;s a Devil in His Own Home Town&#34; [76172] &lt;strong&gt;Side B: &lt;/strong&gt;Hall, Freddie, &#34;Nobody Knows What Happened to McCarthy&#34; [76620] (Coral 60243)
++</field>
++    <field name="unittitle_teim">Side A: Hall, Freddie, &#34;He&#39;s a Devil in His Own Home Town&#34; [76172] Side B: Hall, Freddie, &#34;Nobody Knows What Happened to McCarthy&#34; [76620] (Coral 60243)
++</field>
+     <field name="ref_ssi">aspace_ref3383</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +26,13 @@
+     <field name="location_ssm">disk: XA78 2596</field>
+     <field name="location_si">disk: XA78 2596</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Hall, Freddie, "He's a Devil in His Own Home Town" [76172] &lt;strong&gt;Side B: &lt;/strong&gt;Hall, Freddie, "Nobody Knows What Happened to McCarthy" [76620] (Coral 60243)</field>
+-    <field name="heading_ssm">Side A: Hall, Freddie, "He's a Devil in His Own Home Town" [76172] Side B: Hall, Freddie, "Nobody Knows What Happened to McCarthy" [76620] (Coral 60243)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Hall, Freddie, &#34;He&#39;s a Devil in His Own Home Town&#34; [76172] &lt;strong&gt;Side B: &lt;/strong&gt;Hall, Freddie, &#34;Nobody Knows What Happened to McCarthy&#34; [76620] (Coral 60243)
++</field>
++    <field name="heading_ssm">Side A: Hall, Freddie, &#34;He&#39;s a Devil in His Own Home Town&#34; [76172] Side B: Hall, Freddie, &#34;Nobody Knows What Happened to McCarthy&#34; [76620] (Coral 60243)
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2789</field>
+   </doc>

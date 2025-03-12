@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kevin Kennedy Ephemera and Photographs Collection</field>
+     <field name="collection_unitid_ssm">AIA.063</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. Patrick's, K of C</field>
+-    <field name="unittitle_teim">St. Patrick's, K of C</field>
++    <field name="unittitle_ssm">St. Patrick&#39;s, K of C</field>
++    <field name="unittitle_teim">St. Patrick&#39;s, K of C</field>
+     <field name="unitdate_teim">1992</field>
+     <field name="ref_ssi">aspace_11249d4f632a2a14a1be44bdf019d4d1</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 21, Folder: 24</field>
+     <field name="location_si">Box: 21, Folder: 24</field>
+     <field name="collection_teim">Kevin Kennedy Ephemera and Photographs Collection</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.063</field>
+     <field name="series_sim">Series II: Photographs and Photo Negatives</field>
+-    <field name="series_si">Series II: Photographs and Photo Negatives &gt;&gt; St. Patrick's, K of C</field>
+-    <field name="heading_ssm">St. Patrick's, K of C</field>
++    <field name="series_si">Series II: Photographs and Photo Negatives &gt;&gt; St. Patrick&#39;s, K of C</field>
++    <field name="heading_ssm">St. Patrick&#39;s, K of C</field>
+     <field name="unitdate_ssm">1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">879</field>

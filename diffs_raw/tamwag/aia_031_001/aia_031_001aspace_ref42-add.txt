@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Irish Suite &lt;/em&gt;Anderson, Leroy and His "Pops" Concert Orchestra &lt;strong&gt;Side A: &lt;/strong&gt;"Irish Washerwoman" [83585] &lt;strong&gt;Side B: &lt;/strong&gt;"Wearing of the Green" [83613] (Decca 16045) 78 Set</field>
+-    <field name="unittitle_teim">Irish Suite Anderson, Leroy and His "Pops" Concert Orchestra Side A: "Irish Washerwoman" [83585] Side B: "Wearing of the Green" [83613] (Decca 16045) 78 Set</field>
++    <field name="unittitle_ssm">&lt;em&gt;Irish Suite &lt;/em&gt;Anderson, Leroy and His &#34;Pops&#34; Concert Orchestra &lt;strong&gt;Side A: &lt;/strong&gt;&#34;Irish Washerwoman&#34; [83585] &lt;strong&gt;Side B: &lt;/strong&gt;&#34;Wearing of the Green&#34; [83613] (Decca 16045) 78 Set</field>
++    <field name="unittitle_teim">Irish Suite Anderson, Leroy and His &#34;Pops&#34; Concert Orchestra Side A: &#34;Irish Washerwoman&#34; [83585] Side B: &#34;Wearing of the Green&#34; [83613] (Decca 16045) 78 Set</field>
+     <field name="ref_ssi">aspace_ref42</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 2176</field>
+     <field name="location_si">disk: XA78 2176</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;em&gt;Irish Suite &lt;/em&gt;Anderson, Leroy and His "Pops" Concert Orchestra &lt;strong&gt;Side A: &lt;/strong&gt;"Irish Washerwoman" [83585] &lt;strong&gt;Side B: &lt;/strong&gt;"Wearing of the Green" [83613] (Decca 16045) 78 Set</field>
+-    <field name="heading_ssm">Irish Suite Anderson, Leroy and His "Pops" Concert Orchestra Side A: "Irish Washerwoman" [83585] Side B: "Wearing of the Green" [83613] (Decca 16045) 78 Set</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;em&gt;Irish Suite &lt;/em&gt;Anderson, Leroy and His &#34;Pops&#34; Concert Orchestra &lt;strong&gt;Side A: &lt;/strong&gt;&#34;Irish Washerwoman&#34; [83585] &lt;strong&gt;Side B: &lt;/strong&gt;&#34;Wearing of the Green&#34; [83613] (Decca 16045) 78 Set</field>
++    <field name="heading_ssm">Irish Suite Anderson, Leroy and His &#34;Pops&#34; Concert Orchestra Side A: &#34;Irish Washerwoman&#34; [83585] Side B: &#34;Wearing of the Green&#34; [83613] (Decca 16045) 78 Set</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>
+   </doc>

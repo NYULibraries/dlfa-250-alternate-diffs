@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">Mar 29, 2008-Dec 9, 2008</field>
+-    <field name="bioghist_teim">Daniel Hartigan, Jr. (born 1926), is an Irish immigrant, born in Limerick, whose father was an ardent follower of Eamon De Valera. His dad's allegiance to De Valera through the 1920s and 1930s cost him and the family dearly. Hartigan Sr.'s political choices led to financial and social reverses for the family and ultimately the migration of Daniel, Jr. and most of his siblings. Life for this IRA family in the west of Ireland during the 20s and through World War II offered few other options.</field>
++    <field name="bioghist_teim">Daniel Hartigan, Jr. (born 1926), is an Irish immigrant, born in Limerick, whose father was an ardent follower of Eamon De Valera.  His dad&#39;s allegiance to De Valera through the 1920s and 1930s cost him and the family dearly. Hartigan Sr.&#39;s political choices led to financial and social reverses for the family and ultimately the migration of Daniel, Jr. and most of his siblings.  Life for this IRA family in the west of Ireland during the 20s and through World War II offered few other options.</field>
+     <field name="ref_ssi">aspace_ref83</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 2, Folder: 20</field>
+     <field name="location_si">Box: 2, Folder: 20</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">H</field>
+     <field name="series_si">H &gt;&gt; Hartigan, Daniel (two interviews)</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_067</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Jack O'Brien Papers</field>
+-    <field name="collection_ssm">Jack O'Brien Papers</field>
++    <field name="collection_sim">Jack O&#39;Brien Papers</field>
++    <field name="collection_ssm">Jack O&#39;Brien Papers</field>
+     <field name="collection_unitid_ssm">AIA.067</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series V: Ancient Order of Hibernians (AOH)</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1880/2020</field>
+     <field name="unitdate_normal_sim">1880/2020</field>
+     <field name="unitdate_inclusive_teim">1880-2020 (inclusive), 1972-2012 (bulk)</field>
+-    <field name="scopecontent_teim">This series focuses upon the history, activities, and legacy of the Ancient Order of the Hibernians (AOH), as well as Jack O'Brien's involvement with this organization. Materials include official memorandum, newsletters, AOH election materials, social invitations, emails, correspondence, posters, DVDs, booklets, photographs, commemorative coin, badges, convention materials, press releases, documents related to the Ladies Ancient Order of Hibernians (LAOH), as well as copies of the National Hibernian Digest, the official newspaper of the Ancient Order of Hibernians.</field>
++    <field name="scopecontent_teim">This series focuses upon the history, activities, and legacy of the Ancient Order of the Hibernians (AOH), as well as Jack O&#39;Brien&#39;s involvement with this organization. Materials include official memorandum, newsletters, AOH election materials, social invitations, emails, correspondence, posters, DVDs, booklets, photographs, commemorative coin, badges, convention materials, press releases, documents related to the Ladies Ancient Order of Hibernians (LAOH), as well as copies of the National Hibernian Digest, the official newspaper of the Ancient Order of Hibernians.  </field>
+     <field name="ref_ssi">aspace_bb015a525f622b0cf95e53d1bfe35468</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Jack O'Brien Papers</field>
++    <field name="collection_teim">Jack O&#39;Brien Papers</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder </field>
+     <field name="collection_unitid_teim">AIA.067</field>
+     <field name="series_si">Series V: Ancient Order of Hibernians (AOH)</field>
+     <field name="heading_ssm">Series V: Ancient Order of Hibernians (AOH)</field>

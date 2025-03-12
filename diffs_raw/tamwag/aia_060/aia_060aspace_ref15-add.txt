@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_060</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VI. Legal</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1921/1957</field>
+     <field name="unitdate_normal_sim">1921/1957</field>
+     <field name="unitdate_inclusive_teim">1921-1957</field>
+-    <field name="scopecontent_teim">The series contains legal documents and clippings relating to Ernie O'Malley between the years of 1923 and 1957. Most materials in this series relate to the legal proceedings between O'Malley and his estranged wife, Helen Hooker O'Malley in 1950. Also included are clippings documenting the libel lawsuit and settlement between Joseph O'Doherty and Ernie O'Malley following O'Malley's publication of On Another Man's Wound. Many of the official legal documents in this series are photocopies received from the High Court of Justice in Dublin, Ireland.</field>
++    <field name="scopecontent_teim">The series contains legal documents and clippings relating to Ernie O&#39;Malley between the years of 1923 and 1957.  Most materials in this series relate to the legal proceedings between O&#39;Malley and his estranged wife, Helen Hooker O&#39;Malley in 1950.  Also included are clippings documenting the libel lawsuit and settlement between Joseph O&#39;Doherty and Ernie O&#39;Malley following O&#39;Malley&#39;s publication of On Another Man&#39;s Wound.  Many of the official legal documents in this series are photocopies received from the High Court of Justice in Dublin, Ireland.</field>
+     <field name="ref_ssi">aspace_ref15</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_si">Series VI. Legal</field>
+     <field name="heading_ssm">Series VI. Legal</field>

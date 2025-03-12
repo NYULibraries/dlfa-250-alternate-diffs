@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_054</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Sylvia O'Brien Papers</field>
+-    <field name="collection_ssm">Sylvia O'Brien Papers</field>
++    <field name="collection_sim">Sylvia O&#39;Brien Papers</field>
++    <field name="collection_ssm">Sylvia O&#39;Brien Papers</field>
+     <field name="collection_unitid_ssm">AIA.054</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III. Original Writings</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1960/1987</field>
+     <field name="unitdate_normal_sim">1960/1987</field>
+     <field name="unitdate_inclusive_teim">1960-1987</field>
+-    <field name="scopecontent_teim">This series consists of research notes, drafts, typescripts, and published versions of O'Brien's articles, poetry, and short stories.</field>
++    <field name="scopecontent_teim">This series consists of research notes, drafts, typescripts, and published versions of O&#39;Brien&#39;s articles, poetry, and short stories.</field>
+     <field name="ref_ssi">aspace_ref201</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Sylvia O'Brien Papers</field>
++    <field name="collection_teim">Sylvia O&#39;Brien Papers</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.054</field>
+     <field name="series_si">Series III. Original Writings</field>
+     <field name="heading_ssm">Series III. Original Writings</field>

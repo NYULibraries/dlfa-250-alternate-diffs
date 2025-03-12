@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,17 +7,17 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_unittitles_ssm">Series I. Works</field>
+-    <field name="parent_unittitles_ssm">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="parent_unittitles_teim">Series I. Works</field>
+-    <field name="parent_unittitles_teim">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Untitled: Begins with "Josquin de Pres was born in ... " typescript</field>
+-    <field name="unittitle_teim">Untitled: Begins with "Josquin de Pres was born in ... " typescript</field>
++    <field name="unittitle_ssm">Untitled: Begins with &#34;Josquin de Pres was born in ... &#34; typescript</field>
++    <field name="unittitle_teim">Untitled: Begins with &#34;Josquin de Pres was born in ... &#34; typescript</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/16828</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/16828</field>
+     <field name="unitdate_normal_ssm">1934/1935</field>
+@@ -32,12 +32,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 45, Folder: 40</field>
+     <field name="location_si">Box: 45, Folder: 40</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series I. Works</field>
+-    <field name="series_sim">Subseries IA. Ernie O'Malley</field>
+-    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O'Malley &gt;&gt; Untitled: Begins with "Josquin de Pres was born in ... " typescript</field>
+-    <field name="heading_ssm">Untitled: Begins with "Josquin de Pres was born in ... " typescript</field>
++    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
++    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Untitled: Begins with &#34;Josquin de Pres was born in ... &#34; typescript</field>
++    <field name="heading_ssm">Untitled: Begins with &#34;Josquin de Pres was born in ... &#34; typescript</field>
+     <field name="unitdate_start_sim">1934</field>
+     <field name="unitdate_start_ssm">1934</field>
+     <field name="unitdate_start_si">1934</field>

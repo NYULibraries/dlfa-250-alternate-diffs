@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,12 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Unlisted , "Stephen Foster Melodies" [PS 1057] &lt;strong&gt;Side B: &lt;/strong&gt;Not Listed, "Old-Time Favorites" [PS 706] (Philharmonic FR 115-B)</field>
+-    <field name="unittitle_teim">Side A: Unlisted , "Stephen Foster Melodies" [PS 1057] Side B: Not Listed, "Old-Time Favorites" [PS 706] (Philharmonic FR 115-B)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Unlisted
++, &#34;Stephen Foster Melodies&#34; [PS 1057] &lt;strong&gt;Side B: &lt;/strong&gt;Not Listed, &#34;Old-Time Favorites&#34; [PS 706] (Philharmonic FR 115-B)
++</field>
++    <field name="unittitle_teim">Side A: Unlisted
++, &#34;Stephen Foster Melodies&#34; [PS 1057] Side B: Not Listed, &#34;Old-Time Favorites&#34; [PS 706] (Philharmonic FR 115-B)
++</field>
+     <field name="ref_ssi">aspace_ref3303</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +28,15 @@
+     <field name="location_ssm">disk: XA78 2516</field>
+     <field name="location_si">disk: XA78 2516</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Unlisted , "Stephen Foster Melodies" [PS 1057] &lt;strong&gt;Side B: &lt;/strong&gt;Not Listed, "Old-Time Favorites" [PS 706] (Philharmonic FR 115-B)</field>
+-    <field name="heading_ssm">Side A: Unlisted , "Stephen Foster Melodies" [PS 1057] Side B: Not Listed, "Old-Time Favorites" [PS 706] (Philharmonic FR 115-B)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Unlisted
++, &#34;Stephen Foster Melodies&#34; [PS 1057] &lt;strong&gt;Side B: &lt;/strong&gt;Not Listed, &#34;Old-Time Favorites&#34; [PS 706] (Philharmonic FR 115-B)
++</field>
++    <field name="heading_ssm">Side A: Unlisted
++, &#34;Stephen Foster Melodies&#34; [PS 1057] Side B: Not Listed, &#34;Old-Time Favorites&#34; [PS 706] (Philharmonic FR 115-B)
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2456</field>
+   </doc>

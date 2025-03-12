@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Ryan, Frank, "God's Garden" [OEF.38] &lt;strong&gt;Side B: &lt;/strong&gt;Ryan, Frank, "Upon St. Patrick's Day" [OEF.39] (His Master's Voice I.M.1266)</field>
+-    <field name="unittitle_teim">Side A: Ryan, Frank, "God's Garden" [OEF.38] Side B: Ryan, Frank, "Upon St. Patrick's Day" [OEF.39] (His Master's Voice I.M.1266)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Ryan, Frank, &#34;God&#39;s Garden&#34; [OEF.38] &lt;strong&gt;Side B: &lt;/strong&gt;Ryan, Frank, &#34;Upon St. Patrick&#39;s Day&#34; [OEF.39] (His Master&#39;s Voice I.M.1266)</field>
++    <field name="unittitle_teim">Side A: Ryan, Frank, &#34;God&#39;s Garden&#34; [OEF.38] Side B: Ryan, Frank, &#34;Upon St. Patrick&#39;s Day&#34; [OEF.39] (His Master&#39;s Voice I.M.1266)</field>
+     <field name="ref_ssi">aspace_ref1910</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 372</field>
+     <field name="location_si">disk: XA78 372</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Ryan, Frank, "God's Garden" [OEF.38] &lt;strong&gt;Side B: &lt;/strong&gt;Ryan, Frank, "Upon St. Patrick's Day" [OEF.39] (His Master's Voice I.M.1266)</field>
+-    <field name="heading_ssm">Side A: Ryan, Frank, "God's Garden" [OEF.38] Side B: Ryan, Frank, "Upon St. Patrick's Day" [OEF.39] (His Master's Voice I.M.1266)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Ryan, Frank, &#34;God&#39;s Garden&#34; [OEF.38] &lt;strong&gt;Side B: &lt;/strong&gt;Ryan, Frank, &#34;Upon St. Patrick&#39;s Day&#34; [OEF.39] (His Master&#39;s Voice I.M.1266)</field>
++    <field name="heading_ssm">Side A: Ryan, Frank, &#34;God&#39;s Garden&#34; [OEF.38] Side B: Ryan, Frank, &#34;Upon St. Patrick&#39;s Day&#34; [OEF.39] (His Master&#39;s Voice I.M.1266)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2138</field>
+   </doc>

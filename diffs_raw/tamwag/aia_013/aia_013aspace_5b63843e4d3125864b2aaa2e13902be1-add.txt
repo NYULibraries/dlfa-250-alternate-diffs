@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Archives of Irish America Vertical Files</field>
+     <field name="collection_unitid_ssm">AIA.013</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Dwyer, Brian and Marianna</field>
+-    <field name="unittitle_teim">O'Dwyer, Brian and Marianna</field>
++    <field name="unittitle_ssm">O&#39;Dwyer, Brian and Marianna</field>
++    <field name="unittitle_teim">O&#39;Dwyer, Brian and Marianna</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/934250</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/934250</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 40, Folder: 11</field>
+     <field name="location_si">Box: 40, Folder: 11</field>
+     <field name="collection_teim">Archives of Irish America Vertical Files</field>
++    <field name="author_teim">Rebecca Altermatt and Kaitlyn Medley</field>
+     <field name="collection_unitid_teim">AIA.013</field>
+     <field name="series_sim">O</field>
+-    <field name="series_si">O &gt;&gt; O'Dwyer, Brian and Marianna</field>
+-    <field name="heading_ssm">O'Dwyer, Brian and Marianna</field>
++    <field name="series_si">O &gt;&gt; O&#39;Dwyer, Brian and Marianna</field>
++    <field name="heading_ssm">O&#39;Dwyer, Brian and Marianna</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">819</field>

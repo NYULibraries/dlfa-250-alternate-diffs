@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Irwin, Robert, "Roadside Fire" [OEA.10760] &lt;strong&gt;Side B: &lt;/strong&gt;Irwin, Robert, "Linden Lea" [OEA.10761] (His Master's Voice I.P.429)</field>
+-    <field name="unittitle_teim">Side A: Irwin, Robert, "Roadside Fire" [OEA.10760] Side B: Irwin, Robert, "Linden Lea" [OEA.10761] (His Master's Voice I.P.429)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Irwin, Robert, &#34;Roadside Fire&#34; [OEA.10760] &lt;strong&gt;Side B: &lt;/strong&gt;Irwin, Robert, &#34;Linden Lea&#34; [OEA.10761] (His Master&#39;s Voice I.P.429)</field>
++    <field name="unittitle_teim">Side A: Irwin, Robert, &#34;Roadside Fire&#34; [OEA.10760] Side B: Irwin, Robert, &#34;Linden Lea&#34; [OEA.10761] (His Master&#39;s Voice I.P.429)</field>
+     <field name="ref_ssi">aspace_ref922</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 1390</field>
+     <field name="location_si">disk: XA78 1390</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Irwin, Robert, "Roadside Fire" [OEA.10760] &lt;strong&gt;Side B: &lt;/strong&gt;Irwin, Robert, "Linden Lea" [OEA.10761] (His Master's Voice I.P.429)</field>
+-    <field name="heading_ssm">Side A: Irwin, Robert, "Roadside Fire" [OEA.10760] Side B: Irwin, Robert, "Linden Lea" [OEA.10761] (His Master's Voice I.P.429)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Irwin, Robert, &#34;Roadside Fire&#34; [OEA.10760] &lt;strong&gt;Side B: &lt;/strong&gt;Irwin, Robert, &#34;Linden Lea&#34; [OEA.10761] (His Master&#39;s Voice I.P.429)</field>
++    <field name="heading_ssm">Side A: Irwin, Robert, &#34;Roadside Fire&#34; [OEA.10760] Side B: Irwin, Robert, &#34;Linden Lea&#34; [OEA.10761] (His Master&#39;s Voice I.P.429)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1035</field>
+   </doc>

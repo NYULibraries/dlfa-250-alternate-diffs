@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_unittitles_ssm">Series I. Works</field>
+-    <field name="parent_unittitles_ssm">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="parent_unittitles_teim">Series I. Works</field>
+-    <field name="parent_unittitles_teim">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Poetry notebook</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1927/1927</field>
+     <field name="unitdate_normal_sim">1927/1927</field>
+     <field name="unitdate_inclusive_teim">1927</field>
+-    <field name="scopecontent_teim">Notebook includes notes on "The Return," a book review, and poetry by Ernie O'Malley, including "The Story of a Maiden Fair," "The First Year," and "Truth."</field>
++    <field name="scopecontent_teim">Notebook includes notes on &#34;The Return,&#34; a book review, and poetry by Ernie O&#39;Malley, including &#34;The Story of a Maiden Fair,&#34; &#34;The First Year,&#34; and &#34;Truth.&#34;</field>
+     <field name="ref_ssi">aspace_ref54</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,11 +33,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 29</field>
+     <field name="location_si">Box: 1, Folder: 29</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series I. Works</field>
+-    <field name="series_sim">Subseries IA. Ernie O'Malley</field>
+-    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O'Malley &gt;&gt; Poetry notebook</field>
++    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
++    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Poetry notebook</field>
+     <field name="heading_ssm">Poetry notebook</field>
+     <field name="unitdate_start_sim">1927</field>
+     <field name="unitdate_start_ssm">1927</field>

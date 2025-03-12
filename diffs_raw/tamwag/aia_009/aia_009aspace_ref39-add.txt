@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">George Harrison Papers</field>
+     <field name="collection_unitid_ssm">AIA.009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Dwyer, Paul: Political Campaigns</field>
+-    <field name="unittitle_teim">O'Dwyer, Paul: Political Campaigns</field>
++    <field name="unittitle_ssm">O&#39;Dwyer, Paul: Political Campaigns</field>
++    <field name="unittitle_teim">O&#39;Dwyer, Paul: Political Campaigns</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/2090</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/2090</field>
+     <field name="unitdate_normal_ssm">1965/1977</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 1, Folder: 22</field>
+     <field name="location_si">Box: 1, Folder: 22</field>
+     <field name="collection_teim">George Harrison Papers</field>
++    <field name="author_teim">Alice Naughton, Mary Kriock, Marion Casey, Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.009</field>
+     <field name="series_sim">Series I. Personal</field>
+-    <field name="series_si">Series I. Personal &gt;&gt; O'Dwyer, Paul: Political Campaigns</field>
+-    <field name="heading_ssm">O'Dwyer, Paul: Political Campaigns</field>
++    <field name="series_si">Series I. Personal &gt;&gt; O&#39;Dwyer, Paul: Political Campaigns</field>
++    <field name="heading_ssm">O&#39;Dwyer, Paul: Political Campaigns</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

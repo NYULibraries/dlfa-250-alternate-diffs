@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series X. Diaries, Notes and Research</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Notebook: untitled</field>
+@@ -21,7 +21,7 @@
+     <field name="unitid_ssm">/repositories/2/archival_objects/17455</field>
+     <field name="unitdate_teim">circa 1940-1950</field>
+     <field name="scopecontent_teim">Notebook containing copies of correspondence, interview notes, research notes, and original writings concerning Irish history during the 1921-1923 time period.</field>
+-    <field name="scopecontent_teim">This notebook contains 178 pages, 139 of which have writing.</field>
++    <field name="scopecontent_teim">This notebook contains 178 pages, 139 of which have writing. </field>
+     <field name="dao_teim">Notebook: untitled: circa 1940-1950</field>
+     <field name="dao_ssm">Notebook: untitled: circa 1940-1950</field>
+     <field name="ref_ssi">aspace_ref1486</field>
+@@ -33,7 +33,8 @@
+     <field name="location_ssm">Box: 13, Folder: 16A</field>
+     <field name="location_si">Box: 13, Folder: 16A</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series X. Diaries, Notes and Research</field>
+     <field name="series_si">Series X. Diaries, Notes and Research &gt;&gt; Notebook: untitled</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, "Yaddie Kaddie Kiddie Kaddie Koo" [] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, "That's How You Can Tell They're Irish" [] (Victor 18220-B)</field>
+-    <field name="unittitle_teim">Side A: Van and Schenck, "Yaddie Kaddie Kiddie Kaddie Koo" [] Side B: Van and Schenck, "That's How You Can Tell They're Irish" [] (Victor 18220-B)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, &#34;Yaddie Kaddie Kiddie Kaddie Koo&#34; [] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, &#34;That&#39;s How You Can Tell They&#39;re Irish&#34; [] (Victor 18220-B)
++</field>
++    <field name="unittitle_teim">Side A: Van and Schenck, &#34;Yaddie Kaddie Kiddie Kaddie Koo&#34; [] Side B: Van and Schenck, &#34;That&#39;s How You Can Tell They&#39;re Irish&#34; [] (Victor 18220-B)
++</field>
+     <field name="ref_ssi">aspace_ref3230</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,10 +27,13 @@
+     <field name="location_ssm">Box: 7, Folder: 4</field>
+     <field name="location_si">Box: 7, Folder: 4</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, "Yaddie Kaddie Kiddie Kaddie Koo" [] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, "That's How You Can Tell They're Irish" [] (Victor 18220-B)</field>
+-    <field name="heading_ssm">Side A: Van and Schenck, "Yaddie Kaddie Kiddie Kaddie Koo" [] Side B: Van and Schenck, "That's How You Can Tell They're Irish" [] (Victor 18220-B)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Van and Schenck, &#34;Yaddie Kaddie Kiddie Kaddie Koo&#34; [] &lt;strong&gt;Side B: &lt;/strong&gt;Van and Schenck, &#34;That&#39;s How You Can Tell They&#39;re Irish&#34; [] (Victor 18220-B)
++</field>
++    <field name="heading_ssm">Side A: Van and Schenck, &#34;Yaddie Kaddie Kiddie Kaddie Koo&#34; [] Side B: Van and Schenck, &#34;That&#39;s How You Can Tell They&#39;re Irish&#34; [] (Victor 18220-B)
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2479</field>
+   </doc>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_023</field>
+     <field name="parent_ssi">aspace_ref7</field>
+     <field name="parent_ssm">aspace_ref7</field>
+-    <field name="parent_unittitles_ssm">Inventory</field>
+-    <field name="parent_unittitles_teim">Inventory</field>
++    <field name="parent_unittitles_ssm">Inventory&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Inventory&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Irish Center Club of New York Records</field>
+@@ -28,9 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 6</field>
+     <field name="location_si">Box: 1, Folder: 6</field>
+     <field name="collection_teim">Irish Center Club of New York Records</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.023</field>
+-    <field name="series_sim">Inventory</field>
+-    <field name="series_si">Inventory &gt;&gt; Programs</field>
++    <field name="series_sim">Inventory&amp;#xA;</field>
++    <field name="series_si">Inventory
++ &gt;&gt; Programs</field>
+     <field name="heading_ssm">Programs</field>
+     <field name="unitdate_start_sim">1946</field>
+     <field name="unitdate_start_ssm">1946</field>
