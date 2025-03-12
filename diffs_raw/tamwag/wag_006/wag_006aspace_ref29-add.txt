@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">United Automobile Workers of America, District 65 Records</field>
+     <field name="collection_unitid_ssm">WAG.006</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Stewards' Council Proceedings</field>
+-    <field name="unittitle_teim">Stewards' Council Proceedings</field>
++    <field name="unittitle_ssm">Stewards&#39; Council Proceedings</field>
++    <field name="unittitle_teim">Stewards&#39; Council Proceedings</field>
+     <field name="unitdate_teim">Apr 1943-Jun 1943</field>
+     <field name="ref_ssi">aspace_ref29</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 6, Folder: 1</field>
+     <field name="location_si">Box: 6, Folder: 1</field>
+     <field name="collection_teim">United Automobile Workers of America, District 65 Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">WAG.006</field>
+     <field name="series_sim">Series I: Minutes, 1933-1969</field>
+-    <field name="series_si">Series I: Minutes, 1933-1969 &gt;&gt; Stewards' Council Proceedings</field>
+-    <field name="heading_ssm">Stewards' Council Proceedings</field>
++    <field name="series_si">Series I: Minutes, 1933-1969 &gt;&gt; Stewards&#39; Council Proceedings</field>
++    <field name="heading_ssm">Stewards&#39; Council Proceedings</field>
+     <field name="unitdate_ssm">Apr 1943-Jun 1943</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

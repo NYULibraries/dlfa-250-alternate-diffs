@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref3669</field>
+     <field name="parent_ssm">aspace_ref3893</field>
+     <field name="parent_unittitles_ssm">Series VIII: Departments/Divisions/Districts</field>
+-    <field name="parent_unittitles_ssm">Subseries VIII:B: CWA Organizing: James A. Beirne's Records, 1944-1974</field>
++    <field name="parent_unittitles_ssm">Subseries VIII:B: CWA Organizing: James A. Beirne&amp;#39;s Records, 1944-1974</field>
+     <field name="parent_unittitles_teim">Series VIII: Departments/Divisions/Districts</field>
+-    <field name="parent_unittitles_teim">Subseries VIII:B: CWA Organizing: James A. Beirne's Records, 1944-1974</field>
++    <field name="parent_unittitles_teim">Subseries VIII:B: CWA Organizing: James A. Beirne&amp;#39;s Records, 1944-1974</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Communications Workers of America Records</field>
+@@ -30,13 +30,16 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: 156, Folder:</field>
+-    <field name="location_si">Box: 156, Folder:</field>
++    <field name="location_ssm">Box: 156, Folder: 
++</field>
++    <field name="location_si">Box: 156, Folder: 
++</field>
+     <field name="collection_teim">Communications Workers of America Records</field>
++    <field name="author_teim">Jane Latour, Harry Berberian; Miriam Diamond; Yune-Ah Bahk; Jacqueline Seaberg; Bruce Kayton; Keri Myers.</field>
+     <field name="collection_unitid_teim">WAG.124</field>
+     <field name="series_sim">Series VIII: Departments/Divisions/Districts</field>
+-    <field name="series_sim">Subseries VIII:B: CWA Organizing: James A. Beirne's Records, 1944-1974</field>
+-    <field name="series_si">Series VIII: Departments/Divisions/Districts &gt;&gt; Subseries VIII:B: CWA Organizing: James A. Beirne's Records, 1944-1974 &gt;&gt; Campaign Materials: CWA v. IBEW; Western Electric</field>
++    <field name="series_sim">Subseries VIII:B: CWA Organizing: James A. Beirne&amp;#39;s Records, 1944-1974</field>
++    <field name="series_si">Series VIII: Departments/Divisions/Districts &gt;&gt; Subseries VIII:B: CWA Organizing: James A. Beirne&#39;s Records, 1944-1974 &gt;&gt; Campaign Materials: CWA v. IBEW; Western Electric</field>
+     <field name="heading_ssm">Campaign Materials: CWA v. IBEW; Western Electric</field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_ssm">1966</field>

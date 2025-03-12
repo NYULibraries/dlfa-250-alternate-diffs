@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,6 @@
+     <field name="unitdate_normal_ssm">1999/1999</field>
+     <field name="unitdate_normal_teim">1999/1999</field>
+     <field name="unitdate_normal_sim">1999/1999</field>
+-    <field name="unitdate_teim"></field>
+     <field name="unitdate_inclusive_teim">1999</field>
+     <field name="phystech_teim">Format: VHS, Duration: 13 min.</field>
+     <field name="ref_ssi">aspace_ref53</field>
+@@ -33,6 +32,7 @@
+     <field name="location_ssm">E-records: tamwag_wag285, E-records: cuid9043</field>
+     <field name="location_si">E-records: tamwag_wag285, E-records: cuid9043</field>
+     <field name="collection_teim">United Automobile Workers of America, Local 2110, New York University Graduate Student Organizing Committee (GSOC) Records</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">WAG.285</field>
+     <field name="series_sim">Series I: Records</field>
+     <field name="series_si">Series I: Records &gt;&gt; Video (NAFTA - Eye-Witness) [1 VHS copy]</field>
+@@ -43,7 +43,6 @@
+     <field name="unitdate_end_sim">1999</field>
+     <field name="unitdate_end_ssm">1999</field>
+     <field name="unitdate_end_si">1999</field>
+-    <field name="unitdate_ssm"></field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">38</field>
+   </doc>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Civil Service Technical Guild Records</field>
+     <field name="collection_unitid_ssm">WAG.024</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">CUNY Conference, "The Wages of Cybernation"</field>
+-    <field name="unittitle_teim">CUNY Conference, "The Wages of Cybernation"</field>
++    <field name="unittitle_ssm">CUNY Conference, &#34;The Wages of Cybernation&#34;</field>
++    <field name="unittitle_teim">CUNY Conference, &#34;The Wages of Cybernation&#34;</field>
+     <field name="unitdate_teim">Mar 1995</field>
+     <field name="ref_ssi">aspace_ref234</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 7, Folder: 27</field>
+     <field name="location_si">Box: 7, Folder: 27</field>
+     <field name="collection_teim">Civil Service Technical Guild Records</field>
++    <field name="author_teim">Anthonia Mattheou, Rob Dishon, Thomas Sarff, Louis Albano and Pete Mantione.</field>
+     <field name="collection_unitid_teim">WAG.024</field>
+     <field name="series_sim">Series VIII: General Files</field>
+-    <field name="series_si">Series VIII: General Files &gt;&gt; CUNY Conference, "The Wages of Cybernation"</field>
+-    <field name="heading_ssm">CUNY Conference, "The Wages of Cybernation"</field>
++    <field name="series_si">Series VIII: General Files &gt;&gt; CUNY Conference, &#34;The Wages of Cybernation&#34;</field>
++    <field name="heading_ssm">CUNY Conference, &#34;The Wages of Cybernation&#34;</field>
+     <field name="unitdate_ssm">Mar 1995</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">217</field>

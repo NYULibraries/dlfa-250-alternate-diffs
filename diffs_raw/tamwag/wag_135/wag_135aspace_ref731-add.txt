@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
+     <field name="collection_unitid_ssm">WAG.135</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Poor People's Campaign</field>
+-    <field name="unittitle_teim">Poor People's Campaign</field>
++    <field name="unittitle_ssm">Poor People&#39;s Campaign</field>
++    <field name="unittitle_teim">Poor People&#39;s Campaign</field>
+     <field name="unitdate_normal_ssm">1968/1968</field>
+     <field name="unitdate_normal_teim">1968/1968</field>
+     <field name="unitdate_normal_sim">1968/1968</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 22, Folder: 29</field>
+     <field name="location_si">Box: 22, Folder: 29</field>
+     <field name="collection_teim">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
++    <field name="author_teim">Jessica Weglein</field>
+     <field name="collection_unitid_teim">WAG.135</field>
+     <field name="series_sim">Series V: Local 3, Subjects</field>
+-    <field name="series_si">Series V: Local 3, Subjects &gt;&gt; Poor People's Campaign</field>
+-    <field name="heading_ssm">Poor People's Campaign</field>
++    <field name="series_si">Series V: Local 3, Subjects &gt;&gt; Poor People&#39;s Campaign</field>
++    <field name="heading_ssm">Poor People&#39;s Campaign</field>
+     <field name="unitdate_start_sim">1968</field>
+     <field name="unitdate_start_ssm">1968</field>
+     <field name="unitdate_start_si">1968</field>

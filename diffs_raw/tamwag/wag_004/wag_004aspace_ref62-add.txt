@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Michael Padwee Papers</field>
+     <field name="collection_unitid_ssm">WAG.004</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NAM: "Occasional Report"</field>
+-    <field name="unittitle_teim">NAM: "Occasional Report"</field>
++    <field name="unittitle_ssm">NAM: &#34;Occasional Report&#34;</field>
++    <field name="unittitle_teim">NAM: &#34;Occasional Report&#34;</field>
+     <field name="unitdate_normal_ssm">1972/1973</field>
+     <field name="unitdate_normal_teim">1972/1973</field>
+     <field name="unitdate_normal_sim">1972/1973</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 8</field>
+     <field name="location_si">Box: 2, Folder: 8</field>
+     <field name="collection_teim">Michael Padwee Papers</field>
++    <field name="author_teim">Raymond T. Kupke, 1983 and Susan Tofte, 2005</field>
+     <field name="collection_unitid_teim">WAG.004</field>
+     <field name="series_sim">Series I: Political Activity</field>
+-    <field name="series_si">Series I: Political Activity &gt;&gt; NAM: "Occasional Report"</field>
+-    <field name="heading_ssm">NAM: "Occasional Report"</field>
++    <field name="series_si">Series I: Political Activity &gt;&gt; NAM: &#34;Occasional Report&#34;</field>
++    <field name="heading_ssm">NAM: &#34;Occasional Report&#34;</field>
+     <field name="unitdate_start_sim">1972</field>
+     <field name="unitdate_start_ssm">1972</field>
+     <field name="unitdate_start_si">1972</field>

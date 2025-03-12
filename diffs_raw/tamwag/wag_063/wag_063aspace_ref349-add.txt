@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Communications Workers of America, Local 1180 Records</field>
+     <field name="collection_unitid_ssm">WAG.063</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Stewards' Training</field>
+-    <field name="unittitle_teim">Stewards' Training</field>
++    <field name="unittitle_ssm">Stewards&#39; Training</field>
++    <field name="unittitle_teim">Stewards&#39; Training</field>
+     <field name="unitdate_normal_ssm">1967/1973</field>
+     <field name="unitdate_normal_teim">1967/1973</field>
+     <field name="unitdate_normal_sim">1967/1973</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 11, Folder: 15</field>
+     <field name="location_si">Box: 11, Folder: 15</field>
+     <field name="collection_teim">Communications Workers of America, Local 1180 Records</field>
++    <field name="author_teim">Finding aid prepared by Aaron Taub and Gail Malmgreen, 1996.</field>
+     <field name="collection_unitid_teim">WAG.063</field>
+     <field name="series_sim">Series IV: General Files</field>
+-    <field name="series_si">Series IV: General Files &gt;&gt; Stewards' Training</field>
+-    <field name="heading_ssm">Stewards' Training</field>
++    <field name="series_si">Series IV: General Files &gt;&gt; Stewards&#39; Training</field>
++    <field name="heading_ssm">Stewards&#39; Training</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>
+     <field name="unitdate_start_si">1967</field>

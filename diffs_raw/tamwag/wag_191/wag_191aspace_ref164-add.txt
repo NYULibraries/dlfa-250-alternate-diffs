@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Organization of Staff Analysts Records</field>
+     <field name="collection_unitid_ssm">WAG.191</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Comptroller's Office: City of New York and OSA Survey</field>
+-    <field name="unittitle_teim">Comptroller's Office: City of New York and OSA Survey</field>
++    <field name="unittitle_ssm">Comptroller&#39;s Office: City of New York and OSA Survey</field>
++    <field name="unittitle_teim">Comptroller&#39;s Office: City of New York and OSA Survey</field>
+     <field name="unitdate_normal_ssm">1992/1992</field>
+     <field name="unitdate_normal_teim">1992/1992</field>
+     <field name="unitdate_normal_sim">1992/1992</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 8, Folder: 12</field>
+     <field name="location_si">Box: 8, Folder: 12</field>
+     <field name="collection_teim">Organization of Staff Analysts Records</field>
++    <field name="author_teim">Kevyne Baar</field>
+     <field name="collection_unitid_teim">WAG.191</field>
+     <field name="series_sim">Series II: General Files</field>
+-    <field name="series_si">Series II: General Files &gt;&gt; Comptroller's Office: City of New York and OSA Survey</field>
+-    <field name="heading_ssm">Comptroller's Office: City of New York and OSA Survey</field>
++    <field name="series_si">Series II: General Files &gt;&gt; Comptroller&#39;s Office: City of New York and OSA Survey</field>
++    <field name="heading_ssm">Comptroller&#39;s Office: City of New York and OSA Survey</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

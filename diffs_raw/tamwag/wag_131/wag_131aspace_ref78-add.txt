@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1935/2002</field>
+     <field name="unitdate_normal_sim">1935/2002</field>
+     <field name="unitdate_inclusive_teim">1935-2002, undated</field>
+-    <field name="scopecontent_teim">This series contains correspondence, memoranda, minutes, booklets, pamphlets, notices, posters, VHS cassettes, and photographs documenting aspects of the Local's role in bargaining and negotiating on behalf of its members.</field>
++    <field name="scopecontent_teim">This series contains correspondence, memoranda, minutes, booklets, pamphlets, notices, posters, VHS cassettes, and photographs documenting aspects of the Local&#39;s role in bargaining and negotiating on behalf of its members.</field>
+     <field name="ref_ssi">aspace_ref78</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Utility Workers Union of America, Local 1-2 Records</field>
++    <field name="author_teim">Maria Concepcion, Jane Latour and Gail Malmgreen</field>
+     <field name="collection_unitid_teim">WAG.131</field>
+     <field name="series_si">Series V: Bargaining Records</field>
+     <field name="heading_ssm">Series V: Bargaining Records</field>

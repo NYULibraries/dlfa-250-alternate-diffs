@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">International Brotherhood of Painters and Allied Trades, District Council 9: Trusteeship Records</field>
+     <field name="collection_unitid_ssm">WAG.149</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Trustee's Reports</field>
+-    <field name="unittitle_teim">Trustee's Reports</field>
++    <field name="unittitle_ssm">Trustee&#39;s Reports</field>
++    <field name="unittitle_teim">Trustee&#39;s Reports</field>
+     <field name="unitdate_teim">Mar 24, 1991-Jun 26, 1992</field>
+     <field name="ref_ssi">aspace_ref89</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">International Brotherhood of Painters and Allied Trades, District Council 9: Trusteeship Records</field>
++    <field name="author_teim">Ted Casselman, Jane LaTour, 1999 and Hillel Arnold, 2008</field>
+     <field name="collection_unitid_teim">WAG.149</field>
+     <field name="series_sim">Series I: General Files, 1975-1995.</field>
+-    <field name="series_si">Series I: General Files, 1975-1995. &gt;&gt; Trustee's Reports</field>
+-    <field name="heading_ssm">Trustee's Reports</field>
++    <field name="series_si">Series I: General Files, 1975-1995. &gt;&gt; Trustee&#39;s Reports</field>
++    <field name="heading_ssm">Trustee&#39;s Reports</field>
+     <field name="unitdate_ssm">Mar 24, 1991-Jun 26, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">76</field>

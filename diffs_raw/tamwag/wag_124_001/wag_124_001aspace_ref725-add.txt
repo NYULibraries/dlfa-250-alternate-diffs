@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Communications Workers of America Records Addendum</field>
+     <field name="collection_unitid_ssm">WAG.124.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Committee on the Future: Meeting III (Charles Savage's Notes)</field>
+-    <field name="unittitle_teim">Committee on the Future: Meeting III (Charles Savage's Notes)</field>
++    <field name="unittitle_ssm">Committee on the Future: Meeting III (Charles Savage&#39;s Notes)</field>
++    <field name="unittitle_teim">Committee on the Future: Meeting III (Charles Savage&#39;s Notes)</field>
+     <field name="unitdate_teim">Dec 8, 1981-Dec 11, 1981</field>
+     <field name="ref_ssi">aspace_ref725</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 25, Folder: 18</field>
+     <field name="location_si">Box: 25, Folder: 18</field>
+     <field name="collection_teim">Communications Workers of America Records Addendum</field>
++    <field name="author_teim">Marcia Bassett and Adam Schafenberg, 2005-2006</field>
+     <field name="collection_unitid_teim">WAG.124.001</field>
+     <field name="series_sim">Series I: Files of the Presidents Office, 1970-1998.</field>
+     <field name="series_sim">Subseries I:C: General Files, 1970-1996.</field>
+-    <field name="series_si">Series I: Files of the Presidents Office, 1970-1998. &gt;&gt; Subseries I:C: General Files, 1970-1996. &gt;&gt; Committee on the Future: Meeting III (Charles Savage's Notes)</field>
+-    <field name="heading_ssm">Committee on the Future: Meeting III (Charles Savage's Notes)</field>
++    <field name="series_si">Series I: Files of the Presidents Office, 1970-1998. &gt;&gt; Subseries I:C: General Files, 1970-1996. &gt;&gt; Committee on the Future: Meeting III (Charles Savage&#39;s Notes)</field>
++    <field name="heading_ssm">Committee on the Future: Meeting III (Charles Savage&#39;s Notes)</field>
+     <field name="unitdate_ssm">Dec 8, 1981-Dec 11, 1981</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">713</field>

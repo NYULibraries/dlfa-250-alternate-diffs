@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series II: Audio Recordings</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Southern Tenant Farmers' Union Collection</field>
+-    <field name="collection_ssm">Southern Tenant Farmers' Union Collection</field>
++    <field name="collection_sim">Southern Tenant Farmers&#39; Union Collection</field>
++    <field name="collection_ssm">Southern Tenant Farmers&#39; Union Collection</field>
+     <field name="collection_unitid_ssm">WAG.329</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Thomas, Norman: End</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 13, Cassette: C114B</field>
+     <field name="location_si">Box: 13, Cassette: C114B</field>
+-    <field name="collection_teim">Southern Tenant Farmers' Union Collection</field>
++    <field name="collection_teim">Southern Tenant Farmers&#39; Union Collection</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">WAG.329</field>
+     <field name="series_sim">Series II: Audio Recordings</field>
+     <field name="series_si">Series II: Audio Recordings &gt;&gt; Thomas, Norman: End</field>

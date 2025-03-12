@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Transport Workers Union of America: Locals Records</field>
+     <field name="collection_unitid_ssm">WAG.234</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Power Plants, Sale of: Mayor's Committee Reports</field>
+-    <field name="unittitle_teim">Power Plants, Sale of: Mayor's Committee Reports</field>
++    <field name="unittitle_ssm">Power Plants, Sale of: Mayor&#39;s Committee Reports</field>
++    <field name="unittitle_teim">Power Plants, Sale of: Mayor&#39;s Committee Reports</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/353050</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/353050</field>
+     <field name="unitdate_teim">Sep 10, 1957</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 38, Folder: 11</field>
+     <field name="location_si">Box: 38, Folder: 11</field>
+     <field name="collection_teim">Transport Workers Union of America: Locals Records</field>
++    <field name="author_teim">Gail Dancy, Mikhail Pitkis, and Gail Malmgreen.</field>
+     <field name="collection_unitid_teim">WAG.234</field>
+     <field name="series_sim">Series I: Records of TWU Local 100 (New York City), 1931-1978.</field>
+-    <field name="series_si">Series I: Records of TWU Local 100 (New York City), 1931-1978. &gt;&gt; Power Plants, Sale of: Mayor's Committee Reports</field>
+-    <field name="heading_ssm">Power Plants, Sale of: Mayor's Committee Reports</field>
++    <field name="series_si">Series I: Records of TWU Local 100 (New York City), 1931-1978. &gt;&gt; Power Plants, Sale of: Mayor&#39;s Committee Reports</field>
++    <field name="heading_ssm">Power Plants, Sale of: Mayor&#39;s Committee Reports</field>
+     <field name="unitdate_ssm">Sep 10, 1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1123</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Labor Theater Records</field>
+     <field name="collection_unitid_ssm">WAG.033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Dont Cry, Child, Your Father's In America: Publicity</field>
+-    <field name="unittitle_teim">Dont Cry, Child, Your Father's In America: Publicity</field>
++    <field name="unittitle_ssm">Dont Cry, Child, Your Father&#39;s In America: Publicity</field>
++    <field name="unittitle_teim">Dont Cry, Child, Your Father&#39;s In America: Publicity</field>
+     <field name="unitdate_teim">1977</field>
+     <field name="ref_ssi">aspace_ref137</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 21</field>
+     <field name="location_si">Box: 4, Folder: 21</field>
+     <field name="collection_teim">Labor Theater Records</field>
++    <field name="author_teim">Claire Freedman (1985); Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description (2013)</field>
+     <field name="collection_unitid_teim">WAG.033</field>
+     <field name="series_sim">Series II: Productions</field>
+-    <field name="series_si">Series II: Productions &gt;&gt; Dont Cry, Child, Your Father's In America: Publicity</field>
+-    <field name="heading_ssm">Dont Cry, Child, Your Father's In America: Publicity</field>
++    <field name="series_si">Series II: Productions &gt;&gt; Dont Cry, Child, Your Father&#39;s In America: Publicity</field>
++    <field name="heading_ssm">Dont Cry, Child, Your Father&#39;s In America: Publicity</field>
+     <field name="unitdate_ssm">1977</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">135</field>

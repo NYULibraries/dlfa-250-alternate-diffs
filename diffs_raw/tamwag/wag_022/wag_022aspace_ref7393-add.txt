@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref6002</field>
+     <field name="parent_ssm">aspace_ref6331</field>
+     <field name="parent_unittitles_ssm">Series VII: Subject Files</field>
+-    <field name="parent_unittitles_ssm">Subseries VII:B: President's Office Subject Files</field>
++    <field name="parent_unittitles_ssm">Subseries VII:B: President&amp;#39;s Office Subject Files</field>
+     <field name="parent_unittitles_teim">Series VII: Subject Files</field>
+-    <field name="parent_unittitles_teim">Subseries VII:B: President's Office Subject Files</field>
++    <field name="parent_unittitles_teim">Subseries VII:B: President&amp;#39;s Office Subject Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">United Federation of Teachers Records</field>
+@@ -33,10 +33,11 @@
+     <field name="location_ssm">Box: 248, Folder: 21</field>
+     <field name="location_si">Box: 248, Folder: 21</field>
+     <field name="collection_teim">United Federation of Teachers Records</field>
++    <field name="author_teim">Evan Daniel, Jessica Drmacich, Ted Casselman, Alix Ross, Nicholas Popolo, Thomas Dickson, Rachel Menyuk, Marie Stango and Gail Malmgreen (2009); Edited to include materials newly accessioned materials (2014)</field>
+     <field name="collection_unitid_teim">WAG.022</field>
+     <field name="series_sim">Series VII: Subject Files</field>
+-    <field name="series_sim">Subseries VII:B: President's Office Subject Files</field>
+-    <field name="series_si">Series VII: Subject Files &gt;&gt; Subseries VII:B: President's Office Subject Files &gt;&gt; New Math</field>
++    <field name="series_sim">Subseries VII:B: President&amp;#39;s Office Subject Files</field>
++    <field name="series_si">Series VII: Subject Files &gt;&gt; Subseries VII:B: President&#39;s Office Subject Files &gt;&gt; New Math</field>
+     <field name="heading_ssm">New Math</field>
+     <field name="unitdate_start_sim">1973</field>
+     <field name="unitdate_start_ssm">1973</field>

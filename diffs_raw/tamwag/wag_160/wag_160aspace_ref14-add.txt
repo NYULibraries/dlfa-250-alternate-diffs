@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1952/1953</field>
+     <field name="unitdate_normal_sim">1952/1953</field>
+     <field name="unitdate_inclusive_teim">1952-1953</field>
+-    <field name="scopecontent_teim">Details the activities of the Chicago JLC. Includes newspaper clippings and announcements concerning the JLC's Joseph Germano Testimonial Dinner.</field>
++    <field name="scopecontent_teim">Details the activities of the Chicago JLC. Includes newspaper clippings and announcements concerning the JLC&#39;s Joseph Germano Testimonial Dinner.</field>
+     <field name="ref_ssi">aspace_ref14</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jewish Labor Committee, Chicago Records and Photographs</field>
++    <field name="author_teim">Cara Brick</field>
+     <field name="collection_unitid_teim">WAG.160</field>
+     <field name="series_si">Series II: Scrapbook</field>
+     <field name="heading_ssm">Series II: Scrapbook</field>

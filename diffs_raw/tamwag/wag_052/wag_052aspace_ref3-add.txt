@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Local 28 Meeting</field>
+     <field name="unittitle_teim">Local 28 Meeting</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Recording of a meeting of Local 28 of the Sheet Metal Workers International Association. A prominent topic is "lessening the effect of adverse publicity," and the discussion includes the union's attorney Richard N. Goodman.</field>
++    <field name="scopecontent_teim">Recording of a meeting of Local 28 of the Sheet Metal Workers International Association. A prominent topic is &#34;lessening the effect of adverse publicity,&#34; and the discussion includes the union&#39;s attorney Richard N. Goodman.</field>
+     <field name="ref_ssi">aspace_ref3</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>

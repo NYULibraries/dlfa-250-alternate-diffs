@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_011</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Actors' Equity Association Records</field>
+-    <field name="collection_ssm">Actors' Equity Association Records</field>
++    <field name="collection_sim">Actors&#39; Equity Association Records</field>
++    <field name="collection_ssm">Actors&#39; Equity Association Records</field>
+     <field name="collection_unitid_ssm">WAG.011</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VIII: Oversized/Scrapbooks</field>
+@@ -20,7 +20,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Actors' Equity Association Records</field>
++    <field name="collection_teim">Actors&#39; Equity Association Records</field>
++    <field name="author_teim">K. Kevyne Baar, 2003-2006. Preliminary processing by Martha S. Lo Monaco and Miriam Frank, 1987. </field>
+     <field name="collection_unitid_teim">WAG.011</field>
+     <field name="series_si">Series VIII: Oversized/Scrapbooks</field>
+     <field name="heading_ssm">Series VIII: Oversized/Scrapbooks</field>

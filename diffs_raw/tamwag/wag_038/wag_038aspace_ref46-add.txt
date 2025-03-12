@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">/repositories/2/archival_objects/305728</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/305728</field>
+     <field name="unitdate_teim">1980s-mid 2000s</field>
+-    <field name="scopecontent_teim">Series VI: Organizing Department Files, 1980s-mid 2000s consists mostly of the records of the Organizing Department's records of the 1980s-1990s under Organizing Director Marvin Moschel.</field>
++    <field name="scopecontent_teim">Series VI: Organizing Department Files, 1980s-mid 2000s consists mostly of the records of the Organizing Department&#39;s records of the 1980s-1990s under Organizing Director Marvin Moschel.</field>
+     <field name="ref_ssi">aspace_ref46</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">American Federation of Musicians, Local 802 Records</field>
++    <field name="author_teim">Daniel Michelson</field>
+     <field name="collection_unitid_teim">WAG.038</field>
+     <field name="series_si">Series VI: Organizing Department Files</field>
+     <field name="heading_ssm">Series VI: Organizing Department Files</field>

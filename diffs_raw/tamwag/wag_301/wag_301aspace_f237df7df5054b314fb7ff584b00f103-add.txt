@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_301</field>
+     <field name="parent_ssi">aspace_c6d17f47c58fbbce3e1ad2ddf8d946f5</field>
+     <field name="parent_ssm">aspace_c6d17f47c58fbbce3e1ad2ddf8d946f5</field>
+-    <field name="parent_unittitles_ssm">Series IV: Post-9/11 Chinatown &amp; Lower Manhattan Development Corporation</field>
+-    <field name="parent_unittitles_teim">Series IV: Post-9/11 Chinatown &amp; Lower Manhattan Development Corporation</field>
++    <field name="parent_unittitles_ssm">Series IV: Post-9/11 Chinatown &amp;amp; Lower Manhattan Development Corporation</field>
++    <field name="parent_unittitles_teim">Series IV: Post-9/11 Chinatown &amp;amp; Lower Manhattan Development Corporation</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">May Chen Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">May Chen Papers</field>
+     <field name="collection_unitid_ssm">WAG.301</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City's Recovery from September 11</field>
+-    <field name="unittitle_teim">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City's Recovery from September 11</field>
++    <field name="unittitle_ssm">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City&#39;s Recovery from September 11</field>
++    <field name="unittitle_teim">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City&#39;s Recovery from September 11</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/949668</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/949668</field>
+     <field name="unitdate_normal_ssm">2003/2003</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 37, Folder: 3</field>
+     <field name="location_si">Box: 37, Folder: 3</field>
+     <field name="collection_teim">May Chen Papers</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">WAG.301</field>
+-    <field name="series_sim">Series IV: Post-9/11 Chinatown &amp; Lower Manhattan Development Corporation</field>
+-    <field name="series_si">Series IV: Post-9/11 Chinatown &amp; Lower Manhattan Development Corporation &gt;&gt; Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City's Recovery from September 11</field>
+-    <field name="heading_ssm">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City's Recovery from September 11</field>
++    <field name="series_sim">Series IV: Post-9/11 Chinatown &amp;amp; Lower Manhattan Development Corporation</field>
++    <field name="series_si">Series IV: Post-9/11 Chinatown &amp; Lower Manhattan Development Corporation &gt;&gt; Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City&#39;s Recovery from September 11</field>
++    <field name="heading_ssm">Moving On: Chinese Garment Workers after Septembe 11 - Working Paper for the Social Impact Working Group on New York City&#39;s Recovery from September 11</field>
+     <field name="unitdate_start_sim">2003</field>
+     <field name="unitdate_start_ssm">2003</field>
+     <field name="unitdate_start_si">2003</field>

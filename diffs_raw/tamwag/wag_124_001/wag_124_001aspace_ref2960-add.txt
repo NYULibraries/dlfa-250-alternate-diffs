@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Communications Workers of America Records Addendum</field>
+     <field name="collection_unitid_ssm">WAG.124.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">AT&amp;T: Our Pay and Benefits Didn't Just Fall from the Sky</field>
+-    <field name="unittitle_teim">AT&amp;T: Our Pay and Benefits Didn't Just Fall from the Sky</field>
++    <field name="unittitle_ssm">AT&amp;T: Our Pay and Benefits Didn&#39;t Just Fall from the Sky</field>
++    <field name="unittitle_teim">AT&amp;T: Our Pay and Benefits Didn&#39;t Just Fall from the Sky</field>
+     <field name="unitdate_normal_ssm">1989/1989</field>
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 101, Folder: 10</field>
+     <field name="location_si">Box: 101, Folder: 10</field>
+     <field name="collection_teim">Communications Workers of America Records Addendum</field>
++    <field name="author_teim">Marcia Bassett and Adam Schafenberg, 2005-2006</field>
+     <field name="collection_unitid_teim">WAG.124.001</field>
+     <field name="series_sim">Series III: Files of Vice-President John C. Carroll, 1958-1992.</field>
+-    <field name="series_si">Series III: Files of Vice-President John C. Carroll, 1958-1992. &gt;&gt; AT&amp;T: Our Pay and Benefits Didn't Just Fall from the Sky</field>
+-    <field name="heading_ssm">AT&amp;T: Our Pay and Benefits Didn't Just Fall from the Sky</field>
++    <field name="series_si">Series III: Files of Vice-President John C. Carroll, 1958-1992. &gt;&gt; AT&amp;T: Our Pay and Benefits Didn&#39;t Just Fall from the Sky</field>
++    <field name="heading_ssm">AT&amp;T: Our Pay and Benefits Didn&#39;t Just Fall from the Sky</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>
+     <field name="unitdate_start_si">1989</field>

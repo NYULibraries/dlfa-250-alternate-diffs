@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Newspaper Guild of New York Records</field>
+     <field name="collection_unitid_ssm">WAG.125</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Standard &amp; Poor's</field>
+-    <field name="unittitle_teim">Standard &amp; Poor's</field>
++    <field name="unittitle_ssm">Standard &amp; Poor&#39;s</field>
++    <field name="unittitle_teim">Standard &amp; Poor&#39;s</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/336643</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/336643</field>
+     <field name="ref_ssi">aspace_ref5505</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 315</field>
+     <field name="location_si">Box: 315</field>
+     <field name="collection_teim">Newspaper Guild of New York Records</field>
++    <field name="author_teim">Finding aid prepared by Janet Greene, circa 1999; Hillel Arnold, Elizabeth Du Rocher, and Susan Tofte, 2007-2008; Daniel Michelson, 2011. Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description; updated to include materials integrated from accession 1986.019, 2013.</field>
+     <field name="collection_unitid_teim">WAG.125</field>
+     <field name="series_sim">Series V: Shop Files</field>
+     <field name="series_sim">Subseries V:A: General Shop Files, 1951-1998.</field>
+-    <field name="series_si">Series V: Shop Files &gt;&gt; Subseries V:A: General Shop Files, 1951-1998. &gt;&gt; Standard &amp; Poor's</field>
+-    <field name="heading_ssm">Standard &amp; Poor's</field>
++    <field name="series_si">Series V: Shop Files &gt;&gt; Subseries V:A: General Shop Files, 1951-1998. &gt;&gt; Standard &amp; Poor&#39;s</field>
++    <field name="heading_ssm">Standard &amp; Poor&#39;s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5484</field>
+   </doc>

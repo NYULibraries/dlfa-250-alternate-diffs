@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Communications Workers of America Records</field>
+     <field name="collection_unitid_ssm">WAG.124</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">AT&amp;T Study: Supervisors' Manuals</field>
+-    <field name="unittitle_teim">AT&amp;T Study: Supervisors' Manuals</field>
++    <field name="unittitle_ssm">AT&amp;T Study: Supervisors&#39; Manuals</field>
++    <field name="unittitle_teim">AT&amp;T Study: Supervisors&#39; Manuals</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/320392</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/320392</field>
+     <field name="unitdate_normal_ssm">1919/1989</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 148, Folder: 10</field>
+     <field name="location_si">Box: 148, Folder: 10</field>
+     <field name="collection_teim">Communications Workers of America Records</field>
++    <field name="author_teim">Jane Latour, Harry Berberian; Miriam Diamond; Yune-Ah Bahk; Jacqueline Seaberg; Bruce Kayton; Keri Myers.</field>
+     <field name="collection_unitid_teim">WAG.124</field>
+     <field name="series_sim">Series VIII: Departments/Divisions/Districts</field>
+     <field name="series_sim">Subseries VIII:A: John Morgan Records, 1961-1977</field>
+-    <field name="series_si">Series VIII: Departments/Divisions/Districts &gt;&gt; Subseries VIII:A: John Morgan Records, 1961-1977 &gt;&gt; AT&amp;T Study: Supervisors' Manuals</field>
+-    <field name="heading_ssm">AT&amp;T Study: Supervisors' Manuals</field>
++    <field name="series_si">Series VIII: Departments/Divisions/Districts &gt;&gt; Subseries VIII:A: John Morgan Records, 1961-1977 &gt;&gt; AT&amp;T Study: Supervisors&#39; Manuals</field>
++    <field name="heading_ssm">AT&amp;T Study: Supervisors&#39; Manuals</field>
+     <field name="unitdate_start_sim">1919</field>
+     <field name="unitdate_start_ssm">1919</field>
+     <field name="unitdate_start_si">1919</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Rocky Chin Papers</field>
+     <field name="collection_unitid_ssm">WAG.325</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Obama '08</field>
+-    <field name="unittitle_teim">Obama '08</field>
++    <field name="unittitle_ssm">Obama &#39;08</field>
++    <field name="unittitle_teim">Obama &#39;08</field>
+     <field name="unitdate_normal_ssm">2008/2008</field>
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 20, Folder: 9</field>
+     <field name="location_si">Box: 20, Folder: 9</field>
+     <field name="collection_teim">Rocky Chin Papers</field>
++    <field name="author_teim">Rachel Schimke, Amy C. Vo</field>
+     <field name="collection_unitid_teim">WAG.325</field>
+     <field name="series_sim">Series I. Activism</field>
+-    <field name="series_si">Series I. Activism &gt;&gt; Obama '08</field>
+-    <field name="heading_ssm">Obama '08</field>
++    <field name="series_si">Series I. Activism &gt;&gt; Obama &#39;08</field>
++    <field name="heading_ssm">Obama &#39;08</field>
+     <field name="unitdate_start_sim">2008</field>
+     <field name="unitdate_start_ssm">2008</field>
+     <field name="unitdate_start_si">2008</field>

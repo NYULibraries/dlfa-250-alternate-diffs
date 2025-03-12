@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Social Service Employees Union Records</field>
+     <field name="collection_unitid_ssm">WAG.003</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Handwritten notes referred to as "scrap notes"</field>
+-    <field name="unittitle_teim">Handwritten notes referred to as "scrap notes"</field>
++    <field name="unittitle_ssm">Handwritten notes referred to as &#34;scrap notes&#34;</field>
++    <field name="unittitle_teim">Handwritten notes referred to as &#34;scrap notes&#34;</field>
+     <field name="unitdate_normal_ssm">1969/1969</field>
+     <field name="unitdate_normal_teim">1969/1969</field>
+     <field name="unitdate_normal_sim">1969/1969</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 13</field>
+     <field name="location_si">Box: 5, Folder: 13</field>
+     <field name="collection_teim">Social Service Employees Union Records</field>
++    <field name="author_teim">K. Kevyne Baar</field>
+     <field name="collection_unitid_teim">WAG.003</field>
+     <field name="series_sim">Series II: Bargaining Files and Related Arbitration Cases</field>
+-    <field name="series_si">Series II: Bargaining Files and Related Arbitration Cases &gt;&gt; Handwritten notes referred to as "scrap notes"</field>
+-    <field name="heading_ssm">Handwritten notes referred to as "scrap notes"</field>
++    <field name="series_si">Series II: Bargaining Files and Related Arbitration Cases &gt;&gt; Handwritten notes referred to as &#34;scrap notes&#34;</field>
++    <field name="heading_ssm">Handwritten notes referred to as &#34;scrap notes&#34;</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

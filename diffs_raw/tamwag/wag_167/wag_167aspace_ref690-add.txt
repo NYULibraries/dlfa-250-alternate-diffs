@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Building Congress Records</field>
+     <field name="collection_unitid_ssm">WAG.167</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Decision '89" (NYBC)</field>
+-    <field name="unittitle_teim">"Decision '89" (NYBC)</field>
++    <field name="unittitle_ssm">&#34;Decision &#39;89&#34; (NYBC)</field>
++    <field name="unittitle_teim">&#34;Decision &#39;89&#34; (NYBC)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/343355</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/343355</field>
+     <field name="unitdate_normal_ssm">1989/1989</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 12, Folder: 13</field>
+     <field name="location_si">Box: 12, Folder: 13</field>
+     <field name="collection_teim">New York Building Congress Records</field>
++    <field name="author_teim">Finding aid prepared by Daniel Michelson, Rachel Menyuk, Ted Casselman, Maggie Schreiner and Gail Malmgreen (2010-2011); 2012 addendum by Rachel Schimke.</field>
+     <field name="collection_unitid_teim">WAG.167</field>
+     <field name="series_sim">Series III: General Files</field>
+-    <field name="series_si">Series III: General Files &gt;&gt; "Decision '89" (NYBC)</field>
+-    <field name="heading_ssm">"Decision '89" (NYBC)</field>
++    <field name="series_si">Series III: General Files &gt;&gt; &#34;Decision &#39;89&#34; (NYBC)</field>
++    <field name="heading_ssm">&#34;Decision &#39;89&#34; (NYBC)</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>
+     <field name="unitdate_start_si">1989</field>

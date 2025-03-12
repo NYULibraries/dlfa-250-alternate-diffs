@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+     <field name="collection_unitid_ssm">WAG.029</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Workers' Compensation Minutes</field>
+-    <field name="unittitle_teim">Workers' Compensation Minutes</field>
++    <field name="unittitle_ssm">Workers&#39; Compensation Minutes</field>
++    <field name="unittitle_teim">Workers&#39; Compensation Minutes</field>
+     <field name="unitid_teim">cuid7636</field>
+     <field name="unitid_ssm">cuid7636</field>
+     <field name="unitdate_normal_ssm">1981/1982</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
++    <field name="author_teim">Tamiment staff. </field>
+     <field name="collection_unitid_teim">WAG.029</field>
+     <field name="series_sim">Series I: Management</field>
+-    <field name="series_si">Series I: Management &gt;&gt; Workers' Compensation Minutes</field>
+-    <field name="heading_ssm">Workers' Compensation Minutes</field>
++    <field name="series_si">Series I: Management &gt;&gt; Workers&#39; Compensation Minutes</field>
++    <field name="heading_ssm">Workers&#39; Compensation Minutes</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

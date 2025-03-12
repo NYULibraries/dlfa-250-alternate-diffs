@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_038</field>
+     <field name="parent_ssi">aspace_ref19</field>
+     <field name="parent_ssm">aspace_ref19</field>
+-    <field name="parent_unittitles_ssm">Series II: President's Office Files</field>
+-    <field name="parent_unittitles_teim">Series II: President's Office Files</field>
++    <field name="parent_unittitles_ssm">Series II: President&amp;#39;s Office Files</field>
++    <field name="parent_unittitles_teim">Series II: President&amp;#39;s Office Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">American Federation of Musicians, Local 802 Records</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">American Federation of Musicians, Local 802 Records</field>
+     <field name="collection_unitid_ssm">WAG.038</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">President's Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
+-    <field name="unittitle_teim">President's Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
++    <field name="unittitle_ssm">President&#39;s Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
++    <field name="unittitle_teim">President&#39;s Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/305627</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/305627</field>
+     <field name="unitdate_normal_ssm">1990/1999</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 20</field>
+     <field name="location_si">Box: 20</field>
+     <field name="collection_teim">American Federation of Musicians, Local 802 Records</field>
++    <field name="author_teim">Daniel Michelson</field>
+     <field name="collection_unitid_teim">WAG.038</field>
+-    <field name="series_sim">Series II: President's Office Files</field>
+-    <field name="series_si">Series II: President's Office Files &gt;&gt; President's Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
+-    <field name="heading_ssm">President's Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
++    <field name="series_sim">Series II: President&amp;#39;s Office Files</field>
++    <field name="series_si">Series II: President&#39;s Office Files &gt;&gt; President&#39;s Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
++    <field name="heading_ssm">President&#39;s Advisory Committee, Public Relations Task Force -- Hotels, Regionalization Committee, and Non-Union Touring Musical Shows</field>
+     <field name="unitdate_start_sim">1990</field>
+     <field name="unitdate_start_ssm">1990</field>
+     <field name="unitdate_start_si">1990</field>

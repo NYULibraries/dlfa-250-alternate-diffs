@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">American Postal Workers Union: Moe Biller Records</field>
+     <field name="collection_unitid_ssm">WAG.099</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Bowing to Billerism and Other Matters": &lt;em&gt;Fortune&lt;/em&gt; Magazine</field>
+-    <field name="unittitle_teim">"Bowing to Billerism and Other Matters": Fortune Magazine</field>
++    <field name="unittitle_ssm">&#34;Bowing to Billerism and Other Matters&#34;: &lt;em&gt;Fortune&lt;/em&gt; Magazine</field>
++    <field name="unittitle_teim">&#34;Bowing to Billerism and Other Matters&#34;: Fortune Magazine</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/312234</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/312234</field>
+     <field name="unitdate_teim">Jun 1992</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 1, Folder: 24</field>
+     <field name="location_si">Box: 1, Folder: 24</field>
+     <field name="collection_teim">American Postal Workers Union: Moe Biller Records</field>
++    <field name="author_teim">Ted Casselman, 2009.</field>
+     <field name="collection_unitid_teim">WAG.099</field>
+     <field name="series_sim">Series I: Subject Files, 1930-2001</field>
+-    <field name="series_si">Series I: Subject Files, 1930-2001 &gt;&gt; "Bowing to Billerism and Other Matters": &lt;em&gt;Fortune&lt;/em&gt; Magazine</field>
+-    <field name="heading_ssm">"Bowing to Billerism and Other Matters": Fortune Magazine</field>
++    <field name="series_si">Series I: Subject Files, 1930-2001 &gt;&gt; &#34;Bowing to Billerism and Other Matters&#34;: &lt;em&gt;Fortune&lt;/em&gt; Magazine</field>
++    <field name="heading_ssm">&#34;Bowing to Billerism and Other Matters&#34;: Fortune Magazine</field>
+     <field name="unitdate_ssm">Jun 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">26</field>

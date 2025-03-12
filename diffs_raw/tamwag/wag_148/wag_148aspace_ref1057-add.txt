@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+     <field name="collection_unitid_ssm">WAG.148</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Delmonico's</field>
+-    <field name="unittitle_teim">Delmonico's</field>
++    <field name="unittitle_ssm">Delmonico&#39;s</field>
++    <field name="unittitle_teim">Delmonico&#39;s</field>
+     <field name="unitdate_normal_ssm">1983/1986</field>
+     <field name="unitdate_normal_teim">1983/1986</field>
+     <field name="unitdate_normal_sim">1983/1986</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 29, Folder: 19</field>
+     <field name="location_si">Box: 29, Folder: 19</field>
+     <field name="collection_teim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
++    <field name="author_teim">Janet Greene, 1999; Ted Casselman and Evan Daniel, 2002-2003; Craig Savino and Ariel Zambenedetti, 2007-2008</field>
+     <field name="collection_unitid_teim">WAG.148</field>
+     <field name="series_sim">Series VI: Restaurant Division</field>
+     <field name="series_sim">Subseries V:B: HERE, Local 1 Records</field>
+-    <field name="series_si">Series VI: Restaurant Division &gt;&gt; Subseries V:B: HERE, Local 1 Records &gt;&gt; Delmonico's</field>
+-    <field name="heading_ssm">Delmonico's</field>
++    <field name="series_si">Series VI: Restaurant Division &gt;&gt; Subseries V:B: HERE, Local 1 Records &gt;&gt; Delmonico&#39;s</field>
++    <field name="heading_ssm">Delmonico&#39;s</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

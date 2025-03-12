@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_148</field>
+     <field name="parent_ssi">aspace_ref1102</field>
+     <field name="parent_ssm">aspace_ref1102</field>
+-    <field name="parent_unittitles_ssm">Series VII: Editor's Files.</field>
+-    <field name="parent_unittitles_teim">Series VII: Editor's Files.</field>
++    <field name="parent_unittitles_ssm">Series VII: Editor&amp;#39;s Files.</field>
++    <field name="parent_unittitles_teim">Series VII: Editor&amp;#39;s Files.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 33, Folder: 12</field>
+     <field name="location_si">Box: 33, Folder: 12</field>
+     <field name="collection_teim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
++    <field name="author_teim">Janet Greene, 1999; Ted Casselman and Evan Daniel, 2002-2003; Craig Savino and Ariel Zambenedetti, 2007-2008</field>
+     <field name="collection_unitid_teim">WAG.148</field>
+-    <field name="series_sim">Series VII: Editor's Files.</field>
+-    <field name="series_si">Series VII: Editor's Files. &gt;&gt; Council History: Correspondence</field>
++    <field name="series_sim">Series VII: Editor&amp;#39;s Files.</field>
++    <field name="series_si">Series VII: Editor&#39;s Files. &gt;&gt; Council History: Correspondence</field>
+     <field name="heading_ssm">Council History: Correspondence</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>

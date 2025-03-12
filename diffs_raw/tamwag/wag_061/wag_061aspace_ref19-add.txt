@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,14 @@
+     <field name="ead_ssi">wag_061</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Stewardesses for Women's Rights Collection</field>
+-    <field name="collection_ssm">Stewardesses for Women's Rights Collection</field>
++    <field name="collection_sim">Stewardesses for Women&#39;s Rights Collection</field>
++    <field name="collection_ssm">Stewardesses for Women&#39;s Rights Collection</field>
+     <field name="collection_unitid_ssm">WAG.061</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Subject Files</field>
+     <field name="unittitle_teim">Series II: Subject Files</field>
+     <field name="unitdate_teim">1966-1987</field>
+-    <field name="scopecontent_teim">This series contains organizational documents including the constitution, by-laws, membership lists, minutes, agendas, and update reports. Also included are research materials that SFWR staff collected, such as articles, essays, clippings, and handbooks. The series contains documents from flight attendant unions, the Transport Workers Union of America (TWU), and various women's organizations.</field>
++    <field name="scopecontent_teim">This series contains organizational documents including the constitution, by-laws, membership lists, minutes, agendas, and update reports. Also included are research materials that SFWR staff collected, such as articles, essays, clippings, and handbooks. The series contains documents from flight attendant unions, the Transport Workers Union of America (TWU), and various women&#39;s organizations.</field>
+     <field name="ref_ssi">aspace_ref19</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -19,7 +19,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Stewardesses for Women's Rights Collection</field>
++    <field name="collection_teim">Stewardesses for Women&#39;s Rights Collection</field>
++    <field name="author_teim">Jessie Wilkerson, 2005. Preliminary processing by Stephanie Muntone, 1987.</field>
+     <field name="collection_unitid_teim">WAG.061</field>
+     <field name="series_si">Series II: Subject Files</field>
+     <field name="heading_ssm">Series II: Subject Files</field>

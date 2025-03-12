@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sam Reiss Papers</field>
+     <field name="collection_unitid_ssm">WAG.262</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss' Work</field>
+-    <field name="unittitle_teim">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss' Work</field>
++    <field name="unittitle_ssm">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss&#39; Work</field>
++    <field name="unittitle_teim">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss&#39; Work</field>
+     <field name="unitdate_normal_ssm">1975/1976</field>
+     <field name="unitdate_normal_teim">1975/1976</field>
+     <field name="unitdate_normal_sim">1975/1976</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 11</field>
+     <field name="location_si">Box: 1, Folder: 11</field>
+     <field name="collection_teim">Sam Reiss Papers</field>
++    <field name="author_teim">Erika Gottfried, 2007-2008.</field>
+     <field name="collection_unitid_teim">WAG.262</field>
+     <field name="series_sim">Series I: General Files, 1929-1992.</field>
+-    <field name="series_si">Series I: General Files, 1929-1992. &gt;&gt; Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss' Work</field>
+-    <field name="heading_ssm">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss' Work</field>
++    <field name="series_si">Series I: General Files, 1929-1992. &gt;&gt; Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss&#39; Work</field>
++    <field name="heading_ssm">Reviews, Clippings, Press Releases on 1975 Retrospective Exhibit of Reiss&#39; Work</field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>
+     <field name="unitdate_start_si">1975</field>

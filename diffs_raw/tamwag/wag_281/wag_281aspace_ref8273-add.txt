@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">American Federation of Television and Radio Artists (AFTRA) National Office Records</field>
+     <field name="collection_unitid_ssm">WAG.281</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Agreements and/or Waivers: Efron, Marshall in "Family Computing"</field>
+-    <field name="unittitle_teim">Agreements and/or Waivers: Efron, Marshall in "Family Computing"</field>
++    <field name="unittitle_ssm">Agreements and/or Waivers: Efron, Marshall in &#34;Family Computing&#34;</field>
++    <field name="unittitle_teim">Agreements and/or Waivers: Efron, Marshall in &#34;Family Computing&#34;</field>
+     <field name="unitdate_normal_ssm">1984/1984</field>
+     <field name="unitdate_normal_teim">1984/1984</field>
+     <field name="unitdate_normal_sim">1984/1984</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 122, Folder: 64</field>
+     <field name="location_si">Box: 122, Folder: 64</field>
+     <field name="collection_teim">American Federation of Television and Radio Artists (AFTRA) National Office Records</field>
++    <field name="author_teim">K. Kevyne Baar with Ellie d&#39;Eustachio, Aidan Kinney, Kelsey Marksteiner</field>
+     <field name="collection_unitid_teim">WAG.281</field>
+     <field name="series_sim">Series VI: Negotiations</field>
+-    <field name="series_si">Series VI: Negotiations &gt;&gt; Agreements and/or Waivers: Efron, Marshall in "Family Computing"</field>
+-    <field name="heading_ssm">Agreements and/or Waivers: Efron, Marshall in "Family Computing"</field>
++    <field name="series_si">Series VI: Negotiations &gt;&gt; Agreements and/or Waivers: Efron, Marshall in &#34;Family Computing&#34;</field>
++    <field name="heading_ssm">Agreements and/or Waivers: Efron, Marshall in &#34;Family Computing&#34;</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

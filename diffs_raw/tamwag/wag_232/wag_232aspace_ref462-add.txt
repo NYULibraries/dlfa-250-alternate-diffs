@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Edward S. Goldstein: Jewish Labor Committee Research Files</field>
+     <field name="collection_unitid_ssm">WAG.232</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Workmen's Circle Division</field>
+-    <field name="unittitle_teim">Workmen's Circle Division</field>
++    <field name="unittitle_ssm">Workmen&#39;s Circle Division</field>
++    <field name="unittitle_teim">Workmen&#39;s Circle Division</field>
+     <field name="unitdate_normal_ssm">1957/1957</field>
+     <field name="unitdate_normal_teim">1957/1957</field>
+     <field name="unitdate_normal_sim">1957/1957</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 81</field>
+     <field name="location_si">Box: 5, Folder: 81</field>
+     <field name="collection_teim">Edward S. Goldstein: Jewish Labor Committee Research Files</field>
++    <field name="author_teim">Karl Dunkel and Gail Malmgreen, 2004</field>
+     <field name="collection_unitid_teim">WAG.232</field>
+     <field name="series_sim">Series II: Subject Files, 1933-1985.</field>
+-    <field name="series_si">Series II: Subject Files, 1933-1985. &gt;&gt; Workmen's Circle Division</field>
+-    <field name="heading_ssm">Workmen's Circle Division</field>
++    <field name="series_si">Series II: Subject Files, 1933-1985. &gt;&gt; Workmen&#39;s Circle Division</field>
++    <field name="heading_ssm">Workmen&#39;s Circle Division</field>
+     <field name="unitdate_start_sim">1957</field>
+     <field name="unitdate_start_ssm">1957</field>
+     <field name="unitdate_start_si">1957</field>

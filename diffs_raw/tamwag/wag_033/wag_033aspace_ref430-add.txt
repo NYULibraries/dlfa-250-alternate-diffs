@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Labor Theater Records</field>
+     <field name="collection_unitid_ssm">WAG.033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Why I Left California"</field>
+-    <field name="unittitle_teim">"Why I Left California"</field>
++    <field name="unittitle_ssm">&#34;Why I Left California&#34;</field>
++    <field name="unittitle_teim">&#34;Why I Left California&#34;</field>
+     <field name="ref_ssi">aspace_ref430</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 13, Folder: 28</field>
+     <field name="location_si">Box: 13, Folder: 28</field>
+     <field name="collection_teim">Labor Theater Records</field>
++    <field name="author_teim">Claire Freedman (1985); Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description (2013)</field>
+     <field name="collection_unitid_teim">WAG.033</field>
+     <field name="series_sim">Series IV: Photographs</field>
+-    <field name="series_si">Series IV: Photographs &gt;&gt; "Why I Left California"</field>
+-    <field name="heading_ssm">"Why I Left California"</field>
++    <field name="series_si">Series IV: Photographs &gt;&gt; &#34;Why I Left California&#34;</field>
++    <field name="heading_ssm">&#34;Why I Left California&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">429</field>
+   </doc>

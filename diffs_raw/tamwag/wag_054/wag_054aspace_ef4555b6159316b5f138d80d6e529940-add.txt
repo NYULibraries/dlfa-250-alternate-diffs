@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_d40b85765b005e4f390c46f00e88594a</field>
+     <field name="parent_ssm">aspace_c004aa2008ef28fcc91dc947d024d73c</field>
+     <field name="parent_ssm">aspace_d40b85765b005e4f390c46f00e88594a</field>
+-    <field name="parent_unittitles_ssm">Series IV: Officers' Correspondence</field>
++    <field name="parent_unittitles_ssm">Series IV: Officers&amp;#39; Correspondence</field>
+     <field name="parent_unittitles_ssm">Subseries A. General</field>
+-    <field name="parent_unittitles_teim">Series IV: Officers' Correspondence</field>
++    <field name="parent_unittitles_teim">Series IV: Officers&amp;#39; Correspondence</field>
+     <field name="parent_unittitles_teim">Subseries A. General</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
+     <field name="collection_unitid_ssm">WAG.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department</field>
+-    <field name="unittitle_teim">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department</field>
++    <field name="unittitle_ssm">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department
++</field>
++    <field name="unittitle_teim">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department
++</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/845026</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/845026</field>
+     <field name="unitdate_normal_ssm">1939/1946</field>
+@@ -33,11 +35,14 @@
+     <field name="location_ssm">Box: 3, Folder: 26-27</field>
+     <field name="location_si">Box: 3, Folder: 26-27</field>
+     <field name="collection_teim">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
++    <field name="author_teim">Mary Allison Farley with the assistance of William Huang</field>
+     <field name="collection_unitid_teim">WAG.054</field>
+-    <field name="series_sim">Series IV: Officers' Correspondence</field>
++    <field name="series_sim">Series IV: Officers&amp;#39; Correspondence</field>
+     <field name="series_sim">Subseries A. General</field>
+-    <field name="series_si">Series IV: Officers' Correspondence &gt;&gt; Subseries A. General &gt;&gt; C. Sinnigen, Reports and Correspondence to the Union Label Trades Department</field>
+-    <field name="heading_ssm">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department</field>
++    <field name="series_si">Series IV: Officers&#39; Correspondence &gt;&gt; Subseries A. General &gt;&gt; C. Sinnigen, Reports and Correspondence to the Union Label Trades Department
++</field>
++    <field name="heading_ssm">C. Sinnigen, Reports and Correspondence to the Union Label Trades Department
++</field>
+     <field name="unitdate_start_sim">1939</field>
+     <field name="unitdate_start_ssm">1939</field>
+     <field name="unitdate_start_si">1939</field>

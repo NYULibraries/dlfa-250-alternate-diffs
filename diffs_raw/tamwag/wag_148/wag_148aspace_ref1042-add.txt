@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+     <field name="collection_unitid_ssm">WAG.148</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Business Agents' Territories</field>
+-    <field name="unittitle_teim">Business Agents' Territories</field>
++    <field name="unittitle_ssm">Business Agents&#39; Territories</field>
++    <field name="unittitle_teim">Business Agents&#39; Territories</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref1042</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 29, Folder: 5</field>
+     <field name="location_si">Box: 29, Folder: 5</field>
+     <field name="collection_teim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
++    <field name="author_teim">Janet Greene, 1999; Ted Casselman and Evan Daniel, 2002-2003; Craig Savino and Ariel Zambenedetti, 2007-2008</field>
+     <field name="collection_unitid_teim">WAG.148</field>
+     <field name="series_sim">Series VI: Restaurant Division</field>
+     <field name="series_sim">Subseries V:A: General Files</field>
+-    <field name="series_si">Series VI: Restaurant Division &gt;&gt; Subseries V:A: General Files &gt;&gt; Business Agents' Territories</field>
+-    <field name="heading_ssm">Business Agents' Territories</field>
++    <field name="series_si">Series VI: Restaurant Division &gt;&gt; Subseries V:A: General Files &gt;&gt; Business Agents&#39; Territories</field>
++    <field name="heading_ssm">Business Agents&#39; Territories</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1030</field>

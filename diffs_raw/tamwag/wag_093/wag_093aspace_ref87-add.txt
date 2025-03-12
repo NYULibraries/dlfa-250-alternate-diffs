@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Communications Workers of America, Local 1172 Records</field>
+     <field name="collection_unitid_ssm">WAG.093</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Brien, Lorraine</field>
+-    <field name="unittitle_teim">O'Brien, Lorraine</field>
++    <field name="unittitle_ssm">O&#39;Brien, Lorraine</field>
++    <field name="unittitle_teim">O&#39;Brien, Lorraine</field>
+     <field name="unitdate_normal_ssm">1989/1989</field>
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 15</field>
+     <field name="location_si">Box: 3, Folder: 15</field>
+     <field name="collection_teim">Communications Workers of America, Local 1172 Records</field>
++    <field name="author_teim">Frank Caputo, 1994; Adam Schafenberg, 2005</field>
+     <field name="collection_unitid_teim">WAG.093</field>
+     <field name="series_sim">Series III: Grievances and Arbitration Cases</field>
+-    <field name="series_si">Series III: Grievances and Arbitration Cases &gt;&gt; O'Brien, Lorraine</field>
+-    <field name="heading_ssm">O'Brien, Lorraine</field>
++    <field name="series_si">Series III: Grievances and Arbitration Cases &gt;&gt; O&#39;Brien, Lorraine</field>
++    <field name="heading_ssm">O&#39;Brien, Lorraine</field>
+     <field name="unitdate_start_sim">1989</field>
+     <field name="unitdate_start_ssm">1989</field>
+     <field name="unitdate_start_si">1989</field>

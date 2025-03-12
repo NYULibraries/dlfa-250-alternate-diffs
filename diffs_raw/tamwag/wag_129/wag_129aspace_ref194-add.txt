@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_129</field>
+     <field name="parent_ssi">aspace_ref192</field>
+     <field name="parent_ssm">aspace_ref192</field>
+-    <field name="parent_unittitles_ssm">Series VII: Building Trades Employers' Association of the City of New York</field>
+-    <field name="parent_unittitles_teim">Series VII: Building Trades Employers' Association of the City of New York</field>
++    <field name="parent_unittitles_ssm">Series VII: Building Trades Employers&amp;#39; Association of the City of New York</field>
++    <field name="parent_unittitles_teim">Series VII: Building Trades Employers&amp;#39; Association of the City of New York</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James McNamara Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 5, Folder: 29</field>
+     <field name="location_si">Box: 5, Folder: 29</field>
+     <field name="collection_teim">James McNamara Papers</field>
++    <field name="author_teim">Ted Casselman and Jane LaTour, 1999; Craig Savino, 2007; Nicole Greenhouse, 2013</field>
+     <field name="collection_unitid_teim">WAG.129</field>
+-    <field name="series_sim">Series VII: Building Trades Employers' Association of the City of New York</field>
+-    <field name="series_si">Series VII: Building Trades Employers' Association of the City of New York &gt;&gt; Jurisdictional Disputes: Plans</field>
++    <field name="series_sim">Series VII: Building Trades Employers&amp;#39; Association of the City of New York</field>
++    <field name="series_si">Series VII: Building Trades Employers&#39; Association of the City of New York &gt;&gt; Jurisdictional Disputes: Plans</field>
+     <field name="heading_ssm">Jurisdictional Disputes: Plans</field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>

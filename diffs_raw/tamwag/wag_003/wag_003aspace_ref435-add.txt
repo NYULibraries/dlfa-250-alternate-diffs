@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Social Service Employees Union Records</field>
+     <field name="collection_unitid_ssm">WAG.003</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Child Welfare: "Special Services for Children: Profiles in Failure" by Linda Schleicher in &lt;em&gt;Catalyst&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Child Welfare: "Special Services for Children: Profiles in Failure" by Linda Schleicher in Catalyst</field>
++    <field name="unittitle_ssm">Child Welfare: &#34;Special Services for Children: Profiles in Failure&#34; by Linda Schleicher in &lt;em&gt;Catalyst&lt;/em&gt;</field>
++    <field name="unittitle_teim">Child Welfare: &#34;Special Services for Children: Profiles in Failure&#34; by Linda Schleicher in Catalyst</field>
+     <field name="unitdate_normal_ssm">1980/1980</field>
+     <field name="unitdate_normal_teim">1980/1980</field>
+     <field name="unitdate_normal_sim">1980/1980</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 9, Folder: 28</field>
+     <field name="location_si">Box: 9, Folder: 28</field>
+     <field name="collection_teim">Social Service Employees Union Records</field>
++    <field name="author_teim">K. Kevyne Baar</field>
+     <field name="collection_unitid_teim">WAG.003</field>
+     <field name="series_sim">Series III: General Files</field>
+-    <field name="series_si">Series III: General Files &gt;&gt; Child Welfare: "Special Services for Children: Profiles in Failure" by Linda Schleicher in &lt;em&gt;Catalyst&lt;/em&gt;</field>
+-    <field name="heading_ssm">Child Welfare: "Special Services for Children: Profiles in Failure" by Linda Schleicher in Catalyst</field>
++    <field name="series_si">Series III: General Files &gt;&gt; Child Welfare: &#34;Special Services for Children: Profiles in Failure&#34; by Linda Schleicher in &lt;em&gt;Catalyst&lt;/em&gt;</field>
++    <field name="heading_ssm">Child Welfare: &#34;Special Services for Children: Profiles in Failure&#34; by Linda Schleicher in Catalyst</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>
