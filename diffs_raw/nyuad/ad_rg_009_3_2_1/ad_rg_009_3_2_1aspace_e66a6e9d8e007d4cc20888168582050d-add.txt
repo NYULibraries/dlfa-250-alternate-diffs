@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">2016/2016</field>
+     <field name="unitdate_normal_teim">2016/2016</field>
+     <field name="unitdate_normal_sim">2016/2016</field>
+-    <field name="unitdate_teim">2016</field>
++    <field name="unitdate_teim"> 2016</field>
+     <field name="dao_teim">National Day 45: 2016-</field>
+     <field name="dao_ssm">National Day 45: 2016-</field>
+     <field name="ref_ssi">aspace_e66a6e9d8e007d4cc20888168582050d</field>
+@@ -31,6 +31,7 @@
+     <field name="location_si">box: Electronic Records, E-records: AD_RG_009_3_2_1-072</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">NYU Abu Dhabi Student Life Events: Photos, Music, and Videos</field>
++    <field name="author_teim">Lauren Kata</field>
+     <field name="collection_unitid_teim">AD.RG.009.3-2-1</field>
+     <field name="series_sim">Student Life Events</field>
+     <field name="series_si">Student Life Events &gt;&gt; National Day 45</field>
+@@ -41,7 +42,7 @@
+     <field name="unitdate_end_sim">2016</field>
+     <field name="unitdate_end_ssm">2016</field>
+     <field name="unitdate_end_si">2016</field>
+-    <field name="unitdate_ssm">2016</field>
++    <field name="unitdate_ssm"> 2016</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">76</field>
+   </doc>

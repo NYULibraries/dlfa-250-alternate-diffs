@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,16 @@
+     <field name="collection_ssm">Map Collection, NYU Abu Dhabi Library</field>
+     <field name="collection_unitid_ssm">AD.MC.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob. De Gelegentheyt van't Paradys ende t'Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.</field>
+-    <field name="unittitle_teim">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob. De Gelegentheyt van't Paradys ende t'Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.</field>
++    <field name="unittitle_ssm">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob.  De Gelegentheyt van&#39;t Paradys ende t&#39;Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.
++</field>
++    <field name="unittitle_teim">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob.  De Gelegentheyt van&#39;t Paradys ende t&#39;Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.
++</field>
+     <field name="unitdate_normal_ssm">1702/1702</field>
+     <field name="unitdate_normal_teim">1702/1702</field>
+     <field name="unitdate_normal_sim">1702/1702</field>
+     <field name="unitdate_teim">1702</field>
+-    <field name="phystech_teim">Publication data: Netherlands : [s.n]</field>
+-    <field name="phystech_teim">Library call number: G7481.2 .S7 1702</field>
++    <field name="phystech_teim">Publication data:  Netherlands : [s.n]</field>
++    <field name="phystech_teim">Library call number:  G7481.2 .S7 1702</field>
+     <field name="ref_ssi">aspace_dfe5200d7c739d5cdfd71d6f21521ce2</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -30,10 +32,13 @@
+     <field name="location_ssm">box: Maps B, folder: 1</field>
+     <field name="location_si">box: Maps B, folder: 1</field>
+     <field name="collection_teim">Map Collection, NYU Abu Dhabi Library</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.019</field>
+     <field name="series_sim">Middle East, general</field>
+-    <field name="series_si">Middle East, general &gt;&gt; Stopendael, Daniel; Keur, Pieter; and Keur, Jacob. De Gelegentheyt van't Paradys ende t'Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.</field>
+-    <field name="heading_ssm">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob. De Gelegentheyt van't Paradys ende t'Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.</field>
++    <field name="series_si">Middle East, general &gt;&gt; Stopendael, Daniel; Keur, Pieter; and Keur, Jacob.  De Gelegentheyt van&#39;t Paradys ende t&#39;Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.
++</field>
++    <field name="heading_ssm">Stopendael, Daniel; Keur, Pieter; and Keur, Jacob.  De Gelegentheyt van&#39;t Paradys ende t&#39;Landt Canaan, mitsgaders de eerst bewoonde Landen der Patriarchen, uyt de H. Schristure en verscheyden auctoren by een gestdlt.
++</field>
+     <field name="unitdate_start_sim">1702</field>
+     <field name="unitdate_start_ssm">1702</field>
+     <field name="unitdate_start_si">1702</field>

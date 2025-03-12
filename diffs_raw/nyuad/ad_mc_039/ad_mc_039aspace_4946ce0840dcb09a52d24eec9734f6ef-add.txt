@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ali Akbar Bushiri collection</field>
+     <field name="collection_unitid_ssm">AD.MC.039</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Manama, port of: Shipping records</field>
+-    <field name="unittitle_teim">Manama, port of: Shipping records</field>
++    <field name="unittitle_ssm">Manama, port of:  Shipping records</field>
++    <field name="unittitle_teim">Manama, port of:  Shipping records</field>
+     <field name="unitdate_normal_ssm">1951/1958</field>
+     <field name="unitdate_normal_teim">1951/1958</field>
+     <field name="unitdate_normal_sim">1951/1958</field>
+@@ -26,10 +26,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Ali Akbar Bushiri collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.039</field>
+     <field name="series_sim">Ledgers and oversize materials</field>
+-    <field name="series_si">Ledgers and oversize materials &gt;&gt; Manama, port of: Shipping records</field>
+-    <field name="heading_ssm">Manama, port of: Shipping records</field>
++    <field name="series_si">Ledgers and oversize materials &gt;&gt; Manama, port of:  Shipping records</field>
++    <field name="heading_ssm">Manama, port of:  Shipping records</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>
+     <field name="unitdate_start_si">1951</field>

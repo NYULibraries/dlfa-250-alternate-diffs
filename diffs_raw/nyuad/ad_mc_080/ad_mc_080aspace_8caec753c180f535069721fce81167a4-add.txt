@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_080</field>
+     <field name="parent_ssi">aspace_65dedef860c4c09a85221386551d661e</field>
+     <field name="parent_ssm">aspace_65dedef860c4c09a85221386551d661e</field>
+-    <field name="parent_unittitles_ssm">Photographer: Seal, E.E.</field>
+-    <field name="parent_unittitles_teim">Photographer: Seal, E.E.</field>
++    <field name="parent_unittitles_ssm">Photographer:  Seal, E.E.</field>
++    <field name="parent_unittitles_teim">Photographer:  Seal, E.E.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">ARAMCO photographs of oil facilities in Saudi Arabia</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">box: 1, folder: 4</field>
+     <field name="location_si">box: 1, folder: 4</field>
+     <field name="collection_teim">ARAMCO photographs of oil facilities in Saudi Arabia</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.080</field>
+-    <field name="series_sim">Photographer: Seal, E.E.</field>
+-    <field name="series_si">Photographer: Seal, E.E. &gt;&gt; Aerial views of tanker terminal and refinery at Ras Tanura (2 images)</field>
++    <field name="series_sim">Photographer:  Seal, E.E.</field>
++    <field name="series_si">Photographer:  Seal, E.E. &gt;&gt; Aerial views of tanker terminal and refinery at Ras Tanura (2 images)</field>
+     <field name="heading_ssm">Aerial views of tanker terminal and refinery at Ras Tanura (2 images)</field>
+     <field name="unitdate_ssm">November 1959</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,13 @@
+     <field name="collection_ssm">Map Collection, NYU Abu Dhabi Library</field>
+     <field name="collection_unitid_ssm">AD.MC.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mariette, Pierre. Carte des trois Arabies: tirée en partie de l'Arabe de Nubie, en partie de divers autres autheurs.</field>
+-    <field name="unittitle_teim">Mariette, Pierre. Carte des trois Arabies: tirée en partie de l'Arabe de Nubie, en partie de divers autres autheurs.</field>
++    <field name="unittitle_ssm">Mariette, Pierre.  Carte des trois Arabies: tirée en partie de l&#39;Arabe de Nubie, en partie de divers autres autheurs.</field>
++    <field name="unittitle_teim">Mariette, Pierre.  Carte des trois Arabies: tirée en partie de l&#39;Arabe de Nubie, en partie de divers autres autheurs.</field>
+     <field name="unitdate_normal_ssm">1654/1654</field>
+     <field name="unitdate_normal_teim">1654/1654</field>
+     <field name="unitdate_normal_sim">1654/1654</field>
+     <field name="unitdate_teim">1654</field>
+-    <field name="phystech_teim">Publication data: [s.l.] : Chez Pierre Mariette</field>
++    <field name="phystech_teim">Publication data:  [s.l.] : Chez Pierre Mariette</field>
+     <field name="ref_ssi">aspace_33dbac9a3ed6680751f1d4a16092a729</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -27,10 +27,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Map Collection, NYU Abu Dhabi Library</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.019</field>
+     <field name="series_sim">Arabian Peninsula</field>
+-    <field name="series_si">Arabian Peninsula &gt;&gt; Mariette, Pierre. Carte des trois Arabies: tirée en partie de l'Arabe de Nubie, en partie de divers autres autheurs.</field>
+-    <field name="heading_ssm">Mariette, Pierre. Carte des trois Arabies: tirée en partie de l'Arabe de Nubie, en partie de divers autres autheurs.</field>
++    <field name="series_si">Arabian Peninsula &gt;&gt; Mariette, Pierre.  Carte des trois Arabies: tirée en partie de l&#39;Arabe de Nubie, en partie de divers autres autheurs.</field>
++    <field name="heading_ssm">Mariette, Pierre.  Carte des trois Arabies: tirée en partie de l&#39;Arabe de Nubie, en partie de divers autres autheurs.</field>
+     <field name="unitdate_start_sim">1654</field>
+     <field name="unitdate_start_ssm">1654</field>
+     <field name="unitdate_start_si">1654</field>

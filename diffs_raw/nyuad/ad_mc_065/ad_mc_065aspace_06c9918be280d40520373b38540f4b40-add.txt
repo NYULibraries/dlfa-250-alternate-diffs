@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_ssm">1925/1926</field>
+     <field name="unitdate_normal_teim">1925/1926</field>
+     <field name="unitdate_normal_sim">1925/1926</field>
+-    <field name="unitdate_inclusive_teim">1925-1926</field>
++    <field name="unitdate_inclusive_teim"> 1925-1926</field>
+     <field name="ref_ssi">aspace_06c9918be280d40520373b38540f4b40</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">box: 9, folder: 1</field>
+     <field name="location_si">box: 9, folder: 1</field>
+     <field name="collection_teim">Aḥmad Zakī Abū Shādī Family Papers</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.065</field>
+     <field name="series_sim">Writings</field>
+     <field name="series_sim">Abu Shadi, Ahmed Zaki</field>
+@@ -42,7 +43,7 @@
+     <field name="unitdate_end_sim">1926</field>
+     <field name="unitdate_end_ssm">1926</field>
+     <field name="unitdate_end_si">1926</field>
+-    <field name="unitdate_ssm">Inclusive, 1925-1926</field>
++    <field name="unitdate_ssm">Inclusive,  1925-1926</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">156</field>
+   </doc>

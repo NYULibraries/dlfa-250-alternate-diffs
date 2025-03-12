@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,10 +6,10 @@
+     <field name="parent_ssi">aspace_ref1499_u2p</field>
+     <field name="parent_ssm">aspace_ref1_59f</field>
+     <field name="parent_ssm">aspace_ref1499_u2p</field>
+-    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="parent_unittitles_ssm">Wamala &amp; Party</field>
+-    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="parent_unittitles_teim">Wamala &amp; Party</field>
++    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
++    <field name="parent_unittitles_ssm">Wamala &amp;amp; Party</field>
++    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
++    <field name="parent_unittitles_teim">Wamala &amp;amp; Party</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+@@ -19,7 +19,9 @@
+     <field name="unittitle_ssm">Wamala &amp; Party: Chneno</field>
+     <field name="unittitle_teim">Wamala &amp; Party: Chneno</field>
+     <field name="unitdate_teim">N/A</field>
+-    <field name="phystech_teim">Serial number: Columbia, EO.502, CES. 1311. Original format: 78 rpm shellac disc. Duration: 3:28.</field>
++    <field name="phystech_teim">Serial number:  Columbia, EO.502, CES. 1311.  
++Original format:  78 rpm shellac disc.  
++Duration:  3:28.</field>
+     <field name="dao_teim">Wamala &amp; Party: Chneno: N/A</field>
+     <field name="dao_teim">Wamala &amp; Party: Chneno: N/A</field>
+     <field name="dao_ssm">Wamala &amp; Party: Chneno: N/A</field>
+@@ -34,10 +36,11 @@
+     <field name="location_si">folder: 272</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
++    <field name="author_teim">Emma Chiu and Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+-    <field name="series_sim">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="series_sim">Wamala &amp; Party</field>
+-    <field name="series_si">Series I: Private collector (anonymous) - 78's &gt;&gt; Wamala &amp; Party &gt;&gt; Wamala &amp; Party: Chneno</field>
++    <field name="series_sim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
++    <field name="series_sim">Wamala &amp;amp; Party</field>
++    <field name="series_si">Series I: Private collector (anonymous) - 78&#39;s  &gt;&gt; Wamala &amp; Party &gt;&gt; Wamala &amp; Party: Chneno</field>
+     <field name="heading_ssm">Wamala &amp; Party: Chneno</field>
+     <field name="unitdate_ssm">N/A</field>
+     <field name="date_range_sim">undated &amp; other</field>

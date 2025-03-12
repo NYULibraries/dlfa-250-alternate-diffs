@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">NYU Abu Dhabi Institute: Promotional and Program Materials</field>
+     <field name="collection_unitid_ssm">AD.RG.024.1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Galileo's Feifer Book Discussion</field>
+-    <field name="unittitle_teim">Galileo's Feifer Book Discussion</field>
++    <field name="unittitle_ssm">Galileo&#39;s Feifer Book Discussion</field>
++    <field name="unittitle_teim">Galileo&#39;s Feifer Book Discussion</field>
+     <field name="unitdate_normal_ssm">2010-11-24/2010-11-24</field>
+     <field name="unitdate_normal_teim">2010-11-24/2010-11-24</field>
+     <field name="unitdate_normal_sim">2010-11-24/2010-11-24</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">box: 5</field>
+     <field name="location_si">box: 5</field>
+     <field name="collection_teim">NYU Abu Dhabi Institute: Promotional and Program Materials</field>
++    <field name="author_teim">Lauren Kata, with assistance from Kainaath Ahmad Shah Mumtaz, Ian Bryce Hoyt, and Arnav Vinay Kochar, 2019-2021. </field>
+     <field name="collection_unitid_teim">AD.RG.024.1</field>
+     <field name="series_sim">Audiovisual Event Files</field>
+     <field name="series_sim">Program DVDs</field>
+-    <field name="series_si">Audiovisual Event Files &gt;&gt; Program DVDs &gt;&gt; Galileo's Feifer Book Discussion</field>
+-    <field name="heading_ssm">Galileo's Feifer Book Discussion</field>
++    <field name="series_si">Audiovisual Event Files &gt;&gt; Program DVDs &gt;&gt; Galileo&#39;s Feifer Book Discussion</field>
++    <field name="heading_ssm">Galileo&#39;s Feifer Book Discussion</field>
+     <field name="unitdate_ssm">Nov. 24, 2010</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">127</field>

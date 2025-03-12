@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_ssm">1966/1966</field>
+     <field name="unitdate_normal_teim">1966/1966</field>
+     <field name="unitdate_normal_sim">1966/1966</field>
+-    <field name="unitdate_teim">[1966]</field>
++    <field name="unitdate_teim"> [1966]</field>
+     <field name="ref_ssi">aspace_30fdd3520a4ba1333d04ba92797690a4</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">volume: 111</field>
+     <field name="location_si">volume: 111</field>
+     <field name="collection_teim">Frauke Heard-Bey and David Heard collection</field>
++    <field name="author_teim">Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.064</field>
+     <field name="series_sim">Other GCC (Gulf Cooperation Council) countries</field>
+     <field name="series_sim">Qatar</field>
+@@ -42,7 +43,7 @@
+     <field name="unitdate_end_sim">1966</field>
+     <field name="unitdate_end_ssm">1966</field>
+     <field name="unitdate_end_si">1966</field>
+-    <field name="unitdate_ssm">[1966]</field>
++    <field name="unitdate_ssm"> [1966]</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">901</field>
+   </doc>

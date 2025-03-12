@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_035</field>
+     <field name="parent_ssi">aspace_ref1_59f</field>
+     <field name="parent_ssm">aspace_ref1_59f</field>
+-    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78's</field>
++    <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
++    <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+@@ -22,9 +22,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
++    <field name="author_teim">Emma Chiu and Brad Bauer</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+-    <field name="series_sim">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="series_si">Series I: Private collector (anonymous) - 78's &gt;&gt; Ngoma ya Kilua</field>
++    <field name="series_sim">Series I: Private collector (anonymous) - 78&amp;#39;s </field>
++    <field name="series_si">Series I: Private collector (anonymous) - 78&#39;s  &gt;&gt; Ngoma ya Kilua</field>
+     <field name="heading_ssm">Ngoma ya Kilua</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">237</field>
