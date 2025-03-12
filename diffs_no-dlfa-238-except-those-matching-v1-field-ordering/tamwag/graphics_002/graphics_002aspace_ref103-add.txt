@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,15 +24,15 @@
+     <field name="corpname_ssm">Industrial Workers of the World</field>
+     <field name="subject_teim">Labor unions</field>
+     <field name="subject_teim">Feminism</field>
+-    <field name="subject_teim">Children's rights.</field>
+-    <field name="subject_teim">Unemployment.</field>
+-    <field name="subject_teim">Labor unions</field>
+-    <field name="subject_teim">Feminism</field>
+-    <field name="subject_teim">Children's rights.</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
++    <field name="subject_teim">Unemployment.</field>
++    <field name="subject_teim">Labor unions</field>
++    <field name="subject_teim">Feminism</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
+     <field name="subject_teim">Unemployment.</field>
+     <field name="subject_ssm">Labor unions</field>
+     <field name="subject_ssm">Feminism</field>
+-    <field name="subject_ssm">Children's rights.</field>
++    <field name="subject_ssm">Children&#39;s rights.</field>
+     <field name="subject_ssm">Unemployment.</field>
+     <field name="dao_teim">United States: Labor History: undated</field>
+     <field name="dao_ssm">United States: Labor History: undated</field>
+@@ -49,9 +49,10 @@
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Labor unions</field>
+     <field name="subject_sim">Feminism</field>
+-    <field name="subject_sim">Children's rights.</field>
++    <field name="subject_sim">Children&#39;s rights.</field>
+     <field name="subject_sim">Unemployment.</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series I: United States</field>
+     <field name="series_si">Series I: United States &gt;&gt; United States: Labor History</field>

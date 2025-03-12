@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,11 +20,11 @@
+     <field name="unitid_ssm">DO-75.0</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/37955</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="subject_teim">International Women's Day.</field>
+-    <field name="subject_teim">Women employees.</field>
+-    <field name="subject_teim">International Women's Day.</field>
+-    <field name="subject_teim">Women employees.</field>
+-    <field name="subject_ssm">International Women's Day.</field>
++    <field name="subject_teim">International Women&#39;s Day.</field>
++    <field name="subject_teim">Women employees.</field>
++    <field name="subject_teim">International Women&#39;s Day.</field>
++    <field name="subject_teim">Women employees.</field>
++    <field name="subject_ssm">International Women&#39;s Day.</field>
+     <field name="subject_ssm">Women employees.</field>
+     <field name="dao_teim">Dominican Republic: General: undated</field>
+     <field name="dao_ssm">Dominican Republic: General: undated</field>
+@@ -37,9 +37,10 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">International Women's Day.</field>
++    <field name="subject_sim">International Women&#39;s Day.</field>
+     <field name="subject_sim">Women employees.</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series II: Other Countries</field>
+     <field name="series_si">Series II: Other Countries &gt;&gt; Dominican Republic: General</field>

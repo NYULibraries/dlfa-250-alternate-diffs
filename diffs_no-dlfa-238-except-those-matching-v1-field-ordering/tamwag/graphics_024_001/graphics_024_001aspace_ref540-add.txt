@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1928/2002</field>
+     <field name="unitdate_normal_sim">1928/2002</field>
+     <field name="unitdate_inclusive_teim">1928-2002</field>
+-    <field name="scopecontent_teim">Series III: Cartoons by Artist consists of cartoons produced by artists, including: Fred Ellis, James Erickson, Norman Goldberg, Ollie Harrington, Hal Kinkaid, and Robert Minor, among various others. Each of the above artists' materials are arranged into separate subseries, with a general run subseries of other artists following. The cartoons in this series, are, for the most part original and signed.</field>
++    <field name="scopecontent_teim">Series III: Cartoons by Artist consists of cartoons produced by artists, including: Fred Ellis, James Erickson, Norman Goldberg, Ollie Harrington, Hal Kinkaid, and Robert Minor, among various others. Each of the above artists&#39; materials are arranged into separate subseries, with a general run subseries of other artists following. The cartoons in this series, are, for the most part original and signed.</field>
+     <field name="ref_ssi">aspace_ref540</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">The Daily Worker and Daily World Cartoon Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">GRAPHICS.024.001</field>
+     <field name="series_si">Series III: Cartoons by Artist
+ </field>
