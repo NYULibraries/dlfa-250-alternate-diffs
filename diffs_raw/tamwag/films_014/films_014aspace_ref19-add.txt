@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">films_014</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">"With the Abraham Lincoln Brigade in Spain" Film.</field>
+-    <field name="collection_ssm">"With the Abraham Lincoln Brigade in Spain" Film.</field>
++    <field name="collection_sim">&#34;With the Abraham Lincoln Brigade in Spain&#34; Film.</field>
++    <field name="collection_ssm">&#34;With the Abraham Lincoln Brigade in Spain&#34; Film.</field>
+     <field name="collection_unitid_ssm">FILMS.014</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Videos.</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">"With the Abraham Lincoln Brigade in Spain" Film.</field>
++    <field name="collection_teim">&#34;With the Abraham Lincoln Brigade in Spain&#34; Film.</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">FILMS.014</field>
+     <field name="series_si">Series II: Videos.</field>
+     <field name="heading_ssm">Series II: Videos.</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1963-10-30/1963-10-30</field>
+     <field name="unitdate_normal_sim">1963-10-30/1963-10-30</field>
+     <field name="unitdate_teim">October 30, 1963</field>
+-    <field name="scopecontent_teim">At a press conference, TWU's Michael Quill discusses breakdown of negotiations with New York Transit Authority and threatened strike.</field>
++    <field name="scopecontent_teim">At a press conference, TWU&#39;s Michael Quill discusses breakdown of negotiations with New York Transit Authority and threatened strike.</field>
+     <field name="ref_ssi">aspace_af759882dfe87f8cd81bd42c0ccd2248</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Film_Canister: c71, 16mm_film_reels: 001_0911</field>
+     <field name="location_si">Film_Canister: c71, 16mm_film_reels: 001_0911</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>

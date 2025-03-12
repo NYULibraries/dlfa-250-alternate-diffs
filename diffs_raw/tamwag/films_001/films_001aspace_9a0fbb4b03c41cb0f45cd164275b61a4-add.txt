@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_teim">1966/1966</field>
+     <field name="unitdate_normal_sim">1966/1966</field>
+     <field name="unitdate_teim">1966</field>
+-    <field name="scopecontent_teim">Trims from Michael Quill's funeral service at St. Patrick's Cathedral.</field>
++    <field name="scopecontent_teim">Trims from Michael Quill&#39;s funeral service at St. Patrick&#39;s Cathedral.</field>
+     <field name="ref_ssi">aspace_9a0fbb4b03c41cb0f45cd164275b61a4</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">Film_Canister: c75, 16mm_film_reels: 001_0306</field>
+     <field name="location_si">Film_Canister: c75, 16mm_film_reels: 001_0306</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>

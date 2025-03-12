@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="collection_ssm">Carl Aldo Marzani Films</field>
+     <field name="collection_unitid_ssm">FILMS.013</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A People's Convention</field>
+-    <field name="unittitle_teim">A People's Convention</field>
+-    <field name="dao_teim">A People's Convention</field>
+-    <field name="dao_ssm">A People's Convention</field>
++    <field name="unittitle_ssm">A People&#39;s Convention</field>
++    <field name="unittitle_teim">A People&#39;s Convention</field>
++    <field name="dao_teim">A People&#39;s Convention</field>
++    <field name="dao_ssm">A People&#39;s Convention</field>
+     <field name="ref_ssi">aspace_ref4</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,9 +25,10 @@
+     <field name="location_si">Box: Shared Tamiment 121</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Carl Aldo Marzani Films</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">FILMS.013</field>
+-    <field name="series_si">A People's Convention</field>
+-    <field name="heading_ssm">A People's Convention</field>
++    <field name="series_si">A People&#39;s Convention</field>
++    <field name="heading_ssm">A People&#39;s Convention</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1</field>
+   </doc>

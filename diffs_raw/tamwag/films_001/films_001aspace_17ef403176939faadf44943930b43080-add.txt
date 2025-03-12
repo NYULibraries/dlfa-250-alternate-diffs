@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1960-01-22/1960-01-22</field>
+     <field name="unitdate_normal_sim">1960-01-22/1960-01-22</field>
+     <field name="unitdate_teim">January 22, 1960</field>
+-    <field name="scopecontent_teim">United States Senator Wayne Morse speaks out against the Kennedy-Landrum-Griffin bill and against Senator John F. Kennedy for Kennedy's sponsorship of the bill and for his machinations on behalf of it. Morse promises to continue fighting the bill by attempting to amend it.</field>
++    <field name="scopecontent_teim">United States Senator Wayne Morse speaks out against the Kennedy-Landrum-Griffin bill and against Senator John F. Kennedy for Kennedy&#39;s sponsorship of the bill and for his machinations on behalf of it. Morse promises to continue fighting the bill by attempting to amend it.</field>
+     <field name="dao_teim">Wayne Morse on Kennedy-Landrum-Griffen Bill</field>
+     <field name="dao_ssm">Wayne Morse on Kennedy-Landrum-Griffen Bill</field>
+     <field name="ref_ssi">aspace_17ef403176939faadf44943930b43080</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 19, Film_Canister: c95, 16mm_film_reels: 001_0416</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>
