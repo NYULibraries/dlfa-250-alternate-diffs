@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">Aug 9, 2009</field>
+-    <field name="scopecontent_teim">Bread and Roses, part of the 1199SEIU, was founded in 1979, as a cultural resource for union members and students in New York City who would otherwise have little access to the arts. Bread and Roses established the only permanent union exhibition space in the nation, Gallery 1199, at the union's New York City headquarters. Bread and Roses appears to be defunct as of 2009.</field>
++    <field name="scopecontent_teim">Bread and Roses, part of the 1199SEIU, was founded in 1979, as a cultural resource for union members and students in New York City who would otherwise have little access to the arts. Bread and Roses established the only permanent union exhibition space in the nation, Gallery 1199, at the union&#39;s New York City headquarters. Bread and Roses appears to be defunct as of 2009.</field>
+     <field name="corpname_teim">1199SEIU United Healthcare Workers East</field>
+     <field name="corpname_ssm">1199SEIU United Healthcare Workers East</field>
+     <field name="subject_teim">Hispanic American labor union members.</field>
+@@ -46,6 +46,7 @@
+     <field name="subject_sim">African American labor union members</field>
+     <field name="subject_sim">Labor in art.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">Bread and Roses Cultural Project Archived Website</field>
+     <field name="heading_ssm">Bread and Roses Cultural Project Archived Website</field>

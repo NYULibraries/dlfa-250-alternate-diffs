@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,12 +25,12 @@
+     <field name="corpname_teim">United Federation of Teachers</field>
+     <field name="corpname_ssm">Teachers for a Just Contract</field>
+     <field name="corpname_ssm">United Federation of Teachers</field>
+-    <field name="subject_teim">Teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_teim">Teachers' contracts -- United States.</field>
+-    <field name="subject_teim">Teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_teim">Teachers' contracts -- United States.</field>
+-    <field name="subject_ssm">Teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_ssm">Teachers' contracts -- United States.</field>
++    <field name="subject_teim">Teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_teim">Teachers&#39; contracts -- United States.</field>
++    <field name="subject_teim">Teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_teim">Teachers&#39; contracts -- United States.</field>
++    <field name="subject_ssm">Teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_ssm">Teachers&#39; contracts -- United States.</field>
+     <field name="dao_teim">Teachers for a Just Contract</field>
+     <field name="dao_ssm">Teachers for a Just Contract</field>
+     <field name="ref_ssi">aspace_ref1868</field>
+@@ -45,9 +45,10 @@
+     <field name="name_teim">Teachers for a Just Contract</field>
+     <field name="name_teim">United Federation of Teachers</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">Teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_sim">Teachers' contracts -- United States.</field>
++    <field name="subject_sim">Teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_sim">Teachers&#39; contracts -- United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Teachers for a Just Contract Archived Website</field>
+     <field name="heading_ssm">Teachers for a Just Contract Archived Website</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="creator_ssm">Working Families Party (N.Y.)</field>
+     <field name="creator_ssm">Working Families Party (N.Y.)</field>
+     <field name="unitdate_teim">Sep 23, 2007 - ongoing</field>
+-    <field name="scopecontent_teim">Founded in 1998, the Working Families Party (WFP) is New York progressive political party formed from community organizations, neighborhood activists, and labor unions. The party's main issue concerns are jobs, health care, education and energy/environment. The organization cross-endorses candidates who support their platforms. The website lists endorsed candidates, issues, and action alerts.</field>
++    <field name="scopecontent_teim">Founded in 1998, the Working Families Party (WFP) is New York progressive political party formed from community organizations, neighborhood activists, and labor unions. The party&#39;s main issue concerns are jobs, health care, education and energy/environment. The organization cross-endorses candidates who support their platforms. The website lists endorsed candidates, issues, and action alerts.</field>
+     <field name="corpname_teim">Working Families Party (N.Y.)</field>
+     <field name="corpname_ssm">Working Families Party (N.Y.)</field>
+     <field name="subject_teim">Labor movement -- Political activity -- United States.</field>
+@@ -41,6 +41,7 @@
+     <field name="subject_sim">Labor movement -- Political activity -- United States.</field>
+     <field name="subject_sim">Political parties -- New York (State)</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Working Families Party Archived Website</field>
+     <field name="heading_ssm">Working Families Party Archived Website</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="creator_ssm">Zinn, Howard, 1922-2010</field>
+     <field name="creator_ssm">Zinn, Howard, 1922-2010</field>
+     <field name="unitdate_teim">Jul 1, 2010 - ongoing</field>
+-    <field name="scopecontent_teim">This is the website of Howard Zinn (1922-2010), the noted radical U.S. historian and author of "A People's History of the United States." In addition to a biography and bibliography, the site contains print interviews, essays and commentary, audio and video, and information about The People Speak, the documentary based on the live performances of Howard Zinn and Anthony Arnove's Voices of a People's History of the United States.</field>
++    <field name="scopecontent_teim">This is the website of Howard Zinn (1922-2010), the noted radical U.S. historian and author of &#34;A People&#39;s History of the United States.&#34; In addition to a biography and bibliography, the site contains print interviews, essays and commentary, audio and video, and information about The People Speak, the documentary based on the live performances of Howard Zinn and Anthony Arnove&#39;s Voices of a People&#39;s History of the United States.</field>
+     <field name="persname_teim">Zinn, Howard, 1922-2010</field>
+     <field name="persname_ssm">Zinn, Howard, 1922-2010</field>
+     <field name="subject_teim">Historians -- United States.</field>
+@@ -35,6 +35,7 @@
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Historians -- United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Individuals</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.001</field>
+     <field name="series_si">Zinn, Howard Archived Website</field>
+     <field name="heading_ssm">Zinn, Howard Archived Website</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2015/2017</field>
+     <field name="unitdate_normal_sim">2015/2017</field>
+     <field name="unitdate_inclusive_teim">April 2015-June 2017</field>
+-    <field name="scopecontent_teim">The Organization for Black Struggle was founded in 1980 by activists, students, union organizers and other community members in St Louis, Missouri, with the aim of building Black power. The websites contains information about the organization's political platform, news and events, and the national mobilization against police violence following the 2014 police killing of Mike Brown in Ferguson, Missouri.</field>
++    <field name="scopecontent_teim">The Organization for Black Struggle was founded in 1980 by activists, students, union organizers and other community members in St Louis, Missouri, with the aim of building Black power. The websites contains information about the organization&#39;s political platform, news and events, and the national mobilization against police violence following the 2014 police killing of Mike Brown in Ferguson, Missouri.</field>
+     <field name="corpname_teim">Organization for Black Struggle</field>
+     <field name="corpname_ssm">Organization for Black Struggle</field>
+     <field name="geogname_teim">St. Louis (Missouri)</field>
+@@ -48,6 +48,7 @@
+     <field name="subject_sim">Black power.</field>
+     <field name="subject_sim">Police brutality.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Organization for Black Struggle Archived Website</field>
+     <field name="heading_ssm">Organization for Black Struggle Archived Website</field>

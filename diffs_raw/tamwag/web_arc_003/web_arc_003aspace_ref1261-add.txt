@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">Feb 14, 2012-Apr 14, 2012</field>
+-    <field name="scopecontent_teim">Occupy Face is a graphic design project to create a new symbol and "face" for the Occupy Wall Street movement. The artwork featured on the website was created by Paul-Felix Montez.</field>
++    <field name="scopecontent_teim">Occupy Face is a graphic design project to create a new symbol and &#34;face&#34; for the Occupy Wall Street movement. The artwork featured on the website was created by Paul-Felix Montez.</field>
+     <field name="corpname_teim">OccupyFace</field>
+     <field name="corpname_ssm">OccupyFace</field>
+     <field name="subject_teim">Occupy Wall Street (Movement).</field>
+@@ -44,6 +44,7 @@
+     <field name="subject_sim">Occupy Wall Street (Movement).</field>
+     <field name="subject_sim">Graphic artists -- United States</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">OccupyFACE Archived Website</field>
+     <field name="heading_ssm">OccupyFACE Archived Website</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,13 +15,13 @@
+     <field name="creator_ssm">Guthrie, Woody, 1912-1967</field>
+     <field name="creator_ssm">Guthrie, Woody, 1912-1967</field>
+     <field name="unitdate_teim">Aug 16, 2009 - ongoing</field>
+-    <field name="scopecontent_teim">The Official Woody Guthrie Website is also the home of the Woody Guthrie Archives, the Woody Guthrie Foundation, and Woody Guthrie Publications, Inc. Woody Guthrie (1912-1967) was a famous American folk singer, and Communist, best known for the anthem "This Land is Your Land."</field>
++    <field name="scopecontent_teim">The Official Woody Guthrie Website is also the home of the Woody Guthrie Archives, the Woody Guthrie Foundation, and Woody Guthrie Publications, Inc. Woody Guthrie (1912-1967) was a famous American folk singer, and Communist, best known for the anthem &#34;This Land is Your Land.&#34;</field>
+     <field name="persname_teim">Guthrie, Woody, 1912-1967</field>
+     <field name="persname_ssm">Guthrie, Woody, 1912-1967</field>
+     <field name="subject_teim">Communists -- United States.</field>
+     <field name="subject_teim">Folk singers |z United States.</field>
+     <field name="subject_teim">Communists -- United States.</field>
+-    <field name="subject_teim">Folk singers -- United States.</field>
++    <field name="subject_teim">Folk singers --United States.</field>
+     <field name="subject_ssm">Communists -- United States.</field>
+     <field name="subject_ssm">Folk singers |z United States.</field>
+     <field name="dao_teim">Guthrie, Woody (1912-1967)</field>
+@@ -37,8 +37,9 @@
+     <field name="name_teim">Guthrie, Woody, 1912-1967</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Communists -- United States.</field>
+-    <field name="subject_sim">Folk singers -- United States.</field>
++    <field name="subject_sim">Folk singers --United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Individuals</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.001</field>
+     <field name="series_si">Guthrie, Woody (1912-1967) Archived Website</field>
+     <field name="heading_ssm">Guthrie, Woody (1912-1967) Archived Website</field>

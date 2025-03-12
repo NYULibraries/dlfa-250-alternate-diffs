@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2012/2014</field>
+     <field name="unitdate_normal_sim">2012/2014</field>
+     <field name="unitdate_inclusive_teim">Mar 9, 2012-Mar 7, 2014</field>
+-    <field name="scopecontent_teim">Occupy the Board Room is a site that provides those with a valid email account an opportunity to choose a "pen pal" in the top 1%, to whom they can voice their frustrations about America's economic issues.</field>
++    <field name="scopecontent_teim">Occupy the Board Room is a site that provides those with a valid email account an opportunity to choose a &#34;pen pal&#34; in the top 1%, to whom they can voice their frustrations about America&#39;s economic issues.</field>
+     <field name="corpname_teim">Occupy the Boardroom</field>
+     <field name="corpname_ssm">Occupy the Boardroom</field>
+     <field name="subject_teim">Distributive justice.</field>
+@@ -52,6 +52,7 @@
+     <field name="subject_sim">Occupy Wall Street (Movement).</field>
+     <field name="subject_sim">Social responsibility of business.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Occupy the Board Room Archived Website</field>
+     <field name="heading_ssm">Occupy the Board Room Archived Website</field>

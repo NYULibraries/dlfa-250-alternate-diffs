@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="corpname_ssm">New York Taxi Workers Alliance</field>
+     <field name="subject_teim">Taxicab workers |z New York (State) |z New York.</field>
+     <field name="subject_teim">Taxicab workers -- Labor unions -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Taxicab workers -- New York (State) -- New York.</field>
++    <field name="subject_teim">Taxicab workers --New York (State) --New York.</field>
+     <field name="subject_teim">Taxicab workers -- Labor unions -- New York (State) -- New York.</field>
+     <field name="subject_ssm">Taxicab workers |z New York (State) |z New York.</field>
+     <field name="subject_ssm">Taxicab workers -- Labor unions -- New York (State) -- New York.</field>
+@@ -39,9 +39,10 @@
+     <field name="name_sim">New York Taxi Workers Alliance</field>
+     <field name="name_teim">New York Taxi Workers Alliance</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">Taxicab workers -- New York (State) -- New York.</field>
++    <field name="subject_sim">Taxicab workers --New York (State) --New York.</field>
+     <field name="subject_sim">Taxicab workers -- Labor unions -- New York (State) -- New York.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">New York Taxi Workers Alliance Archived Website</field>
+     <field name="heading_ssm">New York Taxi Workers Alliance Archived Website</field>

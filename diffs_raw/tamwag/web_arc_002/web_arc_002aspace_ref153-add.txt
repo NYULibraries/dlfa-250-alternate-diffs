@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="subject_teim">Hispanic American agricultural laborers.</field>
+     <field name="subject_teim">Agricultural laborers |x Labor unions |z United States.</field>
+     <field name="subject_teim">Hispanic American agricultural laborers.</field>
+-    <field name="subject_teim">Agricultural laborers -- Labor unions -- United States.</field>
++    <field name="subject_teim">Agricultural laborers --Labor unions --United States.</field>
+     <field name="subject_ssm">Hispanic American agricultural laborers.</field>
+     <field name="subject_ssm">Agricultural laborers |x Labor unions |z United States.</field>
+     <field name="dao_teim">Farm Labor Organizing Committee (FLOC)</field>
+@@ -40,8 +40,9 @@
+     <field name="name_teim">Farm Labor Organizing Committee (Ohio)</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Hispanic American agricultural laborers.</field>
+-    <field name="subject_sim">Agricultural laborers -- Labor unions -- United States.</field>
++    <field name="subject_sim">Agricultural laborers --Labor unions --United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">Farm Labor Organizing Committee (FLOC) Archived Website</field>
+     <field name="heading_ssm">Farm Labor Organizing Committee (FLOC) Archived Website</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2011/2013</field>
+     <field name="unitdate_normal_sim">2011/2013</field>
+     <field name="unitdate_inclusive_teim">Oct 14, 2011-Oct 13, 2013</field>
+-    <field name="scopecontent_teim">Make Wall Street Pay is a campaign supported by National People Action. The campaign gives Americans the means to air grievances toward corporate banks and calls for banks to pay their fair share. The website contains "bills" sent by users posted to the website addressed to the banks.</field>
++    <field name="scopecontent_teim">Make Wall Street Pay is a campaign supported by National People Action. The campaign gives Americans the means to air grievances toward corporate banks and calls for banks to pay their fair share. The website contains &#34;bills&#34; sent by users posted to the website addressed to the banks.</field>
+     <field name="corpname_teim">National Peoples Action</field>
+     <field name="corpname_ssm">National Peoples Action</field>
+     <field name="subject_teim">Distributive justice.</field>
+@@ -44,6 +44,7 @@
+     <field name="subject_sim">Distributive justice.</field>
+     <field name="subject_sim">Social responsibility in banking.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Make Wall Street Pay Archived Website</field>
+     <field name="heading_ssm">Make Wall Street Pay Archived Website</field>

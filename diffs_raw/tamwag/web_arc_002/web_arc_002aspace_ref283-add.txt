@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="corpname_teim">New York Labor History Association</field>
+     <field name="corpname_ssm">New York Labor History Association</field>
+     <field name="subject_teim">Labor |z New York (State) |x History |x Societies, etc.</field>
+-    <field name="subject_teim">Labor -- New York (State) -- History -- Societies, etc.</field>
++    <field name="subject_teim">Labor --New York (State) --History --Societies, etc.</field>
+     <field name="subject_ssm">Labor |z New York (State) |x History |x Societies, etc.</field>
+     <field name="dao_teim">New York Labor History Association</field>
+     <field name="dao_ssm">New York Labor History Association</field>
+@@ -36,8 +36,9 @@
+     <field name="name_sim">New York Labor History Association</field>
+     <field name="name_teim">New York Labor History Association</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">Labor -- New York (State) -- History -- Societies, etc.</field>
++    <field name="subject_sim">Labor --New York (State) --History --Societies, etc.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">New York Labor History Association Archived Website</field>
+     <field name="heading_ssm">New York Labor History Association Archived Website</field>

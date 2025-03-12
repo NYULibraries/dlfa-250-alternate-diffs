@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="subject_teim">Social workers -- New York (State) -- New York</field>
+     <field name="subject_teim">Social workers |x Labor unions |z New York (State) |z New York.</field>
+     <field name="subject_teim">Social workers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Social workers -- Labor unions -- New York (State) -- New York.</field>
++    <field name="subject_teim">Social workers --Labor unions --New York (State) --New York.</field>
+     <field name="subject_ssm">Social workers -- New York (State) -- New York</field>
+     <field name="subject_ssm">Social workers |x Labor unions |z New York (State) |z New York.</field>
+     <field name="dao_teim">Social Service Employees Union Local 371 Archived Website: September 2007-March 2019</field>
+@@ -40,8 +40,9 @@
+     <field name="name_teim">Social Service Employees Union. Local 371</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Social workers -- New York (State) -- New York</field>
+-    <field name="subject_sim">Social workers -- Labor unions -- New York (State) -- New York.</field>
++    <field name="subject_sim">Social workers --Labor unions --New York (State) --New York.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">Social Service Employees Union Local 371 Archived Website</field>
+     <field name="heading_ssm">Social Service Employees Union Local 371 Archived Website</field>
