@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1985/1985</field>
+     <field name="unitdate_normal_sim">1985/1985</field>
+     <field name="unitdate_inclusive_teim">Oct 19, 1985</field>
+-    <field name="scopecontent_teim">Subjects discussed include the Teachers Guild's evolution and strike, bargaining coalition, and the evolution of the UFT.</field>
++    <field name="scopecontent_teim">Subjects discussed include the Teachers Guild&#39;s evolution and strike, bargaining coalition, and the evolution of the UFT.</field>
+     <field name="ref_ssi">aspace_ref11</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 3, CD: 12A-B</field>
+     <field name="location_si">Box: 3, CD: 12A-B</field>
+     <field name="collection_teim">United Federation of Teachers Oral History Collection</field>
++    <field name="author_teim">David Olsen</field>
+     <field name="collection_unitid_teim">OH.009</field>
+     <field name="series_si">Jeannette DiLorenzo</field>
+     <field name="heading_ssm">Jeannette DiLorenzo</field>

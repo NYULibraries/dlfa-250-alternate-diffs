@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+     <field name="unitdate_inclusive_teim">Dec 23, 1981</field>
+-    <field name="scopecontent_teim">Interview documents Moore's experiences in the Communist Party in Harlem during the 1930s.</field>
++    <field name="scopecontent_teim">Interview documents Moore&#39;s experiences in the Communist Party in Harlem during the 1930s.</field>
+     <field name="scopecontent_teim">Interview by Ruth Prago.</field>
+     <field name="dao_teim">Mother Audley Moore</field>
+     <field name="dao_ssm">Mother Audley Moore</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 8, Folder: 5</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+     <field name="series_sim">Oral History of the American Left Main Series</field>
+     <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Mother Audley Moore</field>

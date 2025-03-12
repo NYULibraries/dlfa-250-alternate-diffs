@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_inclusive_teim">Mar 15, 1989</field>
+-    <field name="scopecontent_teim">Interview includes discussion of Bui's youth in Vietnam, immigration to the United States, the clothing business that Bui owned in the Bronx, and his views on challenges contracting with clients and negotiating with unions.</field>
++    <field name="scopecontent_teim">Interview includes discussion of Bui&#39;s youth in Vietnam, immigration to the United States, the clothing business that Bui owned in the Bronx, and his views on challenges contracting with clients and negotiating with unions.</field>
+     <field name="ref_ssi">aspace_ref2</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Cassette: 3</field>
+     <field name="location_si">Box: 1, Cassette: 3</field>
+     <field name="collection_teim">Asian Garment Workers in New York City Oral History Collection</field>
++    <field name="author_teim">Unattributed Tamiment staff and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.018</field>
+     <field name="series_si">Paul Bui</field>
+     <field name="heading_ssm">Paul Bui</field>

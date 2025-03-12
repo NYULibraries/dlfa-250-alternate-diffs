@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+     <field name="unitdate_inclusive_teim">March 10, 1981</field>
+-    <field name="scopecontent_teim">Public Employment Relations Board; "Little Wagner Act".</field>
++    <field name="scopecontent_teim">Public Employment Relations Board; &#34;Little Wagner Act&#34;.</field>
+     <field name="scopecontent_teim">Master copies in box 25, user copy for 59B in box 36 (cassettes).</field>
+     <field name="ref_ssi">aspace_ref208</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,11 +25,12 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">CD: OH-01-379 / OH-01-380 / OH-01-381 / OH-01-382</field>
++    <field name="location_ssm">CD: OH-01-379 / OH-01-380 / OH-01-381 / OH-01-382 </field>
+     <field name="location_ssm">Box: 25, audiocassette: 59A, 59B</field>
+     <field name="location_ssm">Box: 36, audiocassette: 59B</field>
+     <field name="location_si">Box: 36, audiocassette: 59B</field>
+     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">OH.001</field>
+     <field name="series_si">Ida Klaus</field>
+     <field name="heading_ssm">Ida Klaus</field>

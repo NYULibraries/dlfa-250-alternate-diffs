@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1973/1973</field>
+     <field name="unitdate_normal_sim">1973/1973</field>
+     <field name="unitdate_inclusive_teim">Aug 10, 1973 and Aug 25, 1973</field>
+-    <field name="scopecontent_teim">Interview is part of a series of interviews intended to document the activities of the Worker's Health Bureau, which was founded in 1920.</field>
++    <field name="scopecontent_teim">Interview is part of a series of interviews intended to document the activities of the Worker&#39;s Health Bureau, which was founded in 1920.</field>
+     <field name="dao_teim">Grace Burnham McDonald</field>
+     <field name="dao_ssm">Grace Burnham McDonald</field>
+     <field name="ref_ssi">aspace_ref686</field>
+@@ -35,6 +35,7 @@
+     <field name="location_si">Box: 80, Cassette: 360 A-B</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+     <field name="series_sim">Oral History of the American Left Main Series</field>
+     <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Grace Burnham McDonald</field>

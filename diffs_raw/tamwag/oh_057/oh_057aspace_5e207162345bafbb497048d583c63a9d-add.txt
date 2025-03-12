@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">James E. Jackson Audiotapes Collection</field>
+     <field name="collection_unitid_ssm">OH.057</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">On Brezhnev's Visit to India and The Polish Crisis and Polish Crisis</field>
+-    <field name="unittitle_teim">On Brezhnev's Visit to India and The Polish Crisis and Polish Crisis</field>
++    <field name="unittitle_ssm">On Brezhnev&#39;s Visit to India and The Polish Crisis and Polish Crisis</field>
++    <field name="unittitle_teim">On Brezhnev&#39;s Visit to India and The Polish Crisis and Polish Crisis</field>
+     <field name="unitdate_normal_ssm">1980/1980</field>
+     <field name="unitdate_normal_teim">1980/1980</field>
+     <field name="unitdate_normal_sim">1980/1980</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Cassette: 19</field>
+     <field name="location_si">Box: 1, Cassette: 19</field>
+     <field name="collection_teim">James E. Jackson Audiotapes Collection</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">OH.057</field>
+     <field name="series_sim">Series II: Lectures, Speeches</field>
+-    <field name="series_si">Series II: Lectures, Speeches &gt;&gt; On Brezhnev's Visit to India and The Polish Crisis and Polish Crisis</field>
+-    <field name="heading_ssm">On Brezhnev's Visit to India and The Polish Crisis and Polish Crisis</field>
++    <field name="series_si">Series II: Lectures, Speeches &gt;&gt; On Brezhnev&#39;s Visit to India and The Polish Crisis and Polish Crisis</field>
++    <field name="heading_ssm">On Brezhnev&#39;s Visit to India and The Polish Crisis and Polish Crisis</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>

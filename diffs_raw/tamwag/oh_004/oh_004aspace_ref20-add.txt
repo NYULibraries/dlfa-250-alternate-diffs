@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1983/1983</field>
+     <field name="unitdate_normal_sim">1983/1983</field>
+     <field name="unitdate_inclusive_teim">Nov 18, 1983</field>
+-    <field name="scopecontent_teim">"Immigrant Entrepreneurship in the New York Garment Industry"</field>
++    <field name="scopecontent_teim">&#34;Immigrant Entrepreneurship in the New York Garment Industry&#34;</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: Shared Tamiment 095, Cassette: 20</field>
+     <field name="location_si">Box: Shared Tamiment 095, Cassette: 20</field>
+     <field name="collection_teim">Hispanic Apparel Union Officers Oral History Collection</field>
++    <field name="author_teim">Tamiment staff; David Olson</field>
+     <field name="collection_unitid_teim">OH.004</field>
+     <field name="series_si">Roger Waldinger</field>
+     <field name="heading_ssm">Roger Waldinger</field>
