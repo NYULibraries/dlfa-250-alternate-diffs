@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,14 +9,18 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Freedom &lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Atlanta , Ga.</field>
+-    <field name="unittitle_teim">Freedom Place of publication: Atlanta , Ga.</field>
++    <field name="unittitle_ssm">&lt;em&gt;Freedom &lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Atlanta , Ga.</field>
++    <field name="unittitle_teim">Freedom 
++
++Place of publication: Atlanta , Ga.</field>
+     <field name="unitdate_normal_ssm">1963/1964</field>
+     <field name="unitdate_normal_teim">1963/1964</field>
+     <field name="unitdate_normal_sim">1963/1964</field>
+     <field name="unitdate_inclusive_teim">1963-1964</field>
+-    <field name="title_teim">Freedom</field>
+-    <field name="title_ssm">Freedom</field>
++    <field name="title_teim">Freedom </field>
++    <field name="title_ssm">Freedom </field>
+     <field name="ref_ssi">aspace_ab2f6b9f64bededec722f1fbc15b3b1e</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -26,9 +30,14 @@
+     <field name="location_ssm">Box: 152</field>
+     <field name="location_si">Box: 152</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Freedom &lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Atlanta , Ga.</field>
+-    <field name="heading_ssm">Freedom Place of publication: Atlanta , Ga.</field>
++    <field name="series_si">&lt;em&gt;Freedom &lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Atlanta , Ga.</field>
++    <field name="heading_ssm">Freedom 
++
++Place of publication: Atlanta , Ga.</field>
+     <field name="unitdate_start_sim">1963</field>
+     <field name="unitdate_start_ssm">1963</field>
+     <field name="unitdate_start_si">1963</field>

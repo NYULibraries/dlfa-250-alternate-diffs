@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,16 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;People's Press&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Clarksville , Tenn. &lt;strong&gt;Publisher&lt;/strong&gt;: G.I.s at Fort Campbell</field>
+-    <field name="unittitle_teim">People's Press Place of publication: Clarksville , Tenn. Publisher: G.I.s at Fort Campbell</field>
++    <field name="unittitle_ssm">&lt;em&gt;People&#39;s Press&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Clarksville , Tenn. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: G.I.s at Fort Campbell</field>
++    <field name="unittitle_teim">People&#39;s Press
++
++Place of publication: Clarksville , Tenn. 
++
++Publisher: G.I.s at Fort Campbell</field>
+     <field name="unitdate_normal_ssm">1971/1972</field>
+     <field name="unitdate_normal_teim">1971/1972</field>
+     <field name="unitdate_normal_sim">1971/1972</field>
+@@ -17,8 +25,8 @@
+     <field name="unitdate_inclusive_teim">1971-1972</field>
+     <field name="corpname_teim">G.I.s at Fort Campbell</field>
+     <field name="corpname_ssm">G.I.s at Fort Campbell</field>
+-    <field name="title_teim">People's Press</field>
+-    <field name="title_ssm">People's Press</field>
++    <field name="title_teim">People&#39;s Press</field>
++    <field name="title_ssm">People&#39;s Press</field>
+     <field name="ref_ssi">aspace_219fd9e495e5f4bb2b4fcaf96ccdefcd</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,9 +38,18 @@
+     <field name="name_sim">G.I.s at Fort Campbell</field>
+     <field name="name_teim">G.I.s at Fort Campbell</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;People's Press&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Clarksville , Tenn. &lt;strong&gt;Publisher&lt;/strong&gt;: G.I.s at Fort Campbell</field>
+-    <field name="heading_ssm">People's Press Place of publication: Clarksville , Tenn. Publisher: G.I.s at Fort Campbell</field>
++    <field name="series_si">&lt;em&gt;People&#39;s Press&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Clarksville , Tenn. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: G.I.s at Fort Campbell</field>
++    <field name="heading_ssm">People&#39;s Press
++
++Place of publication: Clarksville , Tenn. 
++
++Publisher: G.I.s at Fort Campbell</field>
+     <field name="unitdate_start_sim">1971</field>
+     <field name="unitdate_start_ssm">1971</field>
+     <field name="unitdate_start_si">1971</field>

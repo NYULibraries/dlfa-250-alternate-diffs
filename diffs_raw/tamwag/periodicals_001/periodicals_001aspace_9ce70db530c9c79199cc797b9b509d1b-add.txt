@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,16 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;New Jersey Teamster News&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Jersey City , N.J. &lt;strong&gt;Publisher&lt;/strong&gt;: New Jersey Teamsters Joint Council No. 73</field>
+-    <field name="unittitle_teim">New Jersey Teamster News Place of publication: Jersey City , N.J. Publisher: New Jersey Teamsters Joint Council No. 73</field>
++    <field name="unittitle_ssm">&lt;em&gt;New Jersey Teamster News&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Jersey City , N.J.
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: New Jersey Teamsters Joint Council No. 73</field>
++    <field name="unittitle_teim">New Jersey Teamster News
++
++Place of publication: Jersey City , N.J.
++
++Publisher: New Jersey Teamsters Joint Council No. 73</field>
+     <field name="unitdate_normal_ssm">1967/2010</field>
+     <field name="unitdate_normal_teim">1967/2010</field>
+     <field name="unitdate_normal_sim">1967/2010</field>
+@@ -30,9 +38,18 @@
+     <field name="name_sim">New Jersey Teamsters Joint Council No. 73</field>
+     <field name="name_teim">New Jersey Teamsters Joint Council No. 73</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;New Jersey Teamster News&lt;/em&gt; &lt;strong&gt;Place of publication&lt;/strong&gt;: Jersey City , N.J. &lt;strong&gt;Publisher&lt;/strong&gt;: New Jersey Teamsters Joint Council No. 73</field>
+-    <field name="heading_ssm">New Jersey Teamster News Place of publication: Jersey City , N.J. Publisher: New Jersey Teamsters Joint Council No. 73</field>
++    <field name="series_si">&lt;em&gt;New Jersey Teamster News&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Jersey City , N.J.
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: New Jersey Teamsters Joint Council No. 73</field>
++    <field name="heading_ssm">New Jersey Teamster News
++
++Place of publication: Jersey City , N.J.
++
++Publisher: New Jersey Teamsters Joint Council No. 73</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>
+     <field name="unitdate_start_si">1967</field>
