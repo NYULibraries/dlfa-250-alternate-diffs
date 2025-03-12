@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,11 @@
+     <field name="collection_ssm">Mahmoud Hammad Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.091</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">II.D. Press Clippings from the 1980s, until the Artist's Death on August 11, 1988</field>
+-    <field name="unittitle_teim">II.D. Press Clippings from the 1980s, until the Artist's Death on August 11, 1988</field>
++    <field name="unittitle_ssm">II.D. Press Clippings from the 1980s, until the Artist&#39;s Death on August 11, 1988</field>
++    <field name="unittitle_teim">II.D. Press Clippings from the 1980s, until the Artist&#39;s Death on August 11, 1988</field>
+     <field name="unitid_teim">cuid269</field>
+     <field name="unitid_ssm">cuid269</field>
+-    <field name="scopecontent_teim">This subseries includes clippings from Syrian newspapers that cover annual art exhibitions and other major events in cultural life; features on Hammad that discuss his work; "Artists in Damascus," an illustrated article in Saudi Aramco World (1981).</field>
++    <field name="scopecontent_teim">This subseries includes clippings from Syrian newspapers that cover annual art exhibitions and other major events in cultural life; features on Hammad that discuss his work; &#34;Artists in Damascus,&#34; an illustrated article in Saudi Aramco World (1981).</field>
+     <field name="ref_ssi">aspace_0609d0af4d2de3b153687e5d2234f68f</field>
+     <field name="repository_ssi">arabartarchive</field>
+     <field name="repository_sim">arabartarchive</field>
+@@ -25,10 +25,12 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Mahmoud Hammad Collection</field>
++    <field name="author_teim">Ibrahim Mohamed Ali, Anneka Lenssen, Dina Taha, Ala Younis, Jonathan Burr, and Jasmine Soliman.
++</field>
+     <field name="collection_unitid_teim">AD.MC.091</field>
+     <field name="series_sim">Series II: Press Clippings</field>
+-    <field name="series_si">Series II: Press Clippings &gt;&gt; II.D. Press Clippings from the 1980s, until the Artist's Death on August 11, 1988</field>
+-    <field name="heading_ssm">II.D. Press Clippings from the 1980s, until the Artist's Death on August 11, 1988</field>
++    <field name="series_si">Series II: Press Clippings &gt;&gt; II.D. Press Clippings from the 1980s, until the Artist&#39;s Death on August 11, 1988</field>
++    <field name="heading_ssm">II.D. Press Clippings from the 1980s, until the Artist&#39;s Death on August 11, 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">80</field>
+   </doc>
