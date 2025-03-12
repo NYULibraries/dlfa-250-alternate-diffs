@@ -1,0 +1,65 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_ea65914232dbedcecc1ad621a29f8afd</field>
+     <field name="parent_ssm">aspace_ea65914232dbedcecc1ad621a29f8afd</field>
+-    <field name="parent_unittitles_ssm">Eve's Daughters (Banat hawa)</field>
+-    <field name="parent_unittitles_teim">Eve's Daughters (Banat hawa)</field>
++    <field name="parent_unittitles_ssm">Eve&amp;#39;s Daughters (Banat hawa)</field>
++    <field name="parent_unittitles_teim">Eve&amp;#39;s Daughters (Banat hawa)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Eve's Daughters (Banat hawa) | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
+-    <field name="unittitle_teim">Eve's Daughters (Banat hawa) | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
++    <field name="unittitle_ssm">Eve&#39;s Daughters (Banat hawa)
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
++    <field name="unittitle_teim">Eve&#39;s Daughters (Banat hawa)
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
+     <field name="unitid_teim">ref69_000002</field>
+     <field name="unitid_ssm">ref69_000002</field>
+     <field name="creator_teim">Mostafa, Niazi</field>
+@@ -52,10 +54,14 @@
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">Furnishings</field>
+-    <field name="dao_teim">Eve's Daughters | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
+-    <field name="dao_teim">Eve's Daughters | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
+-    <field name="dao_ssm">Eve's Daughters | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
+-    <field name="dao_ssm">Eve's Daughters | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
++    <field name="dao_teim">Eve&#39;s Daughters 
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
++    <field name="dao_teim">Eve&#39;s Daughters 
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
++    <field name="dao_ssm">Eve&#39;s Daughters 
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
++    <field name="dao_ssm">Eve&#39;s Daughters 
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy: 1954-</field>
+     <field name="ref_ssi">aspace_db9b04a890dccd070c80fafb2fc6c36b</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -77,12 +83,15 @@
+     <field name="subject_sim">Actors</field>
+     <field name="subject_sim">Furnishings</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">Eve's Daughters (Banat hawa)</field>
+-    <field name="series_si">Eve's Daughters (Banat hawa) &gt;&gt; Eve's Daughters (Banat hawa) | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
++    <field name="series_sim">Eve&amp;#39;s Daughters (Banat hawa)</field>
++    <field name="series_si">Eve&#39;s Daughters (Banat hawa) &gt;&gt; Eve&#39;s Daughters (Banat hawa)
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">Eve's Daughters (Banat hawa) | Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
++    <field name="heading_ssm">Eve&#39;s Daughters (Banat hawa)
++| Actors in Image: Shadya, Ismail Yasin, Mohamed Fawzy</field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>

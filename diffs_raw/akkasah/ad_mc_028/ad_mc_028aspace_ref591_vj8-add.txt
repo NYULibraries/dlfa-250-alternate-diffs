@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Helwan's Casino. 14 x 9 cm</field>
+-    <field name="unittitle_teim">Helwan's Casino. 14 x 9 cm</field>
++    <field name="unittitle_ssm">Helwan&#39;s Casino. 14 x 9 cm</field>
++    <field name="unittitle_teim">Helwan&#39;s Casino. 14 x 9 cm</field>
+     <field name="unitdate_teim">1984</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -39,10 +39,10 @@
+     <field name="subject_ssm">Arabic Writing</field>
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Signs/Signposts</field>
+-    <field name="dao_teim">Helwan's Casino. 14 x 9 cm: 1984</field>
+-    <field name="dao_teim">Helwan's Casino. 14 x 9 cm: 1984</field>
+-    <field name="dao_ssm">Helwan's Casino. 14 x 9 cm: 1984</field>
+-    <field name="dao_ssm">Helwan's Casino. 14 x 9 cm: 1984</field>
++    <field name="dao_teim">Helwan&#39;s Casino. 14 x 9 cm: 1984</field>
++    <field name="dao_teim">Helwan&#39;s Casino. 14 x 9 cm: 1984</field>
++    <field name="dao_ssm">Helwan&#39;s Casino. 14 x 9 cm: 1984</field>
++    <field name="dao_ssm">Helwan&#39;s Casino. 14 x 9 cm: 1984</field>
+     <field name="ref_ssi">aspace_ref591_vj8</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -62,13 +62,14 @@
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Signs/Signposts</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">Helwan's Casino. 14 x 9 cm</field>
++    <field name="series_si">Helwan&#39;s Casino. 14 x 9 cm</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Helwan's Casino. 14 x 9 cm</field>
++    <field name="heading_ssm">Helwan&#39;s Casino. 14 x 9 cm</field>
+     <field name="unitdate_ssm">1984</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">590</field>

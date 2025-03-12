@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Group photo of clergymen in the desert. 39.5 x 29.7 cm</field>
+-    <field name="unittitle_teim">Group photo of clergymen in the desert. 39.5 x 29.7 cm</field>
++    <field name="unittitle_ssm">Group photo of clergymen in the desert. 39.5 x 29.7 cm </field>
++    <field name="unittitle_teim">Group photo of clergymen in the desert. 39.5 x 29.7 cm </field>
+     <field name="unitdate_teim">Circa 1932</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+@@ -54,10 +54,10 @@
+     <field name="subject_ssm">Italian Writing</field>
+     <field name="subject_ssm">Transportation</field>
+     <field name="subject_ssm">Facial Hair</field>
+-    <field name="dao_teim">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_teim">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_ssm">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+-    <field name="dao_ssm">Group photo "Frères" priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_teim">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_teim">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_ssm">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
++    <field name="dao_ssm">Group photo &#34;Frères&#34; priests and clergy in the desert. 39.5 x 29.7 cm : Circa 1932</field>
+     <field name="ref_ssi">aspace_ref901_vdb</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -82,13 +82,14 @@
+     <field name="subject_sim">Transportation</field>
+     <field name="subject_sim">Facial Hair</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">Group photo of clergymen in the desert. 39.5 x 29.7 cm</field>
++    <field name="series_si">Group photo of clergymen in the desert. 39.5 x 29.7 cm </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Group photo of clergymen in the desert. 39.5 x 29.7 cm</field>
++    <field name="heading_ssm">Group photo of clergymen in the desert. 39.5 x 29.7 cm </field>
+     <field name="unitdate_ssm">Circa 1932</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">899</field>

@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="collection_unitid_ssm">AD.MC.043</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia.</field>
+-    <field name="unittitle_teim">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia.</field>
++    <field name="unittitle_ssm">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia. </field>
++    <field name="unittitle_teim">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia. </field>
+     <field name="unitid_teim">AD_MC_043_ref16</field>
+     <field name="unitid_ssm">AD_MC_043_ref16</field>
+     <field name="unitdate_teim">Circa 1950s</field>
+@@ -93,9 +93,10 @@
+     <field name="subject_sim">Parades/Processions</field>
+     <field name="subject_sim">Events/Occasions</field>
+     <field name="subject_sim">Jewelry</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.043</field>
+-    <field name="series_si">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia.</field>
++    <field name="series_si">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia. </field>
+     <field name="material_type_sim">Newspaper Clippings</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+@@ -102,7 +103,7 @@
+     <field name="material_type_ssm">Newspaper Clippings</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia.</field>
++    <field name="heading_ssm">From the top left clockwise: a fishing net for Tuna, a newspaper clipping of a bride, and a wedding procession in Hammamet, Tunisia. </field>
+     <field name="unitdate_ssm">Circa 1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

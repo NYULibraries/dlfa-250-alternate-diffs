@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_426e0b115f71186d4b8c4503e5e353c1</field>
+     <field name="parent_ssm">aspace_426e0b115f71186d4b8c4503e5e353c1</field>
+-    <field name="parent_unittitles_ssm">What's Happened to the World</field>
+-    <field name="parent_unittitles_teim">What's Happened to the World</field>
++    <field name="parent_unittitles_ssm">What&amp;#39;s Happened to the World</field>
++    <field name="parent_unittitles_teim">What&amp;#39;s Happened to the World</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">What's Happened to the World</field>
+-    <field name="unittitle_teim">What's Happened to the World</field>
++    <field name="unittitle_ssm">What&#39;s Happened to the World</field>
++    <field name="unittitle_teim">What&#39;s Happened to the World</field>
+     <field name="unitid_teim">ref265_000002</field>
+     <field name="unitid_ssm">ref265_000002</field>
+     <field name="unitdate_normal_ssm">1988/1988</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">box: 49, folder: 43</field>
+     <field name="location_si">box: 49, folder: 43</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">What's Happened to the World</field>
+-    <field name="series_si">What's Happened to the World &gt;&gt; What's Happened to the World</field>
+-    <field name="heading_ssm">What's Happened to the World</field>
++    <field name="series_sim">What&amp;#39;s Happened to the World</field>
++    <field name="series_si">What&#39;s Happened to the World &gt;&gt; What&#39;s Happened to the World</field>
++    <field name="heading_ssm">What&#39;s Happened to the World</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_ssm">1988</field>
+     <field name="unitdate_start_si">1988</field>

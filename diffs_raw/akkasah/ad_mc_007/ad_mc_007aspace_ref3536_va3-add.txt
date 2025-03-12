@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Ozge Calafato Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A souvenir of Hüseyin Akman's wedding. 8.9 x 14 cm</field>
+-    <field name="unittitle_teim">A souvenir of Hüseyin Akman's wedding. 8.9 x 14 cm</field>
++    <field name="unittitle_ssm">A souvenir of Hüseyin Akman&#39;s wedding. 8.9 x 14 cm  </field>
++    <field name="unittitle_teim">A souvenir of Hüseyin Akman&#39;s wedding. 8.9 x 14 cm  </field>
+     <field name="unitdate_teim">11 - 12 September 1947</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+@@ -40,10 +40,10 @@
+     <field name="subject_ssm">Ottoman Writing</field>
+     <field name="subject_ssm">Turkish Writing</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">A group wedding portrait. 8.9 x 14 cm : 11 and 12 September 1947</field>
+-    <field name="dao_teim">A group wedding portrait. 8.9 x 14 cm : 11 and 12 September 1947</field>
+-    <field name="dao_ssm">A group wedding portrait. 8.9 x 14 cm : 11 and 12 September 1947</field>
+-    <field name="dao_ssm">A group wedding portrait. 8.9 x 14 cm : 11 and 12 September 1947</field>
++    <field name="dao_teim">A group wedding portrait. 8.9 x 14 cm  : 11 and 12 September 1947</field>
++    <field name="dao_teim">A group wedding portrait. 8.9 x 14 cm  : 11 and 12 September 1947</field>
++    <field name="dao_ssm">A group wedding portrait. 8.9 x 14 cm  : 11 and 12 September 1947</field>
++    <field name="dao_ssm">A group wedding portrait. 8.9 x 14 cm  : 11 and 12 September 1947</field>
+     <field name="ref_ssi">aspace_ref3536_va3</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -62,13 +62,14 @@
+     <field name="subject_sim">Turkish Writing</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">Ozge Calafato Collection</field>
++    <field name="author_teim">Ozge Calafato, Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.007</field>
+-    <field name="series_si">A souvenir of Hüseyin Akman's wedding. 8.9 x 14 cm</field>
++    <field name="series_si">A souvenir of Hüseyin Akman&#39;s wedding. 8.9 x 14 cm  </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">A souvenir of Hüseyin Akman's wedding. 8.9 x 14 cm</field>
++    <field name="heading_ssm">A souvenir of Hüseyin Akman&#39;s wedding. 8.9 x 14 cm  </field>
+     <field name="unitdate_ssm">11 - 12 September 1947</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3514</field>

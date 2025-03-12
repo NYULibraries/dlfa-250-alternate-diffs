@@ -1,0 +1,93 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_030_ref151</field>
+     <field name="parent_ssi">aspace_b2adea4723050a9c65b670da83ea887a</field>
+     <field name="parent_ssm">aspace_b2adea4723050a9c65b670da83ea887a</field>
+-    <field name="parent_unittitles_ssm">A Tour of Palestine, 1903</field>
+-    <field name="parent_unittitles_teim">A Tour of Palestine, 1903</field>
++    <field name="parent_unittitles_ssm">A Tour of Palestine, 1903 </field>
++    <field name="parent_unittitles_teim">A Tour of Palestine, 1903 </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">A Tour of Palestine, 1903 - Hisham Khatib Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">A Tour of Palestine, 1903 - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Bethlehem from Rachel's Tomb, showing road to Hebron on right.</field>
+-    <field name="unittitle_teim">Bethlehem from Rachel's Tomb, showing road to Hebron on right.</field>
++    <field name="unittitle_ssm">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.</field>
++    <field name="unittitle_teim">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.</field>
+     <field name="unitid_teim">ref151_000023</field>
+     <field name="unitid_ssm">ref151_000023</field>
+     <field name="unitdate_normal_ssm">1903/1903</field>
+@@ -36,16 +36,16 @@
+     <field name="subject_teim">Religious Sites</field>
+     <field name="subject_teim">Archaeological Sites/Artifacts</field>
+     <field name="subject_teim">Tombs/Mausoleums</field>
+-    <field name="subject_teim">Bilal bin Rabah Mosque/Rachel's Tomb</field>
+-    <field name="subject_teim">Mosques</field>
+-    <field name="subject_teim">Streets/Roads</field>
+-    <field name="subject_teim">English Writing</field>
+-    <field name="subject_teim">Landscapes</field>
+-    <field name="subject_teim">Buildings</field>
+-    <field name="subject_teim">Religious Sites</field>
+-    <field name="subject_teim">Archaeological Sites/Artifacts</field>
+-    <field name="subject_teim">Tombs/Mausoleums</field>
+-    <field name="subject_teim">Bilal bin Rabah Mosque/Rachel's Tomb</field>
++    <field name="subject_teim">Bilal bin Rabah Mosque/Rachel&#39;s Tomb</field>
++    <field name="subject_teim">Mosques</field>
++    <field name="subject_teim">Streets/Roads</field>
++    <field name="subject_teim">English Writing</field>
++    <field name="subject_teim">Landscapes</field>
++    <field name="subject_teim">Buildings</field>
++    <field name="subject_teim">Religious Sites</field>
++    <field name="subject_teim">Archaeological Sites/Artifacts</field>
++    <field name="subject_teim">Tombs/Mausoleums</field>
++    <field name="subject_teim">Bilal bin Rabah Mosque/Rachel&#39;s Tomb</field>
+     <field name="subject_teim">Mosques</field>
+     <field name="subject_ssm">Streets/Roads</field>
+     <field name="subject_ssm">English Writing</field>
+@@ -54,12 +54,12 @@
+     <field name="subject_ssm">Religious Sites</field>
+     <field name="subject_ssm">Archaeological Sites/Artifacts</field>
+     <field name="subject_ssm">Tombs/Mausoleums</field>
+-    <field name="subject_ssm">Bilal bin Rabah Mosque/Rachel's Tomb</field>
++    <field name="subject_ssm">Bilal bin Rabah Mosque/Rachel&#39;s Tomb</field>
+     <field name="subject_ssm">Mosques</field>
+-    <field name="dao_teim">Bethlehem from Rachel's Tomb, showing road to Hebron on right.: March 1903</field>
+-    <field name="dao_teim">Bethlehem from Rachel's Tomb, showing road to Hebron on right.: March 1903</field>
+-    <field name="dao_ssm">Bethlehem from Rachel's Tomb, showing road to Hebron on right.: March 1903</field>
+-    <field name="dao_ssm">Bethlehem from Rachel's Tomb, showing road to Hebron on right.: March 1903</field>
++    <field name="dao_teim">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.: March 1903</field>
++    <field name="dao_teim">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.: March 1903</field>
++    <field name="dao_ssm">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.: March 1903</field>
++    <field name="dao_ssm">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.: March 1903</field>
+     <field name="ref_ssi">aspace_7b2a4a3048537898e9b6d1dfdbf4dd3d</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -80,17 +80,18 @@
+     <field name="subject_sim">Religious Sites</field>
+     <field name="subject_sim">Archaeological Sites/Artifacts</field>
+     <field name="subject_sim">Tombs/Mausoleums</field>
+-    <field name="subject_sim">Bilal bin Rabah Mosque/Rachel's Tomb</field>
++    <field name="subject_sim">Bilal bin Rabah Mosque/Rachel&#39;s Tomb</field>
+     <field name="subject_sim">Mosques</field>
+     <field name="collection_teim">A Tour of Palestine, 1903 - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD </field>
+     <field name="collection_unitid_teim">AD.MC.030_ref151</field>
+-    <field name="series_sim">A Tour of Palestine, 1903</field>
+-    <field name="series_si">A Tour of Palestine, 1903 &gt;&gt; Bethlehem from Rachel's Tomb, showing road to Hebron on right.</field>
++    <field name="series_sim">A Tour of Palestine, 1903 </field>
++    <field name="series_si">A Tour of Palestine, 1903  &gt;&gt; Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.</field>
+     <field name="material_type_sim">Albumen Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Albumen Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">Bethlehem from Rachel's Tomb, showing road to Hebron on right.</field>
++    <field name="heading_ssm">Bethlehem from Rachel&#39;s Tomb, showing road to Hebron on right.</field>
+     <field name="unitdate_start_sim">1903</field>
+     <field name="unitdate_start_ssm">1903</field>
+     <field name="unitdate_start_si">1903</field>

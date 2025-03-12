@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Nasri Fuleihan Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.056</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Dorothy Fuleihan (Nasri Fuleihan's daughter) standing next to a dog.</field>
+-    <field name="unittitle_teim">Dorothy Fuleihan (Nasri Fuleihan's daughter) standing next to a dog.</field>
++    <field name="unittitle_ssm">Dorothy Fuleihan (Nasri Fuleihan&#39;s daughter) standing next to a dog.</field>
++    <field name="unittitle_teim">Dorothy Fuleihan (Nasri Fuleihan&#39;s daughter) standing next to a dog.</field>
+     <field name="unitid_teim">ref359</field>
+     <field name="unitid_ssm">ref359</field>
+     <field name="creator_teim">Fuleihan, Nasri Suleiman</field>
+@@ -75,14 +75,15 @@
+     <field name="subject_sim">Toys</field>
+     <field name="subject_sim">Individual Portraits</field>
+     <field name="collection_teim">Nasri Fuleihan Collection</field>
++    <field name="author_teim">Jasmine Soliman, with assistance from Amna Al-Qubaisi and Emily Broad for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.056</field>
+     <field name="series_sim">Nasri Fuleihan Collection</field>
+-    <field name="series_si">Nasri Fuleihan Collection &gt;&gt; Dorothy Fuleihan (Nasri Fuleihan's daughter) standing next to a dog.</field>
++    <field name="series_si">Nasri Fuleihan Collection &gt;&gt; Dorothy Fuleihan (Nasri Fuleihan&#39;s daughter) standing next to a dog.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Dorothy Fuleihan (Nasri Fuleihan's daughter) standing next to a dog.</field>
++    <field name="heading_ssm">Dorothy Fuleihan (Nasri Fuleihan&#39;s daughter) standing next to a dog.</field>
+     <field name="unitdate_start_sim">1910</field>
+     <field name="unitdate_start_ssm">1910</field>
+     <field name="unitdate_start_si">1910</field>

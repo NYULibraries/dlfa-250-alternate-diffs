@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Lover (El asheka) | Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
+-    <field name="unittitle_teim">The Lover (El asheka) | Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
++    <field name="unittitle_ssm">The Lover (El asheka)
++| Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
++    <field name="unittitle_teim">The Lover (El asheka)
++| Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
+     <field name="unitid_teim">ref116_000010</field>
+     <field name="unitid_ssm">ref116_000010</field>
+     <field name="unitdate_normal_ssm">1960/1960</field>
+@@ -44,10 +46,14 @@
+     <field name="subject_ssm">Costumes</field>
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">Outdoors</field>
+-    <field name="dao_teim">The Lover | Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
+-    <field name="dao_teim">The Lover | Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
+-    <field name="dao_ssm">The Lover | Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
+-    <field name="dao_ssm">The Lover | Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
++    <field name="dao_teim">The Lover 
++| Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
++    <field name="dao_teim">The Lover 
++| Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
++    <field name="dao_ssm">The Lover 
++| Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
++    <field name="dao_ssm">The Lover 
++| Actors in Image: Kamal El Shennawy, Hoda Soltan: 1960-</field>
+     <field name="ref_ssi">aspace_2a8fbdf8b1a28c7fe256a80946aa9795</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -65,12 +71,15 @@
+     <field name="subject_sim">Facial Hair</field>
+     <field name="subject_sim">Outdoors</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+     <field name="series_sim">The Lover (El asheka)</field>
+-    <field name="series_si">The Lover (El asheka) &gt;&gt; The Lover (El asheka) | Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
++    <field name="series_si">The Lover (El asheka) &gt;&gt; The Lover (El asheka)
++| Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">The Lover (El asheka) | Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
++    <field name="heading_ssm">The Lover (El asheka)
++| Actors in Image: Kamal El Shennawy, Hoda Soltan</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>

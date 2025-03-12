@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Sky Devils (Shayatine el jau) | Actors in Image: Ahmad Ramzy</field>
+-    <field name="unittitle_teim">The Sky Devils (Shayatine el jau) | Actors in Image: Ahmad Ramzy</field>
++    <field name="unittitle_ssm">The Sky Devils (Shayatine el jau)
++| Actors in Image: Ahmad Ramzy</field>
++    <field name="unittitle_teim">The Sky Devils (Shayatine el jau)
++| Actors in Image: Ahmad Ramzy</field>
+     <field name="unitid_teim">ref87_000018</field>
+     <field name="unitid_ssm">ref87_000018</field>
+     <field name="creator_teim">Mostafa, Niazi</field>
+@@ -43,10 +45,14 @@
+     <field name="subject_ssm">Films</field>
+     <field name="subject_ssm">Costumes</field>
+     <field name="subject_ssm">Outdoors</field>
+-    <field name="dao_teim">The Sky Devils | Actors in Image: Ahmad Ramzy: 1956-</field>
+-    <field name="dao_teim">The Sky Devils | Actors in Image: Ahmad Ramzy: 1956-</field>
+-    <field name="dao_ssm">The Sky Devils | Actors in Image: Ahmad Ramzy: 1956-</field>
+-    <field name="dao_ssm">The Sky Devils | Actors in Image: Ahmad Ramzy: 1956-</field>
++    <field name="dao_teim">The Sky Devils 
++| Actors in Image: Ahmad Ramzy: 1956-</field>
++    <field name="dao_teim">The Sky Devils 
++| Actors in Image: Ahmad Ramzy: 1956-</field>
++    <field name="dao_ssm">The Sky Devils 
++| Actors in Image: Ahmad Ramzy: 1956-</field>
++    <field name="dao_ssm">The Sky Devils 
++| Actors in Image: Ahmad Ramzy: 1956-</field>
+     <field name="ref_ssi">aspace_ref75_i82</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -65,12 +71,15 @@
+     <field name="subject_sim">Costumes</field>
+     <field name="subject_sim">Outdoors</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+     <field name="series_sim">The Sky Devils (Shayatine el jau)</field>
+-    <field name="series_si">The Sky Devils (Shayatine el jau) &gt;&gt; The Sky Devils (Shayatine el jau) | Actors in Image: Ahmad Ramzy</field>
++    <field name="series_si">The Sky Devils (Shayatine el jau) &gt;&gt; The Sky Devils (Shayatine el jau)
++| Actors in Image: Ahmad Ramzy</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">The Sky Devils (Shayatine el jau) | Actors in Image: Ahmad Ramzy</field>
++    <field name="heading_ssm">The Sky Devils (Shayatine el jau)
++| Actors in Image: Ahmad Ramzy</field>
+     <field name="unitdate_start_sim">1956</field>
+     <field name="unitdate_start_ssm">1956</field>
+     <field name="unitdate_start_si">1956</field>

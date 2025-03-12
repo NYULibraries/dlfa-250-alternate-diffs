@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_093</field>
+     <field name="parent_ssi">aspace_6a4b4d6a6034ce0fc5691a5d9c9f2565</field>
+     <field name="parent_ssm">aspace_6a4b4d6a6034ce0fc5691a5d9c9f2565</field>
+-    <field name="parent_unittitles_ssm">H.E. Butti Bin Bishr's Visit to UAE-Sponsored Students in Cairo</field>
+-    <field name="parent_unittitles_teim">H.E. Butti Bin Bishr's Visit to UAE-Sponsored Students in Cairo</field>
++    <field name="parent_unittitles_ssm">H.E. Butti Bin Bishr&amp;#39;s Visit to UAE-Sponsored Students in Cairo</field>
++    <field name="parent_unittitles_teim">H.E. Butti Bin Bishr&amp;#39;s Visit to UAE-Sponsored Students in Cairo</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">H.E. Butti Bin Bishr Collection</field>
+@@ -70,9 +70,10 @@
+     <field name="subject_sim">Furnishings</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="collection_teim">H.E. Butti Bin Bishr Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad</field>
+     <field name="collection_unitid_teim">AD.MC.093</field>
+-    <field name="series_sim">H.E. Butti Bin Bishr's Visit to UAE-Sponsored Students in Cairo</field>
+-    <field name="series_si">H.E. Butti Bin Bishr's Visit to UAE-Sponsored Students in Cairo &gt;&gt; H.E. Butti Bin Bishr (right) with Rashid Bin Bishr (left) on a balcony in Cairo.</field>
++    <field name="series_sim">H.E. Butti Bin Bishr&amp;#39;s Visit to UAE-Sponsored Students in Cairo</field>
++    <field name="series_si">H.E. Butti Bin Bishr&#39;s Visit to UAE-Sponsored Students in Cairo &gt;&gt; H.E. Butti Bin Bishr (right) with Rashid Bin Bishr (left) on a balcony in Cairo.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>

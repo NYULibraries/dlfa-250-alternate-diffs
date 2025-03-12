@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,16 +5,16 @@
+     <field name="ead_ssi">ad_mc_030_ref165</field>
+     <field name="parent_ssi">aspace_e6d0b8b275ece37571ef8a061b539bb3</field>
+     <field name="parent_ssm">aspace_e6d0b8b275ece37571ef8a061b539bb3</field>
+-    <field name="parent_unittitles_ssm">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
+-    <field name="parent_unittitles_teim">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="parent_unittitles_ssm"> &amp;#39;Egypt and Sudan Post Card Album&amp;#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="parent_unittitles_teim"> &amp;#39;Egypt and Sudan Post Card Album&amp;#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
+-    <field name="collection_ssm">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="collection_sim">&#39;Egypt and Sudan Post Card Album&#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="collection_ssm">&#39;Egypt and Sudan Post Card Album&#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref165</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings.</field>
+-    <field name="unittitle_teim">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings.</field>
++    <field name="unittitle_ssm">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings. </field>
++    <field name="unittitle_teim">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings. </field>
+     <field name="unitid_teim">AD_MC_030_ref165_000075_000001</field>
+     <field name="unitid_ssm">AD_MC_030_ref165_000075_000001</field>
+     <field name="unitdate_teim">February 1929</field>
+@@ -52,10 +52,11 @@
+     <field name="subject_sim">Egyptian Hieroglyphics</field>
+     <field name="subject_sim">Boats/Ships</field>
+     <field name="subject_sim">Transportation</field>
+-    <field name="collection_teim">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="collection_teim">&#39;Egypt and Sudan Post Card Album&#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref165</field>
+-    <field name="series_sim">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
+-    <field name="series_si">'Egypt and Sudan Post Card Album' compiled by Edith and William P. Lincoln - Hisham Khatib Collection &gt;&gt; A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings.</field>
++    <field name="series_sim"> &amp;#39;Egypt and Sudan Post Card Album&amp;#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection</field>
++    <field name="series_si"> &#39;Egypt and Sudan Post Card Album&#39; compiled by Edith and William P. Lincoln - Hisham Khatib Collection &gt;&gt; A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings. </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_sim">Paintings</field>
+@@ -62,7 +63,7 @@
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Postcards</field>
+     <field name="material_type_ssm">Paintings</field>
+-    <field name="heading_ssm">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings.</field>
++    <field name="heading_ssm">A postcard of the mural paintings in the side chamber of the Tomb of Seti I in the Valley of the Kings. </field>
+     <field name="unitdate_ssm">February 1929</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">91</field>

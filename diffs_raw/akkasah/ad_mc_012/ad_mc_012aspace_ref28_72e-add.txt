@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -57,10 +57,10 @@
+     <field name="subject_ssm">Individual Portraits</field>
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">French Writing</field>
+-    <field name="dao_teim">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: "As a friendly reminder" 16.5 x 10.5 cm: 11 November 1900</field>
+-    <field name="dao_teim">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: "As a friendly reminder" 16.5 x 10.5 cm: 11 November 1900</field>
+-    <field name="dao_ssm">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: "As a friendly reminder" 16.5 x 10.5 cm: 11 November 1900</field>
+-    <field name="dao_ssm">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: "As a friendly reminder" 16.5 x 10.5 cm: 11 November 1900</field>
++    <field name="dao_teim">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: &#34;As a friendly reminder&#34; 16.5 x 10.5 cm: 11 November 1900</field>
++    <field name="dao_teim">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: &#34;As a friendly reminder&#34; 16.5 x 10.5 cm: 11 November 1900</field>
++    <field name="dao_ssm">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: &#34;As a friendly reminder&#34; 16.5 x 10.5 cm: 11 November 1900</field>
++    <field name="dao_ssm">Man with mustache in suit with white bow tie and military medal on lapel. German writing on back: &#34;As a friendly reminder&#34; 16.5 x 10.5 cm: 11 November 1900</field>
+     <field name="ref_ssi">aspace_ref28_72e</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -86,6 +86,7 @@
+     <field name="subject_sim">Individual Portraits</field>
+     <field name="subject_sim">French Writing</field>
+     <field name="collection_teim">Engin Ozendes Collection</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.012</field>
+     <field name="series_si">Man with mustache in suit with white bow tie and military medal on lapel. 16.5 x 10.5 cm</field>
+     <field name="material_type_sim">Carte de Visite/Cabinet Card</field>

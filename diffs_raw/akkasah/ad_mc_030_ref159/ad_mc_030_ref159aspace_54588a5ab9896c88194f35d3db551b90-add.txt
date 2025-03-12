@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -44,10 +44,10 @@
+     <field name="subject_ssm">Sports</field>
+     <field name="subject_ssm">Royal Air Force</field>
+     <field name="subject_ssm">Military/Soldiers</field>
+-    <field name="dao_teim">Top: Team Portrait of a hockey team called, 'Depot Hockey XI', Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
+-    <field name="dao_teim">Top: Team Portrait of a hockey team called, 'Depot Hockey XI', Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
+-    <field name="dao_ssm">Top: Team Portrait of a hockey team called, 'Depot Hockey XI', Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
+-    <field name="dao_ssm">Top: Team Portrait of a hockey team called, 'Depot Hockey XI', Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
++    <field name="dao_teim">Top: Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
++    <field name="dao_teim">Top: Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
++    <field name="dao_ssm">Top: Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
++    <field name="dao_ssm">Top: Team Portrait of a hockey team called, &#39;Depot Hockey XI&#39;, Bottom: Hockey players on the field, playing hockey: 1936-1939</field>
+     <field name="ref_ssi">aspace_54588a5ab9896c88194f35d3db551b90</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,6 +67,7 @@
+     <field name="subject_sim">Royal Air Force</field>
+     <field name="subject_sim">Military/Soldiers</field>
+     <field name="collection_teim">RAF tour on MV Dilwara - compiled by L. Wells - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref159</field>
+     <field name="series_si">Top: Team portrait of a hockey team including Les Wells in the front row, far right. Bottom: Hockey players on the field.</field>
+     <field name="material_type_sim">Photographic Prints</field>

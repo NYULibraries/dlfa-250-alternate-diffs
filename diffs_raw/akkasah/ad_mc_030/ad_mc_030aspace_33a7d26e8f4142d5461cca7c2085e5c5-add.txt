@@ -1,0 +1,69 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hisham Khatib Collection - Prints</field>
+     <field name="collection_unitid_ssm">AD.MC.030</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News</field>
+-    <field name="unittitle_teim">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News</field>
++    <field name="unittitle_ssm">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News</field>
++    <field name="unittitle_teim">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News</field>
+     <field name="unitid_teim">ref275</field>
+     <field name="unitid_ssm">ref275</field>
+     <field name="unitdate_normal_ssm">1860/1870</field>
+@@ -25,8 +25,8 @@
+     <field name="genreform_teim">Printed Materials</field>
+     <field name="genreform_ssm">Newspaper Clippings</field>
+     <field name="genreform_ssm">Printed Materials</field>
+-    <field name="geogname_teim">Shanghai, China</field>
+-    <field name="geogname_ssm">Shanghai, China</field>
++    <field name="geogname_teim">Shanghai, China </field>
++    <field name="geogname_ssm">Shanghai, China </field>
+     <field name="subject_teim">Art</field>
+     <field name="subject_teim">Crowds</field>
+     <field name="subject_teim">Regional/National Dress</field>
+@@ -48,10 +48,10 @@
+     <field name="subject_ssm">English Writing</field>
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Buildings</field>
+-    <field name="dao_teim">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News: 29 August 1863</field>
+-    <field name="dao_teim">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News: 29 August 1863</field>
+-    <field name="dao_ssm">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News: 29 August 1863</field>
+-    <field name="dao_ssm">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News: 29 August 1863</field>
++    <field name="dao_teim">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News: 29 August 1863</field>
++    <field name="dao_teim">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News: 29 August 1863</field>
++    <field name="dao_ssm">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News: 29 August 1863</field>
++    <field name="dao_ssm">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News: 29 August 1863</field>
+     <field name="ref_ssi">aspace_33a7d26e8f4142d5461cca7c2085e5c5</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -61,8 +61,8 @@
+     <field name="location_ssm">object: Digital copy only: ref194-ref229</field>
+     <field name="location_si">object: Digital copy only: ref194-ref229</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="place_ssm">Shanghai, China</field>
+-    <field name="place_sim">Shanghai, China</field>
++    <field name="place_ssm">Shanghai, China </field>
++    <field name="place_sim">Shanghai, China </field>
+     <field name="subject_sim">Art</field>
+     <field name="subject_sim">Crowds</field>
+     <field name="subject_sim">Regional/National Dress</field>
+@@ -71,14 +71,15 @@
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="collection_teim">Hisham Khatib Collection - Prints</field>
++    <field name="author_teim">Finding aid prepared by Jasmine Soliman and Jonathan Burr for Akkasah: Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030</field>
+     <field name="series_sim">Prints from Africa and Asia/various ephemera</field>
+-    <field name="series_si">Prints from Africa and Asia/various ephemera &gt;&gt; Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News</field>
++    <field name="series_si">Prints from Africa and Asia/various ephemera &gt;&gt; Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News</field>
+     <field name="material_type_sim">Newspaper Clippings</field>
+     <field name="material_type_sim">Printed Materials</field>
+     <field name="material_type_ssm">Newspaper Clippings</field>
+     <field name="material_type_ssm">Printed Materials</field>
+-    <field name="heading_ssm">Engraving of "Native Tea Gardens", Shanghai from the Illustrated London News</field>
++    <field name="heading_ssm">Engraving of &#34;Native Tea Gardens&#34;, Shanghai from the Illustrated London News</field>
+     <field name="unitdate_start_sim">1860</field>
+     <field name="unitdate_start_ssm">1860</field>
+     <field name="unitdate_start_si">1860</field>

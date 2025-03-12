@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -43,10 +43,10 @@
+     <field name="subject_ssm">Religious Sites</field>
+     <field name="subject_ssm">Western Wall</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">Men praying near Jerusalem's Holy Wailing Wall: 1936-1939</field>
+-    <field name="dao_teim">Men praying near Jerusalem's Holy Wailing Wall: 1936-1939</field>
+-    <field name="dao_ssm">Men praying near Jerusalem's Holy Wailing Wall: 1936-1939</field>
+-    <field name="dao_ssm">Men praying near Jerusalem's Holy Wailing Wall: 1936-1939</field>
++    <field name="dao_teim">Men praying near Jerusalem&#39;s Holy Wailing Wall: 1936-1939</field>
++    <field name="dao_teim">Men praying near Jerusalem&#39;s Holy Wailing Wall: 1936-1939</field>
++    <field name="dao_ssm">Men praying near Jerusalem&#39;s Holy Wailing Wall: 1936-1939</field>
++    <field name="dao_ssm">Men praying near Jerusalem&#39;s Holy Wailing Wall: 1936-1939</field>
+     <field name="ref_ssi">aspace_5d6ec780ccdf877a16fc7cd2324e28d2</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,6 +67,7 @@
+     <field name="subject_sim">Western Wall</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">RAF tour on MV Dilwara - compiled by L. Wells - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman for Akkasah: Center for Photography at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref159</field>
+     <field name="series_si">The Western Wall.</field>
+     <field name="material_type_sim">Photographic Prints</field>

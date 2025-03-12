@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_061</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
+-    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
+     <field name="collection_unitid_ssm">AD.MC.061</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">A view of Ibrahimabad (Ebrahimabad), a carpet-weaving village on the way from Sultanabad to Tehran, Iran.</field>
+@@ -28,9 +28,9 @@
+     <field name="genreform_ssm">Photographic Prints</field>
+     <field name="genreform_ssm">Gelatin Silver Prints</field>
+     <field name="geogname_teim">Iran</field>
+-    <field name="geogname_teim">Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
++    <field name="geogname_teim"> Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
+     <field name="geogname_ssm">Iran</field>
+-    <field name="geogname_ssm">Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
++    <field name="geogname_ssm"> Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
+     <field name="persname_teim">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+     <field name="persname_teim">Thomson, John</field>
+     <field name="persname_ssm">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+@@ -73,9 +73,9 @@
+     <field name="name_teim">Thomson, John</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="place_ssm">Iran</field>
+-    <field name="place_ssm">Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
++    <field name="place_ssm"> Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
+     <field name="place_sim">Iran</field>
+-    <field name="place_sim">Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
++    <field name="place_sim"> Ebrahimabad, Moshkabad, Arak County, Markazi Province, Iran</field>
+     <field name="subject_sim">English Writing</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="subject_sim">Architecture</field>
+@@ -82,7 +82,8 @@
+     <field name="subject_sim">Carpets/Rugs</field>
+     <field name="subject_sim">Streets/Roads</field>
+     <field name="subject_sim">Deserts</field>
+-    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.061</field>
+     <field name="series_si">A view of Ibrahimabad (Ebrahimabad), a carpet-weaving village on the way from Sultanabad to Tehran, Iran.</field>
+     <field name="material_type_sim">Photographic Prints</field>

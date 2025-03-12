@@ -1,0 +1,98 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_f10f4f685c2c522bb0ac69a787c8e99d</field>
+     <field name="parent_ssm">aspace_f10f4f685c2c522bb0ac69a787c8e99d</field>
+-    <field name="parent_unittitles_ssm">The Secret Police (Albulis alsiriyu)</field>
+-    <field name="parent_unittitles_teim">The Secret Police (Albulis alsiriyu)</field>
++    <field name="parent_unittitles_ssm">The Secret Police (Albulis alsiriyu)&amp;#xA;</field>
++    <field name="parent_unittitles_teim">The Secret Police (Albulis alsiriyu)&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,13 +13,15 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Secret Police (Albulis alsiriyu) | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
+-    <field name="unittitle_teim">The Secret Police (Albulis alsiriyu) | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
++    <field name="unittitle_ssm">The Secret Police (Albulis alsiriyu)
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
++    <field name="unittitle_teim">The Secret Police (Albulis alsiriyu)
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
+     <field name="unitid_teim">ref109_000014</field>
+     <field name="unitid_ssm">ref109_000014</field>
+-    <field name="creator_teim">Abdel Wahab, Fateen</field>
+-    <field name="creator_ssm">Abdel Wahab, Fateen</field>
+-    <field name="creator_ssm">Abdel Wahab, Fateen</field>
++    <field name="creator_teim">Abdel Wahab, Fateen </field>
++    <field name="creator_ssm">Abdel Wahab, Fateen </field>
++    <field name="creator_ssm">Abdel Wahab, Fateen </field>
+     <field name="unitdate_normal_ssm">1959/1959</field>
+     <field name="unitdate_normal_teim">1959/1959</field>
+     <field name="unitdate_normal_sim">1959/1959</field>
+@@ -28,8 +30,8 @@
+     <field name="genreform_ssm">Negative Images</field>
+     <field name="occupation_teim">Actors</field>
+     <field name="occupation_ssm">Actors</field>
+-    <field name="persname_teim">Abdel Wahab, Fateen</field>
+-    <field name="persname_ssm">Abdel Wahab, Fateen</field>
++    <field name="persname_teim">Abdel Wahab, Fateen </field>
++    <field name="persname_ssm">Abdel Wahab, Fateen </field>
+     <field name="subject_teim">Arabic Writing</field>
+     <field name="subject_teim">Facial Hair</field>
+     <field name="subject_teim">Films</field>
+@@ -55,10 +57,14 @@
+     <field name="subject_ssm">Costumes</field>
+     <field name="subject_ssm">Men</field>
+     <field name="subject_ssm">Women</field>
+-    <field name="dao_teim">The Secret Police | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
+-    <field name="dao_teim">The Secret Police | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
+-    <field name="dao_ssm">The Secret Police | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
+-    <field name="dao_ssm">The Secret Police | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
++    <field name="dao_teim">The Secret Police 
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
++    <field name="dao_teim">The Secret Police 
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
++    <field name="dao_ssm">The Secret Police 
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
++    <field name="dao_ssm">The Secret Police 
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis: 1959-</field>
+     <field name="ref_ssi">aspace_5d8ac733d918e1d782c5dc69e760705d</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,9 +73,9 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 15, folder: 21</field>
+     <field name="location_si">box: 15, folder: 21</field>
+-    <field name="creator_sim">Abdel Wahab, Fateen</field>
+-    <field name="name_sim">Abdel Wahab, Fateen</field>
+-    <field name="name_teim">Abdel Wahab, Fateen</field>
++    <field name="creator_sim">Abdel Wahab, Fateen </field>
++    <field name="name_sim">Abdel Wahab, Fateen </field>
++    <field name="name_teim">Abdel Wahab, Fateen </field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Arabic Writing</field>
+     <field name="subject_sim">Facial Hair</field>
+@@ -81,12 +87,16 @@
+     <field name="subject_sim">Men</field>
+     <field name="subject_sim">Women</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">The Secret Police (Albulis alsiriyu)</field>
+-    <field name="series_si">The Secret Police (Albulis alsiriyu) &gt;&gt; The Secret Police (Albulis alsiriyu) | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
++    <field name="series_sim">The Secret Police (Albulis alsiriyu)&amp;#xA;</field>
++    <field name="series_si">The Secret Police (Albulis alsiriyu)
++ &gt;&gt; The Secret Police (Albulis alsiriyu)
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">The Secret Police (Albulis alsiriyu) | Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
++    <field name="heading_ssm">The Secret Police (Albulis alsiriyu)
++| Actors in Image: Zinat Sedki, Ismail Yasin, Mimo Ramsis</field>
+     <field name="unitdate_start_sim">1959</field>
+     <field name="unitdate_start_ssm">1959</field>
+     <field name="unitdate_start_si">1959</field>

@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_063</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">"Africa Album" - A trip across northern Algeria</field>
+-    <field name="collection_ssm">"Africa Album" - A trip across northern Algeria</field>
++    <field name="collection_sim">&#34;Africa Album&#34; - A trip across northern Algeria</field>
++    <field name="collection_ssm">&#34;Africa Album&#34; - A trip across northern Algeria</field>
+     <field name="collection_unitid_ssm">AD.MC.063</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
+-    <field name="unittitle_teim">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
++    <field name="unittitle_ssm">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
++    <field name="unittitle_teim">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
+     <field name="unitid_teim">AD_MC_063_ref11</field>
+     <field name="unitid_ssm">AD_MC_063_ref11</field>
+     <field name="unitdate_normal_ssm">1912/1920</field>
+@@ -95,10 +95,10 @@
+     <field name="subject_ssm">Springs</field>
+     <field name="subject_ssm">Hotels</field>
+     <field name="subject_ssm">French Writing</field>
+-    <field name="dao_teim">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
+-    <field name="dao_teim">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
+-    <field name="dao_ssm">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
+-    <field name="dao_ssm">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
++    <field name="dao_teim">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
++    <field name="dao_teim">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
++    <field name="dao_ssm">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
++    <field name="dao_ssm">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.: Circa 1912-1920</field>
+     <field name="ref_ssi">aspace_951adb71df82f98911ad9d638feed05c</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -134,14 +134,15 @@
+     <field name="subject_sim">Springs</field>
+     <field name="subject_sim">Hotels</field>
+     <field name="subject_sim">French Writing</field>
+-    <field name="collection_teim">"Africa Album" - A trip across northern Algeria</field>
++    <field name="collection_teim">&#34;Africa Album&#34; - A trip across northern Algeria</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.063</field>
+-    <field name="series_si">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
++    <field name="series_si">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">From the top left clockwise: a man shaving another man's head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
++    <field name="heading_ssm">From the top left clockwise: a man shaving another man&#39;s head, a man next to a carriage for the Grand Hotel des Bains Hammam Birha, a child in a rural setting, a woman holding a bottle, and a man spraying crops.</field>
+     <field name="unitdate_start_sim">1912</field>
+     <field name="unitdate_start_ssm">1912</field>
+     <field name="unitdate_start_si">1912</field>

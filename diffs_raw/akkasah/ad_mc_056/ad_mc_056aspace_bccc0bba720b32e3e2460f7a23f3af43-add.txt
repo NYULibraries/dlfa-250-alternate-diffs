@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Nasri Fuleihan Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.056</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Solomon's Stables, Jerusalem.</field>
+-    <field name="unittitle_teim">Solomon's Stables, Jerusalem.</field>
++    <field name="unittitle_ssm">Solomon&#39;s Stables, Jerusalem.</field>
++    <field name="unittitle_teim">Solomon&#39;s Stables, Jerusalem.</field>
+     <field name="unitid_teim">ref250</field>
+     <field name="unitid_ssm">ref250</field>
+     <field name="creator_teim">Fuleihan, Nasri Suleiman</field>
+@@ -43,10 +43,10 @@
+     <field name="subject_ssm">Temple Mount/al-Ḥaram al-Šarīf</field>
+     <field name="subject_ssm">Archaeological Sites/Artifacts</field>
+     <field name="subject_ssm">Religious Sites</field>
+-    <field name="dao_teim">Solomon's Stables, Jerusalem.: Circa 1910s - 1930s</field>
+-    <field name="dao_teim">Solomon's Stables, Jerusalem.: Circa 1910s - 1930s</field>
+-    <field name="dao_ssm">Solomon's Stables, Jerusalem.: Circa 1910s - 1930s</field>
+-    <field name="dao_ssm">Solomon's Stables, Jerusalem.: Circa 1910s - 1930s</field>
++    <field name="dao_teim">Solomon&#39;s Stables, Jerusalem.: Circa 1910s - 1930s</field>
++    <field name="dao_teim">Solomon&#39;s Stables, Jerusalem.: Circa 1910s - 1930s</field>
++    <field name="dao_ssm">Solomon&#39;s Stables, Jerusalem.: Circa 1910s - 1930s</field>
++    <field name="dao_ssm">Solomon&#39;s Stables, Jerusalem.: Circa 1910s - 1930s</field>
+     <field name="ref_ssi">aspace_bccc0bba720b32e3e2460f7a23f3af43</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -67,14 +67,15 @@
+     <field name="subject_sim">Archaeological Sites/Artifacts</field>
+     <field name="subject_sim">Religious Sites</field>
+     <field name="collection_teim">Nasri Fuleihan Collection</field>
++    <field name="author_teim">Jasmine Soliman, with assistance from Amna Al-Qubaisi and Emily Broad for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.056</field>
+     <field name="series_sim">Nasri Fuleihan Collection</field>
+-    <field name="series_si">Nasri Fuleihan Collection &gt;&gt; Solomon's Stables, Jerusalem.</field>
++    <field name="series_si">Nasri Fuleihan Collection &gt;&gt; Solomon&#39;s Stables, Jerusalem.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Solomon's Stables, Jerusalem.</field>
++    <field name="heading_ssm">Solomon&#39;s Stables, Jerusalem.</field>
+     <field name="unitdate_start_sim">1910</field>
+     <field name="unitdate_start_ssm">1910</field>
+     <field name="unitdate_start_si">1910</field>

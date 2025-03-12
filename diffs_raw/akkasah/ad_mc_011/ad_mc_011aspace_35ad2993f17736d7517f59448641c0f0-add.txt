@@ -1,0 +1,65 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_df4260834884fdfdea42e7d2c4de77ff</field>
+     <field name="parent_ssm">aspace_df4260834884fdfdea42e7d2c4de77ff</field>
+-    <field name="parent_unittitles_ssm">Les Miserables (Al Bua'saa')</field>
+-    <field name="parent_unittitles_teim">Les Miserables (Al Bua'saa')</field>
++    <field name="parent_unittitles_ssm">Les Miserables (Al Bua&amp;#39;saa&amp;#39;)</field>
++    <field name="parent_unittitles_teim">Les Miserables (Al Bua&amp;#39;saa&amp;#39;)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Les Miserables (Al Bua'saa') | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
+-    <field name="unittitle_teim">Les Miserables (Al Bua'saa') | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
++    <field name="unittitle_ssm">Les Miserables (Al Bua&#39;saa&#39;)
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
++    <field name="unittitle_teim">Les Miserables (Al Bua&#39;saa&#39;)
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
+     <field name="unitid_teim">ref3_000011</field>
+     <field name="unitid_ssm">ref3_000011</field>
+     <field name="creator_teim">Selim, Kamal</field>
+@@ -52,10 +54,14 @@
+     <field name="subject_ssm">Costumes</field>
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">Furnishings</field>
+-    <field name="dao_teim">Les Miserables | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
+-    <field name="dao_teim">Les Miserables | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
+-    <field name="dao_ssm">Les Miserables | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
+-    <field name="dao_ssm">Les Miserables | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
++    <field name="dao_teim">Les Miserables 
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
++    <field name="dao_teim">Les Miserables 
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
++    <field name="dao_ssm">Les Miserables 
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
++    <field name="dao_ssm">Les Miserables 
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares: 1943-</field>
+     <field name="ref_ssi">aspace_35ad2993f17736d7517f59448641c0f0</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -77,12 +83,15 @@
+     <field name="subject_sim">Facial Hair</field>
+     <field name="subject_sim">Furnishings</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">Les Miserables (Al Bua'saa')</field>
+-    <field name="series_si">Les Miserables (Al Bua'saa') &gt;&gt; Les Miserables (Al Bua'saa') | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
++    <field name="series_sim">Les Miserables (Al Bua&amp;#39;saa&amp;#39;)</field>
++    <field name="series_si">Les Miserables (Al Bua&#39;saa&#39;) &gt;&gt; Les Miserables (Al Bua&#39;saa&#39;)
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">Les Miserables (Al Bua'saa') | Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
++    <field name="heading_ssm">Les Miserables (Al Bua&#39;saa&#39;)
++| Actors in Image: Serag Mounir, Amina Rizk, Abbas Fares</field>
+     <field name="unitdate_start_sim">1943</field>
+     <field name="unitdate_start_ssm">1943</field>
+     <field name="unitdate_start_si">1943</field>

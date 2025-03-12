@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A group photo of the Collège de la Sainte Famille's clergymen/staff. 33 x 25.7 cm</field>
+-    <field name="unittitle_teim">A group photo of the Collège de la Sainte Famille's clergymen/staff. 33 x 25.7 cm</field>
++    <field name="unittitle_ssm">A group photo of the Collège de la Sainte Famille&#39;s clergymen/staff. 33 x 25.7 cm </field>
++    <field name="unittitle_teim">A group photo of the Collège de la Sainte Famille&#39;s clergymen/staff. 33 x 25.7 cm </field>
+     <field name="unitdate_teim">1935</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -44,10 +44,10 @@
+     <field name="subject_ssm">Schools/Education</field>
+     <field name="subject_ssm">Religious Crosses</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">Group photo of the school's priests/staff. 33 x 25.7 cm : 1935</field>
+-    <field name="dao_teim">Group photo of the school's priests/staff. 33 x 25.7 cm : 1935</field>
+-    <field name="dao_ssm">Group photo of the school's priests/staff. 33 x 25.7 cm : 1935</field>
+-    <field name="dao_ssm">Group photo of the school's priests/staff. 33 x 25.7 cm : 1935</field>
++    <field name="dao_teim">Group photo of the school&#39;s priests/staff. 33 x 25.7 cm : 1935</field>
++    <field name="dao_teim">Group photo of the school&#39;s priests/staff. 33 x 25.7 cm : 1935</field>
++    <field name="dao_ssm">Group photo of the school&#39;s priests/staff. 33 x 25.7 cm : 1935</field>
++    <field name="dao_ssm">Group photo of the school&#39;s priests/staff. 33 x 25.7 cm : 1935</field>
+     <field name="ref_ssi">aspace_ref918_2yz</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -68,13 +68,14 @@
+     <field name="subject_sim">Group Portraits</field>
+     <field name="subject_sim">Priests/Clergymen</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">A group photo of the Collège de la Sainte Famille's clergymen/staff. 33 x 25.7 cm</field>
++    <field name="series_si">A group photo of the Collège de la Sainte Famille&#39;s clergymen/staff. 33 x 25.7 cm </field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">A group photo of the Collège de la Sainte Famille's clergymen/staff. 33 x 25.7 cm</field>
++    <field name="heading_ssm">A group photo of the Collège de la Sainte Famille&#39;s clergymen/staff. 33 x 25.7 cm </field>
+     <field name="unitdate_ssm">1935</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">916</field>

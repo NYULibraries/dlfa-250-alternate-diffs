@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="collection_unitid_ssm">AD.MC.043</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Left: a postcard of a snake charmer surrounded by a crowd. Right: a postcard of people at a market.</field>
+@@ -13,12 +13,12 @@
+     <field name="unittitle_teim">Left: a postcard of a snake charmer surrounded by a crowd. Right: a postcard of people at a market.</field>
+     <field name="unitid_teim">AD_MC_043_ref39</field>
+     <field name="unitid_ssm">AD_MC_043_ref39</field>
+-    <field name="creator_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
+-    <field name="creator_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
+-    <field name="creator_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
++    <field name="creator_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
++    <field name="creator_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
++    <field name="creator_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+     <field name="unitdate_inclusive_teim">Circa 1950s</field>
+-    <field name="corpname_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
+-    <field name="corpname_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
++    <field name="corpname_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
++    <field name="corpname_ssm">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Postcards</field>
+@@ -73,9 +73,9 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 043</field>
+     <field name="location_si">box: 043</field>
+-    <field name="creator_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
+-    <field name="name_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
+-    <field name="name_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris</field>
++    <field name="creator_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
++    <field name="name_sim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
++    <field name="name_teim">CAP - Compagnie (Alsacienne) des Arts Photomécaniques, Strasbourg &amp; Paris </field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Palm Trees</field>
+     <field name="subject_sim">Men</field>
+@@ -89,7 +89,8 @@
+     <field name="subject_sim">French Writing</field>
+     <field name="subject_sim">Markets</field>
+     <field name="subject_sim">Food</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.043</field>
+     <field name="series_si">Left: a postcard of a snake charmer surrounded by a crowd. Right: a postcard of people at a market.</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>

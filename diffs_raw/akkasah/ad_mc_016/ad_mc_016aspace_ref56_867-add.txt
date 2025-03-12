@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Komunidad: Filipinos in the UAE</field>
+     <field name="collection_unitid_ssm">AD.MC.016</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Judjet's daughter playing</field>
+-    <field name="unittitle_teim">Judjet's daughter playing</field>
++    <field name="unittitle_ssm">Judjet&#39;s daughter playing</field>
++    <field name="unittitle_teim">Judjet&#39;s daughter playing</field>
+     <field name="unitdate_teim">December 2015</field>
+     <field name="genreform_teim">Digital Photographs</field>
+     <field name="genreform_ssm">Digital Photographs</field>
+@@ -27,10 +27,10 @@
+     <field name="subject_ssm">Immigration</field>
+     <field name="subject_ssm">Girls</field>
+     <field name="subject_ssm">Children</field>
+-    <field name="dao_teim">Judjet's daughter playing: December 2015</field>
+-    <field name="dao_teim">Judjet's daughter playing: December 2015</field>
+-    <field name="dao_ssm">Judjet's daughter playing: December 2015</field>
+-    <field name="dao_ssm">Judjet's daughter playing: December 2015</field>
++    <field name="dao_teim">Judjet&#39;s daughter playing: December 2015</field>
++    <field name="dao_teim">Judjet&#39;s daughter playing: December 2015</field>
++    <field name="dao_ssm">Judjet&#39;s daughter playing: December 2015</field>
++    <field name="dao_ssm">Judjet&#39;s daughter playing: December 2015</field>
+     <field name="ref_ssi">aspace_ref56_867</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -48,11 +48,12 @@
+     <field name="subject_sim">Girls</field>
+     <field name="subject_sim">Children</field>
+     <field name="collection_teim">Komunidad: Filipinos in the UAE</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.016</field>
+-    <field name="series_si">Judjet's daughter playing</field>
++    <field name="series_si">Judjet&#39;s daughter playing</field>
+     <field name="material_type_sim">Digital Photographs</field>
+     <field name="material_type_ssm">Digital Photographs</field>
+-    <field name="heading_ssm">Judjet's daughter playing</field>
++    <field name="heading_ssm">Judjet&#39;s daughter playing</field>
+     <field name="unitdate_ssm">December 2015</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">38</field>

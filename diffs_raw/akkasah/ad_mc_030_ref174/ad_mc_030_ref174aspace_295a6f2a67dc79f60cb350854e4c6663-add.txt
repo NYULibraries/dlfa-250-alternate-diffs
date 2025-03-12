@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,17 +39,17 @@
+     <field name="subject_teim">Buildings</field>
+     <field name="subject_teim">Architecture</field>
+     <field name="subject_teim">Mountains/Hills</field>
+-    <field name="subject_teim">Monasteries/Convents</field>
+-    <field name="subject_teim">Landscapes</field>
+-    <field name="subject_teim">Buildings</field>
+-    <field name="subject_teim">Architecture</field>
+-    <field name="subject_teim">Mountains/Hills</field>
+-    <field name="subject_teim">Monasteries/Convents</field>
++    <field name="subject_teim"> Monasteries/Convents </field>
++    <field name="subject_teim">Landscapes</field>
++    <field name="subject_teim">Buildings</field>
++    <field name="subject_teim">Architecture</field>
++    <field name="subject_teim">Mountains/Hills</field>
++    <field name="subject_teim"> Monasteries/Convents </field>
+     <field name="subject_ssm">Landscapes</field>
+     <field name="subject_ssm">Buildings</field>
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Mountains/Hills</field>
+-    <field name="subject_ssm">Monasteries/Convents</field>
++    <field name="subject_ssm"> Monasteries/Convents </field>
+     <field name="ref_ssi">aspace_295a6f2a67dc79f60cb350854e4c6663</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -70,8 +70,9 @@
+     <field name="subject_sim">Buildings</field>
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Mountains/Hills</field>
+-    <field name="subject_sim">Monasteries/Convents</field>
++    <field name="subject_sim"> Monasteries/Convents </field>
+     <field name="collection_teim">Shlomo Narinsky (Neroni) and Sonia Narinsky Postcard Album - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref174</field>
+     <field name="series_si">(No.97) A Monastery in the rocks, kedron valley (a monastery in the Kidron Valley).</field>
+     <field name="material_type_sim">Photographic Prints</field>

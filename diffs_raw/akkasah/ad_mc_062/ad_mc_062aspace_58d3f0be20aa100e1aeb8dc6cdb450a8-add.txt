@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Orientreise 1898</field>
+     <field name="collection_unitid_ssm">AD.MC.062</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship.</field>
+-    <field name="unittitle_teim">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship.</field>
++    <field name="unittitle_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. </field>
++    <field name="unittitle_teim">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. </field>
+     <field name="unitid_teim">AD_MC_062_ref41</field>
+     <field name="unitid_ssm">AD_MC_062_ref41</field>
+     <field name="unitdate_teim">1898</field>
+@@ -50,8 +50,8 @@
+     <field name="subject_ssm">Transportation</field>
+     <field name="subject_ssm">Hats</field>
+     <field name="subject_ssm">Individual Portraits</field>
+-    <field name="dao_teim">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship. : 1898</field>
+-    <field name="dao_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship. : 1898</field>
++    <field name="dao_teim">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. : 1898</field>
++    <field name="dao_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. : 1898</field>
+     <field name="ref_ssi">aspace_58d3f0be20aa100e1aeb8dc6cdb450a8</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -74,13 +74,14 @@
+     <field name="subject_sim">Hats</field>
+     <field name="subject_sim">Individual Portraits</field>
+     <field name="collection_teim">Orientreise 1898</field>
++    <field name="author_teim">Jasmine Soliman, Jonathan Burr and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.062</field>
+-    <field name="series_si">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship.</field>
++    <field name="series_si">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the "Auguste-Victoria" ship.</field>
++    <field name="heading_ssm">Top: a view of Turkish forts. Bottom: a woman on a the deck of the &#34;Auguste-Victoria&#34; ship. </field>
+     <field name="unitdate_ssm">1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>

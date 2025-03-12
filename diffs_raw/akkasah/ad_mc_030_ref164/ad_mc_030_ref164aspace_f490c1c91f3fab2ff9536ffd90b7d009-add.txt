@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_030_ref164</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">'Egypt and Palestine' postcard album - Hisham Khatib Collection</field>
+-    <field name="collection_ssm">'Egypt and Palestine' postcard album - Hisham Khatib Collection</field>
++    <field name="collection_sim">&#39;Egypt and Palestine&#39; postcard album - Hisham Khatib Collection</field>
++    <field name="collection_ssm">&#39;Egypt and Palestine&#39; postcard album - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref164</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">From the top down: a man guiding a camel over a bridge, a hand-colored postcard of people beside the Nile, and a hand-colored postcard of boats on the bank of the Nile.</field>
+@@ -134,7 +134,8 @@
+     <field name="subject_sim">Transportation</field>
+     <field name="subject_sim">Coast</field>
+     <field name="subject_sim">Trains</field>
+-    <field name="collection_teim">'Egypt and Palestine' postcard album - Hisham Khatib Collection</field>
++    <field name="collection_teim">&#39;Egypt and Palestine&#39; postcard album - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref164</field>
+     <field name="series_si">From the top down: a man guiding a camel over a bridge, a hand-colored postcard of people beside the Nile, and a hand-colored postcard of boats on the bank of the Nile.</field>
+     <field name="material_type_sim">Photographic Prints</field>

@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Al Qassim Family Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.031</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Dubai's old airport. 6.1 x 8.8 cm</field>
+-    <field name="unittitle_teim">Dubai's old airport. 6.1 x 8.8 cm</field>
++    <field name="unittitle_ssm">Dubai&#39;s old airport. 6.1 x 8.8 cm</field>
++    <field name="unittitle_teim">Dubai&#39;s old airport. 6.1 x 8.8 cm</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+@@ -31,10 +31,10 @@
+     <field name="subject_ssm">Arabic Writing</field>
+     <field name="subject_ssm">Airports</field>
+     <field name="subject_ssm">Buildings</field>
+-    <field name="dao_teim">Dubai's old airport. 6.1 x 8.8 cm: Undated</field>
+-    <field name="dao_teim">Dubai's old airport. 6.1 x 8.8 cm: Undated</field>
+-    <field name="dao_ssm">Dubai's old airport. 6.1 x 8.8 cm: Undated</field>
+-    <field name="dao_ssm">Dubai's old airport. 6.1 x 8.8 cm: Undated</field>
++    <field name="dao_teim">Dubai&#39;s old airport. 6.1 x 8.8 cm: Undated</field>
++    <field name="dao_teim">Dubai&#39;s old airport. 6.1 x 8.8 cm: Undated</field>
++    <field name="dao_ssm">Dubai&#39;s old airport. 6.1 x 8.8 cm: Undated</field>
++    <field name="dao_ssm">Dubai&#39;s old airport. 6.1 x 8.8 cm: Undated</field>
+     <field name="ref_ssi">aspace_ref84_dcx</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -50,14 +50,15 @@
+     <field name="subject_sim">Airports</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="collection_teim">Al Qassim Family Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr, with assistance from Amna Al-Qubaisi for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.031</field>
+     <field name="series_sim">Al Qassim Family Collection Prints</field>
+-    <field name="series_si">Al Qassim Family Collection Prints &gt;&gt; Dubai's old airport. 6.1 x 8.8 cm</field>
++    <field name="series_si">Al Qassim Family Collection Prints &gt;&gt; Dubai&#39;s old airport. 6.1 x 8.8 cm</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Dubai's old airport. 6.1 x 8.8 cm</field>
++    <field name="heading_ssm">Dubai&#39;s old airport. 6.1 x 8.8 cm</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">84</field>

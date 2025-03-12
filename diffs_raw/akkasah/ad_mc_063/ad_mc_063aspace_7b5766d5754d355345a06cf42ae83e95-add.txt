@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_063</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">"Africa Album" - A trip across northern Algeria</field>
+-    <field name="collection_ssm">"Africa Album" - A trip across northern Algeria</field>
++    <field name="collection_sim">&#34;Africa Album&#34; - A trip across northern Algeria</field>
++    <field name="collection_ssm">&#34;Africa Album&#34; - A trip across northern Algeria</field>
+     <field name="collection_unitid_ssm">AD.MC.063</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Views of Constantine and the plateau it sits on, including a railway tunnel that passes through the mountain.</field>
+@@ -74,7 +74,8 @@
+     <field name="subject_sim">Railways</field>
+     <field name="subject_sim">Transportation</field>
+     <field name="subject_sim">Trains</field>
+-    <field name="collection_teim">"Africa Album" - A trip across northern Algeria</field>
++    <field name="collection_teim">&#34;Africa Album&#34; - A trip across northern Algeria</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.063</field>
+     <field name="series_si">Views of Constantine and the plateau it sits on, including a railway tunnel that passes through the mountain.</field>
+     <field name="material_type_sim">Photographic Prints</field>

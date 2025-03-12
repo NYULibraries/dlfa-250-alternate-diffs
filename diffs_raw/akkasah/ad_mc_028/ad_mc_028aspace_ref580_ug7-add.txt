@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -33,10 +33,10 @@
+     <field name="subject_ssm">Arabic Writing</field>
+     <field name="subject_ssm">Italian Writing</field>
+     <field name="subject_ssm">Buildings</field>
+-    <field name="dao_teim">Helwan's Casino. 8.9 x 14 cm: Undated</field>
+-    <field name="dao_teim">Helwan's Casino. 8.9 x 14 cm: Undated</field>
+-    <field name="dao_ssm">Helwan's Casino. 8.9 x 14 cm: Undated</field>
+-    <field name="dao_ssm">Helwan's Casino. 8.9 x 14 cm: Undated</field>
++    <field name="dao_teim">Helwan&#39;s Casino. 8.9 x 14 cm: Undated</field>
++    <field name="dao_teim">Helwan&#39;s Casino. 8.9 x 14 cm: Undated</field>
++    <field name="dao_ssm">Helwan&#39;s Casino. 8.9 x 14 cm: Undated</field>
++    <field name="dao_ssm">Helwan&#39;s Casino. 8.9 x 14 cm: Undated</field>
+     <field name="ref_ssi">aspace_ref580_ug7</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -54,6 +54,7 @@
+     <field name="subject_sim">Italian Writing</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+     <field name="series_si">Ex-Casino, Helwan. 8.9 x 14 cm</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>

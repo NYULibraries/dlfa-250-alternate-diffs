@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_ref745_oik</field>
+     <field name="parent_ssm">aspace_ref745_oik</field>
+-    <field name="parent_unittitles_ssm">The Operation (Operation 77) , العمليه</field>
+-    <field name="parent_unittitles_teim">The Operation (Operation 77) , العمليه</field>
++    <field name="parent_unittitles_ssm">The Operation (Operation 77) ,  العمليه </field>
++    <field name="parent_unittitles_teim">The Operation (Operation 77) ,  العمليه </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -30,9 +30,10 @@
+     <field name="name_sim">Mostafa, Niazi</field>
+     <field name="name_teim">Mostafa, Niazi</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">The Operation (Operation 77) , العمليه</field>
+-    <field name="series_si">The Operation (Operation 77) , العمليه &gt;&gt; The Operation Still 18, العمليه</field>
++    <field name="series_sim">The Operation (Operation 77) ,  العمليه </field>
++    <field name="series_si">The Operation (Operation 77) ,  العمليه  &gt;&gt; The Operation Still 18, العمليه</field>
+     <field name="heading_ssm">The Operation Still 18, العمليه</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3910</field>

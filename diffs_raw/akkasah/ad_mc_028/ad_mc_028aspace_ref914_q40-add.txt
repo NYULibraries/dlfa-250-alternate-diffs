@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">College de la Sainte Famille Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">First school photo, text on reverse "Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm</field>
+-    <field name="unittitle_teim">First school photo, text on reverse "Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm</field>
++    <field name="unittitle_ssm">First school photo, text on reverse &#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm</field>
++    <field name="unittitle_teim">First school photo, text on reverse &#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm</field>
+     <field name="unitdate_teim">1890</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+@@ -57,10 +57,10 @@
+     <field name="subject_ssm">Canes/Walking Sticks</field>
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">Children</field>
+-    <field name="dao_teim">First school photo, text on reverse ""Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm : 1890</field>
+-    <field name="dao_teim">First school photo, text on reverse ""Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm : 1890</field>
+-    <field name="dao_ssm">First school photo, text on reverse ""Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm : 1890</field>
+-    <field name="dao_ssm">First school photo, text on reverse ""Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm : 1890</field>
++    <field name="dao_teim">First school photo, text on reverse &#34;&#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm : 1890</field>
++    <field name="dao_teim">First school photo, text on reverse &#34;&#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm : 1890</field>
++    <field name="dao_ssm">First school photo, text on reverse &#34;&#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm : 1890</field>
++    <field name="dao_ssm">First school photo, text on reverse &#34;&#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm : 1890</field>
+     <field name="ref_ssi">aspace_ref914_q40</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -86,13 +86,14 @@
+     <field name="subject_sim">Facial Hair</field>
+     <field name="subject_sim">Children</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+-    <field name="series_si">First school photo, text on reverse "Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm</field>
++    <field name="series_si">First school photo, text on reverse &#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">First school photo, text on reverse "Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer". 29.3 x 23.3 cm</field>
++    <field name="heading_ssm">First school photo, text on reverse &#34;Salah Eldin Ahmed Abu El Aged, Aeronautic Engineer&#34;. 29.3 x 23.3 cm</field>
+     <field name="unitdate_ssm">1890</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">912</field>

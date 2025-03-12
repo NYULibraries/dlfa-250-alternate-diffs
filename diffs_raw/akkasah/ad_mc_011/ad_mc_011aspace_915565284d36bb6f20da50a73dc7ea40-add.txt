@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_9ca3e586374624ebdcf11f7da13f3787</field>
+     <field name="parent_ssm">aspace_9ca3e586374624ebdcf11f7da13f3787</field>
+-    <field name="parent_unittitles_ssm">Beggars' Strike</field>
+-    <field name="parent_unittitles_teim">Beggars' Strike</field>
++    <field name="parent_unittitles_ssm">Beggars&amp;#39; Strike</field>
++    <field name="parent_unittitles_teim">Beggars&amp;#39; Strike</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Beggars' Strike</field>
+-    <field name="unittitle_teim">Beggars' Strike</field>
++    <field name="unittitle_ssm">Beggars&#39; Strike</field>
++    <field name="unittitle_teim">Beggars&#39; Strike</field>
+     <field name="unitid_teim">ref188_000004</field>
+     <field name="unitid_ssm">ref188_000004</field>
+     <field name="unitdate_normal_ssm">1967/1967</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">box: 32, folder: 65</field>
+     <field name="location_si">box: 32, folder: 65</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">Beggars' Strike</field>
+-    <field name="series_si">Beggars' Strike &gt;&gt; Beggars' Strike</field>
+-    <field name="heading_ssm">Beggars' Strike</field>
++    <field name="series_sim">Beggars&amp;#39; Strike</field>
++    <field name="series_si">Beggars&#39; Strike &gt;&gt; Beggars&#39; Strike</field>
++    <field name="heading_ssm">Beggars&#39; Strike</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>
+     <field name="unitdate_start_si">1967</field>

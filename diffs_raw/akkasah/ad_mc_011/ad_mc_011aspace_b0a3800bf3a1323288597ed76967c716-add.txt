@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_842f9d414a3a0825d013bdac0f9e4fb0</field>
+     <field name="parent_ssm">aspace_842f9d414a3a0825d013bdac0f9e4fb0</field>
+-    <field name="parent_unittitles_ssm">The Prophet's Migration</field>
+-    <field name="parent_unittitles_teim">The Prophet's Migration</field>
++    <field name="parent_unittitles_ssm">The Prophet&amp;#39;s Migration</field>
++    <field name="parent_unittitles_teim">The Prophet&amp;#39;s Migration</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Prophet's Migration</field>
+-    <field name="unittitle_teim">The Prophet's Migration</field>
++    <field name="unittitle_ssm">The Prophet&#39;s Migration</field>
++    <field name="unittitle_teim">The Prophet&#39;s Migration</field>
+     <field name="unitid_teim">ref169_000005</field>
+     <field name="unitid_ssm">ref169_000005</field>
+     <field name="unitdate_normal_ssm">1964/1964</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">box: 29, folder: 25</field>
+     <field name="location_si">box: 29, folder: 25</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">The Prophet's Migration</field>
+-    <field name="series_si">The Prophet's Migration &gt;&gt; The Prophet's Migration</field>
+-    <field name="heading_ssm">The Prophet's Migration</field>
++    <field name="series_sim">The Prophet&amp;#39;s Migration</field>
++    <field name="series_si">The Prophet&#39;s Migration &gt;&gt; The Prophet&#39;s Migration</field>
++    <field name="heading_ssm">The Prophet&#39;s Migration</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>
+     <field name="unitdate_start_si">1964</field>

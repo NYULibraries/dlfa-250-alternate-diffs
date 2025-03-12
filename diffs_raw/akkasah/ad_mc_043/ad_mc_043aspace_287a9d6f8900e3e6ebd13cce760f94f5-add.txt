@@ -1,0 +1,57 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="collection_unitid_ssm">AD.MC.043</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.</field>
+-    <field name="unittitle_teim">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.</field>
++    <field name="unittitle_ssm">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.</field>
++    <field name="unittitle_teim">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.</field>
+     <field name="unitid_teim">AD_MC_043_ref5</field>
+     <field name="unitid_ssm">AD_MC_043_ref5</field>
+     <field name="unitdate_inclusive_teim">Circa 1950s</field>
+@@ -61,10 +61,10 @@
+     <field name="subject_ssm">Landscapes</field>
+     <field name="subject_ssm">Coast</field>
+     <field name="subject_ssm">Docks/Piers/Jetties</field>
+-    <field name="dao_teim">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.: Circa 1950s</field>
+-    <field name="dao_teim">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.: Circa 1950s</field>
+-    <field name="dao_ssm">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.: Circa 1950s</field>
+-    <field name="dao_ssm">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.: Circa 1950s</field>
++    <field name="dao_teim">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.: Circa 1950s</field>
++    <field name="dao_teim">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.: Circa 1950s</field>
++    <field name="dao_ssm">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.: Circa 1950s</field>
++    <field name="dao_ssm">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.: Circa 1950s</field>
+     <field name="ref_ssi">aspace_287a9d6f8900e3e6ebd13cce760f94f5</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -89,9 +89,10 @@
+     <field name="subject_sim">Landscapes</field>
+     <field name="subject_sim">Coast</field>
+     <field name="subject_sim">Docks/Piers/Jetties</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.043</field>
+-    <field name="series_si">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.</field>
++    <field name="series_si">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Newspaper Clippings</field>
+@@ -98,7 +99,7 @@
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Newspaper Clippings</field>
+-    <field name="heading_ssm">Views of Tunisia taken from the ship labeled 'first contact (premier contact)' with a view of the Bay of Tunis.</field>
++    <field name="heading_ssm">Views of Tunisia taken from the ship labeled &#39;first contact (premier contact)&#39; with a view of the Bay of Tunis.</field>
+     <field name="unitdate_ssm">Inclusive, Circa 1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

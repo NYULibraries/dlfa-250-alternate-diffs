@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Ozge Calafato Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm</field>
+-    <field name="unittitle_teim">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm</field>
++    <field name="unittitle_ssm">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm</field>
++    <field name="unittitle_teim">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm</field>
+     <field name="unitdate_teim">1949</field>
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -33,10 +33,10 @@
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Group Portraits</field>
+     <field name="subject_ssm">Facial Hair</field>
+-    <field name="dao_teim">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm: 1949</field>
+-    <field name="dao_teim">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm: 1949</field>
+-    <field name="dao_ssm">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm: 1949</field>
+-    <field name="dao_ssm">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm: 1949</field>
++    <field name="dao_teim">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm: 1949</field>
++    <field name="dao_teim">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm: 1949</field>
++    <field name="dao_ssm">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm: 1949</field>
++    <field name="dao_ssm">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm: 1949</field>
+     <field name="ref_ssi">aspace_ref4011_fmw</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -54,13 +54,14 @@
+     <field name="subject_sim">Group Portraits</field>
+     <field name="subject_sim">Facial Hair</field>
+     <field name="collection_teim">Ozge Calafato Collection</field>
++    <field name="author_teim">Ozge Calafato, Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.007</field>
+-    <field name="series_si">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm</field>
++    <field name="series_si">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">A studio portrait of a man with a mustache and his arm on the woman's shoulder. 13.1 x 8.6 cm</field>
++    <field name="heading_ssm">A studio portrait of a man with a mustache and his arm on the woman&#39;s shoulder. 13.1 x 8.6 cm</field>
+     <field name="unitdate_ssm">1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3987</field>

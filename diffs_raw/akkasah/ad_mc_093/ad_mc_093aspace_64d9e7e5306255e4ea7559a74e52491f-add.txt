@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_093</field>
+     <field name="parent_ssi">aspace_1f1d6021f89484bfca66c6fe5a55aca9</field>
+     <field name="parent_ssm">aspace_1f1d6021f89484bfca66c6fe5a55aca9</field>
+-    <field name="parent_unittitles_ssm">Documents Regarding Jaafar Nimeiri's Visit to Abu Dhabi</field>
+-    <field name="parent_unittitles_teim">Documents Regarding Jaafar Nimeiri's Visit to Abu Dhabi</field>
++    <field name="parent_unittitles_ssm">Documents Regarding Jaafar Nimeiri&amp;#39;s Visit to Abu Dhabi</field>
++    <field name="parent_unittitles_teim">Documents Regarding Jaafar Nimeiri&amp;#39;s Visit to Abu Dhabi</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">H.E. Butti Bin Bishr Collection</field>
+@@ -45,9 +45,10 @@
+     <field name="subject_sim">Arabic Writing</field>
+     <field name="subject_sim">Officials</field>
+     <field name="collection_teim">H.E. Butti Bin Bishr Collection</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad</field>
+     <field name="collection_unitid_teim">AD.MC.093</field>
+-    <field name="series_sim">Documents Regarding Jaafar Nimeiri's Visit to Abu Dhabi</field>
+-    <field name="series_si">Documents Regarding Jaafar Nimeiri's Visit to Abu Dhabi &gt;&gt; A list of names of members of the UAE delegation.</field>
++    <field name="series_sim">Documents Regarding Jaafar Nimeiri&amp;#39;s Visit to Abu Dhabi</field>
++    <field name="series_si">Documents Regarding Jaafar Nimeiri&#39;s Visit to Abu Dhabi &gt;&gt; A list of names of members of the UAE delegation.</field>
+     <field name="material_type_sim">Printed Materials</field>
+     <field name="material_type_ssm">Printed Materials</field>
+     <field name="heading_ssm">A list of names of members of the UAE delegation.</field>

@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,10 +39,10 @@
+     <field name="subject_ssm">Schools/Education</field>
+     <field name="subject_ssm">Architecture</field>
+     <field name="subject_ssm">Transportation</field>
+-    <field name="dao_teim">Picture of the school's building. 10.1 x 15.2 cm: 1987</field>
+-    <field name="dao_teim">Picture of the school's building. 10.1 x 15.2 cm: 1987</field>
+-    <field name="dao_ssm">Picture of the school's building. 10.1 x 15.2 cm: 1987</field>
+-    <field name="dao_ssm">Picture of the school's building. 10.1 x 15.2 cm: 1987</field>
++    <field name="dao_teim">Picture of the school&#39;s building. 10.1 x 15.2 cm: 1987</field>
++    <field name="dao_teim">Picture of the school&#39;s building. 10.1 x 15.2 cm: 1987</field>
++    <field name="dao_ssm">Picture of the school&#39;s building. 10.1 x 15.2 cm: 1987</field>
++    <field name="dao_ssm">Picture of the school&#39;s building. 10.1 x 15.2 cm: 1987</field>
+     <field name="ref_ssi">aspace_ref1283_6cx</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -62,6 +62,7 @@
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Transportation</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+     <field name="series_si">The school building. 10.1 x 15.2 cm</field>
+     <field name="material_type_sim">Color Photography</field>

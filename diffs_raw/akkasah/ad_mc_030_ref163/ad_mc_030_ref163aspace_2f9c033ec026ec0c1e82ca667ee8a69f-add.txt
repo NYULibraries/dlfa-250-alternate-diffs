@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Voyages on RMS Maloja and SS Kaisar-I-Hind - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref163</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The RMS Maloja ship's orchestra.</field>
+-    <field name="unittitle_teim">The RMS Maloja ship's orchestra.</field>
++    <field name="unittitle_ssm">The RMS Maloja ship&#39;s orchestra.</field>
++    <field name="unittitle_teim">The RMS Maloja ship&#39;s orchestra.</field>
+     <field name="unitid_teim">ref163_000036</field>
+     <field name="unitid_ssm">ref163_000036</field>
+     <field name="unitdate_normal_ssm">1926/1926</field>
+@@ -47,10 +47,10 @@
+     <field name="subject_ssm">Group Portraits</field>
+     <field name="subject_ssm">Violins</field>
+     <field name="subject_ssm">Orchestra</field>
+-    <field name="dao_teim">The RMS Maloja ship's orchestra.: November 1926</field>
+-    <field name="dao_teim">The RMS Maloja ship's orchestra.: November 1926</field>
+-    <field name="dao_ssm">The RMS Maloja ship's orchestra.: November 1926</field>
+-    <field name="dao_ssm">The RMS Maloja ship's orchestra.: November 1926</field>
++    <field name="dao_teim">The RMS Maloja ship&#39;s orchestra.: November 1926</field>
++    <field name="dao_teim">The RMS Maloja ship&#39;s orchestra.: November 1926</field>
++    <field name="dao_ssm">The RMS Maloja ship&#39;s orchestra.: November 1926</field>
++    <field name="dao_ssm">The RMS Maloja ship&#39;s orchestra.: November 1926</field>
+     <field name="ref_ssi">aspace_2f9c033ec026ec0c1e82ca667ee8a69f</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -71,13 +71,14 @@
+     <field name="subject_sim">Violins</field>
+     <field name="subject_sim">Orchestra</field>
+     <field name="collection_teim">Voyages on RMS Maloja and SS Kaisar-I-Hind - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref163</field>
+-    <field name="series_si">The RMS Maloja ship's orchestra.</field>
++    <field name="series_si">The RMS Maloja ship&#39;s orchestra.</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">The RMS Maloja ship's orchestra.</field>
++    <field name="heading_ssm">The RMS Maloja ship&#39;s orchestra.</field>
+     <field name="unitdate_start_sim">1926</field>
+     <field name="unitdate_start_ssm">1926</field>
+     <field name="unitdate_start_si">1926</field>

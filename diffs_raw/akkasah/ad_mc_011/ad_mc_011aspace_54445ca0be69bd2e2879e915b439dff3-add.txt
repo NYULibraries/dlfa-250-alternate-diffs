@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">My Wife's Husband</field>
+-    <field name="unittitle_teim">My Wife's Husband</field>
++    <field name="unittitle_ssm">My Wife&#39;s Husband</field>
++    <field name="unittitle_teim">My Wife&#39;s Husband</field>
+     <field name="unitid_teim">ref125</field>
+     <field name="unitid_ssm">ref125</field>
+     <field name="creator_teim">Mostafa, Niazi</field>
+@@ -32,9 +32,10 @@
+     <field name="name_sim">Mostafa, Niazi</field>
+     <field name="name_teim">Mostafa, Niazi</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_si">My Wife's Husband</field>
+-    <field name="heading_ssm">My Wife's Husband</field>
++    <field name="series_si">My Wife&#39;s Husband</field>
++    <field name="heading_ssm">My Wife&#39;s Husband</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

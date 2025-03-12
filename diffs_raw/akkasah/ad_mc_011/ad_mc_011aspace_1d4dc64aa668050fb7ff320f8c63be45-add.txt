@@ -1,0 +1,65 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ad_mc_011</field>
+     <field name="parent_ssi">aspace_346952775b57088c7764c8cde74a9f8b</field>
+     <field name="parent_ssm">aspace_346952775b57088c7764c8cde74a9f8b</field>
+-    <field name="parent_unittitles_ssm">I Hope You Don't Think</field>
+-    <field name="parent_unittitles_teim">I Hope You Don't Think</field>
++    <field name="parent_unittitles_ssm">I Hope You Don&amp;#39;t Think</field>
++    <field name="parent_unittitles_teim">I Hope You Don&amp;#39;t Think</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Samir Farid Collection</field>
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Samir Farid Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">I Hope You Don't Think | Actors in Image: Ismail Yasin</field>
+-    <field name="unittitle_teim">I Hope You Don't Think | Actors in Image: Ismail Yasin</field>
++    <field name="unittitle_ssm">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin</field>
++    <field name="unittitle_teim">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin</field>
+     <field name="unitid_teim">ref71_000004</field>
+     <field name="unitid_ssm">ref71_000004</field>
+     <field name="unitdate_normal_ssm">1954/1954</field>
+@@ -47,10 +49,14 @@
+     <field name="subject_ssm">Costumes</field>
+     <field name="subject_ssm">Facial Hair</field>
+     <field name="subject_ssm">Jewelry</field>
+-    <field name="dao_teim">I Hope You Don't Think | Actors in Image: Ismail Yasin: 1954-</field>
+-    <field name="dao_teim">I Hope You Don't Think | Actors in Image: Ismail Yasin: 1954-</field>
+-    <field name="dao_ssm">I Hope You Don't Think | Actors in Image: Ismail Yasin: 1954-</field>
+-    <field name="dao_ssm">I Hope You Don't Think | Actors in Image: Ismail Yasin: 1954-</field>
++    <field name="dao_teim">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin: 1954-</field>
++    <field name="dao_teim">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin: 1954-</field>
++    <field name="dao_ssm">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin: 1954-</field>
++    <field name="dao_ssm">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin: 1954-</field>
+     <field name="ref_ssi">aspace_1d4dc64aa668050fb7ff320f8c63be45</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -69,12 +75,15 @@
+     <field name="subject_sim">Facial Hair</field>
+     <field name="subject_sim">Jewelry</field>
+     <field name="collection_teim">Samir Farid Collection</field>
++    <field name="author_teim">Jonathan Burr, with assistance from Amna Al-Qubaisi and Robert Gordon for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.011</field>
+-    <field name="series_sim">I Hope You Don't Think</field>
+-    <field name="series_si">I Hope You Don't Think &gt;&gt; I Hope You Don't Think | Actors in Image: Ismail Yasin</field>
++    <field name="series_sim">I Hope You Don&amp;#39;t Think</field>
++    <field name="series_si">I Hope You Don&#39;t Think &gt;&gt; I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin</field>
+     <field name="material_type_sim">Negative Images</field>
+     <field name="material_type_ssm">Negative Images</field>
+-    <field name="heading_ssm">I Hope You Don't Think | Actors in Image: Ismail Yasin</field>
++    <field name="heading_ssm">I Hope You Don&#39;t Think 
++| Actors in Image: Ismail Yasin</field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>

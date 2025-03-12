@@ -1,0 +1,75 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,24 +5,24 @@
+     <field name="ead_ssi">ad_mc_043</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
+-    <field name="collection_ssm">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_sim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_ssm">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
+     <field name="collection_unitid_ssm">AD.MC.043</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Postcards of the souk in Tunis.</field>
+-    <field name="unittitle_teim">Postcards of the souk in Tunis.</field>
++    <field name="unittitle_ssm">Postcards of the souk in Tunis. </field>
++    <field name="unittitle_teim">Postcards of the souk in Tunis. </field>
+     <field name="unitid_teim">AD_MC_043_ref8</field>
+     <field name="unitid_ssm">AD_MC_043_ref8</field>
+-    <field name="creator_teim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="creator_teim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="creator_teim">Alain</field>
+-    <field name="creator_ssm">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
+-    <field name="creator_ssm">Alain</field>
+-    <field name="creator_ssm">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="creator_ssm">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
++    <field name="creator_ssm">Alain</field>
++    <field name="creator_ssm">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="creator_ssm">Alain</field>
+     <field name="unitdate_inclusive_teim">Circa 1950s</field>
+-    <field name="corpname_teim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="corpname_teim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="corpname_teim">Alain</field>
+-    <field name="corpname_ssm">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="corpname_ssm">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="corpname_ssm">Alain</field>
+     <field name="genreform_teim">Postcards</field>
+     <field name="genreform_teim">Photographic Prints</field>
+@@ -74,11 +74,11 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 043</field>
+     <field name="location_si">box: 043</field>
+-    <field name="creator_sim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="creator_sim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="creator_sim">Alain</field>
+-    <field name="name_sim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="name_sim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="name_sim">Alain</field>
+-    <field name="name_teim">Editions de luxe " Estel" Lavelle &amp; Cie, Paris</field>
++    <field name="name_teim">Editions de luxe &#34; Estel&#34; Lavelle &amp; Cie, Paris</field>
+     <field name="name_teim">Alain</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="place_ssm">Tunis, Tunisia</field>
+@@ -93,9 +93,10 @@
+     <field name="subject_sim">Workers</field>
+     <field name="subject_sim">Streets/Roads</field>
+     <field name="subject_sim">French Writing</field>
+-    <field name="collection_teim">Vers la Tunisie...Sur le "Kairouan" (A Trip to Tunisia on the Kairouan)</field>
++    <field name="collection_teim">Vers la Tunisie...Sur le &#34;Kairouan&#34; (A Trip to Tunisia on the Kairouan)</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.043</field>
+-    <field name="series_si">Postcards of the souk in Tunis.</field>
++    <field name="series_si">Postcards of the souk in Tunis. </field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+@@ -102,7 +103,7 @@
+     <field name="material_type_ssm">Postcards</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">Postcards of the souk in Tunis.</field>
++    <field name="heading_ssm">Postcards of the souk in Tunis. </field>
+     <field name="unitdate_ssm">Inclusive, Circa 1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

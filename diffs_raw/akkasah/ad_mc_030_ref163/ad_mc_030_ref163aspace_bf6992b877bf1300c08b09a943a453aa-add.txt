@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Voyages on RMS Maloja and SS Kaisar-I-Hind - Hisham Khatib Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.030_ref163</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A group portrait of the RMS Maloja's band wearing tuxedos.</field>
+-    <field name="unittitle_teim">A group portrait of the RMS Maloja's band wearing tuxedos.</field>
++    <field name="unittitle_ssm">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.</field>
++    <field name="unittitle_teim">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.</field>
+     <field name="unitid_teim">ref163_000047</field>
+     <field name="unitid_ssm">ref163_000047</field>
+     <field name="unitdate_normal_ssm">1928/1928</field>
+@@ -56,10 +56,10 @@
+     <field name="subject_ssm">Brass Instruments</field>
+     <field name="subject_ssm">String Instruments</field>
+     <field name="subject_ssm">Signatures</field>
+-    <field name="dao_teim">A group portrait of the RMS Maloja's band wearing tuxedos.: November 1928</field>
+-    <field name="dao_teim">A group portrait of the RMS Maloja's band wearing tuxedos.: November 1928</field>
+-    <field name="dao_ssm">A group portrait of the RMS Maloja's band wearing tuxedos.: November 1928</field>
+-    <field name="dao_ssm">A group portrait of the RMS Maloja's band wearing tuxedos.: November 1928</field>
++    <field name="dao_teim">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.: November 1928</field>
++    <field name="dao_teim">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.: November 1928</field>
++    <field name="dao_ssm">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.: November 1928</field>
++    <field name="dao_ssm">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.: November 1928</field>
+     <field name="ref_ssi">aspace_bf6992b877bf1300c08b09a943a453aa</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -83,13 +83,14 @@
+     <field name="subject_sim">String Instruments</field>
+     <field name="subject_sim">Signatures</field>
+     <field name="collection_teim">Voyages on RMS Maloja and SS Kaisar-I-Hind - Hisham Khatib Collection</field>
++    <field name="author_teim">Jasmine Soliman</field>
+     <field name="collection_unitid_teim">AD.MC.030_ref163</field>
+-    <field name="series_si">A group portrait of the RMS Maloja's band wearing tuxedos.</field>
++    <field name="series_si">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+-    <field name="heading_ssm">A group portrait of the RMS Maloja's band wearing tuxedos.</field>
++    <field name="heading_ssm">A group portrait of the RMS Maloja&#39;s band wearing tuxedos.</field>
+     <field name="unitdate_start_sim">1928</field>
+     <field name="unitdate_start_ssm">1928</field>
+     <field name="unitdate_start_si">1928</field>

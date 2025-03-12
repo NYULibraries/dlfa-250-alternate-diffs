@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,10 +27,10 @@
+     <field name="subject_ssm">Drinks/Beverages</field>
+     <field name="subject_ssm">Women</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, "Jockey Club". 13.8 x 9.2 cm: 1970</field>
+-    <field name="dao_teim">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, "Jockey Club". 13.8 x 9.2 cm: 1970</field>
+-    <field name="dao_ssm">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, "Jockey Club". 13.8 x 9.2 cm: 1970</field>
+-    <field name="dao_ssm">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, "Jockey Club". 13.8 x 9.2 cm: 1970</field>
++    <field name="dao_teim">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, &#34;Jockey Club&#34;. 13.8 x 9.2 cm: 1970</field>
++    <field name="dao_teim">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, &#34;Jockey Club&#34;. 13.8 x 9.2 cm: 1970</field>
++    <field name="dao_ssm">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, &#34;Jockey Club&#34;. 13.8 x 9.2 cm: 1970</field>
++    <field name="dao_ssm">Two older females seated in wooden chairs in satin dress with drinks in their hands. Turkish writing on the back, &#34;Jockey Club&#34;. 13.8 x 9.2 cm: 1970</field>
+     <field name="ref_ssi">aspace_ref689_iyx</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -46,6 +46,7 @@
+     <field name="subject_sim">Women</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">Ozge Calafato Collection</field>
++    <field name="author_teim">Ozge Calafato, Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.007</field>
+     <field name="series_si">A portrait of two women seated in wooden chairs in satin dress with drinks in their hands. 13.8 x 9.2 cm</field>
+     <field name="material_type_sim">Photographic Prints</field>

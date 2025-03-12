@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ad_mc_061</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
+-    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_sim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="collection_ssm">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
+     <field name="collection_unitid_ssm">AD.MC.061</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran.</field>
+-    <field name="unittitle_teim">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran.</field>
++    <field name="unittitle_ssm">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. </field>
++    <field name="unittitle_teim">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. </field>
+     <field name="unitid_teim">AD_MC_061_ref19</field>
+     <field name="unitid_ssm">AD_MC_061_ref19</field>
+     <field name="creator_teim">Hotz, A. P. H. (Albertus Paulus Hermanus)</field>
+@@ -72,10 +72,10 @@
+     <field name="subject_ssm">Weapons</field>
+     <field name="subject_ssm">Girls</field>
+     <field name="subject_ssm">Jewelry</field>
+-    <field name="dao_teim">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran. : 1890-1891</field>
+-    <field name="dao_teim">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran. : 1890-1891</field>
+-    <field name="dao_ssm">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran. : 1890-1891</field>
+-    <field name="dao_ssm">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran. : 1890-1891</field>
++    <field name="dao_teim">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. : 1890-1891</field>
++    <field name="dao_teim">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. : 1890-1891</field>
++    <field name="dao_ssm">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. : 1890-1891</field>
++    <field name="dao_ssm">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. : 1890-1891</field>
+     <field name="ref_ssi">aspace_960719da91978bb3d10ccb00dbd11893</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -106,14 +106,15 @@
+     <field name="subject_sim">Weapons</field>
+     <field name="subject_sim">Girls</field>
+     <field name="subject_sim">Jewelry</field>
+-    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months' journey in 1891 (selection)</field>
++    <field name="collection_teim">A Collection of Photographs taken in Persia, Turkey and in the Caucasus, during a seven months&#39; journey in 1891 (selection)</field>
++    <field name="author_teim">Jasmine Soliman and Emily Broad for Akkasah: Photography Archive at NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.061</field>
+-    <field name="series_si">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran.</field>
++    <field name="series_si">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Gelatin Silver Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Gelatin Silver Prints</field>
+-    <field name="heading_ssm">A group portrait of several men and children (Sheikh Mizal Khan's men) in Ahvaz, Iran.</field>
++    <field name="heading_ssm">A group portrait of several men and children (Sheikh Mizal Khan&#39;s men) in Ahvaz, Iran. </field>
+     <field name="unitdate_start_sim">1890</field>
+     <field name="unitdate_start_ssm">1890</field>
+     <field name="unitdate_start_si">1890</field>

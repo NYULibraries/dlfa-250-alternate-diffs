@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,12 +24,12 @@
+     <field name="genreform_ssm">Albumen Prints</field>
+     <field name="genreform_ssm">Photographic Prints</field>
+     <field name="geogname_teim">Mount Tabor/Jabal at-Tur</field>
+-    <field name="geogname_teim">Nein/Na'in</field>
++    <field name="geogname_teim">Nein/Na&#39;in</field>
+     <field name="geogname_teim">Palestine</field>
+     <field name="geogname_teim">Samaria/as-Sāmirah</field>
+     <field name="geogname_teim">West Bank</field>
+     <field name="geogname_ssm">Mount Tabor/Jabal at-Tur</field>
+-    <field name="geogname_ssm">Nein/Na'in</field>
++    <field name="geogname_ssm">Nein/Na&#39;in</field>
+     <field name="geogname_ssm">Palestine</field>
+     <field name="geogname_ssm">Samaria/as-Sāmirah</field>
+     <field name="geogname_ssm">West Bank</field>
+@@ -79,12 +79,12 @@
+     <field name="name_teim">Bonfils, Felix</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="place_ssm">Mount Tabor/Jabal at-Tur</field>
+-    <field name="place_ssm">Nein/Na'in</field>
++    <field name="place_ssm">Nein/Na&#39;in</field>
+     <field name="place_ssm">Palestine</field>
+     <field name="place_ssm">Samaria/as-Sāmirah</field>
+     <field name="place_ssm">West Bank</field>
+     <field name="place_sim">Mount Tabor/Jabal at-Tur</field>
+-    <field name="place_sim">Nein/Na'in</field>
++    <field name="place_sim">Nein/Na&#39;in</field>
+     <field name="place_sim">Palestine</field>
+     <field name="place_sim">Samaria/as-Sāmirah</field>
+     <field name="place_sim">West Bank</field>
+@@ -98,6 +98,7 @@
+     <field name="subject_sim">Religious Sites</field>
+     <field name="subject_sim">Women</field>
+     <field name="collection_teim">Hisham Khatib Collection - Prints</field>
++    <field name="author_teim">Finding aid prepared by Jasmine Soliman and Jonathan Burr for Akkasah: Photography Archive, NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.030</field>
+     <field name="series_sim">Palestine, Lebanon, Syria and Cyprus - Bonfils</field>
+     <field name="series_si">Palestine, Lebanon, Syria and Cyprus - Bonfils &gt;&gt; 352 - Palestine - Colonade a Sebaste (Colonnade of Herod at Sebaste or Samaria) and 353 - Vue generale du Nain (Mount Tabor from Nain). 52.8 x 36.2 cm</field>

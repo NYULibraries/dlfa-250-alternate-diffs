@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,8 +28,8 @@
+     <field name="genreform_teim">Gelatin Silver Prints</field>
+     <field name="genreform_ssm">Photographic Prints</field>
+     <field name="genreform_ssm">Gelatin Silver Prints</field>
+-    <field name="geogname_teim">Ma'in, Jordan</field>
+-    <field name="geogname_ssm">Ma'in, Jordan</field>
++    <field name="geogname_teim">Ma&#39;in, Jordan</field>
++    <field name="geogname_ssm">Ma&#39;in, Jordan</field>
+     <field name="persname_teim">Fuleihan, Nasri Suleiman</field>
+     <field name="persname_ssm">Fuleihan, Nasri Suleiman</field>
+     <field name="subject_teim">Outdoors</field>
+@@ -51,10 +51,11 @@
+     <field name="name_sim">Fuleihan, Nasri Suleiman</field>
+     <field name="name_teim">Fuleihan, Nasri Suleiman</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="place_ssm">Ma'in, Jordan</field>
+-    <field name="place_sim">Ma'in, Jordan</field>
++    <field name="place_ssm">Ma&#39;in, Jordan</field>
++    <field name="place_sim">Ma&#39;in, Jordan</field>
+     <field name="subject_sim">Outdoors</field>
+     <field name="collection_teim">Nasri Fuleihan Collection</field>
++    <field name="author_teim">Jasmine Soliman, with assistance from Amna Al-Qubaisi and Emily Broad for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.056</field>
+     <field name="series_sim">Nasri Fuleihan Collection</field>
+     <field name="series_si">Nasri Fuleihan Collection &gt;&gt; A vertical view from the bottom of Wadi al Mujib, Jordan.</field>

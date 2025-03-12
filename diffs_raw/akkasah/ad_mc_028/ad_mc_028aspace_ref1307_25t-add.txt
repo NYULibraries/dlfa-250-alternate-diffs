@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -40,8 +40,8 @@
+     <field name="repository_ssm">akkasah</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">object: AD_MC_028_ref1307</field>
+-    <field name="location_si">object: AD_MC_028_ref1307</field>
++    <field name="location_ssm">object:  AD_MC_028_ref1307</field>
++    <field name="location_si">object:  AD_MC_028_ref1307</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="place_ssm">Helwan, Egypt</field>
+     <field name="place_sim">Helwan, Egypt</field>
+@@ -50,6 +50,7 @@
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Buildings</field>
+     <field name="collection_teim">College de la Sainte Famille Collection</field>
++    <field name="author_teim">Jasmine Soliman and Jonathan Burr for Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.028</field>
+     <field name="series_si">View of the school from above. 8.9 x 13.9 cm</field>
+     <field name="material_type_sim">Photographic Prints</field>

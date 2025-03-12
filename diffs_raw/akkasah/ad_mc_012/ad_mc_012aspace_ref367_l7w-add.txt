@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Engin Ozendes Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.012</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm</field>
+-    <field name="unittitle_teim">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm</field>
++    <field name="unittitle_ssm">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm </field>
++    <field name="unittitle_teim">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm </field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="genreform_teim">Photographic Prints</field>
+     <field name="genreform_teim">Albumen Prints</field>
+@@ -42,10 +42,10 @@
+     <field name="subject_ssm">Boys</field>
+     <field name="subject_ssm">Religious Sites</field>
+     <field name="subject_ssm">Group Portraits</field>
+-    <field name="dao_teim">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
+-    <field name="dao_teim">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
+-    <field name="dao_ssm">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
+-    <field name="dao_ssm">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
++    <field name="dao_teim">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
++    <field name="dao_teim">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
++    <field name="dao_ssm">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
++    <field name="dao_ssm">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm : Undated</field>
+     <field name="ref_ssi">aspace_ref367_l7w</field>
+     <field name="repository_ssi">akkasah</field>
+     <field name="repository_sim">akkasah</field>
+@@ -66,13 +66,14 @@
+     <field name="subject_sim">Religious Sites</field>
+     <field name="subject_sim">Group Portraits</field>
+     <field name="collection_teim">Engin Ozendes Collection</field>
++    <field name="author_teim">Akkasah: Center for Photography NYUAD</field>
+     <field name="collection_unitid_teim">AD.MC.012</field>
+-    <field name="series_si">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm</field>
++    <field name="series_si">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm </field>
+     <field name="material_type_sim">Photographic Prints</field>
+     <field name="material_type_sim">Albumen Prints</field>
+     <field name="material_type_ssm">Photographic Prints</field>
+     <field name="material_type_ssm">Albumen Prints</field>
+-    <field name="heading_ssm">36 - Grande Cimetiere d'Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm</field>
++    <field name="heading_ssm">36 - Grande Cimetiere d&#39;Eyouh (Eyüp Cemetery). 18.7 x 24.6 cm </field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">361</field>
