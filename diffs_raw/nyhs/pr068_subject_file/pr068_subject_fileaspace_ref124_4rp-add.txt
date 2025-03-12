@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">COMMUNICATION DEVICES</field>
+     <field name="unittitle_teim">COMMUNICATION DEVICES</field>
+-    <field name="scopecontent_teim">is one 1858 chart Showing the Track of the Great Submarine Atlantic Telegraph. The chart includes portraits of Cyrus Field and Samuel Morse, as well as a chart of the telegraphs' route, and a text account of the cable laying process and of the telegraph process.</field>
++    <field name="scopecontent_teim">is one 1858 chart Showing the Track of the Great Submarine Atlantic Telegraph. The chart includes portraits of Cyrus Field and Samuel Morse, as well as a chart of the telegraphs&#39; route, and a text account of the cable laying process and of the telegraph process.</field>
+     <field name="ref_ssi">aspace_ref124_4rp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Folder: x</field>
+     <field name="location_si">Folder: x</field>
+     <field name="collection_teim">Subject File</field>
++    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+     <field name="collection_unitid_teim">PR 68</field>
+     <field name="series_sim">Series III: Oversize Files</field>
+     <field name="series_si">Series III: Oversize Files &gt;&gt; COMMUNICATION DEVICES</field>

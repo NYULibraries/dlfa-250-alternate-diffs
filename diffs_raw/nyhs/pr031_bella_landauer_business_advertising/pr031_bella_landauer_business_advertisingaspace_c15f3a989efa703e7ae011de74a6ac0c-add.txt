@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
+     <field name="collection_unitid_ssm">PR 31</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Women's</field>
+-    <field name="unittitle_teim">Women's</field>
++    <field name="unittitle_ssm">Women&#39;s </field>
++    <field name="unittitle_teim">Women&#39;s </field>
+     <field name="unitdate_inclusive_teim">1876-1900</field>
+     <field name="ref_ssi">aspace_c15f3a989efa703e7ae011de74a6ac0c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: III.6, Folder: 79</field>
+     <field name="location_si">Offsite-Box: III.6, Folder: 79</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series III: SHEET MUSIC</field>
+     <field name="series_sim">FASHIONS</field>
+-    <field name="series_si">Series III: SHEET MUSIC &gt;&gt; FASHIONS &gt;&gt; Women's</field>
+-    <field name="heading_ssm">Women's</field>
++    <field name="series_si">Series III: SHEET MUSIC &gt;&gt; FASHIONS &gt;&gt; Women&#39;s </field>
++    <field name="heading_ssm">Women&#39;s </field>
+     <field name="unitdate_ssm">Inclusive, 1876-1900</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">592</field>

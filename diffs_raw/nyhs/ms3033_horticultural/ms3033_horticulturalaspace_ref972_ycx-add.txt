@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,11 @@
+     <field name="unittitle_ssm">Foster, Laura Louise: Three signed botanical prints (on board) created for the American Rock Garden Society [Oversize]</field>
+     <field name="unittitle_teim">Foster, Laura Louise: Three signed botanical prints (on board) created for the American Rock Garden Society [Oversize]</field>
+     <field name="unitdate_teim">1981</field>
+-    <field name="scopecontent_teim">Claytonia caroliniana Cornus canadensis Iris verna</field>
++    <field name="scopecontent_teim">Claytonia caroliniana
++
++Cornus canadensis
++
++Iris verna</field>
+     <field name="ref_ssi">aspace_ref972_ycx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +33,7 @@
+     <field name="location_ssm">Offsite-Box: 111, Box: FF-11, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 111, Box: FF-11, Folder: 4</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.C. Miscellaneous Print Material</field>

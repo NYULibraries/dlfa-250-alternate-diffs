@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Women for Hillary town hall breakfast</field>
+-    <field name="unittitle_teim">Women for Hillary town hall breakfast</field>
++    <field name="unittitle_ssm">Women for Hillary town hall breakfast </field>
++    <field name="unittitle_teim">Women for Hillary town hall breakfast </field>
+     <field name="unitdate_teim">2007 June 4</field>
+-    <field name="scopecontent_teim">Contains BJK's typed remarks with handwritten edits. BJK's remarks describe her commitment to HRC and their shared values and beliefs.</field>
++    <field name="scopecontent_teim">Contains BJK&#39;s typed remarks with handwritten edits. BJK&#39;s remarks describe her commitment to HRC and their shared values and beliefs.</field>
+     <field name="ref_ssi">aspace_902c5d10b10fc1c6e782211eeef951eb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 34</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 34</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IV. Speeches</field>
+-    <field name="series_si">Series IV. Speeches &gt;&gt; Women for Hillary town hall breakfast</field>
+-    <field name="heading_ssm">Women for Hillary town hall breakfast</field>
++    <field name="series_si">Series IV. Speeches &gt;&gt; Women for Hillary town hall breakfast </field>
++    <field name="heading_ssm">Women for Hillary town hall breakfast </field>
+     <field name="unitdate_ssm">2007 June 4</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">262</field>

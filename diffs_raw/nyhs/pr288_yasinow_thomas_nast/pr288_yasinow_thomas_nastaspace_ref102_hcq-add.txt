@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen K. Yasinow Collection of Thomas Nast Cartoons</field>
+     <field name="collection_unitid_ssm">PR 288</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Who Ought to Have the Cardinal's Hat in America?</field>
+-    <field name="unittitle_teim">Who Ought to Have the Cardinal's Hat in America?</field>
++    <field name="unittitle_ssm">Who Ought to Have the Cardinal&#39;s Hat in America?</field>
++    <field name="unittitle_teim">Who Ought to Have the Cardinal&#39;s Hat in America?</field>
+     <field name="unitdate_teim">1874, August 22</field>
+     <field name="ref_ssi">aspace_ref102_hcq</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Stephen K. Yasinow Collection of Thomas Nast Cartoons</field>
++    <field name="author_teim">Processed by Catherine Newton.</field>
+     <field name="collection_unitid_teim">PR 288</field>
+     <field name="series_sim">Series I: Single-page cartoons</field>
+-    <field name="series_si">Series I: Single-page cartoons &gt;&gt; Who Ought to Have the Cardinal's Hat in America?</field>
+-    <field name="heading_ssm">Who Ought to Have the Cardinal's Hat in America?</field>
++    <field name="series_si">Series I: Single-page cartoons &gt;&gt; Who Ought to Have the Cardinal&#39;s Hat in America?</field>
++    <field name="heading_ssm">Who Ought to Have the Cardinal&#39;s Hat in America?</field>
+     <field name="unitdate_ssm">1874, August 22</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

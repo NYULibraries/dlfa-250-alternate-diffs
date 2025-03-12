@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Oversize manuscripts collection</field>
+     <field name="collection_unitid_ssm">MS OS</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Y-Naval History Society Collection/G.V. Fox] Drawings of "The Raft" (2)</field>
+-    <field name="unittitle_teim">[Y-Naval History Society Collection/G.V. Fox] Drawings of "The Raft" (2)</field>
++    <field name="unittitle_ssm">[Y-Naval History Society Collection/G.V. Fox] Drawings of &#34;The Raft&#34; (2)</field>
++    <field name="unittitle_teim">[Y-Naval History Society Collection/G.V. Fox] Drawings of &#34;The Raft&#34; (2)</field>
+     <field name="ref_ssi">aspace_ref447_nrz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">oversize: medium</field>
+     <field name="location_si">oversize: medium</field>
+     <field name="collection_teim">Oversize manuscripts collection</field>
++    <field name="author_teim">Catherine Newton and Audrey Belanger, with ongoing additions by others.</field>
+     <field name="collection_unitid_teim">MS OS</field>
+     <field name="series_sim">Series II. Oversize Manuscripts From Other Collections</field>
+-    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Naval History Society Collection/G.V. Fox] Drawings of "The Raft" (2)</field>
+-    <field name="heading_ssm">[Y-Naval History Society Collection/G.V. Fox] Drawings of "The Raft" (2)</field>
++    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Naval History Society Collection/G.V. Fox] Drawings of &#34;The Raft&#34; (2)</field>
++    <field name="heading_ssm">[Y-Naval History Society Collection/G.V. Fox] Drawings of &#34;The Raft&#34; (2)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">436</field>
+   </doc>

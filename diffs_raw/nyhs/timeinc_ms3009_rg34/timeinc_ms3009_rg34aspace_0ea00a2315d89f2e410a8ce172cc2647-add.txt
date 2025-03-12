@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Sports Illustrated Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 34</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Correspondence: Tippette, Giles: Saturday's Children</field>
+-    <field name="unittitle_teim">Correspondence: Tippette, Giles: Saturday's Children</field>
++    <field name="unittitle_ssm">Correspondence: Tippette, Giles: Saturday&#39;s Children</field>
++    <field name="unittitle_teim">Correspondence: Tippette, Giles: Saturday&#39;s Children</field>
+     <field name="unitdate_inclusive_teim">1971</field>
+     <field name="ref_ssi">aspace_0ea00a2315d89f2e410a8ce172cc2647</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 4105, Folder: 29</field>
+     <field name="location_si">Offsite-Box: 4105, Folder: 29</field>
+     <field name="collection_teim">Time Inc. Sports Illustrated Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 34</field>
+     <field name="series_sim">Series III. Senior Editor Patricia Ryan Files</field>
+-    <field name="series_si">Series III. Senior Editor Patricia Ryan Files &gt;&gt; Correspondence: Tippette, Giles: Saturday's Children</field>
+-    <field name="heading_ssm">Correspondence: Tippette, Giles: Saturday's Children</field>
++    <field name="series_si">Series III. Senior Editor Patricia Ryan Files &gt;&gt; Correspondence: Tippette, Giles: Saturday&#39;s Children</field>
++    <field name="heading_ssm">Correspondence: Tippette, Giles: Saturday&#39;s Children</field>
+     <field name="unitdate_ssm">Inclusive, 1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">72</field>

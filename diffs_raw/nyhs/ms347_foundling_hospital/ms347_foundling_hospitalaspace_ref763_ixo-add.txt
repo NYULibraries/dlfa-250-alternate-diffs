@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Volunteers - reports ("summaries") of department, annual reports</field>
+-    <field name="unittitle_teim">Volunteers - reports ("summaries") of department, annual reports</field>
++    <field name="unittitle_ssm">Volunteers - reports (&#34;summaries&#34;) of department, annual reports</field>
++    <field name="unittitle_teim">Volunteers - reports (&#34;summaries&#34;) of department, annual reports</field>
+     <field name="unitdate_teim">1946, 1955, 1957, 1961, 1977, 1981</field>
+     <field name="ref_ssi">aspace_ref763_ixo</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 42, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 42, Folder: 9</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008</field>
+     <field name="series_sim">Subseries IV.45. Volunteers, 1946-2000</field>
+-    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.45. Volunteers, 1946-2000 &gt;&gt; Volunteers - reports ("summaries") of department, annual reports</field>
+-    <field name="heading_ssm">Volunteers - reports ("summaries") of department, annual reports</field>
++    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.45. Volunteers, 1946-2000 &gt;&gt; Volunteers - reports (&#34;summaries&#34;) of department, annual reports</field>
++    <field name="heading_ssm">Volunteers - reports (&#34;summaries&#34;) of department, annual reports</field>
+     <field name="unitdate_ssm">1946, 1955, 1957, 1961, 1977, 1981</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">679</field>

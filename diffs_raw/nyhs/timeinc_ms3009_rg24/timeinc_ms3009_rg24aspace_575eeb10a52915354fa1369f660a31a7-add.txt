@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Teachers' Guides to &lt;em&gt;Time&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Teachers' Guides to Time</field>
++    <field name="unittitle_ssm">Teachers&#39; Guides to &lt;em&gt;Time&lt;/em&gt;</field>
++    <field name="unittitle_teim">Teachers&#39; Guides to Time</field>
+     <field name="unitdate_inclusive_teim">1967 September-1970 March</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 3283, Folder: 1-89</field>
+     <field name="location_si">Offsite-Box: 3283, Folder: 1-89</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series VIII. Time Education Program Files</field>
+     <field name="series_sim">Subseries VIII.C. Mailings</field>
+-    <field name="series_si">Series VIII. Time Education Program Files &gt;&gt; Subseries VIII.C. Mailings &gt;&gt; Teachers' Guides to &lt;em&gt;Time&lt;/em&gt;</field>
+-    <field name="heading_ssm">Teachers' Guides to Time</field>
++    <field name="series_si">Series VIII. Time Education Program Files &gt;&gt; Subseries VIII.C. Mailings &gt;&gt; Teachers&#39; Guides to &lt;em&gt;Time&lt;/em&gt;</field>
++    <field name="heading_ssm">Teachers&#39; Guides to Time</field>
+     <field name="unitdate_ssm">Inclusive, 1967 September-1970 March</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1384</field>

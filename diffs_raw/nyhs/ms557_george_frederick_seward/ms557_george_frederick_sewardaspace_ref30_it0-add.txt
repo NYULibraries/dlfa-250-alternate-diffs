@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1902/1903</field>
+     <field name="unitdate_normal_sim">1902/1903</field>
+     <field name="unitdate_inclusive_teim">1902 - 1903</field>
+-    <field name="scopecontent_teim">Includes a pamphlet criticizing the Chinese Exclusion Act titled "The United States and China: An Address before the Congressional Club of Brooklyn," published in 1902.</field>
++    <field name="scopecontent_teim">Includes a pamphlet criticizing the Chinese Exclusion Act titled &#34;The United States and China: An Address before the Congressional Club of Brooklyn,&#34; published in 1902.</field>
+     <field name="ref_ssi">aspace_ref30_it0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 4, Folder: 8</field>
+     <field name="location_si">Box: 4, Folder: 8</field>
+     <field name="collection_teim">George Frederick Seward Papers</field>
++    <field name="author_teim">Heather Mulliner </field>
+     <field name="collection_unitid_teim">MS 557</field>
+     <field name="series_si">Correspondence</field>
+     <field name="heading_ssm">Correspondence</field>

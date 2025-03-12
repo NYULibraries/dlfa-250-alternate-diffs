@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,11 @@
+     <field name="unittitle_ssm">&lt;em&gt;Gramercy Neighborhood News&lt;/em&gt;</field>
+     <field name="unittitle_teim">Gramercy Neighborhood News</field>
+     <field name="unitdate_inclusive_teim">1988–1990</field>
+-    <field name="scopecontent_teim">•	1988: Autumn •	1989: Fall–1990: Spring •	1990: Autumn</field>
++    <field name="scopecontent_teim">•	1988: Autumn
++
++•	1989: Fall–1990: Spring
++
++•	1990: Autumn</field>
+     <field name="ref_ssi">aspace_7a49cec0697bf4aae4829e552666ad61</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +33,7 @@
+     <field name="location_ssm">Box: 10, Folder: 16</field>
+     <field name="location_si">Box: 10, Folder: 16</field>
+     <field name="collection_teim">Gramercy Neighborhood Associates records</field>
++    <field name="author_teim">Zora Arum (2018) and Joseph Ditta (2020–2021)</field>
+     <field name="collection_unitid_teim">PR 370</field>
+     <field name="series_sim">Series V. Print matter</field>
+     <field name="series_sim">Subseries V.B. Periodicals</field>

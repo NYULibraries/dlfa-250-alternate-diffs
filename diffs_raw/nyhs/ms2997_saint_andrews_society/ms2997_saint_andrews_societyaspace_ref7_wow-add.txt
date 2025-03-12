@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,14 +9,15 @@
+     <field name="parent_unittitles_teim">Series III: Membership Records (RESTRICTIONS APPLY)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+-    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_sim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="collection_ssm">Saint Andrew&#39;s Society of the State of New York records</field>
+     <field name="collection_unitid_ssm">MS 2997</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries III.2: Member Applications</field>
+     <field name="unittitle_teim">Subseries III.2: Member Applications</field>
+     <field name="unitdate_inclusive_teim">1878-1962</field>
+-    <field name="scopecontent_teim">Member applications contain information about individuals wishing to join the Society. Volumes are arranged chronologically. Within the volumes, however, the applications are organized alphabetically by name. See also the subseries Member Files, which contains unbound applications.</field>
++    <field name="scopecontent_teim">Member applications contain information about individuals wishing to join the Society. 
++Volumes are arranged chronologically. Within the volumes, however, the applications are organized alphabetically by name. See also the subseries Member Files, which contains unbound applications.</field>
+     <field name="ref_ssi">aspace_ref7_wow</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,7 +24,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_teim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="author_teim">Luis Rodriguez</field>
+     <field name="collection_unitid_teim">MS 2997</field>
+     <field name="series_sim">Series III: Membership Records (RESTRICTIONS APPLY)</field>
+     <field name="series_si">Series III: Membership Records (RESTRICTIONS APPLY) &gt;&gt; Subseries III.2: Member Applications</field>

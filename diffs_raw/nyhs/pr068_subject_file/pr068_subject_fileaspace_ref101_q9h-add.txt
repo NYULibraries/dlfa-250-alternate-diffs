@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">HOLIDAYS</field>
+     <field name="unittitle_teim">HOLIDAYS</field>
+-    <field name="scopecontent_teim">includes a hand-colored Currier &amp; Ives print of "Young America Celebrating."</field>
++    <field name="scopecontent_teim">includes a hand-colored Currier &amp; Ives print of &#34;Young America Celebrating.&#34;</field>
+     <field name="ref_ssi">aspace_ref101_q9h</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Folder: x</field>
+     <field name="location_si">Folder: x</field>
+     <field name="collection_teim">Subject File</field>
++    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+     <field name="collection_unitid_teim">PR 68</field>
+     <field name="series_sim">Series II: Flat Files</field>
+     <field name="series_si">Series II: Flat Files &gt;&gt; HOLIDAYS</field>

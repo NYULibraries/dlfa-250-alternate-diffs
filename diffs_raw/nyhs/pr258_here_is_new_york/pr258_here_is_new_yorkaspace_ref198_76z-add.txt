@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,8 +15,8 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries III: Production Department</field>
+     <field name="unittitle_teim">Subseries III: Production Department</field>
+-    <field name="scopecontent_teim">The Production Department (also known as the Print Department) created prints for sale and exhibition. Much of this department's files relates to specific exhibits and includes image lists and contact sheets. Other office files in this subseries pertain to special orders, specific databases, and equipment. CDs contain mostly images for exhibits, print databases, and instructions for hanging here is new york shows. Production Department artifacts include a pair of handling gloves and 3-D glasses.</field>
+-    <field name="scopecontent_teim">Access to files on CDs in this subseries is on HINY computer terminal at: HINY Collection Series I, III-V/Series V/Subseries 3</field>
++    <field name="scopecontent_teim">The Production Department (also known as the Print Department) created prints for sale and exhibition. Much of this department&#39;s files relates to specific exhibits and includes image lists and contact sheets. Other office files in this subseries pertain to special orders, specific databases, and equipment. CDs contain mostly images for exhibits, print databases, and instructions for hanging here is new york shows. Production Department artifacts include a pair of handling gloves and 3-D glasses. </field>
++    <field name="scopecontent_teim">Access to files on CDs in this subseries is on HINY computer terminal at: HINY Collection Series I, III-V/Series V/Subseries 3 </field>
+     <field name="ref_ssi">aspace_ref198_76z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Here is New York collection</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">PR 258</field>
+     <field name="series_sim">Series V: Office Files</field>
+     <field name="series_si">Series V: Office Files &gt;&gt; Subseries III: Production Department</field>

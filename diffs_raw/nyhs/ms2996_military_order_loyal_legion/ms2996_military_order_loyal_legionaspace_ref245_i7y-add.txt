@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2996_military_order_loyal_legion</field>
+     <field name="parent_ssi">aspace_ref24_u3h</field>
+     <field name="parent_ssm">aspace_ref24_u3h</field>
+-    <field name="parent_unittitles_ssm">Series II: Financial Materials</field>
+-    <field name="parent_unittitles_teim">Series II: Financial Materials</field>
++    <field name="parent_unittitles_ssm">Series II: Financial Materials </field>
++    <field name="parent_unittitles_teim">Series II: Financial Materials </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 1</field>
+     <field name="collection_teim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
++    <field name="author_teim">Francis Gestosani</field>
+     <field name="collection_unitid_teim">MS 2996</field>
+-    <field name="series_sim">Series II: Financial Materials</field>
+-    <field name="series_si">Series II: Financial Materials &gt;&gt; Subseries IV: Loose receipts and vouchers</field>
++    <field name="series_sim">Series II: Financial Materials </field>
++    <field name="series_si">Series II: Financial Materials  &gt;&gt; Subseries IV: Loose receipts and vouchers</field>
+     <field name="heading_ssm">Subseries IV: Loose receipts and vouchers</field>
+     <field name="unitdate_ssm">1872-</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Luce, Henry, III (Hank)</field>
+     <field name="unittitle_teim">Luce, Henry, III (Hank)</field>
+-    <field name="scopecontent_teim">Henry R. Luce's son and Time Inc. employee. Includes copies of some of his childhood correspondence.</field>
++    <field name="scopecontent_teim">Henry R. Luce&#39;s son and Time Inc. employee. Includes copies of some of his childhood correspondence.</field>
+     <field name="ref_ssi">aspace_ref2644_x36</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 365, Folder: 37</field>
+     <field name="location_si">Offsite-Box: 365, Folder: 37</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names L</field>
+     <field name="series_si">Names L &gt;&gt; Luce, Henry, III (Hank)</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen Harmon photographs</field>
+     <field name="collection_unitid_ssm">PR 362</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Wanted Dead Not Alive: Bin Laden" flyer taped to car (1 photo + 1 email)</field>
+-    <field name="unittitle_teim">"Wanted Dead Not Alive: Bin Laden" flyer taped to car (1 photo + 1 email)</field>
++    <field name="unittitle_ssm">&#34;Wanted Dead Not Alive: Bin Laden&#34; flyer taped to car (1 photo + 1 email)</field>
++    <field name="unittitle_teim">&#34;Wanted Dead Not Alive: Bin Laden&#34; flyer taped to car (1 photo + 1 email)</field>
+     <field name="unitdate_inclusive_teim">2001 November</field>
+     <field name="ref_ssi">aspace_815918fc0a320a1abae63a11c1678f61</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -22,13 +22,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Digital-Folder: 20171002, Digital-File: 2_1, email</field>
+-    <field name="location_si">Digital-Folder: 20171002, Digital-File: 2_1, email</field>
++    <field name="location_ssm">Digital-Folder: 20171002, Digital-File: 2_1,  email</field>
++    <field name="location_si">Digital-Folder: 20171002, Digital-File: 2_1,  email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+     <field name="series_sim">Series D.VIII. Various Other Subjects</field>
+-    <field name="series_si">Series D.VIII. Various Other Subjects &gt;&gt; "Wanted Dead Not Alive: Bin Laden" flyer taped to car (1 photo + 1 email)</field>
+-    <field name="heading_ssm">"Wanted Dead Not Alive: Bin Laden" flyer taped to car (1 photo + 1 email)</field>
++    <field name="series_si">Series D.VIII. Various Other Subjects &gt;&gt; &#34;Wanted Dead Not Alive: Bin Laden&#34; flyer taped to car (1 photo + 1 email)</field>
++    <field name="heading_ssm">&#34;Wanted Dead Not Alive: Bin Laden&#34; flyer taped to car (1 photo + 1 email)</field>
+     <field name="unitdate_ssm">Inclusive, 2001 November</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">394</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 7: Films, 1930-1939, undated</field>
+     <field name="unittitle_teim">Series 7: Films, 1930-1939, undated</field>
+-    <field name="scopecontent_teim">This series contains one film entitled "The Story of the Greater New York Gospel Mission" and one other film that is untitled.</field>
++    <field name="scopecontent_teim">This series contains one film entitled &#34;The Story of the Greater New York Gospel Mission&#34; and one other film that is untitled.</field>
+     <field name="ref_ssi">aspace_ref145_nd7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Emergency Shelter records</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 199</field>
+     <field name="series_si">Series 7: Films, 1930-1939, undated</field>
+     <field name="heading_ssm">Series 7: Films, 1930-1939, undated</field>

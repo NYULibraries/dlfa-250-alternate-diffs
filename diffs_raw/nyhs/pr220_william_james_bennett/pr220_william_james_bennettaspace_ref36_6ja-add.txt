@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William James Bennett print collection</field>
+     <field name="collection_unitid_ssm">PR 220</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind"</field>
+-    <field name="unittitle_teim">"The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind"</field>
++    <field name="unittitle_ssm">&#34;The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind&#34;</field>
++    <field name="unittitle_teim">&#34;The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind&#34;</field>
+     <field name="unitdate_teim">1844 Jun. 2</field>
+     <field name="ref_ssi">aspace_ref36_6ja</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 9</field>
+     <field name="location_si">Folder: 9</field>
+     <field name="collection_teim">William James Bennett print collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 220</field>
+     <field name="series_sim">Series I. Views of New York City</field>
+     <field name="series_sim">Subseries III: Illustrations from the New Mirror</field>
+-    <field name="series_si">Series I. Views of New York City &gt;&gt; Subseries III: Illustrations from the New Mirror &gt;&gt; "The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind"</field>
+-    <field name="heading_ssm">"The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind"</field>
++    <field name="series_si">Series I. Views of New York City &gt;&gt; Subseries III: Illustrations from the New Mirror &gt;&gt; &#34;The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind&#34;</field>
++    <field name="heading_ssm">&#34;The U. S. Frigate Hudson, Returning from a Cruise with a Fair Wind&#34;</field>
+     <field name="unitdate_ssm">1844 Jun. 2</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Boomer, Lucius</field>
+     <field name="unittitle_teim">Boomer, Lucius</field>
+     <field name="unitdate_teim">1936-1945</field>
+-    <field name="scopecontent_teim">Includes Boomer's address "Executive Housekeepers and Employee Problems" from the Annual Congress of the National Executive Housekeepers Association, Inc.</field>
++    <field name="scopecontent_teim">Includes Boomer&#39;s address &#34;Executive Housekeepers and Employee Problems&#34; from the Annual Congress of the National Executive Housekeepers Association, Inc.</field>
+     <field name="ref_ssi">aspace_ref1633_uem</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 79, Folder: 6</field>
+     <field name="location_si">Box: 79, Folder: 6</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>

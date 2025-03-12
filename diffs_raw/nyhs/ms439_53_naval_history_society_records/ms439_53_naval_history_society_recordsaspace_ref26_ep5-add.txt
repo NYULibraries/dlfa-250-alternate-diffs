@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society Records</field>
+     <field name="collection_unitid_ssm">MS 439.53</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Treasurer's reports</field>
+-    <field name="unittitle_teim">Treasurer's reports</field>
++    <field name="unittitle_ssm">Treasurer&#39;s reports</field>
++    <field name="unittitle_teim">Treasurer&#39;s reports</field>
+     <field name="unitdate_teim">1917-1922</field>
+     <field name="ref_ssi">aspace_ref26_ep5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 10</field>
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="collection_teim">Naval History Society Records</field>
++    <field name="author_teim">Celia Hartmann</field>
+     <field name="collection_unitid_teim">MS 439.53</field>
+     <field name="series_sim">Series I: Administrative Records (1909-1938)</field>
+-    <field name="series_si">Series I: Administrative Records (1909-1938) &gt;&gt; Treasurer's reports</field>
+-    <field name="heading_ssm">Treasurer's reports</field>
++    <field name="series_si">Series I: Administrative Records (1909-1938) &gt;&gt; Treasurer&#39;s reports</field>
++    <field name="heading_ssm">Treasurer&#39;s reports</field>
+     <field name="unitdate_ssm">1917-1922</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">11</field>

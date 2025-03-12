@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Various Documents</field>
+     <field name="unittitle_teim">Various Documents</field>
+     <field name="unitdate_inclusive_teim">1897-1901, 1910</field>
+-    <field name="scopecontent_teim">Holds various business documents (invoices, insurance policy and receipts, stock certificate) some explicitly related to Frooks's father, others unclear.</field>
++    <field name="scopecontent_teim">Holds various business documents (invoices, insurance policy and receipts, stock certificate) some explicitly related to Frooks&#39;s father, others unclear.</field>
+     <field name="ref_ssi">aspace_626813c8231bcf212dfd5a182d9e2021</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 5, Folder: 11</field>
+     <field name="location_si">Box: 5, Folder: 11</field>
+     <field name="collection_teim">Dorothy Frooks papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3116</field>
+     <field name="series_si">Various Documents</field>
+     <field name="heading_ssm">Various Documents</field>

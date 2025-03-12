@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,9 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Beekman, Gerard (1774–1833)&lt;/strong&gt;, clipped 1818</field>
+     <field name="unittitle_teim">Beekman, Gerard (1774–1833), clipped 1818</field>
+-    <field name="scopecontent_teim">•	Envelope reads: "Beekman Family Hair, Gerard Beekman, 1818 April 3rd." [INV.80] •	Packet reads: "Gerard Beekman's Hair. 1818 April 3rd."</field>
++    <field name="scopecontent_teim">•	Envelope reads: &#34;Beekman Family Hair, Gerard Beekman, 1818 April 3rd.&#34; [INV.80]
++
++•	Packet reads: &#34;Gerard Beekman&#39;s Hair. 1818 April 3rd.&#34;</field>
+     <field name="ref_ssi">aspace_34313ef32fbd896daec4aff6ac179ac5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Souvenir locks of hair collection</field>
++    <field name="author_teim">Joseph Ditta (August 2023)</field>
+     <field name="collection_unitid_teim">MS 272</field>
+     <field name="series_sim">Series I. Beekman family hair</field>
+     <field name="series_si">Series I. Beekman family hair &gt;&gt; &lt;strong&gt;Beekman, Gerard (1774–1833)&lt;/strong&gt;, clipped 1818</field>

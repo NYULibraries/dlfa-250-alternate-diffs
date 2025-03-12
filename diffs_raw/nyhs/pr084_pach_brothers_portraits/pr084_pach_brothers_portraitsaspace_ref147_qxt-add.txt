@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Buildings</field>
+     <field name="unittitle_teim">Series III: Buildings</field>
+-    <field name="scopecontent_teim">Series III. Buildings holds photographs of street scenes that include portraits of buildings where the Pach Brothers had their studios in New Jersey and New York City; a glimpse of one of their office interiors can be seen in the brothers' group portrait in Box 6, Folder 50. This series also holds one photograph of Madison Square Garden and one of the Fifth Avenue Hotel, both in New York.</field>
++    <field name="scopecontent_teim">Series III. Buildings holds photographs of street scenes that include portraits of buildings where the Pach Brothers had their studios in New Jersey and New York City; a glimpse of one of their office interiors can be seen in the brothers&#39; group portrait in Box 6, Folder 50. This series also holds one photograph of Madison Square Garden and one of the Fifth Avenue Hotel, both in New York.</field>
+     <field name="ref_ssi">aspace_ref147_qxt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Pach Brothers Portrait Photograph Collection</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_si">Series III: Buildings</field>
+     <field name="heading_ssm">Series III: Buildings</field>

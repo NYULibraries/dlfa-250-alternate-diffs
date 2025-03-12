@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Civil War Stereographs</field>
+     <field name="collection_unitid_ssm">PR 65-1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">John L. Burns' cottage at Gettysburg</field>
+-    <field name="unittitle_teim">John L. Burns' cottage at Gettysburg</field>
++    <field name="unittitle_ssm">John L. Burns&#39; cottage at Gettysburg</field>
++    <field name="unittitle_teim">John L. Burns&#39; cottage at Gettysburg</field>
+     <field name="unitdate_teim">1863</field>
+     <field name="ref_ssi">aspace_ref615_syd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,11 @@
+     <field name="location_ssm">item: 793-16</field>
+     <field name="location_si">item: 793-16</field>
+     <field name="collection_teim">Civil War Stereographs</field>
++    <field name="author_teim">Janet Murray; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016
++</field>
+     <field name="collection_unitid_teim">PR 65-1</field>
+-    <field name="series_si">John L. Burns' cottage at Gettysburg</field>
+-    <field name="heading_ssm">John L. Burns' cottage at Gettysburg</field>
++    <field name="series_si">John L. Burns&#39; cottage at Gettysburg</field>
++    <field name="heading_ssm">John L. Burns&#39; cottage at Gettysburg</field>
+     <field name="unitdate_ssm">1863</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">308</field>

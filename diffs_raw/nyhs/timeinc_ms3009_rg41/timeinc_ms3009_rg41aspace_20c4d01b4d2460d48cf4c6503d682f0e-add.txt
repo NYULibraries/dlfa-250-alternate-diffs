@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Time Inc. Video Group Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 41</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sales Training Cassettes</field>
+-    <field name="unittitle_teim">Sales Training Cassettes</field>
++    <field name="unittitle_ssm">Sales Training Cassettes </field>
++    <field name="unittitle_teim">Sales Training Cassettes </field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Includes audiovisual material:</field>
+-    <field name="scopecontent_teim">6 audiocassette : analog; 2 7/8 x 2 1/8 in. On label: "HBO Sell-A-Customer Field Sales Training Program".</field>
++    <field name="scopecontent_teim">6 audiocassette : analog; 2 7/8 x 2 1/8 in. On label: &#34;HBO    Sell-A-Customer   Field Sales    Training Program&#34;.</field>
+     <field name="ref_ssi">aspace_20c4d01b4d2460d48cf4c6503d682f0e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 3354, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 3354, Folder: 8</field>
+     <field name="collection_teim">Time Inc. Video Group Records</field>
++    <field name="author_teim">Samantha Brown and Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3009-RG 41</field>
+     <field name="series_sim">Series VI. Home Box Office Records</field>
+     <field name="series_sim">Subseries VI.C. Advertising and Sales Training Materials</field>
+-    <field name="series_si">Series VI. Home Box Office Records &gt;&gt; Subseries VI.C. Advertising and Sales Training Materials &gt;&gt; Sales Training Cassettes</field>
+-    <field name="heading_ssm">Sales Training Cassettes</field>
++    <field name="series_si">Series VI. Home Box Office Records &gt;&gt; Subseries VI.C. Advertising and Sales Training Materials &gt;&gt; Sales Training Cassettes </field>
++    <field name="heading_ssm">Sales Training Cassettes </field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">275</field>

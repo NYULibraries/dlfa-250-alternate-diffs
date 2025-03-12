@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,14 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Restaurants: M&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Restaurants: M</field>
+-    <field name="scopecontent_teim">Marco Polo's, 711 Seventh Avenue and 202 East 42nd Street Hotel Martinique Café-Bar, Broadway at 32nd Street Miyako Japanese Restaurant, 20 West 56th Street Al Muller's Famous Restaurant and Grill, 313 West 50th Street (2)</field>
++    <field name="scopecontent_teim">Marco Polo&#39;s, 711 Seventh Avenue and 202 East 42nd Street
++
++Hotel Martinique Café-Bar, Broadway at 32nd Street
++
++Miyako Japanese Restaurant, 20 West 56th Street
++
++Al Muller&#39;s Famous Restaurant and Grill, 313 West 50th Street (2)
++</field>
+     <field name="ref_ssi">aspace_ref14_n9b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +28,7 @@
+     <field name="location_ssm">Folder: 7</field>
+     <field name="location_si">Folder: 7</field>
+     <field name="collection_teim">Dale E. Jenkins collection of Manhattan restaurant postcards</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 337</field>
+     <field name="series_si">&lt;strong&gt;Restaurants: M&lt;/strong&gt;</field>
+     <field name="heading_ssm">Restaurants: M</field>

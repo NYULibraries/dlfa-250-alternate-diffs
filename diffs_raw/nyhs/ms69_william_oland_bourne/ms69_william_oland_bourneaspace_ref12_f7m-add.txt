@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">William Oland Bourne papers</field>
+     <field name="collection_unitid_ssm">MS 69</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Manuscript &lt;em&gt;"The American Laborer as an Artist"&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Manuscript "The American Laborer as an Artist"</field>
++    <field name="unittitle_ssm">Manuscript &lt;em&gt;&#34;The American Laborer as an Artist&#34;&lt;/em&gt;</field>
++    <field name="unittitle_teim">Manuscript &#34;The American Laborer as an Artist&#34;</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref12_f7m</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 7</field>
+     <field name="location_si">Box: 2, Folder: 7</field>
+     <field name="collection_teim">William Oland Bourne papers</field>
++    <field name="author_teim">Margaret Bausman</field>
+     <field name="collection_unitid_teim">MS 69</field>
+     <field name="series_sim">Series III. Manuscripts, Lectures and Articles</field>
+-    <field name="series_si">Series III. Manuscripts, Lectures and Articles &gt;&gt; Manuscript &lt;em&gt;"The American Laborer as an Artist"&lt;/em&gt;</field>
+-    <field name="heading_ssm">Manuscript "The American Laborer as an Artist"</field>
++    <field name="series_si">Series III. Manuscripts, Lectures and Articles &gt;&gt; Manuscript &lt;em&gt;&#34;The American Laborer as an Artist&#34;&lt;/em&gt;</field>
++    <field name="heading_ssm">Manuscript &#34;The American Laborer as an Artist&#34;</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

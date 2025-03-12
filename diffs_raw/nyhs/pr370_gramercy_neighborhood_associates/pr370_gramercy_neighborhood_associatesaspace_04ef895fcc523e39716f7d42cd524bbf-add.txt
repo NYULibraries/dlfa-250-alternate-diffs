@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Gramercy Neighborhood Associates records</field>
+     <field name="collection_unitid_ssm">PR 370</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Emory Lewis, "Gramercy Park Close-Up: A spring walking tour," &lt;em&gt;CUE&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Emory Lewis, "Gramercy Park Close-Up: A spring walking tour," CUE</field>
++    <field name="unittitle_ssm">Emory Lewis, &#34;Gramercy Park Close-Up: A spring walking tour,&#34; &lt;em&gt;CUE&lt;/em&gt;</field>
++    <field name="unittitle_teim">Emory Lewis, &#34;Gramercy Park Close-Up: A spring walking tour,&#34; CUE</field>
+     <field name="unitdate_teim">1964 April 25</field>
+     <field name="ref_ssi">aspace_04ef895fcc523e39716f7d42cd524bbf</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">Gramercy Neighborhood Associates records</field>
++    <field name="author_teim">Zora Arum (2018) and Joseph Ditta (2020–2021)</field>
+     <field name="collection_unitid_teim">PR 370</field>
+     <field name="series_sim">Series II. Subject files</field>
+-    <field name="series_si">Series II. Subject files &gt;&gt; Emory Lewis, "Gramercy Park Close-Up: A spring walking tour," &lt;em&gt;CUE&lt;/em&gt;</field>
+-    <field name="heading_ssm">Emory Lewis, "Gramercy Park Close-Up: A spring walking tour," CUE</field>
++    <field name="series_si">Series II. Subject files &gt;&gt; Emory Lewis, &#34;Gramercy Park Close-Up: A spring walking tour,&#34; &lt;em&gt;CUE&lt;/em&gt;</field>
++    <field name="heading_ssm">Emory Lewis, &#34;Gramercy Park Close-Up: A spring walking tour,&#34; CUE</field>
+     <field name="unitdate_ssm">1964 April 25</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

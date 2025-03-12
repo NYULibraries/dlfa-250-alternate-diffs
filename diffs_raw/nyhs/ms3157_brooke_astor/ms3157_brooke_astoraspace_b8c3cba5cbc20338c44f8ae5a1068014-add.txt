@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooke Astor papers</field>
+     <field name="collection_unitid_ssm">MS 3157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Match book covers, personalized with initials "VA" (Vincent Astor)</field>
+-    <field name="unittitle_teim">Match book covers, personalized with initials "VA" (Vincent Astor)</field>
++    <field name="unittitle_ssm">Match book covers, personalized with initials &#34;VA&#34; (Vincent Astor)</field>
++    <field name="unittitle_teim">Match book covers, personalized with initials &#34;VA&#34; (Vincent Astor)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">5 covers. Matches have been removed.</field>
+     <field name="ref_ssi">aspace_b8c3cba5cbc20338c44f8ae5a1068014</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 26</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series V. Memorabilia</field>
+-    <field name="series_si">Series V. Memorabilia &gt;&gt; Match book covers, personalized with initials "VA" (Vincent Astor)</field>
+-    <field name="heading_ssm">Match book covers, personalized with initials "VA" (Vincent Astor)</field>
++    <field name="series_si">Series V. Memorabilia &gt;&gt; Match book covers, personalized with initials &#34;VA&#34; (Vincent Astor)</field>
++    <field name="heading_ssm">Match book covers, personalized with initials &#34;VA&#34; (Vincent Astor)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">132</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Doris Ulmann Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 72</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob's book (plate 28, page 179 for example)</field>
+-    <field name="unittitle_teim">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob's book (plate 28, page 179 for example)</field>
++    <field name="unittitle_ssm">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob&#39;s book (plate 28, page 179 for example)</field>
++    <field name="unittitle_teim">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob&#39;s book (plate 28, page 179 for example)</field>
+     <field name="ref_ssi">aspace_ref4053_oon</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,11 @@
+     <field name="location_ssm">item: 2445</field>
+     <field name="location_si">item: 2445</field>
+     <field name="collection_teim">Doris Ulmann Photograph Collection</field>
++    <field name="author_teim">Tamara Thompson; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016
++T</field>
+     <field name="collection_unitid_teim">PR 72</field>
+-    <field name="series_si">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob's book (plate 28, page 179 for example)</field>
+-    <field name="heading_ssm">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob's book (plate 28, page 179 for example)</field>
++    <field name="series_si">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob&#39;s book (plate 28, page 179 for example)</field>
++    <field name="heading_ssm">older, white beard and mustache, sideburns, large-brimmed straw hat, dark collarless jacket; sideburns and beard look like image identified as Mennonite man in Jacob&#39;s book (plate 28, page 179 for example)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2445</field>
+   </doc>

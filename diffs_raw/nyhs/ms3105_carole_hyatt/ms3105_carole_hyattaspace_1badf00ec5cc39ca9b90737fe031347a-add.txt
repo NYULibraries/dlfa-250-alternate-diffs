@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Books (2)</field>
+     <field name="unittitle_teim">Books (2)</field>
+     <field name="unitdate_inclusive_teim">1982, 1990</field>
+-    <field name="scopecontent_teim">"Unnecessary Choices: The Hidden Life of the Executive Woman" by Edith Gilson with Susan Kane, inscribed by Gilson; and "Singles: The New Americans" by Jacqueline Simenauer.</field>
++    <field name="scopecontent_teim">&#34;Unnecessary Choices: The Hidden Life of the Executive Woman&#34; by Edith Gilson with Susan Kane, inscribed by Gilson; and &#34;Singles: The New Americans&#34; by Jacqueline Simenauer.</field>
+     <field name="ref_ssi">aspace_1badf00ec5cc39ca9b90737fe031347a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 9</field>
+     <field name="location_si">Box: 9</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series II. Research and Working Files</field>
+     <field name="series_sim">Subseries II.B. Working Files</field>

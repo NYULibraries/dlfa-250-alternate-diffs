@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Brooke Astor papers</field>
+     <field name="collection_unitid_ssm">MS 3157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"D.S. Marandis" (original journal)</field>
+-    <field name="unittitle_teim">"D.S. Marandis" (original journal)</field>
++    <field name="unittitle_ssm">&#34;D.S. Marandis&#34; (original journal)</field>
++    <field name="unittitle_teim">&#34;D.S. Marandis&#34; (original journal)</field>
+     <field name="unitdate_inclusive_teim">1962 July</field>
+-    <field name="scopecontent_teim">Handwritten journal of travel from Venice, along Italian coast, ending at Monte Carlo, on board chartered ship Marandis. Inscribed by the ship's commanding officer. Guest signatures at front of volume, including Prince and Princess of Monaco.</field>
++    <field name="scopecontent_teim">Handwritten journal of travel from Venice, along Italian coast, ending at Monte Carlo, on board chartered ship Marandis. Inscribed by the ship&#39;s commanding officer. Guest signatures at front of volume, including Prince and Princess of Monaco.</field>
+     <field name="ref_ssi">aspace_413cd60bb85979aead12c25286693b22</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 6, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 6, Folder: 6</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series III. Writings by and about Brooke Astor</field>
+-    <field name="series_si">Series III. Writings by and about Brooke Astor &gt;&gt; "D.S. Marandis" (original journal)</field>
+-    <field name="heading_ssm">"D.S. Marandis" (original journal)</field>
++    <field name="series_si">Series III. Writings by and about Brooke Astor &gt;&gt; &#34;D.S. Marandis&#34; (original journal)</field>
++    <field name="heading_ssm">&#34;D.S. Marandis&#34; (original journal)</field>
+     <field name="unitdate_ssm">Inclusive, 1962 July</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>

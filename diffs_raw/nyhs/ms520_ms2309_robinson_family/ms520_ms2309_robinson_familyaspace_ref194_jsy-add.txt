@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series XI: Smith Family (1822-1903)</field>
+     <field name="unittitle_teim">Series XI: Smith Family (1822-1903)</field>
+-    <field name="scopecontent_teim">This series contains material relating to the Smith Family, which was the family of Anna Foster Robinson's grandmother.</field>
++    <field name="scopecontent_teim">This series contains material relating to the Smith Family, which was the family of Anna Foster Robinson&#39;s grandmother.</field>
+     <field name="ref_ssi">aspace_ref194_jsy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Robinson Family Papers</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 520, MS 2309</field>
+     <field name="series_si">Series XI: Smith Family (1822-1903)</field>
+     <field name="heading_ssm">Series XI: Smith Family (1822-1903)</field>

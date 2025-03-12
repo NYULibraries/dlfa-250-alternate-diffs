@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries IV.C. Public Affairs Manager Anne Janas Files</field>
+     <field name="unittitle_teim">Subseries IV.C. Public Affairs Manager Anne Janas Files</field>
+     <field name="unitdate_inclusive_teim">1986-1992</field>
+-    <field name="scopecontent_teim">Anne Janas's files include her records on the planning of public projects and events organized or sponsored by Time magazine.</field>
++    <field name="scopecontent_teim">Anne Janas&#39;s files include her records on the planning of public projects and events organized or sponsored by Time magazine.</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+     <field name="ref_ssi">aspace_7f9af5ebbb8df36abc2819e89377c49c</field>
+@@ -26,6 +26,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series IV. Promotion and Public Affairs Department Records</field>
+     <field name="series_si">Series IV. Promotion and Public Affairs Department Records &gt;&gt; Subseries IV.C. Public Affairs Manager Anne Janas Files</field>

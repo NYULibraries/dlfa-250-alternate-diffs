@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Tribeca - Miscellaneous file</field>
+     <field name="unittitle_teim">Tribeca - Miscellaneous file</field>
+     <field name="unitdate_inclusive_teim">circa 1987-2002</field>
+-    <field name="scopecontent_teim">Contains typescript, "A History of The Duane Park Building"</field>
++    <field name="scopecontent_teim">Contains typescript, &#34;A History of The Duane Park Building&#34;</field>
+     <field name="ref_ssi">aspace_0d83434de4f56ea7e9ab09333efd0cbe</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 2, Folder: 1</field>
+     <field name="location_si">Box: 2, Folder: 1</field>
+     <field name="collection_teim">Oliver Allen papers on the historic preservation of Tribeca</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3058</field>
+     <field name="series_si">Tribeca - Miscellaneous file</field>
+     <field name="heading_ssm">Tribeca - Miscellaneous file</field>

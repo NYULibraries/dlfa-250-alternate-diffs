@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Samuel B. Parsons, Jr. papers</field>
+     <field name="collection_unitid_ssm">MS 3153</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Dedication Ode" by Parsons</field>
+-    <field name="unittitle_teim">"Dedication Ode" by Parsons</field>
++    <field name="unittitle_ssm">&#34;Dedication Ode&#34; by Parsons</field>
++    <field name="unittitle_teim">&#34;Dedication Ode&#34; by Parsons</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Although the specific context is unidentified, it appears to be the dedication of a cemetery or other burial site.</field>
+     <field name="ref_ssi">aspace_ceb99e0aaa1651955b0ae65dd85fc350</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Samuel B. Parsons, Jr. papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3153</field>
+-    <field name="series_si">"Dedication Ode" by Parsons</field>
+-    <field name="heading_ssm">"Dedication Ode" by Parsons</field>
++    <field name="series_si">&#34;Dedication Ode&#34; by Parsons</field>
++    <field name="heading_ssm">&#34;Dedication Ode&#34; by Parsons</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

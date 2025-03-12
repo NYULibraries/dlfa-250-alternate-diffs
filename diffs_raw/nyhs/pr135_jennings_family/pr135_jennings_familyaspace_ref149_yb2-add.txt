@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,10 +17,10 @@
+     <field name="collection_unitid_ssm">PR 135</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">&lt;em&gt;Manhattanville: An Architectural Retrospective &lt;/em&gt; by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
+-    <field name="unittitle_teim">Manhattanville: An Architectural Retrospective by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
++    <field name="unittitle_teim">Manhattanville: An Architectural Retrospective  by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
+     <field name="unitdate_teim">1940</field>
+-    <field name="title_teim">Manhattanville: An Architectural Retrospective</field>
+-    <field name="title_ssm">Manhattanville: An Architectural Retrospective</field>
++    <field name="title_teim">Manhattanville: An Architectural Retrospective </field>
++    <field name="title_ssm">Manhattanville: An Architectural Retrospective </field>
+     <field name="ref_ssi">aspace_ref149_yb2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Jennings Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 135</field>
+     <field name="series_sim">Series III: Manhattan Architecture and History</field>
+     <field name="series_sim">Manhattanville</field>
+     <field name="series_si">Series III: Manhattan Architecture and History &gt;&gt; Manhattanville &gt;&gt; &lt;em&gt;Manhattanville: An Architectural Retrospective &lt;/em&gt; by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
+-    <field name="heading_ssm">Manhattanville: An Architectural Retrospective by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
++    <field name="heading_ssm">Manhattanville: An Architectural Retrospective  by E. Allen Jennings,[Two unpublished book manuscripts with mounted photographs]</field>
+     <field name="unitdate_ssm">1940</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">133</field>

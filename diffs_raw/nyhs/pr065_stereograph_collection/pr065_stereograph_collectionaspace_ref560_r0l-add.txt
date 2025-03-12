@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">New York--North Elba</field>
+     <field name="unitdate_teim">[1860-1870]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0546</field>
+-    <field name="scopecontent_teim">Views of John Brown's grave, and those of his sons Frederick and Watson, at North Elba, New York.</field>
++    <field name="scopecontent_teim">Views of John Brown&#39;s grave, and those of his sons Frederick and Watson, at North Elba, New York.</field>
+     <field name="scopecontent_teim">3 items</field>
+     <field name="ref_ssi">aspace_ref560_r0l</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 49</field>
+     <field name="location_si">Box: 49</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; New York--North Elba</field>

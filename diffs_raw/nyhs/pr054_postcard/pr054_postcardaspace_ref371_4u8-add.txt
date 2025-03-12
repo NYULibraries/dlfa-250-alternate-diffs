@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,15 +18,32 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;New York State | Miniature&lt;/strong&gt;</field>
+     <field name="unittitle_teim">New York State | Miniature</field>
+-    <field name="scopecontent_teim">Adirondack Mountains (2) Albany (2) Ashokan Reservoir (1) Ausable Chasm (1)</field>
+-    <field name="scopecontent_teim">Buffalo (1)</field>
+-    <field name="scopecontent_teim">Catskill Mountains (1)</field>
+-    <field name="scopecontent_teim">Hudson River (2)</field>
+-    <field name="scopecontent_teim">Ithaca (1)</field>
+-    <field name="scopecontent_teim">Kingston (1)</field>
+-    <field name="scopecontent_teim">Niagara Falls (2)</field>
+-    <field name="scopecontent_teim">Saranac Lake (1) Seneca Falls (1)</field>
+-    <field name="scopecontent_teim">Tupper Lake (2)</field>
++    <field name="scopecontent_teim">Adirondack Mountains (2)
++
++Albany (2)
++
++Ashokan Reservoir (1)
++
++Ausable Chasm (1)
++</field>
++    <field name="scopecontent_teim">Buffalo (1)
++</field>
++    <field name="scopecontent_teim">Catskill Mountains (1)
++</field>
++    <field name="scopecontent_teim">Hudson River (2)
++</field>
++    <field name="scopecontent_teim">Ithaca (1)
++</field>
++    <field name="scopecontent_teim">Kingston (1)
++</field>
++    <field name="scopecontent_teim">Niagara Falls (2)
++</field>
++    <field name="scopecontent_teim">Saranac Lake (1)
++
++Seneca Falls (1)
++</field>
++    <field name="scopecontent_teim">Tupper Lake (2)
++</field>
+     <field name="scopecontent_teim">Watkins Glen (2)</field>
+     <field name="ref_ssi">aspace_ref371_4u8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -37,6 +54,7 @@
+     <field name="location_ssm">Box: 98</field>
+     <field name="location_si">Box: 98</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.A. New York State</field>

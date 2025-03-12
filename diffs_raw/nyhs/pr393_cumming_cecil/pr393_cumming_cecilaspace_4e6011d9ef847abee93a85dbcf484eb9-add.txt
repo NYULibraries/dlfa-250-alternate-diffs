@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Rose Cumming, Russell L. Cecil, and affiliated families photographs and papers</field>
+     <field name="collection_unitid_ssm">PR 393</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Book: John Kobler, &lt;em&gt;Otto the Magnificent: The Life of Otto Kahn&lt;/em&gt; (New York: Charles Scribner's Sons)</field>
+-    <field name="unittitle_teim">Book: John Kobler, Otto the Magnificent: The Life of Otto Kahn (New York: Charles Scribner's Sons)</field>
++    <field name="unittitle_ssm">Book: John Kobler, &lt;em&gt;Otto the Magnificent: The Life of Otto Kahn&lt;/em&gt; (New York: Charles Scribner&#39;s Sons)</field>
++    <field name="unittitle_teim">Book: John Kobler, Otto the Magnificent: The Life of Otto Kahn (New York: Charles Scribner&#39;s Sons)</field>
+     <field name="unitdate_inclusive_teim">1988</field>
+-    <field name="scopecontent_teim">Kobler dispells the rumor that Rose Cumming was Otto Kahn's mistress.</field>
++    <field name="scopecontent_teim">Kobler dispells the rumor that Rose Cumming was Otto Kahn&#39;s mistress.</field>
+     <field name="ref_ssi">aspace_4e6011d9ef847abee93a85dbcf484eb9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">Rose Cumming, Russell L. Cecil, and affiliated families photographs and papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 393</field>
+     <field name="series_sim">Series I. Cumming family photographs and papers</field>
+     <field name="series_sim">Sub-series I.A. Rose Stuart Cumming</field>
+-    <field name="series_si">Series I. Cumming family photographs and papers &gt;&gt; Sub-series I.A. Rose Stuart Cumming &gt;&gt; Book: John Kobler, &lt;em&gt;Otto the Magnificent: The Life of Otto Kahn&lt;/em&gt; (New York: Charles Scribner's Sons)</field>
+-    <field name="heading_ssm">Book: John Kobler, Otto the Magnificent: The Life of Otto Kahn (New York: Charles Scribner's Sons)</field>
++    <field name="series_si">Series I. Cumming family photographs and papers &gt;&gt; Sub-series I.A. Rose Stuart Cumming &gt;&gt; Book: John Kobler, &lt;em&gt;Otto the Magnificent: The Life of Otto Kahn&lt;/em&gt; (New York: Charles Scribner&#39;s Sons)</field>
++    <field name="heading_ssm">Book: John Kobler, Otto the Magnificent: The Life of Otto Kahn (New York: Charles Scribner&#39;s Sons)</field>
+     <field name="unitdate_ssm">Inclusive, 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

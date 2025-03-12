@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical graphic arts collection</field>
+     <field name="collection_unitid_ssm">PR 22</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">John Cox's Drawing Book (flat folder)</field>
+-    <field name="unittitle_teim">John Cox's Drawing Book (flat folder)</field>
++    <field name="unittitle_ssm">John Cox&#39;s Drawing Book (flat folder)</field>
++    <field name="unittitle_teim">John Cox&#39;s Drawing Book (flat folder)</field>
+     <field name="unitdate_normal_ssm">1793/1793</field>
+     <field name="unitdate_normal_teim">1793/1793</field>
+     <field name="unitdate_normal_sim">1793/1793</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Drawer: FF-1, Folder: 27</field>
+     <field name="location_si">Drawer: FF-1, Folder: 27</field>
+     <field name="collection_teim">New-York Historical graphic arts collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 22</field>
+     <field name="series_sim">Series I. American Graphic Arts</field>
+-    <field name="series_si">Series I. American Graphic Arts &gt;&gt; John Cox's Drawing Book (flat folder)</field>
+-    <field name="heading_ssm">John Cox's Drawing Book (flat folder)</field>
++    <field name="series_si">Series I. American Graphic Arts &gt;&gt; John Cox&#39;s Drawing Book (flat folder)</field>
++    <field name="heading_ssm">John Cox&#39;s Drawing Book (flat folder)</field>
+     <field name="unitdate_start_sim">1793</field>
+     <field name="unitdate_start_ssm">1793</field>
+     <field name="unitdate_start_si">1793</field>

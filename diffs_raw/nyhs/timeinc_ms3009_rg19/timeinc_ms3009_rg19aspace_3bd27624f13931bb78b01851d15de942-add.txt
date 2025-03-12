@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Public Affairs Department Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 19</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1963 February 15: &lt;em&gt;Retrospect: 1923-1963&lt;/em&gt; (Time's 40th anniversary)</field>
+-    <field name="unittitle_teim">1963 February 15: Retrospect: 1923-1963 (Time's 40th anniversary)</field>
++    <field name="unittitle_ssm">1963 February 15: &lt;em&gt;Retrospect: 1923-1963&lt;/em&gt; (Time&#39;s 40th anniversary)</field>
++    <field name="unittitle_teim">1963 February 15: Retrospect: 1923-1963 (Time&#39;s 40th anniversary)</field>
+     <field name="unitdate_inclusive_teim">1962-1963</field>
+     <field name="title_teim">Retrospect: 1923-1963</field>
+     <field name="title_ssm">Retrospect: 1923-1963</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 4046, Folder: 28</field>
+     <field name="location_si">Offsite-Box: 4046, Folder: 28</field>
+     <field name="collection_teim">Time Inc. Corporate Public Affairs Department Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 19</field>
+     <field name="series_sim">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center</field>
+     <field name="series_sim">Subseries VII.B. Exhibition Files</field>
+-    <field name="series_si">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center &gt;&gt; Subseries VII.B. Exhibition Files &gt;&gt; 1963 February 15: &lt;em&gt;Retrospect: 1923-1963&lt;/em&gt; (Time's 40th anniversary)</field>
+-    <field name="heading_ssm">1963 February 15: Retrospect: 1923-1963 (Time's 40th anniversary)</field>
++    <field name="series_si">Series VII. Exhibition Files from the Reception Center, Exhibit Hall, and Exhibition Center &gt;&gt; Subseries VII.B. Exhibition Files &gt;&gt; 1963 February 15: &lt;em&gt;Retrospect: 1923-1963&lt;/em&gt; (Time&#39;s 40th anniversary)</field>
++    <field name="heading_ssm">1963 February 15: Retrospect: 1923-1963 (Time&#39;s 40th anniversary)</field>
+     <field name="unitdate_ssm">Inclusive, 1962-1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">792</field>

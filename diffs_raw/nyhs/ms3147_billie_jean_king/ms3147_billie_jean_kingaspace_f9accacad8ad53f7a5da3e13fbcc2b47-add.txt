@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">New York Apples World TeamTennis buttons</field>
+     <field name="unittitle_teim">New York Apples World TeamTennis buttons</field>
+     <field name="unitdate_inclusive_teim">circa 1976-1977</field>
+-    <field name="scopecontent_teim">Six white buttons with text "new york apples world team tennis champions."</field>
++    <field name="scopecontent_teim">Six white buttons with text &#34;new york apples world team tennis champions.&#34;</field>
+     <field name="ref_ssi">aspace_f9accacad8ad53f7a5da3e13fbcc2b47</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 55</field>
+     <field name="location_si">Offsite-Box: 55</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series X. Artifacts and memorabilia</field>
+     <field name="series_si">Series X. Artifacts and memorabilia &gt;&gt; New York Apples World TeamTennis buttons</field>

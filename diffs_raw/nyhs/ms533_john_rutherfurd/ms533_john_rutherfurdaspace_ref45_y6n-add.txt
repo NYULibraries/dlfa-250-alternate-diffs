@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 5: John Rutherfurd - Delaware River Bridge N.D., 1798, 1802, 1806</field>
+     <field name="unittitle_teim">Subseries 5: John Rutherfurd - Delaware River Bridge N.D., 1798, 1802, 1806</field>
+-    <field name="scopecontent_teim">The subseries consists of material having to do with John Rutherfurd's interest in the construction of a bridge linking New Jersey and Pennsylvania. Included are drawings of the proposed bridge, memoranda, calculations, and a report, published in the Trenton Federalist, to the stockholders of the Trenton Delaware Bridge [Company]. The author of the report was John Beatty, who was apparently the president of that company.</field>
++    <field name="scopecontent_teim">The subseries consists of material having to do with John Rutherfurd&#39;s interest in the construction of a bridge linking New Jersey and Pennsylvania. Included are drawings of the proposed bridge, memoranda, calculations, and a report, published in the Trenton Federalist, to the stockholders of the Trenton Delaware Bridge [Company]. The author of the report was John Beatty, who was apparently the president of that company.</field>
+     <field name="ref_ssi">aspace_ref45_y6n</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 533</field>
+     <field name="series_sim">Series I: John Rutherfurd</field>
+     <field name="series_si">Series I: John Rutherfurd &gt;&gt; Subseries 5: John Rutherfurd - Delaware River Bridge N.D., 1798, 1802, 1806</field>

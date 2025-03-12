@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Letters</field>
+     <field name="unitdate_teim">1860</field>
+     <field name="scopecontent_teim">See 1860 March 29, pictorial cover of the Delavan House [hotel], Albany, N.Y.</field>
+-    <field name="scopecontent_teim">See 1860 November 15, request to have Folsom's portrait painted for the Athenaeum Club. Signed by George E. Waring Jr. and others.</field>
++    <field name="scopecontent_teim">See 1860 November 15, request to have Folsom&#39;s portrait painted for the Athenaeum Club. Signed by George E. Waring Jr. and others.</field>
+     <field name="ref_ssi">aspace_ref98_tfa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 9, Folder: 5</field>
+     <field name="location_si">Box: 9, Folder: 5</field>
+     <field name="collection_teim">George Folsom papers</field>
++    <field name="author_teim">Joseph Ditta (2017, 2018)</field>
+     <field name="collection_unitid_teim">MS 222</field>
+     <field name="series_sim">Box 9: Letters, 1856-1866</field>
+     <field name="series_si">Box 9: Letters, 1856-1866 &gt;&gt; Letters</field>

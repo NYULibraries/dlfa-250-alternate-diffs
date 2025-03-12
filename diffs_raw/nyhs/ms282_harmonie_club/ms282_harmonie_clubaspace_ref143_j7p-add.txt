@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Harmonie Club records</field>
+     <field name="collection_unitid_ssm">MS 282</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">President's Annual Reports</field>
+-    <field name="unittitle_teim">President's Annual Reports</field>
++    <field name="unittitle_ssm">President&#39;s Annual Reports</field>
++    <field name="unittitle_teim">President&#39;s Annual Reports</field>
+     <field name="unitdate_teim">1951 - 1960</field>
+     <field name="ref_ssi">aspace_ref143_j7p</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 34, Volume: 93</field>
+     <field name="location_si">Offsite-Box: 34, Volume: 93</field>
+     <field name="collection_teim">Harmonie Club records</field>
++    <field name="author_teim">Peter Asch</field>
+     <field name="collection_unitid_teim">MS 282</field>
+     <field name="series_sim">Series VI: Financial Records and Annual Reports</field>
+-    <field name="series_si">Series VI: Financial Records and Annual Reports &gt;&gt; President's Annual Reports</field>
+-    <field name="heading_ssm">President's Annual Reports</field>
++    <field name="series_si">Series VI: Financial Records and Annual Reports &gt;&gt; President&#39;s Annual Reports</field>
++    <field name="heading_ssm">President&#39;s Annual Reports</field>
+     <field name="unitdate_ssm">1951 - 1960</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">113</field>

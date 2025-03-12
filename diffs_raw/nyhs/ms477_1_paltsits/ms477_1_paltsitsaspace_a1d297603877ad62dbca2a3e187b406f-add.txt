@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,9 @@
+     <field name="unittitle_ssm">Martí, José [2 books]</field>
+     <field name="unittitle_teim">Martí, José [2 books]</field>
+     <field name="unitdate_inclusive_teim">1909, 1942</field>
+-    <field name="scopecontent_teim">•	Martí Nuestra América, vol. VII (1909) •	Martí: Prólogo y selección de Mauricio Magdaleno (1942)</field>
++    <field name="scopecontent_teim">•	Martí Nuestra América, vol. VII (1909)
++
++•	Martí: Prólogo y selección de Mauricio Magdaleno (1942)</field>
+     <field name="ref_ssi">aspace_a1d297603877ad62dbca2a3e187b406f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +31,7 @@
+     <field name="location_ssm">Offsite-Box: 72</field>
+     <field name="location_si">Offsite-Box: 72</field>
+     <field name="collection_teim">Victor H. Paltsits papers</field>
++    <field name="author_teim">Joseph Ditta (November-December 2020)</field>
+     <field name="collection_unitid_teim">MS 477.1</field>
+     <field name="series_sim">Series II. Research and subject files</field>
+     <field name="series_sim">Subseries II.B. Research and subject files processed 2020</field>

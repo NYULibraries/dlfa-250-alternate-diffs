@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Unrelated material | poster</field>
+     <field name="unittitle_teim">Unrelated material | poster</field>
+     <field name="unitdate_inclusive_teim">1997</field>
+-    <field name="scopecontent_teim">Poster announcing the route of "Disney's Hercules Electrical Parade / Midtown Manhattan / Saturday, June 14, 1997 / 9 pm to 11 pm."</field>
++    <field name="scopecontent_teim">Poster announcing the route of &#34;Disney&#39;s Hercules Electrical Parade / Midtown Manhattan / Saturday, June 14, 1997 / 9 pm to 11 pm.&#34;</field>
+     <field name="ref_ssi">aspace_0ea68b9afb4d9bdf97ad1e2946dfa239</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">oversize: FF</field>
+     <field name="location_si">oversize: FF</field>
+     <field name="collection_teim">Thomas Holman collection of Flatiron Building photographs and ephemera</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 372</field>
+     <field name="series_si">Unrelated material | poster</field>
+     <field name="heading_ssm">Unrelated material | poster</field>

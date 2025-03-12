@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+     <field name="collection_unitid_ssm">NYHS-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Colorful New Yorkiana; The New York Crystal Palace: America's First World's Fair</field>
+-    <field name="unittitle_teim">Colorful New Yorkiana; The New York Crystal Palace: America's First World's Fair</field>
+-    <field name="unitdate_teim">1964</field>
++    <field name="unittitle_ssm">Colorful New Yorkiana; The New York Crystal Palace: America&#39;s First World&#39;s Fair</field>
++    <field name="unittitle_teim">Colorful New Yorkiana; The New York Crystal Palace: America&#39;s First World&#39;s Fair</field>
++    <field name="unitdate_teim">1964 </field>
+     <field name="ref_ssi">aspace_ref96_c76</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,11 +25,12 @@
+     <field name="location_ssm">Box: 7, Folder: 10</field>
+     <field name="location_si">Box: 7, Folder: 10</field>
+     <field name="collection_teim">New-York Historical Society pictorial archive</field>
++    <field name="author_teim">Maurita Baldock (2005), with revisions and additions by Celia Hartmann (2007) and Larry Weimer (2015)</field>
+     <field name="collection_unitid_teim">NYHS-RG 5</field>
+     <field name="series_sim">Series II: Exhibitions</field>
+-    <field name="series_si">Series II: Exhibitions &gt;&gt; Colorful New Yorkiana; The New York Crystal Palace: America's First World's Fair</field>
+-    <field name="heading_ssm">Colorful New Yorkiana; The New York Crystal Palace: America's First World's Fair</field>
+-    <field name="unitdate_ssm">1964</field>
++    <field name="series_si">Series II: Exhibitions &gt;&gt; Colorful New Yorkiana; The New York Crystal Palace: America&#39;s First World&#39;s Fair</field>
++    <field name="heading_ssm">Colorful New Yorkiana; The New York Crystal Palace: America&#39;s First World&#39;s Fair</field>
++    <field name="unitdate_ssm">1964 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">104</field>
+   </doc>

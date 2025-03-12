@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Richard Varick Papers</field>
+     <field name="collection_unitid_ssm">MS 655</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Inventories of Captain Varick's military clothing and goods</field>
+-    <field name="unittitle_teim">Inventories of Captain Varick's military clothing and goods</field>
++    <field name="unittitle_ssm">Inventories of Captain Varick&#39;s military clothing and goods</field>
++    <field name="unittitle_teim">Inventories of Captain Varick&#39;s military clothing and goods</field>
+     <field name="unitdate_teim">1776-1778</field>
+     <field name="ref_ssi">aspace_ref112_v83</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 4</field>
+     <field name="location_si">Box: 4, Folder: 4</field>
+     <field name="collection_teim">Richard Varick Papers</field>
++    <field name="author_teim">Shannon Yule</field>
+     <field name="collection_unitid_teim">MS 655</field>
+     <field name="series_sim">Series II: Military Documents</field>
+-    <field name="series_si">Series II: Military Documents &gt;&gt; Inventories of Captain Varick's military clothing and goods</field>
+-    <field name="heading_ssm">Inventories of Captain Varick's military clothing and goods</field>
++    <field name="series_si">Series II: Military Documents &gt;&gt; Inventories of Captain Varick&#39;s military clothing and goods</field>
++    <field name="heading_ssm">Inventories of Captain Varick&#39;s military clothing and goods</field>
+     <field name="unitdate_ssm">1776-1778</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">95</field>

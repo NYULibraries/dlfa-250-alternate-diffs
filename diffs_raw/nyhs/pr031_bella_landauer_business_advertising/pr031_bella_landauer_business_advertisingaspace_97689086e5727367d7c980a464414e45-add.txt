@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,14 @@
+     <field name="unittitle_ssm">Druggists</field>
+     <field name="unittitle_teim">Druggists</field>
+     <field name="scopecontent_teim">New York City: R-Z druggists</field>
+-    <field name="scopecontent_teim">Schiffeling &amp; Co. Squibb &amp; Son Van Duzer &amp; Co. Wrecker Pharmacy</field>
++    <field name="scopecontent_teim">
++ Schiffeling &amp; Co.
++ 
++ Squibb &amp; Son 
++ 
++ Van Duzer &amp; Co.
++ 
++ Wrecker Pharmacy</field>
+     <field name="ref_ssi">aspace_97689086e5727367d7c980a464414e45</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +36,7 @@
+     <field name="location_ssm">Offsite-Box: 25</field>
+     <field name="location_si">Offsite-Box: 25</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

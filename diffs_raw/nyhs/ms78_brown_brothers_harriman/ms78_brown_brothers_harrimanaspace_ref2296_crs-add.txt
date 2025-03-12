@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Who's who in commerce and industry, volume 8. A.N. Marquis Company</field>
+-    <field name="unittitle_teim">Who's who in commerce and industry, volume 8. A.N. Marquis Company</field>
++    <field name="unittitle_ssm">Who&#39;s who in commerce and industry, volume 8. A.N. Marquis Company</field>
++    <field name="unittitle_teim">Who&#39;s who in commerce and industry, volume 8. A.N. Marquis Company</field>
+     <field name="unitdate_normal_ssm">1953/1953</field>
+     <field name="unitdate_normal_teim">1953/1953</field>
+     <field name="unitdate_normal_sim">1953/1953</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: BBH-20, Volume: 128</field>
+     <field name="location_si">Offsite-Box: BBH-20, Volume: 128</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series X. Published Material (1801-1972)</field>
+-    <field name="series_si">Series X. Published Material (1801-1972) &gt;&gt; Who's who in commerce and industry, volume 8. A.N. Marquis Company</field>
+-    <field name="heading_ssm">Who's who in commerce and industry, volume 8. A.N. Marquis Company</field>
++    <field name="series_si">Series X. Published Material (1801-1972) &gt;&gt; Who&#39;s who in commerce and industry, volume 8. A.N. Marquis Company</field>
++    <field name="heading_ssm">Who&#39;s who in commerce and industry, volume 8. A.N. Marquis Company</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>
+     <field name="unitdate_start_si">1953</field>

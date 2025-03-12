@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Jennings Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 135</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Meriden -- St. Rose's Church</field>
+-    <field name="unittitle_teim">Meriden -- St. Rose's Church</field>
++    <field name="unittitle_ssm">Meriden -- St. Rose&#39;s Church</field>
++    <field name="unittitle_teim">Meriden -- St. Rose&#39;s Church</field>
+     <field name="ref_ssi">aspace_ref99_xkt</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,12 +30,13 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Jennings Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 135</field>
+     <field name="series_sim">Series II: Church Architecture</field>
+     <field name="series_sim">Album of postcard views of the following:</field>
+     <field name="series_sim">Connecticut</field>
+-    <field name="series_si">Series II: Church Architecture &gt;&gt; Album of postcard views of the following: &gt;&gt; Connecticut &gt;&gt; Meriden -- St. Rose's Church</field>
+-    <field name="heading_ssm">Meriden -- St. Rose's Church</field>
++    <field name="series_si">Series II: Church Architecture &gt;&gt; Album of postcard views of the following: &gt;&gt; Connecticut &gt;&gt; Meriden -- St. Rose&#39;s Church</field>
++    <field name="heading_ssm">Meriden -- St. Rose&#39;s Church</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">84</field>
+   </doc>

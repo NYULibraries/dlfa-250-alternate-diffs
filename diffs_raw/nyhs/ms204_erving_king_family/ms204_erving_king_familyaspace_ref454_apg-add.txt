@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Erving-King Family papers</field>
+     <field name="collection_unitid_ssm">MS 204</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Fowler's New Map of the Hudson River</field>
+-    <field name="unittitle_teim">Fowler's New Map of the Hudson River</field>
++    <field name="unittitle_ssm">Fowler&#39;s New Map of the Hudson River</field>
++    <field name="unittitle_teim">Fowler&#39;s New Map of the Hudson River</field>
+     <field name="unitdate_teim">1845</field>
+     <field name="ref_ssi">aspace_ref454_apg</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: 3</field>
+     <field name="location_si">Folder: 3</field>
+     <field name="collection_teim">Erving-King Family papers</field>
++    <field name="author_teim">Processed by Caroline D. Bain.</field>
+     <field name="collection_unitid_teim">MS 204</field>
+     <field name="series_sim">Series III: Oversize Materials</field>
+     <field name="series_sim">Subseries III: Drawings, Broadsides, Certificates, etc.</field>
+-    <field name="series_si">Series III: Oversize Materials &gt;&gt; Subseries III: Drawings, Broadsides, Certificates, etc. &gt;&gt; Fowler's New Map of the Hudson River</field>
+-    <field name="heading_ssm">Fowler's New Map of the Hudson River</field>
++    <field name="series_si">Series III: Oversize Materials &gt;&gt; Subseries III: Drawings, Broadsides, Certificates, etc. &gt;&gt; Fowler&#39;s New Map of the Hudson River</field>
++    <field name="heading_ssm">Fowler&#39;s New Map of the Hudson River</field>
+     <field name="unitdate_ssm">1845</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">374</field>

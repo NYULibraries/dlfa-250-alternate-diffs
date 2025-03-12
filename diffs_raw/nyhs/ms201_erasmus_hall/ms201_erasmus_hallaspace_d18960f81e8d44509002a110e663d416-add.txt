@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_9f62ed17a439cf9544d0f54d3ec9d081</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_9f62ed17a439cf9544d0f54d3ec9d081</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Brooklyn directory</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Brooklyn directory</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Erasmus Hall records</field>
+     <field name="collection_unitid_ssm">MS 201</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Spooner's Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
+-    <field name="unittitle_teim">[Spooner's Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
++    <field name="unittitle_ssm">[Spooner&#39;s Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
++    <field name="unittitle_teim">[Spooner&#39;s Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
+     <field name="unitdate_inclusive_teim">1829 June</field>
+     <field name="scopecontent_teim">85 p. Either lacks title page or was issued without one.</field>
+     <field name="ref_ssi">aspace_d18960f81e8d44509002a110e663d416</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: RC-16, envelope: Brooklyn Directory, 1829</field>
+     <field name="location_si">Offsite-Box: RC-16, envelope: Brooklyn Directory, 1829</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Brooklyn directory</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Brooklyn directory &gt;&gt; [Spooner's Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
+-    <field name="heading_ssm">[Spooner's Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Brooklyn directory &gt;&gt; [Spooner&#39;s Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
++    <field name="heading_ssm">[Spooner&#39;s Brooklyn Directory for the Year 1829] (Brooklyn, N.Y.: Alden Spooner)</field>
+     <field name="unitdate_ssm">Inclusive, 1829 June</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">52</field>

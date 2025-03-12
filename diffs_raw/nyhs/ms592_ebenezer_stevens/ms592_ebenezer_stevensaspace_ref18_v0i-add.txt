@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,9 +15,9 @@
+     <field name="unitdate_normal_teim">1769/1806</field>
+     <field name="unitdate_normal_sim">1769/1806</field>
+     <field name="unitdate_inclusive_teim">1769, 1785-1806</field>
+-    <field name="scopecontent_teim">Series III consists of various financial documents regarding Stevens' business as well as personal matters. The documents regarding shipping are largely bills of lading, which document the sending or receiving of shipped goods. Bills of lading include the date sent or received; name of shipper and reciever; destination and origin as well as price of goods. Also included in the shipping documents are several records of accounts.</field>
+-    <field name="scopecontent_teim">The documents regarding General Schuyler are also of a business nature and contain information regarding accounts between Stevens and Schuyler.</field>
+-    <field name="scopecontent_teim">The school bills contain documents regarding the payment for education of Stevens' children. It consists of several bills for education and supplies.</field>
++    <field name="scopecontent_teim">Series III consists of various financial documents regarding Stevens&#39; business as well as personal matters. The documents regarding shipping are largely bills of lading, which document the sending or receiving of shipped goods.  Bills of lading include the date sent or received; name of shipper and reciever; destination and origin as well as price of goods. Also included in the shipping documents are several records of accounts. </field>
++    <field name="scopecontent_teim">The documents regarding General Schuyler are also of a business nature and contain information regarding accounts between Stevens and Schuyler. </field>
++    <field name="scopecontent_teim">The school bills contain documents regarding the payment for education of Stevens&#39; children.  It consists of several bills for education and supplies. </field>
+     <field name="ref_ssi">aspace_ref18_v0i</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Ebenezer Stevens Papers</field>
++    <field name="author_teim">Cassandra Brewer </field>
+     <field name="collection_unitid_teim">MS 592</field>
+     <field name="series_si">Series III: Financial Documents</field>
+     <field name="heading_ssm">Series III: Financial Documents</field>

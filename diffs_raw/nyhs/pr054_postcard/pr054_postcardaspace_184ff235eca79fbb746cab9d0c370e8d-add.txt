@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,11 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Portraits | Royalty&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Portraits | Royalty</field>
+-    <field name="scopecontent_teim">Albert I, King of the Belgians John, King of England British Royal Family (George VI, Elizabeth II, etc.)</field>
++    <field name="scopecontent_teim">Albert I, King of the Belgians
++
++John, King of England
++
++British Royal Family (George VI, Elizabeth II, etc.)</field>
+     <field name="ref_ssi">aspace_184ff235eca79fbb746cab9d0c370e8d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +29,7 @@
+     <field name="location_ssm">Box: 92</field>
+     <field name="location_si">Box: 92</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series IV. Subjects</field>
+     <field name="series_si">Series IV. Subjects &gt;&gt; &lt;strong&gt;Portraits | Royalty&lt;/strong&gt;</field>

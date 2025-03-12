@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,12 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Restaurants: B&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Restaurants: B</field>
+-    <field name="scopecontent_teim">Bird in Hand, 711 Seventh Avenue &amp; 1659 Broadway (2) Boulevard de Paris, 117 East 60th Street Brass Rail, 745 Seventh Avenue (2)</field>
++    <field name="scopecontent_teim">Bird in Hand, 711 Seventh Avenue &amp; 1659 Broadway (2)
++
++Boulevard de Paris, 117 East 60th Street
++
++Brass Rail, 745 Seventh Avenue (2)
++</field>
+     <field name="ref_ssi">aspace_ref8_0mr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +26,7 @@
+     <field name="location_ssm">Folder: 1</field>
+     <field name="location_si">Folder: 1</field>
+     <field name="collection_teim">Dale E. Jenkins collection of Manhattan restaurant postcards</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 337</field>
+     <field name="series_si">&lt;strong&gt;Restaurants: B&lt;/strong&gt;</field>
+     <field name="heading_ssm">Restaurants: B</field>

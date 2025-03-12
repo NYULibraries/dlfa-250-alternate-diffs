@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Writers</field>
+     <field name="unittitle_teim">Writers</field>
+     <field name="unitdate_inclusive_teim">1958-1995, undated</field>
+-    <field name="scopecontent_teim">Allen Ginsberg; Barbara Guest (poet); Molly Haskell and Andrew Sarris (film critics); Jack Kerouac; Norman Mailer; Also includes images related to the Beat literary scene: a rack of Beat poetry books, closing night of the Beat hangout the Cedar Street Tavern, and photos of the "Beatnik presidential candidate," and "Miss Beatnik of 1959."</field>
++    <field name="scopecontent_teim">Allen Ginsberg; Barbara Guest (poet); Molly Haskell and Andrew Sarris (film critics); Jack Kerouac; Norman Mailer; Also includes images related to the Beat  literary scene: a rack of Beat poetry books, closing night of the Beat hangout the Cedar Street Tavern, and photos of the &#34;Beatnik presidential candidate,&#34; and &#34;Miss Beatnik of 1959.&#34;</field>
+     <field name="ref_ssi">aspace_4961f2fc3564dacfddc4dd67ef0d55a7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 33, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 33, Folder: 9</field>
+     <field name="collection_teim">Katja B. Goldman and Michael Sonnenfeldt collection of photographs</field>
++    <field name="author_teim">Brynn White, June, 2014. Revised by Marybeth Kavanagh, 2019.</field>
+     <field name="collection_unitid_teim">PR 305</field>
+     <field name="series_sim">Series IV: 2015 Accruals</field>
+     <field name="series_sim">Subseries IV.2: Fred McDarrah</field>

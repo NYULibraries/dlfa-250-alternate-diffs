@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Seaman Family Papers</field>
+     <field name="collection_unitid_ssm">MS 552</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
+-    <field name="unittitle_teim">The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
++    <field name="unittitle_ssm">The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
++    <field name="unittitle_teim">The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
+     <field name="unitdate_teim">1884</field>
+     <field name="ref_ssi">aspace_ref102_hhr</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -22,13 +22,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Volume: Unknown container 612 for instance of The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
+-    <field name="location_si">Volume: Unknown container 612 for instance of The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
++    <field name="location_ssm">Volume: Unknown container 612 for instance of The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
++    <field name="location_si">Volume: Unknown container 612 for instance of The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
+     <field name="collection_teim">Seaman Family Papers</field>
++    <field name="author_teim">Jan Hilley and Megan Hahn Fraser</field>
+     <field name="collection_unitid_teim">MS 552</field>
+     <field name="series_sim">Series VI. Business and Financial Documents, 1813-1923</field>
+-    <field name="series_si">Series VI. Business and Financial Documents, 1813-1923 &gt;&gt; The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
+-    <field name="heading_ssm">The Merchant's and Seaman's Expeditious Measurer George W. Seaman *</field>
++    <field name="series_si">Series VI. Business and Financial Documents, 1813-1923 &gt;&gt; The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
++    <field name="heading_ssm">The Merchant&#39;s and Seaman&#39;s Expeditious Measurer George W. Seaman *</field>
+     <field name="unitdate_ssm">1884</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>

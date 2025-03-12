@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series XI: Humanitarian</field>
+     <field name="unittitle_teim">Series XI: Humanitarian</field>
+     <field name="unitdate_inclusive_teim">1700-1910</field>
+-    <field name="scopecontent_teim">This series contains membership certificates for the New York Society for the Prevention of Cruelty to Children, the Woman's Central Association of Relief, Cape Palmas Female Orphan Asylum Society, the Lawrence Benevolent Institution of Pennsylvania, the U.S. Sanitary Commission, the New-Jersey Society for Promoting the Abolition of Slavery.</field>
++    <field name="scopecontent_teim">This series contains membership certificates for the New York Society for the Prevention of Cruelty to Children, the Woman&#39;s Central Association of Relief, Cape Palmas Female Orphan Asylum Society, the Lawrence Benevolent Institution of Pennsylvania, the U.S. Sanitary Commission, the New-Jersey Society for Promoting the Abolition of Slavery.</field>
+     <field name="scopecontent_teim">Certificates for the New York Marine Society, a group formed to provide assistance to widows and children of deceased sailors, include both reproductions and originals with wax seals. There are also certificates from other maritime organizations that provided assistance to sailors and their families.</field>
+     <field name="scopecontent_teim">Of special interest is a certificate for completion of an apprenticeship at the New York House of Refuge, circa 1870.</field>
+     <field name="ref_ssi">aspace_ref297_ucd</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New-York Historical Society collection of certificates</field>
++    <field name="author_teim">Kelly McAnnaney (2008). Revised by Marybeth Kavanagh (2018).</field>
+     <field name="collection_unitid_teim">PR 014</field>
+     <field name="series_si">Series XI: Humanitarian</field>
+     <field name="heading_ssm">Series XI: Humanitarian</field>

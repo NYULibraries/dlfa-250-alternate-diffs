@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">James H. Hyde Collection of Allegorical Prints of the Four Continents</field>
+     <field name="collection_unitid_ssm">PR 27</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Britain's Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
+-    <field name="unittitle_teim">Britain's Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
++    <field name="unittitle_ssm">Britain&#39;s Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
++    <field name="unittitle_teim">Britain&#39;s Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
+     <field name="unitdate_teim">1755</field>
+     <field name="ref_ssi">aspace_ref369_qa5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: Portfolio 4B</field>
+     <field name="location_si">Folder: Portfolio 4B</field>
+     <field name="collection_teim">James H. Hyde Collection of Allegorical Prints of the Four Continents</field>
++    <field name="author_teim">Louisa Wood Ruby; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 27</field>
+     <field name="series_sim">Series VI: Caricatures, American and English</field>
+-    <field name="series_si">Series VI: Caricatures, American and English &gt;&gt; Britain's Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
+-    <field name="heading_ssm">Britain's Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
++    <field name="series_si">Series VI: Caricatures, American and English &gt;&gt; Britain&#39;s Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
++    <field name="heading_ssm">Britain&#39;s Rights maintaind [sic] (JHH# 292 / Enregistre# 1335)</field>
+     <field name="unitdate_ssm">1755</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">132</field>

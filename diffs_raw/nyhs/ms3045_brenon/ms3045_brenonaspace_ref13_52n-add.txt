@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_teim">1925</field>
+-    <field name="scopecontent_teim">Includes letters on "Cecil B. De Mille Pictures Corporation" stationery, and a letter from theatrical impresario Samuel "Roxy" Rothafel.</field>
++    <field name="scopecontent_teim">Includes letters on &#34;Cecil B. De Mille Pictures Corporation&#34; stationery, and a letter from theatrical impresario Samuel &#34;Roxy&#34; Rothafel.</field>
+     <field name="ref_ssi">aspace_ref13_52n</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 3</field>
+     <field name="location_si">Box: 1, Folder: 3</field>
+     <field name="collection_teim">Aileen St. John-Brenon papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3045</field>
+     <field name="series_sim">Series I. Dated material</field>
+     <field name="series_si">Series I. Dated material &gt;&gt; Correspondence</field>

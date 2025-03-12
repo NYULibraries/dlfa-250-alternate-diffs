@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen Harmon photographs</field>
+     <field name="collection_unitid_ssm">PR 362</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Bethel, NY. Max Yasgur's barn (1 photo + 1 email)</field>
+-    <field name="unittitle_teim">Bethel, NY. Max Yasgur's barn (1 photo + 1 email)</field>
++    <field name="unittitle_ssm">Bethel, NY. Max Yasgur&#39;s barn (1 photo + 1 email)</field>
++    <field name="unittitle_teim">Bethel, NY. Max Yasgur&#39;s barn (1 photo + 1 email)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_95df98eb035d76f84cf6e6c0de6f5416</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -22,13 +22,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Digital-Folder: 20171024, Digital-File: 1_1, email</field>
+-    <field name="location_si">Digital-Folder: 20171024, Digital-File: 1_1, email</field>
++    <field name="location_ssm">Digital-Folder: 20171024, Digital-File: 1_1,  email</field>
++    <field name="location_si">Digital-Folder: 20171024, Digital-File: 1_1,  email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+     <field name="series_sim">Series D.VIII. Various Other Subjects</field>
+-    <field name="series_si">Series D.VIII. Various Other Subjects &gt;&gt; Bethel, NY. Max Yasgur's barn (1 photo + 1 email)</field>
+-    <field name="heading_ssm">Bethel, NY. Max Yasgur's barn (1 photo + 1 email)</field>
++    <field name="series_si">Series D.VIII. Various Other Subjects &gt;&gt; Bethel, NY. Max Yasgur&#39;s barn (1 photo + 1 email)</field>
++    <field name="heading_ssm">Bethel, NY. Max Yasgur&#39;s barn (1 photo + 1 email)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">420</field>

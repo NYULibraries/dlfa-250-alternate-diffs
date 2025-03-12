@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VIII. Electrical Equipment Inspection Certificates, 1906</field>
+     <field name="unittitle_teim">Series VIII. Electrical Equipment Inspection Certificates, 1906</field>
+-    <field name="scopecontent_teim">From the New York City Dept. of Water Supply, Gas and Electricity's Electrical Bureau and the New York Board of Fire Underwriters.</field>
++    <field name="scopecontent_teim">From the New York City Dept. of Water Supply, Gas and Electricity&#39;s Electrical Bureau and the New York Board of Fire Underwriters.</field>
+     <field name="ref_ssi">aspace_ref71_j52</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">B. Altman &amp; Co. records</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 31</field>
+     <field name="series_si">Series VIII. Electrical Equipment Inspection Certificates, 1906</field>
+     <field name="heading_ssm">Series VIII. Electrical Equipment Inspection Certificates, 1906</field>

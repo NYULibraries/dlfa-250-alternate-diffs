@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,11 @@
+     <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+     <field name="collection_unitid_ssm">PC 001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Mother Goose's Rhymes&lt;/em&gt; title page</field>
+-    <field name="unittitle_teim">Mother Goose's Rhymes title page</field>
++    <field name="unittitle_ssm">&lt;em&gt;Mother Goose&#39;s Rhymes&lt;/em&gt; title page</field>
++    <field name="unittitle_teim">Mother Goose&#39;s Rhymes title page</field>
+     <field name="scopecontent_teim">1 broken multiple woodblock.</field>
+-    <field name="title_teim">Mother Goose's Rhymes</field>
+-    <field name="title_ssm">Mother Goose's Rhymes</field>
++    <field name="title_teim">Mother Goose&#39;s Rhymes</field>
++    <field name="title_ssm">Mother Goose&#39;s Rhymes</field>
+     <field name="ref_ssi">aspace_fa62f93265b46f3786189fc42c415340</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 25, Box: 4C (3)</field>
+     <field name="location_si">Offsite-Box: 25, Box: 4C (3)</field>
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
++    <field name="author_teim">Crystal Toscano</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series XI. Damaged woodblocks</field>
+-    <field name="series_si">Series XI. Damaged woodblocks &gt;&gt; &lt;em&gt;Mother Goose's Rhymes&lt;/em&gt; title page</field>
+-    <field name="heading_ssm">Mother Goose's Rhymes title page</field>
++    <field name="series_si">Series XI. Damaged woodblocks &gt;&gt; &lt;em&gt;Mother Goose&#39;s Rhymes&lt;/em&gt; title page</field>
++    <field name="heading_ssm">Mother Goose&#39;s Rhymes title page</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">150</field>
+   </doc>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Eichmann, Adolph</field>
+     <field name="unittitle_teim">Eichmann, Adolph</field>
+-    <field name="scopecontent_teim">Includes a reel-to-reel tape labeled "Eichmann Confession Original Recording" and two cassette tapes labeled "Eichmann tape copy".</field>
++    <field name="scopecontent_teim">Includes a reel-to-reel tape labeled &#34;Eichmann Confession Original Recording&#34; and two cassette tapes labeled &#34;Eichmann tape copy&#34;.</field>
+     <field name="ref_ssi">aspace_ref1007_gxz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 265, Folder: 3-5</field>
+     <field name="location_si">Box: 265, Folder: 3-5</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names E</field>
+     <field name="series_si">Names E &gt;&gt; Eichmann, Adolph</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Hillary for President sign</field>
+     <field name="unittitle_teim">Hillary for President sign</field>
+     <field name="unitdate_inclusive_teim">2008</field>
+-    <field name="scopecontent_teim">Hillary for President sign from HRC's 2008 campaign. Signed to BJK by HRC and Bill Clinton.</field>
++    <field name="scopecontent_teim">Hillary for President sign from HRC&#39;s 2008 campaign. Signed to BJK by HRC and Bill Clinton.</field>
+     <field name="ref_ssi">aspace_284add03350b6ae1f70df402d62578e8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 60, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 60, Folder: 7</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series X. Artifacts and memorabilia</field>
+     <field name="series_si">Series X. Artifacts and memorabilia &gt;&gt; Hillary for President sign</field>

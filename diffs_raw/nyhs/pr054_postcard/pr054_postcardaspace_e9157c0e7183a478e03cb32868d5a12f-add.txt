@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,23 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Restaurants (H)&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Manhattan | Restaurants (H)</field>
+-    <field name="scopecontent_teim">Hapsburg House Havana Madrid Headquarters Restaurant Thomas Healy's Hector's Hickory House Hof-bräu Haus Horn &amp; Hardart Automat Huber's</field>
++    <field name="scopecontent_teim">Hapsburg House
++
++Havana Madrid
++
++Headquarters Restaurant
++
++Thomas Healy&#39;s
++
++Hector&#39;s
++
++Hickory House
++
++Hof-bräu Haus
++
++Horn &amp; Hardart Automat
++
++Huber&#39;s</field>
+     <field name="ref_ssi">aspace_e9157c0e7183a478e03cb32868d5a12f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +44,7 @@
+     <field name="location_ssm">Box: 54</field>
+     <field name="location_si">Box: 54</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>

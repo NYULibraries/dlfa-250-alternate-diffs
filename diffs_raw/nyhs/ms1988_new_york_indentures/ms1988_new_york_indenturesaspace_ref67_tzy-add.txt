@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York City indentures collection</field>
+     <field name="collection_unitid_ssm">MS 1988</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Foundlings Records, includes name and age of the child, notes regarding child's health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse's husband</field>
+-    <field name="unittitle_teim">Foundlings Records, includes name and age of the child, notes regarding child's health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse's husband</field>
++    <field name="unittitle_ssm">Foundlings Records, includes name and age of the child, notes regarding child&#39;s health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse&#39;s husband</field>
++    <field name="unittitle_teim">Foundlings Records, includes name and age of the child, notes regarding child&#39;s health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse&#39;s husband</field>
+     <field name="unitdate_normal_ssm">1838/1841</field>
+     <field name="unitdate_normal_teim">1838/1841</field>
+     <field name="unitdate_normal_sim">1838/1841</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Volume: 37</field>
+     <field name="location_si">Volume: 37</field>
+     <field name="collection_teim">New York City indentures collection</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 1988</field>
+     <field name="series_sim">Series II: Foundling Records (1838-1915)</field>
+-    <field name="series_si">Series II: Foundling Records (1838-1915) &gt;&gt; Foundlings Records, includes name and age of the child, notes regarding child's health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse's husband</field>
+-    <field name="heading_ssm">Foundlings Records, includes name and age of the child, notes regarding child's health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse's husband</field>
++    <field name="series_si">Series II: Foundling Records (1838-1915) &gt;&gt; Foundlings Records, includes name and age of the child, notes regarding child&#39;s health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse&#39;s husband</field>
++    <field name="heading_ssm">Foundlings Records, includes name and age of the child, notes regarding child&#39;s health and/or circumstances of the parents, also name and nationality of nurse, occupation of nurse&#39;s husband</field>
+     <field name="unitdate_start_sim">1838</field>
+     <field name="unitdate_start_ssm">1838</field>
+     <field name="unitdate_start_si">1838</field>

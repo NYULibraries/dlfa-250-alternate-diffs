@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr462_addiss_rorke</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Jus Addiss and Hayden Rorke "This is the Army" travel photographs</field>
+-    <field name="collection_ssm">Jus Addiss and Hayden Rorke "This is the Army" travel photographs</field>
++    <field name="collection_sim">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
++    <field name="collection_ssm">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
+     <field name="collection_unitid_ssm">PR 462</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Addiss and Rorke photographs: Holy Land</field>
+@@ -21,7 +21,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+-    <field name="collection_teim">Jus Addiss and Hayden Rorke "This is the Army" travel photographs</field>
++    <field name="collection_teim">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
++    <field name="author_teim">Joseph Ditta (August 2023)</field>
+     <field name="collection_unitid_teim">PR 462</field>
+     <field name="series_si">Addiss and Rorke photographs: Holy Land</field>
+     <field name="heading_ssm">Addiss and Rorke photographs: Holy Land</field>

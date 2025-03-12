@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Old Spire, New Towers&lt;/em&gt;</field>
+     <field name="unittitle_teim">Old Spire, New Towers</field>
+     <field name="unitdate_teim">1976</field>
+-    <field name="scopecontent_teim">"St. Paul's, Trinity Parish, Erected 1766. Broadway at Fulton Street, New York." World Trade Center towers rise behind St. Paul's.</field>
++    <field name="scopecontent_teim">&#34;St. Paul&#39;s, Trinity Parish, Erected 1766. Broadway at Fulton Street, New York.&#34; World Trade Center towers rise behind St. Paul&#39;s.</field>
+     <field name="ref_ssi">aspace_4e09a40299513d69c7dec914d878a55c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Folder: FF-1</field>
+     <field name="location_si">Folder: FF-1</field>
+     <field name="collection_teim">Gerald K. Geerlings prints</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 390</field>
+     <field name="series_si">&lt;em&gt;Old Spire, New Towers&lt;/em&gt;</field>
+     <field name="heading_ssm">Old Spire, New Towers</field>

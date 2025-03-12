@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1798/1832</field>
+     <field name="unitdate_inclusive_teim">1798-1832</field>
+     <field name="scopecontent_teim">Series 4: Financial Documents is arranged chronologically.</field>
+-    <field name="scopecontent_teim">Series 4 consists of documents related to finance including a land grant signed by James Monroe, Taylor's Power of Attorney to his wife, Jane (Hodges) Taylor, business arrangements which include his father-in-law John Hodges, receipts, stock certificates, indentures and deeds.</field>
++    <field name="scopecontent_teim">Series 4 consists of documents related to finance including a land grant signed by James Monroe, Taylor&#39;s Power of Attorney to his wife, Jane (Hodges) Taylor, business arrangements which include his father-in-law John Hodges, receipts, stock certificates, indentures and deeds.</field>
+     <field name="ref_ssi">aspace_ref4_wm2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">John W. Taylor Papers</field>
++    <field name="author_teim">Margaret Bausman</field>
+     <field name="collection_unitid_teim">MS 615</field>
+     <field name="series_si">Series 4: Financial Documents</field>
+     <field name="heading_ssm">Series 4: Financial Documents</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Simpson, Matthew, ed. "Cyclopædia of Methodism." Fifth revised edition</field>
+-    <field name="unittitle_teim">Simpson, Matthew, ed. "Cyclopædia of Methodism." Fifth revised edition</field>
++    <field name="unittitle_ssm">Simpson, Matthew, ed. &#34;Cyclopædia of Methodism.&#34; Fifth revised edition</field>
++    <field name="unittitle_teim">Simpson, Matthew, ed. &#34;Cyclopædia of Methodism.&#34; Fifth revised edition</field>
+     <field name="unitdate_inclusive_teim">1882</field>
+     <field name="ref_ssi">aspace_099c136f8802ff59e9c9862ab01f8eb0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 19, Volume: SN-158</field>
+     <field name="location_si">Offsite-Box: 19, Volume: SN-158</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Simpson, Matthew, ed. "Cyclopædia of Methodism." Fifth revised edition</field>
+-    <field name="heading_ssm">Simpson, Matthew, ed. "Cyclopædia of Methodism." Fifth revised edition</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Simpson, Matthew, ed. &#34;Cyclopædia of Methodism.&#34; Fifth revised edition</field>
++    <field name="heading_ssm">Simpson, Matthew, ed. &#34;Cyclopædia of Methodism.&#34; Fifth revised edition</field>
+     <field name="unitdate_ssm">Inclusive, 1882</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">168</field>

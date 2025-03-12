@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Staff Organizations</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 18</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries III.A. President's Files</field>
+-    <field name="unittitle_teim">Subseries III.A. President's Files</field>
++    <field name="unittitle_ssm">Subseries III.A. President&#39;s Files</field>
++    <field name="unittitle_teim">Subseries III.A. President&#39;s Files</field>
+     <field name="unitdate_inclusive_teim">1980-2005</field>
+     <field name="scopecontent_teim">Dick Stolley, whose materials from time as TLAS president are included, was an editor at various Time Inc. publications for over 40 years. His most notable moment was when he, as Life magazine editor, negotiated to purchase rights to the Zapruder film of the Kennedy assassination. Materials are dated from 2000 to 2005 and contain materials such as news clippings or personal letters from TLAS members, obituaries regarding past TLAS members, and internal correspondence or memos regarding TLAS activities.</field>
+     <field name="title_teim">Life</field>
+@@ -26,10 +26,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Time Inc. Staff Organizations</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 18</field>
+     <field name="series_sim">Series III. Time-Life Alumni Society (TLAS) Collection</field>
+-    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.A. President's Files</field>
+-    <field name="heading_ssm">Subseries III.A. President's Files</field>
++    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.A. President&#39;s Files</field>
++    <field name="heading_ssm">Subseries III.A. President&#39;s Files</field>
+     <field name="unitdate_ssm">Inclusive, 1980-2005</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">85</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bible and Fruit Mission to the Public Hospitals of New York City records</field>
+     <field name="collection_unitid_ssm">MS 59</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Article from &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Article from Frank Leslie's Illustrated Newspaper</field>
++    <field name="unittitle_ssm">Article from &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">Article from Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_teim">1877 May 5</field>
+     <field name="scopecontent_teim">Formerly in Box 1, Folder 1, but removed to an oversize container.</field>
+     <field name="ref_ssi">aspace_ref9_g8k</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: Oversize-Small</field>
+     <field name="location_si">Folder: Oversize-Small</field>
+     <field name="collection_teim">Bible and Fruit Mission to the Public Hospitals of New York City records</field>
++    <field name="author_teim">Ann Christiansen</field>
+     <field name="collection_unitid_teim">MS 59</field>
+     <field name="series_sim">Series I. Administration Records</field>
+-    <field name="series_si">Series I. Administration Records &gt;&gt; Article from &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">Article from Frank Leslie's Illustrated Newspaper</field>
++    <field name="series_si">Series I. Administration Records &gt;&gt; Article from &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">Article from Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_ssm">1877 May 5</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

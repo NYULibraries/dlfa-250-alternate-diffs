@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,8 +15,8 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Scherschel, Frank</field>
+     <field name="unittitle_teim">Scherschel, Frank</field>
+-    <field name="scopecontent_teim">1 videocassette (VHS). On label: "Master Copy. The Research Center, Time Inc. Scherschel Interview 10/22/93."</field>
+-    <field name="scopecontent_teim">1 videocassette (VHS). On label: "The Research Center, Time Inc. Scherschel Interview 10/22/93."</field>
++    <field name="scopecontent_teim">1 videocassette (VHS). On label: &#34;Master Copy. The Research Center, Time Inc. Scherschel Interview 10/22/93.&#34;</field>
++    <field name="scopecontent_teim">1 videocassette (VHS). On label: &#34;The Research Center, Time Inc. Scherschel Interview 10/22/93.&#34;</field>
+     <field name="ref_ssi">aspace_ref288_4ks</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 2199, item: 23-24</field>
+     <field name="location_si">Offsite-Box: 2199, item: 23-24</field>
+     <field name="collection_teim">Time Inc. Life Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 9</field>
+     <field name="series_sim">Series IX. John Loengard Interview Project Videotapes [RESTRICTED]</field>
+     <field name="series_si">Series IX. John Loengard Interview Project Videotapes [RESTRICTED] &gt;&gt; Scherschel, Frank</field>

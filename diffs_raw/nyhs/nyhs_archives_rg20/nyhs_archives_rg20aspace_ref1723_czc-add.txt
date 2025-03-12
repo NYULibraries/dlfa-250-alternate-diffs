@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 20</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Society's Sculpture</field>
+-    <field name="unittitle_teim">Society's Sculpture</field>
++    <field name="unittitle_ssm">Society&#39;s Sculpture</field>
++    <field name="unittitle_teim">Society&#39;s Sculpture</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref1723_czc</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 100, Folder: 26</field>
+     <field name="location_si">Offsite-Box: 100, Folder: 26</field>
+     <field name="collection_teim">New-York Historical Society Museum Department records</field>
++    <field name="author_teim">Margaret Kaczorowski, Katherine Palm and Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 20</field>
+     <field name="series_sim">Series III. Curatorial and Administration Files</field>
+     <field name="series_sim">Subseries III.C. Mary Black Files</field>
+-    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.C. Mary Black Files &gt;&gt; Society's Sculpture</field>
+-    <field name="heading_ssm">Society's Sculpture</field>
++    <field name="series_si">Series III. Curatorial and Administration Files &gt;&gt; Subseries III.C. Mary Black Files &gt;&gt; Society&#39;s Sculpture</field>
++    <field name="heading_ssm">Society&#39;s Sculpture</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">832</field>

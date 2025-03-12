@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,12 +5,12 @@
+     <field name="ead_ssi">ms464_henry_oreilly</field>
+     <field name="parent_ssi">aspace_ref840_u4n</field>
+     <field name="parent_ssm">aspace_ref840_u4n</field>
+-    <field name="parent_unittitles_ssm">Series XV: Irish &amp; American Steamship Company, 1851</field>
+-    <field name="parent_unittitles_teim">Series XV: Irish &amp; American Steamship Company, 1851</field>
++    <field name="parent_unittitles_ssm">Series XV: Irish &amp;amp; American Steamship Company, 1851</field>
++    <field name="parent_unittitles_teim">Series XV: Irish &amp;amp; American Steamship Company, 1851</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Henry O'Reilly papers</field>
+-    <field name="collection_ssm">Henry O'Reilly papers</field>
++    <field name="collection_sim">Henry O&#39;Reilly papers</field>
++    <field name="collection_ssm">Henry O&#39;Reilly papers</field>
+     <field name="collection_unitid_ssm">MS 464</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Irish &amp; American Steamship Company</field>
+@@ -27,9 +27,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 43, Folder: 24</field>
+     <field name="location_si">Box: 43, Folder: 24</field>
+-    <field name="collection_teim">Henry O'Reilly papers</field>
++    <field name="collection_teim">Henry O&#39;Reilly papers</field>
++    <field name="author_teim">Rohinie J. Munzel</field>
+     <field name="collection_unitid_teim">MS 464</field>
+-    <field name="series_sim">Series XV: Irish &amp; American Steamship Company, 1851</field>
++    <field name="series_sim">Series XV: Irish &amp;amp; American Steamship Company, 1851</field>
+     <field name="series_si">Series XV: Irish &amp; American Steamship Company, 1851 &gt;&gt; Irish &amp; American Steamship Company</field>
+     <field name="heading_ssm">Irish &amp; American Steamship Company</field>
+     <field name="unitdate_start_sim">1851</field>

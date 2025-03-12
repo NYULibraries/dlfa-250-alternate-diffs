@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Life Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 26</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Subscribers' Attitudes to &lt;em&gt;Time&lt;/em&gt; and &lt;em&gt;Life&lt;/em&gt; Magazines</field>
+-    <field name="unittitle_teim">Subscribers' Attitudes to Time and Life Magazines</field>
++    <field name="unittitle_ssm">Subscribers&#39; Attitudes to &lt;em&gt;Time&lt;/em&gt; and &lt;em&gt;Life&lt;/em&gt; Magazines</field>
++    <field name="unittitle_teim">Subscribers&#39; Attitudes to Time and Life Magazines</field>
+     <field name="unitdate_inclusive_teim">1963</field>
+     <field name="title_teim">Time</field>
+     <field name="title_teim">Life</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Offsite-Box: 3034, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 3034, Folder: 14</field>
+     <field name="collection_teim">Time Inc. Life Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 26</field>
+     <field name="series_sim">Series IV. Market Research Department Files</field>
+-    <field name="series_si">Series IV. Market Research Department Files &gt;&gt; Subscribers' Attitudes to &lt;em&gt;Time&lt;/em&gt; and &lt;em&gt;Life&lt;/em&gt; Magazines</field>
+-    <field name="heading_ssm">Subscribers' Attitudes to Time and Life Magazines</field>
++    <field name="series_si">Series IV. Market Research Department Files &gt;&gt; Subscribers&#39; Attitudes to &lt;em&gt;Time&lt;/em&gt; and &lt;em&gt;Life&lt;/em&gt; Magazines</field>
++    <field name="heading_ssm">Subscribers&#39; Attitudes to Time and Life Magazines</field>
+     <field name="unitdate_ssm">Inclusive, 1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">429</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Martha J. Lamb papers</field>
+     <field name="collection_unitid_ssm">MS 362</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Small key, "top drawer in cheffonier" [sic]</field>
+-    <field name="unittitle_teim">Small key, "top drawer in cheffonier" [sic]</field>
++    <field name="unittitle_ssm">Small key, &#34;top drawer in cheffonier&#34; [sic]</field>
++    <field name="unittitle_teim">Small key, &#34;top drawer in cheffonier&#34; [sic]</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref263_lem</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 17, Folder: 9</field>
+     <field name="location_si">Box: 17, Folder: 9</field>
+     <field name="collection_teim">Martha J. Lamb papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 362</field>
+     <field name="series_sim">Series XIX. Artifacts</field>
+-    <field name="series_si">Series XIX. Artifacts &gt;&gt; Small key, "top drawer in cheffonier" [sic]</field>
+-    <field name="heading_ssm">Small key, "top drawer in cheffonier" [sic]</field>
++    <field name="series_si">Series XIX. Artifacts &gt;&gt; Small key, &#34;top drawer in cheffonier&#34; [sic]</field>
++    <field name="heading_ssm">Small key, &#34;top drawer in cheffonier&#34; [sic]</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">239</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Benefit binders</field>
+     <field name="unittitle_teim">Benefit binders</field>
+     <field name="unitdate_inclusive_teim">2003-2006</field>
+-    <field name="scopecontent_teim">Primarily photos with some "process" and publicity</field>
++    <field name="scopecontent_teim">Primarily photos with some &#34;process&#34; and publicity</field>
+     <field name="ref_ssi">aspace_1ef1dcfba1eb10315bc06bd28825a004</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 33</field>
+     <field name="location_si">Offsite-Box: 33</field>
+     <field name="collection_teim">CITYarts Inc. records</field>
++    <field name="author_teim">Sydney Bebon and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3096</field>
+     <field name="series_sim">Series III. General Program Administration Files</field>
+     <field name="series_si">Series III. General Program Administration Files &gt;&gt; Benefit binders</field>

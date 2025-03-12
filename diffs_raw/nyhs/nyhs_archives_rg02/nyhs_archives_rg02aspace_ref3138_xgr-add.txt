@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society general correspondence</field>
+     <field name="collection_unitid_ssm">NYHS-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Correspondence 1938-1942. Wills, Louis C.</field>
+-    <field name="unittitle_teim">Correspondence 1938-1942. Wills, Louis C.</field>
++    <field name="unittitle_ssm">Correspondence 1938-1942. Wills, Louis C. </field>
++    <field name="unittitle_teim">Correspondence 1938-1942. Wills, Louis C. </field>
+     <field name="unitdate_teim">1938-1942</field>
+-    <field name="scopecontent_teim">Louis C. Wills was a member of the Nominating Committee for the Board of Trustees. Concerns the nomination of Norvin H. Green (nephew of Erskine Hewitt) and others; includes a list of the N-YHS's activities between Board meetings in August 1942 which mentions the East Hampton Memorial Homestead.</field>
++    <field name="scopecontent_teim">Louis C. Wills was a member of the Nominating Committee for the Board of Trustees. Concerns the nomination of Norvin H. Green (nephew of Erskine Hewitt) and others; includes a list of the N-YHS&#39;s activities between Board meetings in August 1942 which mentions the East Hampton Memorial Homestead.</field>
+     <field name="ref_ssi">aspace_ref3138_xgr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 215, Folder: 8</field>
+     <field name="location_si">Box: 215, Folder: 8</field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series IV. General Correspondence</field>
+-    <field name="series_si">Series IV. General Correspondence &gt;&gt; Correspondence 1938-1942. Wills, Louis C.</field>
+-    <field name="heading_ssm">Correspondence 1938-1942. Wills, Louis C.</field>
++    <field name="series_si">Series IV. General Correspondence &gt;&gt; Correspondence 1938-1942. Wills, Louis C. </field>
++    <field name="heading_ssm">Correspondence 1938-1942. Wills, Louis C. </field>
+     <field name="unitdate_ssm">1938-1942</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1941</field>

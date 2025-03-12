@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Family Correspondents. Alice to Edgar</field>
+     <field name="unittitle_teim">Family Correspondents. Alice to Edgar</field>
+     <field name="unitdate_inclusive_teim">1947</field>
+-    <field name="scopecontent_teim">Many letters from Alice to Edgar as he traveled overseas, conveying updates about the family, social gossip, and her own efforts at starting a career. Edgar's father died while Baker was on his long trip and Alice refers to that in at least one of her later letters.</field>
++    <field name="scopecontent_teim">Many letters from Alice to Edgar as he traveled overseas, conveying updates about the family, social gossip, and her own efforts at starting a career. Edgar&#39;s father died while Baker was on his long trip and Alice refers to that in at least one of her later letters.</field>
+     <field name="ref_ssi">aspace_8459539c1616f2784a0672f63a1b79f4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 10</field>
+     <field name="location_si">Box: 4, Folder: 10</field>
+     <field name="collection_teim">Edgar R. Baker papers</field>
++    <field name="author_teim">Larry Weimer and Duncan Knox</field>
+     <field name="collection_unitid_teim">MS 3156</field>
+     <field name="series_sim">Series III. Correspondence, Personal</field>
+     <field name="series_si">Series III. Correspondence, Personal &gt;&gt; Family Correspondents. Alice to Edgar</field>

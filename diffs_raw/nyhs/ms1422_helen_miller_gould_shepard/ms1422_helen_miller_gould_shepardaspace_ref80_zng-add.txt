@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1814/1935</field>
+     <field name="unitdate_normal_sim">1814/1935</field>
+     <field name="unitdate_inclusive_teim">1814-1935, undated</field>
+-    <field name="scopecontent_teim">Series VI: Visual Material contains photographs, photographic negatives, and photostat copies of church documents and certificates of Helen Miller Gould Shepard's wedding. Two photographs depict Jay Gould as a young man and in adulthood and one depicts Helen's mother, Helen Day Miller. The negatives show Helen Miller Gould with unidentified family members.</field>
++    <field name="scopecontent_teim">Series VI: Visual Material contains photographs, photographic negatives, and photostat copies of church documents and certificates of Helen Miller Gould Shepard&#39;s wedding. Two photographs depict Jay Gould as a young man and in adulthood and one depicts Helen&#39;s mother, Helen Day Miller. The negatives show Helen Miller Gould with unidentified family members.</field>
+     <field name="ref_ssi">aspace_ref80_zng</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">The Helen Miller Gould Shepard Papers</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">MS 1422</field>
+     <field name="series_si">Series VI: Visual Material</field>
+     <field name="heading_ssm">Series VI: Visual Material</field>

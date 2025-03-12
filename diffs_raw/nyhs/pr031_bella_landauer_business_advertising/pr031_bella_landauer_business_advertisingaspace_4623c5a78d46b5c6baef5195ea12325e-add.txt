@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,13 +19,15 @@
+     <field name="unittitle_ssm">Drugs and Medicines</field>
+     <field name="unittitle_teim">Drugs and Medicines</field>
+     <field name="scopecontent_teim">Sanatariums</field>
+-    <field name="scopecontent_teim">Sexual disorders and diseases</field>
+-    <field name="scopecontent_teim">Specific aids:</field>
++    <field name="scopecontent_teim">
++Sexual disorders and diseases</field>
++    <field name="scopecontent_teim">
++Specific aids:</field>
+     <field name="scopecontent_teim">Crutches</field>
+     <field name="scopecontent_teim">Disinfectants</field>
+     <field name="scopecontent_teim">First aid</field>
+     <field name="scopecontent_teim">Habits cured</field>
+-    <field name="scopecontent_teim">Invalid's aids</field>
++    <field name="scopecontent_teim">Invalid&#39;s aids</field>
+     <field name="scopecontent_teim">Opiate prescription forms</field>
+     <field name="scopecontent_teim">Prosthetics</field>
+     <field name="scopecontent_teim">Surgical instruments</field>
+@@ -40,6 +42,7 @@
+     <field name="location_ssm">Offsite-Box: 46</field>
+     <field name="location_si">Offsite-Box: 46</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

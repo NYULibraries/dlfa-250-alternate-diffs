@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries I.2: Unidentified Programs</field>
+     <field name="unittitle_teim">Subseries I.2: Unidentified Programs</field>
+-    <field name="scopecontent_teim">Although not labeled as such, it appears that the majority of the portraits of children and of mothers with their children are from the "Temporary Shelter" and the "Crisis Nursery" programs.</field>
++    <field name="scopecontent_teim">Although not labeled as such, it appears that the majority of the portraits of children and of mothers with their children are from the &#34;Temporary Shelter&#34; and the &#34;Crisis Nursery&#34; programs.</field>
+     <field name="ref_ssi">aspace_ref64_z75</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Claire Yaffa New York Foundling Hospital photographs</field>
++    <field name="author_teim">Twila Rios</field>
+     <field name="collection_unitid_teim">PR 299</field>
+     <field name="series_sim">Series I: Photographs</field>
+     <field name="series_si">Series I: Photographs &gt;&gt; Subseries I.2: Unidentified Programs</field>

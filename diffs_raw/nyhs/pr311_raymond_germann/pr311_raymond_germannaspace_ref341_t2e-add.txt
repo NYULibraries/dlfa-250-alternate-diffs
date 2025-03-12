@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Raymond Germann Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 311</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[335] Teitel's Italian grocery store, Arthur Avenue, the Bronx</field>
+-    <field name="unittitle_teim">[335] Teitel's Italian grocery store, Arthur Avenue, the Bronx</field>
++    <field name="unittitle_ssm">[335] Teitel&#39;s Italian grocery store, Arthur Avenue, the Bronx</field>
++    <field name="unittitle_teim">[335] Teitel&#39;s Italian grocery store, Arthur Avenue, the Bronx</field>
+     <field name="unitdate_teim">2015</field>
+     <field name="ref_ssi">aspace_ref341_t2e</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 5, Folder: 10</field>
+     <field name="location_si">Box: 5, Folder: 10</field>
+     <field name="collection_teim">Raymond Germann Photograph Collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 311</field>
+-    <field name="series_si">[335] Teitel's Italian grocery store, Arthur Avenue, the Bronx</field>
+-    <field name="heading_ssm">[335] Teitel's Italian grocery store, Arthur Avenue, the Bronx</field>
++    <field name="series_si">[335] Teitel&#39;s Italian grocery store, Arthur Avenue, the Bronx</field>
++    <field name="heading_ssm">[335] Teitel&#39;s Italian grocery store, Arthur Avenue, the Bronx</field>
+     <field name="unitdate_ssm">2015</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">334</field>

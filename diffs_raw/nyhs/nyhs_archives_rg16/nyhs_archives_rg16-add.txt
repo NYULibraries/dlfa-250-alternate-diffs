@@ -1,0 +1,75 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">New-York Historical Society bequests, gifts and related matters</field>
+     <field name="unitid_teim">NYHS-RG 16</field>
+     <field name="unitid_ssm">NYHS-RG 16</field>
+-    <field name="abstract_teim">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. The record group also includes files of some donations of objects and funds from donors during their lifetimes, as well as some purchases. The record group includes files on some of the most important patrons and objects in N-YHS's history.</field>
+-    <field name="abstract_ssm">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. The record group also includes files of some donations of objects and funds from donors during their lifetimes, as well as some purchases. The record group includes files on some of the most important patrons and objects in N-YHS's history.</field>
++    <field name="abstract_teim">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. The record group also includes files of some donations of objects and funds from donors during their lifetimes, as well as some purchases. The record group includes files on some of the most important patrons and objects in N-YHS&#39;s history.</field>
++    <field name="abstract_ssm">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. The record group also includes files of some donations of objects and funds from donors during their lifetimes, as well as some purchases. The record group includes files on some of the most important patrons and objects in N-YHS&#39;s history.</field>
+     <field name="creator_teim">New-York Historical Society</field>
+     <field name="creator_ssm">New-York Historical Society</field>
+     <field name="creator_ssm">New-York Historical Society</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_inclusive_teim">1852-1992</field>
+     <field name="scopecontent_teim">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. In some instances, N-YHS was named as a residuary legatee or specified conditions needed to be met to receive the bequest. In yet other instances, N-YHS renounced the bequest.</field>
+     <field name="scopecontent_teim">In addition to bequests, the series also includes records of some donations of objects and funds from donors during their lifetimes, as well as of items placed on deposit with N-YHS. Some purchases are also documented in the series. The files most commonly hold correspondence, wills and codicils or abstracts of same, Surrogate Court notices and filings, and receipts. Many files also hold inventories, appraisals, agreements related to purchases, deposits or other transactions, and other documents.</field>
+-    <field name="scopecontent_teim">The record group includes files on some of the major patrons and objects in N-YHS's history, including the Beekmans, Belknaps, Thomas J. Bryan, Crawford's sculpture The Indian, the Gallatin family, Cass Gilbert drawings, the Livingstons, Katharine Prentis Murphy, James Lenox's Nineveh sculptures, Katherine R. Rogers, the Thompson family, and many others. The container list includes a detailed inventory of the files.</field>
++    <field name="scopecontent_teim">The record group includes files on some of the major patrons and objects in N-YHS&#39;s history, including the Beekmans, Belknaps, Thomas J. Bryan, Crawford&#39;s sculpture The Indian, the Gallatin family, Cass Gilbert drawings, the Livingstons, Katharine Prentis Murphy, James Lenox&#39;s Nineveh sculptures, Katherine R. Rogers, the Thompson family, and many others. The container list includes a detailed inventory of the files.</field>
+     <field name="corpname_teim">New-York Historical Society</field>
+     <field name="corpname_teim">New-York Historical Society</field>
+     <field name="corpname_teim">New-York Historical Society -- Archives.</field>
+@@ -30,21 +30,21 @@
+     <field name="genreform_ssm">Legal documents.</field>
+     <field name="genreform_ssm">Letters (correspondence)</field>
+     <field name="genreform_ssm">Wills.</field>
+-    <field name="subject_teim">Acquisitions (Libraries) -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Courts -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Lawyers -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Libraries -- Gifts, legacies.</field>
+-    <field name="subject_teim">Museums -- Acquisitions -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Acquisitions (Libraries) -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Courts -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Lawyers -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Libraries -- Gifts, legacies.</field>
+-    <field name="subject_teim">Museums -- Acquisitions -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">Acquisitions (Libraries) -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">Courts -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">Lawyers -- New York (State) -- New York.</field>
++    <field name="subject_teim">Acquisitions (Libraries) -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Courts -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Lawyers -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Libraries -- Gifts, legacies.</field>
++    <field name="subject_teim">Museums -- Acquisitions -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Acquisitions (Libraries) -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Courts -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Lawyers -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Libraries -- Gifts, legacies.</field>
++    <field name="subject_teim">Museums -- Acquisitions -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Acquisitions (Libraries) -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Courts -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Lawyers -- New York (State)  -- New York. </field>
+     <field name="subject_ssm">Libraries -- Gifts, legacies.</field>
+-    <field name="subject_ssm">Museums -- Acquisitions -- New York (State) -- New York.</field>
++    <field name="subject_ssm">Museums -- Acquisitions -- New York (State)  -- New York. </field>
+     <field name="collection_sim">New-York Historical Society bequests, gifts and related matters</field>
+     <field name="collection_ssm">New-York Historical Society bequests, gifts and related matters</field>
+     <field name="collection_teim">New-York Historical Society bequests, gifts and related matters</field>
+@@ -61,11 +61,11 @@
+     <field name="name_sim">New-York Historical Society -- Archives.</field>
+     <field name="name_teim">New-York Historical Society</field>
+     <field name="name_teim">New-York Historical Society -- Archives.</field>
+-    <field name="subject_sim">Acquisitions (Libraries) -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Courts -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Lawyers -- New York (State) -- New York.</field>
++    <field name="subject_sim">Acquisitions (Libraries) -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Courts -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Lawyers -- New York (State)  -- New York. </field>
+     <field name="subject_sim">Libraries -- Gifts, legacies.</field>
+-    <field name="subject_sim">Museums -- Acquisitions -- New York (State) -- New York.</field>
++    <field name="subject_sim">Museums -- Acquisitions -- New York (State)  -- New York. </field>
+     <field name="material_type_sim">Bequests</field>
+     <field name="material_type_sim">Legal documents.</field>
+     <field name="material_type_sim">Letters (correspondence)</field>

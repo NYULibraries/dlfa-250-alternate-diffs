@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Gramercy Neighborhood Associates records</field>
+     <field name="collection_unitid_ssm">PR 370</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Maurice, Arthur B. "Literary Landmarks of New York," &lt;em&gt;The Mentor&lt;/em&gt;, vol. 8, no. 15 (serial no. 211)</field>
+-    <field name="unittitle_teim">Maurice, Arthur B. "Literary Landmarks of New York," The Mentor, vol. 8, no. 15 (serial no. 211)</field>
++    <field name="unittitle_ssm">Maurice, Arthur B. &#34;Literary Landmarks of New York,&#34; &lt;em&gt;The Mentor&lt;/em&gt;, vol. 8, no. 15 (serial no. 211)</field>
++    <field name="unittitle_teim">Maurice, Arthur B. &#34;Literary Landmarks of New York,&#34; The Mentor, vol. 8, no. 15 (serial no. 211)</field>
+     <field name="unitdate_inclusive_teim">1920 September 15</field>
+     <field name="ref_ssi">aspace_3552315d6a783f8432f7fd6bbb3f731f</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 8, Folder: 18</field>
+     <field name="location_si">Box: 8, Folder: 18</field>
+     <field name="collection_teim">Gramercy Neighborhood Associates records</field>
++    <field name="author_teim">Zora Arum (2018) and Joseph Ditta (2020–2021)</field>
+     <field name="collection_unitid_teim">PR 370</field>
+     <field name="series_sim">Series V. Print matter</field>
+     <field name="series_sim">Subseries V.A. Books and pamphlets</field>
+-    <field name="series_si">Series V. Print matter &gt;&gt; Subseries V.A. Books and pamphlets &gt;&gt; Maurice, Arthur B. "Literary Landmarks of New York," &lt;em&gt;The Mentor&lt;/em&gt;, vol. 8, no. 15 (serial no. 211)</field>
+-    <field name="heading_ssm">Maurice, Arthur B. "Literary Landmarks of New York," The Mentor, vol. 8, no. 15 (serial no. 211)</field>
++    <field name="series_si">Series V. Print matter &gt;&gt; Subseries V.A. Books and pamphlets &gt;&gt; Maurice, Arthur B. &#34;Literary Landmarks of New York,&#34; &lt;em&gt;The Mentor&lt;/em&gt;, vol. 8, no. 15 (serial no. 211)</field>
++    <field name="heading_ssm">Maurice, Arthur B. &#34;Literary Landmarks of New York,&#34; The Mentor, vol. 8, no. 15 (serial no. 211)</field>
+     <field name="unitdate_ssm">Inclusive, 1920 September 15</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">138</field>

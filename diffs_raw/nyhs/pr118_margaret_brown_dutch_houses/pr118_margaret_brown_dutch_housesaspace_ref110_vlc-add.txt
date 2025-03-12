@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Margaret Brown Dutch houses photograph collection</field>
+     <field name="collection_unitid_ssm">PR 118</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">R-124, King's Highway</field>
+-    <field name="unittitle_teim">R-124, King's Highway</field>
++    <field name="unittitle_ssm">R-124, King&#39;s Highway</field>
++    <field name="unittitle_teim">R-124, King&#39;s Highway</field>
+     <field name="unitdate_teim">[1920-1929]</field>
+     <field name="ref_ssi">aspace_ref110_vlc</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 3, Folder: 252-253</field>
+     <field name="location_si">Box: 3, Folder: 252-253</field>
+     <field name="collection_teim">Margaret Brown Dutch houses photograph collection</field>
++    <field name="author_teim">Ricky Hunter and Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 118</field>
+     <field name="series_sim">Series I. Dutch Houses in the Hudson Valley Before 1776</field>
+     <field name="series_sim">Dutchess County, NY</field>
+-    <field name="series_si">Series I. Dutch Houses in the Hudson Valley Before 1776 &gt;&gt; Dutchess County, NY &gt;&gt; R-124, King's Highway</field>
+-    <field name="heading_ssm">R-124, King's Highway</field>
++    <field name="series_si">Series I. Dutch Houses in the Hudson Valley Before 1776 &gt;&gt; Dutchess County, NY &gt;&gt; R-124, King&#39;s Highway</field>
++    <field name="heading_ssm">R-124, King&#39;s Highway</field>
+     <field name="unitdate_ssm">[1920-1929]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">97</field>

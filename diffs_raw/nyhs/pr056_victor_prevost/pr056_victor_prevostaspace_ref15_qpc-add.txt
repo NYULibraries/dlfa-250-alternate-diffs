@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor Prevost Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 56</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">All Soul's Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
+-    <field name="unittitle_teim">All Soul's Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
++    <field name="unittitle_ssm">All Soul&#39;s Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
++    <field name="unittitle_teim">All Soul&#39;s Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
+     <field name="unitdate_teim">1856</field>
+     <field name="title_teim">VP 1856</field>
+     <field name="title_ssm">VP 1856</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1</field>
+     <field name="collection_teim">Victor Prevost Photograph Collection</field>
++    <field name="author_teim">Emily Wolff, Sandra Markham, and Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 56</field>
+     <field name="series_sim">Series I: Original Negatives</field>
+-    <field name="series_si">Series I: Original Negatives &gt;&gt; All Soul's Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
+-    <field name="heading_ssm">All Soul's Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
++    <field name="series_si">Series I: Original Negatives &gt;&gt; All Soul&#39;s Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
++    <field name="heading_ssm">All Soul&#39;s Unitarian Church, 20th St. &amp; 4th Avenue, showing foundation laid for spire</field>
+     <field name="unitdate_ssm">1856</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

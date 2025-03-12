@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society Records</field>
+     <field name="collection_unitid_ssm">MS 439.53</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">List of members to receive volume "Quasi War with France"</field>
+-    <field name="unittitle_teim">List of members to receive volume "Quasi War with France"</field>
++    <field name="unittitle_ssm">List of members to receive volume &#34;Quasi War with France&#34;</field>
++    <field name="unittitle_teim">List of members to receive volume &#34;Quasi War with France&#34;</field>
+     <field name="unitdate_teim">1936</field>
+     <field name="ref_ssi">aspace_ref273_5b6</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 21, Folder: 8</field>
+     <field name="location_si">Box: 21, Folder: 8</field>
+     <field name="collection_teim">Naval History Society Records</field>
++    <field name="author_teim">Celia Hartmann</field>
+     <field name="collection_unitid_teim">MS 439.53</field>
+     <field name="series_sim">Series III: Membership records (1910-1943)</field>
+-    <field name="series_si">Series III: Membership records (1910-1943) &gt;&gt; List of members to receive volume "Quasi War with France"</field>
+-    <field name="heading_ssm">List of members to receive volume "Quasi War with France"</field>
++    <field name="series_si">Series III: Membership records (1910-1943) &gt;&gt; List of members to receive volume &#34;Quasi War with France&#34;</field>
++    <field name="heading_ssm">List of members to receive volume &#34;Quasi War with France&#34;</field>
+     <field name="unitdate_ssm">1936</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">256</field>

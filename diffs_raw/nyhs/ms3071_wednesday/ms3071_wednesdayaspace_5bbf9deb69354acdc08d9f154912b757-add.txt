@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Letters from Agnes Repplier</field>
+     <field name="unittitle_teim">Letters from Agnes Repplier</field>
+     <field name="unitdate_inclusive_teim">1923</field>
+-    <field name="scopecontent_teim">Contains three letters from essayist Agnes Repplier (1855-1950) regarding her upcoming lecture to the Wednesday Club, "The Failure of Success," on 16 January 1924. In the last letter, Repplier jokes that she will send a line the day before the lecture to let the club's president know she had not died in the interval.</field>
++    <field name="scopecontent_teim">Contains three letters from essayist Agnes Repplier (1855-1950) regarding her upcoming lecture to the Wednesday Club, &#34;The Failure of Success,&#34; on 16 January 1924. In the last letter, Repplier jokes that she will send a line the day before the lecture to let the club&#39;s president know she had not died in the interval.</field>
+     <field name="ref_ssi">aspace_5bbf9deb69354acdc08d9f154912b757</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 24</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 24</field>
+     <field name="collection_teim">Wednesday Club records</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3071</field>
+     <field name="series_sim">Series IV. Correspondence</field>
+     <field name="series_si">Series IV. Correspondence &gt;&gt; Letters from Agnes Repplier</field>

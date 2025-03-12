@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Statuary</field>
+     <field name="unittitle_teim">Statuary</field>
+-    <field name="scopecontent_teim">includes an image of the 1991 American Merchant Mariner's Memorial at Battery Park, which depicts three merchant seamen stranded on a sinking ship, calling for help and trying to reach the hand of one of their shipmates in the water below.</field>
++    <field name="scopecontent_teim">includes an image of the 1991 American Merchant Mariner&#39;s Memorial at Battery Park, which depicts  three merchant seamen stranded on a sinking ship,  calling for help and trying to reach the hand of one of their shipmates in the water below.</field>
+     <field name="ref_ssi">aspace_ref10_t6l</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Box: 1, Folder: 10</field>
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="collection_teim">Julian Hyman Photograph Collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 320</field>
+     <field name="series_si">Statuary</field>
+     <field name="heading_ssm">Statuary</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1995/1997</field>
+     <field name="unitdate_normal_sim">1995/1997</field>
+     <field name="unitdate_inclusive_teim">1995-1997, undated</field>
+-    <field name="scopecontent_teim">This series involves initial planning (1995) and includes copies of funding requests as well as a significant amount of early materials concerning the PBS documentary on New York's history that was planned for October 1998.</field>
++    <field name="scopecontent_teim">This series involves initial planning (1995) and includes copies of funding requests as well as a significant amount of early materials concerning the PBS documentary on New York&#39;s history that was planned for October 1998.</field>
+     <field name="ref_ssi">aspace_ref16_ut3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">The New York City 100 Records</field>
++    <field name="author_teim">Jan Hilley, Machine readable finding aid created by Julianna Monjeau</field>
+     <field name="collection_unitid_teim">MS 444</field>
+     <field name="series_si">Series II: Background &amp; Initial Planning (1995)</field>
+     <field name="heading_ssm">Series II: Background &amp; Initial Planning (1995)</field>

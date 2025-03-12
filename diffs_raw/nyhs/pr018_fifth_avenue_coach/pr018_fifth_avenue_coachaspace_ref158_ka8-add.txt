@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fifth Avenue Coach Company collection</field>
+     <field name="collection_unitid_ssm">PR 18</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Woman's Motor Corps of America</field>
+-    <field name="unittitle_teim">Woman's Motor Corps of America</field>
++    <field name="unittitle_ssm">Woman&#39;s Motor Corps of America</field>
++    <field name="unittitle_teim">Woman&#39;s Motor Corps of America</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref158_ka8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 12, Folder: 79</field>
+     <field name="location_si">Offsite-Box: 12, Folder: 79</field>
+     <field name="collection_teim">Fifth Avenue Coach Company collection</field>
++    <field name="author_teim">Lauren Gilbert</field>
+     <field name="collection_unitid_teim">PR 18</field>
+     <field name="series_sim">Series VI: War Relief Effort</field>
+-    <field name="series_si">Series VI: War Relief Effort &gt;&gt; Woman's Motor Corps of America</field>
+-    <field name="heading_ssm">Woman's Motor Corps of America</field>
++    <field name="series_si">Series VI: War Relief Effort &gt;&gt; Woman&#39;s Motor Corps of America</field>
++    <field name="heading_ssm">Woman&#39;s Motor Corps of America</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">141</field>

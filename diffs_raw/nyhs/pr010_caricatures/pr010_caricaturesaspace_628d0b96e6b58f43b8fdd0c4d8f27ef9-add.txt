@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The New Uncle Sam. John B. [John Bull] (in background): "My Hi, Sammy, Your Popper 'Ardly Knows You!" [U.S. empire in comparison to Britain]</field>
+-    <field name="unittitle_teim">The New Uncle Sam. John B. [John Bull] (in background): "My Hi, Sammy, Your Popper 'Ardly Knows You!" [U.S. empire in comparison to Britain]</field>
++    <field name="unittitle_ssm">The New Uncle Sam. John B. [John Bull] (in background): &#34;My Hi, Sammy, Your Popper &#39;Ardly Knows You!&#34; [U.S. empire in comparison to Britain]</field>
++    <field name="unittitle_teim">The New Uncle Sam. John B. [John Bull] (in background): &#34;My Hi, Sammy, Your Popper &#39;Ardly Knows You!&#34; [U.S. empire in comparison to Britain]</field>
+     <field name="unitdate_teim">1898</field>
+     <field name="scopecontent_teim">Drawing signed by Cory - 98. Reproduced in The Bee.</field>
+     <field name="ref_ssi">aspace_628d0b96e6b58f43b8fdd0c4d8f27ef9</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-127, item: 1898-4</field>
+     <field name="location_si">Folder: FF-127, item: 1898-4</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; The New Uncle Sam. John B. [John Bull] (in background): "My Hi, Sammy, Your Popper 'Ardly Knows You!" [U.S. empire in comparison to Britain]</field>
+-    <field name="heading_ssm">The New Uncle Sam. John B. [John Bull] (in background): "My Hi, Sammy, Your Popper 'Ardly Knows You!" [U.S. empire in comparison to Britain]</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; The New Uncle Sam. John B. [John Bull] (in background): &#34;My Hi, Sammy, Your Popper &#39;Ardly Knows You!&#34; [U.S. empire in comparison to Britain]</field>
++    <field name="heading_ssm">The New Uncle Sam. John B. [John Bull] (in background): &#34;My Hi, Sammy, Your Popper &#39;Ardly Knows You!&#34; [U.S. empire in comparison to Britain]</field>
+     <field name="unitdate_ssm">1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1239</field>

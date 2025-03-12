@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VIII: Robinson Family Documents (1901-1921)</field>
+     <field name="unittitle_teim">Series VIII: Robinson Family Documents (1901-1921)</field>
+-    <field name="scopecontent_teim">This series includes material relating to the Robinson family as a whole as opposed to one particular member of the family. The bulk of the material consists of letters, telegrams, and cards to Dr. Beverley, Anna, Beverley R., Pauline and the younger Anna expressing sympathy after Herman's suicide in 1903. One folder of material details the history of a family home in Garrison, New York which had previously been visited by George Washington and Mrs. Benedict Arnold.</field>
++    <field name="scopecontent_teim">This series includes material relating to the Robinson family as a whole as opposed to one particular member of the family. The bulk of the material consists of letters, telegrams, and cards to Dr. Beverley, Anna, Beverley R., Pauline and the younger Anna expressing sympathy after Herman&#39;s suicide in 1903. One folder of material details the history of a family home in Garrison, New York which had previously been visited by George Washington and Mrs. Benedict Arnold.</field>
+     <field name="ref_ssi">aspace_ref153_4ov</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Robinson Family Papers</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 520, MS 2309</field>
+     <field name="series_si">Series VIII: Robinson Family Documents (1901-1921)</field>
+     <field name="heading_ssm">Series VIII: Robinson Family Documents (1901-1921)</field>

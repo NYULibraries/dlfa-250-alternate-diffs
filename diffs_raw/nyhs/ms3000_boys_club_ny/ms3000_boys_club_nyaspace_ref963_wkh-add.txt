@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="parent_unittitles_teim">Series IX: Digital Media</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Boys' Club of New York records</field>
+-    <field name="collection_ssm">Boys' Club of New York records</field>
++    <field name="collection_sim">Boys&#39; Club of New York records</field>
++    <field name="collection_ssm">Boys&#39; Club of New York records</field>
+     <field name="collection_unitid_ssm">MS 3000</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?) (RESTRICTED)</field>
+-    <field name="unittitle_teim">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?) (RESTRICTED)</field>
++    <field name="unittitle_ssm">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?)  (RESTRICTED)</field>
++    <field name="unittitle_teim">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?)  (RESTRICTED)</field>
+     <field name="ref_ssi">aspace_ref963_wkh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,11 +21,12 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="collection_teim">Boys' Club of New York records</field>
++    <field name="collection_teim">Boys&#39; Club of New York records</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 3000</field>
+     <field name="series_sim">Series IX: Digital Media</field>
+-    <field name="series_si">Series IX: Digital Media &gt;&gt; Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?) (RESTRICTED)</field>
+-    <field name="heading_ssm">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?) (RESTRICTED)</field>
++    <field name="series_si">Series IX: Digital Media &gt;&gt; Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?)  (RESTRICTED)</field>
++    <field name="heading_ssm">Commercial [non-BCNY] films (3 VHS tapes - shown at clubhouse?)  (RESTRICTED)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">917</field>
+   </doc>

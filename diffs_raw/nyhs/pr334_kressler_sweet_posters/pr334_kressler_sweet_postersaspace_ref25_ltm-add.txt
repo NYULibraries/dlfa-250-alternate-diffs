@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Richard Kressler and Laylen Sweet collection of American art posters</field>
+     <field name="collection_unitid_ssm">PR 334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Lippincott's.&lt;/em&gt; "'A Tame Surrender, A History of the Chicago Strike,' by Capt. Chas. King, U.S.A."</field>
+-    <field name="unittitle_teim">Lippincott's. "'A Tame Surrender, A History of the Chicago Strike,' by Capt. Chas. King, U.S.A."</field>
++    <field name="unittitle_ssm">&lt;em&gt;Lippincott&#39;s.&lt;/em&gt; &#34;&#39;A Tame Surrender, A History of the Chicago Strike,&#39; by Capt. Chas. King, U.S.A.&#34;</field>
++    <field name="unittitle_teim">Lippincott&#39;s. &#34;&#39;A Tame Surrender, A History of the Chicago Strike,&#39; by Capt. Chas. King, U.S.A.&#34;</field>
+     <field name="unitdate_teim">1895 March</field>
+     <field name="scopecontent_teim">Artwork by Will Caroueville.</field>
+     <field name="ref_ssi">aspace_ref25_ltm</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Folder: 1, enclosure: 7</field>
+     <field name="location_si">Folder: 1, enclosure: 7</field>
+     <field name="collection_teim">Richard Kressler and Laylen Sweet collection of American art posters</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 334</field>
+-    <field name="series_si">&lt;em&gt;Lippincott's.&lt;/em&gt; "'A Tame Surrender, A History of the Chicago Strike,' by Capt. Chas. King, U.S.A."</field>
+-    <field name="heading_ssm">Lippincott's. "'A Tame Surrender, A History of the Chicago Strike,' by Capt. Chas. King, U.S.A."</field>
++    <field name="series_si">&lt;em&gt;Lippincott&#39;s.&lt;/em&gt; &#34;&#39;A Tame Surrender, A History of the Chicago Strike,&#39; by Capt. Chas. King, U.S.A.&#34;</field>
++    <field name="heading_ssm">Lippincott&#39;s. &#34;&#39;A Tame Surrender, A History of the Chicago Strike,&#39; by Capt. Chas. King, U.S.A.&#34;</field>
+     <field name="unitdate_ssm">1895 March</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

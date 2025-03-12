@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">John Zuccotti papers</field>
+     <field name="collection_unitid_ssm">MS 3018</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Abraham D. Beame: A New York Story"</field>
+-    <field name="unittitle_teim">"Abraham D. Beame: A New York Story"</field>
++    <field name="unittitle_ssm">&#34;Abraham D. Beame: A New York Story&#34;</field>
++    <field name="unittitle_teim">&#34;Abraham D. Beame: A New York Story&#34;</field>
+     <field name="unitdate_teim">2001</field>
+-    <field name="scopecontent_teim">2001 La Guardia and Wagner Archives Calendar. Includes biographical notes and images from Beame's life. Zuccotti appears in one image, at June.</field>
++    <field name="scopecontent_teim">2001 La Guardia and Wagner Archives Calendar. Includes biographical notes and images from Beame&#39;s life. Zuccotti appears in one image, at June.</field>
+     <field name="ref_ssi">aspace_21fddf3b1614bcb2faef99306ef6cdbb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 13, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 13, Folder: 22</field>
+     <field name="collection_teim">John Zuccotti papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3018</field>
+     <field name="series_sim">Series VI. General Subjects</field>
+-    <field name="series_si">Series VI. General Subjects &gt;&gt; "Abraham D. Beame: A New York Story"</field>
+-    <field name="heading_ssm">"Abraham D. Beame: A New York Story"</field>
++    <field name="series_si">Series VI. General Subjects &gt;&gt; &#34;Abraham D. Beame: A New York Story&#34;</field>
++    <field name="heading_ssm">&#34;Abraham D. Beame: A New York Story&#34;</field>
+     <field name="unitdate_ssm">2001</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">228</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Time Inc. Bio Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Hara, John</field>
+-    <field name="unittitle_teim">O'Hara, John</field>
+-    <field name="scopecontent_teim">One folder has "H. R. Luce" stamp.</field>
++    <field name="unittitle_ssm">O&#39;Hara, John</field>
++    <field name="unittitle_teim">O&#39;Hara, John</field>
++    <field name="scopecontent_teim">One folder has &#34;H. R. Luce&#34; stamp.</field>
+     <field name="ref_ssi">aspace_ref3108_x6v</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 379, Folder: 13-14</field>
+     <field name="location_si">Offsite-Box: 379, Folder: 13-14</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names O</field>
+-    <field name="series_si">Names O &gt;&gt; O'Hara, John</field>
+-    <field name="heading_ssm">O'Hara, John</field>
++    <field name="series_si">Names O &gt;&gt; O&#39;Hara, John</field>
++    <field name="heading_ssm">O&#39;Hara, John</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2874</field>
+   </doc>

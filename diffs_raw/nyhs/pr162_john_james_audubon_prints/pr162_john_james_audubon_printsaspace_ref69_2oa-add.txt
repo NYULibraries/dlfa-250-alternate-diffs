@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John James Audubon print collection</field>
+     <field name="collection_unitid_ssm">PR 162</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's &lt;em&gt;Birds of America&lt;/em&gt; and &lt;em&gt;Viviparous Quadrupeds&lt;/em&gt;, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
+-    <field name="unittitle_teim">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's Birds of America and Viviparous Quadrupeds, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
++    <field name="unittitle_ssm">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon&#39;s &lt;em&gt;Birds of America&lt;/em&gt; and &lt;em&gt;Viviparous Quadrupeds&lt;/em&gt;, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
++    <field name="unittitle_teim">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon&#39;s Birds of America and Viviparous Quadrupeds, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
+     <field name="unitdate_teim">[1860]</field>
+     <field name="title_teim">Birds of America</field>
+     <field name="title_teim">Viviparous Quadrupeds</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 2, Folder: 8</field>
+     <field name="location_si">Box: 2, Folder: 8</field>
+     <field name="collection_teim">John James Audubon print collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 162</field>
+     <field name="series_sim">Series III: Miscellaneous</field>
+-    <field name="series_si">Series III: Miscellaneous &gt;&gt; Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's &lt;em&gt;Birds of America&lt;/em&gt; and &lt;em&gt;Viviparous Quadrupeds&lt;/em&gt;, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
+-    <field name="heading_ssm">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's Birds of America and Viviparous Quadrupeds, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
++    <field name="series_si">Series III: Miscellaneous &gt;&gt; Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon&#39;s &lt;em&gt;Birds of America&lt;/em&gt; and &lt;em&gt;Viviparous Quadrupeds&lt;/em&gt;, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
++    <field name="heading_ssm">Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon&#39;s Birds of America and Viviparous Quadrupeds, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</field>
+     <field name="unitdate_ssm">[1860]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">47</field>

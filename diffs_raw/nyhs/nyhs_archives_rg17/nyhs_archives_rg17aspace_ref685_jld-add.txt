@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">New-York Historical Society publication editorial records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 17</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Note Cards for Entries Not Used in the Dictionary. Ahlborn Jayne</field>
+-    <field name="unittitle_teim">Note Cards for Entries Not Used in the Dictionary. Ahlborn Jayne</field>
++    <field name="unittitle_ssm">Note Cards for Entries Not Used in the Dictionary. Ahlborn  Jayne</field>
++    <field name="unittitle_teim">Note Cards for Entries Not Used in the Dictionary. Ahlborn  Jayne</field>
+     <field name="unitdate_teim">1940s-1950s</field>
+-    <field name="scopecontent_teim">This box and the next one include Groce and Wallace's notes on artists that did not receive entries in the Dictionary of Artists in America.</field>
++    <field name="scopecontent_teim">This box and the next one include Groce and Wallace&#39;s notes on artists that did not receive entries in the Dictionary of Artists in America.</field>
+     <field name="ref_ssi">aspace_ref685_jld</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 60, cards: -</field>
+     <field name="location_si">Offsite-Box: 60, cards: -</field>
+     <field name="collection_teim">New-York Historical Society publication editorial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 17</field>
+     <field name="series_sim">Series I. Publications (1940s-1960s)</field>
+     <field name="series_sim">Subseries I.B. Dictionary of Artists in America Records</field>
+-    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.B. Dictionary of Artists in America Records &gt;&gt; Note Cards for Entries Not Used in the Dictionary. Ahlborn Jayne</field>
+-    <field name="heading_ssm">Note Cards for Entries Not Used in the Dictionary. Ahlborn Jayne</field>
++    <field name="series_si">Series I. Publications (1940s-1960s) &gt;&gt; Subseries I.B. Dictionary of Artists in America Records &gt;&gt; Note Cards for Entries Not Used in the Dictionary. Ahlborn  Jayne</field>
++    <field name="heading_ssm">Note Cards for Entries Not Used in the Dictionary. Ahlborn  Jayne</field>
+     <field name="unitdate_ssm">1940s-1950s</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">99</field>

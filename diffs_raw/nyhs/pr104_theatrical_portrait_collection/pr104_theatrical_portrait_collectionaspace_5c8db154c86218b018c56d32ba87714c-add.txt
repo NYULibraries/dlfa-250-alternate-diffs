@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,28 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (small) "R" (continued)</field>
+-    <field name="unittitle_teim">Individuals (small) "R" (continued)</field>
++    <field name="unittitle_ssm">Individuals (small) &#34;R&#34; (continued)</field>
++    <field name="unittitle_teim">Individuals (small) &#34;R&#34; (continued)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Robe, Annie Robson, Stuart Rogers Rolson, Stuart Roze, Marie Russell Russell, Annie Russell, Lillian (4 folders) Russell, Sol Smith Russell, Tommy</field>
++    <field name="scopecontent_teim">Robe, Annie
++
++Robson, Stuart
++
++Rogers
++
++Rolson, Stuart
++
++Roze, Marie
++
++Russell
++
++Russell, Annie
++
++Russell, Lillian (4 folders)
++
++Russell, Sol Smith
++
++Russell, Tommy</field>
+     <field name="ref_ssi">aspace_5c8db154c86218b018c56d32ba87714c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +47,12 @@
+     <field name="location_ssm">Offsite-Box: 33</field>
+     <field name="location_si">Offsite-Box: 33</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.A. Individuals (small format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) "R" (continued)</field>
+-    <field name="heading_ssm">Individuals (small) "R" (continued)</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) &#34;R&#34; (continued)</field>
++    <field name="heading_ssm">Individuals (small) &#34;R&#34; (continued)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">37</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ulster County Collection</field>
+     <field name="collection_unitid_ssm">MS 645</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">#79, &lt;em&gt;Schoonmaker vs. Woodworth and Credit&lt;/em&gt;- Judge's Decision. 1 p.</field>
+-    <field name="unittitle_teim">#79, Schoonmaker vs. Woodworth and Credit- Judge's Decision. 1 p.</field>
++    <field name="unittitle_ssm">#79, &lt;em&gt;Schoonmaker vs. Woodworth and Credit&lt;/em&gt;- Judge&#39;s Decision. 1 p.</field>
++    <field name="unittitle_teim">#79, Schoonmaker vs. Woodworth and Credit- Judge&#39;s Decision. 1 p.</field>
+     <field name="unitdate_teim">1791 Mar. 5</field>
+     <field name="title_teim">Schoonmaker vs. Woodworth and Credit</field>
+     <field name="title_ssm">Schoonmaker vs. Woodworth and Credit</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">Ulster County Collection</field>
++    <field name="author_teim">Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 645</field>
+     <field name="series_sim">Series II: Ulster County (1670-1893, Undated)</field>
+-    <field name="series_si">Series II: Ulster County (1670-1893, Undated) &gt;&gt; #79, &lt;em&gt;Schoonmaker vs. Woodworth and Credit&lt;/em&gt;- Judge's Decision. 1 p.</field>
+-    <field name="heading_ssm">#79, Schoonmaker vs. Woodworth and Credit- Judge's Decision. 1 p.</field>
++    <field name="series_si">Series II: Ulster County (1670-1893, Undated) &gt;&gt; #79, &lt;em&gt;Schoonmaker vs. Woodworth and Credit&lt;/em&gt;- Judge&#39;s Decision. 1 p.</field>
++    <field name="heading_ssm">#79, Schoonmaker vs. Woodworth and Credit- Judge&#39;s Decision. 1 p.</field>
+     <field name="unitdate_ssm">1791 Mar. 5</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">99</field>

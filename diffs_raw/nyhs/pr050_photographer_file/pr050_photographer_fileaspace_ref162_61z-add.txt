@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Photographer File</field>
+     <field name="collection_unitid_ssm">PR 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World's Fair including lights, people, structures and fountains.</field>
+-    <field name="unittitle_teim">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World's Fair including lights, people, structures and fountains.</field>
++    <field name="unittitle_ssm">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World&#39;s Fair including lights, people, structures and fountains.</field>
++    <field name="unittitle_teim">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World&#39;s Fair including lights, people, structures and fountains.</field>
+     <field name="unitdate_teim">1964-1965</field>
+     <field name="ref_ssi">aspace_ref162_61z</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Photographer File</field>
++    <field name="author_teim">Jennifer Lewis, Marybeth Kavanagh, and others</field>
+     <field name="collection_unitid_teim">PR 50</field>
+     <field name="series_sim">Wright, Paula</field>
+-    <field name="series_si">Wright, Paula &gt;&gt; 15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World's Fair including lights, people, structures and fountains.</field>
+-    <field name="heading_ssm">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World's Fair including lights, people, structures and fountains.</field>
++    <field name="series_si">Wright, Paula &gt;&gt; 15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World&#39;s Fair including lights, people, structures and fountains.</field>
++    <field name="heading_ssm">15 color slides, 2 1/4 x 2 1/4 in., of the 1964-1965 New York World&#39;s Fair including lights, people, structures and fountains.</field>
+     <field name="unitdate_ssm">1964-1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">205</field>

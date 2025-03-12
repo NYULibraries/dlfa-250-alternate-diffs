@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Westinghouse Electric Elevator Co. (Chicago)</field>
+     <field name="unittitle_teim">Westinghouse Electric Elevator Co. (Chicago)</field>
+     <field name="unitdate_teim">1937</field>
+-    <field name="scopecontent_teim">Includes 3 Westinghouse blueprints concerning elevators, stamped approved by Walker &amp; Gillette. Also includes Walker &amp; Gillette's related plan #106 (details of jamb &amp; sills of passenger elevator #1 and stack elevator #3).</field>
++    <field name="scopecontent_teim">Includes 3 Westinghouse blueprints concerning elevators, stamped approved by Walker &amp; Gillette. Also includes Walker &amp; Gillette&#39;s related plan #106 (details of jamb &amp; sills of passenger elevator #1 and stack elevator #3).</field>
+     <field name="ref_ssi">aspace_ref1002_4ob</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">drawer: 7A-B13, Folder: 21</field>
+     <field name="location_si">drawer: 7A-B13, Folder: 21</field>
+     <field name="collection_teim">New-York Historical Society original buildings planning &amp; construction records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 3</field>
+     <field name="series_sim">Series IV. Central Park West Construction: Expansion</field>
+     <field name="series_sim">Subseries IV.C. Plans and Drawings</field>

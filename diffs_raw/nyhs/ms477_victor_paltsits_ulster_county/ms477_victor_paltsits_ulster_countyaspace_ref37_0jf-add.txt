@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Paltsits Collection--Ulster County, New York</field>
+     <field name="collection_unitid_ssm">MS 477</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called "Shawangang." (1 p.)</field>
+-    <field name="unittitle_teim">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called "Shawangang." (1 p.)</field>
++    <field name="unittitle_ssm">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called &#34;Shawangang.&#34; (1 p.)</field>
++    <field name="unittitle_teim">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called &#34;Shawangang.&#34; (1 p.)</field>
+     <field name="ref_ssi">aspace_ref37_0jf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Paltsits Collection--Ulster County, New York</field>
++    <field name="author_teim">Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 477</field>
+     <field name="series_sim">Calendar of Documents</field>
+-    <field name="series_si">Calendar of Documents &gt;&gt; #9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called "Shawangang." (1 p.)</field>
+-    <field name="heading_ssm">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called "Shawangang." (1 p.)</field>
++    <field name="series_si">Calendar of Documents &gt;&gt; #9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called &#34;Shawangang.&#34; (1 p.)</field>
++    <field name="heading_ssm">#9 Brief of James Graham to the Ulster County Court of Oyer and Terminer on behalf of the patent rights of James II against Jacob Browne for trespass on the royal domain called &#34;Shawangang.&#34; (1 p.)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">24</field>
+   </doc>

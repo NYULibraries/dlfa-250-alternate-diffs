@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hanover buildings, Hanover Square; "River and levee at New Orleans...": images</field>
+-    <field name="unittitle_teim">Hanover buildings, Hanover Square; "River and levee at New Orleans...": images</field>
++    <field name="unittitle_ssm">Hanover buildings, Hanover Square; &#34;River and levee at New Orleans...&#34;: images				
++</field>
++    <field name="unittitle_teim">Hanover buildings, Hanover Square; &#34;River and levee at New Orleans...&#34;: images				
++</field>
+     <field name="unitdate_normal_ssm">1855/1855</field>
+     <field name="unitdate_normal_teim">1855/1855</field>
+     <field name="unitdate_normal_sim">1855/1855</field>
+@@ -31,11 +33,14 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 8</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+     <field name="series_sim">Subseries A. Chronological Files (1796-1970)</field>
+-    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Hanover buildings, Hanover Square; "River and levee at New Orleans...": images</field>
+-    <field name="heading_ssm">Hanover buildings, Hanover Square; "River and levee at New Orleans...": images</field>
++    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Hanover buildings, Hanover Square; &#34;River and levee at New Orleans...&#34;: images				
++</field>
++    <field name="heading_ssm">Hanover buildings, Hanover Square; &#34;River and levee at New Orleans...&#34;: images				
++</field>
+     <field name="unitdate_start_sim">1855</field>
+     <field name="unitdate_start_ssm">1855</field>
+     <field name="unitdate_start_si">1855</field>

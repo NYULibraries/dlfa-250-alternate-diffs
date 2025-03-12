@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms377_leake_watts_childrens_home</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Leake and Watts Children's Home records</field>
+-    <field name="collection_ssm">Leake and Watts Children's Home records</field>
++    <field name="collection_sim">Leake and Watts Children&#39;s Home records</field>
++    <field name="collection_ssm">Leake and Watts Children&#39;s Home records</field>
+     <field name="collection_unitid_ssm">MS 377</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV - Sevilla Home for Children</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1889/1947</field>
+     <field name="unitdate_normal_sim">1889/1947</field>
+     <field name="unitdate_inclusive_teim">1889-1947</field>
+-    <field name="scopecontent_teim">The series consists of six bound volumes of minutes, one other volume, and one half box of records of the Sevilla Home for Children. Volumes are arranged first, followed by other materials.</field>
++    <field name="scopecontent_teim">The series consists of six bound volumes of minutes, one other volume, and one half box of records of the Sevilla Home for Children.  Volumes are arranged first, followed by other materials.</field>
+     <field name="ref_ssi">aspace_ref7_mh3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,7 +22,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Leake and Watts Children's Home records</field>
++    <field name="collection_teim">Leake and Watts Children&#39;s Home records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 377</field>
+     <field name="series_si">Series IV - Sevilla Home for Children</field>
+     <field name="heading_ssm">Series IV - Sevilla Home for Children</field>

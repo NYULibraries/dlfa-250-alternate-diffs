@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Hara, John</field>
+-    <field name="unittitle_teim">O'Hara, John</field>
++    <field name="unittitle_ssm">O&#39;Hara, John</field>
++    <field name="unittitle_teim">O&#39;Hara, John</field>
+     <field name="unitdate_teim">1949-1989</field>
+     <field name="ref_ssi">aspace_ref4964</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1709, Folder: 18</field>
+     <field name="location_si">Offsite-Box: 1709, Folder: 18</field>
+     <field name="collection_teim">Time Inc. Time Research Center Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 13</field>
+     <field name="series_sim">Series I. Bio Files</field>
+     <field name="series_sim">-O-</field>
+-    <field name="series_si">Series I. Bio Files &gt;&gt; -O- &gt;&gt; O'Hara, John</field>
+-    <field name="heading_ssm">O'Hara, John</field>
++    <field name="series_si">Series I. Bio Files &gt;&gt; -O- &gt;&gt; O&#39;Hara, John</field>
++    <field name="heading_ssm">O&#39;Hara, John</field>
+     <field name="unitdate_ssm">1949-1989</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3546</field>

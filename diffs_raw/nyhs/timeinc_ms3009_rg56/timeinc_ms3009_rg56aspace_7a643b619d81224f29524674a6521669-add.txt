@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Vice President Martin Gardner Files</field>
+     <field name="unittitle_teim">Series II: Vice President Martin Gardner Files</field>
+     <field name="unitdate_inclusive_teim">1984-1997</field>
+-    <field name="scopecontent_teim">Series II consists of correspondence, reports, projections, proposed projects, printed presentations, information on the state of publishing ventures, samples of magazines, and information about certain major advertisers. The materials were produced during Martin Gardner's role as Vice President of Time Inc. International and largely concerns review of and planning for Time Inc. International's business ventures.</field>
++    <field name="scopecontent_teim">Series II consists of correspondence, reports, projections, proposed projects, printed presentations, information on the state of publishing ventures, samples of magazines, and information about certain major advertisers. The materials were produced during Martin Gardner&#39;s role as Vice President of Time Inc. International and largely concerns review of and planning for Time Inc. International&#39;s business ventures.</field>
+     <field name="ref_ssi">aspace_7a643b619d81224f29524674a6521669</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Time Inc. International Records</field>
++    <field name="author_teim">Allen Thomas</field>
+     <field name="collection_unitid_teim">MS 3009-RG 56</field>
+     <field name="series_si">Series II: Vice President Martin Gardner Files</field>
+     <field name="heading_ssm">Series II: Vice President Martin Gardner Files</field>

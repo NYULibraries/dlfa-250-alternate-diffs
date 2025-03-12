@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NY Women's Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
+-    <field name="unittitle_teim">NY Women's Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
++    <field name="unittitle_ssm">NY Women&#39;s Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
++    <field name="unittitle_teim">NY Women&#39;s Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
+     <field name="unitdate_teim">2011 December 6</field>
+     <field name="ref_ssi">aspace_4f156c705580d6d7392dda2e35380e43</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 23, Folder: 51</field>
+     <field name="location_si">Offsite-Box: 23, Folder: 51</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series V. Awards and recognition</field>
+-    <field name="series_si">Series V. Awards and recognition &gt;&gt; NY Women's Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
+-    <field name="heading_ssm">NY Women's Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
++    <field name="series_si">Series V. Awards and recognition &gt;&gt; NY Women&#39;s Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
++    <field name="heading_ssm">NY Women&#39;s Agenda Eleanor Guggenheimer Lifetime Achievement Award</field>
+     <field name="unitdate_ssm">2011 December 6</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">369</field>

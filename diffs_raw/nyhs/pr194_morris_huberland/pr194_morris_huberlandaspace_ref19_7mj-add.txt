@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Morris Huberland Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 194</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Harlem" [African-American woman on stoop]</field>
+-    <field name="unittitle_teim">"Harlem" [African-American woman on stoop]</field>
++    <field name="unittitle_ssm">&#34;Harlem&#34; [African-American woman on stoop]</field>
++    <field name="unittitle_teim">&#34;Harlem&#34; [African-American woman on stoop]</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref19_7mj</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Morris Huberland Photograph Collection</field>
++    <field name="author_teim">Joe Festa</field>
+     <field name="collection_unitid_teim">PR 194</field>
+     <field name="series_sim">Harlem</field>
+-    <field name="series_si">Harlem &gt;&gt; "Harlem" [African-American woman on stoop]</field>
+-    <field name="heading_ssm">"Harlem" [African-American woman on stoop]</field>
++    <field name="series_si">Harlem &gt;&gt; &#34;Harlem&#34; [African-American woman on stoop]</field>
++    <field name="heading_ssm">&#34;Harlem&#34; [African-American woman on stoop]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">10</field>

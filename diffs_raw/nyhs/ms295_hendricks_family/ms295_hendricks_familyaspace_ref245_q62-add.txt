@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref25_vnn</field>
+     <field name="parent_ssm">aspace_ref5_53t</field>
+     <field name="parent_ssm">aspace_ref25_vnn</field>
+-    <field name="parent_unittitles_ssm">Series V. Hendricks and Related Families Personal Papers (1713-1966)</field>
++    <field name="parent_unittitles_ssm">Series V. Hendricks and Related Families Personal Papers (1713-1966)&amp;#xA;</field>
+     <field name="parent_unittitles_ssm">Subseries V.G. Families H-L</field>
+-    <field name="parent_unittitles_teim">Series V. Hendricks and Related Families Personal Papers (1713-1966)</field>
++    <field name="parent_unittitles_teim">Series V. Hendricks and Related Families Personal Papers (1713-1966)&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Subseries V.G. Families H-L</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -31,10 +31,12 @@
+     <field name="location_ssm">Box: 18, Folder: 12</field>
+     <field name="location_si">Box: 18, Folder: 12</field>
+     <field name="collection_teim">Hendricks Family papers</field>
++    <field name="author_teim">Meaghan Dwyer, 2000; EAD finding aid prepared by Celia Hartmann, 2010; revisions and additions by Joseph Ditta, June-July 2017 and January 2020.</field>
+     <field name="collection_unitid_teim">MS 295</field>
+-    <field name="series_sim">Series V. Hendricks and Related Families Personal Papers (1713-1966)</field>
++    <field name="series_sim">Series V. Hendricks and Related Families Personal Papers (1713-1966)&amp;#xA;</field>
+     <field name="series_sim">Subseries V.G. Families H-L</field>
+-    <field name="series_si">Series V. Hendricks and Related Families Personal Papers (1713-1966) &gt;&gt; Subseries V.G. Families H-L &gt;&gt; Isaacs family (Joshua and Solomon): copies of correspondence</field>
++    <field name="series_si">Series V. Hendricks and Related Families Personal Papers (1713-1966)
++ &gt;&gt; Subseries V.G. Families H-L &gt;&gt; Isaacs family (Joshua and Solomon): copies of correspondence</field>
+     <field name="heading_ssm">Isaacs family (Joshua and Solomon): copies of correspondence</field>
+     <field name="unitdate_start_sim">1744</field>
+     <field name="unitdate_start_ssm">1744</field>

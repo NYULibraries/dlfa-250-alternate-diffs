@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence. 1855 January-March</field>
+     <field name="unittitle_teim">Correspondence. 1855 January-March</field>
+     <field name="unitdate_teim">1855</field>
+-    <field name="scopecontent_teim">Includes January 2 letter from J.G. Fletcher accompanying donation of his Portuguese translation of letters of Lieutenant Maury in the Amazon, outlining his ongoing work with the Brazilian Historical and Geographical Institute, and attempting to incite N-YHS interest in the country as members of "the two most powerful Governments of the Western Continent."</field>
++    <field name="scopecontent_teim">Includes January 2 letter from J.G. Fletcher accompanying donation of his Portuguese translation of letters of Lieutenant Maury in the Amazon, outlining his ongoing work with the Brazilian Historical and Geographical Institute, and attempting to incite N-YHS interest in the country as members of &#34;the two most powerful Governments of the Western Continent.&#34;</field>
+     <field name="ref_ssi">aspace_ref149_vdh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,9 +23,10 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: 9, Folder: 4</field>
+-    <field name="location_si">Box: 9, Folder: 4</field>
++    <field name="location_ssm">Box: 9, Folder: 4 </field>
++    <field name="location_si">Box: 9, Folder: 4 </field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series III. General Correspondence</field>
+     <field name="series_si">Series III. General Correspondence &gt;&gt; Correspondence. 1855 January-March</field>

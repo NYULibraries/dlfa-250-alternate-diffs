@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Horticultural Society of New York records</field>
+     <field name="collection_unitid_ssm">MS 3033</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries I.D. Presidents' Files</field>
+-    <field name="unittitle_teim">Subseries I.D. Presidents' Files</field>
++    <field name="unittitle_ssm">Subseries I.D. Presidents&#39; Files</field>
++    <field name="unittitle_teim">Subseries I.D. Presidents&#39; Files</field>
+     <field name="unitdate_teim">1930s-1990s (bulk, 1990s)</field>
+-    <field name="scopecontent_teim">Subseries I.D encompasses the administrative files of the HSNY President's office. They are chiefly Millicent Johnson's, who held the title in the 1990s, but possibly include material from others. Like Subseries I.E, these administrative documents are grouped by topic, rather than creator.</field>
++    <field name="scopecontent_teim">Subseries I.D encompasses the administrative files of the HSNY President&#39;s office. They are chiefly Millicent Johnson&#39;s, who held the title in the 1990s, but possibly include material from others. Like Subseries I.E, these administrative documents are grouped by topic, rather than creator.</field>
+     <field name="ref_ssi">aspace_ref791_j6a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series I. General Administration Files</field>
+-    <field name="series_si">Series I. General Administration Files &gt;&gt; Subseries I.D. Presidents' Files</field>
+-    <field name="heading_ssm">Subseries I.D. Presidents' Files</field>
++    <field name="series_si">Series I. General Administration Files &gt;&gt; Subseries I.D. Presidents&#39; Files</field>
++    <field name="heading_ssm">Subseries I.D. Presidents&#39; Files</field>
+     <field name="unitdate_ssm">1930s-1990s (bulk, 1990s)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">193</field>

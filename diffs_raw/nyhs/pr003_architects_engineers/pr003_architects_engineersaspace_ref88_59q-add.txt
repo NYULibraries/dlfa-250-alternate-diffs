@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr003_architects_engineers</field>
+     <field name="parent_ssi">aspace_ref87_exi</field>
+     <field name="parent_ssm">aspace_ref87_exi</field>
+-    <field name="parent_unittitles_ssm">Electric Railroaders' Association, 1 item (PR 3-86)</field>
+-    <field name="parent_unittitles_teim">Electric Railroaders' Association, 1 item (PR 3-86)</field>
++    <field name="parent_unittitles_ssm">Electric Railroaders&amp;#39; Association, 1 item (PR 3-86)</field>
++    <field name="parent_unittitles_teim">Electric Railroaders&amp;#39; Association, 1 item (PR 3-86)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Architects &amp; Engineers collection</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: PR 3-86</field>
+     <field name="location_si">Box: PR 3-86</field>
+     <field name="collection_teim">Architects &amp; Engineers collection</field>
++    <field name="author_teim">Susan Benz</field>
+     <field name="collection_unitid_teim">PR 3</field>
+-    <field name="series_sim">Electric Railroaders' Association, 1 item (PR 3-86)</field>
+-    <field name="series_si">Electric Railroaders' Association, 1 item (PR 3-86) &gt;&gt; Rapid Transit Lines at East New York, Brookyln, NY</field>
++    <field name="series_sim">Electric Railroaders&amp;#39; Association, 1 item (PR 3-86)</field>
++    <field name="series_si">Electric Railroaders&#39; Association, 1 item (PR 3-86) &gt;&gt; Rapid Transit Lines at East New York, Brookyln, NY</field>
+     <field name="heading_ssm">Rapid Transit Lines at East New York, Brookyln, NY</field>
+     <field name="unitdate_ssm">1944</field>
+     <field name="date_range_sim">undated &amp; other</field>

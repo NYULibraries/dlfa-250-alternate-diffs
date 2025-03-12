@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Church Architecture</field>
+     <field name="unittitle_teim">Series II: Church Architecture</field>
+     <field name="scopecontent_teim">Series II. Church Architecture consists of an album compiled by Edward A. Jennings, comprised of postcard views of churches and chapels across the United States. A few of the postcard views in this album are of churches designed by his father, Arthur B. Jennings, but the vast majority simply reflect his wide-ranging interest in the design and structure of churches across the United States.</field>
+-    <field name="scopecontent_teim">Postcards remain in original order in the album; they are listed here alphabetically by state and city for the researcher's convenience.</field>
++    <field name="scopecontent_teim">Postcards remain in original order in the album; they are listed here alphabetically by state and city for the researcher&#39;s convenience.</field>
+     <field name="ref_ssi">aspace_ref92_sq7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jennings Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 135</field>
+     <field name="series_si">Series II: Church Architecture</field>
+     <field name="heading_ssm">Series II: Church Architecture</field>

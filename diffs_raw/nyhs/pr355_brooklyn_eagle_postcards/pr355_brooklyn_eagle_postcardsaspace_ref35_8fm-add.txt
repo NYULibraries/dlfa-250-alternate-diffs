@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,17 @@
+     <field name="unittitle_ssm">&lt;strong&gt;Brooklyn Eagle Postcard Series 35&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Brooklyn Eagle Postcard Series 35</field>
+     <field name="unitdate_teim">1906 July 9-14</field>
+-    <field name="scopecontent_teim">205 | Bedford Corners, 1777. 206 | Show House, Prospect Park. 207 | Thomas Jefferson Building, Court Square. 208 | Gravesend Town Hall. 209 | Flatbush Firemen's House. 210 | People's Bank, Broadway and Greene Avenue.</field>
++    <field name="scopecontent_teim">205 | Bedford Corners, 1777.
++
++206 | Show House, Prospect Park.
++
++207 | Thomas Jefferson Building, Court Square.
++
++208 | Gravesend Town Hall.
++
++209 | Flatbush Firemen&#39;s House.
++
++210 | People&#39;s Bank, Broadway and Greene Avenue.</field>
+     <field name="ref_ssi">aspace_ref35_8fm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +32,7 @@
+     <field name="location_ssm">Box: 1 of 1</field>
+     <field name="location_si">Box: 1 of 1</field>
+     <field name="collection_teim">James Olinkiewicz collection of Brooklyn Daily Eagle postcards</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 355</field>
+     <field name="series_si">&lt;strong&gt;Brooklyn Eagle Postcard Series 35&lt;/strong&gt;</field>
+     <field name="heading_ssm">Brooklyn Eagle Postcard Series 35</field>

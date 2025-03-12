@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms498_provost_marshal_7th_congdist</field>
+     <field name="parent_ssi">aspace_ref56_rmj</field>
+     <field name="parent_ssm">aspace_ref56_rmj</field>
+-    <field name="parent_unittitles_ssm">Series II: Bound volumes</field>
+-    <field name="parent_unittitles_teim">Series II: Bound volumes</field>
++    <field name="parent_unittitles_ssm">Series II:  Bound volumes</field>
++    <field name="parent_unittitles_teim">Series II:  Bound volumes</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Provost Marshal of the 7th Congressional District of New York City Records</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Volume: BV Provost Marshal 7th District</field>
+     <field name="location_si">Volume: BV Provost Marshal 7th District</field>
+     <field name="collection_teim">Provost Marshal of the 7th Congressional District of New York City Records</field>
++    <field name="author_teim">Susan Kriete.  Machine-readable finding aid created by Susan Kriete, 2012.</field>
+     <field name="collection_unitid_teim">MS 498</field>
+-    <field name="series_sim">Series II: Bound volumes</field>
+-    <field name="series_si">Series II: Bound volumes &gt;&gt; Clothing accounts</field>
++    <field name="series_sim">Series II:  Bound volumes</field>
++    <field name="series_si">Series II:  Bound volumes &gt;&gt; Clothing accounts</field>
+     <field name="heading_ssm">Clothing accounts</field>
+     <field name="unitdate_ssm">1863 September 4 - 1865 April 12</field>
+     <field name="date_range_sim">undated &amp; other</field>

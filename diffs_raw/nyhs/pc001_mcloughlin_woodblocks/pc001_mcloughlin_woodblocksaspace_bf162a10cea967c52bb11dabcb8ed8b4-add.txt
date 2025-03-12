@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="unittitle_ssm">&lt;em&gt;Funny Alphabet&lt;/em&gt;</field>
+     <field name="unittitle_teim">Funny Alphabet</field>
+     <field name="scopecontent_teim">17 woodblocks.</field>
+-    <field name="bioghist_teim">Reproduced in Uncle Frank's series.</field>
++    <field name="bioghist_teim">Reproduced in Uncle Frank&#39;s series.</field>
+     <field name="title_teim">Funny Alphabet</field>
+-    <field name="title_teim">Uncle Frank's</field>
++    <field name="title_teim">Uncle Frank&#39;s</field>
+     <field name="title_ssm">Funny Alphabet</field>
+-    <field name="title_ssm">Uncle Frank's</field>
++    <field name="title_ssm">Uncle Frank&#39;s</field>
+     <field name="ref_ssi">aspace_bf162a10cea967c52bb11dabcb8ed8b4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Offsite-Box: 22, Box: 3F (3)</field>
+     <field name="location_si">Offsite-Box: 22, Box: 3F (3)</field>
+     <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
++    <field name="author_teim">Crystal Toscano</field>
+     <field name="collection_unitid_teim">PC 001</field>
+     <field name="series_sim">Series IX. Alphabet books</field>
+     <field name="series_si">Series IX. Alphabet books &gt;&gt; &lt;em&gt;Funny Alphabet&lt;/em&gt;</field>

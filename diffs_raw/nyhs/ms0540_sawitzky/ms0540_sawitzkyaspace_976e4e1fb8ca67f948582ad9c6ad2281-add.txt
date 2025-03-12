@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Art and Artists</field>
+     <field name="unittitle_teim">Series II: Art and Artists</field>
+     <field name="unitdate_inclusive_teim">1930-1960</field>
+-    <field name="scopecontent_teim">This series, which comprises the bulk of the collection, contains the research notes and other material that documents Sawitzky's fieldwork and study of early American artists, as well as some of their European counterparts.</field>
++    <field name="scopecontent_teim">This series, which comprises the bulk of the collection, contains the research notes and other material that documents Sawitzky&#39;s fieldwork and study of early American artists, as well as some of their European counterparts.</field>
+     <field name="ref_ssi">aspace_976e4e1fb8ca67f948582ad9c6ad2281</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William Sawitzky research notes</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 0540</field>
+     <field name="series_si">Series II: Art and Artists</field>
+     <field name="heading_ssm">Series II: Art and Artists</field>

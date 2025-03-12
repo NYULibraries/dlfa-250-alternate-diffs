@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">ESPY</field>
+     <field name="unittitle_teim">ESPY</field>
+     <field name="unitdate_inclusive_teim">1999</field>
+-    <field name="scopecontent_teim">Contains ESPY Awards Special Collector's Issue: The Greatest Year Ever 1998.</field>
++    <field name="scopecontent_teim">Contains ESPY Awards Special Collector&#39;s Issue: The Greatest Year Ever 1998.</field>
+     <field name="ref_ssi">aspace_3850caf960b005fe375c47b8fef25493</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 40, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 40, Folder: 9</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VII. Print matter</field>
+     <field name="series_sim">Subseries VII.B. Magazines and journals</field>

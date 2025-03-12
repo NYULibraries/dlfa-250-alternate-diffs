@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms443_20_nursery_childs_hospital</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+-    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
++    <field name="collection_sim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="collection_ssm">Nursery and Child&#39;s Hospital Records</field>
+     <field name="collection_unitid_ssm">MS 443.20</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Journal/Account Books</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1884/1904</field>
+     <field name="unitdate_normal_sim">1884/1904</field>
+     <field name="unitdate_inclusive_teim">1884-1904</field>
+-    <field name="scopecontent_teim">The series consist mostly of the account books of the Country Branch. It, also, includes an account ledger, a meal menu book, guest register book, and charity ball membership.</field>
++    <field name="scopecontent_teim">The series consist mostly of the account books of the Country Branch.  It, also, includes an account ledger, a meal menu book, guest register book, and charity ball membership.</field>
+     <field name="scopecontent_teim">The series is arranged chronological.</field>
+     <field name="ref_ssi">aspace_ref12_wgb</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -23,7 +23,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Nursery and Child's Hospital Records</field>
++    <field name="collection_teim">Nursery and Child&#39;s Hospital Records</field>
++    <field name="author_teim">Ann Christiansen</field>
+     <field name="collection_unitid_teim">MS 443.20</field>
+     <field name="series_si">Journal/Account Books</field>
+     <field name="heading_ssm">Journal/Account Books</field>

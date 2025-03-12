@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,16 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Restaurants: K-L&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Restaurants: K-L</field>
+-    <field name="scopecontent_teim">Kellogg's Cafeteria, 49th Street east of Seventh Avenue Little Hungary, 255–263 East Houston Street Little Venice, 126 West 13th Street The Lobster Oyster and Chop House, 145 West 45th Street Chas. S. Low First Class Chinese Restaurant, 514 Sixth Avenue</field>
++    <field name="scopecontent_teim">Kellogg&#39;s Cafeteria, 49th Street east of Seventh Avenue
++
++Little Hungary, 255–263 East Houston Street
++
++Little Venice, 126 West 13th Street
++
++The Lobster Oyster and Chop House, 145 West 45th Street
++
++Chas. S. Low First Class Chinese Restaurant, 514 Sixth Avenue
++</field>
+     <field name="ref_ssi">aspace_ref13_tx0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +30,7 @@
+     <field name="location_ssm">Folder: 6</field>
+     <field name="location_si">Folder: 6</field>
+     <field name="collection_teim">Dale E. Jenkins collection of Manhattan restaurant postcards</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 337</field>
+     <field name="series_si">&lt;strong&gt;Restaurants: K-L&lt;/strong&gt;</field>
+     <field name="heading_ssm">Restaurants: K-L</field>

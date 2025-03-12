@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sapolsky and Slobodien Architecture collection</field>
+     <field name="collection_unitid_ssm">PR 439</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">72-19 Home Life Insurance Co. New Orleans, LA, Agency</field>
+-    <field name="unittitle_teim">72-19 Home Life Insurance Co. New Orleans, LA, Agency</field>
++    <field name="unittitle_ssm">72-19 Home Life Insurance Co.  New Orleans, LA, Agency</field>
++    <field name="unittitle_teim">72-19 Home Life Insurance Co.  New Orleans, LA, Agency</field>
+     <field name="unitdate_inclusive_teim">1972</field>
+     <field name="ref_ssi">aspace_009cbcb6d24b93b26e7782aee86ba8f5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 4</field>
+     <field name="location_si">Offsite-Box: 4</field>
+     <field name="collection_teim">Sapolsky and Slobodien Architecture collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 439</field>
+     <field name="series_sim">Series I: Home Life Insurance</field>
+-    <field name="series_si">Series I: Home Life Insurance &gt;&gt; 72-19 Home Life Insurance Co. New Orleans, LA, Agency</field>
+-    <field name="heading_ssm">72-19 Home Life Insurance Co. New Orleans, LA, Agency</field>
++    <field name="series_si">Series I: Home Life Insurance &gt;&gt; 72-19 Home Life Insurance Co.  New Orleans, LA, Agency</field>
++    <field name="heading_ssm">72-19 Home Life Insurance Co.  New Orleans, LA, Agency</field>
+     <field name="unitdate_ssm">Inclusive, 1972</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">65</field>

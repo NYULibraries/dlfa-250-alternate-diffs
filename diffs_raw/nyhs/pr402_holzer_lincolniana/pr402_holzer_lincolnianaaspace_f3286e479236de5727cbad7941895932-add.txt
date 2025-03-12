@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Harold Holzer collection of Lincolniana</field>
+     <field name="collection_unitid_ssm">PR 402</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Abraham Lincoln's Residence"</field>
+-    <field name="unittitle_teim">"Abraham Lincoln's Residence"</field>
++    <field name="unittitle_ssm">&#34;Abraham Lincoln&#39;s Residence&#34;</field>
++    <field name="unittitle_teim">&#34;Abraham Lincoln&#39;s Residence&#34;</field>
+     <field name="unitdate_inclusive_teim">1860</field>
+     <field name="scopecontent_teim">Unattributed hand-colored engraving.</field>
+     <field name="ref_ssi">aspace_f3286e479236de5727cbad7941895932</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">oversize: FF-1, item: 3</field>
+     <field name="location_si">oversize: FF-1, item: 3</field>
+     <field name="collection_teim">Harold Holzer collection of Lincolniana</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 402</field>
+     <field name="series_sim">Series II. Engravings of Lincoln from the campaign period</field>
+-    <field name="series_si">Series II. Engravings of Lincoln from the campaign period &gt;&gt; "Abraham Lincoln's Residence"</field>
+-    <field name="heading_ssm">"Abraham Lincoln's Residence"</field>
++    <field name="series_si">Series II. Engravings of Lincoln from the campaign period &gt;&gt; &#34;Abraham Lincoln&#39;s Residence&#34;</field>
++    <field name="heading_ssm">&#34;Abraham Lincoln&#39;s Residence&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1860</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

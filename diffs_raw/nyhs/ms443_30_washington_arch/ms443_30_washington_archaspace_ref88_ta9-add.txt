@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,9 +11,9 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VII: Newspapers, 1890-1920</field>
+     <field name="unittitle_teim">Series VII: Newspapers, 1890-1920</field>
+-    <field name="scopecontent_teim">This series consists of a variety of articles documenting the Washington Arch, its dedication, and sculptures. Included in this series are clippings from The New York Times, Harper's Weekly, The Star, New York Herald, The Tribune, The Press, and The World. In addition, three copies of The Chimney-Seat, an illustrated paper that donated the proceeds from its first two issues to the Washington Memorial Arch Fund, are included.</field>
++    <field name="scopecontent_teim">This series consists of a variety of articles documenting the Washington Arch, its dedication, and sculptures. Included in this series are clippings from The New York Times, Harper&#39;s Weekly, The Star, New York Herald, The Tribune, The Press, and The World. In addition, three copies of The Chimney-Seat, an illustrated paper that donated the proceeds from its first two issues to the Washington Memorial Arch Fund, are included.</field>
+     <field name="title_teim">The New York Times</field>
+-    <field name="title_teim">Harper's Weekly</field>
++    <field name="title_teim">Harper&#39;s Weekly</field>
+     <field name="title_teim">The Star</field>
+     <field name="title_teim">New York Herald</field>
+     <field name="title_teim">The Tribune</field>
+@@ -21,7 +21,7 @@
+     <field name="title_teim">The World</field>
+     <field name="title_teim">The Chimney-Seat</field>
+     <field name="title_ssm">The New York Times</field>
+-    <field name="title_ssm">Harper's Weekly</field>
++    <field name="title_ssm">Harper&#39;s Weekly</field>
+     <field name="title_ssm">The Star</field>
+     <field name="title_ssm">New York Herald</field>
+     <field name="title_ssm">The Tribune</field>
+@@ -35,6 +35,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Washington Arch records</field>
++    <field name="author_teim">Liz Arena</field>
+     <field name="collection_unitid_teim">MS 443.30</field>
+     <field name="series_si">Series VII: Newspapers, 1890-1920</field>
+     <field name="heading_ssm">Series VII: Newspapers, 1890-1920</field>

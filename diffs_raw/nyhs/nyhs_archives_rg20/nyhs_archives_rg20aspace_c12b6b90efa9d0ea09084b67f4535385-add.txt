@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 20</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York's Finest: A History of the New York City Police Department (6 folders)</field>
+-    <field name="unittitle_teim">New York's Finest: A History of the New York City Police Department (6 folders)</field>
++    <field name="unittitle_ssm">New York&#39;s Finest: A History of the New York City Police Department (6 folders)</field>
++    <field name="unittitle_teim">New York&#39;s Finest: A History of the New York City Police Department (6 folders)</field>
+     <field name="unitdate_inclusive_teim">1998</field>
+     <field name="ref_ssi">aspace_c12b6b90efa9d0ea09084b67f4535385</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 280</field>
+     <field name="location_si">Offsite-Box: 280</field>
+     <field name="collection_teim">New-York Historical Society Museum Department records</field>
++    <field name="author_teim">Margaret Kaczorowski, Katherine Palm and Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 20</field>
+     <field name="series_sim">Series II. Exhibitions</field>
+     <field name="series_sim">Subseries II.A. General Files</field>
+-    <field name="series_si">Series II. Exhibitions &gt;&gt; Subseries II.A. General Files &gt;&gt; New York's Finest: A History of the New York City Police Department (6 folders)</field>
+-    <field name="heading_ssm">New York's Finest: A History of the New York City Police Department (6 folders)</field>
++    <field name="series_si">Series II. Exhibitions &gt;&gt; Subseries II.A. General Files &gt;&gt; New York&#39;s Finest: A History of the New York City Police Department (6 folders)</field>
++    <field name="heading_ssm">New York&#39;s Finest: A History of the New York City Police Department (6 folders)</field>
+     <field name="unitdate_ssm">Inclusive, 1998</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">202</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">City Club of New York records</field>
+     <field name="collection_unitid_ssm">MS 116</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Copies of Weis' Reports Paid Membership</field>
+-    <field name="unittitle_teim">Copies of Weis' Reports Paid Membership</field>
++    <field name="unittitle_ssm">Copies of Weis&#39; Reports Paid Membership</field>
++    <field name="unittitle_teim">Copies of Weis&#39; Reports Paid Membership</field>
+     <field name="unitdate_inclusive_teim">1947-1950</field>
+     <field name="scopecontent_teim">Includes daily club receipts and summaries.</field>
+     <field name="ref_ssi">aspace_c70b9e5439fb94fa6a01f2db7ed73b38</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 10</field>
+     <field name="collection_teim">City Club of New York records</field>
++    <field name="author_teim">Catherine Sheehan</field>
+     <field name="collection_unitid_teim">MS 116</field>
+     <field name="series_sim">Series II. Records and Correspondence Files</field>
+     <field name="series_sim">Subseries II.C. Committees</field>
+-    <field name="series_si">Series II. Records and Correspondence Files &gt;&gt; Subseries II.C. Committees &gt;&gt; Copies of Weis' Reports Paid Membership</field>
+-    <field name="heading_ssm">Copies of Weis' Reports Paid Membership</field>
++    <field name="series_si">Series II. Records and Correspondence Files &gt;&gt; Subseries II.C. Committees &gt;&gt; Copies of Weis&#39; Reports Paid Membership</field>
++    <field name="heading_ssm">Copies of Weis&#39; Reports Paid Membership</field>
+     <field name="unitdate_ssm">Inclusive, 1947-1950</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">147</field>

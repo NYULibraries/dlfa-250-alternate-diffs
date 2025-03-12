@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Homemakers' Library League, Inc. and Family Publications Service, Inc.</field>
+-    <field name="unittitle_teim">Homemakers' Library League, Inc. and Family Publications Service, Inc.</field>
++    <field name="unittitle_ssm">Homemakers&#39; Library League, Inc. and Family Publications Service, Inc.</field>
++    <field name="unittitle_teim">Homemakers&#39; Library League, Inc. and Family Publications Service, Inc.</field>
+     <field name="unitdate_inclusive_teim">1965-1966</field>
+     <field name="ref_ssi">aspace_997c1999980e8a3060d3e6ee9623bbdb</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 4235, Item: 2-3</field>
+     <field name="location_si">Offsite-Box: 4235, Item: 2-3</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series I.B. General: Bound Books of Sales or Acquisitions [RESTRICTED]</field>
+-    <field name="series_si">Series I.B. General: Bound Books of Sales or Acquisitions [RESTRICTED] &gt;&gt; Homemakers' Library League, Inc. and Family Publications Service, Inc.</field>
+-    <field name="heading_ssm">Homemakers' Library League, Inc. and Family Publications Service, Inc.</field>
++    <field name="series_si">Series I.B. General: Bound Books of Sales or Acquisitions [RESTRICTED] &gt;&gt; Homemakers&#39; Library League, Inc. and Family Publications Service, Inc.</field>
++    <field name="heading_ssm">Homemakers&#39; Library League, Inc. and Family Publications Service, Inc.</field>
+     <field name="unitdate_ssm">Inclusive, 1965-1966</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

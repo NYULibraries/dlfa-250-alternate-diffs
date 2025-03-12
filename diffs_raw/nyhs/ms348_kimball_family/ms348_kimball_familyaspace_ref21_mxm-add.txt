@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Kimball Family Papers</field>
+     <field name="collection_unitid_ssm">MS 348</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Edson, Isabella Kimball, "Desultory Reminiscences"</field>
+-    <field name="unittitle_teim">Edson, Isabella Kimball, "Desultory Reminiscences"</field>
++    <field name="unittitle_ssm">Edson, Isabella Kimball, &#34;Desultory Reminiscences&#34;</field>
++    <field name="unittitle_teim">Edson, Isabella Kimball, &#34;Desultory Reminiscences&#34;</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref21_mxm</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">Kimball Family Papers</field>
++    <field name="author_teim">Megan Fraser and others, circa 2012; updated by Joseph Ditta, August 2017.</field>
+     <field name="collection_unitid_teim">MS 348</field>
+-    <field name="series_si">Edson, Isabella Kimball, "Desultory Reminiscences"</field>
+-    <field name="heading_ssm">Edson, Isabella Kimball, "Desultory Reminiscences"</field>
++    <field name="series_si">Edson, Isabella Kimball, &#34;Desultory Reminiscences&#34;</field>
++    <field name="heading_ssm">Edson, Isabella Kimball, &#34;Desultory Reminiscences&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Hutchins, Robert M. (folder 1 of 2)</field>
+     <field name="unittitle_teim">Hutchins, Robert M. (folder 1 of 2)</field>
+     <field name="unitdate_teim">1935-1947</field>
+-    <field name="scopecontent_teim">Includes a carbon copy of "Ideas for the Future" reviewed by Frank Lloyd Wright and "The Theory of the State: Edmund Burke" by Hutchins, reprinted from The Review of Politics.</field>
++    <field name="scopecontent_teim">Includes a carbon copy of &#34;Ideas for the Future&#34; reviewed by Frank Lloyd Wright and &#34;The Theory of the State: Edmund Burke&#34; by Hutchins, reprinted from The Review of Politics.</field>
+     <field name="ref_ssi">aspace_ref2013_aux</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 89, Folder: 7</field>
+     <field name="location_si">Box: 89, Folder: 7</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>

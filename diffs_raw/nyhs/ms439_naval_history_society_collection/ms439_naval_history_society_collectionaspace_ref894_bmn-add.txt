@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Material on &lt;em&gt;Bon Homme Richard&lt;/em&gt;'s flag: Clipping, photograph</field>
+-    <field name="unittitle_teim">Material on Bon Homme Richard's flag: Clipping, photograph</field>
++    <field name="unittitle_ssm">Material on &lt;em&gt;Bon Homme Richard&lt;/em&gt;&#39;s flag: Clipping, photograph</field>
++    <field name="unittitle_teim">Material on Bon Homme Richard&#39;s flag: Clipping, photograph</field>
+     <field name="unitdate_teim">1923, undated</field>
+     <field name="title_teim">Bon Homme Richard</field>
+     <field name="title_ssm">Bon Homme Richard</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 11</field>
+     <field name="location_si">Box: 1, Folder: 11</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 28. John Paul Jones (1776-1976; bulk 1907-1930)</field>
+-    <field name="series_si">Series 28. John Paul Jones (1776-1976; bulk 1907-1930) &gt;&gt; Material on &lt;em&gt;Bon Homme Richard&lt;/em&gt;'s flag: Clipping, photograph</field>
+-    <field name="heading_ssm">Material on Bon Homme Richard's flag: Clipping, photograph</field>
++    <field name="series_si">Series 28. John Paul Jones (1776-1976; bulk 1907-1930) &gt;&gt; Material on &lt;em&gt;Bon Homme Richard&lt;/em&gt;&#39;s flag: Clipping, photograph</field>
++    <field name="heading_ssm">Material on Bon Homme Richard&#39;s flag: Clipping, photograph</field>
+     <field name="unitdate_ssm">1923, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">841</field>

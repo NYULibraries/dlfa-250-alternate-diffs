@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Southern Chivalry - Argument against Club's. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
+-    <field name="unittitle_teim">Southern Chivalry - Argument against Club's. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
++    <field name="unittitle_ssm">Southern Chivalry - Argument against Club&#39;s. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
++    <field name="unittitle_teim">Southern Chivalry - Argument against Club&#39;s. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
+     <field name="unitdate_teim">1856</field>
+     <field name="scopecontent_teim">Lithograph: Signed J.L. Magee, del.</field>
+     <field name="ref_ssi">aspace_3e6fc90b10f6606edda317a99845bb0b</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-74, item: 1856-4</field>
+     <field name="location_si">Folder: FF-74, item: 1856-4</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series IV. Antebellum Period</field>
+-    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Southern Chivalry - Argument against Club's. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
+-    <field name="heading_ssm">Southern Chivalry - Argument against Club's. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
++    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Southern Chivalry - Argument against Club&#39;s. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
++    <field name="heading_ssm">Southern Chivalry - Argument against Club&#39;s. [Kansas, Slavery, Preston Brooks, Charles Sumner]</field>
+     <field name="unitdate_ssm">1856</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">657</field>

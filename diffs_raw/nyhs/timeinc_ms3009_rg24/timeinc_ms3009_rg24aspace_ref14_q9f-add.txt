@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Business Manager's Meetings</field>
+-    <field name="unittitle_teim">Business Manager's Meetings</field>
++    <field name="unittitle_ssm">Business Manager&#39;s Meetings</field>
++    <field name="unittitle_teim">Business Manager&#39;s Meetings</field>
+     <field name="unitid_teim">191586</field>
+     <field name="unitid_ssm">191586</field>
+     <field name="unitdate_inclusive_teim">1949-1950</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 779, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 779, Folder: 22</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series II. Office of the Business Manager Files</field>
+     <field name="series_sim">Subseries II.F. General Administrative Files</field>
+-    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; Business Manager's Meetings</field>
+-    <field name="heading_ssm">Business Manager's Meetings</field>
++    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; Business Manager&#39;s Meetings</field>
++    <field name="heading_ssm">Business Manager&#39;s Meetings</field>
+     <field name="unitdate_ssm">Inclusive, 1949-1950</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">117</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of New York City tavern licenses</field>
+     <field name="collection_unitid_ssm">MS 443.28</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">73. Montgomery Ward. John Lovely (Innholder); James O'Flagherty; William Roach</field>
+-    <field name="unittitle_teim">73. Montgomery Ward. John Lovely (Innholder); James O'Flagherty; William Roach</field>
++    <field name="unittitle_ssm">73. Montgomery Ward. John Lovely (Innholder); James O&#39;Flagherty; William Roach</field>
++    <field name="unittitle_teim">73. Montgomery Ward. John Lovely (Innholder); James O&#39;Flagherty; William Roach</field>
+     <field name="unitdate_teim">1784</field>
+     <field name="scopecontent_teim">With excise receipt dated 1784 May 13</field>
+     <field name="ref_ssi">aspace_ref97_rj0</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society collection of New York City tavern licenses</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 443.28</field>
+-    <field name="series_si">73. Montgomery Ward. John Lovely (Innholder); James O'Flagherty; William Roach</field>
+-    <field name="heading_ssm">73. Montgomery Ward. John Lovely (Innholder); James O'Flagherty; William Roach</field>
++    <field name="series_si">73. Montgomery Ward. John Lovely (Innholder); James O&#39;Flagherty; William Roach</field>
++    <field name="heading_ssm">73. Montgomery Ward. John Lovely (Innholder); James O&#39;Flagherty; William Roach</field>
+     <field name="unitdate_ssm">1784</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">54</field>

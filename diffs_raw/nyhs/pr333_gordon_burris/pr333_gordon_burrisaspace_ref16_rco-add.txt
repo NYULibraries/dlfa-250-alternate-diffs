@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Envelope 16</field>
+     <field name="unittitle_teim">Envelope 16</field>
+     <field name="unitdate_teim">1928 April 8–May 12</field>
+-    <field name="scopecontent_teim">Views from roof of New Jersey Bell Telephone Headquarters (540 Broad Street, Newark); man in front of "Turner Construction Company" sign; Manhattan from New Jersey Palisades.</field>
++    <field name="scopecontent_teim">Views from roof of New Jersey Bell Telephone Headquarters (540 Broad Street, Newark); man in front of &#34;Turner Construction Company&#34; sign; Manhattan from New Jersey Palisades.</field>
+     <field name="ref_ssi">aspace_ref16_rco</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Folder: 8</field>
+     <field name="location_si">Folder: 8</field>
+     <field name="collection_teim">Gordon Burris photographs</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 333</field>
+     <field name="series_si">Envelope 16</field>
+     <field name="heading_ssm">Envelope 16</field>

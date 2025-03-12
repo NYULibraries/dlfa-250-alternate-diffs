@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,13 +5,13 @@
+     <field name="ead_ssi">ms464_henry_oreilly</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Henry O'Reilly papers</field>
+-    <field name="collection_ssm">Henry O'Reilly papers</field>
++    <field name="collection_sim">Henry O&#39;Reilly papers</field>
++    <field name="collection_ssm">Henry O&#39;Reilly papers</field>
+     <field name="collection_unitid_ssm">MS 464</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series XXII: Personal &amp; Family Papers, 1832-1862</field>
+     <field name="unittitle_teim">Series XXII: Personal &amp; Family Papers, 1832-1862</field>
+-    <field name="scopecontent_teim">This series contains documents concerning O'Reilly's family. It includes two scrapbooks compiled by Henry O'Reilly during the Civil War about his son, Henry Brooks O'Reilly, who was killed in the battle of Williamsburg in 1862.</field>
++    <field name="scopecontent_teim">This series contains documents concerning O&#39;Reilly&#39;s family. It includes two scrapbooks compiled by Henry O&#39;Reilly during the Civil War about his son, Henry Brooks O&#39;Reilly, who was killed in the battle of Williamsburg in 1862.</field>
+     <field name="ref_ssi">aspace_ref857_yql</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -18,7 +18,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Henry O'Reilly papers</field>
++    <field name="collection_teim">Henry O&#39;Reilly papers</field>
++    <field name="author_teim">Rohinie J. Munzel</field>
+     <field name="collection_unitid_teim">MS 464</field>
+     <field name="series_si">Series XXII: Personal &amp; Family Papers, 1832-1862</field>
+     <field name="heading_ssm">Series XXII: Personal &amp; Family Papers, 1832-1862</field>

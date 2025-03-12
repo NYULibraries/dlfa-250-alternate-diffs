@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Hill Print Collection</field>
+     <field name="collection_unitid_ssm">PR 217</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Recruits," after John Augustus Atkinson (1775-1831), published by William Miller</field>
+-    <field name="unittitle_teim">"Recruits," after John Augustus Atkinson (1775-1831), published by William Miller</field>
++    <field name="unittitle_ssm">&#34;Recruits,&#34; after John Augustus Atkinson (1775-1831), published by William Miller</field>
++    <field name="unittitle_teim">&#34;Recruits,&#34; after John Augustus Atkinson (1775-1831), published by William Miller</field>
+     <field name="unitdate_teim">[1808]</field>
+     <field name="ref_ssi">aspace_ref18_sop</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: 1</field>
+     <field name="location_si">Folder: 1</field>
+     <field name="collection_teim">John Hill Print Collection</field>
++    <field name="author_teim">Processed by Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 217</field>
+     <field name="series_sim">Series I: English Work</field>
+-    <field name="series_si">Series I: English Work &gt;&gt; "Recruits," after John Augustus Atkinson (1775-1831), published by William Miller</field>
+-    <field name="heading_ssm">"Recruits," after John Augustus Atkinson (1775-1831), published by William Miller</field>
++    <field name="series_si">Series I: English Work &gt;&gt; &#34;Recruits,&#34; after John Augustus Atkinson (1775-1831), published by William Miller</field>
++    <field name="heading_ssm">&#34;Recruits,&#34; after John Augustus Atkinson (1775-1831), published by William Miller</field>
+     <field name="unitdate_ssm">[1808]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6</field>

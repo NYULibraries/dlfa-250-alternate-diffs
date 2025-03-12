@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Chamber of Commerce collection</field>
+     <field name="collection_unitid_ssm">PR 277</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Merchants' Association - Offices</field>
+-    <field name="unittitle_teim">Merchants' Association - Offices</field>
++    <field name="unittitle_ssm">Merchants&#39; Association - Offices</field>
++    <field name="unittitle_teim">Merchants&#39; Association - Offices</field>
+     <field name="unitdate_teim">[ca. 1930s]</field>
+     <field name="ref_ssi">aspace_ref44_qhx</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Folder: FF-7</field>
+     <field name="location_si">Folder: FF-7</field>
+     <field name="collection_teim">New York Chamber of Commerce collection</field>
++    <field name="author_teim">Kelly McAnnaney</field>
+     <field name="collection_unitid_teim">PR 277</field>
+     <field name="series_sim">Series III: Images</field>
+     <field name="series_sim">PHOTOGRAPHS</field>
+-    <field name="series_si">Series III: Images &gt;&gt; PHOTOGRAPHS &gt;&gt; Merchants' Association - Offices</field>
+-    <field name="heading_ssm">Merchants' Association - Offices</field>
++    <field name="series_si">Series III: Images &gt;&gt; PHOTOGRAPHS &gt;&gt; Merchants&#39; Association - Offices</field>
++    <field name="heading_ssm">Merchants&#39; Association - Offices</field>
+     <field name="unitdate_ssm">[ca. 1930s]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>

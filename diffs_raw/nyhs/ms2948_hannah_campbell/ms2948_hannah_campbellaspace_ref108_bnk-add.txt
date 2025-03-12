@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2948_hannah_campbell</field>
+     <field name="parent_ssi">aspace_ref68_4yq</field>
+     <field name="parent_ssm">aspace_ref68_4yq</field>
+-    <field name="parent_unittitles_ssm">Series III: Documents relating to Campbell's book, Why Did They Name It?</field>
+-    <field name="parent_unittitles_teim">Series III: Documents relating to Campbell's book, Why Did They Name It?</field>
++    <field name="parent_unittitles_ssm">Series III: Documents relating to Campbell&amp;#39;s book, Why Did They Name It?</field>
++    <field name="parent_unittitles_teim">Series III: Documents relating to Campbell&amp;#39;s book, Why Did They Name It?</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Hannah Campbell Papers</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 9, Folder: 2</field>
+     <field name="location_si">Box: 9, Folder: 2</field>
+     <field name="collection_teim">Hannah Campbell Papers</field>
++    <field name="author_teim">Sherry Cortes</field>
+     <field name="collection_unitid_teim">MS 2948</field>
+-    <field name="series_sim">Series III: Documents relating to Campbell's book, Why Did They Name It?</field>
+-    <field name="series_si">Series III: Documents relating to Campbell's book, Why Did They Name It? &gt;&gt; Correspondence and royalty statements, Fleet Publishing Corporation</field>
++    <field name="series_sim">Series III: Documents relating to Campbell&amp;#39;s book, Why Did They Name It?</field>
++    <field name="series_si">Series III: Documents relating to Campbell&#39;s book, Why Did They Name It? &gt;&gt; Correspondence and royalty statements, Fleet Publishing Corporation</field>
+     <field name="heading_ssm">Correspondence and royalty statements, Fleet Publishing Corporation</field>
+     <field name="unitdate_ssm">1962-1985, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

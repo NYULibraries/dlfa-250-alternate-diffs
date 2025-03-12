@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Routes of the Interborough Rapid Transit Company," drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
+-    <field name="unittitle_teim">"Routes of the Interborough Rapid Transit Company," drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
++    <field name="unittitle_ssm">&#34;Routes of the Interborough Rapid Transit Company,&#34; drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
++    <field name="unittitle_teim">&#34;Routes of the Interborough Rapid Transit Company,&#34; drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
+     <field name="unitdate_teim">1920</field>
+     <field name="ref_ssi">aspace_ref119_2qh</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 12</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series III: Subway Maps and Posters</field>
+     <field name="series_sim">Subseries III.A. Maps</field>
+-    <field name="series_si">Series III: Subway Maps and Posters &gt;&gt; Subseries III.A. Maps &gt;&gt; "Routes of the Interborough Rapid Transit Company," drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
+-    <field name="heading_ssm">"Routes of the Interborough Rapid Transit Company," drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
++    <field name="series_si">Series III: Subway Maps and Posters &gt;&gt; Subseries III.A. Maps &gt;&gt; &#34;Routes of the Interborough Rapid Transit Company,&#34; drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
++    <field name="heading_ssm">&#34;Routes of the Interborough Rapid Transit Company,&#34; drawn by D. L. Turner &amp; Weindorf [2 copies]</field>
+     <field name="unitdate_ssm">1920</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">101</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Clippings. Norman Mills</field>
+     <field name="unittitle_teim">Clippings. Norman Mills</field>
+     <field name="unitdate_inclusive_teim">1988</field>
+-    <field name="scopecontent_teim">On July 8, 1988, in The People v. Norman Mills, Justice Crane acquitted Mills, 31, of the attempted murder of his mother on January 15, 1987, by reason of mental disease or defect. For details of the proceedings, see Crane's Supreme Court Trial Docket Book covering January 21, 1988 through March 15, 1989 (Box 2, Vol. V).</field>
++    <field name="scopecontent_teim">On July 8, 1988, in The People v. Norman Mills, Justice Crane acquitted Mills, 31, of the attempted murder of his mother on January 15, 1987, by reason of mental disease or defect. For details of the proceedings, see Crane&#39;s Supreme Court Trial Docket Book covering January 21, 1988 through March 15, 1989 (Box 2, Vol. V).</field>
+     <field name="ref_ssi">aspace_75a02f299011693930aacc35b83951fa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 5</field>
+     <field name="collection_teim">Justice Stephen G. Crane papers on the Bernhard Goetz trial and other cases</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3152</field>
+     <field name="series_sim">Series II. Clipping and subject files</field>
+     <field name="series_si">Series II. Clipping and subject files &gt;&gt; Clippings. Norman Mills</field>

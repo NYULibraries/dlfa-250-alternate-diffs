@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,9 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Sculpture&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Sculpture</field>
+-    <field name="scopecontent_teim">General (15) Rogers' Groups (36)</field>
++    <field name="scopecontent_teim">General (15)
++
++Rogers&#39; Groups (36)</field>
+     <field name="ref_ssi">aspace_36b920b02d5f77b153c9ae0c274244bb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +27,7 @@
+     <field name="location_ssm">Box: 28</field>
+     <field name="location_si">Box: 28</field>
+     <field name="collection_teim">New-York Historical Society carte de visite photograph collection</field>
++    <field name="author_teim">N-YHS staff, 2005; finding aid migrated by Joseph Ditta, 2020.</field>
+     <field name="collection_unitid_teim">PR 011</field>
+     <field name="series_sim">Series IV. Miscellaneous</field>
+     <field name="series_si">Series IV. Miscellaneous &gt;&gt; &lt;strong&gt;Sculpture&lt;/strong&gt;</field>

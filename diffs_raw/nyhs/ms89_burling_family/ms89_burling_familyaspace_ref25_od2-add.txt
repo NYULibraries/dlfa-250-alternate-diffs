@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Burling Family papers</field>
+     <field name="collection_unitid_ssm">MS 89</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Formula for McNeil's Salve</field>
+-    <field name="unittitle_teim">Formula for McNeil's Salve</field>
++    <field name="unittitle_ssm">Formula for McNeil&#39;s Salve</field>
++    <field name="unittitle_teim">Formula for McNeil&#39;s Salve</field>
+     <field name="unitdate_teim">[1700s]</field>
+     <field name="ref_ssi">aspace_ref25_od2</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 14</field>
+     <field name="location_si">Box: 1, Folder: 14</field>
+     <field name="collection_teim">Burling Family papers</field>
++    <field name="author_teim">Processed by Gregory Tavormina</field>
+     <field name="collection_unitid_teim">MS 89</field>
+-    <field name="series_si">Formula for McNeil's Salve</field>
+-    <field name="heading_ssm">Formula for McNeil's Salve</field>
++    <field name="series_si">Formula for McNeil&#39;s Salve</field>
++    <field name="heading_ssm">Formula for McNeil&#39;s Salve</field>
+     <field name="unitdate_ssm">[1700s]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

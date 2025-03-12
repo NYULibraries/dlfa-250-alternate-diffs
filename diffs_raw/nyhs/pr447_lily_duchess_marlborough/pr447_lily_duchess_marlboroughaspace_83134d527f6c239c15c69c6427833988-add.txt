@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">CDs (RESTRICTED)</field>
+     <field name="unittitle_teim">CDs (RESTRICTED)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">2 CDs, one with a photo of Lily's father, the other with her mother. The digital files have not been extracted from the CDs, but can be done by a processing archivist on request with advance notice.</field>
++    <field name="scopecontent_teim">2 CDs, one with a photo of Lily&#39;s father, the other with her mother. The digital files have not been extracted from the CDs, but can be done by a processing archivist on request with advance notice.</field>
+     <field name="ref_ssi">aspace_83134d527f6c239c15c69c6427833988</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Lily Spencer-Churchill, Duchess of Marlborough collection</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 447</field>
+     <field name="series_si">CDs (RESTRICTED)</field>
+     <field name="heading_ssm">CDs (RESTRICTED)</field>

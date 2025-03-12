@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Nuclear War- Devastation and Facts</field>
+     <field name="unittitle_teim">Nuclear War- Devastation and Facts</field>
+     <field name="unitdate_teim">1978-1982</field>
+-    <field name="scopecontent_teim">Of note is Adler's essay, Prisoners of the Defense Myth: An Homage to Hiroshima.</field>
++    <field name="scopecontent_teim">Of note is Adler&#39;s essay, Prisoners of the Defense Myth: An Homage to Hiroshima.</field>
+     <field name="ref_ssi">aspace_ref243_8uy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 10, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 10, Folder: 9</field>
+     <field name="collection_teim">Cyrus Adler papers</field>
++    <field name="author_teim">Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">MS 3</field>
+     <field name="series_sim">Series V: Peace Movement</field>
+     <field name="series_si">Series V: Peace Movement &gt;&gt; Nuclear War- Devastation and Facts</field>

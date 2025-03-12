@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series V. Benjamin Altman Estate Material, 1913 --1919</field>
+     <field name="unittitle_teim">Series V. Benjamin Altman Estate Material, 1913 --1919</field>
+-    <field name="scopecontent_teim">Includes B. Altman &amp; Co. stock and bond material; property assessments of the Fifth Ave. store, stables, and other real estate holdings; correspondence regarding execution of Altman's will; surrogate court records; summary of Altman's donation of art to the Metropolitan Museum; material regarding employee life insurance, employee legacies, and the Altman Foundation.</field>
++    <field name="scopecontent_teim">Includes B. Altman &amp; Co. stock and bond material; property assessments of the Fifth Ave. store, stables, and other real estate holdings; correspondence regarding execution of Altman&#39;s will; surrogate court records; summary of Altman&#39;s donation of art to the Metropolitan Museum; material regarding employee life insurance, employee legacies, and the Altman Foundation.</field>
+     <field name="ref_ssi">aspace_ref61_jrz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">B. Altman &amp; Co. records</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 31</field>
+     <field name="series_si">Series V. Benjamin Altman Estate Material, 1913 --1919</field>
+     <field name="heading_ssm">Series V. Benjamin Altman Estate Material, 1913 --1919</field>

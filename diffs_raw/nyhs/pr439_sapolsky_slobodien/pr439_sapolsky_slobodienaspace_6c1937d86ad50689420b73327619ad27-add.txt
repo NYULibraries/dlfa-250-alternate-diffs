@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series I: Home Life Insurance</field>
+     <field name="unittitle_teim">Series I: Home Life Insurance</field>
+     <field name="unitdate_inclusive_teim">1962-1983</field>
+-    <field name="scopecontent_teim">This series contains correspondence, blueprints, drawings, permit applications, and invoices related to Sapolsky and Slobodien's work for the Home Life Insurance Company</field>
++    <field name="scopecontent_teim">This series contains correspondence, blueprints, drawings, permit applications, and invoices related to Sapolsky and Slobodien&#39;s work for the Home Life Insurance Company</field>
+     <field name="ref_ssi">aspace_6c1937d86ad50689420b73327619ad27</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sapolsky and Slobodien Architecture collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 439</field>
+     <field name="series_si">Series I: Home Life Insurance</field>
+     <field name="heading_ssm">Series I: Home Life Insurance</field>

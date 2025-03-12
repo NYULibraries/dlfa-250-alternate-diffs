@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,9 @@
+     <field name="scopecontent_teim">Thread Manufacturers:</field>
+     <field name="scopecontent_teim">Barbour Brothers</field>
+     <field name="scopecontent_teim">Belding Brothers</field>
+-    <field name="scopecontent_teim">Brook's</field>
++    <field name="scopecontent_teim">Brook&#39;s</field>
+     <field name="scopecontent_teim">Chadwick and Brother</field>
+-    <field name="scopecontent_teim">Clark's (Mile-End Spool Cotton, O.N.T. Spool Cotton, Jumbo series, "National Flower Series," Paper doll series, Storybooks)</field>
++    <field name="scopecontent_teim">Clark&#39;s (Mile-End Spool Cotton, O.N.T. Spool Cotton, Jumbo series, &#34;National Flower Series,&#34; Paper doll series, Storybooks)</field>
+     <field name="scopecontent_teim">Coats Mills</field>
+     <field name="scopecontent_teim">Corticelli</field>
+     <field name="scopecontent_teim">Cutter and Company</field>
+@@ -31,8 +31,10 @@
+     <field name="scopecontent_teim">Merrick Thread Company</field>
+     <field name="scopecontent_teim">Willimantic Linen Company</field>
+     <field name="scopecontent_teim">Miscellaneous manufacturers</field>
+-    <field name="scopecontent_teim">Woolen goods (see: WOOL)</field>
+-    <field name="scopecontent_teim">Yarn</field>
++    <field name="scopecontent_teim">
++Woolen goods (see: WOOL)</field>
++    <field name="scopecontent_teim">
++Yarn</field>
+     <field name="ref_ssi">aspace_7492b8e686f35b10e1474fde98b9c2aa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -42,6 +44,7 @@
+     <field name="location_ssm">Offsite-Box: 51</field>
+     <field name="location_si">Offsite-Box: 51</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="collection_ssm">Ferdinand Roth slides of New York City</field>
+     <field name="collection_unitid_ssm">PR 457</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Macy's Thanksgiving Day Parade, 1952 [25 slides]</field>
+-    <field name="unittitle_teim">Macy's Thanksgiving Day Parade, 1952 [25 slides]</field>
++    <field name="unittitle_ssm">Macy&#39;s Thanksgiving Day Parade, 1952 [25 slides]</field>
++    <field name="unittitle_teim">Macy&#39;s Thanksgiving Day Parade, 1952 [25 slides]</field>
+     <field name="unitdate_teim">1952 November 27</field>
+-    <field name="scopecontent_teim">Includes the giant balloons "Crocodile," "Mighty Mouse," "The Spaceman" (debuted 1952), "Rainbow Trout," and "Teddy Bear," and the floats "American Eagle," "Mississippi River Showboat," "Chiquita Banana's Tropical Garden" (sole appearance), "Noah's Ark," "Sonny the Bunny," "The 5,000 Fingers of Dr. T" (sole appearance; advertisement for an upcoming musical film), "The Spaceship" (debuted 1952), "Calliope Circus," and "Santa's Sleigh."</field>
++    <field name="scopecontent_teim">Includes the giant balloons &#34;Crocodile,&#34; &#34;Mighty Mouse,&#34; &#34;The Spaceman&#34; (debuted 1952), &#34;Rainbow Trout,&#34; and &#34;Teddy Bear,&#34; and the floats &#34;American Eagle,&#34; &#34;Mississippi River Showboat,&#34; &#34;Chiquita Banana&#39;s Tropical Garden&#34; (sole appearance), &#34;Noah&#39;s Ark,&#34; &#34;Sonny the Bunny,&#34; &#34;The 5,000 Fingers of Dr. T&#34; (sole appearance; advertisement for an upcoming musical film), &#34;The Spaceship&#34; (debuted 1952), &#34;Calliope Circus,&#34; and &#34;Santa&#39;s Sleigh.&#34;</field>
+     <field name="ref_ssi">aspace_b03f15ef5a3b74e960daa515b4e9925e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Ferdinand Roth slides of New York City</field>
++    <field name="author_teim">Joseph Ditta (April 2023)</field>
+     <field name="collection_unitid_teim">PR 457</field>
+-    <field name="series_si">Macy's Thanksgiving Day Parade, 1952 [25 slides]</field>
+-    <field name="heading_ssm">Macy's Thanksgiving Day Parade, 1952 [25 slides]</field>
++    <field name="series_si">Macy&#39;s Thanksgiving Day Parade, 1952 [25 slides]</field>
++    <field name="heading_ssm">Macy&#39;s Thanksgiving Day Parade, 1952 [25 slides]</field>
+     <field name="unitdate_ssm">1952 November 27</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

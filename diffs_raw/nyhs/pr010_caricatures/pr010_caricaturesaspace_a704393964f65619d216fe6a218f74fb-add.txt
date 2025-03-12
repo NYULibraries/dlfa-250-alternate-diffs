@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Great Match at Baltimore, Between the "Illinois Bantam", and The "Old Cock" of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
+-    <field name="unittitle_teim">The Great Match at Baltimore, Between the "Illinois Bantam", and The "Old Cock" of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
++    <field name="unittitle_ssm">The Great Match at Baltimore, Between the &#34;Illinois Bantam&#34;, and The &#34;Old Cock&#34; of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
++    <field name="unittitle_teim">The Great Match at Baltimore, Between the &#34;Illinois Bantam&#34;, and The &#34;Old Cock&#34; of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
+     <field name="unitdate_teim">1860</field>
+     <field name="scopecontent_teim">Lithograph: Published by Currier &amp; Ives. Acquisition(?) date on front: Apr. 12, 1906.</field>
+     <field name="ref_ssi">aspace_a704393964f65619d216fe6a218f74fb</field>
+@@ -23,13 +23,14 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Folder: FF-77, item: 1860-1</field>
+-    <field name="location_si">Folder: FF-77, item: 1860-1</field>
++    <field name="location_ssm">Folder: FF-77, item: 1860-1 </field>
++    <field name="location_si">Folder: FF-77, item: 1860-1 </field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+-    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; The Great Match at Baltimore, Between the "Illinois Bantam", and The "Old Cock" of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
+-    <field name="heading_ssm">The Great Match at Baltimore, Between the "Illinois Bantam", and The "Old Cock" of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
++    <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; The Great Match at Baltimore, Between the &#34;Illinois Bantam&#34;, and The &#34;Old Cock&#34; of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
++    <field name="heading_ssm">The Great Match at Baltimore, Between the &#34;Illinois Bantam&#34;, and The &#34;Old Cock&#34; of the White House. [Democratic Party: Douglas, Buchanan, Breckinridge]</field>
+     <field name="unitdate_ssm">1860</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">685</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr362_stephen_harmon</field>
+     <field name="parent_ssi">aspace_b55bdfb00ad6051c4fd61452cd3ceeb7</field>
+     <field name="parent_ssm">aspace_b55bdfb00ad6051c4fd61452cd3ceeb7</field>
+-    <field name="parent_unittitles_ssm">Series D.V. New York City "Street Show"</field>
+-    <field name="parent_unittitles_teim">Series D.V. New York City "Street Show"</field>
++    <field name="parent_unittitles_ssm">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Stephen Harmon photographs</field>
+@@ -22,12 +22,13 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Digital-Folder: 20171016, Digital-File: 1_1, email</field>
+-    <field name="location_si">Digital-Folder: 20171016, Digital-File: 1_1, email</field>
++    <field name="location_ssm">Digital-Folder: 20171016, Digital-File: 1_1,  email</field>
++    <field name="location_si">Digital-Folder: 20171016, Digital-File: 1_1,  email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+-    <field name="series_sim">Series D.V. New York City "Street Show"</field>
+-    <field name="series_si">Series D.V. New York City "Street Show" &gt;&gt; Woman and child at apartment window in Chinatown (1 photo + 1 email)</field>
++    <field name="series_sim">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
++    <field name="series_si">Series D.V. New York City &#34;Street Show&#34; &gt;&gt; Woman and child at apartment window in Chinatown (1 photo + 1 email)</field>
+     <field name="heading_ssm">Woman and child at apartment window in Chinatown (1 photo + 1 email)</field>
+     <field name="unitdate_ssm">Inclusive, 1981 December</field>
+     <field name="date_range_sim">undated &amp; other</field>

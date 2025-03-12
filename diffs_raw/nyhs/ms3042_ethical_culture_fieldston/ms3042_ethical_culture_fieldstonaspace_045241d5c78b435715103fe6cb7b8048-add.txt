@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Football coach jacket</field>
+     <field name="unittitle_teim">Football coach jacket</field>
+     <field name="unitdate_teim">circa 1980</field>
+-    <field name="scopecontent_teim">Name of "Jim" embroidered on front. 1980 Champs patch on back.</field>
++    <field name="scopecontent_teim">Name of &#34;Jim&#34; embroidered on front. 1980 Champs patch on back.</field>
+     <field name="ref_ssi">aspace_045241d5c78b435715103fe6cb7b8048</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 271</field>
+     <field name="location_si">Offsite-Box: 271</field>
+     <field name="collection_teim">Ethical Culture Fieldston School records</field>
++    <field name="author_teim">Alexanne Levengood</field>
+     <field name="collection_unitid_teim">MS 3042</field>
+     <field name="series_sim">Record Group 16. Artifacts (1919-2017, undated; 24.76 linear feet)</field>
+     <field name="series_si">Record Group 16. Artifacts (1919-2017, undated; 24.76 linear feet) &gt;&gt; Football coach jacket</field>

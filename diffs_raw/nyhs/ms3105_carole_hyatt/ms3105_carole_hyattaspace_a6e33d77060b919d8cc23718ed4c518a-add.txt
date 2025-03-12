@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Carole Hyatt papers</field>
+     <field name="collection_unitid_ssm">MS 3105</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Women's Group (1 tape/2 files)</field>
+-    <field name="unittitle_teim">Women's Group (1 tape/2 files)</field>
++    <field name="unittitle_ssm">Women&#39;s Group (1 tape/2 files)</field>
++    <field name="unittitle_teim">Women&#39;s Group (1 tape/2 files)</field>
+     <field name="unitdate_teim">1994 February 16</field>
+     <field name="ref_ssi">aspace_a6e33d77060b919d8cc23718ed4c518a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: T1, Item: 028</field>
+     <field name="location_si">Box: T1, Item: 028</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>
+-    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Women's Group (1 tape/2 files)</field>
+-    <field name="heading_ssm">Women's Group (1 tape/2 files)</field>
++    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; Women&#39;s Group (1 tape/2 files)</field>
++    <field name="heading_ssm">Women&#39;s Group (1 tape/2 files)</field>
+     <field name="unitdate_ssm">1994 February 16</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">272</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,16 @@
+     <field name="ead_ssi">pr375_chapman_old_west</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
+-    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+     <field name="collection_unitid_ssm">PR 375</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Bat Masterson and Emma Walker Masterson</field>
+     <field name="unittitle_teim">Bat Masterson and Emma Walker Masterson</field>
+     <field name="unitdate_inclusive_teim">1900-1910</field>
+-    <field name="scopecontent_teim">Bartholemew William Barclay "Bat" Masterson (1853–1921). Tintype, 3 &amp; 7/16" (W) x 2.5" (L).</field>
++    <field name="scopecontent_teim">Bartholemew William Barclay &#34;Bat&#34; Masterson (1853–1921).
++
++Tintype, 3 &amp; 7/16&#34; (W) x 2.5&#34; (L).</field>
+     <field name="ref_ssi">aspace_c13ec57476dac31e8b1ac780dbfe05ea</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">item: 51</field>
+     <field name="location_si">item: 51</field>
+-    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 375</field>
+     <field name="series_si">Bat Masterson and Emma Walker Masterson</field>
+     <field name="heading_ssm">Bat Masterson and Emma Walker Masterson</field>

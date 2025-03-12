@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1856/1864</field>
+     <field name="unitdate_normal_sim">1856/1864</field>
+     <field name="unitdate_inclusive_teim">1856-1864, undated</field>
+-    <field name="scopecontent_teim">This series contains materials from Sigel's American military career, starting from his time in the New York militia through to his service as a general in the Civil War. There are maps, notes, roll books, fliers, reports, receipts, and certificates. This series is in English.</field>
++    <field name="scopecontent_teim">This series contains materials from Sigel&#39;s American military career, starting from his time in the New York militia through to his service as a general in the Civil War. There are maps, notes, roll books, fliers, reports, receipts, and certificates. This series is in English.</field>
+     <field name="ref_ssi">aspace_ref57_mzd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Franz Sigel papers</field>
++    <field name="author_teim">Corrinne Collett. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 565</field>
+     <field name="series_si">Series IV: Military Documents</field>
+     <field name="heading_ssm">Series IV: Military Documents</field>

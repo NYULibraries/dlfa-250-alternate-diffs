@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Buckingham Smith papers and collected materials</field>
+     <field name="collection_unitid_ssm">MS 2413</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Don Manuel de Montiano"</field>
+-    <field name="unittitle_teim">"Don Manuel de Montiano"</field>
++    <field name="unittitle_ssm">&#34;Don Manuel de Montiano&#34;</field>
++    <field name="unittitle_teim">&#34;Don Manuel de Montiano&#34;</field>
+     <field name="unitdate_teim">1835</field>
+     <field name="scopecontent_teim">Includes transcriptions of correspondence and documents from Don Manuel de Montiano, governor of East Florida from 1737-1741.</field>
+     <field name="ref_ssi">aspace_ref107_m74</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 1, Folder: 8</field>
+     <field name="location_si">Box: 1, Folder: 8</field>
+     <field name="collection_teim">Buckingham Smith papers and collected materials</field>
++    <field name="author_teim">Julia Lipkins</field>
+     <field name="collection_unitid_teim">MS 2413</field>
+     <field name="series_sim">II. Transcriptions and edited works</field>
+-    <field name="series_si">II. Transcriptions and edited works &gt;&gt; "Don Manuel de Montiano"</field>
+-    <field name="heading_ssm">"Don Manuel de Montiano"</field>
++    <field name="series_si">II. Transcriptions and edited works &gt;&gt; &#34;Don Manuel de Montiano&#34;</field>
++    <field name="heading_ssm">&#34;Don Manuel de Montiano&#34;</field>
+     <field name="unitdate_ssm">1835</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">10</field>

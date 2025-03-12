@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Ruscha, Ed</field>
+     <field name="unittitle_teim">Ruscha, Ed</field>
+     <field name="unitdate_inclusive_teim">1995-2016</field>
+-    <field name="scopecontent_teim">Includes material for artist, Ed Ruscha, including a Whitney Museum catalogue for Ed Ruscha's 2005 Venice Biennale installation for the U.S. Pavilion.</field>
++    <field name="scopecontent_teim">Includes material for artist, Ed Ruscha, including a Whitney Museum  catalogue for Ed Ruscha&#39;s 2005 Venice Biennale installation for the U.S. Pavilion.</field>
+     <field name="ref_ssi">aspace_ref152_q2b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 12, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 12, Folder: 4</field>
+     <field name="collection_teim">Marilyn Symmes collection of art exhibition ephemera</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 352</field>
+     <field name="series_sim">Series I. Single Artist Exhibitions</field>
+     <field name="series_si">Series I. Single Artist Exhibitions &gt;&gt; Ruscha, Ed</field>

@@ -1,0 +1,160 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists' Toolkit by Jefferson Bailey, October 2010.</field>
+-    <field name="author_ssm">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists' Toolkit by Jefferson Bailey, October 2010.</field>
++    <field name="author_teim">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists&#39; Toolkit by Jefferson Bailey, October 2010.</field>
++    <field name="author_ssm">Megan Hahn. Machine-readable finding aid created by Melissa Haley, March 2002, and Alex Poole, August 2009. Entered in Archivists&#39; Toolkit by Jefferson Bailey, October 2010.</field>
+     <field name="unittitle_teim">Slavery Collection</field>
+     <field name="unittitle_ssm">Slavery Collection</field>
+     <field name="unitid_teim">MS 569</field>
+@@ -9,10 +9,10 @@
+     <field name="unitid_ssm">MS 569</field>
+     <field name="abstract_teim">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. Note that the Slavery Collection materials have been digitized and can be found here.</field>
+     <field name="abstract_ssm">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. Note that the Slavery Collection materials have been digitized and can be found here.</field>
+-    <field name="unitdate_inclusive_teim">1709-1899</field>
+-    <field name="scopecontent_teim">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. These materials have all been digitized and can be viewed here.</field>
+-    <field name="scopecontent_teim">The Slavery Collection is called an "artificial" collection because a third party placed unrelated items together according to subject matter.</field>
+-    <field name="scopecontent_teim">Researchers who have used this collection in the past, or those following citations in published sources, should be aware that it was rearranged in 1999 in order to facilitate intellectual and physical access. Certain material that formerly was not arranged, or was arranged chronologically, is now arranged by format. For example, depositions are now grouped together, rather than being interfiled with accounts, receipts or deeds of manumission.</field>
++    <field name="unitdate_inclusive_teim">1709-1899 </field>
++    <field name="scopecontent_teim">The Slavery Collection contains correspondence and legal and financial documents related to the North American slave trade, slave ownership, abolition, and political issues pertinent to slavery. These materials have all been digitized and can be viewed  here.</field>
++    <field name="scopecontent_teim">The Slavery Collection is called an &#34;artificial&#34; collection because a third party placed unrelated items together according to subject matter.</field>
++    <field name="scopecontent_teim">Researchers who have used this collection in the past, or those following citations in published sources, should be aware that it was rearranged in 1999 in order to facilitate intellectual and physical access. Certain material that formerly was not arranged, or was arranged chronologically, is now arranged by format. For example, depositions are now grouped together, rather than being interfiled with accounts, receipts or deeds of manumission. </field>
+     <field name="corpname_teim">New-York Historical Society</field>
+     <field name="corpname_teim">TittBitt (Sloop)</field>
+     <field name="corpname_teim">Venus (Ship)</field>
+@@ -48,7 +48,7 @@
+     <field name="genreform_teim">Birth certificates</field>
+     <field name="genreform_teim">Correspondence.</field>
+     <field name="genreform_teim">Deeds.</field>
+-    <field name="genreform_teim">Ships' manifests</field>
++    <field name="genreform_teim">Ships&#39; manifests</field>
+     <field name="genreform_teim">Receipts (financial records)</field>
+     <field name="genreform_teim">Indentures.</field>
+     <field name="genreform_teim">Estate inventories.</field>
+@@ -57,12 +57,12 @@
+     <field name="genreform_ssm">Birth certificates</field>
+     <field name="genreform_ssm">Correspondence.</field>
+     <field name="genreform_ssm">Deeds.</field>
+-    <field name="genreform_ssm">Ships' manifests</field>
++    <field name="genreform_ssm">Ships&#39; manifests</field>
+     <field name="genreform_ssm">Receipts (financial records)</field>
+     <field name="genreform_ssm">Indentures.</field>
+     <field name="genreform_ssm">Estate inventories.</field>
+     <field name="persname_teim">Stokes, E. H.</field>
+-    <field name="persname_teim">Taggart, Samuel C.</field>
++    <field name="persname_teim">Taggart, Samuel C.  </field>
+     <field name="persname_teim">Taylor, William, Ship Captain</field>
+     <field name="persname_teim">Thornton, John (Fredericksburg, VA)</field>
+     <field name="persname_teim">Vernon, Samuel</field>
+@@ -73,10 +73,10 @@
+     <field name="persname_teim">Yates, Charles, 1727-1809</field>
+     <field name="persname_teim">Bolton, Charles, active approximately 1770s (Barbados slave trader)</field>
+     <field name="persname_teim">Brown, Samuel, active approximately 1770s (Boston slave merchant)</field>
+-    <field name="persname_teim">Duncan, John, Captain</field>
+-    <field name="persname_teim">Godfrey, Caleb</field>
++    <field name="persname_teim">Duncan, John, Captain  </field>
++    <field name="persname_teim">Godfrey, Caleb  </field>
+     <field name="persname_teim">Angelina Emily Grimke, 1805-1879</field>
+-    <field name="persname_teim">Hopewell, Hugh</field>
++    <field name="persname_teim">Hopewell, Hugh </field>
+     <field name="persname_teim">Johnson, Samuel, Ship Captain</field>
+     <field name="persname_teim">Moran, Richard</field>
+     <field name="persname_teim">Rogers, Thomas (Ship captain)</field>
+@@ -83,7 +83,7 @@
+     <field name="persname_teim">Rux, A. J.</field>
+     <field name="persname_teim">Smith, Gerrit, 1797-1874</field>
+     <field name="persname_ssm">Stokes, E. H.</field>
+-    <field name="persname_ssm">Taggart, Samuel C.</field>
++    <field name="persname_ssm">Taggart, Samuel C.  </field>
+     <field name="persname_ssm">Taylor, William, Ship Captain</field>
+     <field name="persname_ssm">Thornton, John (Fredericksburg, VA)</field>
+     <field name="persname_ssm">Vernon, Samuel</field>
+@@ -94,10 +94,10 @@
+     <field name="persname_ssm">Yates, Charles, 1727-1809</field>
+     <field name="persname_ssm">Bolton, Charles, active approximately 1770s (Barbados slave trader)</field>
+     <field name="persname_ssm">Brown, Samuel, active approximately 1770s (Boston slave merchant)</field>
+-    <field name="persname_ssm">Duncan, John, Captain</field>
+-    <field name="persname_ssm">Godfrey, Caleb</field>
++    <field name="persname_ssm">Duncan, John, Captain  </field>
++    <field name="persname_ssm">Godfrey, Caleb  </field>
+     <field name="persname_ssm">Angelina Emily Grimke, 1805-1879</field>
+-    <field name="persname_ssm">Hopewell, Hugh</field>
++    <field name="persname_ssm">Hopewell, Hugh </field>
+     <field name="persname_ssm">Johnson, Samuel, Ship Captain</field>
+     <field name="persname_ssm">Moran, Richard</field>
+     <field name="persname_ssm">Rogers, Thomas (Ship captain)</field>
+@@ -159,7 +159,7 @@
+     <field name="name_sim">Pacific (Ship)</field>
+     <field name="name_sim">Royall Charlotte (Brig)</field>
+     <field name="name_sim">Stokes, E. H.</field>
+-    <field name="name_sim">Taggart, Samuel C.</field>
++    <field name="name_sim">Taggart, Samuel C.  </field>
+     <field name="name_sim">Taylor, William, Ship Captain</field>
+     <field name="name_sim">Thornton, John (Fredericksburg, VA)</field>
+     <field name="name_sim">Vernon, Samuel</field>
+@@ -170,10 +170,10 @@
+     <field name="name_sim">Yates, Charles, 1727-1809</field>
+     <field name="name_sim">Bolton, Charles, active approximately 1770s (Barbados slave trader)</field>
+     <field name="name_sim">Brown, Samuel, active approximately 1770s (Boston slave merchant)</field>
+-    <field name="name_sim">Duncan, John, Captain</field>
+-    <field name="name_sim">Godfrey, Caleb</field>
++    <field name="name_sim">Duncan, John, Captain  </field>
++    <field name="name_sim">Godfrey, Caleb  </field>
+     <field name="name_sim">Angelina Emily Grimke, 1805-1879</field>
+-    <field name="name_sim">Hopewell, Hugh</field>
++    <field name="name_sim">Hopewell, Hugh </field>
+     <field name="name_sim">Johnson, Samuel, Ship Captain</field>
+     <field name="name_sim">Moran, Richard</field>
+     <field name="name_sim">Rogers, Thomas (Ship captain)</field>
+@@ -194,7 +194,7 @@
+     <field name="name_teim">Pacific (Ship)</field>
+     <field name="name_teim">Royall Charlotte (Brig)</field>
+     <field name="name_teim">Stokes, E. H.</field>
+-    <field name="name_teim">Taggart, Samuel C.</field>
++    <field name="name_teim">Taggart, Samuel C.  </field>
+     <field name="name_teim">Taylor, William, Ship Captain</field>
+     <field name="name_teim">Thornton, John (Fredericksburg, VA)</field>
+     <field name="name_teim">Vernon, Samuel</field>
+@@ -205,10 +205,10 @@
+     <field name="name_teim">Yates, Charles, 1727-1809</field>
+     <field name="name_teim">Bolton, Charles, active approximately 1770s (Barbados slave trader)</field>
+     <field name="name_teim">Brown, Samuel, active approximately 1770s (Boston slave merchant)</field>
+-    <field name="name_teim">Duncan, John, Captain</field>
+-    <field name="name_teim">Godfrey, Caleb</field>
++    <field name="name_teim">Duncan, John, Captain  </field>
++    <field name="name_teim">Godfrey, Caleb  </field>
+     <field name="name_teim">Angelina Emily Grimke, 1805-1879</field>
+-    <field name="name_teim">Hopewell, Hugh</field>
++    <field name="name_teim">Hopewell, Hugh </field>
+     <field name="name_teim">Johnson, Samuel, Ship Captain</field>
+     <field name="name_teim">Moran, Richard</field>
+     <field name="name_teim">Rogers, Thomas (Ship captain)</field>
+@@ -229,7 +229,7 @@
+     <field name="material_type_sim">Birth certificates</field>
+     <field name="material_type_sim">Correspondence.</field>
+     <field name="material_type_sim">Deeds.</field>
+-    <field name="material_type_sim">Ships' manifests</field>
++    <field name="material_type_sim">Ships&#39; manifests</field>
+     <field name="material_type_sim">Receipts (financial records)</field>
+     <field name="material_type_sim">Indentures.</field>
+     <field name="material_type_sim">Estate inventories.</field>
+@@ -238,12 +238,12 @@
+     <field name="material_type_ssm">Birth certificates</field>
+     <field name="material_type_ssm">Correspondence.</field>
+     <field name="material_type_ssm">Deeds.</field>
+-    <field name="material_type_ssm">Ships' manifests</field>
++    <field name="material_type_ssm">Ships&#39; manifests</field>
+     <field name="material_type_ssm">Receipts (financial records)</field>
+     <field name="material_type_ssm">Indentures.</field>
+     <field name="material_type_ssm">Estate inventories.</field>
+     <field name="heading_ssm">Slavery Collection</field>
+-    <field name="unitdate_ssm">Inclusive, 1709-1899</field>
++    <field name="unitdate_ssm">Inclusive, 1709-1899 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+   </doc>
+ </add>

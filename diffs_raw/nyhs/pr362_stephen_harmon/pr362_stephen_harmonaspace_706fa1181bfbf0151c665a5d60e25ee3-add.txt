@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr362_stephen_harmon</field>
+     <field name="parent_ssi">aspace_b55bdfb00ad6051c4fd61452cd3ceeb7</field>
+     <field name="parent_ssm">aspace_b55bdfb00ad6051c4fd61452cd3ceeb7</field>
+-    <field name="parent_unittitles_ssm">Series D.V. New York City "Street Show"</field>
+-    <field name="parent_unittitles_teim">Series D.V. New York City "Street Show"</field>
++    <field name="parent_unittitles_ssm">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Stephen Harmon photographs</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen Harmon photographs</field>
+     <field name="collection_unitid_ssm">PR 362</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Busker with sign "Tell me off for $1.00" (1 photo + 1 email)</field>
+-    <field name="unittitle_teim">Busker with sign "Tell me off for $1.00" (1 photo + 1 email)</field>
++    <field name="unittitle_ssm">Busker with sign &#34;Tell me off for $1.00&#34; (1 photo + 1 email)</field>
++    <field name="unittitle_teim">Busker with sign &#34;Tell me off for $1.00&#34; (1 photo + 1 email)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_706fa1181bfbf0151c665a5d60e25ee3</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Digital-Folder: 20170403, Digital-File: 1_1, email</field>
+     <field name="location_si">Digital-Folder: 20170403, Digital-File: 1_1, email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+-    <field name="series_sim">Series D.V. New York City "Street Show"</field>
+-    <field name="series_si">Series D.V. New York City "Street Show" &gt;&gt; Busker with sign "Tell me off for $1.00" (1 photo + 1 email)</field>
+-    <field name="heading_ssm">Busker with sign "Tell me off for $1.00" (1 photo + 1 email)</field>
++    <field name="series_sim">Series D.V. New York City &amp;#34;Street Show&amp;#34;</field>
++    <field name="series_si">Series D.V. New York City &#34;Street Show&#34; &gt;&gt; Busker with sign &#34;Tell me off for $1.00&#34; (1 photo + 1 email)</field>
++    <field name="heading_ssm">Busker with sign &#34;Tell me off for $1.00&#34; (1 photo + 1 email)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">312</field>

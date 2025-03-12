@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,10 @@
+     <field name="ead_ssi">pr115_playing_cards_games</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Playing card and game collection</field>
+-    <field name="collection_ssm">Playing card and game collection</field>
++    <field name="collection_sim">Playing card and game collection
++</field>
++    <field name="collection_ssm">Playing card and game collection
++</field>
+     <field name="collection_unitid_ssm">PR 115</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Oversized Cards</field>
+@@ -17,7 +19,9 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Playing card and game collection</field>
++    <field name="collection_teim">Playing card and game collection
++</field>
++    <field name="author_teim">Jason Burns</field>
+     <field name="collection_unitid_teim">PR 115</field>
+     <field name="series_si">Oversized Cards</field>
+     <field name="heading_ssm">Oversized Cards</field>

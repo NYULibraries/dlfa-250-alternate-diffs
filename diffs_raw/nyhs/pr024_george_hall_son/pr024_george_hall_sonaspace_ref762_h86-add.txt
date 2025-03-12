@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">St. Paul's School, Concord, N.H., Mandolin Club</field>
+-    <field name="unittitle_teim">St. Paul's School, Concord, N.H., Mandolin Club</field>
++    <field name="unittitle_ssm">St. Paul&#39;s School, Concord, N.H., Mandolin Club</field>
++    <field name="unittitle_teim">St. Paul&#39;s School, Concord, N.H., Mandolin Club</field>
+     <field name="unitdate_normal_ssm">1900/1900</field>
+     <field name="unitdate_normal_teim">1900/1900</field>
+     <field name="unitdate_normal_sim">1900/1900</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 26, Folder: 236</field>
+     <field name="location_si">Box: 26, Folder: 236</field>
+     <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 24</field>
+     <field name="series_sim">Series IV: Photographs by Subject</field>
+     <field name="series_sim">Portraits - Unmounted</field>
+-    <field name="series_si">Series IV: Photographs by Subject &gt;&gt; Portraits - Unmounted &gt;&gt; St. Paul's School, Concord, N.H., Mandolin Club</field>
+-    <field name="heading_ssm">St. Paul's School, Concord, N.H., Mandolin Club</field>
++    <field name="series_si">Series IV: Photographs by Subject &gt;&gt; Portraits - Unmounted &gt;&gt; St. Paul&#39;s School, Concord, N.H., Mandolin Club</field>
++    <field name="heading_ssm">St. Paul&#39;s School, Concord, N.H., Mandolin Club</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>
+     <field name="unitdate_start_si">1900</field>

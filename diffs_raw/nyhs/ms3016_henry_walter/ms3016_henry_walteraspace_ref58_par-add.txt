@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Working Files. 1971 November</field>
+     <field name="unittitle_teim">Working Files. 1971 November</field>
+     <field name="unitdate_teim">1971</field>
+-    <field name="scopecontent_teim">Includes the Comptroller's preliminary report concerning the Department of Social Services' Day Care Imprest (Revolving) Fund.</field>
++    <field name="scopecontent_teim">Includes the Comptroller&#39;s preliminary report concerning the Department of Social Services&#39; Day Care Imprest (Revolving) Fund.</field>
+     <field name="ref_ssi">aspace_ref58_par</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 6, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 6, Folder: 17</field>
+     <field name="collection_teim">Henry Walter papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3016</field>
+     <field name="series_sim">Series I. Public Relations Files. Abraham D. Beame</field>
+     <field name="series_sim">Subseries I.A. Comptrollership Years</field>

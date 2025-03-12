@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Volume 9</field>
+     <field name="unittitle_teim">Volume 9</field>
+     <field name="unitdate_inclusive_teim">1896-1897</field>
+-    <field name="scopecontent_teim">This volume is heavily oriented toward the Senate's trust/restraint of trade investigation.</field>
++    <field name="scopecontent_teim">This volume is heavily oriented toward the Senate&#39;s trust/restraint of trade investigation.</field>
+     <field name="ref_ssi">aspace_21d34d29b3302bb2fae017fc2fb27966</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Volume: SN9</field>
+     <field name="location_si">Offsite-Box: 2, Volume: SN9</field>
+     <field name="collection_teim">Clarence Lexow scrapbooks</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3189</field>
+     <field name="series_si">Volume 9</field>
+     <field name="heading_ssm">Volume 9</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Trips - Egypt, 1954</field>
+     <field name="unittitle_teim">Trips - Egypt, 1954</field>
+     <field name="unitdate_teim">1954, 1967</field>
+-    <field name="scopecontent_teim">Includes HRL's observations titled "The River in the Desert" and reminiscences from Jim Bell who accompanied HRL to Cairo.</field>
++    <field name="scopecontent_teim">Includes HRL&#39;s observations titled &#34;The River in the Desert&#34; and reminiscences from Jim Bell who accompanied HRL to Cairo.</field>
+     <field name="ref_ssi">aspace_ref820_ne5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 22, Folder: 1</field>
+     <field name="location_si">Box: 22, Folder: 1</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series I. Biographical and Subject Files</field>
+     <field name="series_si">Series I. Biographical and Subject Files &gt;&gt; Trips - Egypt, 1954</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">7th Regiment records</field>
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Plates from Huddy &amp; Duval's U.S. military magazine and related correspondence</field>
+-    <field name="unittitle_teim">Plates from Huddy &amp; Duval's U.S. military magazine and related correspondence</field>
++    <field name="unittitle_ssm">Plates from Huddy &amp; Duval&#39;s U.S. military magazine and related correspondence</field>
++    <field name="unittitle_teim">Plates from Huddy &amp; Duval&#39;s U.S. military magazine and related correspondence</field>
+     <field name="unitdate_teim">1839-1842; 1909</field>
+     <field name="ref_ssi">aspace_ref1252_524</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 71, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 71, Folder: 12</field>
+     <field name="collection_teim">7th Regiment records</field>
++    <field name="author_teim">Maurita Baldock, Richard Fraser, Melissa Haley, Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 556</field>
+     <field name="series_sim">Series XIV: Visual Materials, 1806-1983</field>
+     <field name="series_sim">Visual Materials, Various</field>
+-    <field name="series_si">Series XIV: Visual Materials, 1806-1983 &gt;&gt; Visual Materials, Various &gt;&gt; Plates from Huddy &amp; Duval's U.S. military magazine and related correspondence</field>
+-    <field name="heading_ssm">Plates from Huddy &amp; Duval's U.S. military magazine and related correspondence</field>
++    <field name="series_si">Series XIV: Visual Materials, 1806-1983 &gt;&gt; Visual Materials, Various &gt;&gt; Plates from Huddy &amp; Duval&#39;s U.S. military magazine and related correspondence</field>
++    <field name="heading_ssm">Plates from Huddy &amp; Duval&#39;s U.S. military magazine and related correspondence</field>
+     <field name="unitdate_ssm">1839-1842; 1909</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1206</field>

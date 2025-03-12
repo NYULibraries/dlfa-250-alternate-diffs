@@ -1,0 +1,110 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,27 +1,35 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Ted O'Reilly</field>
+-    <field name="author_ssm">Ted O'Reilly</field>
++    <field name="author_teim">Ted O&#39;Reilly</field>
++    <field name="author_ssm">Ted O&#39;Reilly</field>
+     <field name="unittitle_teim">New-York Manumission Society records</field>
+     <field name="unittitle_ssm">New-York Manumission Society records</field>
+     <field name="unitid_teim">BV Manumission Society</field>
+     <field name="unitid_ssm">BV Manumission Society</field>
+-    <field name="abstract_teim">This collection contains 11 volumes of records for the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated (commonly known as the New-York Manumission Society), covering its activities from its founding in 1785 through its dissolution in 1849. The New-York Manumission Society records are digitized and available in the Shelby White and Leon Levy Digital Library.</field>
+-    <field name="abstract_ssm">This collection contains 11 volumes of records for the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated (commonly known as the New-York Manumission Society), covering its activities from its founding in 1785 through its dissolution in 1849. The New-York Manumission Society records are digitized and available in the Shelby White and Leon Levy Digital Library.</field>
++    <field name="abstract_teim">This collection contains 11 volumes of records for the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated (commonly known as the New-York Manumission Society), covering its activities from its founding in 1785 through its dissolution in 1849. 
++
++
++ 
++The New-York Manumission Society records are digitized and available in the Shelby White and Leon Levy Digital Library.</field>
++    <field name="abstract_ssm">This collection contains 11 volumes of records for the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated (commonly known as the New-York Manumission Society), covering its activities from its founding in 1785 through its dissolution in 1849. 
++
++
++ 
++The New-York Manumission Society records are digitized and available in the Shelby White and Leon Levy Digital Library.</field>
+     <field name="creator_teim">New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated</field>
+     <field name="creator_ssm">New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated</field>
+     <field name="creator_ssm">New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated</field>
+     <field name="unitdate_inclusive_teim">1785-1849</field>
+-    <field name="scopecontent_teim">The New-York Manumission Society records document the organization's sixty-four year history, relating to both its internal operations and public efforts on behalf of free and enslaved blacks of New York State. It is composed of meeting minutes, commission reports, financial records, indentures, registers, and communications.</field>
+-    <field name="scopecontent_teim">The largest portion of the collection is composed of the minutes of the quarterly meetings. These encompass committee appointments, reports from various committees, election results for officers, reports and decisions concerning the Society's sponsorship and operation of the African Free-School and houses of refuge for the benefit of New York's African American population. They also discuss efforts to enact legal reforms aimed at abolishing the slave trade in New York and preventing the exportation of slaves, reports on individual cases of slaves in need of assistance in negotiating their freedom, and the protection of manumitted slaves.</field>
+-    <field name="scopecontent_teim">Material relating to the day-to-day operation of the Society includes minutes of the Ways and Means Committee and the treasurer's account book. These cover issues such as collection of dues, expenses, income and payments, including rent for the African Free-School. Other material includes records and reports of various committees, such as the minutes of the Standing Committee, which discusses cases entered into on behalf of the Society, and one formed for obtaining land for the African Free-School. There are also a small number of circulars and communications to other organizations and miscellaneous minutes and reports. Among these are papers pertaining to the American Convention for Promoting the Abolition of Slavery.</field>
+-    <field name="scopecontent_teim">Relating to its more public work, the collection has documentation of slaves manumitted in New York City as well as those whose service was commuted to indenture. Although these predominantly relate to slaves held in New York State, some are for slaves in other states.</field>
+-    <field name="bioghist_teim">In January and February of 1785, a number of New York's leading white citizens convened to found the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated, commonly referred to as the New-York Manumission Society. The Society's mission was to publicly lobby for the abolition of slavery and manumission of slaves in New York State, and to advocate on behalf of those already freed. More specifically, the Society provided legal assistance to illegally enslaved blacks, prosecuted owners guilty of mistreating their slaves, and supported efforts to enforce laws banning the sale of slaves. Additionally, it sought to strengthen legislation against the transportation of slaves to and from New York State.</field>
+-    <field name="bioghist_teim">Among the Society's major achievements was the founding of the African Free-School in 1787, devoted to the education of black children as preparation for life as free citizens. The school played a significant role in producing new leadership from within the New York black community, before the Manumission Society turned it over to the New York public school system in 1834.</field>
+-    <field name="bioghist_teim">The Society's efforts helped bring about the Gradual Emancipation Law of 1799 and its counterpart in 1817, which officially ended slavery in New York in 1827. Emancipation slowly diminished the Society's role that ended with its disbanding in 1849.</field>
+-    <field name="bioghist_teim">The Society and its commitees met in a number of different locations around New York, including the Coffee House, the inn of John Simmons, the City Dispensary, Ely's School Room, the Senate Chamber at City Hall and the rooms of the African Free-School.</field>
+-    <field name="bioghist_teim">During its tenure, the Society drew together a diverse membership of varying political perspectives. It counted among its members, Quakers, professionals, merchants, and political figures, many of whom were also slave owners. Some of the Society's active members included: Robert C. Cornell, W. W. Woolsey, Nehemiah Allen, Melancton Smith, William T. Slocum, Samuel Bowne, Adrian Hegeman, Willet Seaman, Thomas Burling, John Jay, Alexander Hamilton, James Duane, John Murray, Jr., William Dunlap, Alexander McDougall, Noah Webster, Egbert Benson, and many others.</field>
++    <field name="scopecontent_teim">The New-York Manumission Society records document the organization&#39;s sixty-four year history, relating to both its internal operations and public efforts on behalf of free and enslaved blacks of New York State. It is composed of meeting minutes, commission reports, financial records, indentures, registers, and communications.</field>
++    <field name="scopecontent_teim">The largest portion of the collection is composed of the minutes of the quarterly meetings. These encompass committee appointments, reports from various committees, election results for officers, reports and decisions concerning the Society&#39;s sponsorship and operation of the African Free-School and houses of refuge for the benefit of New York&#39;s African American population. They also discuss efforts to enact legal reforms aimed at abolishing the slave trade in New York and preventing the exportation of slaves, reports on individual cases of slaves in need of assistance in negotiating their freedom, and the protection of manumitted slaves.</field>
++    <field name="scopecontent_teim">Material relating to the day-to-day operation of the Society includes minutes of the Ways and Means Committee and the treasurer&#39;s account book. These cover issues such as collection of dues, expenses, income and payments, including rent for the African Free-School. Other material includes records and reports of various committees, such as the minutes of the Standing Committee, which discusses cases entered into on behalf of the Society, and one formed for obtaining land for the African Free-School. There are also a small number of circulars and communications to other organizations and miscellaneous minutes and reports. Among these are papers pertaining to the American Convention for Promoting the Abolition of Slavery.</field>
++    <field name="scopecontent_teim">Relating to its more public work, the collection has documentation of slaves manumitted in New York City as well as those whose service was commuted to indenture. Although these predominantly relate to slaves held in New York State, some are for slaves in other states. </field>
++    <field name="bioghist_teim">In January and February of 1785, a number of New York&#39;s leading white citizens convened to found the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated, commonly referred to as the New-York Manumission Society. The Society&#39;s mission was to publicly lobby for the abolition of slavery and manumission of slaves in New York State, and to advocate on behalf of those already freed. More specifically, the Society provided legal assistance to illegally enslaved blacks, prosecuted owners guilty of mistreating their slaves, and supported efforts to enforce laws banning the sale of slaves. Additionally, it sought to strengthen legislation against the transportation of slaves to and from New York State.</field>
++    <field name="bioghist_teim">Among the Society&#39;s major achievements was the founding of the African Free-School in 1787, devoted to the education of black children as preparation for life as free citizens. The school played a significant role in producing new leadership from within the New York black community, before the Manumission Society turned it over to the New York public school system in 1834.</field>
++    <field name="bioghist_teim">The Society&#39;s efforts helped bring about the Gradual Emancipation Law of 1799 and its counterpart in 1817, which officially ended slavery in New York in 1827. Emancipation slowly diminished the Society&#39;s role that ended with its disbanding in 1849.</field>
++    <field name="bioghist_teim">The Society and its commitees met in a number of different locations around New York, including the Coffee House, the inn of John Simmons, the City Dispensary, Ely&#39;s School Room, the Senate Chamber at City Hall and the rooms of the African Free-School.</field>
++    <field name="bioghist_teim">During its tenure, the Society drew together a diverse membership of varying political perspectives. It counted among its members, Quakers, professionals, merchants, and political figures, many of whom were also slave owners. Some of the Society&#39;s active members included: Robert C. Cornell, W. W. Woolsey, Nehemiah Allen, Melancton Smith, William T. Slocum, Samuel Bowne, Adrian Hegeman, Willet Seaman, Thomas Burling, John Jay, Alexander Hamilton, James Duane, John Murray, Jr., William Dunlap, Alexander McDougall, Noah Webster, Egbert Benson, and many others.</field>
+     <field name="corpname_teim">New-York Historical Society</field>
+     <field name="corpname_teim">New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated</field>
+     <field name="corpname_teim">American Convention for Promoting the Abolition of Slavery and Improving the Condition of the African Race [111]</field>
+@@ -80,24 +88,24 @@
+     <field name="persname_ssm">Tompkins, Daniel D., 1774-1825</field>
+     <field name="persname_ssm">Webster, Noah, 1758-1843</field>
+     <field name="persname_ssm">Woolsey, William Walton, 1766-1839</field>
+-    <field name="subject_teim">Slave trade -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Slavery -- New York (State).</field>
+-    <field name="subject_teim">Slaves -- Emancipation -- New York (State).</field>
+-    <field name="subject_teim">Antislavery movements -- New York (State) -- New York.</field>
+-    <field name="subject_teim">African Americans -- Education -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Abolitionists -- New York (State) -- New York -- Societies, etc.</field>
+-    <field name="subject_teim">Slave trade -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Slavery -- New York (State).</field>
+-    <field name="subject_teim">Slaves -- Emancipation -- New York (State).</field>
+-    <field name="subject_teim">Antislavery movements -- New York (State) -- New York.</field>
+-    <field name="subject_teim">African Americans -- Education -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Abolitionists -- New York (State) -- New York -- Societies, etc.</field>
+-    <field name="subject_ssm">Slave trade -- New York (State) -- New York.</field>
++    <field name="subject_teim">Slave trade -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Slavery -- New York (State).</field>
++    <field name="subject_teim">Slaves -- Emancipation -- New York (State).</field>
++    <field name="subject_teim">Antislavery movements -- New York (State)  -- New York. </field>
++    <field name="subject_teim">African Americans  -- Education -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Abolitionists -- New York (State)  -- New York -- Societies, etc.</field>
++    <field name="subject_teim">Slave trade -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Slavery -- New York (State).</field>
++    <field name="subject_teim">Slaves -- Emancipation -- New York (State).</field>
++    <field name="subject_teim">Antislavery movements -- New York (State)  -- New York. </field>
++    <field name="subject_teim">African Americans  -- Education -- New York (State)  -- New York. </field>
++    <field name="subject_teim">Abolitionists -- New York (State)  -- New York -- Societies, etc.</field>
++    <field name="subject_ssm">Slave trade -- New York (State)  -- New York. </field>
+     <field name="subject_ssm">Slavery -- New York (State).</field>
+     <field name="subject_ssm">Slaves -- Emancipation -- New York (State).</field>
+-    <field name="subject_ssm">Antislavery movements -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">African Americans -- Education -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">Abolitionists -- New York (State) -- New York -- Societies, etc.</field>
++    <field name="subject_ssm">Antislavery movements -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">African Americans  -- Education -- New York (State)  -- New York. </field>
++    <field name="subject_ssm">Abolitionists -- New York (State)  -- New York -- Societies, etc.</field>
+     <field name="collection_sim">New-York Manumission Society records</field>
+     <field name="collection_ssm">New-York Manumission Society records</field>
+     <field name="collection_teim">New-York Manumission Society records</field>
+@@ -158,12 +166,12 @@
+     <field name="name_teim">Tompkins, Daniel D., 1774-1825</field>
+     <field name="name_teim">Webster, Noah, 1758-1843</field>
+     <field name="name_teim">Woolsey, William Walton, 1766-1839</field>
+-    <field name="subject_sim">Slave trade -- New York (State) -- New York.</field>
++    <field name="subject_sim">Slave trade -- New York (State)  -- New York. </field>
+     <field name="subject_sim">Slavery -- New York (State).</field>
+     <field name="subject_sim">Slaves -- Emancipation -- New York (State).</field>
+-    <field name="subject_sim">Antislavery movements -- New York (State) -- New York.</field>
+-    <field name="subject_sim">African Americans -- Education -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Abolitionists -- New York (State) -- New York -- Societies, etc.</field>
++    <field name="subject_sim">Antislavery movements -- New York (State)  -- New York. </field>
++    <field name="subject_sim">African Americans  -- Education -- New York (State)  -- New York. </field>
++    <field name="subject_sim">Abolitionists -- New York (State)  -- New York -- Societies, etc.</field>
+     <field name="material_type_sim">Account books.</field>
+     <field name="material_type_sim">Reports.</field>
+     <field name="material_type_sim">Registers (lists)</field>

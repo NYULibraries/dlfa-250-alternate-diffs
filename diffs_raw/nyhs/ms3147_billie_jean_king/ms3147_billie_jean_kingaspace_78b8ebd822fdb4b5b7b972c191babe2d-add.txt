@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Randy Moffitt baseball career</field>
+     <field name="unittitle_teim">Randy Moffitt baseball career</field>
+     <field name="unitdate_inclusive_teim">1965-1983</field>
+-    <field name="scopecontent_teim">Contains a signed photograph, correspondence, baseball game programs, and an issue of Sports Illustrated with article on Randy Moffitt's professional baseball career.</field>
++    <field name="scopecontent_teim">Contains a signed photograph, correspondence, baseball game programs, and an issue of Sports Illustrated with article on Randy Moffitt&#39;s professional baseball career.</field>
+     <field name="ref_ssi">aspace_78b8ebd822fdb4b5b7b972c191babe2d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 21</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 21</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series I. Early life and Moffitt family</field>
+     <field name="series_sim">Subseries I.B. Moffitt family</field>

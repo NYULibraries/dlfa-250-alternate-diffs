@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Amherst College, Amherst, MA. (Box 4 of 14)</field>
+     <field name="unittitle_teim">Amherst College, Amherst, MA. (Box 4 of 14)</field>
+-    <field name="scopecontent_teim">General (22 cont'd); Union Building (23)</field>
++    <field name="scopecontent_teim">General (22 cont&#39;d); Union Building (23)</field>
+     <field name="ref_ssi">aspace_2be7d922ea8521dab55e710763d89045</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Offsite-Box: II.9</field>
+     <field name="location_si">Offsite-Box: II.9</field>
+     <field name="collection_teim">McKim, Mead and White architectural records</field>
++    <field name="author_teim">N-YHS staff  </field>
+     <field name="collection_unitid_teim">PR 42</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_sim">Subseries II.A: 1950 Transfer</field>

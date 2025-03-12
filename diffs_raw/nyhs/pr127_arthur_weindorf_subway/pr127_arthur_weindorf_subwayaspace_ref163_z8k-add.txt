@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VII. Negatives</field>
+     <field name="unittitle_teim">Series VII. Negatives</field>
+-    <field name="scopecontent_teim">Series VII is comprised of both glass and film negatives. All but two are 8 x 10 inches. The two 11 x 14 negatives are both of subway route maps drawn by Weindorf in 1920. Most of the other negatives are images of Weindorf's models.</field>
++    <field name="scopecontent_teim">Series VII is comprised of both glass and film negatives. All but two are 8 x 10 inches. The two 11 x 14 negatives are both of subway route maps drawn by Weindorf in 1920. Most of the other negatives are images of Weindorf&#39;s models. </field>
+     <field name="scopecontent_teim">Negatives are organized by medium. All models are by Weindorf.</field>
+     <field name="ref_ssi">aspace_ref163_z8k</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_si">Series VII. Negatives</field>
+     <field name="heading_ssm">Series VII. Negatives</field>

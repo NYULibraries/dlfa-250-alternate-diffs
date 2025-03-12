@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Alexander Morgan Hamilton family photograph collection</field>
+     <field name="collection_unitid_ssm">PR 103</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz's marriage to C. Egerton Warburton and to Philadelphia society</field>
+-    <field name="unittitle_teim">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz's marriage to C. Egerton Warburton and to Philadelphia society</field>
++    <field name="unittitle_ssm">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz&#39;s marriage to C. Egerton Warburton and to Philadelphia society</field>
++    <field name="unittitle_teim">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz&#39;s marriage to C. Egerton Warburton and to Philadelphia society</field>
+     <field name="unitdate_normal_ssm">1923/1923</field>
+     <field name="unitdate_normal_teim">1923/1923</field>
+     <field name="unitdate_normal_sim">1923/1923</field>
+@@ -32,10 +32,11 @@
+     <field name="name_sim">C. Egerton Warburton</field>
+     <field name="name_teim">C. Egerton Warburton</field>
+     <field name="collection_teim">Alexander Morgan Hamilton family photograph collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 103</field>
+     <field name="series_sim">Series I: Scrapbooks</field>
+-    <field name="series_si">Series I: Scrapbooks &gt;&gt; Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz's marriage to C. Egerton Warburton and to Philadelphia society</field>
+-    <field name="heading_ssm">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz's marriage to C. Egerton Warburton and to Philadelphia society</field>
++    <field name="series_si">Series I: Scrapbooks &gt;&gt; Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz&#39;s marriage to C. Egerton Warburton and to Philadelphia society</field>
++    <field name="heading_ssm">Scrapbook: Photographs, telegrams and clippings relating to Elizabeth Peltz&#39;s marriage to C. Egerton Warburton and to Philadelphia society</field>
+     <field name="unitdate_start_sim">1923</field>
+     <field name="unitdate_start_ssm">1923</field>
+     <field name="unitdate_start_si">1923</field>

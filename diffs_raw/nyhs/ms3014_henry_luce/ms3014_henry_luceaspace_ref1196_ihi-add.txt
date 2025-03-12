@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Memoranda</field>
+     <field name="unittitle_teim">Memoranda</field>
+     <field name="unitdate_teim">1967</field>
+-    <field name="scopecontent_teim">Includes copies of letters to and response from Robert F. Kennedy, handwritten and typed "Notes on the Newspaper Question," and a signed original letter from Major General Neil D. Van Sickle following HRL's death.</field>
++    <field name="scopecontent_teim">Includes copies of letters to and response from Robert F. Kennedy, handwritten and typed &#34;Notes on the Newspaper Question,&#34; and a signed original letter from Major General Neil D. Van Sickle following HRL&#39;s death.</field>
+     <field name="ref_ssi">aspace_ref1196_ihi</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 59, Folder: 6</field>
+     <field name="location_si">Box: 59, Folder: 6</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series III. Notable Memoranda</field>
+     <field name="series_si">Series III. Notable Memoranda &gt;&gt; Memoranda</field>

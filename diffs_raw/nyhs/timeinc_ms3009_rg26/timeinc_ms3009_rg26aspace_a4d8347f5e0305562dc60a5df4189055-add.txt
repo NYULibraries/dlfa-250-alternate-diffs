@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Life Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 26</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Small Dealers' Importance</field>
+-    <field name="unittitle_teim">Small Dealers' Importance</field>
++    <field name="unittitle_ssm">Small Dealers&#39; Importance</field>
++    <field name="unittitle_teim">Small Dealers&#39; Importance</field>
+     <field name="unitdate_inclusive_teim">1955</field>
+     <field name="ref_ssi">aspace_a4d8347f5e0305562dc60a5df4189055</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 3034, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 3034, Folder: 8</field>
+     <field name="collection_teim">Time Inc. Life Publishing and Business Records</field>
++    <field name="author_teim">Samantha Brown and Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 26</field>
+     <field name="series_sim">Series IV. Market Research Department Files</field>
+-    <field name="series_si">Series IV. Market Research Department Files &gt;&gt; Small Dealers' Importance</field>
+-    <field name="heading_ssm">Small Dealers' Importance</field>
++    <field name="series_si">Series IV. Market Research Department Files &gt;&gt; Small Dealers&#39; Importance</field>
++    <field name="heading_ssm">Small Dealers&#39; Importance</field>
+     <field name="unitdate_ssm">Inclusive, 1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">423</field>

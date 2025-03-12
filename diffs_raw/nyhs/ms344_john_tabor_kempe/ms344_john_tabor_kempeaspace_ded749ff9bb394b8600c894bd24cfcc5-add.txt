@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,11 @@
+     <field name="collection_ssm">John Tabor Kempe Papers</field>
+     <field name="collection_unitid_ssm">MS 344</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison]</field>
+-    <field name="unittitle_teim">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison]</field>
++    <field name="unittitle_ssm">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison] </field>
++    <field name="unittitle_teim">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison] </field>
+     <field name="unitdate_inclusive_teim">1770-1774</field>
+-    <field name="scopecontent_teim">Folder 2 of 3. See also Leadbetter vs. Harison in Supreme Court of Judicature. Case includes bill of reviver, accounts, statement, answer, affs, notes, jury list, bill, notices, orders, replication, notice of trial, answer (copy), subpeona, referee's rpt, injunction, and rule of reference.</field>
++    <field name="scopecontent_teim">Folder 2 of 3. See also Leadbetter vs. Harison in Supreme Court of Judicature. Case includes bill of reviver, accounts, statement, answer, affs, notes, jury list, bill, notices, orders, replication, notice of trial, answer (copy), subpeona, referee&#39;s rpt, 
++injunction, and rule of reference.</field>
+     <field name="ref_ssi">aspace_ded749ff9bb394b8600c894bd24cfcc5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +30,12 @@
+     <field name="location_ssm">Box: 8, Folder: 6</field>
+     <field name="location_si">Box: 8, Folder: 6</field>
+     <field name="collection_teim">John Tabor Kempe Papers</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 344</field>
+     <field name="series_sim">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+     <field name="series_sim">Subseries 3: Chancery Court</field>
+-    <field name="series_si">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated &gt;&gt; Subseries 3: Chancery Court &gt;&gt; James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison]</field>
+-    <field name="heading_ssm">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison]</field>
++    <field name="series_si">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated &gt;&gt; Subseries 3: Chancery Court &gt;&gt; James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison] </field>
++    <field name="heading_ssm">James Leadbetter vs. George Harison, George Folliott, Richard Nicholls, [and Jane Harison] </field>
+     <field name="unitdate_ssm">Inclusive, 1770-1774</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">410</field>

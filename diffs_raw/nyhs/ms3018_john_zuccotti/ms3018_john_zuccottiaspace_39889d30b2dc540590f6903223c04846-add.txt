@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Planning Reports</field>
+     <field name="unittitle_teim">Planning Reports</field>
+     <field name="unitdate_inclusive_teim">1977-1978</field>
+-    <field name="scopecontent_teim">Includes three reports: Cooperative Community Planning (June 1977) and A New Zoning for New York City (July 1977), both issued by the City Planning Commission, and A New Partnership to Conserve America's Communities: A Status Report on the President's Urban Policy" (June 1978), issued by the White House.</field>
++    <field name="scopecontent_teim">Includes three reports: Cooperative Community Planning (June 1977) and A New Zoning for New York City (July 1977), both issued by the City Planning Commission, and A New Partnership to Conserve America&#39;s Communities: A Status Report on the President&#39;s Urban Policy&#34; (June 1978), issued by the White House.</field>
+     <field name="ref_ssi">aspace_39889d30b2dc540590f6903223c04846</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 11, Folder: 11</field>
+     <field name="collection_teim">John Zuccotti papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3018</field>
+     <field name="series_sim">Series VI. General Subjects</field>
+     <field name="series_si">Series VI. General Subjects &gt;&gt; Planning Reports</field>

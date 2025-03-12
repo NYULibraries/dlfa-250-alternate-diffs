@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society general correspondence</field>
+     <field name="collection_unitid_ssm">NYHS-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Correspondence. 1904 October</field>
+-    <field name="unittitle_teim">Correspondence. 1904 October</field>
++    <field name="unittitle_ssm">Correspondence. 1904 October </field>
++    <field name="unittitle_teim">Correspondence. 1904 October </field>
+     <field name="unitdate_teim">1904</field>
+-    <field name="scopecontent_teim">Includes October 11 letter to the Lord Archbishop of Canterbury announcing his election as an Honorary Member of N-YHS, with attached copy of resolutions passed October 10 reiterating the institution's devotion to ecclesiastical history.</field>
++    <field name="scopecontent_teim">Includes October 11 letter to the Lord Archbishop of Canterbury announcing his election as an Honorary Member of N-YHS, with attached copy of resolutions passed October 10 reiterating the institution&#39;s devotion to ecclesiastical history.</field>
+     <field name="ref_ssi">aspace_ref954_cet</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 57, Folder: 2</field>
+     <field name="location_si">Box: 57, Folder: 2</field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series III. General Correspondence</field>
+-    <field name="series_si">Series III. General Correspondence &gt;&gt; Correspondence. 1904 October</field>
+-    <field name="heading_ssm">Correspondence. 1904 October</field>
++    <field name="series_si">Series III. General Correspondence &gt;&gt; Correspondence. 1904 October </field>
++    <field name="heading_ssm">Correspondence. 1904 October </field>
+     <field name="unitdate_ssm">1904</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">796</field>

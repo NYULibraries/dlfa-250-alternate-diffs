@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mott Haven Prevention Program's Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
+-    <field name="unittitle_teim">Mott Haven Prevention Program's Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
++    <field name="unittitle_ssm">Mott Haven Prevention Program&#39;s Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
++    <field name="unittitle_teim">Mott Haven Prevention Program&#39;s Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
+     <field name="unitdate_teim">circa 1977 June - 2000 September</field>
+     <field name="ref_ssi">aspace_ref597_6yo</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 32, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 32, Folder: 10</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008</field>
+     <field name="series_sim">Subseries IV.27. Mott Haven Prevention Program, circa 1977-2007</field>
+-    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.27. Mott Haven Prevention Program, circa 1977-2007 &gt;&gt; Mott Haven Prevention Program's Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
+-    <field name="heading_ssm">Mott Haven Prevention Program's Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
++    <field name="series_si">Series IV. Centers, Programs and Departments, Alphabetical, 1869-2008 &gt;&gt; Subseries IV.27. Mott Haven Prevention Program, circa 1977-2007 &gt;&gt; Mott Haven Prevention Program&#39;s Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
++    <field name="heading_ssm">Mott Haven Prevention Program&#39;s Ranch Leadership Program - Handbook, certificates, reports, proposals</field>
+     <field name="unitdate_ssm">circa 1977 June - 2000 September</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">525</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Help"</field>
+-    <field name="unittitle_teim">"Help"</field>
++    <field name="unittitle_ssm">&#34;Help&#34;</field>
++    <field name="unittitle_teim">&#34;Help&#34;</field>
+     <field name="ref_ssi">aspace_ref1403_d55</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 40</field>
+     <field name="location_si">Folder: 40</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series VI: Organizational</field>
+     <field name="series_sim">Subseries VI.1: Red Cross</field>
+-    <field name="series_si">Series VI: Organizational &gt;&gt; Subseries VI.1: Red Cross &gt;&gt; "Help"</field>
+-    <field name="heading_ssm">"Help"</field>
++    <field name="series_si">Series VI: Organizational &gt;&gt; Subseries VI.1: Red Cross &gt;&gt; &#34;Help&#34;</field>
++    <field name="heading_ssm">&#34;Help&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">822</field>
+   </doc>

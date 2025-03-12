@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Letters from &lt;strong&gt;John Romeyn Brodhead&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Letters from John Romeyn Brodhead</field>
+     <field name="unitdate_teim">1841-1843</field>
+-    <field name="scopecontent_teim">From The Hague and London, reporting on Brodhead's progress in procuring material from European archives to fill gaps in New York State archives. John Romeyn Brodhead (1814-1873) was an American historical scholar.</field>
++    <field name="scopecontent_teim">From The Hague and London, reporting on Brodhead&#39;s progress in procuring material from European archives to fill gaps in New York State archives. John Romeyn Brodhead (1814-1873) was an American historical scholar.</field>
+     <field name="ref_ssi">aspace_ref48_ypk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 3</field>
+     <field name="location_si">Box: 4, Folder: 3</field>
+     <field name="collection_teim">George Folsom papers</field>
++    <field name="author_teim">Joseph Ditta (2017, 2018)</field>
+     <field name="collection_unitid_teim">MS 222</field>
+     <field name="series_sim">Box 4: Letters, 1841-1845 (March)</field>
+     <field name="series_si">Box 4: Letters, 1841-1845 (March) &gt;&gt; Letters from &lt;strong&gt;John Romeyn Brodhead&lt;/strong&gt;</field>

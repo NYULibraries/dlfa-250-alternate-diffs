@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+     <field name="collection_unitid_ssm">MS 171</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individual Catalogues</field>
+-    <field name="unittitle_teim">Individual Catalogues</field>
++    <field name="unittitle_ssm">Individual Catalogues </field>
++    <field name="unittitle_teim">Individual Catalogues </field>
+     <field name="unitdate_inclusive_teim">1914-1987</field>
+     <field name="scopecontent_teim">Catalogues from Dodd, Mead: 1961-1982, 1985-1987.</field>
+     <field name="scopecontent_teim">Catalogues from other companies (acquired by Dodd, Mead): John Lane Company (1914, 1920, 1921); Duffield and Green (1933, 1934); Small, Maynard and Company (1926); Sears Publications (1933); Moffat, Yard &amp; Co. (1923/24); Robert M. McBride &amp; Company (1947, 1948).</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 13</field>
+     <field name="location_si">Offsite-Box: 13</field>
+     <field name="collection_teim">Dodd, Mead &amp; Company records</field>
++    <field name="author_teim">Sydney Bebon &amp; Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 171</field>
+     <field name="series_sim">Series III: Publications Publicity</field>
+     <field name="series_sim">Subseries III.B. Publicity Material</field>
+-    <field name="series_si">Series III: Publications Publicity &gt;&gt; Subseries III.B. Publicity Material &gt;&gt; Individual Catalogues</field>
+-    <field name="heading_ssm">Individual Catalogues</field>
++    <field name="series_si">Series III: Publications Publicity &gt;&gt; Subseries III.B. Publicity Material &gt;&gt; Individual Catalogues </field>
++    <field name="heading_ssm">Individual Catalogues </field>
+     <field name="unitdate_ssm">Inclusive, 1914-1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">106</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 2: Pathological slides</field>
+     <field name="unittitle_teim">Series 2: Pathological slides</field>
+-    <field name="scopecontent_teim">Lantern slides of removed human organs, most in advanced stages of disease. Often patient's names are included in the title, along with the organ and name of disease. Each slide is marked with the exposure time, suggesting that Wightman was just as interested in learning from the process of photographing these organs as in the resulting image. These slides were taken after 1898, as some are marked as property of "Dr. Wightman."</field>
++    <field name="scopecontent_teim">Lantern slides of removed human organs, most in advanced stages of disease. Often patient&#39;s names are included in the title, along with the organ and name of disease. Each slide is marked with the exposure time, suggesting that Wightman was just as interested in learning from the process of photographing these organs as in the resulting image. These slides were taken after 1898, as some are marked as property of &#34;Dr. Wightman.&#34;</field>
+     <field name="ref_ssi">aspace_ref17_tr8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Orrin Sage Wightman photographs and papers</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 94</field>
+     <field name="series_si">Series 2: Pathological slides</field>
+     <field name="heading_ssm">Series 2: Pathological slides</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">S. Niewenhous, Inc. Architectural Specifications Collection</field>
+     <field name="collection_unitid_ssm">PR 93</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Southwest corner of 156th Street and St. Ann's Avenue (apartment house)</field>
+-    <field name="unittitle_teim">Southwest corner of 156th Street and St. Ann's Avenue (apartment house)</field>
++    <field name="unittitle_ssm">Southwest corner of 156th Street and St. Ann&#39;s Avenue (apartment house)</field>
++    <field name="unittitle_teim">Southwest corner of 156th Street and St. Ann&#39;s Avenue (apartment house)</field>
+     <field name="unitdate_normal_ssm">1901/1903</field>
+     <field name="unitdate_normal_teim">1901/1903</field>
+     <field name="unitdate_normal_sim">1901/1903</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 3, Folder: 27</field>
+     <field name="location_si">Box: 3, Folder: 27</field>
+     <field name="collection_teim">S. Niewenhous, Inc. Architectural Specifications Collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 93</field>
+     <field name="series_sim">Series II: Miscellaneous Buildings</field>
+     <field name="series_sim">Bronx</field>
+-    <field name="series_si">Series II: Miscellaneous Buildings &gt;&gt; Bronx &gt;&gt; Southwest corner of 156th Street and St. Ann's Avenue (apartment house)</field>
+-    <field name="heading_ssm">Southwest corner of 156th Street and St. Ann's Avenue (apartment house)</field>
++    <field name="series_si">Series II: Miscellaneous Buildings &gt;&gt; Bronx &gt;&gt; Southwest corner of 156th Street and St. Ann&#39;s Avenue (apartment house)</field>
++    <field name="heading_ssm">Southwest corner of 156th Street and St. Ann&#39;s Avenue (apartment house)</field>
+     <field name="unitdate_start_sim">1901</field>
+     <field name="unitdate_start_ssm">1901</field>
+     <field name="unitdate_start_si">1901</field>

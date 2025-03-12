@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Series XI. Clippings, 1901-1954</field>
+     <field name="unittitle_teim">Series XI. Clippings, 1901-1954</field>
+-    <field name="scopecontent_teim">This series contains newspaper clippings, including copies of Lockley's Oregon Journal column "Lockley's Impressions," and the obituary of Frederic E. Lockley.</field>
++    <field name="scopecontent_teim">This series contains newspaper clippings, including copies of Lockley&#39;s Oregon Journal column &#34;Lockley&#39;s Impressions,&#34; and the obituary of Frederic E. Lockley.</field>
+     <field name="title_teim">Oregon Journal</field>
+     <field name="title_ssm">Oregon Journal</field>
+     <field name="ref_ssi">aspace_ref98_upk</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Fred Lockley Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 389</field>
+     <field name="series_sim">Single Folder Series</field>
+     <field name="series_si">Single Folder Series &gt;&gt; Series XI. Clippings, 1901-1954</field>

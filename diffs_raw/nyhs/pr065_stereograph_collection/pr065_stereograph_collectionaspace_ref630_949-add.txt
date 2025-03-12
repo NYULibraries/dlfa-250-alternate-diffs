@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1867/1902</field>
+     <field name="unitdate_inclusive_teim">[1867-1902]</field>
+     <field name="scopecontent_teim">PR-065-0616</field>
+-    <field name="scopecontent_teim">Oregon: primarily views on the Columbia River including the Garrison and the blockhouse at the Cascades, a fish wheel, train passing the "Pillars of Hercules," railroad siding at the Dalles, with the Cascade foothill beyond, train and steamboat at landing at the Cascades, huge log raft on the river; men and fish weir on the Clackamas River; horse-pulled wheat combines; glaciers on Mt. Hood.</field>
++    <field name="scopecontent_teim">Oregon: primarily views on the Columbia River including the Garrison and the blockhouse at the Cascades, a fish wheel, train passing the &#34;Pillars of Hercules,&#34; railroad siding at the Dalles, with the Cascade foothill beyond, train and steamboat at landing at the Cascades, huge log raft on the river; men and fish weir on the Clackamas River; horse-pulled wheat combines; glaciers on Mt. Hood.</field>
+     <field name="scopecontent_teim">13 items</field>
+     <field name="ref_ssi">aspace_ref630_949</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 54</field>
+     <field name="location_si">Box: 54</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; Oregon</field>

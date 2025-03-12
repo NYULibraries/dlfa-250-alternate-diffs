@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">John Lewis Glass samples</field>
+     <field name="unittitle_teim">John Lewis Glass samples</field>
+     <field name="unitdate_inclusive_teim">circa 2016-2018</field>
+-    <field name="scopecontent_teim">Two 8 x 8-inch samples of "cast glass goldleaf custom gold powder" for the bar counter in the Four Seasons second and final location, 42 East 49th Street.</field>
++    <field name="scopecontent_teim">Two 8 x 8-inch samples of &#34;cast glass goldleaf custom gold powder&#34; for the bar counter in the Four Seasons second and final location, 42 East 49th Street.</field>
+     <field name="ref_ssi">aspace_f9fa10eb08bc379c9c1cd4a9d1536540</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 13</field>
+     <field name="location_si">Offsite-Box: 13</field>
+     <field name="collection_teim">Four Seasons Restaurant collection</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3151</field>
+     <field name="series_sim">Series VII. Objects</field>
+     <field name="series_si">Series VII. Objects &gt;&gt; John Lewis Glass samples</field>

@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,11 +19,11 @@
+     <field name="collection_ssm">Time Inc. Sports Illustrated Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">World's Fair Film</field>
+-    <field name="unittitle_teim">World's Fair Film</field>
++    <field name="unittitle_ssm">World&#39;s Fair Film</field>
++    <field name="unittitle_teim">World&#39;s Fair Film</field>
+     <field name="unitdate_inclusive_teim">1964 August</field>
+     <field name="scopecontent_teim">Includes audiovisual material.</field>
+-    <field name="scopecontent_teim">1 film reel ; 16mm. On reel: "Sports Illustrated at the fair."</field>
++    <field name="scopecontent_teim">1 film reel ; 16mm. On reel: &#34;Sports Illustrated at the fair.&#34;</field>
+     <field name="ref_ssi">aspace_e40d16b2dd147ed08fa3100b5d5c5f8c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Offsite-Box: 4131, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 4131, Folder: 3</field>
+     <field name="collection_teim">Time Inc. Sports Illustrated Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 35</field>
+     <field name="series_sim">Series IV. Advertising Promotion Department Records</field>
+     <field name="series_sim">Subseries IV.A. Special Events and Publicity Director Keith Morris Files</field>
+     <field name="series_sim">Subsubseries IV.A.5. Promotional Audiovisual Files</field>
+-    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.5. Promotional Audiovisual Files &gt;&gt; World's Fair Film</field>
+-    <field name="heading_ssm">World's Fair Film</field>
++    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.5. Promotional Audiovisual Files &gt;&gt; World&#39;s Fair Film</field>
++    <field name="heading_ssm">World&#39;s Fair Film</field>
+     <field name="unitdate_ssm">Inclusive, 1964 August</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">200</field>

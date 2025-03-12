@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3180_record_of_wills</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Record of Wills lithographed from transcriptions of originals in the Surrogate's Court, New York City</field>
+-    <field name="collection_ssm">Record of Wills lithographed from transcriptions of originals in the Surrogate's Court, New York City</field>
++    <field name="collection_sim">Record of Wills lithographed from transcriptions of originals in the Surrogate&#39;s Court, New York City</field>
++    <field name="collection_ssm">Record of Wills lithographed from transcriptions of originals in the Surrogate&#39;s Court, New York City</field>
+     <field name="collection_unitid_ssm">MS 3180</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Record of Wills. Liber 39</field>
+@@ -20,7 +20,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 9</field>
+     <field name="location_si">Offsite-Box: 9</field>
+-    <field name="collection_teim">Record of Wills lithographed from transcriptions of originals in the Surrogate's Court, New York City</field>
++    <field name="collection_teim">Record of Wills lithographed from transcriptions of originals in the Surrogate&#39;s Court, New York City</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3180</field>
+     <field name="series_si">Record of Wills. Liber 39</field>
+     <field name="heading_ssm">Record of Wills. Liber 39</field>

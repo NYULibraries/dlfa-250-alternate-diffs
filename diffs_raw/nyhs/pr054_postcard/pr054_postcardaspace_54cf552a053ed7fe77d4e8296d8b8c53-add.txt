@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,15 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Hotels (F)&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Manhattan | Hotels (F)</field>
+-    <field name="scopecontent_teim">Fifth Avenue (old) Fifth Avenue (new) Flanders Florence House Forrest</field>
++    <field name="scopecontent_teim">Fifth Avenue (old)
++
++Fifth Avenue (new)
++
++Flanders
++
++Florence House
++
++Forrest</field>
+     <field name="ref_ssi">aspace_54cf552a053ed7fe77d4e8296d8b8c53</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +36,7 @@
+     <field name="location_ssm">Box: 48</field>
+     <field name="location_si">Box: 48</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>

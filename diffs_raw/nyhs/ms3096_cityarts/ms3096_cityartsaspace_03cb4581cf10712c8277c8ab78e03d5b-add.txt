@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">CITYarts Inc. records</field>
+     <field name="collection_unitid_ssm">MS 3096</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Binder #30. Project 164: The Eagle's Nest, Tree of Life</field>
+-    <field name="unittitle_teim">Binder #30. Project 164: The Eagle's Nest, Tree of Life</field>
++    <field name="unittitle_ssm">Binder #30. Project 164: The Eagle&#39;s Nest, Tree of Life</field>
++    <field name="unittitle_teim">Binder #30. Project 164: The Eagle&#39;s Nest, Tree of Life</field>
+     <field name="unitdate_inclusive_teim">1991</field>
+     <field name="scopecontent_teim">Mural, 1879 Clinton Avenue, Bronx. Documents include correspondence, grant information, announcements, poem, questionnaires, etc.</field>
+     <field name="ref_ssi">aspace_03cb4581cf10712c8277c8ab78e03d5b</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 8</field>
+     <field name="location_si">Offsite-Box: 8</field>
+     <field name="collection_teim">CITYarts Inc. records</field>
++    <field name="author_teim">Sydney Bebon and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3096</field>
+     <field name="series_sim">Series I. Project Binders</field>
+-    <field name="series_si">Series I. Project Binders &gt;&gt; Binder #30. Project 164: The Eagle's Nest, Tree of Life</field>
+-    <field name="heading_ssm">Binder #30. Project 164: The Eagle's Nest, Tree of Life</field>
++    <field name="series_si">Series I. Project Binders &gt;&gt; Binder #30. Project 164: The Eagle&#39;s Nest, Tree of Life</field>
++    <field name="heading_ssm">Binder #30. Project 164: The Eagle&#39;s Nest, Tree of Life</field>
+     <field name="unitdate_ssm">Inclusive, 1991</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>

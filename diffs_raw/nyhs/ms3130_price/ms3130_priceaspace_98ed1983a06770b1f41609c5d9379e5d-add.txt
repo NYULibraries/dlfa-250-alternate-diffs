@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Lane Bryant</field>
+     <field name="unittitle_teim">Lane Bryant</field>
+     <field name="unitdate_inclusive_teim">1977</field>
+-    <field name="scopecontent_teim">Robert Price was elected to the board of directors of Lane Bryant, the women's clothing store chain, in 1977.</field>
++    <field name="scopecontent_teim">Robert Price was elected to the board of directors of Lane Bryant, the women&#39;s clothing store chain, in 1977.</field>
+     <field name="ref_ssi">aspace_98ed1983a06770b1f41609c5d9379e5d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 25</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 25</field>
+     <field name="collection_teim">Robert Price papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3130</field>
+     <field name="series_sim">Series IV. Price professional</field>
+     <field name="series_si">Series IV. Price professional &gt;&gt; Lane Bryant</field>

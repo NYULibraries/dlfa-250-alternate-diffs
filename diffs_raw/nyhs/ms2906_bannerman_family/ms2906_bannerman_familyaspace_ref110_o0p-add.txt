@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries D: Glass Plate Negatives</field>
+     <field name="unittitle_teim">Subseries D: Glass Plate Negatives</field>
+-    <field name="scopecontent_teim">This series contains glass plate negatives of Polopel (Bannerman) Island, including images of the interior and exterior of the Bannerman's house and the island itself. A CD of digital prints made from the negatives is also included.</field>
++    <field name="scopecontent_teim">This series contains glass plate negatives of Polopel (Bannerman) Island, including images of the interior and exterior of the Bannerman&#39;s house and the island itself. A CD of digital prints made from the negatives is also included.</field>
+     <field name="ref_ssi">aspace_ref110_o0p</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bannerman Family papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MS 2906</field>
+     <field name="series_sim">Series IV: Photographs and Negatives</field>
+     <field name="series_si">Series IV: Photographs and Negatives &gt;&gt; Subseries D: Glass Plate Negatives</field>

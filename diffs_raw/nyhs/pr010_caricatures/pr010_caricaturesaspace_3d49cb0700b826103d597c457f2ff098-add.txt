@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Above: How He Went In. Below: As Light &amp; As Funny As "Punch". [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
+-    <field name="unittitle_teim">Above: How He Went In. Below: As Light &amp; As Funny As "Punch". [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
++    <field name="unittitle_ssm">Above: How He Went In. Below: As Light &amp; As Funny As &#34;Punch&#34;. [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
++    <field name="unittitle_teim">Above: How He Went In. Below: As Light &amp; As Funny As &#34;Punch&#34;. [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
+     <field name="unitdate_teim">1890</field>
+     <field name="scopecontent_teim">Pencil drawing. Signed Th:Nast. Acquisition(?) date on back: April 27, 1942.</field>
+     <field name="ref_ssi">aspace_3d49cb0700b826103d597c457f2ff098</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-121, item: 1890-7</field>
+     <field name="location_si">Folder: FF-121, item: 1890-7</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Above: How He Went In. Below: As Light &amp; As Funny As "Punch". [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
+-    <field name="heading_ssm">Above: How He Went In. Below: As Light &amp; As Funny As "Punch". [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Above: How He Went In. Below: As Light &amp; As Funny As &#34;Punch&#34;. [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
++    <field name="heading_ssm">Above: How He Went In. Below: As Light &amp; As Funny As &#34;Punch&#34;. [Chauncey Depew, Harlem &amp; New Haven railroad accident]</field>
+     <field name="unitdate_ssm">1890</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1173</field>

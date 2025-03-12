@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"History of the Navy of the United States" by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
+-    <field name="unittitle_teim">"History of the Navy of the United States" by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
++    <field name="unittitle_ssm">&#34;History of the Navy of the United States&#34; by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
++    <field name="unittitle_teim">&#34;History of the Navy of the United States&#34; by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
+     <field name="unitdate_teim">1890</field>
+     <field name="ref_ssi">aspace_ref136_jz2</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Volume: 2, part II</field>
+     <field name="location_si">Volume: 2, part II</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 11. James Fenimore Cooper (1890)</field>
+-    <field name="series_si">Series 11. James Fenimore Cooper (1890) &gt;&gt; "History of the Navy of the United States" by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
+-    <field name="heading_ssm">"History of the Navy of the United States" by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
++    <field name="series_si">Series 11. James Fenimore Cooper (1890) &gt;&gt; &#34;History of the Navy of the United States&#34; by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
++    <field name="heading_ssm">&#34;History of the Navy of the United States&#34; by James Fenimore Cooper, extra-illustrated by John Sanford Barnes</field>
+     <field name="unitdate_ssm">1890</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">115</field>

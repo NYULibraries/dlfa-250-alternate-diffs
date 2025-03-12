@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,12 @@
+     <field name="collection_ssm">Horticultural Society of New York records</field>
+     <field name="collection_unitid_ssm">MS 3033</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York Horticultural Society: Illustrations from &lt;em&gt;Frank Leslie's Illsutrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">New York Horticultural Society: Illustrations from Frank Leslie's Illsutrated Newspaper</field>
++    <field name="unittitle_ssm">New York Horticultural Society: Illustrations from &lt;em&gt;Frank Leslie&#39;s Illsutrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">New York Horticultural Society: Illustrations from Frank Leslie&#39;s Illsutrated Newspaper</field>
+     <field name="unitdate_teim">1856, 1886</field>
+-    <field name="scopecontent_teim">1856 July 5: "Exhibition of the N. Y. Horticultural Society at Clinton Hall, N. Y." Frank Leslie's Illustrated Newspaper, 5 July 1856 [photocopy; for original, see Box: FF-11, Folder 13]</field>
+-    <field name="scopecontent_teim">1886 November 13: "New York City.--The Eighth Annual Chrysanthemum Exhibition, Under the Auspices of the New York Horticultural Society, at Cosmopolitan Hall, Forty-First Street and Broadway, November 2D-6th."</field>
++    <field name="scopecontent_teim">1856 July 5: &#34;Exhibition of the N. Y. Horticultural Society at Clinton Hall, N. Y.&#34; Frank Leslie&#39;s Illustrated Newspaper, 5 July 1856 [photocopy; for original, see Box: FF-11, Folder 13] 
++</field>
++    <field name="scopecontent_teim">1886 November 13: &#34;New York City.--The Eighth Annual Chrysanthemum Exhibition, Under the Auspices of the New York Horticultural Society, at Cosmopolitan Hall, Forty-First Street and Broadway, November 2D-6th.&#34;</field>
+     <field name="ref_ssi">aspace_ref937_xxw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +31,12 @@
+     <field name="location_ssm">Offsite-Box: 79, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 79, Folder: 9</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.C. Miscellaneous Print Material</field>
+-    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.C. Miscellaneous Print Material &gt;&gt; New York Horticultural Society: Illustrations from &lt;em&gt;Frank Leslie's Illsutrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">New York Horticultural Society: Illustrations from Frank Leslie's Illsutrated Newspaper</field>
++    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.C. Miscellaneous Print Material &gt;&gt; New York Horticultural Society: Illustrations from &lt;em&gt;Frank Leslie&#39;s Illsutrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">New York Horticultural Society: Illustrations from Frank Leslie&#39;s Illsutrated Newspaper</field>
+     <field name="unitdate_ssm">1856, 1886</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">813</field>

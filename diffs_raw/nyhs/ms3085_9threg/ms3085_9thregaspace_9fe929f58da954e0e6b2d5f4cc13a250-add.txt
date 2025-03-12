@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">New York City Guard (Folder 1 of 2)</field>
+     <field name="unittitle_teim">New York City Guard (Folder 1 of 2)</field>
+     <field name="unitdate_inclusive_teim">circa 1840-1850</field>
+-    <field name="scopecontent_teim">Folder contains the "City Guard Quick Step" sheet music. See second folder for oversized content.</field>
++    <field name="scopecontent_teim">Folder contains the &#34;City Guard Quick Step&#34; sheet music. See second folder for oversized content.</field>
+     <field name="ref_ssi">aspace_9fe929f58da954e0e6b2d5f4cc13a250</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 10</field>
+     <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
++    <field name="author_teim">Aki Synder</field>
+     <field name="collection_unitid_teim">MS 3085</field>
+     <field name="series_sim">Series IV: Collected Documents</field>
+     <field name="series_si">Series IV: Collected Documents &gt;&gt; New York City Guard (Folder 1 of 2)</field>

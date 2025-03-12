@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Chauncey, Isaac: Letters</field>
+     <field name="unittitle_teim">Chauncey, Isaac: Letters</field>
+     <field name="unitdate_teim">1815-1832</field>
+-    <field name="scopecontent_teim">Also includes one letter from Isaac Chauncey's brother, Ichabod Wolcott Chauncey (1821).</field>
++    <field name="scopecontent_teim">Also includes one letter from Isaac Chauncey&#39;s brother, Ichabod Wolcott Chauncey (1821).</field>
+     <field name="ref_ssi">aspace_ref1314_bbo</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 48</field>
+     <field name="location_si">Box: 1, Folder: 48</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 52. Miscellaneous manuscripts</field>
+     <field name="series_si">Series 52. Miscellaneous manuscripts &gt;&gt; Chauncey, Isaac: Letters</field>

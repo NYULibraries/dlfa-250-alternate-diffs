@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Time Inc. Staff Organizations</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 18</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Luncheon: Stolley, Richard</field>
+-    <field name="unittitle_teim">Luncheon: Stolley, Richard</field>
++    <field name="unittitle_ssm">Luncheon: Stolley, Richard </field>
++    <field name="unittitle_teim">Luncheon: Stolley, Richard </field>
+     <field name="unitdate_inclusive_teim">1985</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. Label on container: "Stolley - Speech TLAS 11/1985." Label on Side 1: "TLAS - Richard Stolley."</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. Label on container: ""Stolley, Richard TLAS (dup) - 'Picture Week' 11/85." Label on Side 1: "TLAS - Richard Stolley 11/85." Label on Side 2: "TLAS - Stolley cont. TLAS lunch."</field>
++    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. Label on container: &#34;Stolley - Speech TLAS 11/1985.&#34; Label on Side 1: &#34;TLAS - Richard Stolley.&#34; </field>
++    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. Label on container: &#34;&#34;Stolley, Richard TLAS (dup) - &#39;Picture Week&#39; 11/85.&#34; Label on Side 1: &#34;TLAS - Richard Stolley 11/85.&#34; Label on Side 2: &#34;TLAS - Stolley cont. TLAS lunch.&#34;</field>
+     <field name="ref_ssi">aspace_6ac05b4bbc1c03691c56affde8fd193c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 2215, item: 7-8</field>
+     <field name="location_si">Offsite-Box: 2215, item: 7-8</field>
+     <field name="collection_teim">Time Inc. Staff Organizations</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 18</field>
+     <field name="series_sim">Series III. Time-Life Alumni Society (TLAS) Collection</field>
+     <field name="series_sim">Subseries III.D. Audiovisual materials [RESTRICTED]</field>
+-    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.D. Audiovisual materials [RESTRICTED] &gt;&gt; Luncheon: Stolley, Richard</field>
+-    <field name="heading_ssm">Luncheon: Stolley, Richard</field>
++    <field name="series_si">Series III. Time-Life Alumni Society (TLAS) Collection &gt;&gt; Subseries III.D. Audiovisual materials [RESTRICTED] &gt;&gt; Luncheon: Stolley, Richard </field>
++    <field name="heading_ssm">Luncheon: Stolley, Richard </field>
+     <field name="unitdate_ssm">Inclusive, 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">145</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Time Inc. Sports Illustrated Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Macy's: Valiant Promotion</field>
+-    <field name="unittitle_teim">Macy's: Valiant Promotion</field>
++    <field name="unittitle_ssm">Macy&#39;s: Valiant Promotion</field>
++    <field name="unittitle_teim">Macy&#39;s: Valiant Promotion</field>
+     <field name="unitdate_inclusive_teim">1962</field>
+     <field name="ref_ssi">aspace_74fe076b26ea4eba1954f1533f1e3e2c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Offsite-Box: 4115, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 4115, Folder: 7</field>
+     <field name="collection_teim">Time Inc. Sports Illustrated Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 35</field>
+     <field name="series_sim">Series IV. Advertising Promotion Department Records</field>
+     <field name="series_sim">Subseries IV.A. Special Events and Publicity Director Keith Morris Files</field>
+     <field name="series_sim">Subsubseries IV.A.1. General Files</field>
+-    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.1. General Files &gt;&gt; Macy's: Valiant Promotion</field>
+-    <field name="heading_ssm">Macy's: Valiant Promotion</field>
++    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.1. General Files &gt;&gt; Macy&#39;s: Valiant Promotion</field>
++    <field name="heading_ssm">Macy&#39;s: Valiant Promotion</field>
+     <field name="unitdate_ssm">Inclusive, 1962</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">51</field>

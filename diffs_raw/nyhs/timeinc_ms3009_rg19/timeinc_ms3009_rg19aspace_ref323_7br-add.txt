@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1985/1985</field>
+     <field name="unitdate_normal_sim">1985/1985</field>
+     <field name="unitdate_inclusive_teim">1985</field>
+-    <field name="scopecontent_teim">Includes a memoranda from Wilson stating it is Time Inc.'s new stationary style, probably created after the logo redesign.</field>
++    <field name="scopecontent_teim">Includes a memoranda from Wilson stating it is Time Inc.&#39;s new stationary style, probably created after the logo redesign.</field>
+     <field name="ref_ssi">aspace_ref323_7br</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 1661, Folder: 15-16</field>
+     <field name="location_si">Offsite-Box: 1661, Folder: 15-16</field>
+     <field name="collection_teim">Time Inc. Corporate Public Affairs Department Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 19</field>
+     <field name="series_sim">Series I. Vice President Donald Wilson Files</field>
+     <field name="series_si">Series I. Vice President Donald Wilson Files &gt;&gt; Miscellaneous Memoranda and Letters: General</field>

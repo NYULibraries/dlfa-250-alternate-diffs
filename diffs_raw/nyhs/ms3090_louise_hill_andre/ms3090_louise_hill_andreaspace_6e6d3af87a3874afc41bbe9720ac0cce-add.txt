@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_inclusive_teim">1944-1959</field>
+-    <field name="scopecontent_teim">Includes correspondence with publishers, as well as research and reference correspondence with librarians and other sources. A few letters discuss Hill's financial situation as a retired widow with no pension, and her efforts to support herself.</field>
++    <field name="scopecontent_teim">Includes correspondence with publishers, as well as research and reference correspondence with librarians and other sources. A few letters discuss Hill&#39;s financial situation as a retired widow with no pension, and her efforts to support herself.</field>
+     <field name="ref_ssi">aspace_6e6d3af87a3874afc41bbe9720ac0cce</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1-4</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1-4</field>
+     <field name="collection_teim">Louise B. Hill research notes on John André</field>
++    <field name="author_teim">Elise Winks, Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 3090</field>
+     <field name="series_si">Correspondence</field>
+     <field name="heading_ssm">Correspondence</field>

@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_5497db65877d0fb04ad93894785fe338</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_5497db65877d0fb04ad93894785fe338</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Erasmus Hall High School—Medals, Jewelry, Buttons</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Erasmus Hall High School—Medals, Jewelry, Buttons</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,15 @@
+     <field name="unittitle_ssm">Silver medallion issued in 1905 to commemorate laying of the cornerstone of the new building of Erasmus Hall High School [NOT PRESENT]</field>
+     <field name="unittitle_teim">Silver medallion issued in 1905 to commemorate laying of the cornerstone of the new building of Erasmus Hall High School [NOT PRESENT]</field>
+     <field name="unitdate_inclusive_teim">1905</field>
+-    <field name="scopecontent_teim">This medal is engraved with the name of Clarence E. Meleney. In original leather presentation box. Received as a gift from G. C. Meleney, White Plain, N.Y., June 1975. Recorded as being in Drawer 15.</field>
++    <field name="scopecontent_teim">This medal is engraved with the name of Clarence E. Meleney. In original leather presentation box.
++
++
++
++Received as a gift from G. C. Meleney, White Plain, N.Y., June 1975.
++
++
++
++Recorded as being in Drawer 15.</field>
+     <field name="ref_ssi">aspace_f52e90842baad5b9ecb01e740a484905</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +37,11 @@
+     <field name="location_ssm">Box: [unknown]</field>
+     <field name="location_si">Box: [unknown]</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Erasmus Hall High School—Medals, Jewelry, Buttons</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall High School—Medals, Jewelry, Buttons &gt;&gt; Silver medallion issued in 1905 to commemorate laying of the cornerstone of the new building of Erasmus Hall High School [NOT PRESENT]</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Erasmus Hall High School—Medals, Jewelry, Buttons &gt;&gt; Silver medallion issued in 1905 to commemorate laying of the cornerstone of the new building of Erasmus Hall High School [NOT PRESENT]</field>
+     <field name="heading_ssm">Silver medallion issued in 1905 to commemorate laying of the cornerstone of the new building of Erasmus Hall High School [NOT PRESENT]</field>
+     <field name="unitdate_ssm">Inclusive, 1905</field>
+     <field name="date_range_sim">undated &amp; other</field>

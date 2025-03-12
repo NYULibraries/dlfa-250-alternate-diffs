@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">He's Passing the Ammunition, Too! [World War II]</field>
+-    <field name="unittitle_teim">He's Passing the Ammunition, Too! [World War II]</field>
++    <field name="unittitle_ssm">He&#39;s Passing the Ammunition, Too! [World War II]</field>
++    <field name="unittitle_teim">He&#39;s Passing the Ammunition, Too! [World War II]</field>
+     <field name="unitdate_teim">1943</field>
+     <field name="scopecontent_teim">Drawing. Drawn for Philco by Paule Toring. Acquisition(?) date on back: Mar. 29, 1943.</field>
+     <field name="ref_ssi">aspace_fbc87383b31dbdc7ef23dd5c57a52ec2</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-145, item: 1943-1</field>
+     <field name="location_si">Folder: FF-145, item: 1943-1</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VII. 20th Century</field>
+-    <field name="series_si">Series VII. 20th Century &gt;&gt; He's Passing the Ammunition, Too! [World War II]</field>
+-    <field name="heading_ssm">He's Passing the Ammunition, Too! [World War II]</field>
++    <field name="series_si">Series VII. 20th Century &gt;&gt; He&#39;s Passing the Ammunition, Too! [World War II]</field>
++    <field name="heading_ssm">He&#39;s Passing the Ammunition, Too! [World War II]</field>
+     <field name="unitdate_ssm">1943</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1322</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: Photographs</field>
+     <field name="unittitle_teim">Series II: Photographs</field>
+     <field name="unitdate_teim">1857-1918</field>
+-    <field name="scopecontent_teim">This series consists of 22 silver gelatin and albumen photographs of New York Caledonian Club members in Highland dress. One hand-tinted photograph (1866) features a club officer bearing the Caledonian Club's gold flag, which was flown at Highland Games. Most photographs are larger than 14 x 18 inches.</field>
++    <field name="scopecontent_teim">This series consists of 22 silver gelatin and albumen photographs of New York Caledonian Club members in Highland dress. One hand-tinted photograph (1866) features a club officer bearing the Caledonian Club&#39;s gold flag, which was flown at Highland Games. Most photographs are larger than 14 x 18 inches.</field>
+     <field name="ref_ssi">aspace_ref20_yrz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York Caledonian Club records</field>
++    <field name="author_teim">Alison Dundy</field>
+     <field name="collection_unitid_teim">MS 2923</field>
+     <field name="series_si">Series II: Photographs</field>
+     <field name="heading_ssm">Series II: Photographs</field>

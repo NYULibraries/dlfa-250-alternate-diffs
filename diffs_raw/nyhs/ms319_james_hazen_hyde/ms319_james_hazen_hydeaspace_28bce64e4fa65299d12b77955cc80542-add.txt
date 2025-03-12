@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Edge, Walter E.</field>
+     <field name="unittitle_teim">Edge, Walter E.</field>
+     <field name="unitdate_inclusive_teim">1929-1931</field>
+-    <field name="scopecontent_teim">Concerns Ambassador Edge's initiative to acquire copies of portraits of past ambassadors to exhibit.</field>
++    <field name="scopecontent_teim">Concerns Ambassador Edge&#39;s initiative to acquire copies of portraits of past ambassadors to exhibit.</field>
+     <field name="ref_ssi">aspace_28bce64e4fa65299d12b77955cc80542</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 6</field>
+     <field name="location_si">Box: 4, Folder: 6</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Edge, Walter E.</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence 1952-1954. Stolen Property</field>
+     <field name="unittitle_teim">Correspondence 1952-1954. Stolen Property</field>
+     <field name="unitdate_teim">1952-1954</field>
+-    <field name="scopecontent_teim">Concerns letters sent to various museums by the Society in regard to the theft of the painting entitled, "View of a Windmill on a Canal" attributed to Theodore Rombouts (rumored to be a 19th century forgery).</field>
++    <field name="scopecontent_teim">Concerns letters sent to various museums by the Society in regard to the theft of the painting entitled, &#34;View of a Windmill on a Canal&#34; attributed to Theodore Rombouts (rumored to be a 19th century forgery).</field>
+     <field name="ref_ssi">aspace_ref4506_eit</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 294, Folder: 12</field>
+     <field name="location_si">Box: 294, Folder: 12</field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series IV. General Correspondence</field>
+     <field name="series_si">Series IV. General Correspondence &gt;&gt; Correspondence 1952-1954. Stolen Property</field>

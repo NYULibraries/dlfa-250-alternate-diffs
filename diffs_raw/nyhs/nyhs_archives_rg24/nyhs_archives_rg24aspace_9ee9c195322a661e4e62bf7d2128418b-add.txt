@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries I.A. Mortgage Investments</field>
+     <field name="unittitle_teim">Subseries I.A. Mortgage Investments</field>
+     <field name="unitdate_inclusive_teim">1880s-1944</field>
+-    <field name="scopecontent_teim">The subseries holds correspondence and some insurance policies related to N-YHS's investment of its funds in mortgages in the late 19th and early 20th centuries.</field>
++    <field name="scopecontent_teim">The subseries holds correspondence and some insurance policies related to N-YHS&#39;s investment of its funds in mortgages in the late 19th and early 20th centuries.</field>
+     <field name="ref_ssi">aspace_9ee9c195322a661e4e62bf7d2128418b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New-York Historical Society financial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 24</field>
+     <field name="series_sim">Series I. Investments</field>
+     <field name="series_si">Series I. Investments &gt;&gt; Subseries I.A. Mortgage Investments</field>

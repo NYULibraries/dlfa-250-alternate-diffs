@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Ward, J.Q.A. (John Quincy Adams)</field>
+     <field name="unittitle_teim">Ward, J.Q.A. (John Quincy Adams)</field>
+     <field name="unitdate_inclusive_teim">1899-1902</field>
+-    <field name="scopecontent_teim">Primarily concerns the sculptor's work on a statuette of Hyde's father.</field>
++    <field name="scopecontent_teim">Primarily concerns the sculptor&#39;s work on a statuette of Hyde&#39;s father.</field>
+     <field name="ref_ssi">aspace_4631085d8ed9517aeeefaeb3a5c904a3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 12, Folder: 19</field>
+     <field name="location_si">Box: 12, Folder: 19</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+     <field name="series_si">Series I. General Correspondence &gt;&gt; Ward, J.Q.A. (John Quincy Adams)</field>

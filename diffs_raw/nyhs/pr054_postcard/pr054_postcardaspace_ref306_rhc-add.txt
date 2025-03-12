@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,24 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Manhattan | Monuments&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Manhattan | Monuments</field>
+-    <field name="scopecontent_teim">Dewey Arch Grant's Tomb Lincoln Monument Maine Monument Sigel, Franz Monument Soldiers' and Sailors' Monument Victory Arch Washington Arch General</field>
++    <field name="scopecontent_teim">Dewey Arch
++
++Grant&#39;s Tomb
++
++Lincoln Monument
++
++Maine Monument
++
++Sigel, Franz Monument
++
++Soldiers&#39; and Sailors&#39; Monument
++
++Victory Arch
++
++Washington Arch
++
++General
++</field>
+     <field name="ref_ssi">aspace_ref306_rhc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -28,6 +45,7 @@
+     <field name="location_ssm">Box: 50</field>
+     <field name="location_si">Box: 50</field>
+     <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
++    <field name="author_teim">Jennifer Lewis (2002) and Joseph Ditta (2018-2023).</field>
+     <field name="collection_unitid_teim">PR 54</field>
+     <field name="series_sim">Series II. Geographic Locations | New York</field>
+     <field name="series_sim">Subseries II.B. New York City</field>

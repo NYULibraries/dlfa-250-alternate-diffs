@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Nicholas Scoppetta papers</field>
+     <field name="collection_unitid_ssm">MS 3017</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[Certificate] Children's Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
+-    <field name="unittitle_teim">[Certificate] Children's Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
++    <field name="unittitle_ssm">[Certificate] Children&#39;s Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
++    <field name="unittitle_teim">[Certificate] Children&#39;s Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
+     <field name="unitdate_teim">1993 October 20</field>
+     <field name="scopecontent_teim">With a reproduction of a historic photograph of children playing in a tenement-lined street.</field>
+     <field name="ref_ssi">aspace_ref404_iys</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">oversize: Large [NS12]</field>
+     <field name="location_si">oversize: Large [NS12]</field>
+     <field name="collection_teim">Nicholas Scoppetta papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3017</field>
+     <field name="series_sim">Series IV. Memorabilia</field>
+     <field name="series_sim">Subseries IV.A. Memorabilia: Photographs and awards</field>
+-    <field name="series_si">Series IV. Memorabilia &gt;&gt; Subseries IV.A. Memorabilia: Photographs and awards &gt;&gt; [Certificate] Children's Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
+-    <field name="heading_ssm">[Certificate] Children's Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
++    <field name="series_si">Series IV. Memorabilia &gt;&gt; Subseries IV.A. Memorabilia: Photographs and awards &gt;&gt; [Certificate] Children&#39;s Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
++    <field name="heading_ssm">[Certificate] Children&#39;s Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993.</field>
+     <field name="unitdate_ssm">1993 October 20</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">208</field>

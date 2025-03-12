@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bruce Davidson photograph collection</field>
+     <field name="collection_unitid_ssm">PR 89</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York - Brooklyn Gang</field>
+-    <field name="unittitle_teim">New York - Brooklyn Gang</field>
++    <field name="unittitle_ssm"> New York - Brooklyn Gang</field>
++    <field name="unittitle_teim"> New York - Brooklyn Gang</field>
+     <field name="unitdate_inclusive_teim">1959</field>
+     <field name="ref_ssi">aspace_820a5952d14dc309946d203c1f4d76cd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,13 @@
+     <field name="location_ssm">Box: 3, Folder: 3</field>
+     <field name="location_si">Box: 3, Folder: 3</field>
+     <field name="collection_teim">Bruce Davidson photograph collection</field>
++    <field name="author_teim"> Marybeth Kavanagh.
++
++Series I processed by Holly Hinman, 2002.</field>
+     <field name="collection_unitid_teim">PR 89</field>
+     <field name="series_sim">Series II: Photo Projects</field>
+-    <field name="series_si">Series II: Photo Projects &gt;&gt; New York - Brooklyn Gang</field>
+-    <field name="heading_ssm">New York - Brooklyn Gang</field>
++    <field name="series_si">Series II: Photo Projects &gt;&gt;  New York - Brooklyn Gang</field>
++    <field name="heading_ssm"> New York - Brooklyn Gang</field>
+     <field name="unitdate_ssm">Inclusive, 1959</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">26</field>

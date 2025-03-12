@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Civil War Stereographs</field>
+     <field name="collection_unitid_ssm">PR 65-1</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Panoramic view of Charleston, from the spire of St. Michael's Church (looking north.)</field>
+-    <field name="unittitle_teim">Panoramic view of Charleston, from the spire of St. Michael's Church (looking north.)</field>
++    <field name="unittitle_ssm">Panoramic view of Charleston, from the spire of St. Michael&#39;s Church (looking north.)</field>
++    <field name="unittitle_teim">Panoramic view of Charleston, from the spire of St. Michael&#39;s Church (looking north.)</field>
+     <field name="unitdate_teim">ca.1860</field>
+     <field name="ref_ssi">aspace_ref823_mor</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,11 @@
+     <field name="location_ssm">item: 796-18</field>
+     <field name="location_si">item: 796-18</field>
+     <field name="collection_teim">Civil War Stereographs</field>
++    <field name="author_teim">Janet Murray; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016
++</field>
+     <field name="collection_unitid_teim">PR 65-1</field>
+-    <field name="series_si">Panoramic view of Charleston, from the spire of St. Michael's Church (looking north.)</field>
+-    <field name="heading_ssm">Panoramic view of Charleston, from the spire of St. Michael's Church (looking north.)</field>
++    <field name="series_si">Panoramic view of Charleston, from the spire of St. Michael&#39;s Church (looking north.)</field>
++    <field name="heading_ssm">Panoramic view of Charleston, from the spire of St. Michael&#39;s Church (looking north.)</field>
+     <field name="unitdate_ssm">ca.1860</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">412</field>

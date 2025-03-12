@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Morris Huberland Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 194</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Liberty Storage Company, West 64th Street, ca. 1950" [Small-size statue of Liberty on top of building]</field>
+-    <field name="unittitle_teim">"Liberty Storage Company, West 64th Street, ca. 1950" [Small-size statue of Liberty on top of building]</field>
++    <field name="unittitle_ssm">&#34;Liberty Storage Company, West 64th Street, ca. 1950&#34; [Small-size statue of Liberty on top of building]</field>
++    <field name="unittitle_teim">&#34;Liberty Storage Company, West 64th Street, ca. 1950&#34; [Small-size statue of Liberty on top of building]</field>
+     <field name="unitdate_teim">circa 1950</field>
+     <field name="ref_ssi">aspace_ref56_zc6</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2, Folder: 13</field>
+     <field name="location_si">Box: 2, Folder: 13</field>
+     <field name="collection_teim">Morris Huberland Photograph Collection</field>
++    <field name="author_teim">Joe Festa</field>
+     <field name="collection_unitid_teim">PR 194</field>
+     <field name="series_sim">West Side</field>
+-    <field name="series_si">West Side &gt;&gt; "Liberty Storage Company, West 64th Street, ca. 1950" [Small-size statue of Liberty on top of building]</field>
+-    <field name="heading_ssm">"Liberty Storage Company, West 64th Street, ca. 1950" [Small-size statue of Liberty on top of building]</field>
++    <field name="series_si">West Side &gt;&gt; &#34;Liberty Storage Company, West 64th Street, ca. 1950&#34; [Small-size statue of Liberty on top of building]</field>
++    <field name="heading_ssm">&#34;Liberty Storage Company, West 64th Street, ca. 1950&#34; [Small-size statue of Liberty on top of building]</field>
+     <field name="unitdate_ssm">circa 1950</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">49</field>

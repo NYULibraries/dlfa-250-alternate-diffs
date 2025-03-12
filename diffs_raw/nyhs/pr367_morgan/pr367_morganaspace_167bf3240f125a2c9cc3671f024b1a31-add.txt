@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,11 @@
+     <field name="unittitle_ssm">[GLASS] &lt;strong&gt;National Horse Show&lt;/strong&gt; [2 plates]</field>
+     <field name="unittitle_teim">[GLASS] National Horse Show [2 plates]</field>
+     <field name="unitdate_teim">1934</field>
+-    <field name="scopecontent_teim">Subjects: Kneeland, John (on Mickey Mouse) St. George, Priscilla</field>
++    <field name="scopecontent_teim">Subjects:
++
++Kneeland, John (on Mickey Mouse)
++
++St. George, Priscilla</field>
+     <field name="ref_ssi">aspace_167bf3240f125a2c9cc3671f024b1a31</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 3-4</field>
+     <field name="location_si">Box: 4, Folder: 3-4</field>
+     <field name="collection_teim">Bert Morgan photographic negatives</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 367</field>
+     <field name="series_si">[GLASS] &lt;strong&gt;National Horse Show&lt;/strong&gt; [2 plates]</field>
+     <field name="heading_ssm">[GLASS] National Horse Show [2 plates]</field>

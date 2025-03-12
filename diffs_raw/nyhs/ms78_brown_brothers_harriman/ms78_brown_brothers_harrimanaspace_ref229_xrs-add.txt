@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ornamental title page, &lt;em&gt;Great Trans-Continental P.R.R. Tourists' Guide&lt;/em&gt;; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene's warehouses, Brooklyn: images</field>
+-    <field name="unittitle_teim">Ornamental title page, Great Trans-Continental P.R.R. Tourists' Guide; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene's warehouses, Brooklyn: images</field>
++    <field name="unittitle_ssm">Ornamental title page, &lt;em&gt;Great Trans-Continental P.R.R. Tourists&#39; Guide&lt;/em&gt;; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene&#39;s warehouses, Brooklyn: images	
++</field>
++    <field name="unittitle_teim">Ornamental title page, Great Trans-Continental P.R.R. Tourists&#39; Guide; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene&#39;s warehouses, Brooklyn: images	
++</field>
+     <field name="unitdate_normal_ssm">1870/1871</field>
+     <field name="unitdate_normal_teim">1870/1871</field>
+     <field name="unitdate_normal_sim">1870/1871</field>
+@@ -31,11 +33,14 @@
+     <field name="location_ssm">Offsite-Box: 12, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 12, Folder: 9</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+     <field name="series_sim">Subseries A. Chronological Files (1796-1970)</field>
+-    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Ornamental title page, &lt;em&gt;Great Trans-Continental P.R.R. Tourists' Guide&lt;/em&gt;; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene's warehouses, Brooklyn: images</field>
+-    <field name="heading_ssm">Ornamental title page, Great Trans-Continental P.R.R. Tourists' Guide; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene's warehouses, Brooklyn: images</field>
++    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Ornamental title page, &lt;em&gt;Great Trans-Continental P.R.R. Tourists&#39; Guide&lt;/em&gt;; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene&#39;s warehouses, Brooklyn: images	
++</field>
++    <field name="heading_ssm">Ornamental title page, Great Trans-Continental P.R.R. Tourists&#39; Guide; Liverpool docks; envelope sent by balloon post; Bartlett &amp; Greene&#39;s warehouses, Brooklyn: images	
++</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>
+     <field name="unitdate_start_si">1870</field>

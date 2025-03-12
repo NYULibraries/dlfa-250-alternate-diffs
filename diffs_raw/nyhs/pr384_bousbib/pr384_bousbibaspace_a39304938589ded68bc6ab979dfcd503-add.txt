@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Theatrical Productions, oversize</field>
+     <field name="unittitle_teim">Theatrical Productions, oversize</field>
+     <field name="unitdate_inclusive_teim">1939, circa 1960</field>
+-    <field name="scopecontent_teim">Two photos: One of Joan Collins and Warren Beatty, the other a scene from "Destry Rides Again."</field>
++    <field name="scopecontent_teim">Two photos: One of Joan Collins and Warren Beatty, the other a scene from &#34;Destry Rides Again.&#34;</field>
+     <field name="ref_ssi">aspace_a39304938589ded68bc6ab979dfcd503</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 23, Folder: 1</field>
+     <field name="location_si">Box: 23, Folder: 1</field>
+     <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 384</field>
+     <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+     <field name="series_sim">Subseries: FRIEDMAN-ABELES</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Photograph album #55</field>
+     <field name="unittitle_teim">Photograph album #55</field>
+     <field name="unitdate_inclusive_teim">1924 April-1925 February</field>
+-    <field name="scopecontent_teim">From the dealer's notes: "129 photos, including photos on leaving Rio de Janeiro, Brazil, arriving back in New York; Potter Homestead, Charlemont Cemetery, Charlemont, Massachusetts; Portland, Wiscasset, [Booth Bay], Maine; crossing Lake Champlain, New York; Bunker Hill, Provincetown, Plymouth, Massachusetts; the 'new Bear Mountain Bridge,' New York; Havana, Cuba; amongst other places."</field>
++    <field name="scopecontent_teim">From the dealer&#39;s notes: &#34;129 photos, including photos on leaving Rio de Janeiro, Brazil, arriving back in New York; Potter Homestead, Charlemont Cemetery, Charlemont, Massachusetts; Portland, Wiscasset, [Booth Bay], Maine; crossing Lake Champlain, New York; Bunker Hill, Provincetown, Plymouth, Massachusetts; the &#39;new Bear Mountain Bridge,&#39; New York; Havana, Cuba; amongst other places.&#34;</field>
+     <field name="ref_ssi">aspace_753e4e970a2bbb984b0ecc44650c75ce</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 8</field>
+     <field name="collection_teim">Blanche Potter photograph albums and travel journals</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3100</field>
+     <field name="series_si">Photograph album #55</field>
+     <field name="heading_ssm">Photograph album #55</field>

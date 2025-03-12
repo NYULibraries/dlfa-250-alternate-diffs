@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,9 +19,9 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_inclusive_teim">1969 November-December</field>
+-    <field name="scopecontent_teim">November includes audiovisual material from an enveloped labeled "Kalem speech."</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On label: "One."</field>
+-    <field name="scopecontent_teim">1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On label: "Two."</field>
++    <field name="scopecontent_teim">November includes audiovisual material from an enveloped labeled &#34;Kalem speech.&#34;</field>
++    <field name="scopecontent_teim"> 1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On label: &#34;One.&#34;</field>
++    <field name="scopecontent_teim"> 1 audiocassette : analog, 1 5/16 ips, stereo ; 3 7/8 x 2 1/2 in., 1/8 in. tape. On label: &#34;Two.&#34;</field>
+     <field name="ref_ssi">aspace_5276c72da01a2cd815a62e73d0710e65</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Offsite-Box: 2436, Folder: 1-4</field>
+     <field name="location_si">Offsite-Box: 2436, Folder: 1-4</field>
+     <field name="collection_teim">Time Inc. Time Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Melanie Rinehart, and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 7</field>
+     <field name="series_sim">Series II.B. Executive Editor Edward Jamieson Files</field>
+     <field name="series_sim">Subseries II.B.1. Correspondence and Memoranda</field>

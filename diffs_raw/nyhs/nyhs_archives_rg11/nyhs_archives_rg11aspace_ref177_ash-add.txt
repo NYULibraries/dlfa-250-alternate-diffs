@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Monsignor [Robert] Seton, D.D. [The First Episcopal See of America]</field>
+     <field name="unittitle_teim">Monsignor [Robert] Seton, D.D. [The First Episcopal See of America]</field>
+     <field name="unitdate_teim">1895 February 5</field>
+-    <field name="scopecontent_teim">In addition to Seton's paper, the folder includes the meeting announcement.</field>
++    <field name="scopecontent_teim">In addition to Seton&#39;s paper, the folder includes the meeting announcement.</field>
+     <field name="ref_ssi">aspace_ref177_ash</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 5, Folder: 8</field>
+     <field name="location_si">Box: 5, Folder: 8</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+     <field name="series_si">Monsignor [Robert] Seton, D.D. [The First Episcopal See of America]</field>
+     <field name="heading_ssm">Monsignor [Robert] Seton, D.D. [The First Episcopal See of America]</field>

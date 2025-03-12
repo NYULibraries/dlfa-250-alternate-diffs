@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Relic of the Lower East Side&lt;/em&gt;</field>
+     <field name="unittitle_teim">Relic of the Lower East Side</field>
+     <field name="unitdate_teim">circa 1992</field>
+-    <field name="scopecontent_teim">Photograph of elderly man, presumably Jewish, walking past a tailor's shop near Ludlow Street.</field>
++    <field name="scopecontent_teim">Photograph of elderly man, presumably Jewish, walking past a tailor&#39;s shop near Ludlow Street.</field>
+     <field name="ref_ssi">aspace_7cc9103b5c68a3d9e2244a014f194a95</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: SC, Folder: 1</field>
+     <field name="location_si">Box: SC, Folder: 1</field>
+     <field name="collection_teim">Ken Ratner photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 373</field>
+     <field name="series_si">&lt;em&gt;Relic of the Lower East Side&lt;/em&gt;</field>
+     <field name="heading_ssm">Relic of the Lower East Side</field>

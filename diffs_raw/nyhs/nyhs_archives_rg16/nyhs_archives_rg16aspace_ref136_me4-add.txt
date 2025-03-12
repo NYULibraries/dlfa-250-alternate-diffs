@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society bequests, gifts and related matters</field>
+     <field name="collection_unitid_ssm">NYHS-RG 16</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Cornell, William A.</field>
+-    <field name="unittitle_teim">Cornell, William A.</field>
++    <field name="unittitle_ssm">Cornell, William A. </field>
++    <field name="unittitle_teim">Cornell, William A. </field>
+     <field name="unitdate_teim">1910</field>
+     <field name="scopecontent_teim">Surrogate Court summons only, concerning estate of J. Marcus Booman.</field>
+     <field name="ref_ssi">aspace_ref136_me4</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 2, Folder: 29</field>
+     <field name="location_si">Box: 2, Folder: 29</field>
+     <field name="collection_teim">New-York Historical Society bequests, gifts and related matters</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 16</field>
+     <field name="series_sim">Series I. Bequests to Circa 1960</field>
+-    <field name="series_si">Series I. Bequests to Circa 1960 &gt;&gt; Cornell, William A.</field>
+-    <field name="heading_ssm">Cornell, William A.</field>
++    <field name="series_si">Series I. Bequests to Circa 1960 &gt;&gt; Cornell, William A. </field>
++    <field name="heading_ssm">Cornell, William A. </field>
+     <field name="unitdate_ssm">1910</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">44</field>

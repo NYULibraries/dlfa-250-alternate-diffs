@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Headshots (4 folders)</field>
+     <field name="unittitle_teim">Headshots (4 folders)</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Folder 11 contains typed out names and addresses of Edgar J. Nathan's contacts.</field>
++    <field name="scopecontent_teim">Folder 11 contains typed out names and addresses of Edgar J. Nathan&#39;s contacts.</field>
+     <field name="ref_ssi">aspace_af378428e9b401d2d5571092095fcb66</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 11, Folder: 8-11</field>
+     <field name="location_si">Box: 11, Folder: 8-11</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series VII. Memorabilia</field>
+     <field name="series_si">Series VII. Memorabilia &gt;&gt; Headshots (4 folders)</field>

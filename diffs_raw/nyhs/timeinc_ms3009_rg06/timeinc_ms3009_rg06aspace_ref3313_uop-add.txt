@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1982: Walter Bernard's &lt;em&gt;Fortune&lt;/em&gt; Redesign [RESTRICTED]</field>
+-    <field name="unittitle_teim">1982: Walter Bernard's Fortune Redesign [RESTRICTED]</field>
++    <field name="unittitle_ssm">1982: Walter Bernard&#39;s &lt;em&gt;Fortune&lt;/em&gt; Redesign [RESTRICTED]</field>
++    <field name="unittitle_teim">1982: Walter Bernard&#39;s Fortune Redesign [RESTRICTED]</field>
+     <field name="title_teim">Fortune</field>
+     <field name="title_ssm">Fortune</field>
+     <field name="ref_ssi">aspace_ref3313_uop</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: R18</field>
+     <field name="location_si">Offsite-Box: R18</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>
+-    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1982: Walter Bernard's &lt;em&gt;Fortune&lt;/em&gt; Redesign [RESTRICTED]</field>
+-    <field name="heading_ssm">1982: Walter Bernard's Fortune Redesign [RESTRICTED]</field>
++    <field name="series_si">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files &gt;&gt; Subseries I.B.3. Departmental Files &gt;&gt; 1982: Walter Bernard&#39;s &lt;em&gt;Fortune&lt;/em&gt; Redesign [RESTRICTED]</field>
++    <field name="heading_ssm">1982: Walter Bernard&#39;s Fortune Redesign [RESTRICTED]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1976</field>
+   </doc>

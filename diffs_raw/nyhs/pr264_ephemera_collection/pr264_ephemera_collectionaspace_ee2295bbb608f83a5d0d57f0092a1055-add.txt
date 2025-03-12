@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Food - Candy</field>
+     <field name="unittitle_teim">Food - Candy</field>
+     <field name="unitdate_teim">1974</field>
+-    <field name="scopecontent_teim">Sugar Daddy candy (Nabisco brand) advertisement in the form of a broadside "Sugar Daddy News" featuring tennis player Bobby Riggs and a large photo of Riggs with tennis player Rosie Casals, continuing the "war of the sexes" theme from the Riggs/Billie Jean King match. Gift, Harvey Spiller, 2017.</field>
++    <field name="scopecontent_teim">Sugar Daddy candy (Nabisco brand) advertisement in the form of a broadside &#34;Sugar Daddy News&#34; featuring tennis player Bobby Riggs and a large photo of Riggs with tennis player Rosie Casals, continuing the &#34;war of the sexes&#34; theme from the Riggs/Billie Jean King match. Gift, Harvey Spiller, 2017.</field>
+     <field name="ref_ssi">aspace_ee2295bbb608f83a5d0d57f0092a1055</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: Flat Files, Folder: FF-1</field>
+     <field name="location_si">Box: Flat Files, Folder: FF-1</field>
+     <field name="collection_teim">New-York Historical Society ephemera collection</field>
++    <field name="author_teim">N-YHS staff</field>
+     <field name="collection_unitid_teim">PR 264</field>
+     <field name="series_sim">Series I: Ephemera</field>
+     <field name="series_si">Series I: Ephemera &gt;&gt; Food - Candy</field>

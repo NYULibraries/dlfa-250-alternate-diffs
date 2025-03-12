@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Section through 33rd Street at Sixth Avenue and Broadway," drawing reproduced in &lt;em&gt;Architectural Record&lt;/em&gt;, 1939</field>
+-    <field name="unittitle_teim">"Section through 33rd Street at Sixth Avenue and Broadway," drawing reproduced in Architectural Record, 1939</field>
++    <field name="unittitle_ssm">&#34;Section through 33rd Street at Sixth Avenue and Broadway,&#34; drawing reproduced in &lt;em&gt;Architectural Record&lt;/em&gt;, 1939</field>
++    <field name="unittitle_teim">&#34;Section through 33rd Street at Sixth Avenue and Broadway,&#34; drawing reproduced in Architectural Record, 1939</field>
+     <field name="title_teim">Architectural Record</field>
+     <field name="title_ssm">Architectural Record</field>
+     <field name="ref_ssi">aspace_ref140_dxe</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 13</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 13</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series IV: Clippings</field>
+-    <field name="series_si">Series IV: Clippings &gt;&gt; "Section through 33rd Street at Sixth Avenue and Broadway," drawing reproduced in &lt;em&gt;Architectural Record&lt;/em&gt;, 1939</field>
+-    <field name="heading_ssm">"Section through 33rd Street at Sixth Avenue and Broadway," drawing reproduced in Architectural Record, 1939</field>
++    <field name="series_si">Series IV: Clippings &gt;&gt; &#34;Section through 33rd Street at Sixth Avenue and Broadway,&#34; drawing reproduced in &lt;em&gt;Architectural Record&lt;/em&gt;, 1939</field>
++    <field name="heading_ssm">&#34;Section through 33rd Street at Sixth Avenue and Broadway,&#34; drawing reproduced in Architectural Record, 1939</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">121</field>
+   </doc>

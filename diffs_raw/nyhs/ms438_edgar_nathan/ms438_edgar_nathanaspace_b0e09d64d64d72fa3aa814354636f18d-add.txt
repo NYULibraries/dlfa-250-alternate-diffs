@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Lindbergh Souvenirs and Correspondence</field>
+     <field name="unittitle_teim">Lindbergh Souvenirs and Correspondence</field>
+     <field name="unitdate_inclusive_teim">1927</field>
+-    <field name="scopecontent_teim">Photographs, telegrams, postcards, and dinner program re: Charles Lindbergh's non-stop flight from New York to Paris.</field>
++    <field name="scopecontent_teim">Photographs, telegrams, postcards, and dinner program re: Charles Lindbergh&#39;s non-stop flight from New York to Paris.</field>
+     <field name="ref_ssi">aspace_b0e09d64d64d72fa3aa814354636f18d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 11, Folder: 24</field>
+     <field name="location_si">Box: 11, Folder: 24</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series VII. Memorabilia</field>
+     <field name="series_si">Series VII. Memorabilia &gt;&gt; Lindbergh Souvenirs and Correspondence</field>

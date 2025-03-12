@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1898/1899</field>
+     <field name="unitdate_inclusive_teim">1898-1899</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0864</field>
+-    <field name="scopecontent_teim">Admiral George Dewey: memorial style portraits, the admiral on the deck of the Olympia, Dewey and J.P. Morgan on the Olympia in New York, Dewey receiving a ceremonial sword, including views with McKinley, Secretary Long, and Cardinal Gibbon at the ceremony; Dewey's birthplace at Montpelier, Vt.</field>
++    <field name="scopecontent_teim">Admiral George Dewey: memorial style portraits, the admiral on the deck of the Olympia, Dewey and J.P. Morgan on the Olympia in New York, Dewey receiving a ceremonial sword, including views with McKinley, Secretary Long, and Cardinal Gibbon at the ceremony; Dewey&#39;s birthplace at Montpelier, Vt.</field>
+     <field name="scopecontent_teim">18 items</field>
+     <field name="ref_ssi">aspace_ref878_gr8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 83</field>
+     <field name="location_si">Box: 83</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Subjects</field>
+     <field name="series_si">Subjects &gt;&gt; Subjects--Spanish American War--Dewey</field>

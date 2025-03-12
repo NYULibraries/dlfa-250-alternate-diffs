@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_teim">1862</field>
+-    <field name="scopecontent_teim">Contains a printed circular, dated November-December 1862, encouraging the disuse of "ardent spirits" to promote "the health, the virtue and the happiness of the community." Endorsed by presidents Madison, Jackson, John Quincy Adams, Van Buren, Tyler, Taylor, Fillmore, Polk, Pierce, Buchanan, and Lincoln.</field>
++    <field name="scopecontent_teim">Contains a printed circular, dated November-December 1862, encouraging the disuse of &#34;ardent spirits&#34; to promote &#34;the health, the virtue and the happiness of the community.&#34; Endorsed by presidents Madison, Jackson, John Quincy Adams, Van Buren, Tyler, Taylor, Fillmore, Polk, Pierce, Buchanan, and Lincoln.</field>
+     <field name="ref_ssi">aspace_ref20_qhd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 2, Folder: 4</field>
+     <field name="location_si">Box: 2, Folder: 4</field>
+     <field name="collection_teim">John Alsop King papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 351</field>
+     <field name="series_sim">Box 2: Correspondence, 1857-1866</field>
+     <field name="series_si">Box 2: Correspondence, 1857-1866 &gt;&gt; Correspondence</field>

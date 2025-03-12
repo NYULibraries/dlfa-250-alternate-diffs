@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1006_naw</field>
+     <field name="parent_ssm">aspace_ref1012_skc</field>
+     <field name="parent_unittitles_ssm">Series X. Vice President of Corporate Planning Henry Luce III Files</field>
+-    <field name="parent_unittitles_ssm">Subseries X.B. St. Bernard's School Files</field>
++    <field name="parent_unittitles_ssm">Subseries X.B. St. Bernard&amp;#39;s School Files</field>
+     <field name="parent_unittitles_teim">Series X. Vice President of Corporate Planning Henry Luce III Files</field>
+-    <field name="parent_unittitles_teim">Subseries X.B. St. Bernard's School Files</field>
++    <field name="parent_unittitles_teim">Subseries X.B. St. Bernard&amp;#39;s School Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Time Inc. Corporate Administration Records</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 4274, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 4274, Folder: 11</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series X. Vice President of Corporate Planning Henry Luce III Files</field>
+-    <field name="series_sim">Subseries X.B. St. Bernard's School Files</field>
+-    <field name="series_si">Series X. Vice President of Corporate Planning Henry Luce III Files &gt;&gt; Subseries X.B. St. Bernard's School Files &gt;&gt; Development plan</field>
++    <field name="series_sim">Subseries X.B. St. Bernard&amp;#39;s School Files</field>
++    <field name="series_si">Series X. Vice President of Corporate Planning Henry Luce III Files &gt;&gt; Subseries X.B. St. Bernard&#39;s School Files &gt;&gt; Development plan</field>
+     <field name="heading_ssm">Development plan</field>
+     <field name="unitdate_ssm">Inclusive, 1968-1970</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Hendricks Family papers</field>
+     <field name="collection_unitid_ssm">MS 295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ship &lt;em&gt;Ophelia&lt;/em&gt; manifest, seamen's agreements (2), duties on copper, United Insurance policy for ship &lt;em&gt;Consolation&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Ship Ophelia manifest, seamen's agreements (2), duties on copper, United Insurance policy for ship Consolation</field>
++    <field name="unittitle_ssm">Ship &lt;em&gt;Ophelia&lt;/em&gt; manifest, seamen&#39;s agreements (2), duties on copper, United Insurance policy for ship &lt;em&gt;Consolation&lt;/em&gt;</field>
++    <field name="unittitle_teim">Ship Ophelia manifest, seamen&#39;s agreements (2), duties on copper, United Insurance policy for ship Consolation</field>
+     <field name="unitdate_normal_ssm">1806/1831</field>
+     <field name="unitdate_normal_teim">1806/1831</field>
+     <field name="unitdate_normal_sim">1806/1831</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: OS Small, Folder: Y-Hendricks 3</field>
+     <field name="location_si">Box: OS Small, Folder: Y-Hendricks 3</field>
+     <field name="collection_teim">Hendricks Family papers</field>
++    <field name="author_teim">Meaghan Dwyer, 2000; EAD finding aid prepared by Celia Hartmann, 2010; revisions and additions by Joseph Ditta, June-July 2017 and January 2020.</field>
+     <field name="collection_unitid_teim">MS 295</field>
+     <field name="series_sim">Series II. Harmon Hendricks Papers (1794-1863)</field>
+     <field name="series_sim">Subseries II.B. Correspondence</field>
+-    <field name="series_si">Series II. Harmon Hendricks Papers (1794-1863) &gt;&gt; Subseries II.B. Correspondence &gt;&gt; Ship &lt;em&gt;Ophelia&lt;/em&gt; manifest, seamen's agreements (2), duties on copper, United Insurance policy for ship &lt;em&gt;Consolation&lt;/em&gt;</field>
+-    <field name="heading_ssm">Ship Ophelia manifest, seamen's agreements (2), duties on copper, United Insurance policy for ship Consolation</field>
++    <field name="series_si">Series II. Harmon Hendricks Papers (1794-1863) &gt;&gt; Subseries II.B. Correspondence &gt;&gt; Ship &lt;em&gt;Ophelia&lt;/em&gt; manifest, seamen&#39;s agreements (2), duties on copper, United Insurance policy for ship &lt;em&gt;Consolation&lt;/em&gt;</field>
++    <field name="heading_ssm">Ship Ophelia manifest, seamen&#39;s agreements (2), duties on copper, United Insurance policy for ship Consolation</field>
+     <field name="unitdate_start_sim">1806</field>
+     <field name="unitdate_start_ssm">1806</field>
+     <field name="unitdate_start_si">1806</field>

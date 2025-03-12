@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1860/1910</field>
+     <field name="unitdate_inclusive_teim">[1860-1910]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0748</field>
+-    <field name="scopecontent_teim">Switzerland: mountains, mountaineers, glaciers, rivers and bridges, railroads, tourists, valleys and villages, lakes; views in Bern, Lucerne, Zurich and other locations, including view on a glacier with photographer's tent.</field>
++    <field name="scopecontent_teim">Switzerland: mountains, mountaineers, glaciers, rivers and bridges, railroads, tourists, valleys and villages, lakes; views in Bern, Lucerne, Zurich and other locations, including view on a glacier with photographer&#39;s tent.</field>
+     <field name="scopecontent_teim">64 items</field>
+     <field name="ref_ssi">aspace_ref762_69d</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 69</field>
+     <field name="location_si">Box: 69</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; Europe, Switzerland</field>

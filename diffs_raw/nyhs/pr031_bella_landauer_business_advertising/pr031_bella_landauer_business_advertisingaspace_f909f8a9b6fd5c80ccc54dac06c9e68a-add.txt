@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,8 @@
+     <field name="unittitle_ssm">Agriculture</field>
+     <field name="unittitle_teim">Agriculture</field>
+     <field name="scopecontent_teim">Produce: Florida; New York; New Jersey; Maryland; Texas</field>
+-    <field name="scopecontent_teim">Asparagus</field>
++    <field name="scopecontent_teim">
++Asparagus</field>
+     <field name="scopecontent_teim">Celery</field>
+     <field name="scopecontent_teim">Corn</field>
+     <field name="scopecontent_teim">Peas</field>
+@@ -27,7 +28,8 @@
+     <field name="scopecontent_teim">Sweet potatoes</field>
+     <field name="scopecontent_teim">Tomatoes</field>
+     <field name="scopecontent_teim">Vegetables, miscellaneous</field>
+-    <field name="scopecontent_teim">Miscellaneous labels</field>
++    <field name="scopecontent_teim">
++Miscellaneous labels</field>
+     <field name="ref_ssi">aspace_f909f8a9b6fd5c80ccc54dac06c9e68a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -37,6 +39,7 @@
+     <field name="location_ssm">Offsite-Box: 4</field>
+     <field name="location_si">Offsite-Box: 4</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

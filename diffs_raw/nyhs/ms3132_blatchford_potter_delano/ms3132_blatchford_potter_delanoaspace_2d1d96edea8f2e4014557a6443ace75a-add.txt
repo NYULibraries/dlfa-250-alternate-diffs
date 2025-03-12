@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,21 @@
+     <field name="collection_ssm">Blatchford, Potter, and Delano family papers</field>
+     <field name="collection_unitid_ssm">MS 3132</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Award photograph | World's Columbian Exposition medal</field>
+-    <field name="unittitle_teim">Award photograph | World's Columbian Exposition medal</field>
++    <field name="unittitle_ssm">Award photograph | World&#39;s Columbian Exposition medal</field>
++    <field name="unittitle_teim">Award photograph | World&#39;s Columbian Exposition medal</field>
+     <field name="unitdate_inclusive_teim">[1893]</field>
+     <field name="scopecontent_teim">Two glass plate negatives (4.5 x 5.5 inches).</field>
+-    <field name="scopecontent_teim">obverse: [full-length portrait of Christopher Columbus] PLUS / ULTRA / CHRISTOPHER / COLUMBUS / OCT / XII / MCCCCXCII / AUGUSTUS SAINT-GAUDENS FECIT reverse: WORLD'S COLUMBIAN EXPOSITION / IN COMMEMORATION OF THE / FOUR HUNDREDTH ANNIVERSARY / OF THE LANDING OF COLUMBUS / MDCCCCXCII - MDCCCCXCIII / TO EDW. T. POTTER</field>
++    <field name="scopecontent_teim">obverse:
++
++[full-length portrait of Christopher Columbus]
++
++PLUS / ULTRA / CHRISTOPHER / COLUMBUS / OCT / XII / MCCCCXCII / AUGUSTUS SAINT-GAUDENS FECIT
++
++
++
++reverse:
++
++WORLD&#39;S COLUMBIAN EXPOSITION / IN COMMEMORATION OF THE / FOUR HUNDREDTH ANNIVERSARY / OF THE LANDING OF COLUMBUS / MDCCCCXCII - MDCCCCXCIII / TO EDW. T. POTTER</field>
+     <field name="ref_ssi">aspace_2d1d96edea8f2e4014557a6443ace75a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +40,12 @@
+     <field name="location_ssm">Box: 1, Folder: 74</field>
+     <field name="location_si">Box: 1, Folder: 74</field>
+     <field name="collection_teim">Blatchford, Potter, and Delano family papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3132</field>
+     <field name="series_sim">Series II. Potter family</field>
+     <field name="series_sim">II.C. Edward Tuckerman Potter (1831–1904)</field>
+-    <field name="series_si">Series II. Potter family &gt;&gt; II.C. Edward Tuckerman Potter (1831–1904) &gt;&gt; Award photograph | World's Columbian Exposition medal</field>
+-    <field name="heading_ssm">Award photograph | World's Columbian Exposition medal</field>
++    <field name="series_si">Series II. Potter family &gt;&gt; II.C. Edward Tuckerman Potter (1831–1904) &gt;&gt; Award photograph | World&#39;s Columbian Exposition medal</field>
++    <field name="heading_ssm">Award photograph | World&#39;s Columbian Exposition medal</field>
+     <field name="unitdate_ssm">Inclusive, [1893]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">95</field>

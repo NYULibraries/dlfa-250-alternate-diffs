@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref663_0vb</field>
+     <field name="parent_ssm">aspace_ref11_5jq</field>
+     <field name="parent_ssm">aspace_ref663_0vb</field>
+-    <field name="parent_unittitles_ssm">Series I. Slides</field>
++    <field name="parent_unittitles_ssm">Series I.  Slides&amp;#xA;&amp;#xA;</field>
+     <field name="parent_unittitles_ssm">Subseries I.3 - Subjects - New York City</field>
+-    <field name="parent_unittitles_teim">Series I. Slides</field>
++    <field name="parent_unittitles_teim">Series I.  Slides&amp;#xA;&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Subseries I.3 - Subjects - New York City</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -28,10 +28,13 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 52</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 52</field>
+     <field name="collection_teim">Bernard Gotfryd photograph collection</field>
++    <field name="author_teim">Kelly McAnnaney with additions by Twila Rios; finding aid revised 2013 by Twila Rios</field>
+     <field name="collection_unitid_teim">PR 276</field>
+-    <field name="series_sim">Series I. Slides</field>
++    <field name="series_sim">Series I.  Slides&amp;#xA;&amp;#xA;</field>
+     <field name="series_sim">Subseries I.3 - Subjects - New York City</field>
+-    <field name="series_si">Series I. Slides &gt;&gt; Subseries I.3 - Subjects - New York City &gt;&gt; Education - various</field>
++    <field name="series_si">Series I.  Slides
++
++ &gt;&gt; Subseries I.3 - Subjects - New York City &gt;&gt; Education - various</field>
+     <field name="heading_ssm">Education - various</field>
+     <field name="unitdate_ssm">1979-1985, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

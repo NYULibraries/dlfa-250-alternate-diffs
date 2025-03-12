@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries I.3: Board Committees</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Boys' Club of New York records</field>
+-    <field name="collection_ssm">Boys' Club of New York records</field>
++    <field name="collection_sim">Boys&#39; Club of New York records</field>
++    <field name="collection_ssm">Boys&#39; Club of New York records</field>
+     <field name="collection_unitid_ssm">MS 3000</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Administration Committee Minutes</field>
+@@ -27,7 +27,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Offsite-Box: 16, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 16, Folder: 4</field>
+-    <field name="collection_teim">Boys' Club of New York records</field>
++    <field name="collection_teim">Boys&#39; Club of New York records</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 3000</field>
+     <field name="series_sim">Series I: Organizational Records</field>
+     <field name="series_sim">Subseries I.3: Board Committees</field>

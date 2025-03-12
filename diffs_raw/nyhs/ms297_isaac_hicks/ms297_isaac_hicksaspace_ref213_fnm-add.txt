@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,9 @@
+     <field name="unittitle_ssm">Letters: D (Except Drinker)</field>
+     <field name="unittitle_teim">Letters: D (Except Drinker)</field>
+     <field name="unitdate_teim">1799</field>
+-    <field name="scopecontent_teim">This folder includes correspondence to Isaac Hicks from his clients including Henry Dean, the Brothers De Bauque, Abisha Delano, John Delano, Thomas Delano, Thomas Dickason &amp; Co., and Benjamin Dillingham. A letter from John Delano asks about the status of the 'sickness' in New York because he wants to ship his goods. Fred Delius discusses the changes in the produce market in Bremen, Germany and how the market is failing, resulting in him not being able to quote fixed prices. The main topics include the payment of bills, and the shipping and receiving of goods such as coffee, tobacco, and cotton.</field>
+-    <field name="scopecontent_teim">Ships Mentioned: Suffolk, Lucretia, Warren, Bellona, Mercury, Sarah</field>
++    <field name="scopecontent_teim">This folder includes correspondence to Isaac Hicks from his clients including Henry Dean, the Brothers De Bauque, Abisha Delano, John Delano, Thomas Delano, Thomas Dickason &amp; Co., and Benjamin Dillingham.  A letter from John Delano asks about the status of the &#39;sickness&#39; in New York because he wants to ship his goods.  Fred Delius discusses the changes in the produce market in Bremen, Germany and how the market is failing, resulting in him not being able to quote fixed prices.  The main topics include the payment of bills, and the shipping and receiving of goods such as coffee, tobacco, and cotton.</field>
++    <field name="scopecontent_teim">Ships Mentioned: Suffolk, Lucretia, Warren, Bellona, Mercury, Sarah
++</field>
+     <field name="ref_ssi">aspace_ref213_fnm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,6 +31,7 @@
+     <field name="location_ssm">Box: 12, Folder: 7</field>
+     <field name="location_si">Box: 12, Folder: 7</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Letters: 1799 A-D</field>

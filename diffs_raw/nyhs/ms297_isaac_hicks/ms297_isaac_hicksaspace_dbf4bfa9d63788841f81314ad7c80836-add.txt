@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Bills</field>
+     <field name="unittitle_teim">Bills</field>
+     <field name="unitdate_teim">1801</field>
+-    <field name="scopecontent_teim">The folders in this box are labeled "Business Papers". They primarily contain bills that Isaac Hicks has to pay. The goods listed are mostly related to the needs of specific ships going out to sea, such as rope, water, nails, and rigging. Other bills are for household goods like silver dessert spoons, cloth, and alcohol. Many bills are marked "paid in full".</field>
++    <field name="scopecontent_teim">The folders in this box are labeled &#34;Business Papers&#34;.  They primarily contain bills that Isaac Hicks has to pay.  The goods listed are mostly related to the needs of specific ships going out to sea, such as rope, water, nails, and rigging.  Other bills are for household goods like silver dessert spoons, cloth, and alcohol.  Many bills are marked &#34;paid in full&#34;.</field>
+     <field name="ref_ssi">aspace_dbf4bfa9d63788841f81314ad7c80836</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 47</field>
+     <field name="location_si">Box: 47</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Bills</field>

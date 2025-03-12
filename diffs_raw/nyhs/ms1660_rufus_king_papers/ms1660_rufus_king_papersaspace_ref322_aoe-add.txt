@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Rufus King papers</field>
+     <field name="collection_unitid_ssm">MS 1660</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Letterbook "A," Letters from Rufus King</field>
+-    <field name="unittitle_teim">Letterbook "A," Letters from Rufus King</field>
++    <field name="unittitle_ssm">Letterbook &#34;A,&#34; Letters from Rufus King</field>
++    <field name="unittitle_teim">Letterbook &#34;A,&#34; Letters from Rufus King</field>
+     <field name="unitdate_teim">1796 July 24-1798 June 30</field>
+     <field name="ref_ssi">aspace_ref322_aoe</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Volume: 63</field>
+     <field name="location_si">Volume: 63</field>
+     <field name="collection_teim">Rufus King papers</field>
++    <field name="author_teim">Processed by Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 1660</field>
+     <field name="series_sim">Volume 63- Letterbook</field>
+-    <field name="series_si">Volume 63- Letterbook &gt;&gt; Letterbook "A," Letters from Rufus King</field>
+-    <field name="heading_ssm">Letterbook "A," Letters from Rufus King</field>
++    <field name="series_si">Volume 63- Letterbook &gt;&gt; Letterbook &#34;A,&#34; Letters from Rufus King</field>
++    <field name="heading_ssm">Letterbook &#34;A,&#34; Letters from Rufus King</field>
+     <field name="unitdate_ssm">1796 July 24-1798 June 30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">289</field>

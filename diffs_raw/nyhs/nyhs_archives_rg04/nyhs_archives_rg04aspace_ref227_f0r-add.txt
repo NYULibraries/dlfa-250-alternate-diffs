@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Phase I: Supplementary Report. Roof Restoration</field>
+     <field name="unittitle_teim">Phase I: Supplementary Report. Roof Restoration</field>
+     <field name="unitdate_teim">1989 September 22</field>
+-    <field name="scopecontent_teim">Includes roof consultant H.B. Fishman &amp; Co., Inc's report, which includes color photographs of the roof and details.</field>
++    <field name="scopecontent_teim">Includes roof consultant H.B. Fishman &amp; Co., Inc&#39;s report, which includes color photographs of the roof and details.</field>
+     <field name="ref_ssi">aspace_ref227_f0r</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 13, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 13, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society building renovations and maintenance records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 4</field>
+     <field name="series_sim">Series II. 1990s Capital Improvement Projects</field>
+     <field name="series_sim">Subseries II.B. Construction Phases I-III</field>

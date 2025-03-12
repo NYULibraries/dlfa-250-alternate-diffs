@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">The City of New York, Commission to Investigate Allegations of Police Corruption and the Anti-Corruption Procedures of the Police Department, &lt;strong&gt;Commission Report&lt;/strong&gt;</field>
+     <field name="unittitle_teim">The City of New York, Commission to Investigate Allegations of Police Corruption and the Anti-Corruption Procedures of the Police Department, Commission Report</field>
+     <field name="unitdate_teim">1994 July 7</field>
+-    <field name="scopecontent_teim">Inscribed on flyleaf "NICK SCOPPETTA."</field>
++    <field name="scopecontent_teim">Inscribed on flyleaf &#34;NICK SCOPPETTA.&#34;</field>
+     <field name="ref_ssi">aspace_ref361_jxk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 10</field>
+     <field name="collection_teim">Nicholas Scoppetta papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3017</field>
+     <field name="series_sim">Series I. Criminal Justice</field>
+     <field name="series_sim">Subseries I.C. Criminal Justice: Printed Material</field>

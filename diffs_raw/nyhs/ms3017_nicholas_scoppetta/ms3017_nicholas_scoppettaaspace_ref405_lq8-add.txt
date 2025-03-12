@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">[Plaque] 1985 / Award / Presented to / Honorable Nicholas Scoppetta / From the Members / of the / Frank S. Hogan / Associates Inc.</field>
+     <field name="unittitle_teim">[Plaque] 1985 / Award / Presented to / Honorable Nicholas Scoppetta / From the Members / of the / Frank S. Hogan / Associates Inc.</field>
+     <field name="unitdate_teim">1985</field>
+-    <field name="scopecontent_teim">Scoppetta's badge as Assistant District Attorney for New York County is mounted on the plaque.</field>
++    <field name="scopecontent_teim">Scoppetta&#39;s badge as Assistant District Attorney for New York County is mounted on the plaque.</field>
+     <field name="ref_ssi">aspace_ref405_lq8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 9</field>
+     <field name="location_si">Offsite-Box: 9</field>
+     <field name="collection_teim">Nicholas Scoppetta papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3017</field>
+     <field name="series_sim">Series IV. Memorabilia</field>
+     <field name="series_sim">Subseries IV.A. Memorabilia: Photographs and awards</field>

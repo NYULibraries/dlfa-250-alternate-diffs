@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New England Society in the City of New York records</field>
+     <field name="collection_unitid_ssm">MS 3113</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Secretary's records (4 folders)</field>
+-    <field name="unittitle_teim">Secretary's records (4 folders)</field>
++    <field name="unittitle_ssm">Secretary&#39;s records (4 folders)</field>
++    <field name="unittitle_teim">Secretary&#39;s records (4 folders)</field>
+     <field name="unitdate_inclusive_teim">1906-1908</field>
+     <field name="ref_ssi">aspace_ba56d418ecc6ba98d5e58ccceb5c7eec</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 24, Folder: 3-6</field>
+     <field name="location_si">Offsite-Box: 24, Folder: 3-6</field>
+     <field name="collection_teim">New England Society in the City of New York records</field>
++    <field name="author_teim">Austin Davis</field>
+     <field name="collection_unitid_teim">MS 3113</field>
+     <field name="series_sim">Series I. Governance</field>
+-    <field name="series_si">Series I. Governance &gt;&gt; Secretary's records (4 folders)</field>
+-    <field name="heading_ssm">Secretary's records (4 folders)</field>
++    <field name="series_si">Series I. Governance &gt;&gt; Secretary&#39;s records (4 folders)</field>
++    <field name="heading_ssm">Secretary&#39;s records (4 folders)</field>
+     <field name="unitdate_ssm">Inclusive, 1906-1908</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">22</field>

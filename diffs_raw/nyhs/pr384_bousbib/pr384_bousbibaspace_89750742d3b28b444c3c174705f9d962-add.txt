@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,8 @@
+     <field name="unittitle_ssm">Subseries: RON GALELLA</field>
+     <field name="unittitle_teim">Subseries: RON GALELLA</field>
+     <field name="unitdate_inclusive_teim">1978-1992</field>
+-    <field name="scopecontent_teim">This subseries consists of photographs by Ron Galella (1931-) an American photographer considered a pioneer paparazzo. Galella's celebrity photographs have appeared in many major publications including Vanity Fair, Time, and People. This subseries contains images of Imogene Coca, Gloria Swanson, Johnny Carson, Steven Spielberg, Lana Turner, Madonna, Bruce Springsteen, Tom Cruise, Brad Pitt, among others.</field>
++    <field name="scopecontent_teim">This subseries consists of photographs by Ron Galella (1931-) an American photographer considered a pioneer paparazzo. Galella&#39;s celebrity photographs have appeared in many major publications including Vanity Fair, Time, and People. 
++This subseries contains images of Imogene Coca, Gloria Swanson, Johnny Carson, Steven Spielberg, Lana Turner, Madonna, Bruce Springsteen, Tom Cruise, Brad Pitt, among others.</field>
+     <field name="ref_ssi">aspace_89750742d3b28b444c3c174705f9d962</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 384</field>
+     <field name="series_sim">Series III: Photojournalism and Documentary Photography</field>
+     <field name="series_si">Series III: Photojournalism and Documentary Photography &gt;&gt; Subseries: RON GALELLA</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Isaac Hicks papers</field>
+     <field name="collection_unitid_ssm">MS 297</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hicks Daybook</field>
+-    <field name="unittitle_teim">Hicks Daybook</field>
++    <field name="unittitle_ssm">Hicks Daybook </field>
++    <field name="unittitle_teim">Hicks Daybook </field>
+     <field name="unitdate_inclusive_teim">May 1796-Jan 1797</field>
+-    <field name="scopecontent_teim">This volume is labeled "waste book" on the spine. It appears to have some water damage. It appears to be an account book, where Hicks records money going out, goods coming in, and names of clients.</field>
++    <field name="scopecontent_teim">This volume is labeled &#34;waste book&#34; on the spine. It appears to have some water damage.  It appears to be an account book, where Hicks records money going out, goods coming in, and names of clients.</field>
+     <field name="ref_ssi">aspace_4f5527997301c726107803b42e4a6c72</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 97</field>
+     <field name="location_si">Box: 97</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+-    <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Daybook</field>
+-    <field name="heading_ssm">Hicks Daybook</field>
++    <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Daybook </field>
++    <field name="heading_ssm">Hicks Daybook </field>
+     <field name="unitdate_ssm">Inclusive, May 1796-Jan 1797</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">438</field>

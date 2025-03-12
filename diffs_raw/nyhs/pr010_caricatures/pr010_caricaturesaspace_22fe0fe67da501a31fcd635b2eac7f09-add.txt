@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jonathan's Soliloquy [Politics]</field>
+-    <field name="unittitle_teim">Jonathan's Soliloquy [Politics]</field>
++    <field name="unittitle_ssm">Jonathan&#39;s Soliloquy [Politics] </field>
++    <field name="unittitle_teim">Jonathan&#39;s Soliloquy [Politics] </field>
+     <field name="unitdate_teim">circa 1845</field>
+-    <field name="scopecontent_teim">Lithograph: signed Whitley's Lith. Paterson, N.J.</field>
++    <field name="scopecontent_teim">Lithograph: signed Whitley&#39;s Lith. Paterson, N.J.</field>
+     <field name="ref_ssi">aspace_22fe0fe67da501a31fcd635b2eac7f09</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-58, item: 1845-1</field>
+     <field name="location_si">Folder: FF-58, item: 1845-1</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series IV. Antebellum Period</field>
+-    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Jonathan's Soliloquy [Politics]</field>
+-    <field name="heading_ssm">Jonathan's Soliloquy [Politics]</field>
++    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Jonathan&#39;s Soliloquy [Politics] </field>
++    <field name="heading_ssm">Jonathan&#39;s Soliloquy [Politics] </field>
+     <field name="unitdate_ssm">circa 1845</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">504</field>

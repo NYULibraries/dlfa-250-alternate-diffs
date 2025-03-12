@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,12 @@
+     <field name="collection_ssm">James Hazen Hyde papers</field>
+     <field name="collection_unitid_ssm">MS 319</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Diary, 1933 February</field>
+-    <field name="unittitle_teim">Diary, 1933 February</field>
++    <field name="unittitle_ssm">Diary, 1933 February
++</field>
++    <field name="unittitle_teim">Diary, 1933 February
++</field>
+     <field name="unitdate_inclusive_teim">1933</field>
+-    <field name="scopecontent_teim">On February 7, Hyde learns of the suicide of Henry Rippe, his "confidential secretary and friend" and "last link with my American business friends."</field>
++    <field name="scopecontent_teim">On February 7, Hyde learns of the suicide of Henry Rippe, his &#34;confidential secretary and friend&#34; and &#34;last link with my American business friends.&#34;</field>
+     <field name="ref_ssi">aspace_bd35a14cfd4784d5a5acd0edde8aded5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +28,13 @@
+     <field name="location_ssm">Box: 25, Folder: 1</field>
+     <field name="location_si">Box: 25, Folder: 1</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series IV. Diaries</field>
+-    <field name="series_si">Series IV. Diaries &gt;&gt; Diary, 1933 February</field>
+-    <field name="heading_ssm">Diary, 1933 February</field>
++    <field name="series_si">Series IV. Diaries &gt;&gt; Diary, 1933 February
++</field>
++    <field name="heading_ssm">Diary, 1933 February
++</field>
+     <field name="unitdate_ssm">Inclusive, 1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">414</field>

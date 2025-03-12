@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor Prevost Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 56</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Prevost 17: Devlin's Tailoring Establishment, second view (1 copy)</field>
+-    <field name="unittitle_teim">Prevost 17: Devlin's Tailoring Establishment, second view (1 copy)</field>
++    <field name="unittitle_ssm">Prevost 17: Devlin&#39;s Tailoring Establishment, second view (1 copy)</field>
++    <field name="unittitle_teim">Prevost 17: Devlin&#39;s Tailoring Establishment, second view (1 copy)</field>
+     <field name="ref_ssi">aspace_ref121_u5p</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 61</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 61</field>
+     <field name="collection_teim">Victor Prevost Photograph Collection</field>
++    <field name="author_teim">Emily Wolff, Sandra Markham, and Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 56</field>
+     <field name="series_sim">Series II. Contact Prints from Calotype Negatives</field>
+-    <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 17: Devlin's Tailoring Establishment, second view (1 copy)</field>
+-    <field name="heading_ssm">Prevost 17: Devlin's Tailoring Establishment, second view (1 copy)</field>
++    <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 17: Devlin&#39;s Tailoring Establishment, second view (1 copy)</field>
++    <field name="heading_ssm">Prevost 17: Devlin&#39;s Tailoring Establishment, second view (1 copy)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>
+   </doc>

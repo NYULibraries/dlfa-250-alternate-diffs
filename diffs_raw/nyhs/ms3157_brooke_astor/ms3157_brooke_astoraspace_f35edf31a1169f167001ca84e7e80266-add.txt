@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooke Astor papers</field>
+     <field name="collection_unitid_ssm">MS 3157</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photograph album [2]. "Mrs. Vincent Astor Jewels"</field>
+-    <field name="unittitle_teim">Photograph album [2]. "Mrs. Vincent Astor Jewels"</field>
++    <field name="unittitle_ssm">Photograph album [2]. &#34;Mrs. Vincent Astor Jewels&#34;</field>
++    <field name="unittitle_teim">Photograph album [2]. &#34;Mrs. Vincent Astor Jewels&#34;</field>
+     <field name="unitdate_inclusive_teim">1927</field>
+     <field name="scopecontent_teim">A label in the album indicates it was compiled in 1927 so it is unclear which Mrs. Vincent Astor is being referred to.</field>
+     <field name="ref_ssi">aspace_f35edf31a1169f167001ca84e7e80266</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 5</field>
+     <field name="location_si">Offsite-Box: 5</field>
+     <field name="collection_teim">Brooke Astor papers</field>
++    <field name="author_teim">Eri Matsuda and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3157</field>
+     <field name="series_sim">Series IV. Photographs</field>
+-    <field name="series_si">Series IV. Photographs &gt;&gt; Photograph album [2]. "Mrs. Vincent Astor Jewels"</field>
+-    <field name="heading_ssm">Photograph album [2]. "Mrs. Vincent Astor Jewels"</field>
++    <field name="series_si">Series IV. Photographs &gt;&gt; Photograph album [2]. &#34;Mrs. Vincent Astor Jewels&#34;</field>
++    <field name="heading_ssm">Photograph album [2]. &#34;Mrs. Vincent Astor Jewels&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1927</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">110</field>

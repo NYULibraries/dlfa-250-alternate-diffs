@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref49_zyb</field>
+     <field name="parent_ssm">aspace_ref84_jxc</field>
+     <field name="parent_unittitles_ssm">Series III. Tear Sheets from Puck Magazine</field>
+-    <field name="parent_unittitles_ssm">Subseries III.B Back Covers</field>
++    <field name="parent_unittitles_ssm">Subseries III.B Back Covers </field>
+     <field name="parent_unittitles_teim">Series III. Tear Sheets from Puck Magazine</field>
+-    <field name="parent_unittitles_teim">Subseries III.B Back Covers</field>
++    <field name="parent_unittitles_teim">Subseries III.B Back Covers </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Jacquelyn A. Ottman Collection of J. Ottmann Lithographing Company</field>
+@@ -20,12 +20,12 @@
+     <field name="unittitle_teim">Mayer, Merkel &amp; Ottmann Litho. 23-25 Warren St., New York</field>
+     <field name="unitdate_inclusive_teim">1880-1885</field>
+     <field name="scopecontent_teim">Cartoon captions include:</field>
+-    <field name="scopecontent_teim">"Spanish Courtesy"</field>
+-    <field name="scopecontent_teim">"Gathering Autumn Leaves"</field>
+-    <field name="scopecontent_teim">"Puck's Life of Garfield"</field>
+-    <field name="scopecontent_teim">"Through Murder to Salvation"</field>
+-    <field name="scopecontent_teim">"Great Political Excitement in Indiana - the Whole State on the Stump"</field>
+-    <field name="scopecontent_teim">"The Opposition Tabernacles"</field>
++    <field name="scopecontent_teim">&#34;Spanish Courtesy&#34;</field>
++    <field name="scopecontent_teim">&#34;Gathering Autumn Leaves&#34;</field>
++    <field name="scopecontent_teim">&#34;Puck&#39;s Life of Garfield&#34;</field>
++    <field name="scopecontent_teim">&#34;Through Murder to Salvation&#34;</field>
++    <field name="scopecontent_teim">&#34;Great Political Excitement in Indiana - the Whole State on the Stump&#34;</field>
++    <field name="scopecontent_teim">&#34;The Opposition Tabernacles&#34;</field>
+     <field name="ref_ssi">aspace_ref135_szw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,10 +35,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 7</field>
+     <field name="collection_teim">Jacquelyn A. Ottman Collection of J. Ottmann Lithographing Company</field>
++    <field name="author_teim">Paula Wagner with additions by Susan Kriete. Revised by Marybeth Kavanagh.</field>
+     <field name="collection_unitid_teim">PR 281</field>
+     <field name="series_sim">Series III. Tear Sheets from Puck Magazine</field>
+-    <field name="series_sim">Subseries III.B Back Covers</field>
+-    <field name="series_si">Series III. Tear Sheets from Puck Magazine &gt;&gt; Subseries III.B Back Covers &gt;&gt; Mayer, Merkel &amp; Ottmann Litho. 23-25 Warren St., New York</field>
++    <field name="series_sim">Subseries III.B Back Covers </field>
++    <field name="series_si">Series III. Tear Sheets from Puck Magazine &gt;&gt; Subseries III.B Back Covers  &gt;&gt; Mayer, Merkel &amp; Ottmann Litho. 23-25 Warren St., New York</field>
+     <field name="heading_ssm">Mayer, Merkel &amp; Ottmann Litho. 23-25 Warren St., New York</field>
+     <field name="unitdate_ssm">Inclusive, 1880-1885</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Sales book</field>
+     <field name="unittitle_teim">Sales book</field>
+     <field name="unitdate_inclusive_teim">1929-1932</field>
+-    <field name="scopecontent_teim">One volume started in January 1932 and continues through the year. Includes entries showing client name, item purchased, and price, with other data. The volume includes opening entries by customer dating from 1929-1931 that appear to be unsettled purchases as of the journal's start in January 1932.</field>
++    <field name="scopecontent_teim">One volume started in January 1932 and continues through the year. Includes entries showing client name, item purchased, and price, with other data. The volume includes opening entries by customer dating from 1929-1931 that appear to be unsettled purchases as of the journal&#39;s start in January 1932.</field>
+     <field name="ref_ssi">aspace_aa6a8fb98f915fcaa6844e8265e5aca2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 76, Volume: 1</field>
+     <field name="location_si">Offsite-Box: 76, Volume: 1</field>
+     <field name="collection_teim">Robert Ensko Inc. records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 200</field>
+     <field name="series_sim">Series III. Inventories and Financial Records</field>
+     <field name="series_sim">Subseries III.C. Accounting Records</field>

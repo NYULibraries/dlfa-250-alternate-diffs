@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Department of Environmental Protection (DEP)</field>
+     <field name="unittitle_teim">Department of Environmental Protection (DEP)</field>
+     <field name="unitdate_inclusive_teim">1972, 1975</field>
+-    <field name="scopecontent_teim">This file contains guides to New York City's Air Pollution (circa 1975) and Noise Control (circa 1972) codes.</field>
++    <field name="scopecontent_teim">This file contains guides to New York City&#39;s Air Pollution (circa 1975) and Noise Control (circa 1972) codes.</field>
+     <field name="ref_ssi">aspace_0c3a4f13cac44270b71f7ab39db1af77</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 25, Folder: 18</field>
+     <field name="location_si">Offsite-Box: 25, Folder: 18</field>
+     <field name="collection_teim">Eugenia Flatow papers</field>
++    <field name="author_teim">Nicole Font</field>
+     <field name="collection_unitid_teim">MS 3175</field>
+     <field name="series_sim">Series IV. Organizational Records</field>
+     <field name="series_sim">Subseries IV.A. The Parks Council</field>

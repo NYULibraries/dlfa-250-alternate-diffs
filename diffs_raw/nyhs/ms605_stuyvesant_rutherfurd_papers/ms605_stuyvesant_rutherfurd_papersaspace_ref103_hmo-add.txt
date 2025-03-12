@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Subseries 1: Peter (Petrus) Stuyvesant - Letters Received N.D., 1781-1787</field>
+     <field name="unittitle_teim">Subseries 1: Peter (Petrus) Stuyvesant - Letters Received N.D., 1781-1787</field>
+-    <field name="scopecontent_teim">Principal correspondents include Nicholas William Stuyvesant, Miles Cooper, Henry White, and John Leech. Much of the material has to do with Nicholas William Stuyvesant's stay in Scotland to pursue his education. In addition to news of Nicholas' progress and activities, Miles Cooper writes about events and attitudes in Great Britain during the closing years of the Revolution. Two bound volumes record accounts of Peter (Petrus) Stuyvesant's estate.</field>
++    <field name="scopecontent_teim">Principal correspondents include Nicholas William Stuyvesant, Miles Cooper, Henry White, and John Leech. Much of the material has to do with Nicholas William Stuyvesant&#39;s stay in Scotland to pursue his education. In addition to news of Nicholas&#39; progress and activities, Miles Cooper writes about events and attitudes in Great Britain during the closing years of the Revolution. Two bound volumes record accounts of Peter (Petrus) Stuyvesant&#39;s estate.</field>
+     <field name="ref_ssi">aspace_ref103_hmo</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Guide to the Stuyvesant-Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 605</field>
+     <field name="series_sim">Series III: Peter (Petrus) Stuyvesant</field>
+     <field name="series_si">Series III: Peter (Petrus) Stuyvesant &gt;&gt; Subseries 1: Peter (Petrus) Stuyvesant - Letters Received N.D., 1781-1787</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Correspondence. Oversize</field>
+     <field name="unittitle_teim">Correspondence. Oversize</field>
+     <field name="unitdate_inclusive_teim">1932</field>
+-    <field name="scopecontent_teim">4 items mounted on board: 2 letters to Sulzer from Cornell University Library acknowledging donations of books and documents, a clipping of "Mr. Sulzer's rules of life," and a photo of Sulzer at the Abraham Clark monument.</field>
++    <field name="scopecontent_teim">4 items mounted on board: 2 letters to Sulzer from Cornell University Library acknowledging donations of books and documents, a clipping of &#34;Mr. Sulzer&#39;s rules of life,&#34; and a photo of Sulzer at the Abraham Clark monument.</field>
+     <field name="ref_ssi">aspace_c9a70a08076ad6fec7e26a42452e680a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 34</field>
+     <field name="location_si">Offsite-Box: 34</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Correspondence. Oversize</field>
+     <field name="heading_ssm">Correspondence. Oversize</field>

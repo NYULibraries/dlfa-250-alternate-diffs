@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Margot Gayle papers</field>
+     <field name="collection_unitid_ssm">MS 241</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photographs - NAACP Gathering (Mayor's Reception)</field>
+-    <field name="unittitle_teim">Photographs - NAACP Gathering (Mayor's Reception)</field>
++    <field name="unittitle_ssm">Photographs - NAACP Gathering (Mayor&#39;s Reception)</field>
++    <field name="unittitle_teim">Photographs - NAACP Gathering (Mayor&#39;s Reception)</field>
+     <field name="unitdate_normal_ssm">1962/1962</field>
+     <field name="unitdate_normal_teim">1962/1962</field>
+     <field name="unitdate_normal_sim">1962/1962</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 22, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 22, Folder: 3</field>
+     <field name="collection_teim">Margot Gayle papers</field>
++    <field name="author_teim">Processed by Alex Poole with additions by Alison Barr</field>
+     <field name="collection_unitid_teim">MS 241</field>
+     <field name="series_sim">Series IV: Visual Materials</field>
+-    <field name="series_si">Series IV: Visual Materials &gt;&gt; Photographs - NAACP Gathering (Mayor's Reception)</field>
+-    <field name="heading_ssm">Photographs - NAACP Gathering (Mayor's Reception)</field>
++    <field name="series_si">Series IV: Visual Materials &gt;&gt; Photographs - NAACP Gathering (Mayor&#39;s Reception)</field>
++    <field name="heading_ssm">Photographs - NAACP Gathering (Mayor&#39;s Reception)</field>
+     <field name="unitdate_start_sim">1962</field>
+     <field name="unitdate_start_ssm">1962</field>
+     <field name="unitdate_start_si">1962</field>

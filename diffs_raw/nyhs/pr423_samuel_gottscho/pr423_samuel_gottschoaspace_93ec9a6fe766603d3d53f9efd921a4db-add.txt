@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Samuel H. Gottscho photographs</field>
+     <field name="collection_unitid_ssm">PR 423</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Night from the Empire State Building toward Queens, New York"</field>
+-    <field name="unittitle_teim">"Night from the Empire State Building toward Queens, New York"</field>
++    <field name="unittitle_ssm">&#34;Night from the Empire State Building toward Queens, New York&#34;</field>
++    <field name="unittitle_teim">&#34;Night from the Empire State Building toward Queens, New York&#34;</field>
+     <field name="unitdate_teim">1933</field>
+     <field name="ref_ssi">aspace_93ec9a6fe766603d3d53f9efd921a4db</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Samuel H. Gottscho photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 423</field>
+     <field name="series_sim">Series I. Manhattan 1933 Views</field>
+-    <field name="series_si">Series I. Manhattan 1933 Views &gt;&gt; "Night from the Empire State Building toward Queens, New York"</field>
+-    <field name="heading_ssm">"Night from the Empire State Building toward Queens, New York"</field>
++    <field name="series_si">Series I. Manhattan 1933 Views &gt;&gt; &#34;Night from the Empire State Building toward Queens, New York&#34;</field>
++    <field name="heading_ssm">&#34;Night from the Empire State Building toward Queens, New York&#34;</field>
+     <field name="unitdate_ssm">1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

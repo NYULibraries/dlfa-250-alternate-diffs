@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_c0958dd2a477e40a3f0de1099f89118c</field>
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_c0958dd2a477e40a3f0de1099f89118c</field>
+-    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Turner Medals</field>
+-    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
++    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="parent_unittitles_teim">Turner Medals</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,9 @@
+     <field name="unittitle_ssm">[Notebooks containing winners]</field>
+     <field name="unittitle_teim">[Notebooks containing winners]</field>
+     <field name="unitdate_inclusive_teim">1921–1927</field>
+-    <field name="scopecontent_teim">•	Notebook containing winners from January 1921 to January 1925. Also includes two pasted-in clippings listing winners of Holmes Medals. •	Notebook containing winners from June 1925 to June 1927.</field>
++    <field name="scopecontent_teim">•	Notebook containing winners from January 1921 to January 1925. Also includes two pasted-in clippings listing winners of Holmes Medals.
++
++•	Notebook containing winners from June 1925 to June 1927.</field>
+     <field name="ref_ssi">aspace_3b27750f3fde0af99e25dc407f10fcbb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,10 +31,11 @@
+     <field name="location_ssm">Offsite-Box: RC-3a, Folder: Notebooks listing winners of Turner Medals</field>
+     <field name="location_si">Offsite-Box: RC-3a, Folder: Notebooks listing winners of Turner Medals</field>
+     <field name="collection_teim">Erasmus Hall records</field>
++    <field name="author_teim">Joseph Ditta (2021)</field>
+     <field name="collection_unitid_teim">MS 201</field>
+-    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
++    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+     <field name="series_sim">Turner Medals</field>
+-    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Turner Medals &gt;&gt; [Notebooks containing winners]</field>
++    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Turner Medals &gt;&gt; [Notebooks containing winners]</field>
+     <field name="heading_ssm">[Notebooks containing winners]</field>
+     <field name="unitdate_ssm">Inclusive, 1921–1927</field>
+     <field name="date_range_sim">undated &amp; other</field>

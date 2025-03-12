@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series V: Appointments to Various Offices</field>
+     <field name="unittitle_teim">Series V: Appointments to Various Offices</field>
+-    <field name="scopecontent_teim">This series contains documents that recognize Varick's appointments to various offices of honor, including his commission as Captain and his appointments as Mayor of New York.</field>
++    <field name="scopecontent_teim">This series contains documents that recognize Varick&#39;s appointments to various offices of honor, including his commission as Captain and his appointments as Mayor of New York.</field>
+     <field name="ref_ssi">aspace_ref134_hks</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Richard Varick Papers</field>
++    <field name="author_teim">Shannon Yule</field>
+     <field name="collection_unitid_teim">MS 655</field>
+     <field name="series_si">Series V: Appointments to Various Offices</field>
+     <field name="heading_ssm">Series V: Appointments to Various Offices</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Taylor, James. "The Great Historic Families of Scotland." Div. V</field>
+-    <field name="unittitle_teim">Taylor, James. "The Great Historic Families of Scotland." Div. V</field>
++    <field name="unittitle_ssm">Taylor, James. &#34;The Great Historic Families of Scotland.&#34; Div. V</field>
++    <field name="unittitle_teim">Taylor, James. &#34;The Great Historic Families of Scotland.&#34; Div. V</field>
+     <field name="ref_ssi">aspace_e0a3b9519a8c5e3ca1d5da842ca00712</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 16, Volume: SN-104</field>
+     <field name="location_si">Offsite-Box: 16, Volume: SN-104</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Taylor, James. "The Great Historic Families of Scotland." Div. V</field>
+-    <field name="heading_ssm">Taylor, James. "The Great Historic Families of Scotland." Div. V</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Taylor, James. &#34;The Great Historic Families of Scotland.&#34; Div. V</field>
++    <field name="heading_ssm">Taylor, James. &#34;The Great Historic Families of Scotland.&#34; Div. V</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">175</field>
+   </doc>

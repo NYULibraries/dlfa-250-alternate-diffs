@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series III: Diaries</field>
+     <field name="unittitle_teim">Series III: Diaries</field>
+     <field name="unitdate_inclusive_teim">1930-1945</field>
+-    <field name="scopecontent_teim">The final set of diaries (1930-1944) record Mabel's religious and spiritual thoughts.</field>
++    <field name="scopecontent_teim">The final set of diaries (1930-1944) record Mabel&#39;s religious and spiritual thoughts.</field>
+     <field name="ref_ssi">aspace_ref75_4mv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Mabel Newton Betticher papers</field>
++    <field name="author_teim">Processed by Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 937</field>
+     <field name="series_si">Series III: Diaries</field>
+     <field name="heading_ssm">Series III: Diaries</field>

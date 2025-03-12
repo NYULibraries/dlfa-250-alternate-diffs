@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Christmas Builders&lt;/em&gt;</field>
+     <field name="unittitle_teim">Christmas Builders</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Includes binding and unprinted pages for Jefferson's book.</field>
++    <field name="scopecontent_teim">Includes binding and unprinted pages for Jefferson&#39;s book.</field>
+     <field name="ref_ssi">aspace_ref65_67y</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 2, Folder: 14</field>
+     <field name="location_si">Box: 2, Folder: 14</field>
+     <field name="collection_teim">Charles Edward Jefferson papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3049</field>
+     <field name="series_sim">Series II. Other Documents</field>
+     <field name="series_si">Series II. Other Documents &gt;&gt; &lt;em&gt;Christmas Builders&lt;/em&gt;</field>

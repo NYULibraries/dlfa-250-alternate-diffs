@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">World War II photograph collection</field>
+     <field name="collection_unitid_ssm">PR 76</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">U.S. Army Signal Corps -- Editor's Day on Governor's Island</field>
+-    <field name="unittitle_teim">U.S. Army Signal Corps -- Editor's Day on Governor's Island</field>
++    <field name="unittitle_ssm">U.S. Army Signal Corps -- Editor&#39;s Day on Governor&#39;s Island</field>
++    <field name="unittitle_teim">U.S. Army Signal Corps -- Editor&#39;s Day on Governor&#39;s Island</field>
+     <field name="unitdate_teim">1942 Apr. 18</field>
+     <field name="ref_ssi">aspace_ref20_xww</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">World War II photograph collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 76</field>
+     <field name="series_sim">Series I: United States Army Photographs</field>
+-    <field name="series_si">Series I: United States Army Photographs &gt;&gt; U.S. Army Signal Corps -- Editor's Day on Governor's Island</field>
+-    <field name="heading_ssm">U.S. Army Signal Corps -- Editor's Day on Governor's Island</field>
++    <field name="series_si">Series I: United States Army Photographs &gt;&gt; U.S. Army Signal Corps -- Editor&#39;s Day on Governor&#39;s Island</field>
++    <field name="heading_ssm">U.S. Army Signal Corps -- Editor&#39;s Day on Governor&#39;s Island</field>
+     <field name="unitdate_ssm">1942 Apr. 18</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Washington Arch records</field>
+     <field name="collection_unitid_ssm">MS 443.30</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</field>
+-    <field name="unittitle_teim">Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</field>
++    <field name="unittitle_ssm">Bills, Invoices, Receipts, Statements, &#34;Washington Arch Vouchers, September 18th 1890 to July 8th 1895&#34;</field>
++    <field name="unittitle_teim">Bills, Invoices, Receipts, Statements, &#34;Washington Arch Vouchers, September 18th 1890 to July 8th 1895&#34;</field>
+     <field name="unitdate_normal_ssm">1890/1897</field>
+     <field name="unitdate_normal_teim">1890/1897</field>
+     <field name="unitdate_normal_sim">1890/1897</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+     <field name="collection_teim">Washington Arch records</field>
++    <field name="author_teim">Liz Arena</field>
+     <field name="collection_unitid_teim">MS 443.30</field>
+     <field name="series_sim">Series III: Fundraising Records, 1889-1918</field>
+     <field name="series_sim">Subseries I: The Washington Arch Fund, 1889-1897</field>
+-    <field name="series_si">Series III: Fundraising Records, 1889-1918 &gt;&gt; Subseries I: The Washington Arch Fund, 1889-1897 &gt;&gt; Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</field>
+-    <field name="heading_ssm">Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</field>
++    <field name="series_si">Series III: Fundraising Records, 1889-1918 &gt;&gt; Subseries I: The Washington Arch Fund, 1889-1897 &gt;&gt; Bills, Invoices, Receipts, Statements, &#34;Washington Arch Vouchers, September 18th 1890 to July 8th 1895&#34;</field>
++    <field name="heading_ssm">Bills, Invoices, Receipts, Statements, &#34;Washington Arch Vouchers, September 18th 1890 to July 8th 1895&#34;</field>
+     <field name="unitdate_start_sim">1890</field>
+     <field name="unitdate_start_ssm">1890</field>
+     <field name="unitdate_start_si">1890</field>

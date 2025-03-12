@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Time Canada Ltd. Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 44</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Time&lt;/em&gt;'s Own Advertising (Ads in Other Publications)</field>
+-    <field name="unittitle_teim">Time's Own Advertising (Ads in Other Publications)</field>
++    <field name="unittitle_ssm">&lt;em&gt;Time&lt;/em&gt;&#39;s Own Advertising (Ads in Other Publications)</field>
++    <field name="unittitle_teim">Time&#39;s Own Advertising (Ads in Other Publications)</field>
+     <field name="unitdate_inclusive_teim">1958-1961</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 3309, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 3309, Folder: 17</field>
+     <field name="collection_teim">Time Inc. Time Canada Ltd. Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 44</field>
+     <field name="series_sim">Series II.A. Managing Director Lawrence Laybourne Files</field>
+-    <field name="series_si">Series II.A. Managing Director Lawrence Laybourne Files &gt;&gt; &lt;em&gt;Time&lt;/em&gt;'s Own Advertising (Ads in Other Publications)</field>
+-    <field name="heading_ssm">Time's Own Advertising (Ads in Other Publications)</field>
++    <field name="series_si">Series II.A. Managing Director Lawrence Laybourne Files &gt;&gt; &lt;em&gt;Time&lt;/em&gt;&#39;s Own Advertising (Ads in Other Publications)</field>
++    <field name="heading_ssm">Time&#39;s Own Advertising (Ads in Other Publications)</field>
+     <field name="unitdate_ssm">Inclusive, 1958-1961</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">75</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">[Degrees of Bernard Berelson]</field>
+     <field name="unittitle_teim">[Degrees of Bernard Berelson]</field>
+     <field name="unitdate_teim">1936, 1941</field>
+-    <field name="scopecontent_teim">Includes Berelson's B.A. and Ph.D. Also includes a contract concerning the publication of What Reading Does to People.</field>
++    <field name="scopecontent_teim">Includes Berelson&#39;s B.A. and Ph.D. Also includes a contract concerning the publication of What Reading Does to People.</field>
+     <field name="ref_ssi">aspace_ref161_r7a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 27</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 27</field>
+     <field name="collection_teim">Records of the 1948 election voting study in Elmira, New York</field>
++    <field name="author_teim">Jiyang Chun</field>
+     <field name="collection_unitid_teim">MS 196</field>
+     <field name="series_sim">Series I. General Project Documents</field>
+     <field name="series_si">Series I. General Project Documents &gt;&gt; [Degrees of Bernard Berelson]</field>

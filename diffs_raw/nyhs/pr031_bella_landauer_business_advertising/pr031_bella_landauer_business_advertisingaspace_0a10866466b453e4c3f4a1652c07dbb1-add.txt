@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,9 +19,12 @@
+     <field name="unittitle_ssm">Drugs and Medicines</field>
+     <field name="unittitle_teim">Drugs and Medicines</field>
+     <field name="scopecontent_teim">Respiratory Cures</field>
+-    <field name="scopecontent_teim">Syrups: Joy to the World; Dr. King's New Discoveries; Miller's Compound Syrup; Papillon Cough Cure; Red Star Cure; Rye &amp; Rock; Schenck's Medicines; Shiloh's Consumption Cure; Tar-Liquorice; Miscellaneous</field>
+-    <field name="scopecontent_teim">Troches: Brown's Bronchial Troches; Miscellaneous</field>
+-    <field name="scopecontent_teim">Miscellaneous respiratory cures</field>
++    <field name="scopecontent_teim">Syrups: Joy to the World; Dr. King&#39;s New Discoveries; Miller&#39;s Compound Syrup; Papillon Cough Cure; Red Star Cure; Rye &amp; Rock; Schenck&#39;s Medicines;
++Shiloh&#39;s Consumption Cure; Tar-Liquorice; Miscellaneous</field>
++    <field name="scopecontent_teim">
++Troches: Brown&#39;s Bronchial Troches; Miscellaneous</field>
++    <field name="scopecontent_teim">
++Miscellaneous respiratory cures</field>
+     <field name="ref_ssi">aspace_0a10866466b453e4c3f4a1652c07dbb1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,6 +34,7 @@
+     <field name="location_ssm">Offsite-Box: 45</field>
+     <field name="location_si">Offsite-Box: 45</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

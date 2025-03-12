@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Charles A. Hanna collection</field>
+     <field name="collection_unitid_ssm">MS 3126</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Scots' Charitable Society of Boston. Constitution and By-Laws</field>
+-    <field name="unittitle_teim">Scots' Charitable Society of Boston. Constitution and By-Laws</field>
++    <field name="unittitle_ssm">Scots&#39; Charitable Society of Boston. Constitution and By-Laws</field>
++    <field name="unittitle_teim">Scots&#39; Charitable Society of Boston. Constitution and By-Laws</field>
+     <field name="unitdate_inclusive_teim">1878</field>
+     <field name="ref_ssi">aspace_83788d430befaea830422a17ca4f8b8a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 19, Volume: SN-147</field>
+     <field name="location_si">Offsite-Box: 19, Volume: SN-147</field>
+     <field name="collection_teim">Charles A. Hanna collection</field>
++    <field name="author_teim">Joseph Ditta (2022)</field>
+     <field name="collection_unitid_teim">MS 3126</field>
+     <field name="series_sim">Series II. Publications by others</field>
+-    <field name="series_si">Series II. Publications by others &gt;&gt; Scots' Charitable Society of Boston. Constitution and By-Laws</field>
+-    <field name="heading_ssm">Scots' Charitable Society of Boston. Constitution and By-Laws</field>
++    <field name="series_si">Series II. Publications by others &gt;&gt; Scots&#39; Charitable Society of Boston. Constitution and By-Laws</field>
++    <field name="heading_ssm">Scots&#39; Charitable Society of Boston. Constitution and By-Laws</field>
+     <field name="unitdate_ssm">Inclusive, 1878</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">164</field>

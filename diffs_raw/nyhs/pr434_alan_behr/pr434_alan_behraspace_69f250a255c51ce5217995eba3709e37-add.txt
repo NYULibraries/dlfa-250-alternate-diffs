@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series III. Other Subjects</field>
+     <field name="unittitle_teim">Series III. Other Subjects</field>
+     <field name="unitdate_inclusive_teim">2001</field>
+-    <field name="scopecontent_teim">The series holds one photograph from Alan Behr's "People" series. This image is an 11 x 14 inch silver gelatin print of a group of people looking with concern and fright at something behind the camera; taken on Fifth Avenue and dated the morning of 9/11/2001 the object of attention is no doubt the World Trade Center after the terrorist attack.</field>
++    <field name="scopecontent_teim">The series holds one photograph from Alan Behr&#39;s &#34;People&#34; series. This image is an 11 x 14 inch silver gelatin print of a group of people looking with concern and fright at something behind the camera; taken on Fifth Avenue and dated the morning of 9/11/2001 the object of attention is no doubt the World Trade Center after the terrorist attack.</field>
+     <field name="ref_ssi">aspace_69f250a255c51ce5217995eba3709e37</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Alan Behr photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 434</field>
+     <field name="series_si">Series III. Other Subjects</field>
+     <field name="heading_ssm">Series III. Other Subjects</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Guide to the Stuyvesant-Rutherfurd Papers</field>
+     <field name="collection_unitid_ssm">MS 605</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Copy of Governor Stuyvesant's Commission (in Dutch)</field>
+-    <field name="unittitle_teim">Copy of Governor Stuyvesant's Commission (in Dutch)</field>
++    <field name="unittitle_ssm">Copy of Governor Stuyvesant&#39;s Commission (in Dutch)</field>
++    <field name="unittitle_teim">Copy of Governor Stuyvesant&#39;s Commission (in Dutch)</field>
+     <field name="ref_ssi">aspace_ref503_fm2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: 25, Folder: 12</field>
+     <field name="location_si">Box: 25, Folder: 12</field>
+     <field name="collection_teim">Guide to the Stuyvesant-Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 605</field>
+     <field name="series_sim">Other Series</field>
+-    <field name="series_si">Other Series &gt;&gt; Copy of Governor Stuyvesant's Commission (in Dutch)</field>
+-    <field name="heading_ssm">Copy of Governor Stuyvesant's Commission (in Dutch)</field>
++    <field name="series_si">Other Series &gt;&gt; Copy of Governor Stuyvesant&#39;s Commission (in Dutch)</field>
++    <field name="heading_ssm">Copy of Governor Stuyvesant&#39;s Commission (in Dutch)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">422</field>
+   </doc>

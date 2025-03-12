@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Monthly quarterly returns as required by the Admiral," desertion reports, crew lists &lt;em&gt;San Jacinto&lt;/em&gt;</field>
+-    <field name="unittitle_teim">"Monthly quarterly returns as required by the Admiral," desertion reports, crew lists San Jacinto</field>
++    <field name="unittitle_ssm">&#34;Monthly quarterly returns as required by the Admiral,&#34; desertion reports, crew lists &lt;em&gt;San Jacinto&lt;/em&gt;</field>
++    <field name="unittitle_teim">&#34;Monthly quarterly returns as required by the Admiral,&#34; desertion reports, crew lists San Jacinto</field>
+     <field name="unitdate_teim">1864</field>
+     <field name="title_teim">San Jacinto</field>
+     <field name="title_ssm">San Jacinto</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 21</field>
+     <field name="location_si">Box: 1, Folder: 21</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976)</field>
+-    <field name="series_si">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976) &gt;&gt; "Monthly quarterly returns as required by the Admiral," desertion reports, crew lists &lt;em&gt;San Jacinto&lt;/em&gt;</field>
+-    <field name="heading_ssm">"Monthly quarterly returns as required by the Admiral," desertion reports, crew lists San Jacinto</field>
++    <field name="series_si">Series 30. Richard Worsam Meade, 2nd (1836-1865, 1871, 1976) &gt;&gt; &#34;Monthly quarterly returns as required by the Admiral,&#34; desertion reports, crew lists &lt;em&gt;San Jacinto&lt;/em&gt;</field>
++    <field name="heading_ssm">&#34;Monthly quarterly returns as required by the Admiral,&#34; desertion reports, crew lists San Jacinto</field>
+     <field name="unitdate_ssm">1864</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">889</field>

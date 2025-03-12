@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,10 @@
+     <field name="collection_ssm">New-York Historical Society Schenectady collection</field>
+     <field name="collection_unitid_ssm">MS 544</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Petition</field>
+-    <field name="unittitle_teim">Petition</field>
++    <field name="unittitle_ssm">Petition
++</field>
++    <field name="unittitle_teim">Petition
++</field>
+     <field name="unitdate_teim">1792 February 16</field>
+     <field name="scopecontent_teim">Petition regarding southern boundary of Schenectady between citizens of Schenectady and House Assembly.</field>
+     <field name="ref_ssi">aspace_ref372_az2</field>
+@@ -22,9 +24,12 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">New-York Historical Society Schenectady collection</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 544</field>
+-    <field name="series_si">Petition</field>
+-    <field name="heading_ssm">Petition</field>
++    <field name="series_si">Petition
++</field>
++    <field name="heading_ssm">Petition
++</field>
+     <field name="unitdate_ssm">1792 February 16</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">183</field>

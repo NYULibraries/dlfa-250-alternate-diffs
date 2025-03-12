@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Old Life - Purchase [RESTRICTED]</field>
+     <field name="unittitle_teim">Old Life - Purchase [RESTRICTED]</field>
+     <field name="unitdate_teim">1936-1941</field>
+-    <field name="scopecontent_teim">Contains purchase agreements of the Life humor magazine in order to obtain the rights to use the title "Life."</field>
++    <field name="scopecontent_teim">Contains purchase agreements of the Life humor magazine in order to obtain the rights to use the title &#34;Life.&#34;</field>
+     <field name="title_teim">Life</field>
+     <field name="title_ssm">Life</field>
+     <field name="ref_ssi">aspace_ref40_sq6</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Offsite-Box: 614, Folder: 16</field>
+     <field name="location_si">Offsite-Box: 614, Folder: 16</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series I.C. General: Contract, Corporate, and Corporate Secretary Legal Files</field>
+     <field name="series_si">Series I.C. General: Contract, Corporate, and Corporate Secretary Legal Files &gt;&gt; Old Life - Purchase [RESTRICTED]</field>

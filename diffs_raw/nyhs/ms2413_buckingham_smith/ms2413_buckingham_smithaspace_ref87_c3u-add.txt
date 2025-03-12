@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Notes and translations</field>
+     <field name="unittitle_teim">Notes and translations</field>
+     <field name="unitdate_teim">n.d.</field>
+-    <field name="scopecontent_teim">Includes Smith's notes on the Timucuan language, his edition of "Relation of Alvar Nunez Cabeca de Vaca," and other research projects.</field>
++    <field name="scopecontent_teim">Includes Smith&#39;s notes on the Timucuan language, his edition of &#34;Relation of Alvar Nunez Cabeca de Vaca,&#34; and other research projects.</field>
+     <field name="ref_ssi">aspace_ref87_c3u</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 2, Folder: 6</field>
+     <field name="location_si">Box: 2, Folder: 6</field>
+     <field name="collection_teim">Buckingham Smith papers and collected materials</field>
++    <field name="author_teim">Julia Lipkins</field>
+     <field name="collection_unitid_teim">MS 2413</field>
+     <field name="series_sim">II. Transcriptions and edited works</field>
+     <field name="series_si">II. Transcriptions and edited works &gt;&gt; Notes and translations</field>

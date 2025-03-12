@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Wallet</field>
+     <field name="unittitle_teim">Wallet</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Holds a card with the word "REPUBLICAN" typed above the numbers "0987654321" followed by the same written in reverse: "NACILBUPER" above "1234567890."</field>
++    <field name="scopecontent_teim">Holds a card with the word &#34;REPUBLICAN&#34; typed above the numbers &#34;0987654321&#34; followed by the same written in reverse: &#34;NACILBUPER&#34; above &#34;1234567890.&#34;</field>
+     <field name="ref_ssi">aspace_4d4f26294db8bf0f872b4ede6a60182e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 19</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 19</field>
+     <field name="collection_teim">Freedman family papers and other documents</field>
++    <field name="author_teim">Joseph Ditta (October 2021)</field>
+     <field name="collection_unitid_teim">MS 231</field>
+     <field name="series_sim">Series III. Unrelated documents</field>
+     <field name="series_si">Series III. Unrelated documents &gt;&gt; Wallet</field>

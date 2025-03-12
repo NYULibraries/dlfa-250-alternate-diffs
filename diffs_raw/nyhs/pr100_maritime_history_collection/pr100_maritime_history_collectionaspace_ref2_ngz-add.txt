@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries I.1: Sailing Vessels</field>
+     <field name="unittitle_teim">Subseries I.1: Sailing Vessels</field>
+-    <field name="scopecontent_teim">Sailing Vessels contains images of civilian ships that are powered only by wind, including clipper ships, cutters, Chinese junks, packet ships, schooners, and yachts. The images are arranged alphabetically by each vessel's name. Unidentified ships are sorted by medium and located after identified ships. Images of replicas of historically significant ships can be found in this group, including photographs of the Viking ship Lief Erikson, images of the Half Moon, built for the Hudson-Fulton Celebration in 1909 and photographs, including cyanotypes, of the Santa Maria, created for the 1893 World's Columbian Exposition.</field>
++    <field name="scopecontent_teim">Sailing Vessels contains images of civilian ships that are powered only by wind, including clipper ships, cutters, Chinese junks, packet ships, schooners, and yachts. The images are arranged alphabetically by each vessel&#39;s name.  Unidentified ships are sorted by medium and located after identified ships.  Images of replicas of historically significant ships can be found in this group, including photographs of the Viking ship Lief Erikson, images of the Half Moon, built for the Hudson-Fulton Celebration in 1909 and photographs, including cyanotypes, of the Santa Maria, created for the 1893 World&#39;s Columbian Exposition.</field>
+     <field name="ref_ssi">aspace_ref2_ngz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Maritime History Collection</field>
++    <field name="author_teim">Kelly McAnnaney; finding aid updated and expanded by Eva Gretta, 2015</field>
+     <field name="collection_unitid_teim">PR 100</field>
+     <field name="series_sim">Series I. Boxed Files</field>
+     <field name="series_si">Series I. Boxed Files &gt;&gt; Subseries I.1: Sailing Vessels</field>

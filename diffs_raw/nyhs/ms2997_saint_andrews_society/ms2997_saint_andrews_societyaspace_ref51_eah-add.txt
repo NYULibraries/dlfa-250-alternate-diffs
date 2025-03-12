@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2997_saint_andrews_society</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+-    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_sim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="collection_ssm">Saint Andrew&#39;s Society of the State of New York records</field>
+     <field name="collection_unitid_ssm">MS 2997</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VI: Miscellaneous Historical Material</field>
+@@ -19,7 +19,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_teim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="author_teim">Luis Rodriguez</field>
+     <field name="collection_unitid_teim">MS 2997</field>
+     <field name="series_si">Series VI: Miscellaneous Historical Material</field>
+     <field name="heading_ssm">Series VI: Miscellaneous Historical Material</field>

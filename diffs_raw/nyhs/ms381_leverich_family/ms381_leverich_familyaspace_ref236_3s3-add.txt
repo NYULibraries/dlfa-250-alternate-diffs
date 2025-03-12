@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref13_052</field>
+     <field name="parent_ssm">aspace_ref215_a4t</field>
+     <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+-    <field name="parent_unittitles_ssm">Subseries 3: Henry S. Leverich</field>
++    <field name="parent_unittitles_ssm">Subseries 3: Henry S. Leverich </field>
+     <field name="parent_unittitles_teim">Series I: Correspondence</field>
+-    <field name="parent_unittitles_teim">Subseries 3: Henry S. Leverich</field>
++    <field name="parent_unittitles_teim">Subseries 3: Henry S. Leverich </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Leverich family papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Leverich family papers</field>
+     <field name="collection_unitid_ssm">MS 381</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Letter Book"</field>
+-    <field name="unittitle_teim">"Letter Book"</field>
++    <field name="unittitle_ssm">&#34;Letter Book&#34;</field>
++    <field name="unittitle_teim">&#34;Letter Book&#34;</field>
+     <field name="unitdate_normal_ssm">1830/1831</field>
+     <field name="unitdate_normal_teim">1830/1831</field>
+     <field name="unitdate_normal_sim">1830/1831</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Offsite-Box: 60, Volume: 8</field>
+     <field name="location_si">Offsite-Box: 60, Volume: 8</field>
+     <field name="collection_teim">Leverich family papers</field>
++    <field name="author_teim">Processed by Cara Brick, Richard Fraser, and Tom Rosko</field>
+     <field name="collection_unitid_teim">MS 381</field>
+     <field name="series_sim">Series I: Correspondence</field>
+-    <field name="series_sim">Subseries 3: Henry S. Leverich</field>
+-    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 3: Henry S. Leverich &gt;&gt; "Letter Book"</field>
+-    <field name="heading_ssm">"Letter Book"</field>
++    <field name="series_sim">Subseries 3: Henry S. Leverich </field>
++    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 3: Henry S. Leverich  &gt;&gt; &#34;Letter Book&#34;</field>
++    <field name="heading_ssm">&#34;Letter Book&#34;</field>
+     <field name="unitdate_start_sim">1830</field>
+     <field name="unitdate_start_ssm">1830</field>
+     <field name="unitdate_start_si">1830</field>

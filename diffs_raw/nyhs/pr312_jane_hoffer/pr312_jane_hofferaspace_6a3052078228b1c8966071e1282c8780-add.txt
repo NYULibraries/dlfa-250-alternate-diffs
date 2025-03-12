@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr312_jane_hoffer</field>
+     <field name="parent_ssi">aspace_f5c40ce185e846b5415167ff1156c798</field>
+     <field name="parent_ssm">aspace_f5c40ce185e846b5415167ff1156c798</field>
+-    <field name="parent_unittitles_ssm">Series IV. "Willet's Point, Queens"</field>
+-    <field name="parent_unittitles_teim">Series IV. "Willet's Point, Queens"</field>
++    <field name="parent_unittitles_ssm">Series IV. &amp;#34;Willet&amp;#39;s Point, Queens&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series IV. &amp;#34;Willet&amp;#39;s Point, Queens&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Jane Hoffer photographs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Digital-Folder: PR 312</field>
+     <field name="location_si">Digital-Folder: PR 312</field>
+     <field name="collection_teim">Jane Hoffer photographs</field>
++    <field name="author_teim">Sophie Glidden-Lyon (2015), Joseph Ditta (2019), Margo Padilla and Larry Weimer (2022)</field>
+     <field name="collection_unitid_teim">PR 312</field>
+-    <field name="series_sim">Series IV. "Willet's Point, Queens"</field>
+-    <field name="series_si">Series IV. "Willet's Point, Queens" &gt;&gt; Willets Point Digital Images</field>
++    <field name="series_sim">Series IV. &amp;#34;Willet&amp;#39;s Point, Queens&amp;#34;</field>
++    <field name="series_si">Series IV. &#34;Willet&#39;s Point, Queens&#34; &gt;&gt; Willets Point Digital Images</field>
+     <field name="heading_ssm">Willets Point Digital Images</field>
+     <field name="unitdate_ssm">Inclusive, 2020</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Franz Sigel papers</field>
+     <field name="collection_unitid_ssm">MS 565</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Topographical Map of the Battlefield of Bull Run relating to the second day's battle fought on August 30th 1862</field>
+-    <field name="unittitle_teim">Topographical Map of the Battlefield of Bull Run relating to the second day's battle fought on August 30th 1862</field>
++    <field name="unittitle_ssm">Topographical Map of the Battlefield of Bull Run relating to the second day&#39;s battle fought on August 30th 1862</field>
++    <field name="unittitle_teim">Topographical Map of the Battlefield of Bull Run relating to the second day&#39;s battle fought on August 30th 1862</field>
+     <field name="unitdate_teim">no date</field>
+     <field name="ref_ssi">aspace_ref158_ul8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">oversize: OS</field>
+     <field name="location_si">oversize: OS</field>
+     <field name="collection_teim">Franz Sigel papers</field>
++    <field name="author_teim">Corrinne Collett. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 565</field>
+     <field name="series_sim">Series IV: Military Documents</field>
+     <field name="series_sim">Subseries IV.E: Oversized Maps</field>
+-    <field name="series_si">Series IV: Military Documents &gt;&gt; Subseries IV.E: Oversized Maps &gt;&gt; Topographical Map of the Battlefield of Bull Run relating to the second day's battle fought on August 30th 1862</field>
+-    <field name="heading_ssm">Topographical Map of the Battlefield of Bull Run relating to the second day's battle fought on August 30th 1862</field>
++    <field name="series_si">Series IV: Military Documents &gt;&gt; Subseries IV.E: Oversized Maps &gt;&gt; Topographical Map of the Battlefield of Bull Run relating to the second day&#39;s battle fought on August 30th 1862</field>
++    <field name="heading_ssm">Topographical Map of the Battlefield of Bull Run relating to the second day&#39;s battle fought on August 30th 1862</field>
+     <field name="unitdate_ssm">no date</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">80</field>

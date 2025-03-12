@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Time Inc. Video Group Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 41</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jazz on a Summer's Day [RESTRICTED]</field>
+-    <field name="unittitle_teim">Jazz on a Summer's Day [RESTRICTED]</field>
++    <field name="unittitle_ssm">Jazz on a Summer&#39;s Day  [RESTRICTED]</field>
++    <field name="unittitle_teim">Jazz on a Summer&#39;s Day  [RESTRICTED]</field>
+     <field name="unitdate_inclusive_teim">1982</field>
+     <field name="ref_ssi">aspace_4b29903e6f0197159d0678ec73f40102</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Offsite-Box: R58</field>
+     <field name="location_si">Offsite-Box: R58</field>
+     <field name="collection_teim">Time Inc. Video Group Records</field>
++    <field name="author_teim">Samantha Brown and Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3009-RG 41</field>
+     <field name="series_sim">Series VII.B. Time-Life Films: Video Division Records</field>
+     <field name="series_sim">Subseries VII.B.1 Vice President of Programming and Production Richard Schilling Files</field>
+     <field name="series_sim">Subsubseries VII.B.1.b. Subject Files</field>
+-    <field name="series_si">Series VII.B. Time-Life Films: Video Division Records &gt;&gt; Subseries VII.B.1 Vice President of Programming and Production Richard Schilling Files &gt;&gt; Subsubseries VII.B.1.b. Subject Files &gt;&gt; Jazz on a Summer's Day [RESTRICTED]</field>
+-    <field name="heading_ssm">Jazz on a Summer's Day [RESTRICTED]</field>
++    <field name="series_si">Series VII.B. Time-Life Films: Video Division Records &gt;&gt; Subseries VII.B.1 Vice President of Programming and Production Richard Schilling Files &gt;&gt; Subsubseries VII.B.1.b. Subject Files &gt;&gt; Jazz on a Summer&#39;s Day  [RESTRICTED]</field>
++    <field name="heading_ssm">Jazz on a Summer&#39;s Day  [RESTRICTED]</field>
+     <field name="unitdate_ssm">Inclusive, 1982</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1104</field>

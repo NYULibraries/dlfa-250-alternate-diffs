@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Box 17(B), William Beekman</field>
+     <field name="unittitle_teim">Box 17(B), William Beekman</field>
+     <field name="unitdate_teim">1780-1783</field>
+-    <field name="scopecontent_teim">See White's guide, Volume 1, pages 176-201.</field>
++    <field name="scopecontent_teim">See White&#39;s guide, Volume 1, pages 176-201.</field>
+     <field name="ref_ssi">aspace_ref322_un4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_si">Box 17(B), William Beekman</field>
+     <field name="heading_ssm">Box 17(B), William Beekman</field>

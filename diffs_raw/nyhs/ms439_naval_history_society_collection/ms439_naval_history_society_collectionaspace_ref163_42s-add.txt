@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,11 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Navy Journal: North Atlantic Blockading Squadron, U S Steamer &lt;em&gt;Mystic &lt;/em&gt;(4" rate)</field>
+-    <field name="unittitle_teim">Navy Journal: North Atlantic Blockading Squadron, U S Steamer Mystic (4" rate)</field>
++    <field name="unittitle_ssm">Navy Journal: North Atlantic Blockading Squadron, U S Steamer &lt;em&gt;Mystic &lt;/em&gt;(4&#34; rate)</field>
++    <field name="unittitle_teim">Navy Journal: North Atlantic Blockading Squadron, U S Steamer Mystic (4&#34; rate)</field>
+     <field name="unitdate_teim">1861 December 11 - 1862 February 20</field>
+-    <field name="title_teim">Mystic</field>
+-    <field name="title_ssm">Mystic</field>
++    <field name="title_teim">Mystic </field>
++    <field name="title_ssm">Mystic </field>
+     <field name="ref_ssi">aspace_ref163_42s</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Volume: 1</field>
+     <field name="location_si">Volume: 1</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 15. William R. Durand (1861-1865)</field>
+-    <field name="series_si">Series 15. William R. Durand (1861-1865) &gt;&gt; Navy Journal: North Atlantic Blockading Squadron, U S Steamer &lt;em&gt;Mystic &lt;/em&gt;(4" rate)</field>
+-    <field name="heading_ssm">Navy Journal: North Atlantic Blockading Squadron, U S Steamer Mystic (4" rate)</field>
++    <field name="series_si">Series 15. William R. Durand (1861-1865) &gt;&gt; Navy Journal: North Atlantic Blockading Squadron, U S Steamer &lt;em&gt;Mystic &lt;/em&gt;(4&#34; rate)</field>
++    <field name="heading_ssm">Navy Journal: North Atlantic Blockading Squadron, U S Steamer Mystic (4&#34; rate)</field>
+     <field name="unitdate_ssm">1861 December 11 - 1862 February 20</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">138</field>

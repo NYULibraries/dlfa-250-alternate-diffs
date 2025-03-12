@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Judson Trappan photographs</field>
+     <field name="collection_unitid_ssm">PR 071</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries II.C. Glass Plate Negatives (5 x 8")</field>
+-    <field name="unittitle_teim">Subseries II.C. Glass Plate Negatives (5 x 8")</field>
++    <field name="unittitle_ssm">Subseries II.C. Glass Plate Negatives (5 x 8&#34;)</field>
++    <field name="unittitle_teim">Subseries II.C. Glass Plate Negatives (5 x 8&#34;)</field>
+     <field name="unitdate_inclusive_teim">1890–1896, undated</field>
+     <field name="ref_ssi">aspace_75d872d99351eece45c60aca03673c1e</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -23,10 +23,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Judson Trappan photographs</field>
++    <field name="author_teim">Julie Viggiano (2003); updated by Jenny Gotwals (2006); migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">PR 071</field>
+     <field name="series_sim">Series II. Negatives</field>
+-    <field name="series_si">Series II. Negatives &gt;&gt; Subseries II.C. Glass Plate Negatives (5 x 8")</field>
+-    <field name="heading_ssm">Subseries II.C. Glass Plate Negatives (5 x 8")</field>
++    <field name="series_si">Series II. Negatives &gt;&gt; Subseries II.C. Glass Plate Negatives (5 x 8&#34;)</field>
++    <field name="heading_ssm">Subseries II.C. Glass Plate Negatives (5 x 8&#34;)</field>
+     <field name="unitdate_ssm">Inclusive, 1890–1896, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">49</field>

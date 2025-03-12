@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">World War I poster collection</field>
+     <field name="collection_unitid_ssm">PR 55-7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Saving daylight / "Set the clock ahead one hour and win the war!" / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
+-    <field name="unittitle_teim">Saving daylight / "Set the clock ahead one hour and win the war!" / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
++    <field name="unittitle_ssm">Saving daylight / &#34;Set the clock ahead one hour and win the war!&#34; / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
++    <field name="unittitle_teim">Saving daylight / &#34;Set the clock ahead one hour and win the war!&#34; / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
+     <field name="ref_ssi">aspace_ref1114_uyl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Folder: 30</field>
+     <field name="location_si">Folder: 30</field>
+     <field name="collection_teim">World War I poster collection</field>
++    <field name="author_teim">N-YHS staff; database migrated to Archivist Toolkit by Jennifer Gargiulo, 2016</field>
+     <field name="collection_unitid_teim">PR 55-7</field>
+     <field name="series_sim">Series IV: Conservation Appeals</field>
+     <field name="series_sim">Subseries IV.3: Daylight Savings</field>
+-    <field name="series_si">Series IV: Conservation Appeals &gt;&gt; Subseries IV.3: Daylight Savings &gt;&gt; Saving daylight / "Set the clock ahead one hour and win the war!" / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
+-    <field name="heading_ssm">Saving daylight / "Set the clock ahead one hour and win the war!" / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
++    <field name="series_si">Series IV: Conservation Appeals &gt;&gt; Subseries IV.3: Daylight Savings &gt;&gt; Saving daylight / &#34;Set the clock ahead one hour and win the war!&#34; / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
++    <field name="heading_ssm">Saving daylight / &#34;Set the clock ahead one hour and win the war!&#34; / ave 1,000,000 / Tons of coal by / Using an extra / Hour of daylight!</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">656</field>
+   </doc>

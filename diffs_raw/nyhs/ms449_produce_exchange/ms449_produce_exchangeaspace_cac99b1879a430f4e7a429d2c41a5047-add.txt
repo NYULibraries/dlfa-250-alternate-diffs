@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Employee payroll ledger. May 1902-December 1928</field>
+     <field name="unittitle_teim">Employee payroll ledger. May 1902-December 1928</field>
+     <field name="unitdate_inclusive_teim">1902-1928</field>
+-    <field name="scopecontent_teim">Data includes name, occupation, start/end date, and pay rate. Women employees identified with prefix "Miss."</field>
++    <field name="scopecontent_teim">Data includes name, occupation, start/end date, and pay rate. Women employees identified with prefix &#34;Miss.&#34;</field>
+     <field name="ref_ssi">aspace_cac99b1879a430f4e7a429d2c41a5047</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: PE-91, Volume: SN-218</field>
+     <field name="location_si">Offsite-Box: PE-91, Volume: SN-218</field>
+     <field name="collection_teim">New York Produce Exchange records</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 449</field>
+     <field name="series_si">Employee payroll ledger. May 1902-December 1928</field>
+     <field name="heading_ssm">Employee payroll ledger. May 1902-December 1928</field>

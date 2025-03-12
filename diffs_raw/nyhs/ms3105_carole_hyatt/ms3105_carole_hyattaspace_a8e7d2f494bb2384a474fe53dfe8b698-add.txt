@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Ashley, Barbara (2 tapes/4 files)</field>
+     <field name="unittitle_teim">Ashley, Barbara (2 tapes/4 files)</field>
+     <field name="unitdate_teim">1988 May 4</field>
+-    <field name="scopecontent_teim">Tape 1 (item 263) labeled on both sides. Tape 2 (item 264) labeled: "Side 3 &amp; 4. Ball. 'Intuitive changer'." [On index, re: Shifting Gears]</field>
++    <field name="scopecontent_teim">Tape 1 (item 263) labeled on both sides. Tape 2 (item 264) labeled: &#34;Side 3 &amp; 4. Ball. &#39;Intuitive changer&#39;.&#34; [On index, re: Shifting Gears]</field>
+     <field name="ref_ssi">aspace_a8e7d2f494bb2384a474fe53dfe8b698</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: T4, Item: 263-264</field>
+     <field name="location_si">Box: T4, Item: 263-264</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>

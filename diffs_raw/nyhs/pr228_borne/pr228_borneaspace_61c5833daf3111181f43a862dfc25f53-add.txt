@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mortimer Borne drypoints</field>
+     <field name="collection_unitid_ssm">PR 228</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">E. Fulton Street "El"</field>
+-    <field name="unittitle_teim">E. Fulton Street "El"</field>
++    <field name="unittitle_ssm">E. Fulton Street &#34;El&#34;</field>
++    <field name="unittitle_teim">E. Fulton Street &#34;El&#34;</field>
+     <field name="unitdate_inclusive_teim">1930</field>
+     <field name="ref_ssi">aspace_61c5833daf3111181f43a862dfc25f53</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 7</field>
+     <field name="collection_teim">Mortimer Borne drypoints</field>
++    <field name="author_teim">Valerie S. Komor and Bobby Lee (2003); migrated to ArchivesSpace by Joseph Ditta (2020).</field>
+     <field name="collection_unitid_teim">PR 228</field>
+     <field name="series_sim">Mortimer Borne drypoints</field>
+-    <field name="series_si">Mortimer Borne drypoints &gt;&gt; E. Fulton Street "El"</field>
+-    <field name="heading_ssm">E. Fulton Street "El"</field>
++    <field name="series_si">Mortimer Borne drypoints &gt;&gt; E. Fulton Street &#34;El&#34;</field>
++    <field name="heading_ssm">E. Fulton Street &#34;El&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1930</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">27</field>

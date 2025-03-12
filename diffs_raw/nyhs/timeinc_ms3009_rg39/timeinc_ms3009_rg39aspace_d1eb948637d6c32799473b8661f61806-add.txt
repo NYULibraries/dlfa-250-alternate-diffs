@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,11 +9,11 @@
+     <field name="collection_ssm">Time Inc. Annex Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 39</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Fortune&lt;/em&gt;'s 40th Anniversary-Hotel St. Regis</field>
+-    <field name="unittitle_teim">Fortune's 40th Anniversary-Hotel St. Regis</field>
++    <field name="unittitle_ssm">&lt;em&gt;Fortune&lt;/em&gt;&#39;s 40th Anniversary-Hotel St. Regis</field>
++    <field name="unittitle_teim">Fortune&#39;s 40th Anniversary-Hotel St. Regis</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Includes audiovisual material.</field>
+-    <field name="scopecontent_teim">1 audiotape reel : analog, 7 in., 1/4 in tape. Label on container: "Fortune's 40th Anniversary – Hotel St. Regis"</field>
++    <field name="scopecontent_teim">1 audiotape reel : analog, 7 in., 1/4 in tape. Label on container: &#34;Fortune&#39;s 40th Anniversary – Hotel St. Regis&#34;</field>
+     <field name="ref_ssi">aspace_d1eb948637d6c32799473b8661f61806</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,9 +23,10 @@
+     <field name="location_ssm">Offsite-Box: 4007, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 4007, Folder: 4</field>
+     <field name="collection_teim">Time Inc. Annex Files</field>
++    <field name="author_teim">Allen Thomas and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 39</field>
+-    <field name="series_si">&lt;em&gt;Fortune&lt;/em&gt;'s 40th Anniversary-Hotel St. Regis</field>
+-    <field name="heading_ssm">Fortune's 40th Anniversary-Hotel St. Regis</field>
++    <field name="series_si">&lt;em&gt;Fortune&lt;/em&gt;&#39;s 40th Anniversary-Hotel St. Regis</field>
++    <field name="heading_ssm">Fortune&#39;s 40th Anniversary-Hotel St. Regis</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">410</field>

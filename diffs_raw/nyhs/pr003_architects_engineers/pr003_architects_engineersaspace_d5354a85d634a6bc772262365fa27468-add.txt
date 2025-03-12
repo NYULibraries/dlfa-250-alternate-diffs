@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Architects &amp; Engineers collection</field>
+     <field name="collection_unitid_ssm">PR 3</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">St. John's Chapel (PR 3-145)</field>
+-    <field name="unittitle_teim">St. John's Chapel (PR 3-145)</field>
++    <field name="unittitle_ssm">St. John&#39;s Chapel (PR 3-145)</field>
++    <field name="unittitle_teim">St. John&#39;s Chapel (PR 3-145)</field>
+     <field name="unitdate_inclusive_teim">1933</field>
+     <field name="ref_ssi">aspace_d5354a85d634a6bc772262365fa27468</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: PR 3-145</field>
+     <field name="location_si">Folder: PR 3-145</field>
+     <field name="collection_teim">Architects &amp; Engineers collection</field>
++    <field name="author_teim">Susan Benz</field>
+     <field name="collection_unitid_teim">PR 3</field>
+     <field name="series_sim">Unidentified Creators (80 projects)</field>
+-    <field name="series_si">Unidentified Creators (80 projects) &gt;&gt; St. John's Chapel (PR 3-145)</field>
+-    <field name="heading_ssm">St. John's Chapel (PR 3-145)</field>
++    <field name="series_si">Unidentified Creators (80 projects) &gt;&gt; St. John&#39;s Chapel (PR 3-145)</field>
++    <field name="heading_ssm">St. John&#39;s Chapel (PR 3-145)</field>
+     <field name="unitdate_ssm">Inclusive, 1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">495</field>

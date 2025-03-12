@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Beekman family papers</field>
+     <field name="collection_unitid_ssm">MS 51</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on "The Cliffs" Long Island Home, Clippings</field>
+-    <field name="unittitle_teim">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on "The Cliffs" Long Island Home, Clippings</field>
++    <field name="unittitle_ssm">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on &#34;The Cliffs&#34; Long Island Home, Clippings </field>
++    <field name="unittitle_teim">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on &#34;The Cliffs&#34; Long Island Home, Clippings </field>
+     <field name="unitdate_teim">Circa 1900</field>
+     <field name="ref_ssi">aspace_ref759_8tv</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 43(A), Folder: 4</field>
+     <field name="location_si">Box: 43(A), Folder: 4</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 43(A), Genealogy and Legal Papers</field>
+-    <field name="series_si">Box 43(A), Genealogy and Legal Papers &gt;&gt; Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on "The Cliffs" Long Island Home, Clippings</field>
+-    <field name="heading_ssm">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on "The Cliffs" Long Island Home, Clippings</field>
++    <field name="series_si">Box 43(A), Genealogy and Legal Papers &gt;&gt; Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on &#34;The Cliffs&#34; Long Island Home, Clippings </field>
++    <field name="heading_ssm">Revolutionary Generation Papers Relating to Carriage, Beekman Arms (hotel), Paintings, Sofa, Documents on &#34;The Cliffs&#34; Long Island Home, Clippings </field>
+     <field name="unitdate_ssm">Circa 1900</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">584</field>

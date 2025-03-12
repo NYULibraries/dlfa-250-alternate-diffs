@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Order</field>
+     <field name="unittitle_teim">Order</field>
+     <field name="unitdate_teim">1755 August 12</field>
+-    <field name="scopecontent_teim">Order by James Delaney (Delancey?) to Lt. Col. Jacob Glen (of the Schenectady Battalion) to dispatch men to do duty in Majesty's Fort in Schenectady.</field>
++    <field name="scopecontent_teim">Order by James Delaney (Delancey?) to Lt. Col. Jacob Glen (of the Schenectady Battalion) to dispatch men to do duty in Majesty&#39;s Fort in Schenectady.</field>
+     <field name="ref_ssi">aspace_ref140_zx4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">New-York Historical Society Schenectady collection</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 544</field>
+     <field name="series_si">Order</field>
+     <field name="heading_ssm">Order</field>

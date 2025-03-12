@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,8 @@
+     <field name="unittitle_ssm">Subseries III.B. FDNY: Audiovisual</field>
+     <field name="unittitle_teim">Subseries III.B. FDNY: Audiovisual</field>
+     <field name="unitdate_teim">2002-2009</field>
+-    <field name="scopecontent_teim">A small number of CDs and DVDs from Scoppetta's tenure as 31st FDNY Commissioner. Includes press clips, speeches, and television news profiles.</field>
++    <field name="scopecontent_teim">A small number of CDs and DVDs from Scoppetta&#39;s tenure as 31st FDNY Commissioner. Includes press clips, speeches, and television news profiles.
++</field>
+     <field name="scopecontent_teim">NOTE: The New-York Historical Society lacks audiovisual playback equipment.</field>
+     <field name="ref_ssi">aspace_ref273_l81</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,6 +26,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Nicholas Scoppetta papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3017</field>
+     <field name="series_sim">Series III. FDNY</field>
+     <field name="series_si">Series III. FDNY &gt;&gt; Subseries III.B. FDNY: Audiovisual</field>

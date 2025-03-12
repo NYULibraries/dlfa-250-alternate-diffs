@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">James Boyd collection of New York City etchings</field>
+     <field name="collection_unitid_ssm">PR 7</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">My Neighbor's Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
+-    <field name="unittitle_teim">My Neighbor's Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
++    <field name="unittitle_ssm">My Neighbor&#39;s Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
++    <field name="unittitle_teim">My Neighbor&#39;s Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
+     <field name="unitdate_teim">1916</field>
+     <field name="ref_ssi">aspace_ref365_e11</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 54</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 54</field>
+     <field name="collection_teim">James Boyd collection of New York City etchings</field>
++    <field name="author_teim">Valerie S. Komor, Janet Koszalka, and Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 7</field>
+     <field name="series_sim">Series I: New York City Etchings</field>
+     <field name="series_sim">Roth, Ernest D. (1879-1964)</field>
+-    <field name="series_si">Series I: New York City Etchings &gt;&gt; Roth, Ernest D. (1879-1964) &gt;&gt; My Neighbor's Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
+-    <field name="heading_ssm">My Neighbor's Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
++    <field name="series_si">Series I: New York City Etchings &gt;&gt; Roth, Ernest D. (1879-1964) &gt;&gt; My Neighbor&#39;s Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
++    <field name="heading_ssm">My Neighbor&#39;s Yard (146th Street &amp; Park Ave., Bronx) (378)</field>
+     <field name="unitdate_ssm">1916</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">340</field>

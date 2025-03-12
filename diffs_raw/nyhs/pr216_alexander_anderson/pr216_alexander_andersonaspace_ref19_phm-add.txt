@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Alexander Anderson Print Collection</field>
+     <field name="collection_unitid_ssm">PR 216</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Return[ing] from the Boar Hunt," after Johannes Ridinger</field>
+-    <field name="unittitle_teim">"Return[ing] from the Boar Hunt," after Johannes Ridinger</field>
++    <field name="unittitle_ssm">&#34;Return[ing] from the Boar Hunt,&#34; after Johannes Ridinger</field>
++    <field name="unittitle_teim">&#34;Return[ing] from the Boar Hunt,&#34; after Johannes Ridinger</field>
+     <field name="unitdate_teim">1818</field>
+     <field name="ref_ssi">aspace_ref19_phm</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 21</field>
+     <field name="location_si">Box: 2, Folder: 21</field>
+     <field name="collection_teim">Alexander Anderson Print Collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 216</field>
+     <field name="series_sim">Series I. Works by Anderson</field>
+     <field name="series_sim">Subseries I.A. Engravings: Illustrations</field>
+-    <field name="series_si">Series I. Works by Anderson &gt;&gt; Subseries I.A. Engravings: Illustrations &gt;&gt; "Return[ing] from the Boar Hunt," after Johannes Ridinger</field>
+-    <field name="heading_ssm">"Return[ing] from the Boar Hunt," after Johannes Ridinger</field>
++    <field name="series_si">Series I. Works by Anderson &gt;&gt; Subseries I.A. Engravings: Illustrations &gt;&gt; &#34;Return[ing] from the Boar Hunt,&#34; after Johannes Ridinger</field>
++    <field name="heading_ssm">&#34;Return[ing] from the Boar Hunt,&#34; after Johannes Ridinger</field>
+     <field name="unitdate_ssm">1818</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

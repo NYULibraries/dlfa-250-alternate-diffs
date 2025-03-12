@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Foster (Cornell) Family History</field>
+     <field name="unittitle_teim">Foster (Cornell) Family History</field>
+     <field name="unitdate_inclusive_teim">1906-1922</field>
+-    <field name="scopecontent_teim">Contains materials related to the genealogy of Evelyn Foster Olds's family</field>
++    <field name="scopecontent_teim">Contains materials related to the genealogy of Evelyn Foster Olds&#39;s family</field>
+     <field name="ref_ssi">aspace_7f418bd877f70ae888a1378dfbb39faa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 11, Folder: 4</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series VI. Subject Files</field>
+     <field name="series_si">Series VI. Subject Files &gt;&gt; Foster (Cornell) Family History</field>

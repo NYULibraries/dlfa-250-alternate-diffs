@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Diaries (2 folders)</field>
+     <field name="unittitle_teim">Diaries (2 folders)</field>
+     <field name="unitdate_inclusive_teim">1951-1952</field>
+-    <field name="scopecontent_teim">Contains a diary from Olds's trip to Europe in 1951, and a detailed diary of his daily schedule during 1952</field>
++    <field name="scopecontent_teim">Contains a diary from Olds&#39;s trip to Europe in 1951, and a detailed diary of his daily schedule during 1952</field>
+     <field name="ref_ssi">aspace_561acb67808e7fc49c600d2fc7c50cb8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 9-10</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 9-10</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series III. Diaries</field>
+     <field name="series_si">Series III. Diaries &gt;&gt; Diaries (2 folders)</field>

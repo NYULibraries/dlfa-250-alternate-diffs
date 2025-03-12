@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Esquire&lt;/em&gt;: Robert Sam Anson story, "Time Warp"</field>
+-    <field name="unittitle_teim">Esquire: Robert Sam Anson story, "Time Warp"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Esquire&lt;/em&gt;: Robert Sam Anson story, &#34;Time Warp&#34;</field>
++    <field name="unittitle_teim">Esquire: Robert Sam Anson story, &#34;Time Warp&#34;</field>
+     <field name="unitdate_inclusive_teim">1992</field>
+     <field name="title_teim">Esquire</field>
+     <field name="title_ssm">Esquire</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Offsite-Box: 3694, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 3694, Folder: 12</field>
+     <field name="collection_teim">Time Inc. Corporate Administration Records</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Nora Soto</field>
+     <field name="collection_unitid_teim">MS 3009-RG 5</field>
+     <field name="series_sim">Series IX. Vice President of Communications Peter Costiglio Files</field>
+-    <field name="series_si">Series IX. Vice President of Communications Peter Costiglio Files &gt;&gt; &lt;em&gt;Esquire&lt;/em&gt;: Robert Sam Anson story, "Time Warp"</field>
+-    <field name="heading_ssm">Esquire: Robert Sam Anson story, "Time Warp"</field>
++    <field name="series_si">Series IX. Vice President of Communications Peter Costiglio Files &gt;&gt; &lt;em&gt;Esquire&lt;/em&gt;: Robert Sam Anson story, &#34;Time Warp&#34;</field>
++    <field name="heading_ssm">Esquire: Robert Sam Anson story, &#34;Time Warp&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2205</field>

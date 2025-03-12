@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Historical Notes</field>
+     <field name="unittitle_teim">Historical Notes</field>
+     <field name="unitdate_inclusive_teim">1908-1941</field>
+-    <field name="scopecontent_teim">This folder contains a 1941 document that gives a summary of the history of the 9th Regiment; a list prepared in 1908 of commandants from 1799-1899; and a note concerning the continuity of the regiment's history (1933).</field>
++    <field name="scopecontent_teim">This folder contains a 1941 document that gives a summary of the history of the 9th Regiment; a list prepared in 1908 of commandants from 1799-1899; and a note concerning the continuity of the regiment&#39;s history (1933).</field>
+     <field name="ref_ssi">aspace_ec475f04e3e3cc06a8fcf5366a9048b8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 5, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 5, Folder: 14</field>
+     <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
++    <field name="author_teim">Aki Synder</field>
+     <field name="collection_unitid_teim">MS 3085</field>
+     <field name="series_sim">Series IV: Collected Documents</field>
+     <field name="series_si">Series IV: Collected Documents &gt;&gt; Historical Notes</field>

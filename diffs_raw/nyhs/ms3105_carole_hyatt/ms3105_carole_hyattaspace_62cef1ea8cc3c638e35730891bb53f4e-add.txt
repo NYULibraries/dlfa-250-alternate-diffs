@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Working Mothers Interview</field>
+     <field name="unittitle_teim">Working Mothers Interview</field>
+     <field name="unitdate_teim">1989</field>
+-    <field name="scopecontent_teim">1 set of notes and 1 tape for interview with Edith Sims under working title "2nd Generation Working Mothers"</field>
++    <field name="scopecontent_teim">1 set of notes and 1 tape for interview with Edith Sims under working title &#34;2nd Generation Working Mothers&#34;</field>
+     <field name="ref_ssi">aspace_62cef1ea8cc3c638e35730891bb53f4e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 6, Folder: 9</field>
+     <field name="location_si">Box: 6, Folder: 9</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series II. Research and Working Files</field>
+     <field name="series_sim">Subseries II.A. Interview Transcripts and Notes</field>

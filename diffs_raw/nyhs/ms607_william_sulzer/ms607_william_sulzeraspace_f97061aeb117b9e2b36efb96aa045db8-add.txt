@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Print matter. Speeches</field>
+     <field name="unittitle_teim">Print matter. Speeches</field>
+     <field name="unitdate_inclusive_teim">circa 1896-1916</field>
+-    <field name="scopecontent_teim">The box holds bound volumes of printed versions of Sulzer's speeches (circa 1896-1916) and several copies of the published "Short Speeches" compiled by George W. Baker of the New York Times (1912).</field>
++    <field name="scopecontent_teim">The box holds bound volumes of printed versions of Sulzer&#39;s speeches (circa 1896-1916) and several copies of the published &#34;Short Speeches&#34; compiled by George W. Baker of the New York Times (1912).</field>
+     <field name="ref_ssi">aspace_f97061aeb117b9e2b36efb96aa045db8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 14</field>
+     <field name="location_si">Offsite-Box: 14</field>
+     <field name="collection_teim">William Sulzer papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 607</field>
+     <field name="series_si">Print matter. Speeches</field>
+     <field name="heading_ssm">Print matter. Speeches</field>

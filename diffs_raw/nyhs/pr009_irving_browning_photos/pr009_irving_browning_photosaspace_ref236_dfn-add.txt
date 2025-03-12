@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Residences</field>
+     <field name="unittitle_teim">Residences</field>
+-    <field name="scopecontent_teim">Residences include interiors and exteriors of mostly unidentified residences, especially in the suburbs of New York City. Identified residences include the interior of Fanny Brices's home, the residence of movie mogul Marcus Loew in Glen Cove ("Pembroke"), and houses in the Arbor Close and Forest Close developments in Queens.</field>
++    <field name="scopecontent_teim">Residences include interiors and exteriors of mostly unidentified residences, especially in the suburbs of New York City. Identified residences include the interior of Fanny Brices&#39;s home, the residence of movie mogul Marcus Loew in Glen Cove (&#34;Pembroke&#34;), and houses in the Arbor Close and Forest Close developments in Queens.</field>
+     <field name="ref_ssi">aspace_ref236_dfn</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Browning photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 9</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_si">Series I. Photographs &gt;&gt; Residences</field>

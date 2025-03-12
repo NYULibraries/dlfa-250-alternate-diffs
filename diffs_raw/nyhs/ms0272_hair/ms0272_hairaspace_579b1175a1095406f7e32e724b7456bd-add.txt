@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,11 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Pintard, John [Jr?]&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Pintard, John [Jr?]</field>
+-    <field name="scopecontent_teim">•	Envelope reads: "Hair of John Pintard, son of John Pintard (1759–1844) and Eliza (Brasher) Pintard." [INV.89] •	Packet reads: "My dear and beloved son John's hair. My first born child [sic]. My much loved son." •	This might possibly be the hair of John Pintard Davidson (1812–1890; see above), first-born child of Richard and Eliza Noel (Pintard) Davidson.</field>
++    <field name="scopecontent_teim">•	Envelope reads: &#34;Hair of John Pintard, son of John Pintard (1759–1844) and Eliza (Brasher) Pintard.&#34; [INV.89]
++
++•	Packet reads: &#34;My dear and beloved son John&#39;s hair. My first born child [sic]. My much loved son.&#34;
++
++•	This might possibly be the hair of John Pintard Davidson (1812–1890; see above), first-born child of Richard and Eliza Noel (Pintard) Davidson.</field>
+     <field name="ref_ssi">aspace_579b1175a1095406f7e32e724b7456bd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 20</field>
+     <field name="location_si">Box: 1, Folder: 20</field>
+     <field name="collection_teim">Souvenir locks of hair collection</field>
++    <field name="author_teim">Joseph Ditta (August 2023)</field>
+     <field name="collection_unitid_teim">MS 272</field>
+     <field name="series_sim">Series II. Pintard family hair</field>
+     <field name="series_si">Series II. Pintard family hair &gt;&gt; &lt;strong&gt;Pintard, John [Jr?]&lt;/strong&gt;</field>

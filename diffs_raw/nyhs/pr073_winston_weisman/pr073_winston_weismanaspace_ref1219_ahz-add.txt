@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,13 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">88 -- 143 Prince Street 79 -- 157 Spring Street 307 -- 465 West Broadway 12 -- 155 Wooster Street maps miscellaneous building plans</field>
+-    <field name="unittitle_teim">88 -- 143 Prince Street 79 -- 157 Spring Street 307 -- 465 West Broadway 12 -- 155 Wooster Street maps miscellaneous building plans</field>
++    <field name="unittitle_teim">88 -- 143 Prince Street
++ 79 -- 157 Spring Street
++ 307 -- 465 West Broadway
++ 12 -- 155 Wooster Street
++ maps
++ miscellaneous building plans
++</field>
+     <field name="ref_ssi">aspace_ref1219_ahz</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +33,18 @@
+     <field name="location_ssm">Offsite-Box: 49</field>
+     <field name="location_si">Offsite-Box: 49</field>
+     <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
++    <field name="author_teim">Ricky Hunter</field>
+     <field name="collection_unitid_teim">PR 73</field>
+     <field name="series_sim">Series II. Negatives</field>
+     <field name="series_sim">SOHO</field>
+     <field name="series_si">Series II. Negatives &gt;&gt; SOHO &gt;&gt; 88 -- 143 Prince Street 79 -- 157 Spring Street 307 -- 465 West Broadway 12 -- 155 Wooster Street maps miscellaneous building plans</field>
+-    <field name="heading_ssm">88 -- 143 Prince Street 79 -- 157 Spring Street 307 -- 465 West Broadway 12 -- 155 Wooster Street maps miscellaneous building plans</field>
++    <field name="heading_ssm">88 -- 143 Prince Street
++ 79 -- 157 Spring Street
++ 307 -- 465 West Broadway
++ 12 -- 155 Wooster Street
++ maps
++ miscellaneous building plans
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">687</field>
+   </doc>

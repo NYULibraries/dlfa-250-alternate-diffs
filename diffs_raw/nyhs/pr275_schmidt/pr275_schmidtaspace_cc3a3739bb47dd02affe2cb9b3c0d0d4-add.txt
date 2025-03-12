@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Virginia—Mount Vernon</field>
+     <field name="unittitle_teim">Virginia—Mount Vernon</field>
+     <field name="unitdate_inclusive_teim">1938</field>
+-    <field name="scopecontent_teim">Images of George Washington's home and burial site.</field>
++    <field name="scopecontent_teim">Images of George Washington&#39;s home and burial site.</field>
+     <field name="ref_ssi">aspace_cc3a3739bb47dd02affe2cb9b3c0d0d4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 9 [12?]</field>
+     <field name="location_si">Box: 1, Folder: 9 [12?]</field>
+     <field name="collection_teim">Carl W. Schmidt Jr. photographs</field>
++    <field name="author_teim">Kelly McAnnaney (2008); migrated to ArchivesSpace by Joseph Ditta (2020)</field>
+     <field name="collection_unitid_teim">PR 275</field>
+     <field name="series_sim">Photographic prints</field>
+     <field name="series_si">Photographic prints &gt;&gt; Virginia—Mount Vernon</field>

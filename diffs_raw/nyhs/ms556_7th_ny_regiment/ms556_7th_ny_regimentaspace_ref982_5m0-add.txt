@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">7th Regiment records</field>
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sheet Music--"Pro Patria et Gloria"</field>
+-    <field name="unittitle_teim">Sheet Music--"Pro Patria et Gloria"</field>
++    <field name="unittitle_ssm">Sheet Music--&#34;Pro Patria et Gloria&#34;</field>
++    <field name="unittitle_teim">Sheet Music--&#34;Pro Patria et Gloria&#34;</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref982_5m0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 39, Folder: 7</field>
+     <field name="location_si">Box: 39, Folder: 7</field>
+     <field name="collection_teim">7th Regiment records</field>
++    <field name="author_teim">Maurita Baldock, Richard Fraser, Melissa Haley, Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 556</field>
+     <field name="series_sim">Series X: Music, 1862-1952</field>
+-    <field name="series_si">Series X: Music, 1862-1952 &gt;&gt; Sheet Music--"Pro Patria et Gloria"</field>
+-    <field name="heading_ssm">Sheet Music--"Pro Patria et Gloria"</field>
++    <field name="series_si">Series X: Music, 1862-1952 &gt;&gt; Sheet Music--&#34;Pro Patria et Gloria&#34;</field>
++    <field name="heading_ssm">Sheet Music--&#34;Pro Patria et Gloria&#34;</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">942</field>

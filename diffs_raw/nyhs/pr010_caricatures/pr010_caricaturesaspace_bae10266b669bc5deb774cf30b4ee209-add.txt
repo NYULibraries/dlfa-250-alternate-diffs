@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Let Every One Take Care of Himself" [Jackson]</field>
+-    <field name="unittitle_teim">"Let Every One Take Care of Himself" [Jackson]</field>
++    <field name="unittitle_ssm">&#34;Let Every One Take Care of Himself&#34;  [Jackson]</field>
++    <field name="unittitle_teim">&#34;Let Every One Take Care of Himself&#34;  [Jackson]</field>
+     <field name="unitdate_teim">1833</field>
+     <field name="scopecontent_teim">Esop, Jr. fecit. Published and for sale by Imbert.</field>
+     <field name="ref_ssi">aspace_bae10266b669bc5deb774cf30b4ee209</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-31, item: 1833-21</field>
+     <field name="location_si">Folder: FF-31, item: 1833-21</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series III. Jacksonian Period</field>
+-    <field name="series_si">Series III. Jacksonian Period &gt;&gt; "Let Every One Take Care of Himself" [Jackson]</field>
+-    <field name="heading_ssm">"Let Every One Take Care of Himself" [Jackson]</field>
++    <field name="series_si">Series III. Jacksonian Period &gt;&gt; &#34;Let Every One Take Care of Himself&#34;  [Jackson]</field>
++    <field name="heading_ssm">&#34;Let Every One Take Care of Himself&#34;  [Jackson]</field>
+     <field name="unitdate_ssm">1833</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">244</field>

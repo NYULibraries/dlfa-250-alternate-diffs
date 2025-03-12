@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Browning photograph collection</field>
+     <field name="collection_unitid_ssm">PR 9</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Sailors' Snug Harbor, Staten Island (5)</field>
+-    <field name="unittitle_teim">Sailors' Snug Harbor, Staten Island (5)</field>
++    <field name="unittitle_ssm">Sailors&#39; Snug Harbor, Staten Island (5)</field>
++    <field name="unittitle_teim">Sailors&#39; Snug Harbor, Staten Island (5)</field>
+     <field name="unitdate_teim">1929, undated</field>
+     <field name="ref_ssi">aspace_ref282_7bt</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 14, Folder: 134</field>
+     <field name="location_si">Box: 14, Folder: 134</field>
+     <field name="collection_teim">Browning photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 9</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_sim">Ships, Boats and Ferries</field>
+-    <field name="series_si">Series I. Photographs &gt;&gt; Ships, Boats and Ferries &gt;&gt; Sailors' Snug Harbor, Staten Island (5)</field>
+-    <field name="heading_ssm">Sailors' Snug Harbor, Staten Island (5)</field>
++    <field name="series_si">Series I. Photographs &gt;&gt; Ships, Boats and Ferries &gt;&gt; Sailors&#39; Snug Harbor, Staten Island (5)</field>
++    <field name="heading_ssm">Sailors&#39; Snug Harbor, Staten Island (5)</field>
+     <field name="unitdate_ssm">1929, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">262</field>

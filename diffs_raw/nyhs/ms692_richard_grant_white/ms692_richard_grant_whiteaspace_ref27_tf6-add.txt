@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1842/1842</field>
+     <field name="unitdate_normal_sim">1842/1842</field>
+     <field name="unitdate_inclusive_teim">1842, undated</field>
+-    <field name="scopecontent_teim">The materials in this series concern White's interest in music. There is one volume and folders of loose sheet music for the violin and cello. The loose sheet music is stored in an oversized cabinet.</field>
++    <field name="scopecontent_teim">The materials in this series concern White&#39;s interest in music. There is one volume and folders of loose sheet music for the violin and cello. The loose sheet music is stored in an oversized cabinet.</field>
+     <field name="ref_ssi">aspace_ref27_tf6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Richard Grant White papers</field>
++    <field name="author_teim">Library staff. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 692</field>
+     <field name="series_si">Series IV: Music</field>
+     <field name="heading_ssm">Series IV: Music</field>

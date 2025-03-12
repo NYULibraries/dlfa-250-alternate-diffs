@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William J. Roege Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 181</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Grant's Tomb and Riverside Drive</field>
+-    <field name="unittitle_teim">Grant's Tomb and Riverside Drive</field>
++    <field name="unittitle_ssm">Grant&#39;s Tomb and Riverside Drive</field>
++    <field name="unittitle_teim">Grant&#39;s Tomb and Riverside Drive</field>
+     <field name="unitdate_normal_ssm">1924/1924</field>
+     <field name="unitdate_normal_teim">1924/1924</field>
+     <field name="unitdate_normal_sim">1924/1924</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 8, Folder: 9213</field>
+     <field name="location_si">Box: 8, Folder: 9213</field>
+     <field name="collection_teim">William J. Roege Photograph Collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 181</field>
+     <field name="series_sim">Series II: Negatives</field>
+     <field name="series_sim">Glass Negatives - 8 x 10 inches</field>
+-    <field name="series_si">Series II: Negatives &gt;&gt; Glass Negatives - 8 x 10 inches &gt;&gt; Grant's Tomb and Riverside Drive</field>
+-    <field name="heading_ssm">Grant's Tomb and Riverside Drive</field>
++    <field name="series_si">Series II: Negatives &gt;&gt; Glass Negatives - 8 x 10 inches &gt;&gt; Grant&#39;s Tomb and Riverside Drive</field>
++    <field name="heading_ssm">Grant&#39;s Tomb and Riverside Drive</field>
+     <field name="unitdate_start_sim">1924</field>
+     <field name="unitdate_start_ssm">1924</field>
+     <field name="unitdate_start_si">1924</field>

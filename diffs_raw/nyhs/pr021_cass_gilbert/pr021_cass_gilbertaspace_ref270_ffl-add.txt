@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries III: Oversize Material</field>
+     <field name="unittitle_teim">Subseries III: Oversize Material</field>
+-    <field name="scopecontent_teim">The oversize material includes loose items as well as bound scrapbooks relating to Cass Gilbert's projects. The material consists of photographs, drawings and books of newspaper clippings.</field>
++    <field name="scopecontent_teim">The oversize material includes loose items as well as bound scrapbooks relating to Cass Gilbert&#39;s projects. The material consists of photographs, drawings and books of newspaper clippings.</field>
+     <field name="ref_ssi">aspace_ref270_ffl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Cass Gilbert papers and architectural drawings</field>
++    <field name="author_teim">Maurita Baldock with assistance by Kerri Anne Burke.</field>
+     <field name="collection_unitid_teim">PR 21</field>
+     <field name="series_sim">Series I. Project Files</field>
+     <field name="series_si">Series I. Project Files &gt;&gt; Subseries III: Oversize Material</field>

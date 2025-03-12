@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence. 1891 April</field>
+     <field name="unittitle_teim">Correspondence. 1891 April</field>
+     <field name="unitdate_teim">1891</field>
+-    <field name="scopecontent_teim">Includes April 10 inquiry from Department of the Interior regarding the research value of public documents, in light of Congress's recent reassessment of their publication and distribution.</field>
++    <field name="scopecontent_teim">Includes April 10 inquiry from Department of the Interior regarding the research value of  public documents, in light of Congress&#39;s recent reassessment of their publication and distribution.</field>
+     <field name="ref_ssi">aspace_ref604_gla</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,9 +23,10 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: 35, Folder: 7</field>
+-    <field name="location_si">Box: 35, Folder: 7</field>
++    <field name="location_ssm">Box: 35, Folder: 7 </field>
++    <field name="location_si">Box: 35, Folder: 7 </field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series III. General Correspondence</field>
+     <field name="series_si">Series III. General Correspondence &gt;&gt; Correspondence. 1891 April</field>

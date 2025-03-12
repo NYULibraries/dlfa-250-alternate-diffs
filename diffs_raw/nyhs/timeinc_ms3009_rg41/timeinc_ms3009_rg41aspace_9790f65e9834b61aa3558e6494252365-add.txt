@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">Time Inc. Video Group Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 41</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Recorded Audio: &lt;em&gt;Royalty&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Recorded Audio: Royalty</field>
++    <field name="unittitle_ssm">Recorded  Audio: &lt;em&gt;Royalty&lt;/em&gt;</field>
++    <field name="unittitle_teim">Recorded  Audio: Royalty</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="scopecontent_teim">Includes audiovisual material:</field>
+-    <field name="scopecontent_teim">1 audiotape reel : analog, 7 1/2 ips; 7 in., 1/4 in. tape. On side of box: "Royalty". On back of box: "61V-934 V.H.F March of Time 'Royalty' ".</field>
++    <field name="scopecontent_teim">1 audiotape reel : analog, 7 1/2 ips; 7 in., 1/4 in. tape. On side of box: &#34;Royalty&#34;. On back of box: &#34;61V-934  V.H.F   March of Time  &#39;Royalty&#39; &#34;.</field>
+     <field name="title_teim">Royalty</field>
+     <field name="title_ssm">Royalty</field>
+     <field name="ref_ssi">aspace_9790f65e9834b61aa3558e6494252365</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Offsite-Box: R63, item: 13</field>
+     <field name="location_si">Offsite-Box: R63, item: 13</field>
+     <field name="collection_teim">Time Inc. Video Group Records</field>
++    <field name="author_teim">Samantha Brown and Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3009-RG 41</field>
+     <field name="series_sim">Series IX. Time-Life Broadcast/Time-Life Broadcast Inc. Records</field>
+     <field name="series_sim">Subseries IX.D. Morrie Roizman March of Time Files</field>
+-    <field name="series_si">Series IX. Time-Life Broadcast/Time-Life Broadcast Inc. Records &gt;&gt; Subseries IX.D. Morrie Roizman March of Time Files &gt;&gt; Recorded Audio: &lt;em&gt;Royalty&lt;/em&gt;</field>
+-    <field name="heading_ssm">Recorded Audio: Royalty</field>
++    <field name="series_si">Series IX. Time-Life Broadcast/Time-Life Broadcast Inc. Records &gt;&gt; Subseries IX.D. Morrie Roizman March of Time Files &gt;&gt; Recorded  Audio: &lt;em&gt;Royalty&lt;/em&gt;</field>
++    <field name="heading_ssm">Recorded  Audio: Royalty</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2151</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">On the Williamsburg Bridge (64 photos + 1 email)</field>
+     <field name="unittitle_teim">On the Williamsburg Bridge (64 photos + 1 email)</field>
+     <field name="unitdate_inclusive_teim">2015 September 29</field>
+-    <field name="scopecontent_teim">Images from a walk starting at Peter Luger's in Williamsburg, Brooklyn, and crossing the bridge into Manhattan. A few street level views on either side of the bridge, views from the bridge, and primarily details of the bridge and walkway, including graffiti, steel framework, MTA train and tracks, etc.</field>
++    <field name="scopecontent_teim">Images from a walk starting at Peter Luger&#39;s in Williamsburg, Brooklyn, and crossing the bridge into Manhattan. A few street level views on either side of the bridge, views from the bridge, and primarily details of the bridge and walkway, including graffiti, steel framework, MTA train and tracks, etc.</field>
+     <field name="ref_ssi">aspace_b128445160c44e476c065bf431ebc10a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Digital-Folder: 20150930, Digital-File: 1_01-64, email</field>
+     <field name="location_si">Digital-Folder: 20150930, Digital-File: 1_01-64, email</field>
+     <field name="collection_teim">Stephen Harmon photographs</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 362</field>
+     <field name="series_sim">Series D.III. New York City Buildings, Parks and Other Cityscapes (2002 and later)</field>
+     <field name="series_si">Series D.III. New York City Buildings, Parks and Other Cityscapes (2002 and later) &gt;&gt; On the Williamsburg Bridge (64 photos + 1 email)</field>

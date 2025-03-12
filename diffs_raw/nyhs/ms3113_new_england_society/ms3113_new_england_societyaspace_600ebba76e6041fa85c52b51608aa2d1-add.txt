@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New England Society in the City of New York records</field>
+     <field name="collection_unitid_ssm">MS 3113</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Dinner correspondence "official guests"</field>
+-    <field name="unittitle_teim">Dinner correspondence "official guests"</field>
++    <field name="unittitle_ssm">Dinner correspondence &#34;official guests&#34;</field>
++    <field name="unittitle_teim">Dinner correspondence &#34;official guests&#34;</field>
+     <field name="unitdate_inclusive_teim">1910-1911</field>
+     <field name="scopecontent_teim">Primarily includes correspondence with the official guests of the Annual Dinner, including correspondence with the US President, various governors, bankers, lawyers, among others.</field>
+     <field name="ref_ssi">aspace_600ebba76e6041fa85c52b51608aa2d1</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 1</field>
+     <field name="collection_teim">New England Society in the City of New York records</field>
++    <field name="author_teim">Austin Davis</field>
+     <field name="collection_unitid_teim">MS 3113</field>
+     <field name="series_sim">Series VI. Event Records</field>
+     <field name="series_sim">Subseries VI.A. Annual Dinner and Festival</field>
+-    <field name="series_si">Series VI. Event Records &gt;&gt; Subseries VI.A. Annual Dinner and Festival &gt;&gt; Dinner correspondence "official guests"</field>
+-    <field name="heading_ssm">Dinner correspondence "official guests"</field>
++    <field name="series_si">Series VI. Event Records &gt;&gt; Subseries VI.A. Annual Dinner and Festival &gt;&gt; Dinner correspondence &#34;official guests&#34;</field>
++    <field name="heading_ssm">Dinner correspondence &#34;official guests&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1910-1911</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">211</field>

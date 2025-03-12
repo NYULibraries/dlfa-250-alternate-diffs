@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Family Correspondents, 1946</field>
+     <field name="unittitle_teim">Family Correspondents, 1946</field>
+     <field name="unitdate_inclusive_teim">1946</field>
+-    <field name="scopecontent_teim">Includes 5 letters, dating from May-June. Edgar and Alice had traveled to Mexico together on a combination business and pleasure trip. Edgar traveled on to Guatamala and elsewhere in the region, while Alice remained in Mexico where her parents joined her. One letter is from Edgar to his parents describing his trip as he flew from Mexico to Guatemala. The other 4 letters are from Alice to Edgar (2), Edgar's mother (1), and someone at Winter Haven, all discussing her stay in Mexico.</field>
++    <field name="scopecontent_teim">Includes 5 letters, dating from May-June. Edgar and Alice had traveled to Mexico together on a combination business and pleasure trip. Edgar traveled on to Guatamala and elsewhere in the region, while Alice remained in Mexico where her parents joined her. One letter is from Edgar to his parents describing his trip as he flew from Mexico to Guatemala. The other 4 letters are from Alice to Edgar (2), Edgar&#39;s mother (1), and someone at Winter Haven, all discussing her stay in Mexico.</field>
+     <field name="ref_ssi">aspace_2cb4782198df9923bb07c74b0fd1f41d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 3</field>
+     <field name="location_si">Box: 4, Folder: 3</field>
+     <field name="collection_teim">Edgar R. Baker papers</field>
++    <field name="author_teim">Larry Weimer and Duncan Knox</field>
+     <field name="collection_unitid_teim">MS 3156</field>
+     <field name="series_sim">Series III. Correspondence, Personal</field>
+     <field name="series_si">Series III. Correspondence, Personal &gt;&gt; Family Correspondents, 1946</field>

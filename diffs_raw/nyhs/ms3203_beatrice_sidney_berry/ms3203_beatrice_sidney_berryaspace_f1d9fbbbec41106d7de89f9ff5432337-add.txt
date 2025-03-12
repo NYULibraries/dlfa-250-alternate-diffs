@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Scrapbook #3</field>
+     <field name="unittitle_teim">Scrapbook #3</field>
+     <field name="unitdate_inclusive_teim">1935-1937</field>
+-    <field name="scopecontent_teim">This volume holds admission tickets, ballet programs (among them Les Ballets Russes and Ted Shawn and his Ensemble of Men Dancers), Rodeph Sholom material, match book covers, menus, 1936 Hayden Planetarium program, art exhibition programs, assorted others (Billy Rose's Jumbo, Cotton Club Revue, Madison Square Garden); items from Beatrice's trip to Cleveland and a cruise to Cuba and the Bahamas.</field>
++    <field name="scopecontent_teim">This volume holds admission tickets, ballet programs (among them Les Ballets Russes and Ted Shawn and his Ensemble of Men Dancers), Rodeph Sholom material, match book covers, menus, 1936 Hayden Planetarium program, art exhibition programs, assorted others (Billy Rose&#39;s Jumbo, Cotton Club Revue, Madison Square Garden); items from Beatrice&#39;s trip to Cleveland and a cruise to Cuba and the Bahamas.</field>
+     <field name="ref_ssi">aspace_f1d9fbbbec41106d7de89f9ff5432337</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 2</field>
+     <field name="location_si">Offsite-Box: 2</field>
+     <field name="collection_teim">Beatrice and Sidney Berry scrapbooks</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3204</field>
+     <field name="series_si">Scrapbook #3</field>
+     <field name="heading_ssm">Scrapbook #3</field>

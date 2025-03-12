@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,30 @@
+     <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+     <field name="collection_unitid_ssm">PR 104</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Individuals (small) "K" (continued)</field>
+-    <field name="unittitle_teim">Individuals (small) "K" (continued)</field>
++    <field name="unittitle_ssm">Individuals (small) &#34;K&#34; (continued)</field>
++    <field name="unittitle_teim">Individuals (small) &#34;K&#34; (continued)</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Kean, John Charles Kean, Edmund Keene, T. W. Kelcey, Herbert Kellogg, Clara Louise Kemble Kendal, Madge Kendal, William Hunter Kidder, Kathryn King Kirk, Doris</field>
++    <field name="scopecontent_teim">Kean, John Charles
++
++Kean, Edmund
++
++Keene, T. W.
++
++Kelcey, Herbert
++
++Kellogg, Clara Louise
++
++Kemble
++
++Kendal, Madge
++
++Kendal, William Hunter
++
++Kidder, Kathryn
++
++King
++
++Kirk, Doris</field>
+     <field name="ref_ssi">aspace_9c6e5db2d6655e2271fbad04173d2115</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +49,12 @@
+     <field name="location_ssm">Offsite-Box: 22</field>
+     <field name="location_si">Offsite-Box: 22</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series I. Individuals</field>
+     <field name="series_sim">Subseries I.A. Individuals (small format)</field>
+-    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) "K" (continued)</field>
+-    <field name="heading_ssm">Individuals (small) "K" (continued)</field>
++    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) &#34;K&#34; (continued)</field>
++    <field name="heading_ssm">Individuals (small) &#34;K&#34; (continued)</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

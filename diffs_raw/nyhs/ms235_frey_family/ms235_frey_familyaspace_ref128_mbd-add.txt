@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref14_frd</field>
+     <field name="parent_ssm">aspace_ref121_mfe</field>
+     <field name="parent_unittitles_ssm">Series I: Correspondence, 1793-1917, undated</field>
+-    <field name="parent_unittitles_ssm">Subseries 35. Frey, Henry A., 1854-1884, undated ["Harry"]</field>
++    <field name="parent_unittitles_ssm">Subseries 35. Frey, Henry A., 1854-1884, undated [&amp;#34;Harry&amp;#34;]</field>
+     <field name="parent_unittitles_teim">Series I: Correspondence, 1793-1917, undated</field>
+-    <field name="parent_unittitles_teim">Subseries 35. Frey, Henry A., 1854-1884, undated ["Harry"]</field>
++    <field name="parent_unittitles_teim">Subseries 35. Frey, Henry A., 1854-1884, undated [&amp;#34;Harry&amp;#34;]</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Frey Family Papers</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 5, Folder: 4</field>
+     <field name="location_si">Box: 5, Folder: 4</field>
+     <field name="collection_teim">Frey Family Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 235</field>
+     <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+-    <field name="series_sim">Subseries 35. Frey, Henry A., 1854-1884, undated ["Harry"]</field>
+-    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 35. Frey, Henry A., 1854-1884, undated ["Harry"] &gt;&gt; Letters sent: Frey, Henry A.</field>
++    <field name="series_sim">Subseries 35. Frey, Henry A., 1854-1884, undated [&amp;#34;Harry&amp;#34;]</field>
++    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 35. Frey, Henry A., 1854-1884, undated [&#34;Harry&#34;] &gt;&gt; Letters sent: Frey, Henry A.</field>
+     <field name="heading_ssm">Letters sent: Frey, Henry A.</field>
+     <field name="unitdate_start_sim">1879</field>
+     <field name="unitdate_start_ssm">1879</field>

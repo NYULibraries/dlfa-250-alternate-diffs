@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Beekman family papers</field>
+     <field name="collection_unitid_ssm">MS 51</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Bond Indicating William Beekman's Disposition of Interest in Captured Vessel Brought in by Privateer "William"</field>
+-    <field name="unittitle_teim">Bond Indicating William Beekman's Disposition of Interest in Captured Vessel Brought in by Privateer "William"</field>
++    <field name="unittitle_ssm">Bond Indicating William Beekman&#39;s Disposition of Interest in Captured Vessel Brought in by Privateer &#34;William&#34;</field>
++    <field name="unittitle_teim">Bond Indicating William Beekman&#39;s Disposition of Interest in Captured Vessel Brought in by Privateer &#34;William&#34;</field>
+     <field name="unitdate_teim">1746</field>
+     <field name="ref_ssi">aspace_ref762_g44</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 43(A), Folder: 7</field>
+     <field name="location_si">Box: 43(A), Folder: 7</field>
+     <field name="collection_teim">Beekman family papers</field>
++    <field name="author_teim">Alisa Harrison and John Winter</field>
+     <field name="collection_unitid_teim">MS 51</field>
+     <field name="series_sim">Box 43(A), Genealogy and Legal Papers</field>
+-    <field name="series_si">Box 43(A), Genealogy and Legal Papers &gt;&gt; Bond Indicating William Beekman's Disposition of Interest in Captured Vessel Brought in by Privateer "William"</field>
+-    <field name="heading_ssm">Bond Indicating William Beekman's Disposition of Interest in Captured Vessel Brought in by Privateer "William"</field>
++    <field name="series_si">Box 43(A), Genealogy and Legal Papers &gt;&gt; Bond Indicating William Beekman&#39;s Disposition of Interest in Captured Vessel Brought in by Privateer &#34;William&#34;</field>
++    <field name="heading_ssm">Bond Indicating William Beekman&#39;s Disposition of Interest in Captured Vessel Brought in by Privateer &#34;William&#34;</field>
+     <field name="unitdate_ssm">1746</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">587</field>

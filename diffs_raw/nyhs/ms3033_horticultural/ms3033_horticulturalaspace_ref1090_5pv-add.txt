@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,11 @@
+     <field name="unittitle_ssm">Subjects: D (3 of 3)</field>
+     <field name="unittitle_teim">Subjects: D (3 of 3)</field>
+     <field name="unitdate_teim">1900-2000</field>
+-    <field name="scopecontent_teim">Dutch Elm Disease (continued) Drought gardening Dyes from plants</field>
++    <field name="scopecontent_teim">Dutch Elm Disease (continued) 
++ 
++Drought gardening 
++ 
++Dyes from plants</field>
+     <field name="ref_ssi">aspace_ref1090_5pv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +33,7 @@
+     <field name="location_ssm">Offsite-Box: 48, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 48, Folder: 8</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VIII. Reference Files</field>
+     <field name="series_sim">Subseries VIII.B. Subjects</field>

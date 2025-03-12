@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1849/1889</field>
+     <field name="unitdate_normal_sim">1849/1889</field>
+     <field name="unitdate_inclusive_teim">1849-1889, undated</field>
+-    <field name="scopecontent_teim">Within this series are a number of documents both printed and handwritten pertaining to citizenship, the military, and Sigel's position as New York's Pension agent. These materials are in both English and German.</field>
++    <field name="scopecontent_teim">Within this series are a number of documents both printed and handwritten pertaining to citizenship, the military, and Sigel&#39;s position as New York&#39;s Pension agent. These materials are in both English and German.</field>
+     <field name="ref_ssi">aspace_ref53_ev2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Franz Sigel papers</field>
++    <field name="author_teim">Corrinne Collett. Finding aid by Christine George.</field>
+     <field name="collection_unitid_teim">MS 565</field>
+     <field name="series_si">Series II: Legal Documents</field>
+     <field name="heading_ssm">Series II: Legal Documents</field>

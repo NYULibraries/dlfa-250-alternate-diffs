@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,13 +14,13 @@
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Journal, voyages aboard &lt;em&gt;Saratoga&lt;/em&gt;, &lt;em&gt; San Jacinto&lt;/em&gt;, &lt;em&gt;Arctic&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Journal, voyages aboard Saratoga, San Jacinto, Arctic</field>
++    <field name="unittitle_teim">Journal, voyages aboard Saratoga,  San Jacinto, Arctic</field>
+     <field name="unitdate_teim">1854-1856</field>
+     <field name="title_teim">Saratoga</field>
+-    <field name="title_teim">San Jacinto</field>
++    <field name="title_teim"> San Jacinto</field>
+     <field name="title_teim">Arctic</field>
+     <field name="title_ssm">Saratoga</field>
+-    <field name="title_ssm">San Jacinto</field>
++    <field name="title_ssm"> San Jacinto</field>
+     <field name="title_ssm">Arctic</field>
+     <field name="ref_ssi">aspace_ref61_w1q</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Volume: 1</field>
+     <field name="location_si">Volume: 1</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 3. John Sanford Barnes (1822-1915)</field>
+     <field name="series_si">Series 3. John Sanford Barnes (1822-1915) &gt;&gt; Journal, voyages aboard &lt;em&gt;Saratoga&lt;/em&gt;, &lt;em&gt; San Jacinto&lt;/em&gt;, &lt;em&gt;Arctic&lt;/em&gt;</field>
+-    <field name="heading_ssm">Journal, voyages aboard Saratoga, San Jacinto, Arctic</field>
++    <field name="heading_ssm">Journal, voyages aboard Saratoga,  San Jacinto, Arctic</field>
+     <field name="unitdate_ssm">1854-1856</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">48</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">World War I collection</field>
+     <field name="collection_unitid_ssm">MS 671</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Manuscript of 1920 French historical novel on the Battle of Verdun: &lt;em&gt;Verdun: journal de guerre d'un civil&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Manuscript of 1920 French historical novel on the Battle of Verdun: Verdun: journal de guerre d'un civil</field>
++    <field name="unittitle_ssm">Manuscript of 1920 French historical novel on the Battle of Verdun: &lt;em&gt;Verdun: journal de guerre d&#39;un civil&lt;/em&gt;</field>
++    <field name="unittitle_teim">Manuscript of 1920 French historical novel on the Battle of Verdun: Verdun: journal de guerre d&#39;un civil</field>
+     <field name="unitdate_teim">1920</field>
+     <field name="ref_ssi">aspace_ref18_4dk</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">World War I collection</field>
++    <field name="author_teim">Alison Dundy</field>
+     <field name="collection_unitid_teim">MS 671</field>
+-    <field name="series_si">Manuscript of 1920 French historical novel on the Battle of Verdun: &lt;em&gt;Verdun: journal de guerre d'un civil&lt;/em&gt;</field>
+-    <field name="heading_ssm">Manuscript of 1920 French historical novel on the Battle of Verdun: Verdun: journal de guerre d'un civil</field>
++    <field name="series_si">Manuscript of 1920 French historical novel on the Battle of Verdun: &lt;em&gt;Verdun: journal de guerre d&#39;un civil&lt;/em&gt;</field>
++    <field name="heading_ssm">Manuscript of 1920 French historical novel on the Battle of Verdun: Verdun: journal de guerre d&#39;un civil</field>
+     <field name="unitdate_ssm">1920</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

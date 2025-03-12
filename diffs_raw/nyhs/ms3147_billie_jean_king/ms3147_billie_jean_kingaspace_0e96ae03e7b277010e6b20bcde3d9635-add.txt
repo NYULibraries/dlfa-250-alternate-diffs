@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tenth grade story "Thump, thump, thump, beat my heart"</field>
+-    <field name="unittitle_teim">Tenth grade story "Thump, thump, thump, beat my heart"</field>
++    <field name="unittitle_ssm">Tenth grade story &#34;Thump, thump, thump, beat my heart&#34;</field>
++    <field name="unittitle_teim">Tenth grade story &#34;Thump, thump, thump, beat my heart&#34;</field>
+     <field name="unitdate_inclusive_teim">circa 1959</field>
+     <field name="scopecontent_teim">Contains handwritten story by BJK about her future and first trip to Wimbledon.</field>
+     <field name="ref_ssi">aspace_0e96ae03e7b277010e6b20bcde3d9635</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 7</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series I. Early life and Moffitt family</field>
+     <field name="series_sim">Subseries I.A. Early life</field>
+-    <field name="series_si">Series I. Early life and Moffitt family &gt;&gt; Subseries I.A. Early life &gt;&gt; Tenth grade story "Thump, thump, thump, beat my heart"</field>
+-    <field name="heading_ssm">Tenth grade story "Thump, thump, thump, beat my heart"</field>
++    <field name="series_si">Series I. Early life and Moffitt family &gt;&gt; Subseries I.A. Early life &gt;&gt; Tenth grade story &#34;Thump, thump, thump, beat my heart&#34;</field>
++    <field name="heading_ssm">Tenth grade story &#34;Thump, thump, thump, beat my heart&#34;</field>
+     <field name="unitdate_ssm">Inclusive, circa 1959</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

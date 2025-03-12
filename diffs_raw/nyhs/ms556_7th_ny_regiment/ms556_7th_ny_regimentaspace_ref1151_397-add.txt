@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,11 @@
+     <field name="collection_ssm">7th Regiment records</field>
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Scribner's Monthly&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Scribner's Monthly</field>
++    <field name="unittitle_ssm">&lt;em&gt;Scribner&#39;s Monthly&lt;/em&gt;</field>
++    <field name="unittitle_teim">Scribner&#39;s Monthly</field>
+     <field name="unitdate_teim">1880-1881</field>
+-    <field name="title_teim">Scribner's Monthly</field>
+-    <field name="title_ssm">Scribner's Monthly</field>
++    <field name="title_teim">Scribner&#39;s Monthly</field>
++    <field name="title_ssm">Scribner&#39;s Monthly</field>
+     <field name="ref_ssi">aspace_ref1151_397</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 56, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 56, Folder: 11</field>
+     <field name="collection_teim">7th Regiment records</field>
++    <field name="author_teim">Maurita Baldock, Richard Fraser, Melissa Haley, Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 556</field>
+     <field name="series_sim">Series XIII: Publications, 1811-1976</field>
+     <field name="series_sim">Subseries 2: Non-7th Regiment Publications</field>
+-    <field name="series_si">Series XIII: Publications, 1811-1976 &gt;&gt; Subseries 2: Non-7th Regiment Publications &gt;&gt; &lt;em&gt;Scribner's Monthly&lt;/em&gt;</field>
+-    <field name="heading_ssm">Scribner's Monthly</field>
++    <field name="series_si">Series XIII: Publications, 1811-1976 &gt;&gt; Subseries 2: Non-7th Regiment Publications &gt;&gt; &lt;em&gt;Scribner&#39;s Monthly&lt;/em&gt;</field>
++    <field name="heading_ssm">Scribner&#39;s Monthly</field>
+     <field name="unitdate_ssm">1880-1881</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1107</field>

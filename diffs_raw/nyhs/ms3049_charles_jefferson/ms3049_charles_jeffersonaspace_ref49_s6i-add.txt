@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref14_jpj</field>
+     <field name="parent_ssm">aspace_ref11_psc</field>
+     <field name="parent_ssm">aspace_ref14_jpj</field>
+-    <field name="parent_unittitles_ssm">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="parent_unittitles_ssm">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="parent_unittitles_ssm">Subseries I.A. Manuscript Writings</field>
+-    <field name="parent_unittitles_teim">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="parent_unittitles_teim">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="parent_unittitles_teim">Subseries I.A. Manuscript Writings</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Charles Edward Jefferson papers</field>
+     <field name="collection_unitid_ssm">MS 3049</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Minister's Hand-Book (annotated)</field>
+-    <field name="unittitle_teim">Minister's Hand-Book (annotated)</field>
++    <field name="unittitle_ssm">Minister&#39;s Hand-Book (annotated)</field>
++    <field name="unittitle_teim">Minister&#39;s Hand-Book (annotated)</field>
+     <field name="unitdate_teim">circa 1882?</field>
+-    <field name="scopecontent_teim">Includes a copy of the second edition of Savage's "Minister's Hand-Book," with Jefferson's notes and annotations.</field>
++    <field name="scopecontent_teim">Includes a copy of the second edition of Savage&#39;s &#34;Minister&#39;s Hand-Book,&#34; with Jefferson&#39;s notes and annotations.</field>
+     <field name="ref_ssi">aspace_ref49_s6i</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 2, Folder: 8</field>
+     <field name="location_si">Box: 2, Folder: 8</field>
+     <field name="collection_teim">Charles Edward Jefferson papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3049</field>
+-    <field name="series_sim">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="series_sim">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="series_sim">Subseries I.A. Manuscript Writings</field>
+-    <field name="series_si">Series I. Sermons, Lectures, &amp; Other Writings &gt;&gt; Subseries I.A. Manuscript Writings &gt;&gt; Minister's Hand-Book (annotated)</field>
+-    <field name="heading_ssm">Minister's Hand-Book (annotated)</field>
++    <field name="series_si">Series I. Sermons, Lectures, &amp; Other Writings &gt;&gt; Subseries I.A. Manuscript Writings &gt;&gt; Minister&#39;s Hand-Book (annotated)</field>
++    <field name="heading_ssm">Minister&#39;s Hand-Book (annotated)</field>
+     <field name="unitdate_ssm">circa 1882?</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>

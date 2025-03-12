@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,11 +20,19 @@
+     <field name="unittitle_teim">Stationery and Valentines</field>
+     <field name="scopecontent_teim">Monograms</field>
+     <field name="scopecontent_teim">Pencils</field>
+-    <field name="scopecontent_teim">Dixon's</field>
+-    <field name="scopecontent_teim">Eagles Pencil Company Pencil sharpeners</field>
++    <field name="scopecontent_teim">
++Dixon&#39;s
++    </field>
++    <field name="scopecontent_teim">Eagles Pencil Company
++    
++Pencil sharpeners</field>
+     <field name="scopecontent_teim">Pens</field>
+-    <field name="scopecontent_teim">Nibs</field>
+-    <field name="scopecontent_teim">Gum Playing Cards</field>
++    <field name="scopecontent_teim">
++Nibs</field>
++    <field name="scopecontent_teim">
++Gum
++    
++Playing Cards</field>
+     <field name="scopecontent_teim">Postcards</field>
+     <field name="scopecontent_teim">Scrap</field>
+     <field name="scopecontent_teim">Seals and stickers and decals</field>
+@@ -40,6 +48,7 @@
+     <field name="location_ssm">Offsite-Box: 94</field>
+     <field name="location_si">Offsite-Box: 94</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

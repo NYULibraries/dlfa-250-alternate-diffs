@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Chase, Harry Woodburn</field>
+     <field name="unittitle_teim">Chase, Harry Woodburn</field>
+     <field name="unitdate_teim">1940</field>
+-    <field name="scopecontent_teim">Includes a questionnaire with a list of topics considered for "America's Town Meeting of the Air" by The Town Hall, Inc.</field>
++    <field name="scopecontent_teim">Includes a questionnaire with a list of topics considered for &#34;America&#39;s Town Meeting of the Air&#34; by The Town Hall, Inc.</field>
+     <field name="ref_ssi">aspace_ref2948_rnc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 113, Folder: 4</field>
+     <field name="location_si">Box: 113, Folder: 4</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.B. Name Files B</field>

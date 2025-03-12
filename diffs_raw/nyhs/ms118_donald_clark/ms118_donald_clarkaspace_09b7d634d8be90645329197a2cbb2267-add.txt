@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Elmendorph, Lt. Colonel Jonathan. Letter to Captain Dederick. Hurley</field>
+     <field name="unittitle_teim">Elmendorph, Lt. Colonel Jonathan. Letter to Captain Dederick. Hurley</field>
+     <field name="unitdate_teim">1778 October 24</field>
+-    <field name="scopecontent_teim">Original returned, photocopy only. Regarding company's tour of duty.</field>
++    <field name="scopecontent_teim">Original returned, photocopy only. Regarding company&#39;s tour of duty.</field>
+     <field name="ref_ssi">aspace_09b7d634d8be90645329197a2cbb2267</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 3, item: 336</field>
+     <field name="location_si">Box: 3, item: 336</field>
+     <field name="collection_teim">Donald F. Clark collection</field>
++    <field name="author_teim">Julia Lipkins. </field>
+     <field name="collection_unitid_teim">MS 118</field>
+     <field name="series_si">Elmendorph, Lt. Colonel Jonathan. Letter to Captain Dederick. Hurley</field>
+     <field name="heading_ssm">Elmendorph, Lt. Colonel Jonathan. Letter to Captain Dederick. Hurley</field>

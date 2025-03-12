@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Eugenia Flatow papers</field>
+     <field name="collection_unitid_ssm">MS 3175</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Neptune's Revenge: The Ocean of Tomorrow&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Neptune's Revenge: The Ocean of Tomorrow</field>
++    <field name="unittitle_ssm">&lt;em&gt;Neptune&#39;s Revenge: The Ocean of Tomorrow&lt;/em&gt; 
++</field>
++    <field name="unittitle_teim">Neptune&#39;s Revenge: The Ocean of Tomorrow 
++</field>
+     <field name="unitdate_inclusive_teim">1984</field>
+     <field name="ref_ssi">aspace_1e83e775b13cc59b207ed77d91de307a</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +30,14 @@
+     <field name="location_ssm">Offsite-Box: 24, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 24, Folder: 7</field>
+     <field name="collection_teim">Eugenia Flatow papers</field>
++    <field name="author_teim">Nicole Font</field>
+     <field name="collection_unitid_teim">MS 3175</field>
+     <field name="series_sim">Series III. Waterfronts, Waterways, and Waterborne Transportation</field>
+     <field name="series_sim">Subseries III.D. Published Materials</field>
+-    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.D. Published Materials &gt;&gt; &lt;em&gt;Neptune's Revenge: The Ocean of Tomorrow&lt;/em&gt;</field>
+-    <field name="heading_ssm">Neptune's Revenge: The Ocean of Tomorrow</field>
++    <field name="series_si">Series III. Waterfronts, Waterways, and Waterborne Transportation &gt;&gt; Subseries III.D. Published Materials &gt;&gt; &lt;em&gt;Neptune&#39;s Revenge: The Ocean of Tomorrow&lt;/em&gt; 
++</field>
++    <field name="heading_ssm">Neptune&#39;s Revenge: The Ocean of Tomorrow 
++</field>
+     <field name="unitdate_ssm">Inclusive, 1984</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">350</field>

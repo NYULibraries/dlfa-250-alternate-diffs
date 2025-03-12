@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+     <field name="unitdate_inclusive_teim">1987</field>
+-    <field name="scopecontent_teim">Materials regarding Grunwald's ambassador appointment confirmation hearing.</field>
++    <field name="scopecontent_teim">Materials regarding Grunwald&#39;s ambassador appointment confirmation hearing.</field>
+     <field name="ref_ssi">aspace_ref3512_jls</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Offsite-Box: 1043, Folder: 28</field>
+     <field name="location_si">Offsite-Box: 1043, Folder: 28</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series I.B. Editor-in-Chief Henry Anatole Grunwald Files</field>
+     <field name="series_sim">Subseries I.B.3. Departmental Files</field>

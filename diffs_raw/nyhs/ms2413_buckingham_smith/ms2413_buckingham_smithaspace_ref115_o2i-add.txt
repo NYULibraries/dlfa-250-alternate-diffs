@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2413_buckingham_smith</field>
+     <field name="parent_ssi">aspace_ref145_qf7</field>
+     <field name="parent_ssm">aspace_ref145_qf7</field>
+-    <field name="parent_unittitles_ssm">IV. Maps and visual materials</field>
+-    <field name="parent_unittitles_teim">IV. Maps and visual materials</field>
++    <field name="parent_unittitles_ssm">IV. Maps and visual materials&amp;#xA;</field>
++    <field name="parent_unittitles_teim">IV. Maps and visual materials&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Buckingham Smith papers and collected materials</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Buckingham Smith papers and collected materials</field>
+     <field name="collection_unitid_ssm">MS 2413</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Maps</field>
+-    <field name="unittitle_teim">Maps</field>
++    <field name="unittitle_ssm">Maps </field>
++    <field name="unittitle_teim">Maps </field>
+     <field name="unitdate_teim">circa 1860s, n.d.</field>
+     <field name="scopecontent_teim">Includes printed and hand-drawn maps of Mexico, California and other areas of Spanish colonization.</field>
+     <field name="ref_ssi">aspace_ref115_o2i</field>
+@@ -26,10 +26,12 @@
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+     <field name="collection_teim">Buckingham Smith papers and collected materials</field>
++    <field name="author_teim">Julia Lipkins</field>
+     <field name="collection_unitid_teim">MS 2413</field>
+-    <field name="series_sim">IV. Maps and visual materials</field>
+-    <field name="series_si">IV. Maps and visual materials &gt;&gt; Maps</field>
+-    <field name="heading_ssm">Maps</field>
++    <field name="series_sim">IV. Maps and visual materials&amp;#xA;</field>
++    <field name="series_si">IV. Maps and visual materials
++ &gt;&gt; Maps </field>
++    <field name="heading_ssm">Maps </field>
+     <field name="unitdate_ssm">circa 1860s, n.d.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">50</field>

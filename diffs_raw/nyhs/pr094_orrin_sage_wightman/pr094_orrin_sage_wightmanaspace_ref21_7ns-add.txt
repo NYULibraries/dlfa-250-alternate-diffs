@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1898/1916</field>
+     <field name="unitdate_normal_sim">1898/1916</field>
+     <field name="unitdate_inclusive_teim">1898 -- 1916</field>
+-    <field name="scopecontent_teim">Contains varied documentation of the evolution and practice of the medical profession in New York. The development of the medical profession blossomed during the years Wightman's photographs were taken. These images show the staff of Gouverneur Hospital in the year 1898 -- 1899, when Wightman was an intern, and City Hospital nurses in a training program on Blackwell's Island in the summer of 1916.</field>
++    <field name="scopecontent_teim">Contains varied documentation of the evolution and practice of the medical profession in New York. The development of the medical profession blossomed during the years Wightman&#39;s photographs were taken. These images show the staff of Gouverneur Hospital in the year 1898 -- 1899, when Wightman was an intern, and City Hospital nurses in a training program on Blackwell&#39;s Island in the summer of 1916.</field>
+     <field name="ref_ssi">aspace_ref21_7ns</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Orrin Sage Wightman photographs and papers</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 94</field>
+     <field name="series_si">Series 3: Medical images</field>
+     <field name="heading_ssm">Series 3: Medical images</field>

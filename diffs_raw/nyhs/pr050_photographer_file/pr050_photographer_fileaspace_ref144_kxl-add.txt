@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Photographer File</field>
+     <field name="collection_unitid_ssm">PR 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled "N.Y., N.Y. Ten Photographs."</field>
+-    <field name="unittitle_teim">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled "N.Y., N.Y. Ten Photographs."</field>
++    <field name="unittitle_ssm">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled &#34;N.Y., N.Y. Ten Photographs.&#34;</field>
++    <field name="unittitle_teim">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled &#34;N.Y., N.Y. Ten Photographs.&#34;</field>
+     <field name="unitdate_teim">1967-1976</field>
+     <field name="ref_ssi">aspace_ref144_kxl</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Photographer File</field>
++    <field name="author_teim">Jennifer Lewis, Marybeth Kavanagh, and others</field>
+     <field name="collection_unitid_teim">PR 50</field>
+     <field name="series_sim">Von Dem Bussche, Wolf</field>
+-    <field name="series_si">Von Dem Bussche, Wolf &gt;&gt; 10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled "N.Y., N.Y. Ten Photographs."</field>
+-    <field name="heading_ssm">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled "N.Y., N.Y. Ten Photographs."</field>
++    <field name="series_si">Von Dem Bussche, Wolf &gt;&gt; 10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled &#34;N.Y., N.Y. Ten Photographs.&#34;</field>
++    <field name="heading_ssm">10 gelatin silver prints, 16 x 20 in. Views of New York, including the World Trade Center, Washington Square, the Flatiron Building, and Foley Square housed in a custom-made metal box. Entitled &#34;N.Y., N.Y. Ten Photographs.&#34;</field>
+     <field name="unitdate_ssm">1967-1976</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">194</field>

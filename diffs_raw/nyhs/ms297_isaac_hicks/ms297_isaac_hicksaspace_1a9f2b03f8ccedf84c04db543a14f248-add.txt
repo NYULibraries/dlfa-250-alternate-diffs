@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Hicks Receipt Book</field>
+     <field name="unittitle_teim">Hicks Receipt Book</field>
+     <field name="unitdate_inclusive_teim">1801</field>
+-    <field name="scopecontent_teim">This book includes copies of receipts. The first page states "Isaac Hicks's receipt Book Commenced 1mth 31th 1801, Twenty Fifth Year of Independence, When peace is expected between France and American which will be happily received." The pages are filled with notes of materials and money received. It appears that these are in some sort of chronological order, though the receipts are not dated. They are also written and signed by different individuals. It is unclear if these receipts are duplicated in the collection.</field>
++    <field name="scopecontent_teim">This book includes copies of receipts.  The first page states &#34;Isaac Hicks&#39;s receipt Book Commenced 1mth 31th 1801, Twenty Fifth Year of Independence, When peace is expected between France and American which will be happily received.&#34;  The pages are filled with notes of materials and money received.  It appears that these are in some sort of chronological order, though the receipts are not dated.  They are also written and signed by different individuals.  It is unclear if these receipts are duplicated in the collection.</field>
+     <field name="ref_ssi">aspace_1a9f2b03f8ccedf84c04db543a14f248</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 100</field>
+     <field name="location_si">Box: 100</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+     <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Receipt Book</field>

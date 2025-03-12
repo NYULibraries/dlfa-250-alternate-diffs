@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Albright, Madeleine. Read My Pins: Stories from a Diplomat's Jewel Box</field>
+-    <field name="unittitle_teim">Albright, Madeleine. Read My Pins: Stories from a Diplomat's Jewel Box</field>
++    <field name="unittitle_ssm">Albright, Madeleine. Read My Pins: Stories from a Diplomat&#39;s Jewel Box</field>
++    <field name="unittitle_teim">Albright, Madeleine. Read My Pins: Stories from a Diplomat&#39;s Jewel Box</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+     <field name="scopecontent_teim">Signed by author.</field>
+     <field name="ref_ssi">aspace_ff94b33983ecd324a69c7252422d48b4</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 35, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 35, Folder: 14</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VII. Print matter</field>
+     <field name="series_sim">Subseries VII.D. Books</field>
+-    <field name="series_si">Series VII. Print matter &gt;&gt; Subseries VII.D. Books &gt;&gt; Albright, Madeleine. Read My Pins: Stories from a Diplomat's Jewel Box</field>
+-    <field name="heading_ssm">Albright, Madeleine. Read My Pins: Stories from a Diplomat's Jewel Box</field>
++    <field name="series_si">Series VII. Print matter &gt;&gt; Subseries VII.D. Books &gt;&gt; Albright, Madeleine. Read My Pins: Stories from a Diplomat&#39;s Jewel Box</field>
++    <field name="heading_ssm">Albright, Madeleine. Read My Pins: Stories from a Diplomat&#39;s Jewel Box</field>
+     <field name="unitdate_ssm">Inclusive, 2009</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">502</field>

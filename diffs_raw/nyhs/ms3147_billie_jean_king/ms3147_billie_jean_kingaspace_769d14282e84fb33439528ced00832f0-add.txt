@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">1980s</field>
+     <field name="unittitle_teim">1980s</field>
+     <field name="unitdate_inclusive_teim">1980s</field>
+-    <field name="scopecontent_teim">Contains articles on Randy Moffitt's career as a Major League Baseball pitcher.</field>
++    <field name="scopecontent_teim">Contains articles on Randy Moffitt&#39;s career as a Major League Baseball pitcher.</field>
+     <field name="ref_ssi">aspace_769d14282e84fb33439528ced00832f0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 29, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 29, Folder: 9</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VII. Print matter</field>
+     <field name="series_sim">Subseries VII.A. Clippings</field>

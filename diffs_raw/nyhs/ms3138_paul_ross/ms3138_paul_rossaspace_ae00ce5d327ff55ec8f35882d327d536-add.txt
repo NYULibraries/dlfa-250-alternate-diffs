@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Nova University</field>
+     <field name="unittitle_teim">Nova University</field>
+     <field name="unitdate_inclusive_teim">1974-1976</field>
+-    <field name="scopecontent_teim">Concerns Ross's proposal for a seminar on trial practice.</field>
++    <field name="scopecontent_teim">Concerns Ross&#39;s proposal for a seminar on trial practice.</field>
+     <field name="ref_ssi">aspace_ae00ce5d327ff55ec8f35882d327d536</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+     <field name="collection_teim">Paul L. Ross papers</field>
++    <field name="author_teim">Andy Latoni and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3138</field>
+     <field name="series_si">Nova University</field>
+     <field name="heading_ssm">Nova University</field>

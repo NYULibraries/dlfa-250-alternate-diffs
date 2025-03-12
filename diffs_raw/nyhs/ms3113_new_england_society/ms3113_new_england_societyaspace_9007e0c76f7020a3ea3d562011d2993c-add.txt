@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New England Society in the City of New York records</field>
+     <field name="collection_unitid_ssm">MS 3113</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Letters from Distinguished Men"</field>
+-    <field name="unittitle_teim">"Letters from Distinguished Men"</field>
++    <field name="unittitle_ssm">&#34;Letters from Distinguished Men&#34; </field>
++    <field name="unittitle_teim">&#34;Letters from Distinguished Men&#34; </field>
+     <field name="unitdate_inclusive_teim">1854-1885</field>
+     <field name="scopecontent_teim">Includes letters from notable contemporaries, such as Henry Ward Beecher, William Evarts, and William Aspinwall.</field>
+     <field name="ref_ssi">aspace_9007e0c76f7020a3ea3d562011d2993c</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 14, Folder: 6</field>
+     <field name="location_si">Offsite-Box: 14, Folder: 6</field>
+     <field name="collection_teim">New England Society in the City of New York records</field>
++    <field name="author_teim">Austin Davis</field>
+     <field name="collection_unitid_teim">MS 3113</field>
+     <field name="series_sim">Series II. General Correspondence</field>
+-    <field name="series_si">Series II. General Correspondence &gt;&gt; "Letters from Distinguished Men"</field>
+-    <field name="heading_ssm">"Letters from Distinguished Men"</field>
++    <field name="series_si">Series II. General Correspondence &gt;&gt; &#34;Letters from Distinguished Men&#34; </field>
++    <field name="heading_ssm">&#34;Letters from Distinguished Men&#34; </field>
+     <field name="unitdate_ssm">Inclusive, 1854-1885</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>

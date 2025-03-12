@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,16 @@
+     <field name="ead_ssi">pr375_chapman_old_west</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
+-    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+     <field name="collection_unitid_ssm">PR 375</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Marshall Larry Deger</field>
+     <field name="unittitle_teim">Marshall Larry Deger</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Lawrence Edward Deger (1845–1924). Tintype, 2.25" (W) x 3 &amp; 13/16" (L).</field>
++    <field name="scopecontent_teim">Lawrence Edward Deger (1845–1924).
++
++Tintype, 2.25&#34; (W) x 3 &amp; 13/16&#34; (L).</field>
+     <field name="ref_ssi">aspace_1f4a13874aca4a7d69e5ddbbcda9b1e2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">item: 12</field>
+     <field name="location_si">item: 12</field>
+-    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of "Famous People of the Old West"</field>
++    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 375</field>
+     <field name="series_si">Marshall Larry Deger</field>
+     <field name="heading_ssm">Marshall Larry Deger</field>

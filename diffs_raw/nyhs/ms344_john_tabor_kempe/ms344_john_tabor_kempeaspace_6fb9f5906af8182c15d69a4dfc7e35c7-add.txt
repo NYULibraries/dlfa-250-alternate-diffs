@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Isiah Wickson vs. Mophen Gates</field>
+     <field name="unittitle_teim">Isiah Wickson vs. Mophen Gates</field>
+     <field name="unitdate_teim">1759</field>
+-    <field name="scopecontent_teim">Neighbor's swear that Isiah Wickson's wife was abused by Mophen Gates.</field>
++    <field name="scopecontent_teim">Neighbor&#39;s swear that Isiah Wickson&#39;s wife was abused by Mophen Gates.</field>
+     <field name="ref_ssi">aspace_6fb9f5906af8182c15d69a4dfc7e35c7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 11, Folder: 7</field>
+     <field name="location_si">Box: 11, Folder: 7</field>
+     <field name="collection_teim">John Tabor Kempe Papers</field>
++    <field name="author_teim">Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 344</field>
+     <field name="series_sim">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+     <field name="series_sim">Subseries 5: Undetermined Courts</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Arnold, M.D.</field>
+     <field name="unittitle_teim">Arnold, M.D.</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">[Untitled, referred to by PWCC as "Little Girl with Bonnet."]</field>
++    <field name="scopecontent_teim">[Untitled, referred to by PWCC as &#34;Little Girl with Bonnet.&#34;]</field>
+     <field name="ref_ssi">aspace_59a07f866362309cd06821b08298a3f5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 4, Folder: 6</field>
+     <field name="location_si">Box: 4, Folder: 6</field>
+     <field name="collection_teim">Park West Camera Club records</field>
++    <field name="author_teim">Ariana Heinsdorf and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 368</field>
+     <field name="series_sim">Series IV: Photography by Members</field>
+     <field name="series_si">Series IV: Photography by Members &gt;&gt; Arnold, M.D.</field>

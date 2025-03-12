@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sapolsky and Slobodien Architecture collection</field>
+     <field name="collection_unitid_ssm">PR 439</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">71-32 Sam's Ninth Avenue Meat Market, 593 Ninth Avenue</field>
+-    <field name="unittitle_teim">71-32 Sam's Ninth Avenue Meat Market, 593 Ninth Avenue</field>
++    <field name="unittitle_ssm">71-32 Sam&#39;s Ninth Avenue Meat Market, 593 Ninth Avenue</field>
++    <field name="unittitle_teim">71-32 Sam&#39;s Ninth Avenue Meat Market, 593 Ninth Avenue</field>
+     <field name="unitdate_inclusive_teim">1971</field>
+     <field name="ref_ssi">aspace_49321a860b94e490244374887a7e8985</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 12</field>
+     <field name="location_si">Offsite-Box: 12</field>
+     <field name="collection_teim">Sapolsky and Slobodien Architecture collection</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 439</field>
+     <field name="series_sim">Series V: Other Buildings</field>
+-    <field name="series_si">Series V: Other Buildings &gt;&gt; 71-32 Sam's Ninth Avenue Meat Market, 593 Ninth Avenue</field>
+-    <field name="heading_ssm">71-32 Sam's Ninth Avenue Meat Market, 593 Ninth Avenue</field>
++    <field name="series_si">Series V: Other Buildings &gt;&gt; 71-32 Sam&#39;s Ninth Avenue Meat Market, 593 Ninth Avenue</field>
++    <field name="heading_ssm">71-32 Sam&#39;s Ninth Avenue Meat Market, 593 Ninth Avenue</field>
+     <field name="unitdate_ssm">Inclusive, 1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">297</field>

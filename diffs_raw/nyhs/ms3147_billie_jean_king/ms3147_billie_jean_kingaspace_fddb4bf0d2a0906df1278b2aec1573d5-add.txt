@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Chicago Tennis newsclippings</field>
+     <field name="unittitle_teim">Chicago Tennis newsclippings</field>
+     <field name="unitdate_inclusive_teim">1981-1983</field>
+-    <field name="scopecontent_teim">Scrapbook containing newspaper clippings generally covering Women's Tennis news published in Chicago papers.</field>
++    <field name="scopecontent_teim">Scrapbook containing newspaper clippings generally covering Women&#39;s Tennis news published in Chicago papers.</field>
+     <field name="ref_ssi">aspace_fddb4bf0d2a0906df1278b2aec1573d5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Volume: 1</field>
+     <field name="location_si">Offsite-Box: 11, Volume: 1</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series II. Albums</field>
+     <field name="series_si">Series II. Albums &gt;&gt; Chicago Tennis newsclippings</field>

@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,20 @@
+     <field name="collection_ssm">George B. Post architectural records</field>
+     <field name="collection_unitid_ssm">PR 53</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">59-1255 | St. John's Church Survey of Adj. Property Addition (from Box 3) 68-1528 | Church School Bldg. 70-[16??] | Entrance Landscaping 71-1684 and 71-1684A | Columbia 72-1748 | Dam Spillway</field>
+-    <field name="unittitle_teim">59-1255 | St. John's Church Survey of Adj. Property Addition (from Box 3) 68-1528 | Church School Bldg. 70-[16??] | Entrance Landscaping 71-1684 and 71-1684A | Columbia 72-1748 | Dam Spillway</field>
++    <field name="unittitle_ssm">59-1255 | St. John&#39;s Church Survey of Adj. Property Addition (from Box 3)
++68-1528 | Church School Bldg.
++70-[16??] | Entrance Landscaping
++71-1684 and 71-1684A | Columbia
++72-1748 | Dam Spillway</field>
++    <field name="unittitle_teim">59-1255 | St. John&#39;s Church Survey of Adj. Property Addition (from Box 3)
++
++68-1528 | Church School Bldg.
++
++70-[16??] | Entrance Landscaping
++
++71-1684 and 71-1684A | Columbia
++
++72-1748 | Dam Spillway</field>
+     <field name="ref_ssi">aspace_7f8577b7bc6930dca8e41951e71d6979</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,11 +39,24 @@
+     <field name="location_ssm">Offsite-Box: RD-556</field>
+     <field name="location_si">Offsite-Box: RD-556</field>
+     <field name="collection_teim">George B. Post architectural records</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">PR 53</field>
+     <field name="series_sim">Series VI. 2002 Accrual</field>
+     <field name="series_sim">Subseries VI.F. Rolled Drawings</field>
+-    <field name="series_si">Series VI. 2002 Accrual &gt;&gt; Subseries VI.F. Rolled Drawings &gt;&gt; 59-1255 | St. John's Church Survey of Adj. Property Addition (from Box 3) 68-1528 | Church School Bldg. 70-[16??] | Entrance Landscaping 71-1684 and 71-1684A | Columbia 72-1748 | Dam Spillway</field>
+-    <field name="heading_ssm">59-1255 | St. John's Church Survey of Adj. Property Addition (from Box 3) 68-1528 | Church School Bldg. 70-[16??] | Entrance Landscaping 71-1684 and 71-1684A | Columbia 72-1748 | Dam Spillway</field>
++    <field name="series_si">Series VI. 2002 Accrual &gt;&gt; Subseries VI.F. Rolled Drawings &gt;&gt; 59-1255 | St. John&#39;s Church Survey of Adj. Property Addition (from Box 3)
++68-1528 | Church School Bldg.
++70-[16??] | Entrance Landscaping
++71-1684 and 71-1684A | Columbia
++72-1748 | Dam Spillway</field>
++    <field name="heading_ssm">59-1255 | St. John&#39;s Church Survey of Adj. Property Addition (from Box 3)
++
++68-1528 | Church School Bldg.
++
++70-[16??] | Entrance Landscaping
++
++71-1684 and 71-1684A | Columbia
++
++72-1748 | Dam Spillway</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1229</field>
+   </doc>

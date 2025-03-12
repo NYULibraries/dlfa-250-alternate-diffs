@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; "The Drive in Central Park": images</field>
+-    <field name="unittitle_teim">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; "The Drive in Central Park": images</field>
++    <field name="unittitle_ssm">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; &#34;The Drive in Central Park&#34;: images		
++</field>
++    <field name="unittitle_teim">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; &#34;The Drive in Central Park&#34;: images		
++</field>
+     <field name="unitdate_normal_ssm">1860/1860</field>
+     <field name="unitdate_normal_teim">1860/1860</field>
+     <field name="unitdate_normal_sim">1860/1860</field>
+@@ -31,11 +33,14 @@
+     <field name="location_ssm">Offsite-Box: 9, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 9, Folder: 2</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+     <field name="series_sim">Subseries A. Chronological Files (1796-1970)</field>
+-    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; "The Drive in Central Park": images</field>
+-    <field name="heading_ssm">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; "The Drive in Central Park": images</field>
++    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries A. Chronological Files (1796-1970) &gt;&gt; Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; &#34;The Drive in Central Park&#34;: images		
++</field>
++    <field name="heading_ssm">Mr. and Mrs. George Stewart Brown; exterior view of C.W. &amp; J.T. Moore &amp; Co.; Dun, Boyd &amp; Co. agency rooms; &#34;The Drive in Central Park&#34;: images		
++</field>
+     <field name="unitdate_start_sim">1860</field>
+     <field name="unitdate_start_ssm">1860</field>
+     <field name="unitdate_start_si">1860</field>

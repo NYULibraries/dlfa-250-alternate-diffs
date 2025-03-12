@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr392_karp</field>
+     <field name="parent_ssi">aspace_ad45d73dba3a5cf731671bb47f1dc069</field>
+     <field name="parent_ssm">aspace_ad45d73dba3a5cf731671bb47f1dc069</field>
+-    <field name="parent_unittitles_ssm">Series II: Ephemera</field>
+-    <field name="parent_unittitles_teim">Series II: Ephemera</field>
++    <field name="parent_unittitles_ssm">Series II: Ephemera </field>
++    <field name="parent_unittitles_teim">Series II: Ephemera </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Amie Karp collection of tobacciana</field>
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Tobacco Pouches</field>
+     <field name="unittitle_teim">Tobacco Pouches</field>
+     <field name="unitdate_teim">1940</field>
+-    <field name="scopecontent_teim">Scotten, Dillon Company "Yankee Girl" chewing tobacco pouches (10).</field>
++    <field name="scopecontent_teim">Scotten, Dillon Company &#34;Yankee Girl&#34; chewing tobacco pouches (10).</field>
+     <field name="ref_ssi">aspace_2ea7a885b0393b508069853b9ee9ecc1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,9 +26,10 @@
+     <field name="location_ssm">Box: 4, Folder: 3</field>
+     <field name="location_si">Box: 4, Folder: 3</field>
+     <field name="collection_teim">Amie Karp collection of tobacciana</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 392</field>
+-    <field name="series_sim">Series II: Ephemera</field>
+-    <field name="series_si">Series II: Ephemera &gt;&gt; Tobacco Pouches</field>
++    <field name="series_sim">Series II: Ephemera </field>
++    <field name="series_si">Series II: Ephemera  &gt;&gt; Tobacco Pouches</field>
+     <field name="heading_ssm">Tobacco Pouches</field>
+     <field name="unitdate_ssm">1940</field>
+     <field name="date_range_sim">undated &amp; other</field>

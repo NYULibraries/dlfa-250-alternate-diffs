@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Brookings Institution</field>
+     <field name="unittitle_teim">Brookings Institution</field>
+     <field name="unitdate_teim">2001-2005</field>
+-    <field name="scopecontent_teim">Includes, among other material, Brookings's "A Compact Between the United States and Europe," supported by Rohatyn, a member of the Brookings Council.</field>
++    <field name="scopecontent_teim">Includes, among other material, Brookings&#39;s &#34;A Compact Between the United States and Europe,&#34; supported by Rohatyn, a member of the Brookings Council.</field>
+     <field name="ref_ssi">aspace_ref42_wys</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 18</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 18</field>
+     <field name="collection_teim">Elizabeth and Felix G. Rohatyn papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3015</field>
+     <field name="series_sim">Series I. General Correspondence and Subject Files</field>
+     <field name="series_si">Series I. General Correspondence and Subject Files &gt;&gt; Brookings Institution</field>

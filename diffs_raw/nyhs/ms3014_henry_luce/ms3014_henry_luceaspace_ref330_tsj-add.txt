@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Untitled, San Francisco Medical Center, University of California, 15 May 1964 (4 folders)</field>
+     <field name="unittitle_teim">Untitled, San Francisco Medical Center, University of California, 15 May 1964 (4 folders)</field>
+     <field name="unitdate_teim">1963-1966</field>
+-    <field name="scopecontent_teim">HRL's speech was part of the symposium "Food &amp; Civilization." Includes a published volume of presentations from the symposium with HRL's speech incorporated into chapter 1 under the title "The Challenge of the Future: An Overview."</field>
++    <field name="scopecontent_teim">HRL&#39;s speech was part of the symposium &#34;Food &amp; Civilization.&#34; Includes a published volume of presentations from the symposium with HRL&#39;s speech incorporated into chapter 1 under the title &#34;The Challenge of the Future: An Overview.&#34;</field>
+     <field name="ref_ssi">aspace_ref330_tsj</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 44, Folder: 1-4</field>
+     <field name="location_si">Box: 44, Folder: 1-4</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series II. Speeches and Writings</field>
+     <field name="series_sim">Subseries II.A. Working Files</field>

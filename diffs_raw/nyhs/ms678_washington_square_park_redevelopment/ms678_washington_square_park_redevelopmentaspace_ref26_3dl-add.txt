@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series II: New York University Publications</field>
+     <field name="unittitle_teim">Series II: New York University Publications</field>
+     <field name="unitdate_inclusive_teim">1952-1966</field>
+-    <field name="scopecontent_teim">This series contains publications produced by New York University. The materials included are chancellor's reports, student newspapers, newsletters, reports, a map, and newspapers clippings. This part of the collection gives the university's prospective on their projects.</field>
++    <field name="scopecontent_teim">This series contains publications produced by New York University. The materials included are chancellor&#39;s reports, student newspapers, newsletters, reports, a map, and newspapers clippings. This part of the collection gives the university&#39;s prospective on their projects.</field>
+     <field name="ref_ssi">aspace_ref26_3dl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Washington Square Park Redevelopment collection</field>
++    <field name="author_teim">Tiffany Schureman</field>
+     <field name="collection_unitid_teim">MS 678</field>
+     <field name="series_si">Series II: New York University Publications</field>
+     <field name="heading_ssm">Series II: New York University Publications</field>

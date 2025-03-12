@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Carole Hyatt papers</field>
+     <field name="collection_unitid_ssm">MS 3105</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Karen Steele Show. Guest: Carole Hyatt, author of "Lifetime Employability"&lt;/em&gt; (3 tape/6 files)</field>
+-    <field name="unittitle_teim">Karen Steele Show. Guest: Carole Hyatt, author of "Lifetime Employability" (3 tape/6 files)</field>
++    <field name="unittitle_ssm">&lt;em&gt;Karen Steele Show. Guest: Carole Hyatt, author of &#34;Lifetime Employability&#34;&lt;/em&gt; (3 tape/6 files)</field>
++    <field name="unittitle_teim">Karen Steele Show. Guest: Carole Hyatt, author of &#34;Lifetime Employability&#34; (3 tape/6 files)</field>
+     <field name="unitdate_teim">1995 August 1</field>
+-    <field name="scopecontent_teim">"8/1/95, 7-8pm" "WALE - Talk Radio 990, Providence RI." Tape from radio station. Appears to be 3 copies rather than 3 tapes comprising one interview.</field>
++    <field name="scopecontent_teim">&#34;8/1/95, 7-8pm&#34; &#34;WALE - Talk Radio 990, Providence RI.&#34; Tape from radio station. Appears to be 3 copies rather than 3 tapes comprising one interview.</field>
+     <field name="ref_ssi">aspace_f5c307bc83020374ddff324038ed1cff</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: T1, Item: 060-062</field>
+     <field name="location_si">Box: T1, Item: 060-062</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series III. Audiotapes</field>
+     <field name="series_sim">Subseries III.A. Audiotapes, Digitized</field>
+-    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; &lt;em&gt;Karen Steele Show. Guest: Carole Hyatt, author of "Lifetime Employability"&lt;/em&gt; (3 tape/6 files)</field>
+-    <field name="heading_ssm">Karen Steele Show. Guest: Carole Hyatt, author of "Lifetime Employability" (3 tape/6 files)</field>
++    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized &gt;&gt; &lt;em&gt;Karen Steele Show. Guest: Carole Hyatt, author of &#34;Lifetime Employability&#34;&lt;/em&gt; (3 tape/6 files)</field>
++    <field name="heading_ssm">Karen Steele Show. Guest: Carole Hyatt, author of &#34;Lifetime Employability&#34; (3 tape/6 files)</field>
+     <field name="unitdate_ssm">1995 August 1</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">278</field>

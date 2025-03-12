@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Paltsits Collection--Ulster County, New York</field>
+     <field name="collection_unitid_ssm">MS 477</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf's turnpike plans (1 p.)</field>
+-    <field name="unittitle_teim">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf's turnpike plans (1 p.)</field>
++    <field name="unittitle_ssm">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf&#39;s turnpike plans (1 p.)</field>
++    <field name="unittitle_teim">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf&#39;s turnpike plans (1 p.)</field>
+     <field name="unitdate_teim">[1820s?]</field>
+     <field name="ref_ssi">aspace_ref137_fl0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 11</field>
+     <field name="location_si">Box: 1, Folder: 11</field>
+     <field name="collection_teim">Paltsits Collection--Ulster County, New York</field>
++    <field name="author_teim">Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 477</field>
+     <field name="series_sim">Calendar of Documents</field>
+-    <field name="series_si">Calendar of Documents &gt;&gt; #101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf's turnpike plans (1 p.)</field>
+-    <field name="heading_ssm">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf's turnpike plans (1 p.)</field>
++    <field name="series_si">Calendar of Documents &gt;&gt; #101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf&#39;s turnpike plans (1 p.)</field>
++    <field name="heading_ssm">#101 ALS Charles H. Ruggles to Charles Bruyn, Shawangunk, concerning Lucas Elmendorf&#39;s turnpike plans (1 p.)</field>
+     <field name="unitdate_ssm">[1820s?]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">124</field>

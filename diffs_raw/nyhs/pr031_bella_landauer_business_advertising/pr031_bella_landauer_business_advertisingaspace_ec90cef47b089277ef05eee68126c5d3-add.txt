@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,13 @@
+     <field name="unittitle_ssm">Druggists</field>
+     <field name="unittitle_teim">Druggists</field>
+     <field name="scopecontent_teim">New York City: A-Q druggists</field>
+-    <field name="scopecontent_teim">Brandreth Caswell, Massey Co. Hegeman &amp; Co. Humphrey's</field>
++    <field name="scopecontent_teim"> Brandreth
++ 
++ Caswell, Massey Co.
++ 
++ Hegeman &amp; Co.
++ 
++ Humphrey&#39;s</field>
+     <field name="ref_ssi">aspace_ec90cef47b089277ef05eee68126c5d3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +35,7 @@
+     <field name="location_ssm">Offsite-Box: 24</field>
+     <field name="location_si">Offsite-Box: 24</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Parks. Little Island (7)</field>
+     <field name="unittitle_teim">Parks. Little Island (7)</field>
+     <field name="unitdate_inclusive_teim">2021</field>
+-    <field name="scopecontent_teim">7 photographs of the park at Pier 55 on the Hudson River waterfront, taken in August 2021 shortly after the park's opening in May 2021.</field>
++    <field name="scopecontent_teim">7 photographs of the park at Pier 55 on the Hudson River waterfront, taken in August 2021 shortly after the park&#39;s opening in May 2021.</field>
+     <field name="ref_ssi">aspace_874c82bb86e8b5101d1ed39ec4b868cc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 8</field>
+     <field name="location_si">Offsite-Box: 8</field>
+     <field name="collection_teim">William Grabowski photographs</field>
++    <field name="author_teim">Marybeth Kavanagh (2016), Larry Weimer (2018-22)</field>
+     <field name="collection_unitid_teim">PR 321</field>
+     <field name="series_sim">Series I: Manhattan</field>
+     <field name="series_si">Series I: Manhattan &gt;&gt; Parks. Little Island (7)</field>

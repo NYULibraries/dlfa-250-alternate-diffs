@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">George E. Stonebridge Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 66</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Stonebridge's Logbook</field>
+-    <field name="unittitle_teim">Stonebridge's Logbook</field>
++    <field name="unittitle_ssm">Stonebridge&#39;s Logbook</field>
++    <field name="unittitle_teim">Stonebridge&#39;s Logbook</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref299_qvr</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 71, Folder: 25</field>
+     <field name="location_si">Box: 71, Folder: 25</field>
+     <field name="collection_teim">George E. Stonebridge Photograph Collection</field>
++    <field name="author_teim">Meaghan Dwyer, Jenny Gotwals, and Janet Murray</field>
+     <field name="collection_unitid_teim">PR 66</field>
+     <field name="series_sim">Series III: Prints and manuscript material</field>
+-    <field name="series_si">Series III: Prints and manuscript material &gt;&gt; Stonebridge's Logbook</field>
+-    <field name="heading_ssm">Stonebridge's Logbook</field>
++    <field name="series_si">Series III: Prints and manuscript material &gt;&gt; Stonebridge&#39;s Logbook</field>
++    <field name="heading_ssm">Stonebridge&#39;s Logbook</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">286</field>

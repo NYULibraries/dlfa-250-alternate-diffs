@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,16 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Restaurants: I-J&lt;/strong&gt;</field>
+     <field name="unittitle_teim">Restaurants: I-J</field>
+-    <field name="scopecontent_teim">Iceland Restaurant, 1680 Broadway Jack's Italian-American Restaurant, 344 West 46th Street Japanese Restaurant, Dreamland, Coney Island, Brooklyn Davy Jones Sea Food House, 1290 Sixth Avenue Jumble Shop Restaurant, 28 West 8th Street (2)</field>
++    <field name="scopecontent_teim">Iceland Restaurant, 1680 Broadway
++
++Jack&#39;s Italian-American Restaurant, 344 West 46th Street
++
++Japanese Restaurant, Dreamland, Coney Island, Brooklyn
++
++Davy Jones Sea Food House, 1290 Sixth Avenue
++
++Jumble Shop Restaurant, 28 West 8th Street (2)
++</field>
+     <field name="ref_ssi">aspace_ref12_hqr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -21,6 +30,7 @@
+     <field name="location_ssm">Folder: 5</field>
+     <field name="location_si">Folder: 5</field>
+     <field name="collection_teim">Dale E. Jenkins collection of Manhattan restaurant postcards</field>
++    <field name="author_teim">Joseph Ditta, August 2017</field>
+     <field name="collection_unitid_teim">PR 337</field>
+     <field name="series_si">&lt;strong&gt;Restaurants: I-J&lt;/strong&gt;</field>
+     <field name="heading_ssm">Restaurants: I-J</field>

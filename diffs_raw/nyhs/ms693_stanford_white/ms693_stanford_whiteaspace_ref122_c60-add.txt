@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stanford White papers</field>
+     <field name="collection_unitid_ssm">MS 693</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</field>
+-    <field name="unittitle_teim">"Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</field>
++    <field name="unittitle_ssm">&#34;Some Leaders in our Architectural Renaissance&#34; -- short illustrated essay by Royal Cortissoze</field>
++    <field name="unittitle_teim">&#34;Some Leaders in our Architectural Renaissance&#34; -- short illustrated essay by Royal Cortissoze</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref122_c60</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Stanford White papers</field>
++    <field name="author_teim">Josué Luis Hurtado and Gabrielle Sanchez</field>
+     <field name="collection_unitid_teim">MS 693</field>
+     <field name="series_sim">Series 2: Printed Materials and Clippings, 1906-1920</field>
+-    <field name="series_si">Series 2: Printed Materials and Clippings, 1906-1920 &gt;&gt; "Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</field>
+-    <field name="heading_ssm">"Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</field>
++    <field name="series_si">Series 2: Printed Materials and Clippings, 1906-1920 &gt;&gt; &#34;Some Leaders in our Architectural Renaissance&#34; -- short illustrated essay by Royal Cortissoze</field>
++    <field name="heading_ssm">&#34;Some Leaders in our Architectural Renaissance&#34; -- short illustrated essay by Royal Cortissoze</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">106</field>

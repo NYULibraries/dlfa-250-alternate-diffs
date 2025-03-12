@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1865/1894</field>
+     <field name="unitdate_inclusive_teim">[1865-1894]</field>
+     <field name="scopecontent_teim">PR-065-0722</field>
+-    <field name="scopecontent_teim">Views in Brussels, Belgium: "Hotel de Ville"; Place du martyrs; floral offerings in the catacombs; interior of Cathedral in Ypres; interior of St. Andrew, Antwerp.</field>
++    <field name="scopecontent_teim">Views in Brussels, Belgium: &#34;Hotel de Ville&#34;; Place du martyrs; floral offerings in the catacombs; interior of Cathedral in Ypres; interior of St. Andrew, Antwerp.</field>
+     <field name="scopecontent_teim">5 items</field>
+     <field name="ref_ssi">aspace_ref736_ir9</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 65</field>
+     <field name="location_si">Box: 65</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+     <field name="series_si">Geographic &gt;&gt; Europe, Belgium</field>

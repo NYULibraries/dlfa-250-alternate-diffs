@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Time Inc. Sports Illustrated Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"How To" Films: Horseback Riding: Gordon Wright</field>
+-    <field name="unittitle_teim">"How To" Films: Horseback Riding: Gordon Wright</field>
++    <field name="unittitle_ssm">&#34;How To&#34; Films: Horseback Riding: Gordon Wright</field>
++    <field name="unittitle_teim">&#34;How To&#34; Films: Horseback Riding: Gordon Wright</field>
+     <field name="unitdate_inclusive_teim">1966</field>
+     <field name="scopecontent_teim">Includes audiovisual material.</field>
+     <field name="scopecontent_teim">2 film reels ; 16mm.</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Offsite-Box: 4132, Folder: 16-17</field>
+     <field name="location_si">Offsite-Box: 4132, Folder: 16-17</field>
+     <field name="collection_teim">Time Inc. Sports Illustrated Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 35</field>
+     <field name="series_sim">Series IV. Advertising Promotion Department Records</field>
+     <field name="series_sim">Subseries IV.A. Special Events and Publicity Director Keith Morris Files</field>
+     <field name="series_sim">Subsubseries IV.A.5. Promotional Audiovisual Files</field>
+-    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.5. Promotional Audiovisual Files &gt;&gt; "How To" Films: Horseback Riding: Gordon Wright</field>
+-    <field name="heading_ssm">"How To" Films: Horseback Riding: Gordon Wright</field>
++    <field name="series_si">Series IV. Advertising Promotion Department Records &gt;&gt; Subseries IV.A. Special Events and Publicity Director Keith Morris Files &gt;&gt; Subsubseries IV.A.5. Promotional Audiovisual Files &gt;&gt; &#34;How To&#34; Films: Horseback Riding: Gordon Wright</field>
++    <field name="heading_ssm">&#34;How To&#34; Films: Horseback Riding: Gordon Wright</field>
+     <field name="unitdate_ssm">Inclusive, 1966</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">219</field>

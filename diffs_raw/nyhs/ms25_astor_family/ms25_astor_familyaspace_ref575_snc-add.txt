@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Astor family papers</field>
+     <field name="collection_unitid_ssm">MS 25</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">William Backhouse Astor's Estate belonging to William Waldorf Astor</field>
+-    <field name="unittitle_teim">William Backhouse Astor's Estate belonging to William Waldorf Astor</field>
++    <field name="unittitle_ssm">William Backhouse Astor&#39;s Estate belonging to William Waldorf Astor</field>
++    <field name="unittitle_teim">William Backhouse Astor&#39;s Estate belonging to William Waldorf Astor</field>
+     <field name="unitdate_teim">1876-1890</field>
+     <field name="ref_ssi">aspace_ref575_snc</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: AF-31, Volume: 101</field>
+     <field name="location_si">Offsite-Box: AF-31, Volume: 101</field>
+     <field name="collection_teim">Astor family papers</field>
++    <field name="author_teim">Sherry Cortes; finding aid created by Sherry Cortes</field>
+     <field name="collection_unitid_teim">MS 25</field>
+     <field name="series_sim">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers</field>
+     <field name="series_sim">Subseries II.12: William Backhouse Astor Estate</field>
+-    <field name="series_si">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers &gt;&gt; Subseries II.12: William Backhouse Astor Estate &gt;&gt; William Backhouse Astor's Estate belonging to William Waldorf Astor</field>
+-    <field name="heading_ssm">William Backhouse Astor's Estate belonging to William Waldorf Astor</field>
++    <field name="series_si">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers &gt;&gt; Subseries II.12: William Backhouse Astor Estate &gt;&gt; William Backhouse Astor&#39;s Estate belonging to William Waldorf Astor</field>
++    <field name="heading_ssm">William Backhouse Astor&#39;s Estate belonging to William Waldorf Astor</field>
+     <field name="unitdate_ssm">1876-1890</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">483</field>

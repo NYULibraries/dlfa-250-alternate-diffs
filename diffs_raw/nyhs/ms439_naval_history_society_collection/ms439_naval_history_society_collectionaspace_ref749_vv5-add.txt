@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Journal de Navigation de L'Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
+-    <field name="unittitle_teim">"Journal de Navigation de L'Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
++    <field name="unittitle_ssm">&#34;Journal de Navigation de L&#39;Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
++    <field name="unittitle_teim">&#34;Journal de Navigation de L&#39;Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
+     <field name="unitdate_teim">1781 July 16 - September 21</field>
+     <field name="ref_ssi">aspace_ref749_vv5</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Volume: 2</field>
+     <field name="location_si">Volume: 2</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 18. France, Navy (1781)</field>
+-    <field name="series_si">Series 18. France, Navy (1781) &gt;&gt; "Journal de Navigation de L'Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
+-    <field name="heading_ssm">"Journal de Navigation de L'Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
++    <field name="series_si">Series 18. France, Navy (1781) &gt;&gt; &#34;Journal de Navigation de L&#39;Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
++    <field name="heading_ssm">&#34;Journal de Navigation de L&#39;Armee aux Ordres de M. Le Comte de Grasse/ 16 Juillet - 21 Septembre 1781</field>
+     <field name="unitdate_ssm">1781 July 16 - September 21</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">711</field>

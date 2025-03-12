@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor Prevost Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 56</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Bixby's Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane's. [239-245 Broadway] Copy two.</field>
+-    <field name="unittitle_teim">Bixby's Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane's. [239-245 Broadway] Copy two.</field>
++    <field name="unittitle_ssm">Bixby&#39;s Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane&#39;s. [239-245 Broadway] Copy two.</field>
++    <field name="unittitle_teim">Bixby&#39;s Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane&#39;s. [239-245 Broadway] Copy two.</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref27_w5o</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 7</field>
+     <field name="collection_teim">Victor Prevost Photograph Collection</field>
++    <field name="author_teim">Emily Wolff, Sandra Markham, and Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 56</field>
+     <field name="series_sim">Series I: Original Negatives</field>
+-    <field name="series_si">Series I: Original Negatives &gt;&gt; Bixby's Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane's. [239-245 Broadway] Copy two.</field>
+-    <field name="heading_ssm">Bixby's Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane's. [239-245 Broadway] Copy two.</field>
++    <field name="series_si">Series I: Original Negatives &gt;&gt; Bixby&#39;s Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane&#39;s. [239-245 Broadway] Copy two.</field>
++    <field name="heading_ssm">Bixby&#39;s Hotel, Northwest corner of Broadway &amp; Park Place, showing W. &amp; J. Sloane&#39;s. [239-245 Broadway] Copy two.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_be8e3e23868ca89f1d682b446201f8d8</field>
+     <field name="parent_ssm">aspace_601396c50eb4d596e9e5704f425827e8</field>
+     <field name="parent_unittitles_ssm">Series VI. Audiovisual</field>
+-    <field name="parent_unittitles_ssm">Sub-series VI.B. CDs &amp; DVDs (29 discs)</field>
++    <field name="parent_unittitles_ssm">Sub-series VI.B. CDs &amp;amp; DVDs (29 discs)</field>
+     <field name="parent_unittitles_teim">Series VI. Audiovisual</field>
+-    <field name="parent_unittitles_teim">Sub-series VI.B. CDs &amp; DVDs (29 discs)</field>
++    <field name="parent_unittitles_teim">Sub-series VI.B. CDs &amp;amp; DVDs (29 discs)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Four Seasons Restaurant collection</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Four Seasons Restaurant collection</field>
+     <field name="collection_unitid_ssm">MS 3151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">CD. "All Photos"</field>
+-    <field name="unittitle_teim">CD. "All Photos"</field>
++    <field name="unittitle_ssm">CD. &#34;All Photos&#34;</field>
++    <field name="unittitle_teim">CD. &#34;All Photos&#34;</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+     <field name="ref_ssi">aspace_5f54b7187310881311b9019bbe4003ce</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 17</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 17</field>
+     <field name="collection_teim">Four Seasons Restaurant collection</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3151</field>
+     <field name="series_sim">Series VI. Audiovisual</field>
+-    <field name="series_sim">Sub-series VI.B. CDs &amp; DVDs (29 discs)</field>
+-    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.B. CDs &amp; DVDs (29 discs) &gt;&gt; CD. "All Photos"</field>
+-    <field name="heading_ssm">CD. "All Photos"</field>
++    <field name="series_sim">Sub-series VI.B. CDs &amp;amp; DVDs (29 discs)</field>
++    <field name="series_si">Series VI. Audiovisual &gt;&gt; Sub-series VI.B. CDs &amp; DVDs (29 discs) &gt;&gt; CD. &#34;All Photos&#34;</field>
++    <field name="heading_ssm">CD. &#34;All Photos&#34;</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">139</field>

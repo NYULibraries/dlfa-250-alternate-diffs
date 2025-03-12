@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">II.C. Edward Tuckerman Potter (1831–1904)</field>
+     <field name="unittitle_teim">II.C. Edward Tuckerman Potter (1831–1904)</field>
+-    <field name="bioghist_teim">Architect, best known for designing the Mark Twain House (1871) in Hartford, Connecticut, and Nott Memorial (1858-1879) at Union College, Schenectady, New York, in honor of his maternal grandfather, the school's long-serving president, Eliphalet Nott [II.A]. Son of Alonzo Potter [II.B].</field>
++    <field name="bioghist_teim">Architect, best known for designing the Mark Twain House (1871) in Hartford, Connecticut, and Nott Memorial (1858-1879) at Union College, Schenectady, New York, in honor of his maternal grandfather, the school&#39;s long-serving president, Eliphalet Nott [II.A]. Son of Alonzo Potter [II.B].</field>
+     <field name="ref_ssi">aspace_99df23bb7adecd8ed9a03e031093d5c4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Blatchford, Potter, and Delano family papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3132</field>
+     <field name="series_sim">Series II. Potter family</field>
+     <field name="series_si">Series II. Potter family &gt;&gt; II.C. Edward Tuckerman Potter (1831–1904)</field>

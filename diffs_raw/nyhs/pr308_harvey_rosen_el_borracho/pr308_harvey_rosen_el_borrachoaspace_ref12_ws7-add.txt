@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Harvey Rosen and El Borracho collection</field>
+     <field name="collection_unitid_ssm">PR 308</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Guidebook entitled 'The Barman's Mentor: for professionals, private bars, and home use', by Eddie Woelke</field>
+-    <field name="unittitle_teim">Guidebook entitled 'The Barman's Mentor: for professionals, private bars, and home use', by Eddie Woelke</field>
++    <field name="unittitle_ssm">Guidebook entitled &#39;The Barman&#39;s Mentor: for professionals, private bars, and home use&#39;, by Eddie Woelke</field>
++    <field name="unittitle_teim">Guidebook entitled &#39;The Barman&#39;s Mentor: for professionals, private bars, and home use&#39;, by Eddie Woelke</field>
+     <field name="ref_ssi">aspace_ref12_ws7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">Harvey Rosen and El Borracho collection</field>
++    <field name="author_teim">Megan Dolan</field>
+     <field name="collection_unitid_teim">PR 308</field>
+-    <field name="series_si">Guidebook entitled 'The Barman's Mentor: for professionals, private bars, and home use', by Eddie Woelke</field>
+-    <field name="heading_ssm">Guidebook entitled 'The Barman's Mentor: for professionals, private bars, and home use', by Eddie Woelke</field>
++    <field name="series_si">Guidebook entitled &#39;The Barman&#39;s Mentor: for professionals, private bars, and home use&#39;, by Eddie Woelke</field>
++    <field name="heading_ssm">Guidebook entitled &#39;The Barman&#39;s Mentor: for professionals, private bars, and home use&#39;, by Eddie Woelke</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">13</field>
+   </doc>

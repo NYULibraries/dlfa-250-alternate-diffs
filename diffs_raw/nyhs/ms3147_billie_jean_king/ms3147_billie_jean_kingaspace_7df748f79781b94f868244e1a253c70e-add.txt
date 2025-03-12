@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Kloss, Ilana (3 folders)</field>
+     <field name="unittitle_teim">Kloss, Ilana (3 folders)</field>
+     <field name="unitdate_inclusive_teim">circa 1970s-2000s</field>
+-    <field name="scopecontent_teim">Contains photos of Ilana Kloss, BJK's life partner. Photos include Ilana Kloss playing throughout her tennis career, at events, and with BJK.</field>
++    <field name="scopecontent_teim">Contains photos of Ilana Kloss, BJK&#39;s life partner. Photos include Ilana Kloss playing throughout her tennis career, at events, and with BJK.</field>
+     <field name="ref_ssi">aspace_7df748f79781b94f868244e1a253c70e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 50, Folder: 15-17</field>
+     <field name="location_si">Offsite-Box: 50, Folder: 15-17</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VIII. Photographs</field>
+     <field name="series_sim">Subseries VIII.E. People</field>

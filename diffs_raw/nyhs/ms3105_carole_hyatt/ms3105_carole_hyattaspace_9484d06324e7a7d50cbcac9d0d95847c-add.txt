@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Heart and Marketing = Love Interviews</field>
+     <field name="unittitle_teim">Heart and Marketing = Love Interviews</field>
+     <field name="unitdate_inclusive_teim">1995</field>
+-    <field name="scopecontent_teim">Notes from two women's focus groups (Dallas and New York)</field>
++    <field name="scopecontent_teim">Notes from two women&#39;s focus groups (Dallas and New York)</field>
+     <field name="ref_ssi">aspace_9484d06324e7a7d50cbcac9d0d95847c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 6, Folder: 12</field>
+     <field name="location_si">Box: 6, Folder: 12</field>
+     <field name="collection_teim">Carole Hyatt papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3105</field>
+     <field name="series_sim">Series II. Research and Working Files</field>
+     <field name="series_sim">Subseries II.A. Interview Transcripts and Notes</field>

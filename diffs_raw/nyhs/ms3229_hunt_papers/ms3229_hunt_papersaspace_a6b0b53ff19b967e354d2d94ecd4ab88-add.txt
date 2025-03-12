@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Correspondence to Clara Hunt</field>
+     <field name="unittitle_teim">Correspondence to Clara Hunt</field>
+     <field name="unitdate_inclusive_teim">1872-1903</field>
+-    <field name="scopecontent_teim">The daughter of Edwin and Sophia Hunt, Clara Hunt's correspondence includes letters to cousins back in England and her siblings over the last decades of the 19th century.</field>
++    <field name="scopecontent_teim">The daughter of Edwin and Sophia Hunt, Clara Hunt&#39;s correspondence includes letters to cousins back in England and her siblings over the last decades of the 19th century.</field>
+     <field name="ref_ssi">aspace_a6b0b53ff19b967e354d2d94ecd4ab88</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 1</field>
+     <field name="collection_teim">Hunt family papers</field>
++    <field name="author_teim">Paul-Louis Biondi</field>
+     <field name="collection_unitid_teim">MS 3229</field>
+     <field name="series_si">Correspondence to Clara Hunt</field>
+     <field name="heading_ssm">Correspondence to Clara Hunt</field>

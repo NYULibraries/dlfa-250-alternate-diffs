@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Extra-illustrations from "History of the Navy of the United States" by James Fenimore Cooper; index book</field>
+-    <field name="unittitle_teim">Extra-illustrations from "History of the Navy of the United States" by James Fenimore Cooper; index book</field>
++    <field name="unittitle_ssm">Extra-illustrations from &#34;History of the Navy of the United States&#34; by James Fenimore Cooper; index book</field>
++    <field name="unittitle_teim">Extra-illustrations from &#34;History of the Navy of the United States&#34; by James Fenimore Cooper; index book</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref129_6fd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 11. James Fenimore Cooper (1890)</field>
+-    <field name="series_si">Series 11. James Fenimore Cooper (1890) &gt;&gt; Extra-illustrations from "History of the Navy of the United States" by James Fenimore Cooper; index book</field>
+-    <field name="heading_ssm">Extra-illustrations from "History of the Navy of the United States" by James Fenimore Cooper; index book</field>
++    <field name="series_si">Series 11. James Fenimore Cooper (1890) &gt;&gt; Extra-illustrations from &#34;History of the Navy of the United States&#34; by James Fenimore Cooper; index book</field>
++    <field name="heading_ssm">Extra-illustrations from &#34;History of the Navy of the United States&#34; by James Fenimore Cooper; index book</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">108</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Circulation Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 50</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tripple "W" &amp; Novelty Store - Monrovia, Liberia</field>
+-    <field name="unittitle_teim">Tripple "W" &amp; Novelty Store - Monrovia, Liberia</field>
++    <field name="unittitle_ssm">Tripple &#34;W&#34; &amp; Novelty Store - Monrovia, Liberia</field>
++    <field name="unittitle_teim">Tripple &#34;W&#34; &amp; Novelty Store - Monrovia, Liberia</field>
+     <field name="unitdate_inclusive_teim">1953</field>
+     <field name="ref_ssi">aspace_2c75c063b4db8b165b9ab88b8cbc0a83</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 4084, Folder: 89</field>
+     <field name="location_si">Offsite-Box: 4084, Folder: 89</field>
+     <field name="collection_teim">Time Inc. Corporate Circulation Records</field>
++    <field name="author_teim">Allen Thomas, Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 50</field>
+     <field name="series_sim">Series II. International Distribution Files</field>
+-    <field name="series_si">Series II. International Distribution Files &gt;&gt; Tripple "W" &amp; Novelty Store - Monrovia, Liberia</field>
+-    <field name="heading_ssm">Tripple "W" &amp; Novelty Store - Monrovia, Liberia</field>
++    <field name="series_si">Series II. International Distribution Files &gt;&gt; Tripple &#34;W&#34; &amp; Novelty Store - Monrovia, Liberia</field>
++    <field name="heading_ssm">Tripple &#34;W&#34; &amp; Novelty Store - Monrovia, Liberia</field>
+     <field name="unitdate_ssm">Inclusive, 1953</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">589</field>

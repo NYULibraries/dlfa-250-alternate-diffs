@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Subseries 22. Davies, Henry E., 1825-1870</field>
+     <field name="unittitle_teim">Subseries 22. Davies, Henry E., 1825-1870</field>
+-    <field name="scopecontent_teim">Letters, mostly to John Frey, concerning the Davies family, romantic advice, religion, Frey's financial matters, the Civil War.</field>
++    <field name="scopecontent_teim">Letters, mostly to John Frey, concerning the Davies family, romantic advice, religion, Frey&#39;s financial matters, the Civil War.</field>
+     <field name="ref_ssi">aspace_ref77_80v</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Frey Family Papers</field>
++    <field name="author_teim">Processed by Melissa Haley</field>
+     <field name="collection_unitid_teim">MS 235</field>
+     <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+     <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 22. Davies, Henry E., 1825-1870</field>

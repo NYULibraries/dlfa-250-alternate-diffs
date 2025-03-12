@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Gramercy Neighborhood Associates records</field>
+     <field name="collection_unitid_ssm">PR 370</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">45th annual flower show (theme: You're the Top) [inspired by Cole Porter]</field>
+-    <field name="unittitle_teim">45th annual flower show (theme: You're the Top) [inspired by Cole Porter]</field>
++    <field name="unittitle_ssm">45th annual flower show (theme: You&#39;re the Top) [inspired by Cole Porter]</field>
++    <field name="unittitle_teim">45th annual flower show (theme: You&#39;re the Top) [inspired by Cole Porter]</field>
+     <field name="unitdate_inclusive_teim">1992</field>
+     <field name="ref_ssi">aspace_6286edd970d112e602a19c018c5b1369</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: Oversize 1, enclosure: 1</field>
+     <field name="location_si">Folder: Oversize 1, enclosure: 1</field>
+     <field name="collection_teim">Gramercy Neighborhood Associates records</field>
++    <field name="author_teim">Zora Arum (2018) and Joseph Ditta (2020–2021)</field>
+     <field name="collection_unitid_teim">PR 370</field>
+     <field name="series_sim">Series III. Gramercy Park Flower Show</field>
+-    <field name="series_si">Series III. Gramercy Park Flower Show &gt;&gt; 45th annual flower show (theme: You're the Top) [inspired by Cole Porter]</field>
+-    <field name="heading_ssm">45th annual flower show (theme: You're the Top) [inspired by Cole Porter]</field>
++    <field name="series_si">Series III. Gramercy Park Flower Show &gt;&gt; 45th annual flower show (theme: You&#39;re the Top) [inspired by Cole Porter]</field>
++    <field name="heading_ssm">45th annual flower show (theme: You&#39;re the Top) [inspired by Cole Porter]</field>
+     <field name="unitdate_ssm">Inclusive, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">68</field>

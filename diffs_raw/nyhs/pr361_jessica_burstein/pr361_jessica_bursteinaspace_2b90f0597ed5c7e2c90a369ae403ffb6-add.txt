@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">New York City Street Scenes</field>
+     <field name="unittitle_teim">New York City Street Scenes</field>
+     <field name="unitdate_inclusive_teim">1970s-2005</field>
+-    <field name="scopecontent_teim">General views of people, buildings, views. Those that are particularly identifiable or captioned are: view from upper floor of New Yorker Hotel; South Bronx man; Pan Am building; corner of Madison avenue and East 65th street; Coney Island giant lollipop vendor; two Central Park in winter (color), including one of ice skating with Christo's Gates in background; buildings at corner of Amsterdam avenue and West 72nd street.</field>
++    <field name="scopecontent_teim">General views of people, buildings, views. Those that are particularly identifiable or captioned are: view from upper floor of New Yorker Hotel; South Bronx man; Pan Am building; corner of Madison avenue and East 65th street; Coney Island giant lollipop vendor; two Central Park in winter (color), including one of ice skating with Christo&#39;s Gates in background; buildings at corner of Amsterdam avenue and West 72nd street.</field>
+     <field name="ref_ssi">aspace_2b90f0597ed5c7e2c90a369ae403ffb6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 21</field>
+     <field name="location_si">Box: 21</field>
+     <field name="collection_teim">Jessica Burstein photographs and memorabilia</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 361</field>
+     <field name="series_sim">Series VI. Various Subjects</field>
+     <field name="series_si">Series VI. Various Subjects &gt;&gt; New York City Street Scenes</field>

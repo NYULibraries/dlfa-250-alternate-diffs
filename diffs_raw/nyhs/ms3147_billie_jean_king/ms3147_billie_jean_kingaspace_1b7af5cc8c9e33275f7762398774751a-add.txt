@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Subseries III.C. Elton John AIDS Foundation</field>
+     <field name="unittitle_teim">Subseries III.C. Elton John AIDS Foundation</field>
+     <field name="unitdate_inclusive_teim">2000-2018</field>
+-    <field name="scopecontent_teim">Subseries III.C contains all files related to BJK's work with the Elton John AIDS Foundation and is comprised of mostly event files and programs. Materials date from 2000-2018.</field>
++    <field name="scopecontent_teim">Subseries III.C contains all files related to BJK&#39;s work with the Elton John AIDS Foundation and is comprised of mostly event files and programs. Materials date from 2000-2018.</field>
+     <field name="ref_ssi">aspace_1b7af5cc8c9e33275f7762398774751a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series III. Subject files</field>
+     <field name="series_si">Series III. Subject files &gt;&gt; Subseries III.C. Elton John AIDS Foundation</field>

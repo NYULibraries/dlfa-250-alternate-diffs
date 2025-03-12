@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries 6: Douglas Campbell 1st Materials</field>
+     <field name="unittitle_teim">Subseries 6: Douglas Campbell 1st Materials</field>
+-    <field name="scopecontent_teim">The sixth subseries covers the work of Douglas Campbell 1st (1840-1893), especially his work as historian, attorney, and creator of the Soldiers' Home. It, too, is arranged by relevance.</field>
++    <field name="scopecontent_teim">The sixth subseries covers the work of Douglas Campbell 1st (1840-1893), especially his work as historian, attorney, and creator of the Soldiers&#39; Home. It, too, is arranged by relevance.</field>
+     <field name="ref_ssi">aspace_ref70_60f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Campbell-Mumford papers</field>
++    <field name="author_teim">Processed by Alex Poole</field>
+     <field name="collection_unitid_teim">MS 98</field>
+     <field name="series_sim">Series I: Campbell Family</field>
+     <field name="series_si">Series I: Campbell Family &gt;&gt; Subseries 6: Douglas Campbell 1st Materials</field>

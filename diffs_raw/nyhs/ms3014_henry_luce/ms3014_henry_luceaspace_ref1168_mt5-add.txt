@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Memoranda</field>
+     <field name="unittitle_teim">Memoranda</field>
+     <field name="unitdate_teim">1957</field>
+-    <field name="scopecontent_teim">Includes memoranda regarding investments in Eastex Mill, Time Inc. budget policy, Earl Warren, Brennan and the Supreme Court, and the proposal for running "The Changing American People" series in LIFE.</field>
++    <field name="scopecontent_teim">Includes memoranda regarding investments in Eastex Mill, Time Inc. budget policy, Earl Warren, Brennan and the Supreme Court, and the proposal for running &#34;The Changing American People&#34; series in LIFE.</field>
+     <field name="ref_ssi">aspace_ref1168_mt5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 57, Folder: 7</field>
+     <field name="location_si">Box: 57, Folder: 7</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series III. Notable Memoranda</field>
+     <field name="series_si">Series III. Notable Memoranda &gt;&gt; Memoranda</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">[Research on Lillard]</field>
+     <field name="unittitle_teim">[Research on Lillard]</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Notes on Grace A. Lillard apparently compiled by David M. Lesser, Fine Antiquarian Books LLC, who sold the collection to the New-York Historical Society in 2017. Includes several newspaper accounts of Lillard's life, painting, and military career, and her obituary from the Hattiesburg American, Hattiesburg, Mississippi, 21 June 1990.</field>
++    <field name="scopecontent_teim">Notes on Grace A. Lillard apparently compiled by David M. Lesser, Fine Antiquarian Books LLC, who sold the collection to the New-York Historical Society in 2017. Includes several newspaper accounts of Lillard&#39;s life, painting, and military career, and her obituary from the Hattiesburg American, Hattiesburg, Mississippi, 21 June 1990.</field>
+     <field name="ref_ssi">aspace_1439995c8fa1d2a594f04022a0ed5fbf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 14</field>
+     <field name="location_si">Box: 1, Folder: 14</field>
+     <field name="collection_teim">Grace Avery Lillard papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3069</field>
+     <field name="series_sim">Series I. Personal papers</field>
+     <field name="series_si">Series I. Personal papers &gt;&gt; [Research on Lillard]</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">60 Hudson Street</field>
+     <field name="unittitle_teim">60 Hudson Street</field>
+     <field name="unitdate_inclusive_teim">1996-2003</field>
+-    <field name="scopecontent_teim">Original folder reads: "former Western Union Building - fuel tank oil permit"</field>
++    <field name="scopecontent_teim">Original folder reads: &#34;former Western Union Building - fuel tank oil permit&#34;</field>
+     <field name="ref_ssi">aspace_b4c05d66fc1c377de5732a04e014643c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 10</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 10</field>
+     <field name="collection_teim">Carole De Saram papers</field>
++    <field name="author_teim">Ariana Heinsdorf</field>
+     <field name="collection_unitid_teim">MS 3059</field>
+     <field name="series_sim">Series 1: Subject Files</field>
+     <field name="series_si">Series 1: Subject Files &gt;&gt; 60 Hudson Street</field>

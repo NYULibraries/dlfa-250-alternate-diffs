@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Meeting Attendance and Voting Records (Flat Box)</field>
+     <field name="unittitle_teim">Meeting Attendance and Voting Records (Flat Box)</field>
+     <field name="unitdate_inclusive_teim">1941-1945</field>
+-    <field name="scopecontent_teim">Contains log of attendence and voting records for all borough presidents at joint meetings during Edgar J. Nathan, Jr.'s tenure.</field>
++    <field name="scopecontent_teim">Contains log of attendence and voting records for all borough presidents at joint meetings during Edgar J. Nathan, Jr.&#39;s tenure.</field>
+     <field name="ref_ssi">aspace_a44f8ca5f4070e69816928dd18515b92</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 18, Volume: 1</field>
+     <field name="location_si">Box: 18, Volume: 1</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series II. Manhattan Borough Presidency</field>
+     <field name="series_si">Series II. Manhattan Borough Presidency &gt;&gt; Meeting Attendance and Voting Records (Flat Box)</field>

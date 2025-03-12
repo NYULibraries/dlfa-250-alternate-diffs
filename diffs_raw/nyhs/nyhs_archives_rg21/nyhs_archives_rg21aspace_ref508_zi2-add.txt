@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">nyhs_archives_rg21</field>
+     <field name="parent_ssi">aspace_ref3_c7h</field>
+     <field name="parent_ssm">aspace_ref3_c7h</field>
+-    <field name="parent_unittitles_ssm">Series IV. Librarian &amp; Curatorial Files</field>
+-    <field name="parent_unittitles_teim">Series IV. Librarian &amp; Curatorial Files</field>
++    <field name="parent_unittitles_ssm">Series IV. Librarian &amp;amp; Curatorial Files</field>
++    <field name="parent_unittitles_teim">Series IV. Librarian &amp;amp; Curatorial Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New-York Historical Society Library Department records</field>
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Jean Ashton II Files. Set 2 (7 of 11 boxes)</field>
+     <field name="unittitle_teim">Jean Ashton II Files. Set 2 (7 of 11 boxes)</field>
+     <field name="unitdate_teim">2003-2012</field>
+-    <field name="scopecontent_teim">Includes project files (including Children's Aid society processing, Columbia School of Journalism, Questions About New York trivia book), New York University service agreement, and digital projects (including Alexander Street Press and others).</field>
++    <field name="scopecontent_teim">Includes project files (including Children&#39;s Aid society processing, Columbia School of Journalism, Questions About New York trivia book), New York University service agreement, and digital projects (including Alexander Street Press and others).</field>
+     <field name="ref_ssi">aspace_ref508_zi2</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,8 +26,9 @@
+     <field name="location_ssm">Offsite-Box: 167, Folder: 1-18</field>
+     <field name="location_si">Offsite-Box: 167, Folder: 1-18</field>
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+-    <field name="series_sim">Series IV. Librarian &amp; Curatorial Files</field>
++    <field name="series_sim">Series IV. Librarian &amp;amp; Curatorial Files</field>
+     <field name="series_si">Series IV. Librarian &amp; Curatorial Files &gt;&gt; Jean Ashton II Files. Set 2 (7 of 11 boxes)</field>
+     <field name="heading_ssm">Jean Ashton II Files. Set 2 (7 of 11 boxes)</field>
+     <field name="unitdate_ssm">2003-2012</field>

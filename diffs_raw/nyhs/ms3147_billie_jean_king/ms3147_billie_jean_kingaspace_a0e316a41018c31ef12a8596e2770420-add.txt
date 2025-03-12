@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Fed Cup sign</field>
+     <field name="unittitle_teim">Fed Cup sign</field>
+     <field name="unitdate_inclusive_teim">2003</field>
+-    <field name="scopecontent_teim">Foam board sign reading "Sportsmen's Tennis Club and Bud Collins welcomes BJK and Fed Cup '03 to Boston."</field>
++    <field name="scopecontent_teim">Foam board sign reading &#34;Sportsmen&#39;s Tennis Club and Bud Collins welcomes BJK and Fed Cup &#39;03 to Boston.&#34;</field>
+     <field name="ref_ssi">aspace_a0e316a41018c31ef12a8596e2770420</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 56</field>
+     <field name="location_si">Offsite-Box: 56</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series X. Artifacts and memorabilia</field>
+     <field name="series_si">Series X. Artifacts and memorabilia &gt;&gt; Fed Cup sign</field>

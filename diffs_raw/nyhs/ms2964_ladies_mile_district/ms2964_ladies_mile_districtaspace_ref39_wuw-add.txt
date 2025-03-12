@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms2964_ladies_mile_district</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Drive to Protect the Ladies' Mile Historic District Papers</field>
+-    <field name="collection_ssm">Drive to Protect the Ladies' Mile Historic District Papers</field>
++    <field name="collection_sim">Drive to Protect the Ladies&#39; Mile Historic District Papers</field>
++    <field name="collection_ssm">Drive to Protect the Ladies&#39; Mile Historic District Papers</field>
+     <field name="collection_unitid_ssm">MS 2964</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Administration and Archives</field>
+@@ -18,7 +18,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Drive to Protect the Ladies' Mile Historic District Papers</field>
++    <field name="collection_teim">Drive to Protect the Ladies&#39; Mile Historic District Papers</field>
++    <field name="author_teim">Sophie Glidden-Lyon</field>
+     <field name="collection_unitid_teim">MS 2964</field>
+     <field name="series_si">Series III: Administration and Archives</field>
+     <field name="heading_ssm">Series III: Administration and Archives</field>

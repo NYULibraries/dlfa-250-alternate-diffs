@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arnold Genthe Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 19</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Lake at Myron C. Taylor's Country Place"</field>
+-    <field name="unittitle_teim">"Lake at Myron C. Taylor's Country Place"</field>
++    <field name="unittitle_ssm">&#34;Lake at Myron C. Taylor&#39;s Country Place&#34;</field>
++    <field name="unittitle_teim">&#34;Lake at Myron C. Taylor&#39;s Country Place&#34;</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref174_7e9</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 5, Box: 10, Folder: 78</field>
+     <field name="location_si">Offsite-Box: 5, Box: 10, Folder: 78</field>
+     <field name="collection_teim">Arnold Genthe Photograph Collection</field>
++    <field name="author_teim">Chris Borris</field>
+     <field name="collection_unitid_teim">PR 19</field>
+     <field name="series_sim">Series III: Landscapes</field>
+     <field name="series_sim">Domestic Views - United States</field>
+-    <field name="series_si">Series III: Landscapes &gt;&gt; Domestic Views - United States &gt;&gt; "Lake at Myron C. Taylor's Country Place"</field>
+-    <field name="heading_ssm">"Lake at Myron C. Taylor's Country Place"</field>
++    <field name="series_si">Series III: Landscapes &gt;&gt; Domestic Views - United States &gt;&gt; &#34;Lake at Myron C. Taylor&#39;s Country Place&#34;</field>
++    <field name="heading_ssm">&#34;Lake at Myron C. Taylor&#39;s Country Place&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">83</field>

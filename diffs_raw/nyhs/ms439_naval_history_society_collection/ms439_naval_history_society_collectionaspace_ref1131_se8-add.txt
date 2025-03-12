@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Gunboat diplomacy, 1871: An American officer in Korea," by Robert L. Robinson</field>
+-    <field name="unittitle_teim">"Gunboat diplomacy, 1871: An American officer in Korea," by Robert L. Robinson</field>
++    <field name="unittitle_ssm">&#34;Gunboat diplomacy, 1871: An American officer in Korea,&#34; by Robert L. Robinson</field>
++    <field name="unittitle_teim">&#34;Gunboat diplomacy, 1871: An American officer in Korea,&#34; by Robert L. Robinson</field>
+     <field name="unitdate_teim">1975 September 24</field>
+     <field name="ref_ssi">aspace_ref1131_se8</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 46. William K. Wheeler (1860-1975)</field>
+-    <field name="series_si">Series 46. William K. Wheeler (1860-1975) &gt;&gt; "Gunboat diplomacy, 1871: An American officer in Korea," by Robert L. Robinson</field>
+-    <field name="heading_ssm">"Gunboat diplomacy, 1871: An American officer in Korea," by Robert L. Robinson</field>
++    <field name="series_si">Series 46. William K. Wheeler (1860-1975) &gt;&gt; &#34;Gunboat diplomacy, 1871: An American officer in Korea,&#34; by Robert L. Robinson</field>
++    <field name="heading_ssm">&#34;Gunboat diplomacy, 1871: An American officer in Korea,&#34; by Robert L. Robinson</field>
+     <field name="unitdate_ssm">1975 September 24</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1060</field>

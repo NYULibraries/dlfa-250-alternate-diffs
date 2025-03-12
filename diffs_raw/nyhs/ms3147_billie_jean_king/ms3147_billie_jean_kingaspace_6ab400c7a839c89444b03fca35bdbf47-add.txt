@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Clinton, Hillary</field>
+     <field name="unittitle_teim">Clinton, Hillary</field>
+     <field name="unitdate_inclusive_teim">2009-2019</field>
+-    <field name="scopecontent_teim">Contains letters addressed to BJK and BJK and Ilana Kloss from 2009-2019 and 2012 holiday card. Also includes inserted photos from HBO "Dare to Compete" event.</field>
++    <field name="scopecontent_teim">Contains letters addressed to BJK and BJK and Ilana Kloss from 2009-2019 and 2012 holiday card. Also includes inserted photos from HBO &#34;Dare to Compete&#34; event.</field>
+     <field name="ref_ssi">aspace_6ab400c7a839c89444b03fca35bdbf47</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 64, Folder: 7</field>
+     <field name="location_si">Offsite-Box: 64, Folder: 7</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series VI. Correspondence</field>
+     <field name="series_sim">Subseries VI.A. Alphabetical correspondence</field>

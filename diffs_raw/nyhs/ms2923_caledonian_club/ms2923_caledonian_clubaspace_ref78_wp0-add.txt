@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Caledonian Club Building</field>
+     <field name="unittitle_teim">Caledonian Club Building</field>
+-    <field name="scopecontent_teim">This is a photograph of the exterior of the New York Caledonian Club's marble mansion, located at 846 Seventh Avenue (54th Street). The club acquired the building in 1898.</field>
++    <field name="scopecontent_teim">This is a photograph of the exterior of the New York Caledonian Club&#39;s marble mansion, located at 846 Seventh Avenue (54th Street). The club acquired the building in 1898.</field>
+     <field name="ref_ssi">aspace_ref78_wp0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: OS Medium, Folder: New york Caledonian Club Records</field>
+     <field name="location_si">Box: OS Medium, Folder: New york Caledonian Club Records</field>
+     <field name="collection_teim">New York Caledonian Club records</field>
++    <field name="author_teim">Alison Dundy</field>
+     <field name="collection_unitid_teim">MS 2923</field>
+     <field name="series_sim">Series II: Photographs</field>
+     <field name="series_si">Series II: Photographs &gt;&gt; Caledonian Club Building</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">1975: Grunwald, Henry: Job Description Sheet</field>
+     <field name="unittitle_teim">1975: Grunwald, Henry: Job Description Sheet</field>
+     <field name="unitdate_inclusive_teim">1975</field>
+-    <field name="scopecontent_teim">Includes Grunwald's recounting of his day-to-day activities.</field>
++    <field name="scopecontent_teim">Includes Grunwald&#39;s recounting of his day-to-day activities.</field>
+     <field name="ref_ssi">aspace_399318788bdd443c0a9dfde91bfd1cb6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 2449, Folder: 51</field>
+     <field name="location_si">Offsite-Box: 2449, Folder: 51</field>
+     <field name="collection_teim">Time Inc. Time Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Melanie Rinehart, and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 7</field>
+     <field name="series_sim">Series II.B. Executive Editor Edward Jamieson Files</field>
+     <field name="series_sim">Subseries II.B.2. Subject Files</field>

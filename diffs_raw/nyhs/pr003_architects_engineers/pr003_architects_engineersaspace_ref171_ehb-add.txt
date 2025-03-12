@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Architects &amp; Engineers collection</field>
+     <field name="collection_unitid_ssm">PR 3</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Enoch Morgan Sons Co., "Fluffy" Soap &amp; Scouring Powder Plant, New York, NY</field>
+-    <field name="unittitle_teim">Enoch Morgan Sons Co., "Fluffy" Soap &amp; Scouring Powder Plant, New York, NY</field>
++    <field name="unittitle_ssm">Enoch Morgan Sons Co., &#34;Fluffy&#34; Soap &amp; Scouring Powder Plant, New York, NY</field>
++    <field name="unittitle_teim">Enoch Morgan Sons Co., &#34;Fluffy&#34; Soap &amp; Scouring Powder Plant, New York, NY</field>
+     <field name="ref_ssi">aspace_ref171_ehb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Box: PR 3-223</field>
+     <field name="location_si">Box: PR 3-223</field>
+     <field name="collection_teim">Architects &amp; Engineers collection</field>
++    <field name="author_teim">Susan Benz</field>
+     <field name="collection_unitid_teim">PR 3</field>
+     <field name="series_sim">Houchin-Aiken Company Engineers, 16 items (PR 3-223)</field>
+-    <field name="series_si">Houchin-Aiken Company Engineers, 16 items (PR 3-223) &gt;&gt; Enoch Morgan Sons Co., "Fluffy" Soap &amp; Scouring Powder Plant, New York, NY</field>
+-    <field name="heading_ssm">Enoch Morgan Sons Co., "Fluffy" Soap &amp; Scouring Powder Plant, New York, NY</field>
++    <field name="series_si">Houchin-Aiken Company Engineers, 16 items (PR 3-223) &gt;&gt; Enoch Morgan Sons Co., &#34;Fluffy&#34; Soap &amp; Scouring Powder Plant, New York, NY</field>
++    <field name="heading_ssm">Enoch Morgan Sons Co., &#34;Fluffy&#34; Soap &amp; Scouring Powder Plant, New York, NY</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">186</field>
+   </doc>

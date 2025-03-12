@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Neil, Doris: Projects [RESTRICTED]</field>
+-    <field name="unittitle_teim">O'Neil, Doris: Projects [RESTRICTED]</field>
++    <field name="unittitle_ssm">O&#39;Neil, Doris: Projects [RESTRICTED]</field>
++    <field name="unittitle_teim">O&#39;Neil, Doris: Projects [RESTRICTED]</field>
+     <field name="ref_ssi">aspace_ref2209_loy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: R12</field>
+     <field name="location_si">Offsite-Box: R12</field>
+     <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
++    <field name="author_teim">Holly Deakyne</field>
+     <field name="collection_unitid_teim">MS 3009-RG 6</field>
+     <field name="series_sim">Series II.F. Editorial Director General Files</field>
+-    <field name="series_si">Series II.F. Editorial Director General Files &gt;&gt; O'Neil, Doris: Projects [RESTRICTED]</field>
+-    <field name="heading_ssm">O'Neil, Doris: Projects [RESTRICTED]</field>
++    <field name="series_si">Series II.F. Editorial Director General Files &gt;&gt; O&#39;Neil, Doris: Projects [RESTRICTED]</field>
++    <field name="heading_ssm">O&#39;Neil, Doris: Projects [RESTRICTED]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3533</field>
+   </doc>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">The Great Exhibition of 1860. [Lincoln/connection to anti-slavery, newspapers]</field>
+     <field name="unittitle_teim">The Great Exhibition of 1860. [Lincoln/connection to anti-slavery, newspapers]</field>
+     <field name="unitdate_teim">1860</field>
+-    <field name="scopecontent_teim">Lithograph: Published by Currier &amp; Ives. Stamped on back, "The Gift of Henry O. Havemeyer, Yale 1900. Collection of United States Naval Prints and Painting". Acquisition(?) date on back: Oct. 7, 1946.</field>
++    <field name="scopecontent_teim">Lithograph: Published by Currier &amp; Ives. Stamped on back, &#34;The Gift of Henry O. Havemeyer, Yale 1900. Collection of United States Naval Prints and Painting&#34;. Acquisition(?) date on back: Oct. 7, 1946.</field>
+     <field name="ref_ssi">aspace_82fa372b06162d444b9a6f29ef466b46</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,9 +23,10 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Folder: FF-77, item: 1860-3</field>
+-    <field name="location_si">Folder: FF-77, item: 1860-3</field>
++    <field name="location_ssm">Folder: FF-77, item: 1860-3 </field>
++    <field name="location_si">Folder: FF-77, item: 1860-3 </field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series V. Civil War and Post-War Period</field>
+     <field name="series_si">Series V. Civil War and Post-War Period &gt;&gt; The Great Exhibition of 1860. [Lincoln/connection to anti-slavery, newspapers]</field>

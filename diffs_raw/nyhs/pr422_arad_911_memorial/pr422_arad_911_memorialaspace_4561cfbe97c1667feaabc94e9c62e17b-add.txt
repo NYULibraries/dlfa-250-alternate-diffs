@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Michael Arad 9/11 Memorial papers</field>
+     <field name="collection_unitid_ssm">PR 422</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Magazine, "Esposus"</field>
+-    <field name="unittitle_teim">Magazine, "Esposus"</field>
++    <field name="unittitle_ssm">Magazine, &#34;Esposus&#34;</field>
++    <field name="unittitle_teim">Magazine, &#34;Esposus&#34;</field>
+     <field name="unitdate_inclusive_teim">2014</field>
+     <field name="ref_ssi">aspace_4561cfbe97c1667feaabc94e9c62e17b</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 32, Folder: 9</field>
+     <field name="location_si">Offsite-Box: 32, Folder: 9</field>
+     <field name="collection_teim">Michael Arad 9/11 Memorial papers</field>
++    <field name="author_teim">Marybeth Kavanagh and Margo Padilla</field>
+     <field name="collection_unitid_teim">PR 422</field>
+     <field name="series_sim">Series III: Ephemera and Other Media</field>
+-    <field name="series_si">Series III: Ephemera and Other Media &gt;&gt; Magazine, "Esposus"</field>
+-    <field name="heading_ssm">Magazine, "Esposus"</field>
++    <field name="series_si">Series III: Ephemera and Other Media &gt;&gt; Magazine, &#34;Esposus&#34;</field>
++    <field name="heading_ssm">Magazine, &#34;Esposus&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 2014</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">234</field>

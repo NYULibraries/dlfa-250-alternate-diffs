@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">American Art-Union print collection</field>
+     <field name="collection_unitid_ssm">PR 159</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"The Jolly Flatboat Men," after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co. (1 copy)</field>
+-    <field name="unittitle_teim">"The Jolly Flatboat Men," after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co. (1 copy)</field>
++    <field name="unittitle_ssm">&#34;The Jolly Flatboat Men,&#34; after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co.  (1 copy)</field>
++    <field name="unittitle_teim">&#34;The Jolly Flatboat Men,&#34; after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co.  (1 copy)</field>
+     <field name="unitdate_normal_ssm">1847/1847</field>
+     <field name="unitdate_normal_teim">1847/1847</field>
+     <field name="unitdate_normal_sim">1847/1847</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Folder: FF-2</field>
+     <field name="location_si">Folder: FF-2</field>
+     <field name="collection_teim">American Art-Union print collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 159</field>
+     <field name="series_sim">Series I: Membership Prints</field>
+-    <field name="series_si">Series I: Membership Prints &gt;&gt; "The Jolly Flatboat Men," after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co. (1 copy)</field>
+-    <field name="heading_ssm">"The Jolly Flatboat Men," after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co. (1 copy)</field>
++    <field name="series_si">Series I: Membership Prints &gt;&gt; &#34;The Jolly Flatboat Men,&#34; after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co.  (1 copy)</field>
++    <field name="heading_ssm">&#34;The Jolly Flatboat Men,&#34; after George Caleb Bingham, engraved by Thomas Doney, printed by Powell &amp; Co.  (1 copy)</field>
+     <field name="unitdate_start_sim">1847</field>
+     <field name="unitdate_start_ssm">1847</field>
+     <field name="unitdate_start_si">1847</field>

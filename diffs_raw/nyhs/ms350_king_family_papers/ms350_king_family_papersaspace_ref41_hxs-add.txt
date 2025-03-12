@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1866/1893</field>
+     <field name="unitdate_normal_sim">1866/1893</field>
+     <field name="unitdate_inclusive_teim">1866-1893</field>
+-    <field name="bioghist_teim">Charles Frederick Lennig (1836 - 1868) was the son-in-law of Charles Ray King (1813 - 1901). Lennig married King's daughter, Mary Fisher King (1844 - 1900). Lennig was an attorney in Philadelphia, Pennsylvania. The majority of correspondence is with his wife, Mary Fisher (King) Lennig (1844 - 1900).</field>
++    <field name="bioghist_teim">Charles Frederick Lennig (1836 - 1868) was the son-in-law of Charles Ray King (1813 - 1901). Lennig married King&#39;s daughter, Mary Fisher King (1844 - 1900). Lennig was an attorney in Philadelphia, Pennsylvania. The majority of correspondence is with his wife, Mary Fisher (King) Lennig (1844 - 1900).</field>
+     <field name="ref_ssi">aspace_ref41_hxs</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">King Family Papers</field>
++    <field name="author_teim">Erin Shaw</field>
+     <field name="collection_unitid_teim">MS 350</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 9: Charles F. Lennig</field>

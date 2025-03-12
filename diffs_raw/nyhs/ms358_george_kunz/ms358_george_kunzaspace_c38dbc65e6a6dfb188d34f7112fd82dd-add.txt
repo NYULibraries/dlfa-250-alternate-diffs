@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Osborne, Duffield (Authors Club)</field>
+     <field name="unittitle_teim">Osborne, Duffield (Authors Club)</field>
+     <field name="unitdate_inclusive_teim">1912</field>
+-    <field name="scopecontent_teim">Letter to Kunz informing him of his election to the club, with carbon copy of Kunz's response.</field>
++    <field name="scopecontent_teim">Letter to Kunz informing him of his election to the club, with carbon copy of Kunz&#39;s response.</field>
+     <field name="ref_ssi">aspace_c38dbc65e6a6dfb188d34f7112fd82dd</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+     <field name="collection_teim">George F. Kunz papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 358</field>
+     <field name="series_si">Osborne, Duffield (Authors Club)</field>
+     <field name="heading_ssm">Osborne, Duffield (Authors Club)</field>

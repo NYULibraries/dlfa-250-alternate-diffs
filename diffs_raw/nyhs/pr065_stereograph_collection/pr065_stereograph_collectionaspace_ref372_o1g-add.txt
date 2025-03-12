@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,14 @@
+     <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+     <field name="collection_unitid_ssm">PR 65</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York--NYC -- Manhattan--Theaters -- Booth's</field>
+-    <field name="unittitle_teim">New York--NYC -- Manhattan--Theaters -- Booth's</field>
++    <field name="unittitle_ssm">New York--NYC -- Manhattan--Theaters -- Booth&#39;s</field>
++    <field name="unittitle_teim">New York--NYC -- Manhattan--Theaters -- Booth&#39;s</field>
+     <field name="unitdate_normal_ssm">1868/1875</field>
+     <field name="unitdate_normal_teim">1868/1875</field>
+     <field name="unitdate_normal_sim">1868/1875</field>
+     <field name="unitdate_inclusive_teim">[1868-1875]</field>
+     <field name="scopecontent_teim">Identifier:PR-065-0358</field>
+-    <field name="scopecontent_teim">Booth's Theatre, 23rd and 6th Avenue.</field>
++    <field name="scopecontent_teim">Booth&#39;s Theatre, 23rd and 6th Avenue.</field>
+     <field name="scopecontent_teim">7 items</field>
+     <field name="ref_ssi">aspace_ref372_o1g</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 33</field>
+     <field name="location_si">Box: 33</field>
+     <field name="collection_teim">New-York Historical Society collection of stereographs</field>
++    <field name="author_teim">Janet Murray (2000); revised and migrated to ArchivesSpace by Marybeth Kavanagh (2020)</field>
+     <field name="collection_unitid_teim">PR 65</field>
+     <field name="series_sim">Geographic</field>
+-    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Theaters -- Booth's</field>
+-    <field name="heading_ssm">New York--NYC -- Manhattan--Theaters -- Booth's</field>
++    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Theaters -- Booth&#39;s</field>
++    <field name="heading_ssm">New York--NYC -- Manhattan--Theaters -- Booth&#39;s</field>
+     <field name="unitdate_start_sim">1868</field>
+     <field name="unitdate_start_ssm">1868</field>
+     <field name="unitdate_start_si">1868</field>

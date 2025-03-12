@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries 1: Sage House</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ladies' Christian Union Records</field>
+-    <field name="collection_ssm">Ladies' Christian Union Records</field>
++    <field name="collection_sim">Ladies&#39; Christian Union Records</field>
++    <field name="collection_ssm">Ladies&#39; Christian Union Records</field>
+     <field name="collection_unitid_ssm">MS 359</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Papers connected with Purchase of Property at 27 and 28 Washington Square</field>
+@@ -30,7 +30,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 8, Folder: 4</field>
+     <field name="location_si">Box: 8, Folder: 4</field>
+-    <field name="collection_teim">Ladies' Christian Union Records</field>
++    <field name="collection_teim">Ladies&#39; Christian Union Records</field>
++    <field name="author_teim">Processed by Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 359</field>
+     <field name="series_sim">Series IV: Real Estate Documents</field>
+     <field name="series_sim">Subseries 1: Sage House</field>

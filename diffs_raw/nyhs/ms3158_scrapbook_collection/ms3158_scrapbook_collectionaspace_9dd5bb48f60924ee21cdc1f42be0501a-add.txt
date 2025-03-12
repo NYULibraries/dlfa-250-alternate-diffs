@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of scrapbooks and clippings</field>
+     <field name="collection_unitid_ssm">MS 3158</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Carl's Tour in Main Street" [Worcester, Massachusetts]</field>
+-    <field name="unittitle_teim">"Carl's Tour in Main Street" [Worcester, Massachusetts]</field>
++    <field name="unittitle_ssm">&#34;Carl&#39;s Tour in Main Street&#34; [Worcester, Massachusetts]</field>
++    <field name="unittitle_teim">&#34;Carl&#39;s Tour in Main Street&#34; [Worcester, Massachusetts]</field>
+     <field name="unitdate_inclusive_teim">1855</field>
+-    <field name="scopecontent_teim">1 volume of clippings of the series "Carl's Tour in Main Street" "Re-published by request, from the Palladium of 1855." The compiler of the clippings is unknown.</field>
++    <field name="scopecontent_teim">1 volume of clippings of the series &#34;Carl&#39;s Tour in Main Street&#34; &#34;Re-published by request, from the Palladium of 1855.&#34; The compiler of the clippings is unknown.</field>
+     <field name="ref_ssi">aspace_9dd5bb48f60924ee21cdc1f42be0501a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,9 +22,10 @@
+     <field name="location_ssm">Offsite-Box: 54</field>
+     <field name="location_si">Offsite-Box: 54</field>
+     <field name="collection_teim">New-York Historical Society collection of scrapbooks and clippings</field>
++    <field name="author_teim">Elise Winks and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3158</field>
+-    <field name="series_si">"Carl's Tour in Main Street" [Worcester, Massachusetts]</field>
+-    <field name="heading_ssm">"Carl's Tour in Main Street" [Worcester, Massachusetts]</field>
++    <field name="series_si">&#34;Carl&#39;s Tour in Main Street&#34; [Worcester, Massachusetts]</field>
++    <field name="heading_ssm">&#34;Carl&#39;s Tour in Main Street&#34; [Worcester, Massachusetts]</field>
+     <field name="unitdate_ssm">Inclusive, 1855</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">24</field>

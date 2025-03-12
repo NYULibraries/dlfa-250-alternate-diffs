@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">[FDNY: General]</field>
+     <field name="unittitle_teim">[FDNY: General]</field>
+     <field name="unitdate_teim">2010</field>
+-    <field name="scopecontent_teim">Includes "Fire Department of New York Transition Document," with Scoppetta's notes "Draft Transition Doc. / The Missing Section 12-8-09."</field>
++    <field name="scopecontent_teim">Includes &#34;Fire Department of New York Transition Document,&#34; with Scoppetta&#39;s notes &#34;Draft Transition Doc. / The Missing Section 12-8-09.&#34;</field>
+     <field name="ref_ssi">aspace_ref195_dmb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 14</field>
+     <field name="collection_teim">Nicholas Scoppetta papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3017</field>
+     <field name="series_sim">Series III. FDNY</field>
+     <field name="series_sim">Subseries III.A. FDNY: General</field>

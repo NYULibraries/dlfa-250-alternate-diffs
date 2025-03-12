@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Theatre (large)</field>
+     <field name="unittitle_teim">Theatre (large)</field>
+     <field name="unitdate_inclusive_teim">1917</field>
+-    <field name="scopecontent_teim">"Lest We Forget" poster with portraits of deceased actors, 1917</field>
++    <field name="scopecontent_teim">&#34;Lest We Forget&#34; poster with portraits of deceased actors, 1917</field>
+     <field name="ref_ssi">aspace_c9b58a235f09c409f5fb809e0ca50692</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">drawer: Large</field>
+     <field name="location_si">drawer: Large</field>
+     <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
++    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+     <field name="collection_unitid_teim">PR 104</field>
+     <field name="series_sim">Series II. Groups</field>
+     <field name="series_sim">Subseries II.B. Groups (large format)</field>

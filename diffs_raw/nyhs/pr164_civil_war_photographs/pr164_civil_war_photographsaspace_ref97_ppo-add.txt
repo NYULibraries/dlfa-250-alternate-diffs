@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Civil War photograph file</field>
+     <field name="collection_unitid_ssm">PR 164</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Council of War," painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O'Sullivan</field>
+-    <field name="unittitle_teim">"Council of War," painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O'Sullivan</field>
++    <field name="unittitle_ssm">&#34;Council of War,&#34; painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O&#39;Sullivan</field>
++    <field name="unittitle_teim">&#34;Council of War,&#34; painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O&#39;Sullivan</field>
+     <field name="unitdate_teim">1964 May 21</field>
+     <field name="ref_ssi">aspace_ref97_ppo</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 5, Folder: 56</field>
+     <field name="location_si">Box: 5, Folder: 56</field>
+     <field name="collection_teim">Civil War photograph file</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 164</field>
+     <field name="series_sim">Series II: Portraits</field>
+     <field name="series_sim">Group (Field)</field>
+-    <field name="series_si">Series II: Portraits &gt;&gt; Group (Field) &gt;&gt; "Council of War," painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O'Sullivan</field>
+-    <field name="heading_ssm">"Council of War," painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O'Sullivan</field>
++    <field name="series_si">Series II: Portraits &gt;&gt; Group (Field) &gt;&gt; &#34;Council of War,&#34; painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O&#39;Sullivan</field>
++    <field name="heading_ssm">&#34;Council of War,&#34; painting showing generals Meade and Grant at Massaponax Church, photographed by Timothy O&#39;Sullivan</field>
+     <field name="unitdate_ssm">1964 May 21</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">79</field>

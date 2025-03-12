@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">William Grabowski photographs</field>
+     <field name="collection_unitid_ssm">PR 321</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Barclay's Center (2)</field>
+-    <field name="unittitle_teim">Barclay's Center (2)</field>
++    <field name="unittitle_ssm">Barclay&#39;s Center (2)</field>
++    <field name="unittitle_teim">Barclay&#39;s Center (2)</field>
+     <field name="unitdate_inclusive_teim">2020</field>
+     <field name="scopecontent_teim">1 photo of exterior, 1 photo of mural memorial of Kobe Bryant and daughter Gianna.</field>
+     <field name="ref_ssi">aspace_006a9caea231834c675825346b57e0d8</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 8</field>
+     <field name="location_si">Offsite-Box: 8</field>
+     <field name="collection_teim">William Grabowski photographs</field>
++    <field name="author_teim">Marybeth Kavanagh (2016), Larry Weimer (2018-22)</field>
+     <field name="collection_unitid_teim">PR 321</field>
+     <field name="series_sim">Series III: Brooklyn</field>
+-    <field name="series_si">Series III: Brooklyn &gt;&gt; Barclay's Center (2)</field>
+-    <field name="heading_ssm">Barclay's Center (2)</field>
++    <field name="series_si">Series III: Brooklyn &gt;&gt; Barclay&#39;s Center (2)</field>
++    <field name="heading_ssm">Barclay&#39;s Center (2)</field>
+     <field name="unitdate_ssm">Inclusive, 2020</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">68</field>

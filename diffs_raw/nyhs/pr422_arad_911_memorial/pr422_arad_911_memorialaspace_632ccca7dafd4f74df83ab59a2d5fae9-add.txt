@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_inclusive_teim">2003-2019</field>
+-    <field name="scopecontent_teim">Consists mainly of people's reactions to the design of the memorial, both before and after it was completed. Some letters address how best to memorialize the individuals killed on 9/11.</field>
++    <field name="scopecontent_teim">Consists mainly of people&#39;s reactions to the design of the memorial, both before and after it was completed. Some letters address how best to memorialize the individuals killed on 9/11.</field>
+     <field name="ref_ssi">aspace_632ccca7dafd4f74df83ab59a2d5fae9</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 4</field>
+     <field name="collection_teim">Michael Arad 9/11 Memorial papers</field>
++    <field name="author_teim">Marybeth Kavanagh and Margo Padilla</field>
+     <field name="collection_unitid_teim">PR 422</field>
+     <field name="series_sim">Series VI: Office Files</field>
+     <field name="series_sim">Subseries VI.A: Arad Files</field>

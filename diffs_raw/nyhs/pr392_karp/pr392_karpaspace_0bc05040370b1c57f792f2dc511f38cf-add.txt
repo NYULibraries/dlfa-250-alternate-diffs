@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Amie Karp collection of tobacciana</field>
+     <field name="collection_unitid_ssm">PR 392</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"The Good Cigar: the Art of Cigar Smoking," Jeffers and Gordon, Lyons and Burford, New York, NY</field>
+-    <field name="unittitle_teim">"The Good Cigar: the Art of Cigar Smoking," Jeffers and Gordon, Lyons and Burford, New York, NY</field>
++    <field name="unittitle_ssm">&#34;The Good Cigar: the Art of Cigar Smoking,&#34; Jeffers and Gordon, Lyons and Burford, New York, NY</field>
++    <field name="unittitle_teim">&#34;The Good Cigar: the Art of Cigar Smoking,&#34; Jeffers and Gordon, Lyons and Burford, New York, NY</field>
+     <field name="unitdate_inclusive_teim">1996</field>
+     <field name="ref_ssi">aspace_0bc05040370b1c57f792f2dc511f38cf</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 9</field>
+     <field name="location_si">Box: 9</field>
+     <field name="collection_teim">Amie Karp collection of tobacciana</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 392</field>
+     <field name="series_sim">Series III: Reference Books</field>
+-    <field name="series_si">Series III: Reference Books &gt;&gt; "The Good Cigar: the Art of Cigar Smoking," Jeffers and Gordon, Lyons and Burford, New York, NY</field>
+-    <field name="heading_ssm">"The Good Cigar: the Art of Cigar Smoking," Jeffers and Gordon, Lyons and Burford, New York, NY</field>
++    <field name="series_si">Series III: Reference Books &gt;&gt; &#34;The Good Cigar: the Art of Cigar Smoking,&#34; Jeffers and Gordon, Lyons and Burford, New York, NY</field>
++    <field name="heading_ssm">&#34;The Good Cigar: the Art of Cigar Smoking,&#34; Jeffers and Gordon, Lyons and Burford, New York, NY</field>
+     <field name="unitdate_ssm">Inclusive, 1996</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>

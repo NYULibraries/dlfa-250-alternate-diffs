@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series VI: Published Volumes</field>
+     <field name="unittitle_teim">Series VI: Published Volumes</field>
+     <field name="unitdate_inclusive_teim">1920-1970</field>
+-    <field name="scopecontent_teim">This series consists of books and journals from Smith's personal library, the most significant of which are her books on silver and silversmiths. The publications are arranged by subject.</field>
++    <field name="scopecontent_teim">This series consists of books and journals from Smith&#39;s personal library, the most significant of which are her books on silver and silversmiths. The publications are arranged by subject.</field>
+     <field name="ref_ssi">aspace_0c41b70ec1d622af60eec3032d1b141a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Helen Burr Smith papers</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">MS 0573</field>
+     <field name="series_si">Series VI: Published Volumes</field>
+     <field name="heading_ssm">Series VI: Published Volumes</field>

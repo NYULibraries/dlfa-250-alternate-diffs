@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,14 +5,14 @@
+     <field name="ead_ssi">ms2997_saint_andrews_society</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+-    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_sim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="collection_ssm">Saint Andrew&#39;s Society of the State of New York records</field>
+     <field name="collection_unitid_ssm">MS 2997</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series III: Membership Records (RESTRICTIONS APPLY)</field>
+     <field name="unittitle_teim">Series III: Membership Records (RESTRICTIONS APPLY)</field>
+     <field name="unitdate_inclusive_teim">circa 1820-2000s</field>
+-    <field name="scopecontent_teim">Membership records contain information about the individuals who have belonged to the Saint Andrew's Society of the State of New York.</field>
++    <field name="scopecontent_teim">Membership records contain information about the individuals who have belonged to the Saint Andrew&#39;s Society of the State of New York.</field>
+     <field name="ref_ssi">aspace_ref4_psk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,7 +19,8 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
++    <field name="collection_teim">Saint Andrew&#39;s Society of the State of New York records</field>
++    <field name="author_teim">Luis Rodriguez</field>
+     <field name="collection_unitid_teim">MS 2997</field>
+     <field name="series_si">Series III: Membership Records (RESTRICTIONS APPLY)</field>
+     <field name="heading_ssm">Series III: Membership Records (RESTRICTIONS APPLY)</field>

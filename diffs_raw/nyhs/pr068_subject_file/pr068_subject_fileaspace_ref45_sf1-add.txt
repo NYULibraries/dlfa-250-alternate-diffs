@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">INDUSTRY</field>
+     <field name="unittitle_teim">INDUSTRY</field>
+-    <field name="scopecontent_teim">is divided into construction and printing industries. "Construction Industry" is entirely photographs of buildings under construction by the Turner Construction Company from 1917 through 1958.</field>
++    <field name="scopecontent_teim">is divided into construction and printing industries. &#34;Construction Industry&#34; is entirely photographs of buildings under construction by the Turner Construction Company from 1917 through 1958.</field>
+     <field name="ref_ssi">aspace_ref45_sf1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Subject File</field>
++    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+     <field name="collection_unitid_teim">PR 68</field>
+     <field name="series_sim">Series I: Boxed Files</field>
+     <field name="series_si">Series I: Boxed Files &gt;&gt; INDUSTRY</field>

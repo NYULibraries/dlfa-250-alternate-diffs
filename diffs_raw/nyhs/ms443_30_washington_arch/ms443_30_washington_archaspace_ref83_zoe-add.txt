@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VI: Drafts and Publications, 1893-1896</field>
+     <field name="unittitle_teim">Series VI: Drafts and Publications, 1893-1896</field>
+-    <field name="scopecontent_teim">This series contains the draft and published version of The History of the Washington Arch, a narrative text that tells the story of the Arch's beginnings, its main organizers, and the dedication ceremonies that followed. It also contains a 1892 Guide to New York Citythat includes a drawing and description of the Arch.</field>
++    <field name="scopecontent_teim">This series contains the draft and published version of The History of the Washington Arch, a narrative text that tells the story of the Arch&#39;s beginnings, its main organizers, and the dedication ceremonies that followed. It also contains a 1892 Guide to New York Citythat includes a drawing and description of the Arch.</field>
+     <field name="title_teim">The History of the Washington Arch</field>
+     <field name="title_teim">Guide to New York City</field>
+     <field name="title_ssm">The History of the Washington Arch</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Washington Arch records</field>
++    <field name="author_teim">Liz Arena</field>
+     <field name="collection_unitid_teim">MS 443.30</field>
+     <field name="series_si">Series VI: Drafts and Publications, 1893-1896</field>
+     <field name="heading_ssm">Series VI: Drafts and Publications, 1893-1896</field>

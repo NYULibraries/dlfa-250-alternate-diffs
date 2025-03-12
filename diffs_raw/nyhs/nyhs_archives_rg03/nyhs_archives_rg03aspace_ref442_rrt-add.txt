@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New-York Historical Society original buildings planning &amp; construction records</field>
+     <field name="collection_unitid_ssm">NYHS-RG 3</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Architects' Meeting Minutes (1 of 2)</field>
+-    <field name="unittitle_teim">Architects' Meeting Minutes (1 of 2)</field>
++    <field name="unittitle_ssm">Architects&#39; Meeting Minutes (1 of 2)</field>
++    <field name="unittitle_teim">Architects&#39; Meeting Minutes (1 of 2)</field>
+     <field name="unitdate_teim">1937-1938</field>
+     <field name="ref_ssi">aspace_ref442_rrt</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 22, Folder: 5</field>
+     <field name="location_si">Box: 22, Folder: 5</field>
+     <field name="collection_teim">New-York Historical Society original buildings planning &amp; construction records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 3</field>
+     <field name="series_sim">Series IV. Central Park West Construction: Expansion</field>
+     <field name="series_sim">Subseries IV.B. Construction Management Documents</field>
+-    <field name="series_si">Series IV. Central Park West Construction: Expansion &gt;&gt; Subseries IV.B. Construction Management Documents &gt;&gt; Architects' Meeting Minutes (1 of 2)</field>
+-    <field name="heading_ssm">Architects' Meeting Minutes (1 of 2)</field>
++    <field name="series_si">Series IV. Central Park West Construction: Expansion &gt;&gt; Subseries IV.B. Construction Management Documents &gt;&gt; Architects&#39; Meeting Minutes (1 of 2)</field>
++    <field name="heading_ssm">Architects&#39; Meeting Minutes (1 of 2)</field>
+     <field name="unitdate_ssm">1937-1938</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">326</field>

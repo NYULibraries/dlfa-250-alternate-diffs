@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,12 @@
+     <field name="collection_ssm">Oversize manuscripts collection</field>
+     <field name="collection_unitid_ssm">MS OS</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children's Aid Society award certificate</field>
+-    <field name="unittitle_teim">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children's Aid Society award certificate</field>
++    <field name="unittitle_ssm">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children&#39;s Aid Society award certificate</field>
++    <field name="unittitle_teim">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children&#39;s Aid Society award certificate</field>
+     <field name="unitdate_teim">1976, 1993</field>
+-    <field name="scopecontent_teim">Poster: The Big Apple / You have to be a little crazy to live in New York, but you'd be nuts to live anywhere else. April '76; inscribed "To my good friend Nick Scoppetta / With great affection and warm regards / Abe Beame."</field>
+-    <field name="scopecontent_teim">Award certificate: Children's Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993; with a reproduction of a historic photograph of children playing in a tenement-lined street.</field>
++    <field name="scopecontent_teim">Poster: The Big Apple / You have to be a little crazy to live in New York, but you&#39;d be nuts to live anywhere else. April &#39;76; inscribed &#34;To my good friend Nick Scoppetta / With great affection and warm regards / Abe Beame.&#34;
++</field>
++    <field name="scopecontent_teim">Award certificate: Children&#39;s Aid Society / Presented by the / Trustees / to / Nicholas Scoppetta / President / 1987-1993; with a reproduction of a historic photograph of children playing in a tenement-lined street.</field>
+     <field name="ref_ssi">aspace_ref543_n4a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,10 +28,11 @@
+     <field name="location_ssm">oversize: large</field>
+     <field name="location_si">oversize: large</field>
+     <field name="collection_teim">Oversize manuscripts collection</field>
++    <field name="author_teim">Catherine Newton and Audrey Belanger, with ongoing additions by others.</field>
+     <field name="collection_unitid_teim">MS OS</field>
+     <field name="series_sim">Series II. Oversize Manuscripts From Other Collections</field>
+-    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children's Aid Society award certificate</field>
+-    <field name="heading_ssm">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children's Aid Society award certificate</field>
++    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children&#39;s Aid Society award certificate</field>
++    <field name="heading_ssm">[Y-Scoppetta, Nicholas. Papers] Big Apple poster and Children&#39;s Aid Society award certificate</field>
+     <field name="unitdate_ssm">1976, 1993</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">453</field>

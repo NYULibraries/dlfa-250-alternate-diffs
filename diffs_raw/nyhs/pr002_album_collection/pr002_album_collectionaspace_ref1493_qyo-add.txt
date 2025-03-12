@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1901/1902</field>
+     <field name="unitdate_normal_sim">1901/1902</field>
+     <field name="unitdate_inclusive_teim">ca. 1901-1902</field>
+-    <field name="scopecontent_teim">Photograph album containing family snapshots, including views of New York City places and scenes. The family kept chickens and lived in a clapboard house with a porch. Possible in upper Manhattan, as other photographs show Grant's Tomb, the Soldier's and Sailor's Monument, and the beginning of construction on the cathedral Church of Saint John the Divine. Other photos show Central Park (including the zoo), the Williamsburg Bridge under construction, and boats on the Hudson River.</field>
++    <field name="scopecontent_teim">Photograph album containing family snapshots, including views of New York City places and scenes. The family kept chickens and lived in a clapboard house with a porch. Possible in upper Manhattan, as other photographs show Grant&#39;s Tomb, the Soldier&#39;s and Sailor&#39;s Monument, and the beginning of construction on the cathedral Church of Saint John the Divine. Other photos show Central Park (including the zoo), the Williamsburg Bridge under construction, and boats on the Hudson River.</field>
+     <field name="ref_ssi">aspace_ref1493_qyo</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 70, Volume: 432</field>
+     <field name="location_si">Offsite-Box: 70, Volume: 432</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[New York City photo album]</field>
+     <field name="heading_ssm">[New York City photo album]</field>

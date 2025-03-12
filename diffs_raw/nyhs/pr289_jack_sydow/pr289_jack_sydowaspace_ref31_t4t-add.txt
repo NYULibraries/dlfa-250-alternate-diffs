@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Magazines</field>
+     <field name="unittitle_teim">Magazines</field>
+     <field name="unitdate_teim">1944</field>
+-    <field name="scopecontent_teim">Contains multiple copies of Collier's from Nov. 18, 1944 andYank from Feb. 11, 1944. Magazines contain articles about Hump Happy.</field>
++    <field name="scopecontent_teim">Contains multiple copies of Collier&#39;s from Nov. 18, 1944 andYank from Feb. 11, 1944. Magazines contain articles about Hump Happy.</field>
+     <field name="ref_ssi">aspace_ref31_t4t</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 3, Folder: 1</field>
+     <field name="location_si">Box: 3, Folder: 1</field>
+     <field name="collection_teim">Jack Sydow Photographs and Papers Collection</field>
++    <field name="author_teim">Audrey Belanger</field>
+     <field name="collection_unitid_teim">PR 289</field>
+     <field name="series_sim">Series I: World War II</field>
+     <field name="series_sim">Subseries I.3: Documents</field>

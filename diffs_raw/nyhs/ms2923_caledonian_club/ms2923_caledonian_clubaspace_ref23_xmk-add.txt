@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series V: Charter, By-Laws, and Rules and Regulations</field>
+     <field name="unittitle_teim">Series V: Charter, By-Laws, and Rules and Regulations</field>
+     <field name="unitdate_teim">1861 - 2002</field>
+-    <field name="scopecontent_teim">This series includes the New York Caledonian Club's February 5, 1861 founding charter as well as the Club Rules and Regulations (1911) and By-Laws (2002).</field>
++    <field name="scopecontent_teim">This series includes the New York Caledonian Club&#39;s February 5, 1861 founding charter as well as the Club Rules and Regulations (1911) and By-Laws (2002).</field>
+     <field name="ref_ssi">aspace_ref23_xmk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York Caledonian Club records</field>
++    <field name="author_teim">Alison Dundy</field>
+     <field name="collection_unitid_teim">MS 2923</field>
+     <field name="series_si">Series V: Charter, By-Laws, and Rules and Regulations</field>
+     <field name="heading_ssm">Series V: Charter, By-Laws, and Rules and Regulations</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series V: Society for Establishing Useful Manufactures 1816</field>
+     <field name="unittitle_teim">Series V: Society for Establishing Useful Manufactures 1816</field>
+-    <field name="scopecontent_teim">This series includes legislation and an indenture regarding a transfer stock in the society, and reports and accounts regarding the society's real estate.</field>
++    <field name="scopecontent_teim">This series includes legislation and an indenture regarding a transfer stock in the society, and reports and accounts regarding the society&#39;s real estate.</field>
+     <field name="ref_ssi">aspace_ref120_eld</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 533</field>
+     <field name="series_si">Series V: Society for Establishing Useful Manufactures 1816</field>
+     <field name="heading_ssm">Series V: Society for Establishing Useful Manufactures 1816</field>

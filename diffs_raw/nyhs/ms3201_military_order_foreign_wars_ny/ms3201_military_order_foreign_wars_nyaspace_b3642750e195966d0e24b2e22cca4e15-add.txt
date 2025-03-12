@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Annual meeting documents</field>
+     <field name="unittitle_teim">Annual meeting documents</field>
+     <field name="unitdate_inclusive_teim">1901</field>
+-    <field name="scopecontent_teim">Includes the proceedings (stenographer's report) of the annual meeting; the Secretary's report at the meeting; and the Treasurer's report, with a list of companions in arrears.</field>
++    <field name="scopecontent_teim">Includes the proceedings (stenographer&#39;s report) of the annual meeting; the Secretary&#39;s report at the meeting; and the Treasurer&#39;s report, with a list of companions in arrears.</field>
+     <field name="ref_ssi">aspace_b3642750e195966d0e24b2e22cca4e15</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 4, Folder: 18</field>
+     <field name="location_si">Offsite-Box: 4, Folder: 18</field>
+     <field name="collection_teim">Military Order of Foreign Wars of the United States, New York Commandery records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3201</field>
+     <field name="series_sim">Series II. Organizational Records</field>
+     <field name="series_si">Series II. Organizational Records &gt;&gt; Annual meeting documents</field>

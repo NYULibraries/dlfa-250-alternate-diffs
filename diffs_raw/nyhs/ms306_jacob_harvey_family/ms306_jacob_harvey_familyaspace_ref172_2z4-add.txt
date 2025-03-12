@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Jacob Harvey family papers</field>
+     <field name="collection_unitid_ssm">MS 306</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Copy of J.M. Harvey's Will</field>
+-    <field name="unittitle_teim">Copy of J.M. Harvey's Will</field>
++    <field name="unittitle_ssm">Copy of J.M. Harvey&#39;s Will </field>
++    <field name="unittitle_teim">Copy of J.M. Harvey&#39;s Will </field>
+     <field name="unitdate_teim">1833</field>
+     <field name="ref_ssi">aspace_ref172_2z4</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 6, Folder: 16</field>
+     <field name="location_si">Offsite-Box: 6, Folder: 16</field>
+     <field name="collection_teim">Jacob Harvey family papers</field>
++    <field name="author_teim">Anne Boissonnault</field>
+     <field name="collection_unitid_teim">MS 306</field>
+     <field name="series_sim">Series II. Harvey Family Papers</field>
+     <field name="series_sim">Subseries II.A. Jacob Harvey Correspondence</field>
+-    <field name="series_si">Series II. Harvey Family Papers &gt;&gt; Subseries II.A. Jacob Harvey Correspondence &gt;&gt; Copy of J.M. Harvey's Will</field>
+-    <field name="heading_ssm">Copy of J.M. Harvey's Will</field>
++    <field name="series_si">Series II. Harvey Family Papers &gt;&gt; Subseries II.A. Jacob Harvey Correspondence &gt;&gt; Copy of J.M. Harvey&#39;s Will </field>
++    <field name="heading_ssm">Copy of J.M. Harvey&#39;s Will </field>
+     <field name="unitdate_ssm">1833</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

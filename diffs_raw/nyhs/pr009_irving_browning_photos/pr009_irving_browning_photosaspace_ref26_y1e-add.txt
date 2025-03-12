@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Browning photograph collection</field>
+     <field name="collection_unitid_ssm">PR 9</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Sunkist billboard, with Child's (restauraunt) billboard (2)</field>
+-    <field name="unittitle_teim">Sunkist billboard, with Child's (restauraunt) billboard (2)</field>
++    <field name="unittitle_ssm">Sunkist billboard, with Child&#39;s (restauraunt) billboard (2)</field>
++    <field name="unittitle_teim">Sunkist billboard, with Child&#39;s (restauraunt) billboard (2)</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref26_y1e</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Browning photograph collection</field>
++    <field name="author_teim">Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 9</field>
+     <field name="series_sim">Series I. Photographs</field>
+     <field name="series_sim">Advertising</field>
+-    <field name="series_si">Series I. Photographs &gt;&gt; Advertising &gt;&gt; Sunkist billboard, with Child's (restauraunt) billboard (2)</field>
+-    <field name="heading_ssm">Sunkist billboard, with Child's (restauraunt) billboard (2)</field>
++    <field name="series_si">Series I. Photographs &gt;&gt; Advertising &gt;&gt; Sunkist billboard, with Child&#39;s (restauraunt) billboard (2)</field>
++    <field name="heading_ssm">Sunkist billboard, with Child&#39;s (restauraunt) billboard (2)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

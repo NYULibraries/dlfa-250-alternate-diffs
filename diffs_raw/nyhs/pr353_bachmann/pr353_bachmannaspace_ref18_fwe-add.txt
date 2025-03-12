@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Central Park</field>
+     <field name="unittitle_teim">Central Park</field>
+     <field name="unitdate_teim">1863</field>
+-    <field name="scopecontent_teim">Bird's eye view with a series of smaller vignettes around the border. John Bachmann, artist. Printed by F. Heppenheimer. Published by John Bachmann, 76 Nassau Street, New York.</field>
++    <field name="scopecontent_teim">Bird&#39;s eye view with a series of smaller vignettes around the border. John Bachmann, artist. Printed by F. Heppenheimer.  Published by John Bachmann, 76 Nassau Street, New York.</field>
+     <field name="ref_ssi">aspace_ref18_fwe</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Folder: FF1</field>
+     <field name="location_si">Folder: FF1</field>
+     <field name="collection_teim">Collection of John Bachmann Prints</field>
++    <field name="author_teim">Marybeth Kavanagh</field>
+     <field name="collection_unitid_teim">PR 353</field>
+     <field name="series_sim">Series I: Views of New York</field>
+     <field name="series_si">Series I: Views of New York &gt;&gt; Central Park</field>

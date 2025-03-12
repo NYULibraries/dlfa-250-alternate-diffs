@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Ames, Louis Annin (Sons of the American Revolution, Empire State Society)</field>
+     <field name="unittitle_teim">Ames, Louis Annin (Sons of the American Revolution, Empire State Society)</field>
+     <field name="unitdate_teim">1913</field>
+-    <field name="scopecontent_teim">On committee together to conserve Thomas Jefferson's birthplace.</field>
++    <field name="scopecontent_teim">On committee together to conserve Thomas Jefferson&#39;s birthplace.</field>
+     <field name="ref_ssi">aspace_798082c6a8555dbd53e40229f4bade0e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">George F. Kunz papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 358</field>
+     <field name="series_si">Ames, Louis Annin (Sons of the American Revolution, Empire State Society)</field>
+     <field name="heading_ssm">Ames, Louis Annin (Sons of the American Revolution, Empire State Society)</field>

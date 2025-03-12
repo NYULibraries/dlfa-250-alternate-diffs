@@ -1,0 +1,16 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,9 +22,10 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">offsite-volume: 150</field>
+-    <field name="location_si">offsite-volume: 150</field>
++    <field name="location_ssm">offsite-volume: 150 </field>
++    <field name="location_si">offsite-volume: 150 </field>
+     <field name="collection_teim">Yonkers Police Department records</field>
++    <field name="author_teim">Francis Gestosoni</field>
+     <field name="collection_unitid_teim">MS 296</field>
+     <field name="series_sim">Series I: Yonkers Police Blotters</field>
+     <field name="series_si">Series I: Yonkers Police Blotters &gt;&gt; Blotter 1888</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">James Hazen Hyde papers</field>
+     <field name="collection_unitid_ssm">MS 319</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Franchet d'Esperey (Maréchal)</field>
+-    <field name="unittitle_teim">Franchet d'Esperey (Maréchal)</field>
++    <field name="unittitle_ssm">Franchet d&#39;Esperey (Maréchal)</field>
++    <field name="unittitle_teim">Franchet d&#39;Esperey (Maréchal)</field>
+     <field name="unitdate_inclusive_teim">1917-1918, 1933</field>
+     <field name="ref_ssi">aspace_56a28c937e734049ae87048779789cf1</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 24</field>
+     <field name="location_si">Box: 4, Folder: 24</field>
+     <field name="collection_teim">James Hazen Hyde papers</field>
++    <field name="author_teim">Larry Weimer, with Alec Ferretti, Jennifer Gargiulo, and Aaron Roffman</field>
+     <field name="collection_unitid_teim">MS 319</field>
+     <field name="series_sim">Series I. General Correspondence</field>
+-    <field name="series_si">Series I. General Correspondence &gt;&gt; Franchet d'Esperey (Maréchal)</field>
+-    <field name="heading_ssm">Franchet d'Esperey (Maréchal)</field>
++    <field name="series_si">Series I. General Correspondence &gt;&gt; Franchet d&#39;Esperey (Maréchal)</field>
++    <field name="heading_ssm">Franchet d&#39;Esperey (Maréchal)</field>
+     <field name="unitdate_ssm">Inclusive, 1917-1918, 1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">87</field>

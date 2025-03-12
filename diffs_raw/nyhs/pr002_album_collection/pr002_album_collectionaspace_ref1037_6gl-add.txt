@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1948/1948</field>
+     <field name="unitdate_normal_sim">1948/1948</field>
+     <field name="unitdate_inclusive_teim">1948</field>
+-    <field name="scopecontent_teim">Pam's Wedding album, 1948: larger format professional photographs of the wedding of Pam Fowler to Robert McKim.</field>
++    <field name="scopecontent_teim">Pam&#39;s Wedding album, 1948: larger format professional photographs of the wedding of Pam Fowler to Robert McKim.</field>
+     <field name="ref_ssi">aspace_ref1037_6gl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Offsite-Box: 56, Volume: 307.4</field>
+     <field name="location_si">Offsite-Box: 56, Volume: 307.4</field>
+     <field name="collection_teim">New-York Historical Society collection of albums</field>
++    <field name="author_teim">Janet Murray, with later additions by others</field>
+     <field name="collection_unitid_teim">PR 2</field>
+     <field name="series_si">[Robert Ludlow Fowler family albums, 1946-1951]</field>
+     <field name="heading_ssm">[Robert Ludlow Fowler family albums, 1946-1951]</field>

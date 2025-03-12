@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,10 +17,10 @@
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt; The Park Avenue Social Review&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The Park Avenue Social Review</field>
++    <field name="unittitle_teim"> The Park Avenue Social Review</field>
+     <field name="unitdate_teim">1932 May</field>
+-    <field name="title_teim">The Park Avenue Social Review</field>
+-    <field name="title_ssm">The Park Avenue Social Review</field>
++    <field name="title_teim"> The Park Avenue Social Review</field>
++    <field name="title_ssm"> The Park Avenue Social Review</field>
+     <field name="ref_ssi">aspace_ref1145_so3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 56, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 56, Folder: 5</field>
+     <field name="collection_teim">7th Regiment records</field>
++    <field name="author_teim">Maurita Baldock, Richard Fraser, Melissa Haley, Jan Hilley</field>
+     <field name="collection_unitid_teim">MS 556</field>
+     <field name="series_sim">Series XIII: Publications, 1811-1976</field>
+     <field name="series_sim">Subseries 2: Non-7th Regiment Publications</field>
+     <field name="series_si">Series XIII: Publications, 1811-1976 &gt;&gt; Subseries 2: Non-7th Regiment Publications &gt;&gt; &lt;em&gt; The Park Avenue Social Review&lt;/em&gt;</field>
+-    <field name="heading_ssm">The Park Avenue Social Review</field>
++    <field name="heading_ssm"> The Park Avenue Social Review</field>
+     <field name="unitdate_ssm">1932 May</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1101</field>

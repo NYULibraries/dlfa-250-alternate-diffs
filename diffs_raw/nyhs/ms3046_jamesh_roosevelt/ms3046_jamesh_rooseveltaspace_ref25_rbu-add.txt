@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Account Book</field>
+     <field name="unittitle_teim">Account Book</field>
+     <field name="unitdate_teim">1848-1853</field>
+-    <field name="scopecontent_teim">Appears to be a daily transaction journal of receipts (rents, interest, etc.) and expenses, including household expenses and services. The opening pages appear to be a form of address book listing tenants, servants, sweeps, etc. Nurses are listed and identified as being either "white" or "colored."</field>
++    <field name="scopecontent_teim">Appears to be a daily transaction journal of receipts (rents, interest, etc.) and expenses, including household expenses and services. The opening pages appear to be a form of address book listing tenants, servants, sweeps, etc. Nurses are listed and identified as being either &#34;white&#34; or &#34;colored.&#34;</field>
+     <field name="ref_ssi">aspace_ref25_rbu</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">James H. Roosevelt financial records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3046</field>
+     <field name="series_si">Account Book</field>
+     <field name="heading_ssm">Account Book</field>

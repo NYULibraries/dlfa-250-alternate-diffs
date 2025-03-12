@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Robinson Family Papers</field>
+     <field name="collection_unitid_ssm">MS 520, MS 2309</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Scrapbook, "Second Year Book, No. II"</field>
+-    <field name="unittitle_teim">Scrapbook, "Second Year Book, No. II"</field>
++    <field name="unittitle_ssm">Scrapbook, &#34;Second Year Book, No. II&#34;</field>
++    <field name="unittitle_teim">Scrapbook, &#34;Second Year Book, No. II&#34;</field>
+     <field name="unitdate_normal_ssm">1901/1901</field>
+     <field name="unitdate_normal_teim">1901/1901</field>
+     <field name="unitdate_normal_sim">1901/1901</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">Robinson Family Papers</field>
++    <field name="author_teim">Maurita Baldock</field>
+     <field name="collection_unitid_teim">MS 520, MS 2309</field>
+     <field name="series_sim">Series I: Pauline Lentilhon Robinson (1885-1959)</field>
+-    <field name="series_si">Series I: Pauline Lentilhon Robinson (1885-1959) &gt;&gt; Scrapbook, "Second Year Book, No. II"</field>
+-    <field name="heading_ssm">Scrapbook, "Second Year Book, No. II"</field>
++    <field name="series_si">Series I: Pauline Lentilhon Robinson (1885-1959) &gt;&gt; Scrapbook, &#34;Second Year Book, No. II&#34;</field>
++    <field name="heading_ssm">Scrapbook, &#34;Second Year Book, No. II&#34;</field>
+     <field name="unitdate_start_sim">1901</field>
+     <field name="unitdate_start_ssm">1901</field>
+     <field name="unitdate_start_si">1901</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Massachusetts Baby Show. [Political Candidates]</field>
+     <field name="unittitle_teim">Massachusetts Baby Show. [Political Candidates]</field>
+     <field name="unitdate_teim">1850</field>
+-    <field name="scopecontent_teim">Lithograph: J. Curtis Lith. N. York. The "babies" are identified in brown ink.</field>
++    <field name="scopecontent_teim">Lithograph: J. Curtis Lith. N. York. The &#34;babies&#34; are identified in brown ink.</field>
+     <field name="ref_ssi">aspace_b549bd9f5f411cdaa03e165679ccf10c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Folder: FF-68, item: 1850-13</field>
+     <field name="location_si">Folder: FF-68, item: 1850-13</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series IV. Antebellum Period</field>
+     <field name="series_si">Series IV. Antebellum Period &gt;&gt; Massachusetts Baby Show. [Political Candidates]</field>

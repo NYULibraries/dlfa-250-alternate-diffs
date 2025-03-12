@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Elton John</field>
+     <field name="unittitle_teim">Elton John</field>
+     <field name="unitdate_inclusive_teim">2007</field>
+-    <field name="scopecontent_teim">Contains sheet music for Philadelphia Freedom signed by Elton John and Bernie Taupin for Billie Jean King and invitation and setlist for Elton John's 60th birthday celebration concert at Madison Square Garden on March 25, 2007.</field>
++    <field name="scopecontent_teim">Contains sheet music for Philadelphia Freedom signed by Elton John and Bernie Taupin for Billie Jean King and invitation and setlist for Elton John&#39;s 60th birthday celebration concert at Madison Square Garden on March 25, 2007.</field>
+     <field name="ref_ssi">aspace_40d7c57398f44b022feaccd63f7ee989</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 16, Folder: 22</field>
+     <field name="location_si">Offsite-Box: 16, Folder: 22</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series III. Subject files</field>
+     <field name="series_sim">Subseries III.A. General subject files</field>

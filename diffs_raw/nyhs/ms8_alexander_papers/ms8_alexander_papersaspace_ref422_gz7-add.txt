@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series 9: Colony/State of New Jersey</field>
+     <field name="unittitle_teim">Series 9: Colony/State of New Jersey</field>
+     <field name="unitdate_inclusive_teim">1674-1787</field>
+-    <field name="scopecontent_teim">Series 9 consists of papers relating to the colony/state of New Jersey, including drafts of legislation, instructions to personnel of the Surveyor general's office, and copies of commissions issued to colony/state officials.</field>
++    <field name="scopecontent_teim">Series 9 consists of papers relating to the colony/state of New Jersey, including drafts of legislation, instructions to personnel of the Surveyor general&#39;s office, and copies of commissions issued to colony/state officials.</field>
+     <field name="ref_ssi">aspace_ref422_gz7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Alexander papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 8</field>
+     <field name="series_si">Series 9: Colony/State of New Jersey</field>
+     <field name="heading_ssm">Series 9: Colony/State of New Jersey</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Iselin family papers and photographs</field>
+     <field name="collection_unitid_ssm">MS 3076</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Album. "Mrs. Lewis Colford Jones"</field>
+-    <field name="unittitle_teim">Album. "Mrs. Lewis Colford Jones"</field>
++    <field name="unittitle_ssm">Album. &#34;Mrs. Lewis Colford Jones&#34;</field>
++    <field name="unittitle_teim">Album. &#34;Mrs. Lewis Colford Jones&#34;</field>
+     <field name="unitdate_inclusive_teim">1900</field>
+-    <field name="scopecontent_teim">An album of five studio portraits, plus two loose prints of Catherine Margaretta (Berryman) Jones (circa 1829–1910), Mrs. Lewis Colford Jones, mother of Edith Colford (Jones) Iselin (1854–1930).</field>
++    <field name="scopecontent_teim">An album of five studio portraits, plus two loose prints of  Catherine Margaretta (Berryman) Jones (circa 1829–1910), Mrs. Lewis Colford Jones, mother of Edith Colford (Jones) Iselin (1854–1930).</field>
+     <field name="ref_ssi">aspace_a678d508f82ce5a38a63a53f10939cb6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 3, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 3, Folder: 8</field>
+     <field name="collection_teim">Iselin family papers and photographs</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 3076</field>
+     <field name="series_sim">Series III. Photographs</field>
+-    <field name="series_si">Series III. Photographs &gt;&gt; Album. "Mrs. Lewis Colford Jones"</field>
+-    <field name="heading_ssm">Album. "Mrs. Lewis Colford Jones"</field>
++    <field name="series_si">Series III. Photographs &gt;&gt; Album. &#34;Mrs. Lewis Colford Jones&#34;</field>
++    <field name="heading_ssm">Album. &#34;Mrs. Lewis Colford Jones&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1900</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">28</field>

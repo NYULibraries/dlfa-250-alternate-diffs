@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Commodore J.W. Miller Lecture</field>
+     <field name="unittitle_teim">Commodore J.W. Miller Lecture</field>
+     <field name="unitdate_inclusive_teim">1911</field>
+-    <field name="scopecontent_teim">"New England's Interest in the Cape Cod Canal"</field>
++    <field name="scopecontent_teim">&#34;New England&#39;s Interest in the Cape Cod Canal&#34;</field>
+     <field name="ref_ssi">aspace_61e3e324d03ec92fe063c36d97d13d4f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 7, Folder: 20</field>
+     <field name="location_si">Offsite-Box: 7, Folder: 20</field>
+     <field name="collection_teim">New England Society in the City of New York records</field>
++    <field name="author_teim">Austin Davis</field>
+     <field name="collection_unitid_teim">MS 3113</field>
+     <field name="series_sim">Series VI. Event Records</field>
+     <field name="series_sim">Subseries VI.B. Other Events</field>

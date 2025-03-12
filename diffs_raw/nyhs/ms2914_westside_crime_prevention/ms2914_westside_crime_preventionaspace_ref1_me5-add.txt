@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1987/2002</field>
+     <field name="unitdate_normal_sim">1987/2002</field>
+     <field name="unitdate_inclusive_teim">1987-2002</field>
+-    <field name="scopecontent_teim">Series I consists entirely of the Westside Crime Prevention Program board meeting minutes and agendas, from 1984 to 2002. The meeting minutes and agendas deal primarily with the organization's program development, financial records, and community outreach.</field>
++    <field name="scopecontent_teim">Series I consists entirely of the Westside Crime Prevention Program board meeting minutes and agendas, from 1984 to 2002. The meeting minutes and agendas deal primarily with the organization&#39;s program development, financial records, and community outreach.</field>
+     <field name="ref_ssi">aspace_ref1_me5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Westside Crime Prevention Program records</field>
++    <field name="author_teim">Erin Shaw</field>
+     <field name="collection_unitid_teim">MS 2914</field>
+     <field name="series_si">Series I: Minutes and Agendas</field>
+     <field name="heading_ssm">Series I: Minutes and Agendas</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Minutes of the Board of Trustees</field>
+     <field name="unittitle_teim">Minutes of the Board of Trustees</field>
+     <field name="unitdate_inclusive_teim">1945</field>
+-    <field name="scopecontent_teim">Includes minutes and condolence letter to Eleanor Roosevelt regarding FDR's passing and membership.</field>
++    <field name="scopecontent_teim">Includes minutes and condolence letter to Eleanor Roosevelt regarding FDR&#39;s passing and membership.</field>
+     <field name="ref_ssi">aspace_ad2587eeb9144c6c83dbae5a459ee027</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 5</field>
+     <field name="collection_teim">City Club of New York records</field>
++    <field name="author_teim">Catherine Sheehan</field>
+     <field name="collection_unitid_teim">MS 116</field>
+     <field name="series_sim">Series II. Records and Correspondence Files</field>
+     <field name="series_sim">Subseries II.A. Trustee and Executive Committee Files</field>

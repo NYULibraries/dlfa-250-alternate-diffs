@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Above: Life in San Francisco. [Cut] Below: The King's Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
+-    <field name="unittitle_teim">Above: Life in San Francisco. [Cut] Below: The King's Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
++    <field name="unittitle_ssm">Above: Life in San Francisco. [Cut] Below: The King&#39;s Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
++    <field name="unittitle_teim">Above: Life in San Francisco. [Cut] Below: The King&#39;s Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
+     <field name="unitdate_teim">1851</field>
+     <field name="ref_ssi">aspace_bc77de8c929a43a9be1906231d5d3bc0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Folder: FF-69, item: 1851-9</field>
+     <field name="location_si">Folder: FF-69, item: 1851-9</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series IV. Antebellum Period</field>
+-    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Above: Life in San Francisco. [Cut] Below: The King's Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
+-    <field name="heading_ssm">Above: Life in San Francisco. [Cut] Below: The King's Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
++    <field name="series_si">Series IV. Antebellum Period &gt;&gt; Above: Life in San Francisco. [Cut] Below: The King&#39;s Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
++    <field name="heading_ssm">Above: Life in San Francisco. [Cut] Below: The King&#39;s Campaign or Removal of the Deposites. Composed and sung by Frank Ball [50 lines of verse beneath]</field>
+     <field name="unitdate_ssm">1851</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">606</field>

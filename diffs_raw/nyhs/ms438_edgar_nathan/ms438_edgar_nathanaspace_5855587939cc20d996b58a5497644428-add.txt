@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;New York Advancing: Victory Edition&lt;/em&gt;</field>
+     <field name="unittitle_teim">New York Advancing: Victory Edition</field>
+     <field name="unitdate_teim">1945</field>
+-    <field name="scopecontent_teim">Book on accomplishments of Mayor La Guardia's tenure, signed by Edgar J. Nathan, Jr. and contains much information about post-war construction in New York City.</field>
++    <field name="scopecontent_teim">Book on accomplishments of Mayor La Guardia&#39;s tenure, signed by Edgar J. Nathan, Jr. and contains much information about post-war construction in New York City.</field>
+     <field name="ref_ssi">aspace_5855587939cc20d996b58a5497644428</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 22</field>
+     <field name="location_si">Box: 1, Folder: 22</field>
+     <field name="collection_teim">Edgar J. Nathan, Jr. papers</field>
++    <field name="author_teim">Zora Arum</field>
+     <field name="collection_unitid_teim">MS 438</field>
+     <field name="series_sim">Series II. Manhattan Borough Presidency</field>
+     <field name="series_si">Series II. Manhattan Borough Presidency &gt;&gt; &lt;em&gt;New York Advancing: Victory Edition&lt;/em&gt;</field>

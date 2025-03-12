@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">ADVERTISEMENTS</field>
+     <field name="unittitle_teim">ADVERTISEMENTS</field>
+-    <field name="scopecontent_teim">is a chromolithographed poster of E. Carter &amp; Co.'s 1870 "Advertising Directory of the Principal Business Firms of Fishkill Landing, New York"</field>
++    <field name="scopecontent_teim">is a chromolithographed poster of E. Carter &amp; Co.&#39;s 1870 &#34;Advertising Directory of the Principal Business Firms of Fishkill Landing, New York&#34;</field>
+     <field name="ref_ssi">aspace_ref122_t5q</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Folder: x</field>
+     <field name="location_si">Folder: x</field>
+     <field name="collection_teim">Subject File</field>
++    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+     <field name="collection_unitid_teim">PR 68</field>
+     <field name="series_sim">Series III: Oversize Files</field>
+     <field name="series_si">Series III: Oversize Files &gt;&gt; ADVERTISEMENTS</field>

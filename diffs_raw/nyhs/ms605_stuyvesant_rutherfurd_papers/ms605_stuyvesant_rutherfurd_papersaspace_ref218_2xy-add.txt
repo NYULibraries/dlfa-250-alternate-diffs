@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Subseries 1: Gerardus Stuyvesant - Letters Received 1776</field>
+     <field name="unittitle_teim">Subseries 1: Gerardus Stuyvesant - Letters Received 1776</field>
+-    <field name="scopecontent_teim">One letter, August 21, 1776, from John Morin Scott. Scott answers Gerardus Stuyvesant's complaint that he has been driven from his house by the army, and has been forced to sleep in a barn.</field>
++    <field name="scopecontent_teim">One letter, August 21, 1776, from John Morin Scott. Scott answers Gerardus Stuyvesant&#39;s complaint that he has been driven from his house by the army, and has been forced to sleep in a barn.</field>
+     <field name="ref_ssi">aspace_ref218_2xy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Guide to the Stuyvesant-Rutherfurd Papers</field>
++    <field name="author_teim">Richard Fraser</field>
+     <field name="collection_unitid_teim">MS 605</field>
+     <field name="series_sim">Series XII: Gerardus Stuyvesant</field>
+     <field name="series_si">Series XII: Gerardus Stuyvesant &gt;&gt; Subseries 1: Gerardus Stuyvesant - Letters Received 1776</field>

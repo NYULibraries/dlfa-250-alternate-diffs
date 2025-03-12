@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Reginald Pelham Bolton. Fort Washington and Vicinity</field>
+     <field name="unittitle_teim">Reginald Pelham Bolton. Fort Washington and Vicinity</field>
+     <field name="unitdate_teim">[1904 April 5]</field>
+-    <field name="scopecontent_teim">Includes Bolton's address, the transmittal letter to Librarian Robert Kelby, and the meeting announcement.</field>
++    <field name="scopecontent_teim">Includes Bolton&#39;s address, the transmittal letter to Librarian Robert Kelby, and the meeting announcement.</field>
+     <field name="ref_ssi">aspace_ref18_0rg</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 7, Folder: 5</field>
+     <field name="location_si">Box: 7, Folder: 5</field>
+     <field name="collection_teim">New-York Historical Society manuscripts of lectures and addresses</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 11</field>
+     <field name="series_si">Reginald Pelham Bolton. Fort Washington and Vicinity</field>
+     <field name="heading_ssm">Reginald Pelham Bolton. Fort Washington and Vicinity</field>

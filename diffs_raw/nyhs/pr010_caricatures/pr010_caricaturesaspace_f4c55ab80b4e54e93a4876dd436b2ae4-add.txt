@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Imagerie d'Epinal cartoons</field>
+-    <field name="unittitle_teim">Imagerie d'Epinal cartoons</field>
++    <field name="unittitle_ssm">Imagerie d&#39;Epinal cartoons</field>
++    <field name="unittitle_teim">Imagerie d&#39;Epinal cartoons</field>
+     <field name="unitdate_teim">circa 1888</field>
+-    <field name="scopecontent_teim">Collection of Broadsides for Children, #1,9,21,38,40. "Printed expressly for the Humoristic Publishing Co., Kansas City, Mo." Imagerie d'Epinal--Pellerin, imp-edit.</field>
++    <field name="scopecontent_teim">Collection of Broadsides for Children, #1,9,21,38,40. &#34;Printed expressly for the Humoristic Publishing Co., Kansas City, Mo.&#34; Imagerie d&#39;Epinal--Pellerin, imp-edit.</field>
+     <field name="ref_ssi">aspace_f4c55ab80b4e54e93a4876dd436b2ae4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-119, item: 1888-No #</field>
+     <field name="location_si">Folder: FF-119, item: 1888-No #</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series VI. Late 19th Century</field>
+-    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Imagerie d'Epinal cartoons</field>
+-    <field name="heading_ssm">Imagerie d'Epinal cartoons</field>
++    <field name="series_si">Series VI. Late 19th Century &gt;&gt; Imagerie d&#39;Epinal cartoons</field>
++    <field name="heading_ssm">Imagerie d&#39;Epinal cartoons</field>
+     <field name="unitdate_ssm">circa 1888</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1158</field>

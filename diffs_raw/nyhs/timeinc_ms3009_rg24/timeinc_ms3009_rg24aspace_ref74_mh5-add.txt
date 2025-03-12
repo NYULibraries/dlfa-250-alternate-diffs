@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Publishing and Business Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 24</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Conference: "The Environment of Change"</field>
+-    <field name="unittitle_teim">Conference: "The Environment of Change"</field>
++    <field name="unittitle_ssm">Conference: &#34;The Environment of Change&#34;</field>
++    <field name="unittitle_teim">Conference: &#34;The Environment of Change&#34;</field>
+     <field name="unitid_teim">193193</field>
+     <field name="unitid_ssm">193193</field>
+     <field name="unitdate_inclusive_teim">1964</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 3131, Folder: 8</field>
+     <field name="location_si">Offsite-Box: 3131, Folder: 8</field>
+     <field name="collection_teim">Time Inc. Time Publishing and Business Records</field>
++    <field name="author_teim">Holly Deakyne and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 24</field>
+     <field name="series_sim">Series II. Office of the Business Manager Files</field>
+     <field name="series_sim">Subseries II.F. General Administrative Files</field>
+-    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; Conference: "The Environment of Change"</field>
+-    <field name="heading_ssm">Conference: "The Environment of Change"</field>
++    <field name="series_si">Series II. Office of the Business Manager Files &gt;&gt; Subseries II.F. General Administrative Files &gt;&gt; Conference: &#34;The Environment of Change&#34;</field>
++    <field name="heading_ssm">Conference: &#34;The Environment of Change&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">126</field>

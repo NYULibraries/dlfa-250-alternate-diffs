@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+     <field name="collection_unitid_ssm">MS 171</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"The Whole Book of Psalms." Reproduction of 1640 Title Page</field>
+-    <field name="unittitle_teim">"The Whole Book of Psalms." Reproduction of 1640 Title Page</field>
++    <field name="unittitle_ssm">&#34;The Whole Book of Psalms.&#34; Reproduction of 1640 Title Page </field>
++    <field name="unittitle_teim">&#34;The Whole Book of Psalms.&#34; Reproduction of 1640 Title Page </field>
+     <field name="unitdate_teim">1929</field>
+     <field name="scopecontent_teim">Number 114 of 200. Printed by Harpers Magazine.</field>
+     <field name="ref_ssi">aspace_54bf7cd941f7601b51346d6be7dfe966</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 28, Folder: 13</field>
+     <field name="location_si">Offsite-Box: 28, Folder: 13</field>
+     <field name="collection_teim">Dodd, Mead &amp; Company records</field>
++    <field name="author_teim">Sydney Bebon &amp; Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 171</field>
+     <field name="series_sim">Series VI. Books and Other Publications</field>
+-    <field name="series_si">Series VI. Books and Other Publications &gt;&gt; "The Whole Book of Psalms." Reproduction of 1640 Title Page</field>
+-    <field name="heading_ssm">"The Whole Book of Psalms." Reproduction of 1640 Title Page</field>
++    <field name="series_si">Series VI. Books and Other Publications &gt;&gt; &#34;The Whole Book of Psalms.&#34; Reproduction of 1640 Title Page </field>
++    <field name="heading_ssm">&#34;The Whole Book of Psalms.&#34; Reproduction of 1640 Title Page </field>
+     <field name="unitdate_ssm">1929</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">222</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">Isaac Hicks papers</field>
+     <field name="collection_unitid_ssm">MS 297</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Checks: Merchants Bank, and IOU's</field>
+-    <field name="unittitle_teim">Checks: Merchants Bank, and IOU's</field>
++    <field name="unittitle_ssm">Checks: Merchants Bank, and IOU&#39;s</field>
++    <field name="unittitle_teim">Checks: Merchants Bank, and IOU&#39;s</field>
+     <field name="unitdate_inclusive_teim">1796, 1802-1809</field>
+-    <field name="scopecontent_teim">This box contains canceled checks from the Merchants Bank. These checks are predominantly written by Isaac Hicks to his clients, however there are some checks written to "my note" which appears to be Hicks writing checks for cash. This box also includes promissory notes and other forms of IOU's written both to and by Hicks. These promissory notes include an amount of money to be paid, and the date by which the payment will be made.</field>
++    <field name="scopecontent_teim">This box contains canceled checks from the Merchants Bank.   These checks are predominantly written by Isaac Hicks to his clients, however there are some checks written to &#34;my note&#34; which appears to be Hicks writing checks for cash.  This box also includes promissory notes and other forms of IOU&#39;s written both to and by Hicks.  These promissory notes include an amount of money to be paid, and the date by which the payment will be made.</field>
+     <field name="ref_ssi">aspace_aa2cd9e23dfea5cc94eebb5c0ed304fa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 45</field>
+     <field name="location_si">Box: 45</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series II: Business Documents</field>
+-    <field name="series_si">Series II: Business Documents &gt;&gt; Checks: Merchants Bank, and IOU's</field>
+-    <field name="heading_ssm">Checks: Merchants Bank, and IOU's</field>
++    <field name="series_si">Series II: Business Documents &gt;&gt; Checks: Merchants Bank, and IOU&#39;s</field>
++    <field name="heading_ssm">Checks: Merchants Bank, and IOU&#39;s</field>
+     <field name="unitdate_ssm">Inclusive, 1796, 1802-1809</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">384</field>

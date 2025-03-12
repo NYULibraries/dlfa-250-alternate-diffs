@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Phase III: Conservation</field>
+     <field name="unittitle_teim">Phase III: Conservation</field>
+     <field name="unitdate_teim">circa 1997?</field>
+-    <field name="scopecontent_teim">Includes an undated statement of the "function and purpose of the Conservation Department."</field>
++    <field name="scopecontent_teim">Includes an undated statement of the &#34;function and purpose of the Conservation Department.&#34;</field>
+     <field name="ref_ssi">aspace_ref270_w5w</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 20, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 20, Folder: 1</field>
+     <field name="collection_teim">New-York Historical Society building renovations and maintenance records</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">NYHS-RG 4</field>
+     <field name="series_sim">Series II. 1990s Capital Improvement Projects</field>
+     <field name="series_sim">Subseries II.B. Construction Phases I-III</field>

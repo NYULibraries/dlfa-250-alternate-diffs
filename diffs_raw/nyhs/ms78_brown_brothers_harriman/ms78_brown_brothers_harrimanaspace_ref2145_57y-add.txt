@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Brown Brothers Harriman records</field>
+     <field name="collection_unitid_ssm">MS 78</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Boston partner Driver's home: Needham, Massachusetts</field>
+-    <field name="unittitle_teim">Boston partner Driver's home: Needham, Massachusetts</field>
++    <field name="unittitle_ssm">Boston partner Driver&#39;s home: Needham, Massachusetts</field>
++    <field name="unittitle_teim">Boston partner Driver&#39;s home: Needham, Massachusetts</field>
+     <field name="unitdate_teim">1965 July 13</field>
+     <field name="ref_ssi">aspace_ref2145_57y</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -31,12 +31,13 @@
+     <field name="location_ssm">Offsite-Box: 127, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 127, Folder: 3</field>
+     <field name="collection_teim">Brown Brothers Harriman records</field>
++    <field name="author_teim">Celia Hartmann. Machine readable finding aid created by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 78</field>
+     <field name="series_sim">Series VIII. Visual Material and Audio Tapes (1830s-1995)</field>
+     <field name="series_sim">Subseries B. Walker Evans Portfolio (1964-1967, 1975)</field>
+     <field name="series_sim">Subseries B.ii. Prints and captions (1964-1967)</field>
+-    <field name="series_si">Series VIII. Visual Material and Audio Tapes (1830s-1995) &gt;&gt; Subseries B. Walker Evans Portfolio (1964-1967, 1975) &gt;&gt; Subseries B.ii. Prints and captions (1964-1967) &gt;&gt; Boston partner Driver's home: Needham, Massachusetts</field>
+-    <field name="heading_ssm">Boston partner Driver's home: Needham, Massachusetts</field>
++    <field name="series_si">Series VIII. Visual Material and Audio Tapes (1830s-1995) &gt;&gt; Subseries B. Walker Evans Portfolio (1964-1967, 1975) &gt;&gt; Subseries B.ii. Prints and captions (1964-1967) &gt;&gt; Boston partner Driver&#39;s home: Needham, Massachusetts</field>
++    <field name="heading_ssm">Boston partner Driver&#39;s home: Needham, Massachusetts</field>
+     <field name="unitdate_ssm">1965 July 13</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2011</field>

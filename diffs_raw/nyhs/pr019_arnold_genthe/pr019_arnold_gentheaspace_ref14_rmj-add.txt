@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Arnold Genthe Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 19</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"A Corner Crowd - Chinatown, San Francisco, 1898"</field>
+-    <field name="unittitle_teim">"A Corner Crowd - Chinatown, San Francisco, 1898"</field>
++    <field name="unittitle_ssm">&#34;A Corner Crowd - Chinatown, San Francisco, 1898&#34;</field>
++    <field name="unittitle_teim">&#34;A Corner Crowd - Chinatown, San Francisco, 1898&#34;</field>
+     <field name="unitdate_normal_ssm">1898/1898</field>
+     <field name="unitdate_normal_teim">1898/1898</field>
+     <field name="unitdate_normal_sim">1898/1898</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Box: 1, Folder: 1</field>
+     <field name="location_si">Offsite-Box: 1, Box: 1, Folder: 1</field>
+     <field name="collection_teim">Arnold Genthe Photograph Collection</field>
++    <field name="author_teim">Chris Borris</field>
+     <field name="collection_unitid_teim">PR 19</field>
+     <field name="series_sim">Series I: San Francisco Chinatown</field>
+-    <field name="series_si">Series I: San Francisco Chinatown &gt;&gt; "A Corner Crowd - Chinatown, San Francisco, 1898"</field>
+-    <field name="heading_ssm">"A Corner Crowd - Chinatown, San Francisco, 1898"</field>
++    <field name="series_si">Series I: San Francisco Chinatown &gt;&gt; &#34;A Corner Crowd - Chinatown, San Francisco, 1898&#34;</field>
++    <field name="heading_ssm">&#34;A Corner Crowd - Chinatown, San Francisco, 1898&#34;</field>
+     <field name="unitdate_start_sim">1898</field>
+     <field name="unitdate_start_ssm">1898</field>
+     <field name="unitdate_start_si">1898</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New-York Historical Society general correspondence</field>
+     <field name="collection_unitid_ssm">NYHS-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Requests for "Reproductions of Famous Historical Personages &amp; Scenes" postcards</field>
+-    <field name="unittitle_teim">Requests for "Reproductions of Famous Historical Personages &amp; Scenes" postcards</field>
++    <field name="unittitle_ssm">Requests for &#34;Reproductions of Famous Historical Personages &amp; Scenes&#34; postcards</field>
++    <field name="unittitle_teim">Requests for &#34;Reproductions of Famous Historical Personages &amp; Scenes&#34; postcards</field>
+     <field name="unitdate_teim">1928-1939</field>
+-    <field name="scopecontent_teim">These postcards were submitted to the N-YHS from various schools and organizations requesting to be sent the illustrations from "Reproductions of Famous Historical Personages &amp; Scenes."</field>
++    <field name="scopecontent_teim">These postcards were submitted to the N-YHS from various schools and organizations requesting to be sent the illustrations from &#34;Reproductions of Famous Historical Personages &amp; Scenes.&#34;</field>
+     <field name="ref_ssi">aspace_ref5474_ops</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 357, cards: -</field>
+     <field name="location_si">Box: 357, cards: -</field>
+     <field name="collection_teim">New-York Historical Society general correspondence</field>
++    <field name="author_teim">Brynn White and Margaret Kaczorowski</field>
+     <field name="collection_unitid_teim">NYHS-RG 2</field>
+     <field name="series_sim">Series V. Topical Correspondence</field>
+-    <field name="series_si">Series V. Topical Correspondence &gt;&gt; Requests for "Reproductions of Famous Historical Personages &amp; Scenes" postcards</field>
+-    <field name="heading_ssm">Requests for "Reproductions of Famous Historical Personages &amp; Scenes" postcards</field>
++    <field name="series_si">Series V. Topical Correspondence &gt;&gt; Requests for &#34;Reproductions of Famous Historical Personages &amp; Scenes&#34; postcards</field>
++    <field name="heading_ssm">Requests for &#34;Reproductions of Famous Historical Personages &amp; Scenes&#34; postcards</field>
+     <field name="unitdate_ssm">1928-1939</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3499</field>

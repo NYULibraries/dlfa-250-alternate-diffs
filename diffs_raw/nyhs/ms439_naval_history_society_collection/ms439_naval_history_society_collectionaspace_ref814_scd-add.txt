@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Naval History Society collection</field>
+     <field name="collection_unitid_ssm">MS 439</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice"</field>
+-    <field name="unittitle_teim">"Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice"</field>
++    <field name="unittitle_ssm">&#34;Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice&#34;</field>
++    <field name="unittitle_teim">&#34;Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice&#34;</field>
+     <field name="unitdate_teim">1905 June</field>
+     <field name="ref_ssi">aspace_ref814_scd</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 3, Folder: 9</field>
+     <field name="location_si">Box: 3, Folder: 9</field>
+     <field name="collection_teim">Naval History Society collection</field>
++    <field name="author_teim">Processed by Celia Hartmann.</field>
+     <field name="collection_unitid_teim">MS 439</field>
+     <field name="series_sim">Series 21. Caspar F. Goodrich (1862-1933)</field>
+     <field name="series_sim">Subseries III. Writings (1901-1933)</field>
+-    <field name="series_si">Series 21. Caspar F. Goodrich (1862-1933) &gt;&gt; Subseries III. Writings (1901-1933) &gt;&gt; "Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice"</field>
+-    <field name="heading_ssm">"Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice"</field>
++    <field name="series_si">Series 21. Caspar F. Goodrich (1862-1933) &gt;&gt; Subseries III. Writings (1901-1933) &gt;&gt; &#34;Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice&#34;</field>
++    <field name="heading_ssm">&#34;Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice&#34;</field>
+     <field name="unitdate_ssm">1905 June</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">771</field>

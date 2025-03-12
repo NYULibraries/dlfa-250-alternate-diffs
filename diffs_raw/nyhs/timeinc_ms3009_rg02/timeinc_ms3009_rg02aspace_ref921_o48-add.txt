@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Time Inc. Bio Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">D'Orazio, Sante</field>
+-    <field name="unittitle_teim">D'Orazio, Sante</field>
++    <field name="unittitle_ssm">D&#39;Orazio, Sante</field>
++    <field name="unittitle_teim">D&#39;Orazio, Sante</field>
+     <field name="ref_ssi">aspace_ref921_o48</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">Offsite-Box: 322, Folder: 23</field>
+     <field name="location_si">Offsite-Box: 322, Folder: 23</field>
+     <field name="collection_teim">Time Inc. Bio Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, and Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 2</field>
+     <field name="series_sim">Names D</field>
+-    <field name="series_si">Names D &gt;&gt; D'Orazio, Sante</field>
+-    <field name="heading_ssm">D'Orazio, Sante</field>
++    <field name="series_si">Names D &gt;&gt; D&#39;Orazio, Sante</field>
++    <field name="heading_ssm">D&#39;Orazio, Sante</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1002</field>
+   </doc>

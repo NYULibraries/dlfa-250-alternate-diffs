@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Correspondence</field>
+     <field name="unittitle_teim">Correspondence</field>
+     <field name="unitdate_teim">1857</field>
+-    <field name="scopecontent_teim">Contains a printed circular dated 7 December 1857, "A Constitutional Paper Currency, Redeemable in Specie, on demand, beyond the possibility of Failure."</field>
++    <field name="scopecontent_teim">Contains a printed circular dated 7 December 1857, &#34;A Constitutional Paper Currency, Redeemable in Specie, on demand, beyond the possibility of Failure.&#34;</field>
+     <field name="ref_ssi">aspace_ref16_i5h</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 2, Folder: 1</field>
+     <field name="location_si">Box: 2, Folder: 1</field>
+     <field name="collection_teim">John Alsop King papers</field>
++    <field name="author_teim">Joseph Ditta</field>
+     <field name="collection_unitid_teim">MS 351</field>
+     <field name="series_sim">Box 2: Correspondence, 1857-1866</field>
+     <field name="series_si">Box 2: Correspondence, 1857-1866 &gt;&gt; Correspondence</field>

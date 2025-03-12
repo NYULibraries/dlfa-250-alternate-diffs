@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="unittitle_ssm">Subseries III.L:&lt;em&gt; Life Mexico&lt;/em&gt;</field>
+     <field name="unittitle_teim">Subseries III.L: Life Mexico</field>
+     <field name="unitdate_teim">1959, 1964</field>
+-    <field name="title_teim">Life Mexico</field>
+-    <field name="title_ssm">Life Mexico</field>
++    <field name="title_teim"> Life Mexico</field>
++    <field name="title_ssm"> Life Mexico</field>
+     <field name="ref_ssi">aspace_ref244_7vy</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Offsite-Box: 201</field>
+     <field name="location_si">Offsite-Box: 201</field>
+     <field name="collection_teim">Time Inc. Index Cards</field>
++    <field name="author_teim">Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 4</field>
+     <field name="series_sim">Series III: Life International</field>
+     <field name="series_si">Series III: Life International &gt;&gt; Subseries III.L:&lt;em&gt; Life Mexico&lt;/em&gt;</field>

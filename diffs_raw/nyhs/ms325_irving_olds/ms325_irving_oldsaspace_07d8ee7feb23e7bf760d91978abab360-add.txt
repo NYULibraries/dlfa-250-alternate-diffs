@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Genealogy, Keator Family</field>
+     <field name="unittitle_teim">Genealogy, Keator Family</field>
+     <field name="unitdate_inclusive_teim">1943-1961</field>
+-    <field name="scopecontent_teim">Contains documents pertaining to and narratives describing the history of Irving Olds's mother's family</field>
++    <field name="scopecontent_teim">Contains documents pertaining to and narratives describing the history of Irving Olds&#39;s mother&#39;s family</field>
+     <field name="ref_ssi">aspace_07d8ee7feb23e7bf760d91978abab360</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Offsite-Box: 11, Folder: 2</field>
+     <field name="location_si">Offsite-Box: 11, Folder: 2</field>
+     <field name="collection_teim">Irving S. Olds papers</field>
++    <field name="author_teim">Alec Ferretti</field>
+     <field name="collection_unitid_teim">MS 325</field>
+     <field name="series_sim">Series VI. Subject Files</field>
+     <field name="series_si">Series VI. Subject Files &gt;&gt; Genealogy, Keator Family</field>

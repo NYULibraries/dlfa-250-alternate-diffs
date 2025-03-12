@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Zayn sorority swatch</field>
+     <field name="unittitle_teim">Zayn sorority swatch</field>
+     <field name="unitdate_inclusive_teim">circa 1961</field>
+-    <field name="scopecontent_teim">Contains blue felt sorority swatch with "Z" insignia of the Zayn service sorority BJK belonged to while attending Long Beach Polytechnic High School.</field>
++    <field name="scopecontent_teim">Contains blue felt sorority swatch with &#34;Z&#34; insignia of the Zayn service sorority BJK belonged to while attending Long Beach Polytechnic High School.</field>
+     <field name="ref_ssi">aspace_112d37b2abb1c1ded90b4e5009822485</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 15</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 15</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series I. Early life and Moffitt family</field>
+     <field name="series_sim">Subseries I.A. Early life</field>

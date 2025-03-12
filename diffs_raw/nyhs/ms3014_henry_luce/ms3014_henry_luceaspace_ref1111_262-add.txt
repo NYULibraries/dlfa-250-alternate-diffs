@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Memoranda</field>
+     <field name="unittitle_teim">Memoranda</field>
+     <field name="unitdate_teim">1942</field>
+-    <field name="scopecontent_teim">Includes "Note on the Organization" of Time Inc., and HRL's report on his trip to England "England Revisited."</field>
++    <field name="scopecontent_teim">Includes &#34;Note on the Organization&#34; of Time Inc., and HRL&#39;s report on his trip to England &#34;England Revisited.&#34;</field>
+     <field name="ref_ssi">aspace_ref1111_262</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 54, Folder: 7</field>
+     <field name="location_si">Box: 54, Folder: 7</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series III. Notable Memoranda</field>
+     <field name="series_si">Series III. Notable Memoranda &gt;&gt; Memoranda</field>

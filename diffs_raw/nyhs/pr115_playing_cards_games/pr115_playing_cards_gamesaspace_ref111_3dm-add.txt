@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,14 @@
+     <field name="parent_unittitles_teim">Series III. German and Austrian Playing Cards</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Playing card and game collection</field>
+-    <field name="collection_ssm">Playing card and game collection</field>
++    <field name="collection_sim">Playing card and game collection
++</field>
++    <field name="collection_ssm">Playing card and game collection
++</field>
+     <field name="collection_unitid_ssm">PR 115</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Praeziosa's Orakelsprache Zweite Lieferung</field>
+-    <field name="unittitle_teim">Praeziosa's Orakelsprache Zweite Lieferung</field>
++    <field name="unittitle_ssm">Praeziosa&#39;s Orakelsprache Zweite Lieferung</field>
++    <field name="unittitle_teim">Praeziosa&#39;s Orakelsprache Zweite Lieferung</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref111_3dm</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -24,11 +26,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 8, Folder: 6</field>
+     <field name="location_si">Box: 8, Folder: 6</field>
+-    <field name="collection_teim">Playing card and game collection</field>
++    <field name="collection_teim">Playing card and game collection
++</field>
++    <field name="author_teim">Jason Burns</field>
+     <field name="collection_unitid_teim">PR 115</field>
+     <field name="series_sim">Series III. German and Austrian Playing Cards</field>
+-    <field name="series_si">Series III. German and Austrian Playing Cards &gt;&gt; Praeziosa's Orakelsprache Zweite Lieferung</field>
+-    <field name="heading_ssm">Praeziosa's Orakelsprache Zweite Lieferung</field>
++    <field name="series_si">Series III. German and Austrian Playing Cards &gt;&gt; Praeziosa&#39;s Orakelsprache Zweite Lieferung</field>
++    <field name="heading_ssm">Praeziosa&#39;s Orakelsprache Zweite Lieferung</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">109</field>

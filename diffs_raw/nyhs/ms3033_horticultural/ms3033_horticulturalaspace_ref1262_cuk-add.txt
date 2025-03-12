@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Men Who Sought and Found&lt;/em&gt; by Ethel W. McCool</field>
+     <field name="unittitle_teim">Men Who Sought and Found by Ethel W. McCool</field>
+     <field name="unitdate_teim">1940s?</field>
+-    <field name="scopecontent_teim">Compilation of articles on plant exploration written by McCool and originally published for the Hort's Bulletin.</field>
++    <field name="scopecontent_teim">Compilation of articles on plant exploration written by McCool and originally published for the Hort&#39;s Bulletin.</field>
+     <field name="ref_ssi">aspace_ref1262_cuk</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Offsite-Box: 86, Folder: 4</field>
+     <field name="location_si">Offsite-Box: 86, Folder: 4</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
++    <field name="author_teim">Joseph Ditta, Marybeth Kavanagh, &amp; Larry Weimer.</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series VI. Print Matter</field>
+     <field name="series_sim">Subseries VI.B. Other Hort Print Matter</field>

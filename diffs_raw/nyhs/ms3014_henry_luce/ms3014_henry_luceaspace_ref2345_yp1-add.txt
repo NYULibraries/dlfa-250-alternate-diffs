@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,10 +16,10 @@
+     <field name="collection_ssm">Henry R. Luce papers</field>
+     <field name="collection_unitid_ssm">MS 3014</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Rosenblatt, Sol A.</field>
+-    <field name="unittitle_teim">Rosenblatt, Sol A.</field>
++    <field name="unittitle_ssm">Rosenblatt, Sol A. </field>
++    <field name="unittitle_teim">Rosenblatt, Sol A. </field>
+     <field name="unitdate_teim">1952</field>
+-    <field name="scopecontent_teim">Includes a transcript of the Eleanor Morgan Satterlee Surrogate Court case and a statement made by Rosenblatt.</field>
++    <field name="scopecontent_teim">Includes a transcript of the Eleanor Morgan Satterlee  Surrogate Court case and a statement made by Rosenblatt.</field>
+     <field name="ref_ssi">aspace_ref2345_yp1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 100, Folder: 2</field>
+     <field name="location_si">Box: 100, Folder: 2</field>
+     <field name="collection_teim">Henry R. Luce papers</field>
++    <field name="author_teim">Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MS 3014</field>
+     <field name="series_sim">Series V. Subject Name Files</field>
+     <field name="series_sim">Subseries V.A. Name Files A</field>
+-    <field name="series_si">Series V. Subject Name Files &gt;&gt; Subseries V.A. Name Files A &gt;&gt; Rosenblatt, Sol A.</field>
+-    <field name="heading_ssm">Rosenblatt, Sol A.</field>
++    <field name="series_si">Series V. Subject Name Files &gt;&gt; Subseries V.A. Name Files A &gt;&gt; Rosenblatt, Sol A. </field>
++    <field name="heading_ssm">Rosenblatt, Sol A. </field>
+     <field name="unitdate_ssm">1952</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1332</field>

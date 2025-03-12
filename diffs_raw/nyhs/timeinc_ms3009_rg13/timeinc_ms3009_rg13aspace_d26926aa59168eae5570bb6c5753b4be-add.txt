@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Press: United States: &lt;em&gt;Time&lt;/em&gt;: Editions-Publisher's Letter</field>
+-    <field name="unittitle_teim">Press: United States: Time: Editions-Publisher's Letter</field>
++    <field name="unittitle_ssm">Press: United States: &lt;em&gt;Time&lt;/em&gt;: Editions-Publisher&#39;s Letter</field>
++    <field name="unittitle_teim">Press: United States: Time: Editions-Publisher&#39;s Letter</field>
+     <field name="unitdate_inclusive_teim">1943-1993</field>
+     <field name="title_teim">Time</field>
+     <field name="title_ssm">Time</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Offsite-Box: 2468, Folder: 1-39</field>
+     <field name="location_si">Offsite-Box: 2468, Folder: 1-39</field>
+     <field name="collection_teim">Time Inc. Time Research Center Files</field>
++    <field name="author_teim">Holly Deakyne, Samantha Brown, Melanie Rinehart</field>
+     <field name="collection_unitid_teim">MS 3009-RG 13</field>
+     <field name="series_sim">Series III. Subject Files</field>
+     <field name="series_sim">Press</field>
+-    <field name="series_si">Series III. Subject Files &gt;&gt; Press &gt;&gt; Press: United States: &lt;em&gt;Time&lt;/em&gt;: Editions-Publisher's Letter</field>
+-    <field name="heading_ssm">Press: United States: Time: Editions-Publisher's Letter</field>
++    <field name="series_si">Series III. Subject Files &gt;&gt; Press &gt;&gt; Press: United States: &lt;em&gt;Time&lt;/em&gt;: Editions-Publisher&#39;s Letter</field>
++    <field name="heading_ssm">Press: United States: Time: Editions-Publisher&#39;s Letter</field>
+     <field name="unitdate_ssm">Inclusive, 1943-1993</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6882</field>

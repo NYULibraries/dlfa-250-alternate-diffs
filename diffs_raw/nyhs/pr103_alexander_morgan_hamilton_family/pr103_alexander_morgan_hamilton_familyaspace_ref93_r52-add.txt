@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Alexander Morgan Hamilton family photograph collection</field>
+     <field name="collection_unitid_ssm">PR 103</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Hamilton, Alexander M. -- St. Paul's School, New Hampshire, graduation</field>
+-    <field name="unittitle_teim">Hamilton, Alexander M. -- St. Paul's School, New Hampshire, graduation</field>
++    <field name="unittitle_ssm">Hamilton, Alexander M. -- St. Paul&#39;s School, New Hampshire, graduation</field>
++    <field name="unittitle_teim">Hamilton, Alexander M. -- St. Paul&#39;s School, New Hampshire, graduation</field>
+     <field name="unitdate_normal_ssm">1921/1921</field>
+     <field name="unitdate_normal_teim">1921/1921</field>
+     <field name="unitdate_normal_sim">1921/1921</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 16, Folder: 42</field>
+     <field name="location_si">Box: 16, Folder: 42</field>
+     <field name="collection_teim">Alexander Morgan Hamilton family photograph collection</field>
++    <field name="author_teim">Processed by Jennifer Lewis</field>
+     <field name="collection_unitid_teim">PR 103</field>
+     <field name="series_sim">Series IV: Certificates</field>
+-    <field name="series_si">Series IV: Certificates &gt;&gt; Hamilton, Alexander M. -- St. Paul's School, New Hampshire, graduation</field>
+-    <field name="heading_ssm">Hamilton, Alexander M. -- St. Paul's School, New Hampshire, graduation</field>
++    <field name="series_si">Series IV: Certificates &gt;&gt; Hamilton, Alexander M. -- St. Paul&#39;s School, New Hampshire, graduation</field>
++    <field name="heading_ssm">Hamilton, Alexander M. -- St. Paul&#39;s School, New Hampshire, graduation</field>
+     <field name="unitdate_start_sim">1921</field>
+     <field name="unitdate_start_ssm">1921</field>
+     <field name="unitdate_start_si">1921</field>

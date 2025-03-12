@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref17_90m</field>
+     <field name="parent_ssm">aspace_ref11_psc</field>
+     <field name="parent_ssm">aspace_ref17_90m</field>
+-    <field name="parent_unittitles_ssm">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="parent_unittitles_ssm">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="parent_unittitles_ssm">Subseries II.B. Published Writings</field>
+-    <field name="parent_unittitles_teim">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="parent_unittitles_teim">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="parent_unittitles_teim">Subseries II.B. Published Writings</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Fundamentals</field>
+     <field name="unittitle_teim">Fundamentals</field>
+     <field name="unitdate_teim">1907</field>
+-    <field name="scopecontent_teim">Published by the Young Men's Christian Association Press.</field>
++    <field name="scopecontent_teim">Published by the Young Men&#39;s Christian Association Press.</field>
+     <field name="ref_ssi">aspace_ref91_tcl</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,8 +29,9 @@
+     <field name="location_ssm">Box: 3, Volume: 2</field>
+     <field name="location_si">Box: 3, Volume: 2</field>
+     <field name="collection_teim">Charles Edward Jefferson papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 3049</field>
+-    <field name="series_sim">Series I. Sermons, Lectures, &amp; Other Writings</field>
++    <field name="series_sim">Series I. Sermons, Lectures, &amp;amp; Other Writings</field>
+     <field name="series_sim">Subseries II.B. Published Writings</field>
+     <field name="series_si">Series I. Sermons, Lectures, &amp; Other Writings &gt;&gt; Subseries II.B. Published Writings &gt;&gt; Fundamentals</field>
+     <field name="heading_ssm">Fundamentals</field>

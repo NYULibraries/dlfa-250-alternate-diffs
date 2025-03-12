@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref575_juf</field>
+     <field name="parent_ssm">aspace_ref395_257</field>
+     <field name="parent_ssm">aspace_ref575_juf</field>
+-    <field name="parent_unittitles_ssm">Series II: Prints 16 x 20" to 30 x 40"</field>
++    <field name="parent_unittitles_ssm">Series II: Prints 16 x 20&amp;#34; to 30 x 40&amp;#34;</field>
+     <field name="parent_unittitles_ssm">Strickland, William (1788-1854)</field>
+-    <field name="parent_unittitles_teim">Series II: Prints 16 x 20" to 30 x 40"</field>
++    <field name="parent_unittitles_teim">Series II: Prints 16 x 20&amp;#34; to 30 x 40&amp;#34;</field>
+     <field name="parent_unittitles_teim">Strickland, William (1788-1854)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Printmaker File</field>
+     <field name="collection_unitid_ssm">PR 58</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Monumental Church at Richmond"</field>
+-    <field name="unittitle_teim">"Monumental Church at Richmond"</field>
++    <field name="unittitle_ssm">&#34;Monumental Church at Richmond&#34;</field>
++    <field name="unittitle_teim">&#34;Monumental Church at Richmond&#34;</field>
+     <field name="unitdate_teim">[1810]</field>
+     <field name="scopecontent_teim">perspective and engraving by Strickland, aquatinted by William Kneass, published by William Kneass</field>
+     <field name="ref_ssi">aspace_ref576_24l</field>
+@@ -26,14 +26,15 @@
+     <field name="repository_ssm">nyhs</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: Unknown container 916 for instance of "Monumental Church at Richmond", Folder: unknown container</field>
+-    <field name="location_si">Box: Unknown container 916 for instance of "Monumental Church at Richmond", Folder: unknown container</field>
++    <field name="location_ssm">Box: Unknown container 916 for instance of &#34;Monumental Church at Richmond&#34;, Folder: unknown container</field>
++    <field name="location_si">Box: Unknown container 916 for instance of &#34;Monumental Church at Richmond&#34;, Folder: unknown container</field>
+     <field name="collection_teim">Printmaker File</field>
++    <field name="author_teim">Jenny Gotwals. </field>
+     <field name="collection_unitid_teim">PR 58</field>
+-    <field name="series_sim">Series II: Prints 16 x 20" to 30 x 40"</field>
++    <field name="series_sim">Series II: Prints 16 x 20&amp;#34; to 30 x 40&amp;#34;</field>
+     <field name="series_sim">Strickland, William (1788-1854)</field>
+-    <field name="series_si">Series II: Prints 16 x 20" to 30 x 40" &gt;&gt; Strickland, William (1788-1854) &gt;&gt; "Monumental Church at Richmond"</field>
+-    <field name="heading_ssm">"Monumental Church at Richmond"</field>
++    <field name="series_si">Series II: Prints 16 x 20&#34; to 30 x 40&#34; &gt;&gt; Strickland, William (1788-1854) &gt;&gt; &#34;Monumental Church at Richmond&#34;</field>
++    <field name="heading_ssm">&#34;Monumental Church at Richmond&#34;</field>
+     <field name="unitdate_ssm">[1810]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">892</field>

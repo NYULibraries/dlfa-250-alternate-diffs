@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Gramercy Neighborhood Associates records</field>
+     <field name="collection_unitid_ssm">PR 370</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Gramercy Park's Illustrated Bulletin. This issue is dedicated to the New York World's Fair&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Gramercy Park's Illustrated Bulletin. This issue is dedicated to the New York World's Fair</field>
++    <field name="unittitle_ssm">&lt;em&gt;Gramercy Park&#39;s Illustrated Bulletin. This issue is dedicated to the New York World&#39;s Fair&lt;/em&gt;</field>
++    <field name="unittitle_teim">Gramercy Park&#39;s Illustrated Bulletin. This issue is dedicated to the New York World&#39;s Fair</field>
+     <field name="unitdate_inclusive_teim">1939</field>
+     <field name="ref_ssi">aspace_f362d3c88f252f06ee14f3d253e5f324</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 8, Folder: 11</field>
+     <field name="location_si">Box: 8, Folder: 11</field>
+     <field name="collection_teim">Gramercy Neighborhood Associates records</field>
++    <field name="author_teim">Zora Arum (2018) and Joseph Ditta (2020–2021)</field>
+     <field name="collection_unitid_teim">PR 370</field>
+     <field name="series_sim">Series V. Print matter</field>
+     <field name="series_sim">Subseries V.A. Books and pamphlets</field>
+-    <field name="series_si">Series V. Print matter &gt;&gt; Subseries V.A. Books and pamphlets &gt;&gt; &lt;em&gt;Gramercy Park's Illustrated Bulletin. This issue is dedicated to the New York World's Fair&lt;/em&gt;</field>
+-    <field name="heading_ssm">Gramercy Park's Illustrated Bulletin. This issue is dedicated to the New York World's Fair</field>
++    <field name="series_si">Series V. Print matter &gt;&gt; Subseries V.A. Books and pamphlets &gt;&gt; &lt;em&gt;Gramercy Park&#39;s Illustrated Bulletin. This issue is dedicated to the New York World&#39;s Fair&lt;/em&gt;</field>
++    <field name="heading_ssm">Gramercy Park&#39;s Illustrated Bulletin. This issue is dedicated to the New York World&#39;s Fair</field>
+     <field name="unitdate_ssm">Inclusive, 1939</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">130</field>

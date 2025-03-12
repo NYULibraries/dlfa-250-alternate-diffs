@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,10 +13,10 @@
+     <field name="collection_ssm">New York State National Guard, 9th Regiment collection</field>
+     <field name="collection_unitid_ssm">MS 3085</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ninth Regiment Veteran Corps.</field>
+-    <field name="unittitle_teim">Ninth Regiment Veteran Corps.</field>
++    <field name="unittitle_ssm">Ninth Regiment Veteran Corps. </field>
++    <field name="unittitle_teim">Ninth Regiment Veteran Corps. </field>
+     <field name="unitdate_inclusive_teim">1871-1906</field>
+-    <field name="scopecontent_teim">Photo album entitled "Members of the Ninth Regiment Veterans Corps., 83rd N.Y. Vols (1861-1865), 9th N.Y. Vols. (1898), May 27th, 1900" and consists of professional head shots, mostly cabinet cards.</field>
++    <field name="scopecontent_teim">Photo album entitled &#34;Members of the Ninth Regiment Veterans Corps., 83rd N.Y. Vols (1861-1865), 9th N.Y. Vols. (1898), May 27th, 1900&#34; and consists of professional head shots, mostly cabinet cards.</field>
+     <field name="ref_ssi">aspace_2a18420c47e338dedd8ee58d4ac875b3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 6</field>
+     <field name="location_si">Offsite-Box: 6</field>
+     <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
++    <field name="author_teim">Aki Synder</field>
+     <field name="collection_unitid_teim">MS 3085</field>
+     <field name="series_sim">Series V: Photograph Albums</field>
+-    <field name="series_si">Series V: Photograph Albums &gt;&gt; Ninth Regiment Veteran Corps.</field>
+-    <field name="heading_ssm">Ninth Regiment Veteran Corps.</field>
++    <field name="series_si">Series V: Photograph Albums &gt;&gt; Ninth Regiment Veteran Corps. </field>
++    <field name="heading_ssm">Ninth Regiment Veteran Corps. </field>
+     <field name="unitdate_ssm">Inclusive, 1871-1906</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">110</field>

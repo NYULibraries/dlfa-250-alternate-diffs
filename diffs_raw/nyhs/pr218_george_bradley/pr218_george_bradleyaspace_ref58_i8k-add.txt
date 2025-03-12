@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Colonel George W. Bradley collection of Civil War photographs</field>
+     <field name="collection_unitid_ssm">PR 218</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">View from Cobb's Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
+-    <field name="unittitle_teim">View from Cobb's Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
++    <field name="unittitle_ssm">View from Cobb&#39;s Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
++    <field name="unittitle_teim">View from Cobb&#39;s Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
+     <field name="unitdate_teim">1864 Dec.</field>
+     <field name="ref_ssi">aspace_ref58_i8k</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 11</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 11</field>
+     <field name="collection_teim">Colonel George W. Bradley collection of Civil War photographs</field>
++    <field name="author_teim">Sandra Markham</field>
+     <field name="collection_unitid_teim">PR 218</field>
+     <field name="series_sim">Series II: Point of Rocks on the Appomattox River, Virginia</field>
+-    <field name="series_si">Series II: Point of Rocks on the Appomattox River, Virginia &gt;&gt; View from Cobb's Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
+-    <field name="heading_ssm">View from Cobb's Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
++    <field name="series_si">Series II: Point of Rocks on the Appomattox River, Virginia &gt;&gt; View from Cobb&#39;s Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
++    <field name="heading_ssm">View from Cobb&#39;s Hill on Appomattox, Broadway Landing on the right, Hospital on the left</field>
+     <field name="unitdate_ssm">1864 Dec.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">44</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unittitle_ssm">Letters: De Bauque</field>
+     <field name="unittitle_teim">Letters: De Bauque</field>
+     <field name="unitdate_teim">1798</field>
+-    <field name="scopecontent_teim">This folder includes correspondence from the Brothers DeBauque to Isaac Hicks. Included is a list of debits and credits between Epaphras Jones and the Brothers De Bauque. There is also an "Articles of Agreement" document between Jones and De Bauque, and a French Language document. There are also multiple accounts of sales. Much of the correspondence is in regard to opening trade between the United States and France, as well as the goods, such as cotton, that were shipped between the two countries.</field>
++    <field name="scopecontent_teim">This folder includes correspondence from the Brothers DeBauque to Isaac Hicks.  Included is a list of debits and credits between Epaphras Jones and the Brothers De Bauque.  There is also an &#34;Articles of Agreement&#34; document between Jones and De Bauque, and a French Language document.  There are also multiple accounts of sales.  Much of the correspondence is in regard to opening trade between the United States and France, as well as the goods, such as cotton, that were shipped between the two countries.  </field>
+     <field name="scopecontent_teim">Ships Mentioned: Thomas, Suffolk</field>
+     <field name="ref_ssi">aspace_ref154_exr</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Box: 9, Folder: 7</field>
+     <field name="location_si">Box: 9, Folder: 7</field>
+     <field name="collection_teim">Isaac Hicks papers</field>
++    <field name="author_teim">Jennifer Gargiulo</field>
+     <field name="collection_unitid_teim">MS 297</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Letters: 1798 A-G</field>

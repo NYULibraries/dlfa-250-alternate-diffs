@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New-York Historical Society collection of caricatures and cartoons</field>
+     <field name="collection_unitid_ssm">PR 10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Fanny Ellsler's [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
+-    <field name="unittitle_teim">Fanny Ellsler's [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
++    <field name="unittitle_ssm">Fanny Ellsler&#39;s [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
++    <field name="unittitle_teim">Fanny Ellsler&#39;s [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
+     <field name="unitdate_teim">1840</field>
+     <field name="scopecontent_teim">Lithograph printed and published by H.R. Robinson, New York. Acquisition(?) date on front: May 29, 19/04.</field>
+     <field name="ref_ssi">aspace_3292368cf53266278f80963abd36ef42</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Folder: FF-47, item: 1840-1</field>
+     <field name="location_si">Folder: FF-47, item: 1840-1</field>
+     <field name="collection_teim">New-York Historical Society collection of caricatures and cartoons</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">PR 10</field>
+     <field name="series_sim">Series III. Jacksonian Period</field>
+-    <field name="series_si">Series III. Jacksonian Period &gt;&gt; Fanny Ellsler's [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
+-    <field name="heading_ssm">Fanny Ellsler's [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
++    <field name="series_si">Series III. Jacksonian Period &gt;&gt; Fanny Ellsler&#39;s [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
++    <field name="heading_ssm">Fanny Ellsler&#39;s [sic] Last Serenade, Or The Soap-Locks Disgraceful Attack upon the Germans [Social]</field>
+     <field name="unitdate_ssm">1840</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">408</field>

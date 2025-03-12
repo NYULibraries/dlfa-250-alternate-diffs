@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Weindorf subway collection</field>
+     <field name="collection_unitid_ssm">PR 127</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Transit Facilities in Vicinity of 34th and Broadway" [2 copies]</field>
+-    <field name="unittitle_teim">"Transit Facilities in Vicinity of 34th and Broadway" [2 copies]</field>
++    <field name="unittitle_ssm">&#34;Transit Facilities in Vicinity of 34th and Broadway&#34; [2 copies]</field>
++    <field name="unittitle_teim">&#34;Transit Facilities in Vicinity of 34th and Broadway&#34; [2 copies]</field>
+     <field name="unitdate_teim">1932</field>
+     <field name="ref_ssi">aspace_ref43_23c</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 1, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 1, Folder: 3</field>
+     <field name="collection_teim">Arthur Weindorf subway collection</field>
++    <field name="author_teim">Jenny Gotwals</field>
+     <field name="collection_unitid_teim">PR 127</field>
+     <field name="series_sim">Series I: Drawings and Illustrations</field>
+     <field name="series_sim">Subseries I.C. Tracks</field>
+-    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.C. Tracks &gt;&gt; "Transit Facilities in Vicinity of 34th and Broadway" [2 copies]</field>
+-    <field name="heading_ssm">"Transit Facilities in Vicinity of 34th and Broadway" [2 copies]</field>
++    <field name="series_si">Series I: Drawings and Illustrations &gt;&gt; Subseries I.C. Tracks &gt;&gt; &#34;Transit Facilities in Vicinity of 34th and Broadway&#34; [2 copies]</field>
++    <field name="heading_ssm">&#34;Transit Facilities in Vicinity of 34th and Broadway&#34; [2 copies]</field>
+     <field name="unitdate_ssm">1932</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">26</field>

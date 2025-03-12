@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundling Hospital records</field>
+     <field name="collection_unitid_ssm">MS 347</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Executive Director's Monthly Updates to staff and trustees (email printouts)</field>
+-    <field name="unittitle_teim">Executive Director's Monthly Updates to staff and trustees (email printouts)</field>
++    <field name="unittitle_ssm">Executive Director&#39;s Monthly Updates to staff and trustees (email printouts)</field>
++    <field name="unittitle_teim">Executive Director&#39;s Monthly Updates to staff and trustees (email printouts)</field>
+     <field name="unitdate_teim">2007 May 22 - 2009 April 3</field>
+     <field name="ref_ssi">aspace_ref960_rls</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 53, Folder: 12</field>
+     <field name="location_si">Offsite-Box: 53, Folder: 12</field>
+     <field name="collection_teim">New York Foundling Hospital records</field>
++    <field name="author_teim">Cherie Acierno</field>
+     <field name="collection_unitid_teim">MS 347</field>
+     <field name="series_sim">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009</field>
+     <field name="series_sim">Subseries VII.2. Newsletters, 1955-2009</field>
+-    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.2. Newsletters, 1955-2009 &gt;&gt; Executive Director's Monthly Updates to staff and trustees (email printouts)</field>
+-    <field name="heading_ssm">Executive Director's Monthly Updates to staff and trustees (email printouts)</field>
++    <field name="series_si">Series VII. Foundling Publications - Pamphlets, Appeals, Newsletters, 1909-2009 &gt;&gt; Subseries VII.2. Newsletters, 1955-2009 &gt;&gt; Executive Director&#39;s Monthly Updates to staff and trustees (email printouts)</field>
++    <field name="heading_ssm">Executive Director&#39;s Monthly Updates to staff and trustees (email printouts)</field>
+     <field name="unitdate_ssm">2007 May 22 - 2009 April 3</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">875</field>

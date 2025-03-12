@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,8 +18,9 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Drugs and Medicines</field>
+     <field name="unittitle_teim">Drugs and Medicines</field>
+-    <field name="scopecontent_teim">Vermifuges: Comstock's Dead Shot Pellets; Dr. Jayne's Tonic; Miscellaneous</field>
+-    <field name="scopecontent_teim">Vitamins: Pamphlets; Squibb; Unicap; Upjohn; Miscellaneous</field>
++    <field name="scopecontent_teim">Vermifuges: Comstock&#39;s Dead Shot Pellets; Dr. Jayne&#39;s Tonic; Miscellaneous</field>
++    <field name="scopecontent_teim">
++Vitamins: Pamphlets; Squibb; Unicap; Upjohn; Miscellaneous</field>
+     <field name="ref_ssi">aspace_ff0a5c9a84da04e3718cc6bbd256cbcf</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -29,6 +30,7 @@
+     <field name="location_ssm">Offsite-Box: 47</field>
+     <field name="location_si">Offsite-Box: 47</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

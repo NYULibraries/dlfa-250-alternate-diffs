@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Time Inc. Time Editorial Records</field>
+     <field name="collection_unitid_ssm">MS 3009-RG 7</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">1969: White House Correspondents' Dinner</field>
+-    <field name="unittitle_teim">1969: White House Correspondents' Dinner</field>
++    <field name="unittitle_ssm">1969: White House Correspondents&#39; Dinner</field>
++    <field name="unittitle_teim">1969: White House Correspondents&#39; Dinner</field>
+     <field name="unitdate_inclusive_teim">1969</field>
+     <field name="ref_ssi">aspace_213adde7143572e139f6523a085a980b</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Offsite-Box: 2444, Folder: 3</field>
+     <field name="location_si">Offsite-Box: 2444, Folder: 3</field>
+     <field name="collection_teim">Time Inc. Time Editorial Records</field>
++    <field name="author_teim">Holly Deakyne, Melanie Rinehart, and Samantha Brown</field>
+     <field name="collection_unitid_teim">MS 3009-RG 7</field>
+     <field name="series_sim">Series II.B. Executive Editor Edward Jamieson Files</field>
+     <field name="series_sim">Subseries II.B.2. Subject Files</field>
+-    <field name="series_si">Series II.B. Executive Editor Edward Jamieson Files &gt;&gt; Subseries II.B.2. Subject Files &gt;&gt; 1969: White House Correspondents' Dinner</field>
+-    <field name="heading_ssm">1969: White House Correspondents' Dinner</field>
++    <field name="series_si">Series II.B. Executive Editor Edward Jamieson Files &gt;&gt; Subseries II.B.2. Subject Files &gt;&gt; 1969: White House Correspondents&#39; Dinner</field>
++    <field name="heading_ssm">1969: White House Correspondents&#39; Dinner</field>
+     <field name="unitdate_ssm">Inclusive, 1969</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">314</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Harriet Oxman papers</field>
+     <field name="collection_unitid_ssm">MS 2922</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Roland H. Bainton. &lt;em&gt;Erasmus of Christendom&lt;/em&gt; (New York: Charles Scribner's Sons)</field>
+-    <field name="unittitle_teim">Roland H. Bainton. Erasmus of Christendom (New York: Charles Scribner's Sons)</field>
++    <field name="unittitle_ssm">Roland H. Bainton. &lt;em&gt;Erasmus of Christendom&lt;/em&gt; (New York: Charles Scribner&#39;s Sons)</field>
++    <field name="unittitle_teim">Roland H. Bainton. Erasmus of Christendom (New York: Charles Scribner&#39;s Sons)</field>
+     <field name="unitdate_inclusive_teim">1969</field>
+     <field name="scopecontent_teim">Book discarded from the Briarcliff High School Library, Briarcliff Manor, New York.</field>
+     <field name="ref_ssi">aspace_c3b93399464b2d3f14bf73364dd0a234</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Offsite-Box: 2, Folder: 14</field>
+     <field name="location_si">Offsite-Box: 2, Folder: 14</field>
+     <field name="collection_teim">Harriet Oxman papers</field>
++    <field name="author_teim">Joseph Ditta (2018, 2019)</field>
+     <field name="collection_unitid_teim">MS 2922</field>
+     <field name="series_sim">Series III. Print matter and ephemera</field>
+-    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; Roland H. Bainton. &lt;em&gt;Erasmus of Christendom&lt;/em&gt; (New York: Charles Scribner's Sons)</field>
+-    <field name="heading_ssm">Roland H. Bainton. Erasmus of Christendom (New York: Charles Scribner's Sons)</field>
++    <field name="series_si">Series III. Print matter and ephemera &gt;&gt; Roland H. Bainton. &lt;em&gt;Erasmus of Christendom&lt;/em&gt; (New York: Charles Scribner&#39;s Sons)</field>
++    <field name="heading_ssm">Roland H. Bainton. Erasmus of Christendom (New York: Charles Scribner&#39;s Sons)</field>
+     <field name="unitdate_ssm">Inclusive, 1969</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">27</field>

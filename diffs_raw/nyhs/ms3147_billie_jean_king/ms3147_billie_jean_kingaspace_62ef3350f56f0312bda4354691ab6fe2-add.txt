@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Billie Jean King collection</field>
+     <field name="collection_unitid_ssm">MS 3147</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Elton John "The Captain and the Kid" - CD</field>
+-    <field name="unittitle_teim">Elton John "The Captain and the Kid" - CD</field>
++    <field name="unittitle_ssm">Elton John &#34;The Captain and the Kid&#34; - CD</field>
++    <field name="unittitle_teim">Elton John &#34;The Captain and the Kid&#34; - CD</field>
+     <field name="unitdate_inclusive_teim">2006</field>
+     <field name="scopecontent_teim">Signed and inscribed by Elton John to BJK and Ilana Kloss on cover.</field>
+     <field name="ref_ssi">aspace_62ef3350f56f0312bda4354691ab6fe2</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Offsite-Box: 52</field>
+     <field name="location_si">Offsite-Box: 52</field>
+     <field name="collection_teim">Billie Jean King collection</field>
++    <field name="author_teim">Margaret Dalton</field>
+     <field name="collection_unitid_teim">MS 3147</field>
+     <field name="series_sim">Series IX. (RESTRICTED) Audiovisual and digital formats</field>
+     <field name="series_sim">Subseries IX.C. Optical disks [CDs and DVDs]</field>
+-    <field name="series_si">Series IX. (RESTRICTED) Audiovisual and digital formats &gt;&gt; Subseries IX.C. Optical disks [CDs and DVDs] &gt;&gt; Elton John "The Captain and the Kid" - CD</field>
+-    <field name="heading_ssm">Elton John "The Captain and the Kid" - CD</field>
++    <field name="series_si">Series IX. (RESTRICTED) Audiovisual and digital formats &gt;&gt; Subseries IX.C. Optical disks [CDs and DVDs] &gt;&gt; Elton John &#34;The Captain and the Kid&#34; - CD</field>
++    <field name="heading_ssm">Elton John &#34;The Captain and the Kid&#34; - CD</field>
+     <field name="unitdate_ssm">Inclusive, 2006</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">852</field>

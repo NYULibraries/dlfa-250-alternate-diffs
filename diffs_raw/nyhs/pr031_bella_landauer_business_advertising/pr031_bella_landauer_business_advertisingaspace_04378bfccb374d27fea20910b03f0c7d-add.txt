@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,14 +23,15 @@
+     <field name="scopecontent_teim">Eye treatments</field>
+     <field name="scopecontent_teim">Foot care</field>
+     <field name="scopecontent_teim">Corn treatments</field>
+-    <field name="scopecontent_teim">Liniments, ointments and salves:</field>
+-    <field name="scopecontent_teim">Dalley's Magical Pain Extractor</field>
++    <field name="scopecontent_teim">
++Liniments, ointments and salves:</field>
++    <field name="scopecontent_teim">Dalley&#39;s Magical Pain Extractor</field>
+     <field name="scopecontent_teim">Ma-le-na</field>
+     <field name="scopecontent_teim">Medicated soaps</field>
+-    <field name="scopecontent_teim">Merchant's Gargling Oil</field>
+-    <field name="scopecontent_teim">Minard's Liniment</field>
+-    <field name="scopecontent_teim">Renne's Magic Oil</field>
+-    <field name="scopecontent_teim">St. Jacob's Oil</field>
++    <field name="scopecontent_teim">Merchant&#39;s Gargling Oil</field>
++    <field name="scopecontent_teim">Minard&#39;s Liniment</field>
++    <field name="scopecontent_teim">Renne&#39;s Magic Oil</field>
++    <field name="scopecontent_teim">St. Jacob&#39;s Oil</field>
+     <field name="scopecontent_teim">Sapanule</field>
+     <field name="scopecontent_teim">Miscellaneous salves</field>
+     <field name="ref_ssi">aspace_04378bfccb374d27fea20910b03f0c7d</field>
+@@ -42,6 +43,7 @@
+     <field name="location_ssm">Offsite-Box: 34</field>
+     <field name="location_si">Offsite-Box: 34</field>
+     <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
++    <field name="author_teim">Processed by New-York Historical Society staff</field>
+     <field name="collection_unitid_teim">PR 31</field>
+     <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+     <field name="series_sim">Subseries I: SMALL EPHEMERA</field>

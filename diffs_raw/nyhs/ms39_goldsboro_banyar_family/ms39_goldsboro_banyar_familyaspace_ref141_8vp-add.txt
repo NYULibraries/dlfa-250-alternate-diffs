@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries I.7: Legal and estate papers</field>
+     <field name="unittitle_teim">Subseries I.7: Legal and estate papers</field>
+-    <field name="scopecontent_teim">This subseries includes bond and mortgage indentures, powers of attorney, decrees, orders, and various other legal documents relating to Banyar's personal and business affairs. Of particular interest is a bill of sale and manumissions papers for a slave. Also included are wills and estate papers of Banyar and other family members. In addition there are wills of other people connected to the family, including Lawrence Reade, who leaves an interesting bequest to Mary Barron, a "free mulatto woman in the Island of Jamaica," and her three children Sara Reade, Lawrence Reade and Ann Reade.</field>
++    <field name="scopecontent_teim">This subseries includes bond and mortgage indentures, powers of attorney, decrees, orders, and various other legal documents relating to Banyar&#39;s personal and business affairs.  Of particular interest is a bill of sale and manumissions papers for a slave.  Also included are wills and estate papers of Banyar and other family members.  In addition there are wills of other people connected to the family, including Lawrence Reade, who leaves an interesting bequest to Mary Barron, a &#34;free mulatto woman in the Island of Jamaica,&#34; and her three children Sara Reade, Lawrence Reade and Ann Reade.</field>
+     <field name="ref_ssi">aspace_ref141_8vp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Goldsboro Banyar and Banyar Family papers</field>
++    <field name="author_teim">Susan Kriete</field>
+     <field name="collection_unitid_teim">MS 39</field>
+     <field name="series_sim">Series I: Goldsboro Banyar</field>
+     <field name="series_si">Series I: Goldsboro Banyar &gt;&gt; Subseries I.7: Legal and estate papers</field>

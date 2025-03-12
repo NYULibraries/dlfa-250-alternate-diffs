@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Wilson, W.P. (Commercial Museum, Philadelphia)</field>
+     <field name="unittitle_teim">Wilson, W.P. (Commercial Museum, Philadelphia)</field>
+     <field name="unitdate_inclusive_teim">1924</field>
+-    <field name="scopecontent_teim">Letter from Museum Director Wilson describes the collection in response to Kunz's question of removing it to New York.</field>
++    <field name="scopecontent_teim">Letter from Museum Director Wilson describes the collection in response to Kunz&#39;s question of removing it to New York.</field>
+     <field name="ref_ssi">aspace_e174b19bbb2851f314b3071c68ca4d76</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -22,6 +22,7 @@
+     <field name="location_ssm">Box: 6, Folder: 7</field>
+     <field name="location_si">Box: 6, Folder: 7</field>
+     <field name="collection_teim">George F. Kunz papers</field>
++    <field name="author_teim">Alison Barr and Larry Weimer</field>
+     <field name="collection_unitid_teim">MS 358</field>
+     <field name="series_si">Wilson, W.P. (Commercial Museum, Philadelphia)</field>
+     <field name="heading_ssm">Wilson, W.P. (Commercial Museum, Philadelphia)</field>
