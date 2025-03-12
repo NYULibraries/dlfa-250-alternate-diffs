@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Engels, Frederick. &lt;em&gt;Historical Materialism.&lt;/em&gt; Socialist Labour Party, Glasgow.</field>
+-    <field name="unittitle_teim">Engels, Frederick. Historical Materialism. Socialist Labour Party, Glasgow.</field>
++    <field name="unittitle_ssm">Engels, Frederick. &lt;em&gt;Historical Materialism.&lt;/em&gt; Socialist Labour Party, Glasgow. </field>
++    <field name="unittitle_teim">Engels, Frederick. Historical Materialism. Socialist Labour Party, Glasgow. </field>
+     <field name="unitdate_normal_ssm">1902/1902</field>
+     <field name="unitdate_normal_teim">1902/1902</field>
+     <field name="unitdate_normal_sim">1902/1902</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 34, Folder: 8</field>
+     <field name="location_si">Box: 34, Folder: 8</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Engels, Frederick: Selected Teachings (9 pamphlets)</field>
+-    <field name="series_si">Engels, Frederick: Selected Teachings (9 pamphlets) &gt;&gt; Engels, Frederick. &lt;em&gt;Historical Materialism.&lt;/em&gt; Socialist Labour Party, Glasgow.</field>
+-    <field name="heading_ssm">Engels, Frederick. Historical Materialism. Socialist Labour Party, Glasgow.</field>
++    <field name="series_si">Engels, Frederick: Selected Teachings (9 pamphlets) &gt;&gt; Engels, Frederick. &lt;em&gt;Historical Materialism.&lt;/em&gt; Socialist Labour Party, Glasgow. </field>
++    <field name="heading_ssm">Engels, Frederick. Historical Materialism. Socialist Labour Party, Glasgow. </field>
+     <field name="unitdate_start_sim">1902</field>
+     <field name="unitdate_start_ssm">1902</field>
+     <field name="unitdate_start_si">1902</field>

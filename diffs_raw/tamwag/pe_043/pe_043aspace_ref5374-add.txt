@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pe_043</field>
+     <field name="parent_ssi">aspace_ref2786</field>
+     <field name="parent_ssm">aspace_ref2786</field>
+-    <field name="parent_unittitles_ssm">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
+-    <field name="parent_unittitles_teim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
++    <field name="parent_unittitles_ssm">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
++    <field name="parent_unittitles_teim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Reference Center for Marxist Studies Pamphlet Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Kalinin, M. &lt;em&gt;The Patriotic War of the Soviet People Against the German Invaders.&lt;/em&gt; Foreign Languages Publishing House, Moscow.</field>
+-    <field name="unittitle_teim">Kalinin, M. The Patriotic War of the Soviet People Against the German Invaders. Foreign Languages Publishing House, Moscow.</field>
++    <field name="unittitle_ssm">Kalinin, M. &lt;em&gt;The Patriotic War of the Soviet People Against the German Invaders.&lt;/em&gt; Foreign Languages Publishing House, Moscow. </field>
++    <field name="unittitle_teim">Kalinin, M. The Patriotic War of the Soviet People Against the German Invaders. Foreign Languages Publishing House, Moscow. </field>
+     <field name="unitdate_teim">1942</field>
+     <field name="ref_ssi">aspace_ref5374</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 114, Folder: 5</field>
+     <field name="location_si">Box: 114, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+-    <field name="series_sim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
+-    <field name="series_si">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors") &gt;&gt; Kalinin, M. &lt;em&gt;The Patriotic War of the Soviet People Against the German Invaders.&lt;/em&gt; Foreign Languages Publishing House, Moscow.</field>
+-    <field name="heading_ssm">Kalinin, M. The Patriotic War of the Soviet People Against the German Invaders. Foreign Languages Publishing House, Moscow.</field>
++    <field name="series_sim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
++    <field name="series_si">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &#34;Northern Neighbors&#34;) &gt;&gt; Kalinin, M. &lt;em&gt;The Patriotic War of the Soviet People Against the German Invaders.&lt;/em&gt; Foreign Languages Publishing House, Moscow. </field>
++    <field name="heading_ssm">Kalinin, M. The Patriotic War of the Soviet People Against the German Invaders. Foreign Languages Publishing House, Moscow. </field>
+     <field name="unitdate_ssm">1942</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5556</field>

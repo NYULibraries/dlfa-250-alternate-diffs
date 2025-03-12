@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pe_043</field>
+     <field name="parent_ssi">aspace_ref2851</field>
+     <field name="parent_ssm">aspace_ref2851</field>
+-    <field name="parent_unittitles_ssm">Women's Liberation I (3 pamphlets)</field>
+-    <field name="parent_unittitles_teim">Women's Liberation I (3 pamphlets)</field>
++    <field name="parent_unittitles_ssm">Women&amp;#39;s Liberation I (3 pamphlets)</field>
++    <field name="parent_unittitles_teim">Women&amp;#39;s Liberation I (3 pamphlets)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Reference Center for Marxist Studies Pamphlet Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Hall, Gus. &lt;em&gt;Working-Class Approach to Women's Liberation.&lt;/em&gt; New Outlook Publishers, New York, NY. (2 copies)</field>
+-    <field name="unittitle_teim">Hall, Gus. Working-Class Approach to Women's Liberation. New Outlook Publishers, New York, NY. (2 copies)</field>
++    <field name="unittitle_ssm">Hall, Gus. &lt;em&gt;Working-Class Approach to Women&#39;s Liberation.&lt;/em&gt; New Outlook Publishers, New York, NY. (2 copies)</field>
++    <field name="unittitle_teim">Hall, Gus. Working-Class Approach to Women&#39;s Liberation. New Outlook Publishers, New York, NY. (2 copies)</field>
+     <field name="unitdate_teim">1970</field>
+     <field name="ref_ssi">aspace_ref5755</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 122, Folder: 11</field>
+     <field name="location_si">Box: 122, Folder: 11</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+-    <field name="series_sim">Women's Liberation I (3 pamphlets)</field>
+-    <field name="series_si">Women's Liberation I (3 pamphlets) &gt;&gt; Hall, Gus. &lt;em&gt;Working-Class Approach to Women's Liberation.&lt;/em&gt; New Outlook Publishers, New York, NY. (2 copies)</field>
+-    <field name="heading_ssm">Hall, Gus. Working-Class Approach to Women's Liberation. New Outlook Publishers, New York, NY. (2 copies)</field>
++    <field name="series_sim">Women&amp;#39;s Liberation I (3 pamphlets)</field>
++    <field name="series_si">Women&#39;s Liberation I (3 pamphlets) &gt;&gt; Hall, Gus. &lt;em&gt;Working-Class Approach to Women&#39;s Liberation.&lt;/em&gt; New Outlook Publishers, New York, NY. (2 copies)</field>
++    <field name="heading_ssm">Hall, Gus. Working-Class Approach to Women&#39;s Liberation. New Outlook Publishers, New York, NY. (2 copies)</field>
+     <field name="unitdate_ssm">1970</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5942</field>

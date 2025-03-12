@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Mao Tse-Tung. &lt;em&gt;China's New Democracy. &lt;/em&gt;</field>
+-    <field name="unittitle_teim">Mao Tse-Tung. China's New Democracy.</field>
++    <field name="unittitle_ssm">Mao Tse-Tung. &lt;em&gt;China&#39;s New Democracy. &lt;/em&gt;</field>
++    <field name="unittitle_teim">Mao Tse-Tung. China&#39;s New Democracy. </field>
+     <field name="unitdate_normal_ssm">1943/1943</field>
+     <field name="unitdate_normal_teim">1943/1943</field>
+     <field name="unitdate_normal_sim">1943/1943</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 15, Folder: 6</field>
+     <field name="location_si">Box: 15, Folder: 6</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">China I (10 pamphlets)</field>
+-    <field name="series_si">China I (10 pamphlets) &gt;&gt; Mao Tse-Tung. &lt;em&gt;China's New Democracy. &lt;/em&gt;</field>
+-    <field name="heading_ssm">Mao Tse-Tung. China's New Democracy.</field>
++    <field name="series_si">China I (10 pamphlets) &gt;&gt; Mao Tse-Tung. &lt;em&gt;China&#39;s New Democracy. &lt;/em&gt;</field>
++    <field name="heading_ssm">Mao Tse-Tung. China&#39;s New Democracy. </field>
+     <field name="unitdate_start_sim">1943</field>
+     <field name="unitdate_start_ssm">1943</field>
+     <field name="unitdate_start_si">1943</field>

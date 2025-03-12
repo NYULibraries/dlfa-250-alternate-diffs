@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Aptheker, Herbert. &lt;em&gt;The Fraud of "Soviet Anti-Semitism."&lt;/em&gt; New Century Publishers, New York, NY (3 copies).</field>
+-    <field name="unittitle_teim">Aptheker, Herbert. The Fraud of "Soviet Anti-Semitism." New Century Publishers, New York, NY (3 copies).</field>
++    <field name="unittitle_ssm">Aptheker, Herbert. &lt;em&gt;The Fraud of &#34;Soviet Anti-Semitism.&#34;&lt;/em&gt; New Century Publishers, New York, NY (3 copies).</field>
++    <field name="unittitle_teim">Aptheker, Herbert. The Fraud of &#34;Soviet Anti-Semitism.&#34; New Century Publishers, New York, NY (3 copies).</field>
+     <field name="unitdate_normal_ssm">1962/1962</field>
+     <field name="unitdate_normal_teim">1962/1962</field>
+     <field name="unitdate_normal_sim">1962/1962</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 58, Folder: 1</field>
+     <field name="location_si">Box: 58, Folder: 1</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Jews: U.S.S.R. II (6 pamphlets and an open letter)</field>
+-    <field name="series_si">Jews: U.S.S.R. II (6 pamphlets and an open letter) &gt;&gt; Aptheker, Herbert. &lt;em&gt;The Fraud of "Soviet Anti-Semitism."&lt;/em&gt; New Century Publishers, New York, NY (3 copies).</field>
+-    <field name="heading_ssm">Aptheker, Herbert. The Fraud of "Soviet Anti-Semitism." New Century Publishers, New York, NY (3 copies).</field>
++    <field name="series_si">Jews: U.S.S.R. II (6 pamphlets and an open letter) &gt;&gt; Aptheker, Herbert. &lt;em&gt;The Fraud of &#34;Soviet Anti-Semitism.&#34;&lt;/em&gt; New Century Publishers, New York, NY (3 copies).</field>
++    <field name="heading_ssm">Aptheker, Herbert. The Fraud of &#34;Soviet Anti-Semitism.&#34; New Century Publishers, New York, NY (3 copies).</field>
+     <field name="unitdate_start_sim">1962</field>
+     <field name="unitdate_start_ssm">1962</field>
+     <field name="unitdate_start_si">1962</field>

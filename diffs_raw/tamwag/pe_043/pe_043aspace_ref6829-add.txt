@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Chervenkov, Vulko. &lt;em&gt;Seventh Anniversary of Bulgaria's Liberation from Fascism and Imperialist Yoke.&lt;/em&gt; Sofia Press, Sofia, Bulgaria.</field>
+-    <field name="unittitle_teim">Chervenkov, Vulko. Seventh Anniversary of Bulgaria's Liberation from Fascism and Imperialist Yoke. Sofia Press, Sofia, Bulgaria.</field>
++    <field name="unittitle_ssm">Chervenkov, Vulko. &lt;em&gt;Seventh Anniversary of Bulgaria&#39;s Liberation from Fascism and Imperialist Yoke.&lt;/em&gt; Sofia Press, Sofia, Bulgaria. </field>
++    <field name="unittitle_teim">Chervenkov, Vulko. Seventh Anniversary of Bulgaria&#39;s Liberation from Fascism and Imperialist Yoke. Sofia Press, Sofia, Bulgaria. </field>
+     <field name="unitdate_normal_ssm">1951/1951</field>
+     <field name="unitdate_normal_teim">1951/1951</field>
+     <field name="unitdate_normal_sim">1951/1951</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 12, Folder: 5</field>
+     <field name="location_si">Box: 12, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Bulgaria: Communist Party (8 pamphlets)</field>
+-    <field name="series_si">Bulgaria: Communist Party (8 pamphlets) &gt;&gt; Chervenkov, Vulko. &lt;em&gt;Seventh Anniversary of Bulgaria's Liberation from Fascism and Imperialist Yoke.&lt;/em&gt; Sofia Press, Sofia, Bulgaria.</field>
+-    <field name="heading_ssm">Chervenkov, Vulko. Seventh Anniversary of Bulgaria's Liberation from Fascism and Imperialist Yoke. Sofia Press, Sofia, Bulgaria.</field>
++    <field name="series_si">Bulgaria: Communist Party (8 pamphlets) &gt;&gt; Chervenkov, Vulko. &lt;em&gt;Seventh Anniversary of Bulgaria&#39;s Liberation from Fascism and Imperialist Yoke.&lt;/em&gt; Sofia Press, Sofia, Bulgaria. </field>
++    <field name="heading_ssm">Chervenkov, Vulko. Seventh Anniversary of Bulgaria&#39;s Liberation from Fascism and Imperialist Yoke. Sofia Press, Sofia, Bulgaria. </field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>
+     <field name="unitdate_start_si">1951</field>

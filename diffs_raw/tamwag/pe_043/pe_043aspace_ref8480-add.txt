@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Collector's Exchange.&lt;/em&gt; No. 9. Grand Rapids, MI.</field>
+-    <field name="unittitle_teim">Collector's Exchange. No. 9. Grand Rapids, MI.</field>
++    <field name="unittitle_ssm">&lt;em&gt;Collector&#39;s Exchange.&lt;/em&gt;  No. 9. Grand Rapids, MI. </field>
++    <field name="unittitle_teim">Collector&#39;s Exchange.  No. 9. Grand Rapids, MI. </field>
+     <field name="unitdate_normal_ssm">1975/1975</field>
+     <field name="unitdate_normal_teim">1975/1975</field>
+     <field name="unitdate_normal_sim">1975/1975</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 61, Folder: 5</field>
+     <field name="location_si">Box: 61, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Labor: Collectors Exchange (contains materials published by the Collectors Exchange)</field>
+-    <field name="series_si">Labor: Collectors Exchange (contains materials published by the Collectors Exchange) &gt;&gt; &lt;em&gt;Collector's Exchange.&lt;/em&gt; No. 9. Grand Rapids, MI.</field>
+-    <field name="heading_ssm">Collector's Exchange. No. 9. Grand Rapids, MI.</field>
++    <field name="series_si">Labor: Collectors Exchange (contains materials published by the Collectors Exchange) &gt;&gt; &lt;em&gt;Collector&#39;s Exchange.&lt;/em&gt;  No. 9. Grand Rapids, MI. </field>
++    <field name="heading_ssm">Collector&#39;s Exchange.  No. 9. Grand Rapids, MI. </field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>
+     <field name="unitdate_start_si">1975</field>

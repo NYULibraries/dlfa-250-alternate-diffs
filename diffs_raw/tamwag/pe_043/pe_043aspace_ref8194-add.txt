@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pe_043</field>
+     <field name="parent_ssi">aspace_ref2325</field>
+     <field name="parent_ssm">aspace_ref2325</field>
+-    <field name="parent_unittitles_ssm">International Women's Year (1975) (5 pamphlets)</field>
+-    <field name="parent_unittitles_teim">International Women's Year (1975) (5 pamphlets)</field>
++    <field name="parent_unittitles_ssm">International Women&amp;#39;s Year (1975) (5 pamphlets)</field>
++    <field name="parent_unittitles_teim">International Women&amp;#39;s Year (1975) (5 pamphlets)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Reference Center for Marxist Studies Pamphlet Collection</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 53, Folder: 2</field>
+     <field name="location_si">Box: 53, Folder: 2</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+-    <field name="series_sim">International Women's Year (1975) (5 pamphlets)</field>
+-    <field name="series_si">International Women's Year (1975) (5 pamphlets) &gt;&gt; Honecker, Erich. &lt;em&gt;Welcoming Address.&lt;/em&gt; Central Committee of the Socialist Unity Party of Germany, Berlin.</field>
++    <field name="series_sim">International Women&amp;#39;s Year (1975) (5 pamphlets)</field>
++    <field name="series_si">International Women&#39;s Year (1975) (5 pamphlets) &gt;&gt; Honecker, Erich. &lt;em&gt;Welcoming Address.&lt;/em&gt; Central Committee of the Socialist Unity Party of Germany, Berlin.</field>
+     <field name="heading_ssm">Honecker, Erich. Welcoming Address. Central Committee of the Socialist Unity Party of Germany, Berlin.</field>
+     <field name="unitdate_start_sim">1975</field>
+     <field name="unitdate_start_ssm">1975</field>

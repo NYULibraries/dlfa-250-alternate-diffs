@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Guevara, Ernesto "Che". &lt;em&gt;Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba.&lt;/em&gt; Editorial en Marcha, La Habana, Cuba.</field>
+-    <field name="unittitle_teim">Guevara, Ernesto "Che". Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba. Editorial en Marcha, La Habana, Cuba.</field>
++    <field name="unittitle_ssm">Guevara, Ernesto &#34;Che&#34;. &lt;em&gt;Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba.&lt;/em&gt; Editorial en Marcha, La Habana, Cuba.</field>
++    <field name="unittitle_teim">Guevara, Ernesto &#34;Che&#34;. Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba. Editorial en Marcha, La Habana, Cuba.</field>
+     <field name="unitdate_normal_ssm">1961/1961</field>
+     <field name="unitdate_normal_teim">1961/1961</field>
+     <field name="unitdate_normal_sim">1961/1961</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 26, Folder: 8</field>
+     <field name="location_si">Box: 26, Folder: 8</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Cuba: U.S.S.R. (4 pamphlets)</field>
+-    <field name="series_si">Cuba: U.S.S.R. (4 pamphlets) &gt;&gt; Guevara, Ernesto "Che". &lt;em&gt;Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba.&lt;/em&gt; Editorial en Marcha, La Habana, Cuba.</field>
+-    <field name="heading_ssm">Guevara, Ernesto "Che". Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba. Editorial en Marcha, La Habana, Cuba.</field>
++    <field name="series_si">Cuba: U.S.S.R. (4 pamphlets) &gt;&gt; Guevara, Ernesto &#34;Che&#34;. &lt;em&gt;Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba.&lt;/em&gt; Editorial en Marcha, La Habana, Cuba.</field>
++    <field name="heading_ssm">Guevara, Ernesto &#34;Che&#34;. Lectures on Economic Problems: The Role of Foreign Aid in the Development of Cuba. Editorial en Marcha, La Habana, Cuba.</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

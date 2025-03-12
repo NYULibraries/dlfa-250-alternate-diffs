@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Organizations</field>
+     <field name="collection_unitid_ssm">PE.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">United Labor and People's Committee for May Day</field>
+-    <field name="unittitle_teim">United Labor and People's Committee for May Day</field>
++    <field name="unittitle_ssm">United Labor and People&#39;s Committee for May Day</field>
++    <field name="unittitle_teim">United Labor and People&#39;s Committee for May Day</field>
+     <field name="unitdate_teim">1946-</field>
+     <field name="ref_ssi">aspace_ref3756</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 101</field>
+     <field name="location_si">Box: 101</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Organizations</field>
++    <field name="author_teim">Rebecca Altermatt and Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.036</field>
+     <field name="series_sim">U</field>
+-    <field name="series_si">U &gt;&gt; United Labor and People's Committee for May Day</field>
+-    <field name="heading_ssm">United Labor and People's Committee for May Day</field>
++    <field name="series_si">U &gt;&gt; United Labor and People&#39;s Committee for May Day</field>
++    <field name="heading_ssm">United Labor and People&#39;s Committee for May Day</field>
+     <field name="unitdate_ssm">1946-</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5704</field>

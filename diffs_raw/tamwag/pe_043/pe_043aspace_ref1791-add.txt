@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Canada's Women. &lt;/em&gt;Progress Books, Toronto.</field>
+-    <field name="unittitle_teim">Canada's Women. Progress Books, Toronto.</field>
++    <field name="unittitle_ssm">&lt;em&gt;Canada&#39;s Women. &lt;/em&gt;Progress Books, Toronto.</field>
++    <field name="unittitle_teim">Canada&#39;s Women. Progress Books, Toronto.</field>
+     <field name="unitdate_teim">1963</field>
+     <field name="ref_ssi">aspace_ref1791</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 14, Folder: 4</field>
+     <field name="location_si">Box: 14, Folder: 4</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Canada: Women (2 pamphlets)</field>
+-    <field name="series_si">Canada: Women (2 pamphlets) &gt;&gt; &lt;em&gt;Canada's Women. &lt;/em&gt;Progress Books, Toronto.</field>
+-    <field name="heading_ssm">Canada's Women. Progress Books, Toronto.</field>
++    <field name="series_si">Canada: Women (2 pamphlets) &gt;&gt; &lt;em&gt;Canada&#39;s Women. &lt;/em&gt;Progress Books, Toronto.</field>
++    <field name="heading_ssm">Canada&#39;s Women. Progress Books, Toronto.</field>
+     <field name="unitdate_ssm">1963</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">765</field>

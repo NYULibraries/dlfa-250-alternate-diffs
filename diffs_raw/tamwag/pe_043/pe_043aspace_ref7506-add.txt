@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Albertson, William. &lt;em&gt;The Trucks Act: Michigan's Blueprint for a Fascist State.&lt;/em&gt; New Century Publishers, New York, NY.</field>
+-    <field name="unittitle_teim">Albertson, William. The Trucks Act: Michigan's Blueprint for a Fascist State. New Century Publishers, New York, NY.</field>
++    <field name="unittitle_ssm">Albertson, William. &lt;em&gt;The Trucks Act: Michigan&#39;s Blueprint for a Fascist State.&lt;/em&gt; New Century Publishers, New York, NY.</field>
++    <field name="unittitle_teim">Albertson, William. The Trucks Act: Michigan&#39;s Blueprint for a Fascist State. New Century Publishers, New York, NY.</field>
+     <field name="unitdate_normal_ssm">1952/1952</field>
+     <field name="unitdate_normal_teim">1952/1952</field>
+     <field name="unitdate_normal_sim">1952/1952</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 36, Folder: 5</field>
+     <field name="location_si">Box: 36, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Fascism VI (13 pamphlets)</field>
+-    <field name="series_si">Fascism VI (13 pamphlets) &gt;&gt; Albertson, William. &lt;em&gt;The Trucks Act: Michigan's Blueprint for a Fascist State.&lt;/em&gt; New Century Publishers, New York, NY.</field>
+-    <field name="heading_ssm">Albertson, William. The Trucks Act: Michigan's Blueprint for a Fascist State. New Century Publishers, New York, NY.</field>
++    <field name="series_si">Fascism VI (13 pamphlets) &gt;&gt; Albertson, William. &lt;em&gt;The Trucks Act: Michigan&#39;s Blueprint for a Fascist State.&lt;/em&gt; New Century Publishers, New York, NY.</field>
++    <field name="heading_ssm">Albertson, William. The Trucks Act: Michigan&#39;s Blueprint for a Fascist State. New Century Publishers, New York, NY.</field>
+     <field name="unitdate_start_sim">1952</field>
+     <field name="unitdate_start_ssm">1952</field>
+     <field name="unitdate_start_si">1952</field>

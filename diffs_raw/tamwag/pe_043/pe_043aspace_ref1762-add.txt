@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Cacchione, Peter V. &lt;em&gt;Public Speaking a Speaker's Guide Book.&lt;/em&gt; Workers Library Publishers, New York, NY. (3 copies)</field>
+-    <field name="unittitle_teim">Cacchione, Peter V. Public Speaking a Speaker's Guide Book. Workers Library Publishers, New York, NY. (3 copies)</field>
++    <field name="unittitle_ssm">Cacchione, Peter V. &lt;em&gt;Public Speaking a Speaker&#39;s Guide Book.&lt;/em&gt; Workers Library Publishers, New York, NY. (3 copies)</field>
++    <field name="unittitle_teim">Cacchione, Peter V. Public Speaking a Speaker&#39;s Guide Book. Workers Library Publishers, New York, NY. (3 copies)</field>
+     <field name="unitdate_teim">1942</field>
+     <field name="ref_ssi">aspace_ref1762</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 12, Folder: 10</field>
+     <field name="location_si">Box: 12, Folder: 10</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Cacchione, Peter V. (4 pamphlets and an article)</field>
+-    <field name="series_si">Cacchione, Peter V. (4 pamphlets and an article) &gt;&gt; Cacchione, Peter V. &lt;em&gt;Public Speaking a Speaker's Guide Book.&lt;/em&gt; Workers Library Publishers, New York, NY. (3 copies)</field>
+-    <field name="heading_ssm">Cacchione, Peter V. Public Speaking a Speaker's Guide Book. Workers Library Publishers, New York, NY. (3 copies)</field>
++    <field name="series_si">Cacchione, Peter V. (4 pamphlets and an article) &gt;&gt; Cacchione, Peter V. &lt;em&gt;Public Speaking a Speaker&#39;s Guide Book.&lt;/em&gt; Workers Library Publishers, New York, NY. (3 copies)</field>
++    <field name="heading_ssm">Cacchione, Peter V. Public Speaking a Speaker&#39;s Guide Book. Workers Library Publishers, New York, NY. (3 copies)</field>
+     <field name="unitdate_ssm">1942</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">697</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Torrado, Osvaldo Dorticos. &lt;em&gt;Letter to the Students of Chile: "The Revolution has not betrayed Cuba; it has fulfilled its ideals."&lt;/em&gt; Ministry of Foreign Relations, Havana.</field>
+-    <field name="unittitle_teim">Torrado, Osvaldo Dorticos. Letter to the Students of Chile: "The Revolution has not betrayed Cuba; it has fulfilled its ideals." Ministry of Foreign Relations, Havana.</field>
++    <field name="unittitle_ssm">Torrado, Osvaldo Dorticos. &lt;em&gt;Letter to the Students of Chile: &#34;The Revolution has not betrayed Cuba; it has fulfilled its ideals.&#34;&lt;/em&gt; Ministry of Foreign Relations, Havana.</field>
++    <field name="unittitle_teim">Torrado, Osvaldo Dorticos. Letter to the Students of Chile: &#34;The Revolution has not betrayed Cuba; it has fulfilled its ideals.&#34; Ministry of Foreign Relations, Havana.</field>
+     <field name="unitdate_normal_ssm">1960/1960</field>
+     <field name="unitdate_normal_teim">1960/1960</field>
+     <field name="unitdate_normal_sim">1960/1960</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 15, Folder: 1</field>
+     <field name="location_si">Box: 15, Folder: 1</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Chile (21 pamphlets)</field>
+-    <field name="series_si">Chile (21 pamphlets) &gt;&gt; Torrado, Osvaldo Dorticos. &lt;em&gt;Letter to the Students of Chile: "The Revolution has not betrayed Cuba; it has fulfilled its ideals."&lt;/em&gt; Ministry of Foreign Relations, Havana.</field>
+-    <field name="heading_ssm">Torrado, Osvaldo Dorticos. Letter to the Students of Chile: "The Revolution has not betrayed Cuba; it has fulfilled its ideals." Ministry of Foreign Relations, Havana.</field>
++    <field name="series_si">Chile (21 pamphlets) &gt;&gt; Torrado, Osvaldo Dorticos. &lt;em&gt;Letter to the Students of Chile: &#34;The Revolution has not betrayed Cuba; it has fulfilled its ideals.&#34;&lt;/em&gt; Ministry of Foreign Relations, Havana.</field>
++    <field name="heading_ssm">Torrado, Osvaldo Dorticos. Letter to the Students of Chile: &#34;The Revolution has not betrayed Cuba; it has fulfilled its ideals.&#34; Ministry of Foreign Relations, Havana.</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Dutt, R. Palme. &lt;em&gt;The 'New Order' in Britain.&lt;/em&gt; Labour Monthly, London.</field>
+-    <field name="unittitle_teim">Dutt, R. Palme. The 'New Order' in Britain. Labour Monthly, London.</field>
++    <field name="unittitle_ssm">Dutt, R. Palme. &lt;em&gt;The &#39;New Order&#39; in Britain.&lt;/em&gt; Labour Monthly, London.</field>
++    <field name="unittitle_teim">Dutt, R. Palme. The &#39;New Order&#39; in Britain. Labour Monthly, London.</field>
+     <field name="unitdate_normal_ssm">1941/1941</field>
+     <field name="unitdate_normal_teim">1941/1941</field>
+     <field name="unitdate_normal_sim">1941/1941</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 44, Folder: 6</field>
+     <field name="location_si">Box: 44, Folder: 6</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Great Britain: Writings of R. Palme Dutt (17 pamphlets)</field>
+-    <field name="series_si">Great Britain: Writings of R. Palme Dutt (17 pamphlets) &gt;&gt; Dutt, R. Palme. &lt;em&gt;The 'New Order' in Britain.&lt;/em&gt; Labour Monthly, London.</field>
+-    <field name="heading_ssm">Dutt, R. Palme. The 'New Order' in Britain. Labour Monthly, London.</field>
++    <field name="series_si">Great Britain: Writings of R. Palme Dutt (17 pamphlets) &gt;&gt; Dutt, R. Palme. &lt;em&gt;The &#39;New Order&#39; in Britain.&lt;/em&gt; Labour Monthly, London.</field>
++    <field name="heading_ssm">Dutt, R. Palme. The &#39;New Order&#39; in Britain. Labour Monthly, London.</field>
+     <field name="unitdate_start_sim">1941</field>
+     <field name="unitdate_start_ssm">1941</field>
+     <field name="unitdate_start_si">1941</field>

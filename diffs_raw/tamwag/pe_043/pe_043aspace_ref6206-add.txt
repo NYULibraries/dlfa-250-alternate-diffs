@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pe_043</field>
+     <field name="parent_ssi">aspace_ref2850</field>
+     <field name="parent_ssm">aspace_ref2850</field>
+-    <field name="parent_unittitles_ssm">W.I.L.P.F. (contains congress documents for the Women's International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
+-    <field name="parent_unittitles_teim">W.I.L.P.F. (contains congress documents for the Women's International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
++    <field name="parent_unittitles_ssm">W.I.L.P.F. (contains congress documents for the Women&amp;#39;s International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
++    <field name="parent_unittitles_teim">W.I.L.P.F. (contains congress documents for the Women&amp;#39;s International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Reference Center for Marxist Studies Pamphlet Collection</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 122, Folder: 10</field>
+     <field name="location_si">Box: 122, Folder: 10</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+-    <field name="series_sim">W.I.L.P.F. (contains congress documents for the Women's International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
+-    <field name="series_si">W.I.L.P.F. (contains congress documents for the Women's International League for Peace and Freedom as well as an issue of Women of the Whole World) &gt;&gt; W.I.L.P.F.</field>
++    <field name="series_sim">W.I.L.P.F. (contains congress documents for the Women&amp;#39;s International League for Peace and Freedom as well as an issue of Women of the Whole World)</field>
++    <field name="series_si">W.I.L.P.F. (contains congress documents for the Women&#39;s International League for Peace and Freedom as well as an issue of Women of the Whole World) &gt;&gt; W.I.L.P.F.</field>
+     <field name="heading_ssm">W.I.L.P.F.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5940</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Jackson, James E.&lt;em&gt; The South's New Challenge.&lt;/em&gt; New Century Publishers, New York, NY. (3 copies)</field>
+-    <field name="unittitle_teim">Jackson, James E. The South's New Challenge. New Century Publishers, New York, NY. (3 copies)</field>
++    <field name="unittitle_ssm">Jackson, James E.&lt;em&gt; The South&#39;s New Challenge.&lt;/em&gt; New Century Publishers, New York, NY. (3 copies)</field>
++    <field name="unittitle_teim">Jackson, James E. The South&#39;s New Challenge. New Century Publishers, New York, NY. (3 copies)</field>
+     <field name="unitdate_teim">1957</field>
+     <field name="ref_ssi">aspace_ref4771</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 100, Folder: 5</field>
+     <field name="location_si">Box: 100, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">South (U.S.), the I (20 pamphlets)</field>
+-    <field name="series_si">South (U.S.), the I (20 pamphlets) &gt;&gt; Jackson, James E.&lt;em&gt; The South's New Challenge.&lt;/em&gt; New Century Publishers, New York, NY. (3 copies)</field>
+-    <field name="heading_ssm">Jackson, James E. The South's New Challenge. New Century Publishers, New York, NY. (3 copies)</field>
++    <field name="series_si">South (U.S.), the I (20 pamphlets) &gt;&gt; Jackson, James E.&lt;em&gt; The South&#39;s New Challenge.&lt;/em&gt; New Century Publishers, New York, NY. (3 copies)</field>
++    <field name="heading_ssm">Jackson, James E. The South&#39;s New Challenge. New Century Publishers, New York, NY. (3 copies)</field>
+     <field name="unitdate_ssm">1957</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4910</field>

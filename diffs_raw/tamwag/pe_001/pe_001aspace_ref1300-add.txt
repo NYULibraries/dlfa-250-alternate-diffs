@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+     <field name="collection_unitid_ssm">PE.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Seamen's Union of Australia</field>
+-    <field name="unittitle_teim">Seamen's Union of Australia</field>
++    <field name="unittitle_ssm">Seamen&#39;s Union of Australia</field>
++    <field name="unittitle_teim">Seamen&#39;s Union of Australia</field>
+     <field name="unitdate_normal_ssm">1948/1948</field>
+     <field name="unitdate_normal_teim">1948/1948</field>
+     <field name="unitdate_normal_sim">1948/1948</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 36</field>
+     <field name="location_si">Box: 36</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
++    <field name="author_teim">Rebecca Altermatt, Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.001</field>
+     <field name="series_sim">S</field>
+-    <field name="series_si">S &gt;&gt; Seamen's Union of Australia</field>
+-    <field name="heading_ssm">Seamen's Union of Australia</field>
++    <field name="series_si">S &gt;&gt; Seamen&#39;s Union of Australia</field>
++    <field name="heading_ssm">Seamen&#39;s Union of Australia</field>
+     <field name="unitdate_start_sim">1948</field>
+     <field name="unitdate_start_ssm">1948</field>
+     <field name="unitdate_start_si">1948</field>

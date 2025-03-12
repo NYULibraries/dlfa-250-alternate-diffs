@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Lin Piao. &lt;em&gt;The Victory of the Chinese People's Revolutionary War Is the Victory of the Thought of Mao Tse-tung.&lt;/em&gt; China Reconstructs, Hongqi, China.</field>
+-    <field name="unittitle_teim">Lin Piao. The Victory of the Chinese People's Revolutionary War Is the Victory of the Thought of Mao Tse-tung. China Reconstructs, Hongqi, China.</field>
++    <field name="unittitle_ssm">Lin Piao. &lt;em&gt;The Victory of the Chinese People&#39;s Revolutionary War Is the Victory of the Thought of Mao Tse-tung.&lt;/em&gt; China Reconstructs, Hongqi, China.</field>
++    <field name="unittitle_teim">Lin Piao. The Victory of the Chinese People&#39;s Revolutionary War Is the Victory of the Thought of Mao Tse-tung. China Reconstructs, Hongqi, China.</field>
+     <field name="unitdate_normal_ssm">1960/1960</field>
+     <field name="unitdate_normal_teim">1960/1960</field>
+     <field name="unitdate_normal_sim">1960/1960</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 17, Folder: 1</field>
+     <field name="location_si">Box: 17, Folder: 1</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">China: Communist Party (19 pamphlets)</field>
+-    <field name="series_si">China: Communist Party (19 pamphlets) &gt;&gt; Lin Piao. &lt;em&gt;The Victory of the Chinese People's Revolutionary War Is the Victory of the Thought of Mao Tse-tung.&lt;/em&gt; China Reconstructs, Hongqi, China.</field>
+-    <field name="heading_ssm">Lin Piao. The Victory of the Chinese People's Revolutionary War Is the Victory of the Thought of Mao Tse-tung. China Reconstructs, Hongqi, China.</field>
++    <field name="series_si">China: Communist Party (19 pamphlets) &gt;&gt; Lin Piao. &lt;em&gt;The Victory of the Chinese People&#39;s Revolutionary War Is the Victory of the Thought of Mao Tse-tung.&lt;/em&gt; China Reconstructs, Hongqi, China.</field>
++    <field name="heading_ssm">Lin Piao. The Victory of the Chinese People&#39;s Revolutionary War Is the Victory of the Thought of Mao Tse-tung. China Reconstructs, Hongqi, China.</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>
