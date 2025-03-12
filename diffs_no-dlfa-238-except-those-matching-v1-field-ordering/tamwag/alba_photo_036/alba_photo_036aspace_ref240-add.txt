@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Abraham Lincoln Brigade Archives: Small Photograph Collections</field>
+     <field name="collection_unitid_ssm">ALBA.PHOTO.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">People's Olympics: Olympians in Paris (after Barcelona)</field>
+-    <field name="unittitle_teim">People's Olympics: Olympians in Paris (after Barcelona)</field>
++    <field name="unittitle_ssm">People&#39;s Olympics: Olympians in Paris (after Barcelona)</field>
++    <field name="unittitle_teim">People&#39;s Olympics: Olympians in Paris (after Barcelona)</field>
+     <field name="unitdate_normal_ssm">1936/1936</field>
+     <field name="unitdate_normal_teim">1936/1936</field>
+     <field name="unitdate_normal_sim">1936/1936</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 51</field>
+     <field name="location_si">Box: 3, Folder: 51</field>
+     <field name="collection_teim">Abraham Lincoln Brigade Archives: Small Photograph Collections</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.036</field>
+     <field name="series_sim">Series XXVI: Irving Jenkins Collection</field>
+-    <field name="series_si">Series XXVI: Irving Jenkins Collection &gt;&gt; People's Olympics: Olympians in Paris (after Barcelona)</field>
+-    <field name="heading_ssm">People's Olympics: Olympians in Paris (after Barcelona)</field>
++    <field name="series_si">Series XXVI: Irving Jenkins Collection &gt;&gt; People&#39;s Olympics: Olympians in Paris (after Barcelona)</field>
++    <field name="heading_ssm">People&#39;s Olympics: Olympians in Paris (after Barcelona)</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>
+     <field name="unitdate_start_si">1936</field>

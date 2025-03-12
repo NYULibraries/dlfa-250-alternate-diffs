@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Alvah Bessie Papers</field>
+     <field name="collection_unitid_ssm">ALBA.024</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Film Proposal: "A Valley in Spain," by Ray Perez</field>
+-    <field name="unittitle_teim">Film Proposal: "A Valley in Spain," by Ray Perez</field>
++    <field name="unittitle_ssm">Film Proposal: &#34;A Valley in Spain,&#34; by Ray Perez</field>
++    <field name="unittitle_teim">Film Proposal: &#34;A Valley in Spain,&#34; by Ray Perez</field>
+     <field name="unitdate_normal_ssm">1983/1983</field>
+     <field name="unitdate_normal_teim">1983/1983</field>
+     <field name="unitdate_normal_sim">1983/1983</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 28</field>
+     <field name="location_si">Box: 5, Folder: 28</field>
+     <field name="collection_teim">Alvah Bessie Papers</field>
++    <field name="author_teim">Jessica Weglein, February 2005</field>
+     <field name="collection_unitid_teim">ALBA.024</field>
+     <field name="series_sim">Series IV: Subject Files, 1936-1985</field>
+-    <field name="series_si">Series IV: Subject Files, 1936-1985 &gt;&gt; Film Proposal: "A Valley in Spain," by Ray Perez</field>
+-    <field name="heading_ssm">Film Proposal: "A Valley in Spain," by Ray Perez</field>
++    <field name="series_si">Series IV: Subject Files, 1936-1985 &gt;&gt; Film Proposal: &#34;A Valley in Spain,&#34; by Ray Perez</field>
++    <field name="heading_ssm">Film Proposal: &#34;A Valley in Spain,&#34; by Ray Perez</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

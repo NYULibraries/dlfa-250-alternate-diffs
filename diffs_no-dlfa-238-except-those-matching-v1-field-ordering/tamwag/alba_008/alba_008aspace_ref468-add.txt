@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Steve Nelson Papers</field>
+     <field name="collection_unitid_ssm">ALBA.008</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Vogel, Sidney: "War Medicine" (essay on medical conditions and practice in Spain)</field>
+-    <field name="unittitle_teim">Vogel, Sidney: "War Medicine" (essay on medical conditions and practice in Spain)</field>
++    <field name="unittitle_ssm">Vogel, Sidney: &#34;War Medicine&#34; (essay on medical conditions and practice in Spain)</field>
++    <field name="unittitle_teim">Vogel, Sidney: &#34;War Medicine&#34; (essay on medical conditions and practice in Spain)</field>
+     <field name="unitdate_normal_ssm">1927/1947</field>
+     <field name="unitdate_normal_teim">1927/1947</field>
+     <field name="unitdate_normal_sim">1927/1947</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 11, Folder: 33</field>
+     <field name="location_si">Box: 11, Folder: 33</field>
+     <field name="collection_teim">Steve Nelson Papers</field>
++    <field name="author_teim">Jessica Weglein</field>
+     <field name="collection_unitid_teim">ALBA.008</field>
+     <field name="series_sim">Series VI: Subject Files</field>
+-    <field name="series_si">Series VI: Subject Files &gt;&gt; Vogel, Sidney: "War Medicine" (essay on medical conditions and practice in Spain)</field>
+-    <field name="heading_ssm">Vogel, Sidney: "War Medicine" (essay on medical conditions and practice in Spain)</field>
++    <field name="series_si">Series VI: Subject Files &gt;&gt; Vogel, Sidney: &#34;War Medicine&#34; (essay on medical conditions and practice in Spain)</field>
++    <field name="heading_ssm">Vogel, Sidney: &#34;War Medicine&#34; (essay on medical conditions and practice in Spain)</field>
+     <field name="unitdate_start_sim">1927</field>
+     <field name="unitdate_start_ssm">1927</field>
+     <field name="unitdate_start_si">1927</field>

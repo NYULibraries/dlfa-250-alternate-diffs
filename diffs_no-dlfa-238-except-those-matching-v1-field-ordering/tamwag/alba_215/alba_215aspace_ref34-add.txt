@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Jacob (Jack) Shafran Papers</field>
+     <field name="collection_unitid_ssm">ALBA.215</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Entin, Bernard "Butch" (to Ruth Goldstein)</field>
+-    <field name="unittitle_teim">Entin, Bernard "Butch" (to Ruth Goldstein)</field>
++    <field name="unittitle_ssm">Entin, Bernard &#34;Butch&#34; (to Ruth Goldstein)</field>
++    <field name="unittitle_teim">Entin, Bernard &#34;Butch&#34; (to Ruth Goldstein)</field>
+     <field name="unitdate_teim">Mar 1937</field>
+     <field name="ref_ssi">aspace_ref34</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 20</field>
+     <field name="location_si">Box: 1, Folder: 20</field>
+     <field name="collection_teim">Jacob (Jack) Shafran Papers</field>
++    <field name="author_teim">Jessica Weglein and Beth Compa</field>
+     <field name="collection_unitid_teim">ALBA.215</field>
+     <field name="series_sim">Series II: Correspondence: Third Party</field>
+-    <field name="series_si">Series II: Correspondence: Third Party &gt;&gt; Entin, Bernard "Butch" (to Ruth Goldstein)</field>
+-    <field name="heading_ssm">Entin, Bernard "Butch" (to Ruth Goldstein)</field>
++    <field name="series_si">Series II: Correspondence: Third Party &gt;&gt; Entin, Bernard &#34;Butch&#34; (to Ruth Goldstein)</field>
++    <field name="heading_ssm">Entin, Bernard &#34;Butch&#34; (to Ruth Goldstein)</field>
+     <field name="unitdate_ssm">Mar 1937</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">22</field>

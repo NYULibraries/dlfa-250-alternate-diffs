@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">David McKelvy White Papers</field>
+     <field name="collection_unitid_ssm">ALBA.070</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"American Volunteers in Spain" (transcript)</field>
+-    <field name="unittitle_teim">"American Volunteers in Spain" (transcript)</field>
++    <field name="unittitle_ssm">&#34;American Volunteers in Spain&#34; (transcript)</field>
++    <field name="unittitle_teim">&#34;American Volunteers in Spain&#34; (transcript)</field>
+     <field name="unitdate_teim">Jul 1938</field>
+     <field name="ref_ssi">aspace_ref15</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">David McKelvy White Papers</field>
++    <field name="author_teim">Wendy Scheir, September 2004</field>
+     <field name="collection_unitid_teim">ALBA.070</field>
+     <field name="series_sim">Series I</field>
+-    <field name="series_si">Series I &gt;&gt; "American Volunteers in Spain" (transcript)</field>
+-    <field name="heading_ssm">"American Volunteers in Spain" (transcript)</field>
++    <field name="series_si">Series I &gt;&gt; &#34;American Volunteers in Spain&#34; (transcript)</field>
++    <field name="heading_ssm">&#34;American Volunteers in Spain&#34; (transcript)</field>
+     <field name="unitdate_ssm">Jul 1938</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frances Patai Papers</field>
+     <field name="collection_unitid_ssm">ALBA.131</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Dolores Ibarruri, 'La Pasionaria' (1895-1998)... (Article)</field>
+-    <field name="unittitle_teim">Dolores Ibarruri, 'La Pasionaria' (1895-1998)... (Article)</field>
++    <field name="unittitle_ssm">Dolores Ibarruri, &#39;La Pasionaria&#39; (1895-1998)... (Article)</field>
++    <field name="unittitle_teim">Dolores Ibarruri, &#39;La Pasionaria&#39; (1895-1998)... (Article)</field>
+     <field name="unitdate_normal_ssm">1997-02-06/1997-02-06</field>
+     <field name="unitdate_normal_teim">1997-02-06/1997-02-06</field>
+     <field name="unitdate_normal_sim">1997-02-06/1997-02-06</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 2</field>
+     <field name="location_si">Box: 5, Folder: 2</field>
+     <field name="collection_teim">Frances Patai Papers</field>
++    <field name="author_teim">Angela Frattarola and Ted Casselman</field>
+     <field name="collection_unitid_teim">ALBA.131</field>
+     <field name="series_sim">Series II: Writings</field>
+-    <field name="series_si">Series II: Writings &gt;&gt; Dolores Ibarruri, 'La Pasionaria' (1895-1998)... (Article)</field>
+-    <field name="heading_ssm">Dolores Ibarruri, 'La Pasionaria' (1895-1998)... (Article)</field>
++    <field name="series_si">Series II: Writings &gt;&gt; Dolores Ibarruri, &#39;La Pasionaria&#39; (1895-1998)... (Article)</field>
++    <field name="heading_ssm">Dolores Ibarruri, &#39;La Pasionaria&#39; (1895-1998)... (Article)</field>
+     <field name="unitdate_ssm">1997-02-06</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>

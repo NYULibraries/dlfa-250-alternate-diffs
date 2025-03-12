@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">alba_photo_148</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Children's Colonies Photographs</field>
+-    <field name="collection_ssm">Children's Colonies Photographs</field>
++    <field name="collection_sim">Children&#39;s Colonies Photographs</field>
++    <field name="collection_ssm">Children&#39;s Colonies Photographs</field>
+     <field name="collection_unitid_ssm">ALBA.PHOTO.148</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Photographs</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Children's Colonies Photographs</field>
++    <field name="collection_teim">Children&#39;s Colonies Photographs</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.148</field>
+     <field name="series_si">Series I: Photographs</field>
+     <field name="heading_ssm">Series I: Photographs</field>
