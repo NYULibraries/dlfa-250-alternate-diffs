@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,8 +20,8 @@
+     <field name="unitid_ssm">SU-20.0</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/37993</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="persname_teim">Lenin, Vladimir Il'ich, 1870-1924</field>
+-    <field name="persname_ssm">Lenin, Vladimir Il'ich, 1870-1924</field>
++    <field name="persname_teim">Lenin, Vladimir Il&#39;ich, 1870-1924</field>
++    <field name="persname_ssm">Lenin, Vladimir Il&#39;ich, 1870-1924</field>
+     <field name="dao_teim">Union of Soviet Socialist Republics (USSR): Communist Party of USSR: undated</field>
+     <field name="dao_ssm">Union of Soviet Socialist Republics (USSR): Communist Party of USSR: undated</field>
+     <field name="ref_ssi">aspace_ref389</field>
+@@ -32,10 +32,11 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Flat-File-Folder: 16</field>
+     <field name="location_si">Flat-File-Folder: 16</field>
+-    <field name="name_sim">Lenin, Vladimir Il'ich, 1870-1924</field>
+-    <field name="name_teim">Lenin, Vladimir Il'ich, 1870-1924</field>
++    <field name="name_sim">Lenin, Vladimir Il&#39;ich, 1870-1924</field>
++    <field name="name_teim">Lenin, Vladimir Il&#39;ich, 1870-1924</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series II: Other Countries</field>
+     <field name="series_si">Series II: Other Countries &gt;&gt; Union of Soviet Socialist Republics (USSR): Communist Party of USSR</field>

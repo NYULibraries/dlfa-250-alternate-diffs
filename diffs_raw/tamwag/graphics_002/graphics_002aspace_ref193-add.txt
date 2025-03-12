@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,10 +20,10 @@
+     <field name="unitid_ssm">US-112.0</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/37896</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="corpname_teim">Workmen's Circle (U.S.)</field>
+-    <field name="corpname_teim">International Ladies' Garment Workers' Union</field>
+-    <field name="corpname_ssm">Workmen's Circle (U.S.)</field>
+-    <field name="corpname_ssm">International Ladies' Garment Workers' Union</field>
++    <field name="corpname_teim">Workmen&#39;s Circle (U.S.)</field>
++    <field name="corpname_teim">International Ladies&#39; Garment Workers&#39; Union</field>
++    <field name="corpname_ssm">Workmen&#39;s Circle (U.S.)</field>
++    <field name="corpname_ssm">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="persname_teim">Thomas, Norman, 1884-1968</field>
+     <field name="persname_teim">London, Meyer, 1871-1926</field>
+     <field name="persname_teim">Debs, Eugene V. (Eugene Victor), 1855-1926</field>
+@@ -49,13 +49,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Flat-File-Folder: 10</field>
+     <field name="location_si">Flat-File-Folder: 10</field>
+-    <field name="name_sim">Workmen's Circle (U.S.)</field>
+-    <field name="name_sim">International Ladies' Garment Workers' Union</field>
++    <field name="name_sim">Workmen&#39;s Circle (U.S.)</field>
++    <field name="name_sim">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="name_sim">Thomas, Norman, 1884-1968</field>
+     <field name="name_sim">London, Meyer, 1871-1926</field>
+     <field name="name_sim">Debs, Eugene V. (Eugene Victor), 1855-1926</field>
+-    <field name="name_teim">Workmen's Circle (U.S.)</field>
+-    <field name="name_teim">International Ladies' Garment Workers' Union</field>
++    <field name="name_teim">Workmen&#39;s Circle (U.S.)</field>
++    <field name="name_teim">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="name_teim">Thomas, Norman, 1884-1968</field>
+     <field name="name_teim">London, Meyer, 1871-1926</field>
+     <field name="name_teim">Debs, Eugene V. (Eugene Victor), 1855-1926</field>
+@@ -64,6 +64,7 @@
+     <field name="subject_sim">Labor unions</field>
+     <field name="subject_sim">Prisoners and prisons.</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series I: United States</field>
+     <field name="series_si">Series I: United States &gt;&gt; United States: Socialist Party</field>

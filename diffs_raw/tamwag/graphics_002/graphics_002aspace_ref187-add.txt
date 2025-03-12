@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,9 +20,9 @@
+     <field name="unitid_ssm">US-49.2</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/37893</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="subject_teim">Children's rights.</field>
+-    <field name="subject_teim">Children's rights.</field>
+-    <field name="subject_ssm">Children's rights.</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
++    <field name="subject_ssm">Children&#39;s rights.</field>
+     <field name="ref_ssi">aspace_ref187</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,8 +31,9 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Flat-File-Folder: 4</field>
+     <field name="location_si">Flat-File-Folder: 4</field>
+-    <field name="subject_sim">Children's rights.</field>
++    <field name="subject_sim">Children&#39;s rights.</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series I: United States</field>
+     <field name="series_si">Series I: United States &gt;&gt; United States: Schools--Community School Board, New York City</field>

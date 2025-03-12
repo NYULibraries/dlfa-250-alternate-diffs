@@ -1,0 +1,100 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="corpname_teim">Transport Workers Union of America</field>
+     <field name="corpname_teim">Congress of Industrial Organizations (U.S.)</field>
+     <field name="corpname_teim">Committee of Interns and Residents (New York, N.Y.)</field>
+-    <field name="corpname_teim">International Ladies' Garment Workers' Union</field>
++    <field name="corpname_teim">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="corpname_teim">United Federation of Teachers</field>
+     <field name="corpname_teim">Communications Workers of America</field>
+     <field name="corpname_ssm">Professional Air Traffic Controllers Organization (Washington, D.C.)</field>
+@@ -37,7 +37,7 @@
+     <field name="corpname_ssm">Transport Workers Union of America</field>
+     <field name="corpname_ssm">Congress of Industrial Organizations (U.S.)</field>
+     <field name="corpname_ssm">Committee of Interns and Residents (New York, N.Y.)</field>
+-    <field name="corpname_ssm">International Ladies' Garment Workers' Union</field>
++    <field name="corpname_ssm">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="corpname_ssm">United Federation of Teachers</field>
+     <field name="corpname_ssm">Communications Workers of America</field>
+     <field name="geogname_teim">Middle East.</field>
+@@ -54,20 +54,20 @@
+     <field name="subject_teim">Boycotts.</field>
+     <field name="subject_teim">Child labor.</field>
+     <field name="subject_teim">Performances.</field>
+-    <field name="subject_teim">Children's rights.</field>
+-    <field name="subject_teim">Health</field>
+-    <field name="subject_teim">Labor unions</field>
+-    <field name="subject_teim">Schools.</field>
+-    <field name="subject_teim">Industrial safety.</field>
+-    <field name="subject_teim">Union labels</field>
+-    <field name="subject_teim">World War, 1939-1945.</field>
+-    <field name="subject_teim">Technology.</field>
+-    <field name="subject_teim">Transportation.</field>
+-    <field name="subject_teim">Exhibitions.</field>
+-    <field name="subject_teim">Boycotts.</field>
+-    <field name="subject_teim">Child labor.</field>
+-    <field name="subject_teim">Performances.</field>
+-    <field name="subject_teim">Children's rights.</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
++    <field name="subject_teim">Health</field>
++    <field name="subject_teim">Labor unions</field>
++    <field name="subject_teim">Schools.</field>
++    <field name="subject_teim">Industrial safety.</field>
++    <field name="subject_teim">Union labels</field>
++    <field name="subject_teim">World War, 1939-1945.</field>
++    <field name="subject_teim">Technology.</field>
++    <field name="subject_teim">Transportation.</field>
++    <field name="subject_teim">Exhibitions.</field>
++    <field name="subject_teim">Boycotts.</field>
++    <field name="subject_teim">Child labor.</field>
++    <field name="subject_teim">Performances.</field>
++    <field name="subject_teim">Children&#39;s rights.</field>
+     <field name="subject_teim">Health</field>
+     <field name="subject_teim">Labor unions</field>
+     <field name="subject_teim">Schools.</field>
+@@ -80,7 +80,7 @@
+     <field name="subject_ssm">Boycotts.</field>
+     <field name="subject_ssm">Child labor.</field>
+     <field name="subject_ssm">Performances.</field>
+-    <field name="subject_ssm">Children's rights.</field>
++    <field name="subject_ssm">Children&#39;s rights.</field>
+     <field name="subject_ssm">Health</field>
+     <field name="subject_ssm">Labor unions</field>
+     <field name="subject_ssm">Schools.</field>
+@@ -104,7 +104,7 @@
+     <field name="name_sim">Transport Workers Union of America</field>
+     <field name="name_sim">Congress of Industrial Organizations (U.S.)</field>
+     <field name="name_sim">Committee of Interns and Residents (New York, N.Y.)</field>
+-    <field name="name_sim">International Ladies' Garment Workers' Union</field>
++    <field name="name_sim">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="name_sim">United Federation of Teachers</field>
+     <field name="name_sim">Communications Workers of America</field>
+     <field name="name_sim">Shahn, Ben, 1898-1969</field>
+@@ -117,7 +117,7 @@
+     <field name="name_teim">Transport Workers Union of America</field>
+     <field name="name_teim">Congress of Industrial Organizations (U.S.)</field>
+     <field name="name_teim">Committee of Interns and Residents (New York, N.Y.)</field>
+-    <field name="name_teim">International Ladies' Garment Workers' Union</field>
++    <field name="name_teim">International Ladies&#39; Garment Workers&#39; Union</field>
+     <field name="name_teim">United Federation of Teachers</field>
+     <field name="name_teim">Communications Workers of America</field>
+     <field name="name_teim">Shahn, Ben, 1898-1969</field>
+@@ -132,7 +132,7 @@
+     <field name="subject_sim">Boycotts.</field>
+     <field name="subject_sim">Child labor.</field>
+     <field name="subject_sim">Performances.</field>
+-    <field name="subject_sim">Children's rights.</field>
++    <field name="subject_sim">Children&#39;s rights.</field>
+     <field name="subject_sim">Health</field>
+     <field name="subject_sim">Labor unions</field>
+     <field name="subject_sim">Schools.</field>
+@@ -140,6 +140,7 @@
+     <field name="subject_sim">Union labels</field>
+     <field name="subject_sim">World War, 1939-1945.</field>
+     <field name="collection_teim">Tamiment Library Poster and Broadside Collection</field>
++    <field name="author_teim">Finding aid prepared by Mary Allison Farley, 1991 and Erika Gottfried, 2009; Physical rehousing performed by Kate Phillips and Margaret Fraser; finding aid edited to reflect new physical arrangement by Bonnie Gordon and Rachel Searcy (2013)</field>
+     <field name="collection_unitid_teim">GRAPHICS.002</field>
+     <field name="series_sim">Series I: United States</field>
+     <field name="series_si">Series I: United States &gt;&gt; United States: Labor Unions and Labor Organizations - general</field>

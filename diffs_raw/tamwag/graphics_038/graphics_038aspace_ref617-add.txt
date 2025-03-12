@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bill Andrews Editorial Cartoons and Papers</field>
+     <field name="collection_unitid_ssm">GRAPHICS.038</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Anonemous (&lt;em&gt;sic&lt;/em&gt;) ("Mister Little and Mister Big")</field>
+-    <field name="unittitle_teim">Anonemous (sic) ("Mister Little and Mister Big")</field>
++    <field name="unittitle_ssm">Anonemous (&lt;em&gt;sic&lt;/em&gt;) (&#34;Mister Little and Mister Big&#34;)</field>
++    <field name="unittitle_teim">Anonemous (sic) (&#34;Mister Little and Mister Big&#34;)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/39963</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/39963</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 42, Folder: 637</field>
+     <field name="location_si">Box: 42, Folder: 637</field>
+     <field name="collection_teim">Bill Andrews Editorial Cartoons and Papers</field>
++    <field name="author_teim">Hillel Arnold (2011)</field>
+     <field name="collection_unitid_teim">GRAPHICS.038</field>
+     <field name="series_sim">Series VI: Artwork by Others</field>
+-    <field name="series_si">Series VI: Artwork by Others &gt;&gt; Anonemous (&lt;em&gt;sic&lt;/em&gt;) ("Mister Little and Mister Big")</field>
+-    <field name="heading_ssm">Anonemous (sic) ("Mister Little and Mister Big")</field>
++    <field name="series_si">Series VI: Artwork by Others &gt;&gt; Anonemous (&lt;em&gt;sic&lt;/em&gt;) (&#34;Mister Little and Mister Big&#34;)</field>
++    <field name="heading_ssm">Anonemous (sic) (&#34;Mister Little and Mister Big&#34;)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">609</field>
