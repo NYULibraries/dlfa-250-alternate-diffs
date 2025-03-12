@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,16 +21,16 @@
+     <field name="unitdate_normal_teim">1937/1975</field>
+     <field name="unitdate_normal_sim">1937/1975</field>
+     <field name="unitdate_inclusive_teim">1937-1945, 1974-1975</field>
+-    <field name="name_teim">Davidson, Jo</field>
+-    <field name="name_teim">Keller, Helen</field>
+     <field name="name_ssm">Davidson, Jo</field>
+     <field name="name_ssm">Keller, Helen</field>
+-    <field name="subject_teim">Films - "Anna Karenina"</field>
+-    <field name="subject_teim">Films - "The Best Years of Our Lives"</field>
+-    <field name="subject_teim">Films - "Anna Karenina"</field>
+-    <field name="subject_teim">Films - "The Best Years of Our Lives"</field>
+-    <field name="subject_ssm">Films - "Anna Karenina"</field>
+-    <field name="subject_ssm">Films - "The Best Years of Our Lives"</field>
++    <field name="name_teim">Davidson, Jo</field>
++    <field name="name_teim">Keller, Helen</field>
++    <field name="subject_teim">Films - &#34;Anna Karenina&#34;</field>
++    <field name="subject_teim">Films - &#34;The Best Years of Our Lives&#34;</field>
++    <field name="subject_teim">Films - &#34;Anna Karenina&#34;</field>
++    <field name="subject_teim">Films - &#34;The Best Years of Our Lives&#34;</field>
++    <field name="subject_ssm">Films - &#34;Anna Karenina&#34;</field>
++    <field name="subject_ssm">Films - &#34;The Best Years of Our Lives&#34;</field>
+     <field name="ref_ssi">aspace_ref15166</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -39,9 +39,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 194, Folder: 11076</field>
+     <field name="location_si">Box: 194, Folder: 11076</field>
+-    <field name="subject_sim">Films - "Anna Karenina"</field>
+-    <field name="subject_sim">Films - "The Best Years of Our Lives"</field>
++    <field name="subject_sim">Films - &#34;Anna Karenina&#34;</field>
++    <field name="subject_sim">Films - &#34;The Best Years of Our Lives&#34;</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; March, Fredric</field>

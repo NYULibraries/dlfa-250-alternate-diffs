@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,9 @@
+     <field name="collection_ssm">Sam Reiss Negatives</field>
+     <field name="collection_unitid_ssm">PHOTOS.021</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">338 Chairman and Secy's Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
+-    <field name="unittitle_teim">338 Chairman and Secy's Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
++    <field name="unittitle_ssm">338 Chairman and Secy&#39;s Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
++    <field name="unittitle_teim">338 Chairman and Secy&#39;s Dinner - Show Astor Hotel 2/5/50 
++[Total negs: 22]</field>
+     <field name="unitdate_normal_ssm">1950/1950</field>
+     <field name="unitdate_normal_teim">1950/1950</field>
+     <field name="unitdate_normal_sim">1950/1950</field>
+@@ -34,12 +35,14 @@
+     <field name="location_ssm">Box: 128, Item: 6319</field>
+     <field name="location_si">Box: 128, Item: 6319</field>
+     <field name="collection_teim">Sam Reiss Negatives</field>
++    <field name="author_teim">Maneesha Patel and Erika Gottfried, with the assistance of Emily Brewer-Yarnell, Stephina Fisher, Bridget Hartzler, Mieke Duffly, Benjamin Hatch, and Shelley Lightburn. Related archival materials note updated by Erika Gottfried in 2013.</field>
+     <field name="collection_unitid_teim">PHOTOS.021</field>
+     <field name="series_sim">Series I: Unions.</field>
+     <field name="series_sim">Subseries AQ: Retail, Wholesale, and Department Store Union</field>
+     <field name="series_sim">Sub-subseries 16: Local 338</field>
+-    <field name="series_si">Series I: Unions. &gt;&gt; Subseries AQ: Retail, Wholesale, and Department Store Union &gt;&gt; Sub-subseries 16: Local 338 &gt;&gt; 338 Chairman and Secy's Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
+-    <field name="heading_ssm">338 Chairman and Secy's Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
++    <field name="series_si">Series I: Unions. &gt;&gt; Subseries AQ: Retail, Wholesale, and Department Store Union &gt;&gt; Sub-subseries 16: Local 338 &gt;&gt; 338 Chairman and Secy&#39;s Dinner - Show Astor Hotel 2/5/50 [Total negs: 22]</field>
++    <field name="heading_ssm">338 Chairman and Secy&#39;s Dinner - Show Astor Hotel 2/5/50 
++[Total negs: 22]</field>
+     <field name="unitdate_start_sim">1950</field>
+     <field name="unitdate_start_ssm">1950</field>
+     <field name="unitdate_start_si">1950</field>

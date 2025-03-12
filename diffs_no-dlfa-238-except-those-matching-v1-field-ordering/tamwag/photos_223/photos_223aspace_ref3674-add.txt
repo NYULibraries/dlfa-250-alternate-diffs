@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,16 +21,16 @@
+     <field name="unitdate_normal_teim">1950/1987</field>
+     <field name="unitdate_normal_sim">1950/1987</field>
+     <field name="unitdate_inclusive_teim">1950-1987, undated</field>
+-    <field name="name_teim">Delgadillo, Jose Hernandez</field>
+-    <field name="name_teim">O'Higgins, Pablo</field>
+-    <field name="name_teim">Orozco, Jose Clemente</field>
+-    <field name="name_teim">Rivera, Diego</field>
+-    <field name="name_teim">Siqueiros, David Alfaro</field>
+     <field name="name_ssm">Delgadillo, Jose Hernandez</field>
+-    <field name="name_ssm">O'Higgins, Pablo</field>
++    <field name="name_ssm">O&#39;Higgins, Pablo</field>
+     <field name="name_ssm">Orozco, Jose Clemente</field>
+     <field name="name_ssm">Rivera, Diego</field>
+     <field name="name_ssm">Siqueiros, David Alfaro</field>
++    <field name="name_teim">Delgadillo, Jose Hernandez</field>
++    <field name="name_teim">O&#39;Higgins, Pablo</field>
++    <field name="name_teim">Orozco, Jose Clemente</field>
++    <field name="name_teim">Rivera, Diego</field>
++    <field name="name_teim">Siqueiros, David Alfaro</field>
+     <field name="ref_ssi">aspace_ref3674</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -40,6 +40,7 @@
+     <field name="location_ssm">Box: 572, Folder: 23509</field>
+     <field name="location_si">Box: 572, Folder: 23509</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Mexico - Art - Clippings and Graphics</field>

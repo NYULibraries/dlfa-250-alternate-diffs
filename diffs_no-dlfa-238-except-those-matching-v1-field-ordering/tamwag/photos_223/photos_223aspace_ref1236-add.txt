@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,16 +21,16 @@
+     <field name="unitdate_normal_teim">1966/1978</field>
+     <field name="unitdate_normal_sim">1966/1978</field>
+     <field name="unitdate_inclusive_teim">1966-1978</field>
+-    <field name="name_teim">Balanchine, George</field>
+-    <field name="name_teim">D'Amboise, Jacques</field>
+-    <field name="name_teim">Kivitt, Ted</field>
+-    <field name="name_teim">Limon, Jose</field>
+-    <field name="name_teim">Vilella, Edward</field>
+     <field name="name_ssm">Balanchine, George</field>
+-    <field name="name_ssm">D'Amboise, Jacques</field>
++    <field name="name_ssm">D&#39;Amboise, Jacques</field>
+     <field name="name_ssm">Kivitt, Ted</field>
+     <field name="name_ssm">Limon, Jose</field>
+     <field name="name_ssm">Vilella, Edward</field>
++    <field name="name_teim">Balanchine, George</field>
++    <field name="name_teim">D&#39;Amboise, Jacques</field>
++    <field name="name_teim">Kivitt, Ted</field>
++    <field name="name_teim">Limon, Jose</field>
++    <field name="name_teim">Vilella, Edward</field>
+     <field name="subject_teim">Dance</field>
+     <field name="subject_teim">Soviet Union - Culture - Bolshoi Ballet</field>
+     <field name="subject_teim">Soviet Union - Culture - Kirov Ballet</field>
+@@ -52,6 +52,7 @@
+     <field name="subject_sim">Soviet Union - Culture - Bolshoi Ballet</field>
+     <field name="subject_sim">Soviet Union - Culture - Kirov Ballet</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Ballet - Clippings, Graphics and Unifax Prints</field>

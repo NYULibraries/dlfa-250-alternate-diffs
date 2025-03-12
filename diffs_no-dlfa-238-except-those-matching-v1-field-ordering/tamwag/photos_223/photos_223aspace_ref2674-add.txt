@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,13 @@
+     <field name="unitdate_inclusive_teim">1978-1979</field>
+     <field name="corpname_teim">Blue Grass Association (musical group)</field>
+     <field name="corpname_ssm">Blue Grass Association (musical group)</field>
+-    <field name="name_teim">Anderson, Bernard Hartwell "Stepbuddy"</field>
++    <field name="name_ssm">Anderson, Bernard Hartwell &#34;Stepbuddy&#34;</field>
++    <field name="name_ssm">Conroy, Jack</field>
++    <field name="name_ssm">Cormier, Steve</field>
++    <field name="name_ssm">Le Sueur, Meridel</field>
++    <field name="name_ssm">McGrath, Thomas</field>
++    <field name="name_ssm">Whitehead, Fred</field>
++    <field name="name_teim">Anderson, Bernard Hartwell &#34;Stepbuddy&#34;</field>
+     <field name="name_teim">Conroy, Jack</field>
+     <field name="name_teim">Cormier, Steve</field>
+     <field name="name_teim">Le Sueur, Meridel</field>
+@@ -30,12 +36,6 @@
+     <field name="name_teim">McGrath, Thomas</field>
+     <field name="name_teim">Whitehead, Fred</field>
+     <field name="name_teim">Blue Grass Association (musical group)</field>
+-    <field name="name_ssm">Anderson, Bernard Hartwell "Stepbuddy"</field>
+-    <field name="name_ssm">Conroy, Jack</field>
+-    <field name="name_ssm">Cormier, Steve</field>
+-    <field name="name_ssm">Le Sueur, Meridel</field>
+-    <field name="name_ssm">McGrath, Thomas</field>
+-    <field name="name_ssm">Whitehead, Fred</field>
+     <field name="ref_ssi">aspace_ref2674</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -46,6 +46,7 @@
+     <field name="location_si">Box: 459, Folder: 21476</field>
+     <field name="name_sim">Blue Grass Association (musical group)</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Foolkiller Cultural Center and Organization (Kansas City, Missouri)</field>

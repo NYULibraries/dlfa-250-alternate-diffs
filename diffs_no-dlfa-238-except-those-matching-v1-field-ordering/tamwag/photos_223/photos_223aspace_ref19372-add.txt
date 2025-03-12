@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,9 @@
+     <field name="unitdate_normal_teim">1973/1978</field>
+     <field name="unitdate_normal_sim">1973/1978</field>
+     <field name="unitdate_inclusive_teim">1973-1978</field>
+-    <field name="subject_teim">Films - "Native Land"</field>
+-    <field name="subject_teim">Films - "Native Land"</field>
+-    <field name="subject_ssm">Films - "Native Land"</field>
++    <field name="subject_teim">Films - &#34;Native Land&#34;</field>
++    <field name="subject_teim">Films - &#34;Native Land&#34;</field>
++    <field name="subject_ssm">Films - &#34;Native Land&#34;</field>
+     <field name="ref_ssi">aspace_ref19372</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -32,8 +32,9 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 295, Folder: 16725</field>
+     <field name="location_si">Box: 295, Folder: 16725</field>
+-    <field name="subject_sim">Films - "Native Land"</field>
++    <field name="subject_sim">Films - &#34;Native Land&#34;</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Strand, Paul</field>

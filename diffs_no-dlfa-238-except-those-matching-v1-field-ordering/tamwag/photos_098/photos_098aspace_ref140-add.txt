@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Hotel Employees and Restaurant Employees International Union, Local 6 Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.098</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Doll: "Miss Union Maid"</field>
+-    <field name="unittitle_teim">Doll: "Miss Union Maid"</field>
++    <field name="unittitle_ssm">Doll: &#34;Miss Union Maid&#34;</field>
++    <field name="unittitle_teim">Doll: &#34;Miss Union Maid&#34;</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref140</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Hotel Employees and Restaurant Employees International Union, Local 6 Photographs</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">PHOTOS.098</field>
+     <field name="series_sim">Series IV: Other Materials</field>
+-    <field name="series_si">Series IV: Other Materials &gt;&gt; Doll: "Miss Union Maid"</field>
+-    <field name="heading_ssm">Doll: "Miss Union Maid"</field>
++    <field name="series_si">Series IV: Other Materials &gt;&gt; Doll: &#34;Miss Union Maid&#34;</field>
++    <field name="heading_ssm">Doll: &#34;Miss Union Maid&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">132</field>

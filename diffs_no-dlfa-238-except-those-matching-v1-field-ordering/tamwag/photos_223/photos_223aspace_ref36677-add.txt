@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,14 +21,14 @@
+     <field name="unitdate_normal_teim">1949/1949</field>
+     <field name="unitdate_normal_sim">1949/1949</field>
+     <field name="unitdate_inclusive_teim">1949</field>
+-    <field name="name_teim">Draper, Muriel</field>
+-    <field name="name_teim">Jones, Claudia</field>
+-    <field name="name_teim">Masso, Clara Bodian</field>
+-    <field name="name_teim">Weltfish, Gene</field>
+     <field name="name_ssm">Draper, Muriel</field>
+     <field name="name_ssm">Jones, Claudia</field>
+     <field name="name_ssm">Masso, Clara Bodian</field>
+     <field name="name_ssm">Weltfish, Gene</field>
++    <field name="name_teim">Draper, Muriel</field>
++    <field name="name_teim">Jones, Claudia</field>
++    <field name="name_teim">Masso, Clara Bodian</field>
++    <field name="name_teim">Weltfish, Gene</field>
+     <field name="ref_ssi">aspace_ref36677</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">Box: 402, Folder: 20170</field>
+     <field name="location_si">Box: 402, Folder: 20170</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Congress of American Women</field>

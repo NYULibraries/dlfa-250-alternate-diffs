@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,22 +21,22 @@
+     <field name="unitdate_normal_teim">1975/1998</field>
+     <field name="unitdate_normal_sim">1975/1998</field>
+     <field name="unitdate_inclusive_teim">1975-1998</field>
+-    <field name="name_teim">Brown, John</field>
+-    <field name="name_teim">Einstein, Albert</field>
+-    <field name="name_teim">Lincoln, Abraham</field>
+-    <field name="name_teim">O'Neill, Eugene</field>
+-    <field name="name_teim">Paine, Thomas O.</field>
+-    <field name="name_teim">Roosevelt, Franklin D.</field>
+-    <field name="name_teim">Shields, Art</field>
+-    <field name="name_teim">Weinstock, Louis</field>
+     <field name="name_ssm">Brown, John</field>
+     <field name="name_ssm">Einstein, Albert</field>
+     <field name="name_ssm">Lincoln, Abraham</field>
+-    <field name="name_ssm">O'Neill, Eugene</field>
++    <field name="name_ssm">O&#39;Neill, Eugene</field>
+     <field name="name_ssm">Paine, Thomas O.</field>
+     <field name="name_ssm">Roosevelt, Franklin D.</field>
+     <field name="name_ssm">Shields, Art</field>
+     <field name="name_ssm">Weinstock, Louis</field>
++    <field name="name_teim">Brown, John</field>
++    <field name="name_teim">Einstein, Albert</field>
++    <field name="name_teim">Lincoln, Abraham</field>
++    <field name="name_teim">O&#39;Neill, Eugene</field>
++    <field name="name_teim">Paine, Thomas O.</field>
++    <field name="name_teim">Roosevelt, Franklin D.</field>
++    <field name="name_teim">Shields, Art</field>
++    <field name="name_teim">Weinstock, Louis</field>
+     <field name="subject_teim">Masses &amp; Mainstream (magazine)</field>
+     <field name="subject_teim">Masses &amp; Mainstream (magazine)</field>
+     <field name="subject_ssm">Masses &amp; Mainstream (magazine)</field>
+@@ -50,6 +50,7 @@
+     <field name="location_si">Box: 110, Folder: 6313</field>
+     <field name="subject_sim">Masses &amp; Mainstream (magazine)</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Gellert, Hugo - Clippings</field>

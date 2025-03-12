@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">National Maritime Union Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.044</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Safety At Sea" Exhibit</field>
+-    <field name="unittitle_teim">"Safety At Sea" Exhibit</field>
++    <field name="unittitle_ssm">&#34;Safety At Sea&#34; Exhibit</field>
++    <field name="unittitle_teim">&#34;Safety At Sea&#34; Exhibit</field>
+     <field name="unitid_teim">cuid15011</field>
+     <field name="unitid_ssm">cuid15011</field>
+     <field name="unitdate_normal_ssm">1940/1949</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">National Maritime Union Photographs</field>
++    <field name="author_teim">Hanan Ohayon</field>
+     <field name="collection_unitid_teim">PHOTOS.044</field>
+     <field name="series_sim">Series I: National Maritime Union Photographs</field>
+-    <field name="series_si">Series I: National Maritime Union Photographs &gt;&gt; "Safety At Sea" Exhibit</field>
+-    <field name="heading_ssm">"Safety At Sea" Exhibit</field>
++    <field name="series_si">Series I: National Maritime Union Photographs &gt;&gt; &#34;Safety At Sea&#34; Exhibit</field>
++    <field name="heading_ssm">&#34;Safety At Sea&#34; Exhibit</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

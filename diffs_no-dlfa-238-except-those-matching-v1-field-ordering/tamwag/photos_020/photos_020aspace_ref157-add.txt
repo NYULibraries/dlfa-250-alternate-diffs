@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1963/1991</field>
+     <field name="unitdate_normal_sim">1963/1991</field>
+     <field name="unitdate_inclusive_teim">1963-1991</field>
+-    <field name="scopecontent_teim">Series IV: Events, 1963-1982, contains photographs of annual New York City Central Labor Council events and distributed awards.  Areas of strength include documentation of the Council's Community Service Institute and Civil Rights Conference, in addition to more prominent occasions such as the Labor Day Street Fair and Abraham Lincoln Birthday Dinner.  Awards distributed on behalf of the Council are also well documented in this series.</field>
++    <field name="scopecontent_teim">Series IV: Events, 1963-1982, contains photographs of annual New York City Central Labor Council events and distributed awards.  Areas of strength include documentation of the Council&#39;s Community Service Institute and Civil Rights Conference, in addition to more prominent occasions such as the Labor Day Street Fair and Abraham Lincoln Birthday Dinner.  Awards distributed on behalf of the Council are also well documented in this series.</field>
+     <field name="ref_ssi">aspace_ref157</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York City Central Labor Council Photographs</field>
++    <field name="author_teim">B. Robertson, 1986; Mary Allison Farley, 1988; Erika Gottfried, 2003. Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description; updated to include materials integrated from accession 1986.041 in February 2013.</field>
+     <field name="collection_unitid_teim">PHOTOS.020</field>
+     <field name="series_si">Series IV: Events</field>
+     <field name="heading_ssm">Series IV: Events</field>

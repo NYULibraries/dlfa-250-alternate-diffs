@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,19 +23,19 @@
+     <field name="unitdate_inclusive_teim">1975-1986</field>
+     <field name="corpname_teim">Litton Industries - Demonstrations against</field>
+     <field name="corpname_ssm">Litton Industries - Demonstrations against</field>
++    <field name="name_ssm">Ellis, Pat</field>
++    <field name="name_ssm">Jackson, Johnnie</field>
++    <field name="name_ssm">Hayes, Charles Arthur</field>
+     <field name="name_teim">Ellis, Pat</field>
+     <field name="name_teim">Jackson, Johnnie</field>
+     <field name="name_teim">Hayes, Charles Arthur</field>
+     <field name="name_teim">Litton Industries - Demonstrations against</field>
+-    <field name="name_ssm">Ellis, Pat</field>
+-    <field name="name_ssm">Jackson, Johnnie</field>
+-    <field name="name_ssm">Hayes, Charles Arthur</field>
+-    <field name="subject_teim">Abortion - Demonstrations for</field>
+-    <field name="subject_teim">International Women's Day</field>
+-    <field name="subject_teim">Abortion - Demonstrations for</field>
+-    <field name="subject_teim">International Women's Day</field>
++    <field name="subject_teim">Abortion - Demonstrations for</field>
++    <field name="subject_teim">International Women&#39;s Day</field>
++    <field name="subject_teim">Abortion - Demonstrations for</field>
++    <field name="subject_teim">International Women&#39;s Day</field>
+     <field name="subject_ssm">Abortion - Demonstrations for</field>
+-    <field name="subject_ssm">International Women's Day</field>
++    <field name="subject_ssm">International Women&#39;s Day</field>
+     <field name="ref_ssi">aspace_ref1892</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -46,8 +46,9 @@
+     <field name="location_si">Box: 392, Folder: 20032</field>
+     <field name="name_sim">Litton Industries - Demonstrations against</field>
+     <field name="subject_sim">Abortion - Demonstrations for</field>
+-    <field name="subject_sim">International Women's Day</field>
++    <field name="subject_sim">International Women&#39;s Day</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Coalition of Labor Union Women (CLUW) - Clippings and Pre-Press Prints</field>

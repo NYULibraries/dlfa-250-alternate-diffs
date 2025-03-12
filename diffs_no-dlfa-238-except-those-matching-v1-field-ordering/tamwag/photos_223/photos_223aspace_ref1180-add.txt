@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,16 +21,6 @@
+     <field name="unitdate_normal_teim">1976/1987</field>
+     <field name="unitdate_normal_sim">1976/1987</field>
+     <field name="unitdate_inclusive_teim">1976-1987, undated</field>
+-    <field name="name_teim">Arafat, Yasir</field>
+-    <field name="name_teim">Arafat, Yasir - With Others</field>
+-    <field name="name_teim">Assad, Hafez</field>
+-    <field name="name_teim">DeLappe, Pele</field>
+-    <field name="name_teim">Doumani, Osama</field>
+-    <field name="name_teim">Hussein, King of Jordan</field>
+-    <field name="name_teim">O'Deh, Alex</field>
+-    <field name="name_teim">Perez de Cuellar, Javier</field>
+-    <field name="name_teim">Said, Edward W.</field>
+-    <field name="name_teim">Sheen, Martin</field>
+     <field name="name_ssm">Arafat, Yasir</field>
+     <field name="name_ssm">Arafat, Yasir - With Others</field>
+     <field name="name_ssm">Assad, Hafez</field>
+@@ -37,10 +27,20 @@
+     <field name="name_ssm">DeLappe, Pele</field>
+     <field name="name_ssm">Doumani, Osama</field>
+     <field name="name_ssm">Hussein, King of Jordan</field>
+-    <field name="name_ssm">O'Deh, Alex</field>
++    <field name="name_ssm">O&#39;Deh, Alex</field>
+     <field name="name_ssm">Perez de Cuellar, Javier</field>
+     <field name="name_ssm">Said, Edward W.</field>
+     <field name="name_ssm">Sheen, Martin</field>
++    <field name="name_teim">Arafat, Yasir</field>
++    <field name="name_teim">Arafat, Yasir - With Others</field>
++    <field name="name_teim">Assad, Hafez</field>
++    <field name="name_teim">DeLappe, Pele</field>
++    <field name="name_teim">Doumani, Osama</field>
++    <field name="name_teim">Hussein, King of Jordan</field>
++    <field name="name_teim">O&#39;Deh, Alex</field>
++    <field name="name_teim">Perez de Cuellar, Javier</field>
++    <field name="name_teim">Said, Edward W.</field>
++    <field name="name_teim">Sheen, Martin</field>
+     <field name="ref_ssi">aspace_ref1180</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -50,6 +50,7 @@
+     <field name="location_ssm">Box: 362, Folder: 19512</field>
+     <field name="location_si">Box: 362, Folder: 19512</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Arabs - Clippings and Pre-Press Prints</field>

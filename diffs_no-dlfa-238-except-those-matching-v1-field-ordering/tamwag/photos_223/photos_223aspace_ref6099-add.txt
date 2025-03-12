@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,13 +21,13 @@
+     <field name="unitdate_normal_teim">1969/1996</field>
+     <field name="unitdate_normal_sim">1969/1996</field>
+     <field name="unitdate_inclusive_teim">1969-1996</field>
+-    <field name="corpname_teim">People's Weekly World (newspaper)</field>
+-    <field name="corpname_ssm">People's Weekly World (newspaper)</field>
+-    <field name="name_teim">Brown, Lee</field>
+-    <field name="name_teim">Trumka, Richard L.</field>
+-    <field name="name_teim">People's Weekly World (newspaper)</field>
++    <field name="corpname_teim">People&#39;s Weekly World (newspaper)</field>
++    <field name="corpname_ssm">People&#39;s Weekly World (newspaper)</field>
+     <field name="name_ssm">Brown, Lee</field>
+     <field name="name_ssm">Trumka, Richard L.</field>
++    <field name="name_teim">Brown, Lee</field>
++    <field name="name_teim">Trumka, Richard L.</field>
++    <field name="name_teim">People&#39;s Weekly World (newspaper)</field>
+     <field name="subject_teim">Labor Organizations - American Federation of State, County and Municipal Employees</field>
+     <field name="subject_teim">Labor Organizations - Culinary Workers Union Local 226</field>
+     <field name="subject_teim">Labor Organizations - New York Hotel and Motel Trades Council</field>
+@@ -54,7 +54,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 525, Folder: 22695</field>
+     <field name="location_si">Box: 525, Folder: 22695</field>
+-    <field name="name_sim">People's Weekly World (newspaper)</field>
++    <field name="name_sim">People&#39;s Weekly World (newspaper)</field>
+     <field name="subject_sim">Labor Organizations - American Federation of State, County and Municipal Employees</field>
+     <field name="subject_sim">Labor Organizations - Culinary Workers Union Local 226</field>
+     <field name="subject_sim">Labor Organizations - New York Hotel and Motel Trades Council</field>
+@@ -62,6 +62,7 @@
+     <field name="subject_sim">Nicaragua - Demonstrations for</field>
+     <field name="subject_sim">Unemployment - Demonstrations against - by Labor Union Members</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Hotel Employees and Restaurant Employees Union (HERE) - Clippings, Pre-Press and Unifax Prints</field>

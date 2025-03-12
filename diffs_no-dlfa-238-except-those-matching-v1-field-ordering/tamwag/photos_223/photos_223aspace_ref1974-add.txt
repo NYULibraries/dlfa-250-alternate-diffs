@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,13 +21,13 @@
+     <field name="unitdate_normal_teim">1982/1992</field>
+     <field name="unitdate_normal_sim">1982/1992</field>
+     <field name="unitdate_inclusive_teim">1982-1992</field>
+-    <field name="name_teim">O'Neill, William A.</field>
+-    <field name="name_ssm">O'Neill, William A.</field>
+-    <field name="subject_teim">Accidents - Industrial - Bridgeport (Connecticut) - L'Ambiance Plaza</field>
+-    <field name="subject_teim">Bridges</field>
+-    <field name="subject_teim">Accidents - Industrial - Bridgeport (Connecticut) - L'Ambiance Plaza</field>
+-    <field name="subject_teim">Bridges</field>
+-    <field name="subject_ssm">Accidents - Industrial - Bridgeport (Connecticut) - L'Ambiance Plaza</field>
++    <field name="name_ssm">O&#39;Neill, William A.</field>
++    <field name="name_teim">O&#39;Neill, William A.</field>
++    <field name="subject_teim">Accidents - Industrial - Bridgeport (Connecticut) - L&#39;Ambiance Plaza</field>
++    <field name="subject_teim">Bridges</field>
++    <field name="subject_teim">Accidents - Industrial - Bridgeport (Connecticut) - L&#39;Ambiance Plaza</field>
++    <field name="subject_teim">Bridges</field>
++    <field name="subject_ssm">Accidents - Industrial - Bridgeport (Connecticut) - L&#39;Ambiance Plaza</field>
+     <field name="subject_ssm">Bridges</field>
+     <field name="ref_ssi">aspace_ref1974</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -37,9 +37,10 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 402, Folder: 20174</field>
+     <field name="location_si">Box: 402, Folder: 20174</field>
+-    <field name="subject_sim">Accidents - Industrial - Bridgeport (Connecticut) - L'Ambiance Plaza</field>
++    <field name="subject_sim">Accidents - Industrial - Bridgeport (Connecticut) - L&#39;Ambiance Plaza</field>
+     <field name="subject_sim">Bridges</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Connecticut - Thermal Prints</field>

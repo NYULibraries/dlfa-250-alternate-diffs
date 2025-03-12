@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,14 +21,14 @@
+     <field name="unitdate_normal_teim">1970/1971</field>
+     <field name="unitdate_normal_sim">1970/1971</field>
+     <field name="unitdate_inclusive_teim">1970-1971</field>
+-    <field name="name_teim">Flory, Ishmael</field>
+     <field name="name_ssm">Flory, Ishmael</field>
+-    <field name="subject_teim">Daily World - History</field>
+-    <field name="subject_teim">People's Daily World (newspaper)</field>
+-    <field name="subject_teim">Daily World - History</field>
+-    <field name="subject_teim">People's Daily World (newspaper)</field>
++    <field name="name_teim">Flory, Ishmael</field>
++    <field name="subject_teim">Daily World - History</field>
++    <field name="subject_teim">People&#39;s Daily World (newspaper)</field>
++    <field name="subject_teim">Daily World - History</field>
++    <field name="subject_teim">People&#39;s Daily World (newspaper)</field>
+     <field name="subject_ssm">Daily World - History</field>
+-    <field name="subject_ssm">People's Daily World (newspaper)</field>
++    <field name="subject_ssm">People&#39;s Daily World (newspaper)</field>
+     <field name="ref_ssi">aspace_ref16468</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,8 +38,9 @@
+     <field name="location_ssm">Box: 238, Folder: 13575</field>
+     <field name="location_si">Box: 238, Folder: 13575</field>
+     <field name="subject_sim">Daily World - History</field>
+-    <field name="subject_sim">People's Daily World (newspaper)</field>
++    <field name="subject_sim">People&#39;s Daily World (newspaper)</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Pearson, Ted</field>

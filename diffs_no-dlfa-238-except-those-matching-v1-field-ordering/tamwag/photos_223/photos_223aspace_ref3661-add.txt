@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,11 +22,11 @@
+     <field name="unitdate_normal_sim">1971/1985</field>
+     <field name="unitdate_inclusive_teim">1971-1985</field>
+     <field name="subject_teim">United States Army - Cemeteries</field>
+-    <field name="subject_teim">Veteran's Day</field>
+-    <field name="subject_teim">United States Army - Cemeteries</field>
+-    <field name="subject_teim">Veteran's Day</field>
++    <field name="subject_teim">Veteran&#39;s Day</field>
++    <field name="subject_teim">United States Army - Cemeteries</field>
++    <field name="subject_teim">Veteran&#39;s Day</field>
+     <field name="subject_ssm">United States Army - Cemeteries</field>
+-    <field name="subject_ssm">Veteran's Day</field>
++    <field name="subject_ssm">Veteran&#39;s Day</field>
+     <field name="ref_ssi">aspace_ref3661</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,8 +36,9 @@
+     <field name="location_ssm">Box: 571, Folder: 23487</field>
+     <field name="location_si">Box: 571, Folder: 23487</field>
+     <field name="subject_sim">United States Army - Cemeteries</field>
+-    <field name="subject_sim">Veteran's Day</field>
++    <field name="subject_sim">Veteran&#39;s Day</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Memorial Day - Pre-Press and Unifax Prints</field>

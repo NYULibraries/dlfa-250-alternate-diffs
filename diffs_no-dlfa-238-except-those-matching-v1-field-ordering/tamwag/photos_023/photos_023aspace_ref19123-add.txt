@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">United Automobile Workers of America, District 65 Negatives</field>
+     <field name="collection_unitid_ssm">PHOTOS.023</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hearn's Department Store Negotiations</field>
+-    <field name="unittitle_teim">Hearn's Department Store Negotiations</field>
++    <field name="unittitle_ssm">Hearn&#39;s Department Store Negotiations</field>
++    <field name="unittitle_teim">Hearn&#39;s Department Store Negotiations</field>
+     <field name="unitid_teim">10586; 10587</field>
+     <field name="unitid_ssm">10586; 10587</field>
+     <field name="creator_teim">Stutz, Irving</field>
+@@ -54,11 +54,12 @@
+     <field name="name_teim">Franklin, Robert</field>
+     <field name="name_teim">Kerness, Frank</field>
+     <field name="collection_teim">United Automobile Workers of America, District 65 Negatives</field>
++    <field name="author_teim">Erika Gottfried, Mary Allison Farley, Katie Kirwan, Miriam Frank, Penny Kalloo, Tim Donohue, Tylea Richard, Krista Hahn, and Sarah Demott, from 1979-1985; 1989-1991; 2008-2011. Revised by Maureen Callahan to reflect addition of digital objects, May 2014.</field>
+     <field name="collection_unitid_teim">PHOTOS.023</field>
+     <field name="series_sim">Series I. Negatives</field>
+     <field name="series_sim">District 65 Members at Work</field>
+-    <field name="series_si">Series I. Negatives &gt;&gt; District 65 Members at Work &gt;&gt; Hearn's Department Store Negotiations</field>
+-    <field name="heading_ssm">Hearn's Department Store Negotiations</field>
++    <field name="series_si">Series I. Negatives &gt;&gt; District 65 Members at Work &gt;&gt; Hearn&#39;s Department Store Negotiations</field>
++    <field name="heading_ssm">Hearn&#39;s Department Store Negotiations</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9560</field>

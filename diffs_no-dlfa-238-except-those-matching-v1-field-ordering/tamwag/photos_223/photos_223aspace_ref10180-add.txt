@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,11 +22,11 @@
+     <field name="unitdate_normal_sim">1970/1975</field>
+     <field name="unitdate_inclusive_teim">1970-1975</field>
+     <field name="subject_teim">Women - Equal Rights Amendment</field>
+-    <field name="subject_teim">Women's Liberation</field>
+-    <field name="subject_teim">Women - Equal Rights Amendment</field>
+-    <field name="subject_teim">Women's Liberation</field>
++    <field name="subject_teim">Women&#39;s Liberation</field>
++    <field name="subject_teim">Women - Equal Rights Amendment</field>
++    <field name="subject_teim">Women&#39;s Liberation</field>
+     <field name="subject_ssm">Women - Equal Rights Amendment</field>
+-    <field name="subject_ssm">Women's Liberation</field>
++    <field name="subject_ssm">Women&#39;s Liberation</field>
+     <field name="ref_ssi">aspace_ref10180</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,8 +36,9 @@
+     <field name="location_ssm">Box: 105, Folder: 5977</field>
+     <field name="location_si">Box: 105, Folder: 5977</field>
+     <field name="subject_sim">Women - Equal Rights Amendment</field>
+-    <field name="subject_sim">Women's Liberation</field>
++    <field name="subject_sim">Women&#39;s Liberation</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series I: Biographical Files</field>
+     <field name="series_si">Series I: Biographical Files &gt;&gt; Friedan, Betty</field>

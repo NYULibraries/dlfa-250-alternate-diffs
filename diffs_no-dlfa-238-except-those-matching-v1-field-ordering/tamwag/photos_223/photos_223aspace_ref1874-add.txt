@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1937/1979</field>
+     <field name="unitdate_normal_sim">1937/1979</field>
+     <field name="unitdate_inclusive_teim">1937-1948, 1968-1979, undated</field>
+-    <field name="name_teim">O'Neill, Tip</field>
+-    <field name="name_ssm">O'Neill, Tip</field>
++    <field name="name_ssm">O&#39;Neill, Tip</field>
++    <field name="name_teim">O&#39;Neill, Tip</field>
+     <field name="subject_teim">Labor Organizations - Service Employees International Union (SEIU)</field>
+     <field name="subject_teim">Soviet Union - Celebrations and Demonstrations</field>
+     <field name="subject_teim">Washington (D.C.)</field>
+@@ -44,6 +44,7 @@
+     <field name="subject_sim">Soviet Union - Celebrations and Demonstrations</field>
+     <field name="subject_sim">Washington (D.C.)</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Christmas and Hanukkah - Clippings and Poorly Processed Prints</field>

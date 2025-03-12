@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,11 +22,11 @@
+     <field name="unitdate_normal_sim">1969/1978</field>
+     <field name="unitdate_inclusive_teim">1969-1978</field>
+     <field name="subject_teim">Garbage</field>
+-    <field name="subject_teim">Labor Organizations - Uniformed Sanitationmen's Association</field>
+-    <field name="subject_teim">Garbage</field>
+-    <field name="subject_teim">Labor Organizations - Uniformed Sanitationmen's Association</field>
++    <field name="subject_teim">Labor Organizations - Uniformed Sanitationmen&#39;s Association</field>
++    <field name="subject_teim">Garbage</field>
++    <field name="subject_teim">Labor Organizations - Uniformed Sanitationmen&#39;s Association</field>
+     <field name="subject_ssm">Garbage</field>
+-    <field name="subject_ssm">Labor Organizations - Uniformed Sanitationmen's Association</field>
++    <field name="subject_ssm">Labor Organizations - Uniformed Sanitationmen&#39;s Association</field>
+     <field name="ref_ssi">aspace_ref4190</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,8 +36,9 @@
+     <field name="location_ssm">Box: 627, Folder: 24451</field>
+     <field name="location_si">Box: 627, Folder: 24451</field>
+     <field name="subject_sim">Garbage</field>
+-    <field name="subject_sim">Labor Organizations - Uniformed Sanitationmen's Association</field>
++    <field name="subject_sim">Labor Organizations - Uniformed Sanitationmen&#39;s Association</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; Sanitation Workers - Pre-Press and Unifax Prints</field>

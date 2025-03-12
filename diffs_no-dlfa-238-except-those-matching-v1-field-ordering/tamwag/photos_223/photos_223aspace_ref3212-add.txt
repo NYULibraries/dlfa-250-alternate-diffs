@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,11 +21,11 @@
+     <field name="unitdate_normal_teim">1968/1978</field>
+     <field name="unitdate_normal_sim">1968/1978</field>
+     <field name="unitdate_inclusive_teim">1968-1978, undated</field>
+-    <field name="corpname_teim">National Socialist White People's Party</field>
+-    <field name="corpname_ssm">National Socialist White People's Party</field>
+-    <field name="name_teim">Hicks, Louis Day</field>
+-    <field name="name_teim">National Socialist White People's Party</field>
++    <field name="corpname_teim">National Socialist White People&#39;s Party</field>
++    <field name="corpname_ssm">National Socialist White People&#39;s Party</field>
+     <field name="name_ssm">Hicks, Louis Day</field>
++    <field name="name_teim">Hicks, Louis Day</field>
++    <field name="name_teim">National Socialist White People&#39;s Party</field>
+     <field name="subject_teim">School Integration - Arkansas - Little Rock</field>
+     <field name="subject_teim">School Integration - Massachusetts - Boston</field>
+     <field name="subject_teim">School Integration - Michigan</field>
+@@ -46,12 +46,13 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 628, Folder: 24474</field>
+     <field name="location_si">Box: 628, Folder: 24474</field>
+-    <field name="name_sim">National Socialist White People's Party</field>
++    <field name="name_sim">National Socialist White People&#39;s Party</field>
+     <field name="subject_sim">School Integration - Arkansas - Little Rock</field>
+     <field name="subject_sim">School Integration - Massachusetts - Boston</field>
+     <field name="subject_sim">School Integration - Michigan</field>
+     <field name="subject_sim">School Integration - New Jersey - Trenton</field>
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
++    <field name="author_teim">Hillel Arnold. Finding aid by Hillel Arnold, Erika Gottfried and Michael Nash.</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_si">Series II: Subject Files &gt;&gt; School Integration - Demonstrations against - Poorly Processed, Pre-Press and Unifax Prints</field>
