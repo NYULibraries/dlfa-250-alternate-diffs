@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Painting of a child with a crown ('Principe polacco')</field>
+-    <field name="unittitle_teim">Painting of a child with a crown ('Principe polacco')</field>
++    <field name="unittitle_ssm">Painting of a child with a crown (&#39;Principe polacco&#39;)</field>
++    <field name="unittitle_teim">Painting of a child with a crown (&#39;Principe polacco&#39;)</field>
+     <field name="unitid_teim">cuid217</field>
+     <field name="unitid_ssm">cuid217</field>
+     <field name="unitdate_normal_ssm">1870/1994</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 17, Folder: 6</field>
+     <field name="location_si">Box: 17, Folder: 6</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series X: Reali glass negatives</field>
+-    <field name="series_si">Series X: Reali glass negatives &gt;&gt; Painting of a child with a crown ('Principe polacco')</field>
+-    <field name="heading_ssm">Painting of a child with a crown ('Principe polacco')</field>
++    <field name="series_si">Series X: Reali glass negatives &gt;&gt; Painting of a child with a crown (&#39;Principe polacco&#39;)</field>
++    <field name="heading_ssm">Painting of a child with a crown (&#39;Principe polacco&#39;)</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>
+     <field name="unitdate_start_si">1870</field>

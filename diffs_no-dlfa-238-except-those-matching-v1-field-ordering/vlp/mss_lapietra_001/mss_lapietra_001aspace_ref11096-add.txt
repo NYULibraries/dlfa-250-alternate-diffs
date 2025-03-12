@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref11095</field>
+     <field name="parent_unittitles_ssm">Series VI: Postcards</field>
+     <field name="parent_unittitles_ssm">Subseries D: Postcards documenting Travels</field>
+-    <field name="parent_unittitles_ssm">1 Hortense Acton née Mitchell's travels</field>
++    <field name="parent_unittitles_ssm">1 Hortense Acton née Mitchell&amp;#39;s travels</field>
+     <field name="parent_unittitles_teim">Series VI: Postcards</field>
+     <field name="parent_unittitles_teim">Subseries D: Postcards documenting Travels</field>
+-    <field name="parent_unittitles_teim">1 Hortense Acton née Mitchell's travels</field>
++    <field name="parent_unittitles_teim">1 Hortense Acton née Mitchell&amp;#39;s travels</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Box: 3, Folder: 1</field>
+     <field name="location_si">Box: 3, Folder: 1</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series VI: Postcards</field>
+     <field name="series_sim">Subseries D: Postcards documenting Travels</field>
+-    <field name="series_sim">1 Hortense Acton née Mitchell's travels</field>
+-    <field name="series_si">Series VI: Postcards &gt;&gt; Subseries D: Postcards documenting Travels &gt;&gt; 1 Hortense Acton née Mitchell's travels &gt;&gt; 1908 (July 22-25) Italy</field>
++    <field name="series_sim">1 Hortense Acton née Mitchell&amp;#39;s travels</field>
++    <field name="series_si">Series VI: Postcards &gt;&gt; Subseries D: Postcards documenting Travels &gt;&gt; 1 Hortense Acton née Mitchell&#39;s travels &gt;&gt; 1908 (July 22-25) Italy</field>
+     <field name="heading_ssm">1908 (July 22-25) Italy</field>
+     <field name="unitdate_start_sim">1908</field>
+     <field name="unitdate_start_ssm">1908</field>

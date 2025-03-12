@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">10 Arthur Acton's family ancestors</field>
+-    <field name="unittitle_teim">10 Arthur Acton's family ancestors</field>
++    <field name="unittitle_ssm">10 Arthur Acton&#39;s family ancestors</field>
++    <field name="unittitle_teim">10 Arthur Acton&#39;s family ancestors</field>
+     <field name="ref_ssi">aspace_ref8810</field>
+     <field name="repository_ssi">vlp</field>
+     <field name="repository_sim">vlp</field>
+@@ -25,11 +25,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series III: Family Albums and Scrapbooks</field>
+     <field name="series_sim">Subseries A: Family Albums</field>
+-    <field name="series_si">Series III: Family Albums and Scrapbooks &gt;&gt; Subseries A: Family Albums &gt;&gt; 10 Arthur Acton's family ancestors</field>
+-    <field name="heading_ssm">10 Arthur Acton's family ancestors</field>
++    <field name="series_si">Series III: Family Albums and Scrapbooks &gt;&gt; Subseries A: Family Albums &gt;&gt; 10 Arthur Acton&#39;s family ancestors</field>
++    <field name="heading_ssm">10 Arthur Acton&#39;s family ancestors</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5186</field>
+   </doc>

@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref2336</field>
+     <field name="parent_unittitles_ssm">Series I: The Actons</field>
+     <field name="parent_unittitles_ssm">Subseries D: Acton, William (WA)</field>
+-    <field name="parent_unittitles_ssm">3 WA's painting activity</field>
++    <field name="parent_unittitles_ssm">3 WA&amp;#39;s painting activity</field>
+     <field name="parent_unittitles_teim">Series I: The Actons</field>
+     <field name="parent_unittitles_teim">Subseries D: Acton, William (WA)</field>
+-    <field name="parent_unittitles_teim">3 WA's painting activity</field>
++    <field name="parent_unittitles_teim">3 WA&amp;#39;s painting activity</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">WA's portrait of Dufferin and Ava, Maureen, Marchioness of</field>
+-    <field name="unittitle_teim">WA's portrait of Dufferin and Ava, Maureen, Marchioness of</field>
++    <field name="unittitle_ssm">WA&#39;s portrait of Dufferin and Ava, Maureen, Marchioness of</field>
++    <field name="unittitle_teim">WA&#39;s portrait of Dufferin and Ava, Maureen, Marchioness of</field>
+     <field name="unitid_teim">cuid1719</field>
+     <field name="unitid_ssm">cuid1719</field>
+     <field name="unitdate_normal_ssm">1930/1939</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Box: 13, Folder: 60</field>
+     <field name="location_si">Box: 13, Folder: 60</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries D: Acton, William (WA)</field>
+-    <field name="series_sim">3 WA's painting activity</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries D: Acton, William (WA) &gt;&gt; 3 WA's painting activity &gt;&gt; WA's portrait of Dufferin and Ava, Maureen, Marchioness of</field>
+-    <field name="heading_ssm">WA's portrait of Dufferin and Ava, Maureen, Marchioness of</field>
++    <field name="series_sim">3 WA&amp;#39;s painting activity</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries D: Acton, William (WA) &gt;&gt; 3 WA&#39;s painting activity &gt;&gt; WA&#39;s portrait of Dufferin and Ava, Maureen, Marchioness of</field>
++    <field name="heading_ssm">WA&#39;s portrait of Dufferin and Ava, Maureen, Marchioness of</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>
