@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_112</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Women's Trade Union League of New York Records</field>
+-    <field name="collection_ssm">Women's Trade Union League of New York Records</field>
++    <field name="collection_sim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="collection_ssm">Women&#39;s Trade Union League of New York Records</field>
+     <field name="collection_unitid_ssm">WAG.112</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Correspondence</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1908/1955</field>
+     <field name="unitdate_normal_sim">1908/1955</field>
+     <field name="unitdate_inclusive_teim">1908-1955, undated</field>
+-    <field name="scopecontent_teim">This series contains correspondence, the bulk of which comes from 1919-1926 and 1944-1955, with correspondence scattered throughout the rest of the organization's duration. It is mostly concerned with internal matters such as fundraising and the management of the League's clubhouse. The most substantial topic is the League's work for legislation at the state and national level. </field>
++    <field name="scopecontent_teim">This series contains correspondence, the bulk of which comes from 1919-1926 and 1944-1955, with correspondence scattered throughout the rest of the organization&#39;s duration. It is mostly concerned with internal matters such as fundraising and the management of the League&#39;s clubhouse. The most substantial topic is the League&#39;s work for legislation at the state and national level. </field>
+     <field name="scopecontent_teim">Researchers interested in the National WTUL will find here substantial portions of the official correspondence of two successive national presidents, Swartz and Schneiderman, carried on from the office of the New York League and interfiled with its correspondence. </field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -31,7 +31,8 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+-    <field name="collection_teim">Women's Trade Union League of New York Records</field>
++    <field name="collection_teim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="author_teim">and described by Nancy Schrom Dye, Description adapted by Nicole Greenhouse in April 2013</field>
+     <field name="collection_unitid_teim">WAG.112</field>
+     <field name="series_si">Series II: Correspondence</field>
+     <field name="heading_ssm">Series II: Correspondence</field>

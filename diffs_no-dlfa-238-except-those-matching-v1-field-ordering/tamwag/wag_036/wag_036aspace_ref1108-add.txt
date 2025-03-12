@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_036</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Actors' Fund of America Records</field>
+-    <field name="collection_ssm">Actors' Fund of America Records</field>
++    <field name="collection_sim">Actors&#39; Fund of America Records</field>
++    <field name="collection_ssm">Actors&#39; Fund of America Records</field>
+     <field name="collection_unitid_ssm">WAG.036</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VII: Rathbone Family Papers</field>
+@@ -21,7 +21,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Actors' Fund of America Records</field>
++    <field name="collection_teim">Actors&#39; Fund of America Records</field>
++    <field name="author_teim">Craig Savino, 2006-2008 and Adrien Hilton, 2009; Series XI added by Giana Ricci and Rachel Schimke.</field>
+     <field name="collection_unitid_teim">WAG.036</field>
+     <field name="series_si">Series VII: Rathbone Family Papers</field>
+     <field name="heading_ssm">Series VII: Rathbone Family Papers</field>

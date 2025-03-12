@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitdate_normal_teim">1964/1975</field>
+     <field name="unitdate_normal_sim">1964/1975</field>
+     <field name="unitdate_inclusive_teim">1964-1975</field>
+-    <field name="scopecontent_teim">The collection includes correspondence, conference material, educational pamphlets, photographs, and newspaper clippings dating from the mid-1960s to the mid-1970s. The papers document the UFT's organization of librarians, as well as efforts to improve school library standards.</field>
++    <field name="scopecontent_teim">The collection includes correspondence, conference material, educational pamphlets, photographs, and newspaper clippings dating from the mid-1960s to the mid-1970s. The papers document the UFT&#39;s organization of librarians, as well as efforts to improve school library standards.</field>
+     <field name="bioghist_teim">Sylvia Mendlow was a co-chairman of the United Federation of Teachers (UFT) Library Committee in New York City in the late 1960s.</field>
+     <field name="acqinfo_teim">Donated by Sylvia Mendlow in 1982. The accession number associated with this gift is 1950.040.</field>
+     <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+@@ -31,10 +31,10 @@
+     <field name="subject_teim">Librarians -- Political activity -- United States.</field>
+     <field name="subject_teim">Libraries -- New York (N.Y.)</field>
+     <field name="subject_teim">Library employees |x Labor unions |z New York (State) |z New York.</field>
+-    <field name="subject_teim">Librarians -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Librarians -- Political activity -- United States.</field>
+-    <field name="subject_teim">Libraries -- New York (N.Y.)</field>
+-    <field name="subject_teim">Library employees -- Labor unions -- New York (State) -- New York.</field>
++    <field name="subject_teim">Librarians --New York (State) --New York.</field>
++    <field name="subject_teim">Librarians -- Political activity -- United States.</field>
++    <field name="subject_teim">Libraries -- New York (N.Y.)</field>
++    <field name="subject_teim">Library employees --Labor unions --New York (State) --New York.</field>
+     <field name="subject_ssm">Librarians |z New York (State) |z New York.</field>
+     <field name="subject_ssm">Librarians -- Political activity -- United States.</field>
+     <field name="subject_ssm">Libraries -- New York (N.Y.)</field>
+@@ -55,10 +55,10 @@
+     <field name="name_sim">Mendlow, Sylvia</field>
+     <field name="name_teim">United Federation of Teachers</field>
+     <field name="name_teim">Mendlow, Sylvia</field>
+-    <field name="subject_sim">Librarians -- New York (State) -- New York.</field>
++    <field name="subject_sim">Librarians --New York (State) --New York.</field>
+     <field name="subject_sim">Librarians -- Political activity -- United States.</field>
+     <field name="subject_sim">Libraries -- New York (N.Y.)</field>
+-    <field name="subject_sim">Library employees -- Labor unions -- New York (State) -- New York.</field>
++    <field name="subject_sim">Library employees --Labor unions --New York (State) --New York.</field>
+     <field name="heading_ssm">Sylvia Mendlow Papers</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>

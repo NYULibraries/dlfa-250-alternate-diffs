@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_135</field>
+     <field name="parent_ssi">aspace_ref138</field>
+     <field name="parent_ssm">aspace_ref138</field>
+-    <field name="parent_unittitles_ssm">Series II: Officers' Papers</field>
+-    <field name="parent_unittitles_teim">Series II: Officers' Papers</field>
++    <field name="parent_unittitles_ssm">Series II: Officers&amp;#39; Papers</field>
++    <field name="parent_unittitles_teim">Series II: Officers&amp;#39; Papers</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 10, Folder: 13</field>
+     <field name="location_si">Box: 10, Folder: 13</field>
+     <field name="collection_teim">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
++    <field name="author_teim">Jessica Weglein</field>
+     <field name="collection_unitid_teim">WAG.135</field>
+-    <field name="series_sim">Series II: Officers' Papers</field>
+-    <field name="series_si">Series II: Officers' Papers &gt;&gt; Lorber Papers, General Files and Correspondence</field>
++    <field name="series_sim">Series II: Officers&amp;#39; Papers</field>
++    <field name="series_si">Series II: Officers&#39; Papers &gt;&gt; Lorber Papers, General Files and Correspondence</field>
+     <field name="heading_ssm">Lorber Papers, General Files and Correspondence</field>
+     <field name="unitdate_ssm">Jul 1976 - Dec 1976</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Connie Kopelov Papers</field>
+     <field name="collection_unitid_ssm">WAG.064</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">March for Women's Lives</field>
+-    <field name="unittitle_teim">March for Women's Lives</field>
++    <field name="unittitle_ssm">March for Women&#39;s Lives</field>
++    <field name="unittitle_teim">March for Women&#39;s Lives</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/309162</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/309162</field>
+     <field name="unitdate_teim">Apr 5, 1992</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 3, Folder: 11</field>
+     <field name="location_si">Box: 3, Folder: 11</field>
+     <field name="collection_teim">Connie Kopelov Papers</field>
++    <field name="author_teim">Jessie Wilkerson, Series IV processed by Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">WAG.064</field>
+     <field name="series_sim">Series III: Subject Files</field>
+-    <field name="series_si">Series III: Subject Files &gt;&gt; March for Women's Lives</field>
+-    <field name="heading_ssm">March for Women's Lives</field>
++    <field name="series_si">Series III: Subject Files &gt;&gt; March for Women&#39;s Lives</field>
++    <field name="heading_ssm">March for Women&#39;s Lives</field>
+     <field name="unitdate_ssm">Apr 5, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">108</field>

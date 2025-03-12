@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,16 +9,12 @@
+     <field name="parent_unittitles_teim">Series VI: Catholic Actors Guild Records</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Actors' Fund of America Records</field>
+-    <field name="collection_ssm">Actors' Fund of America Records</field>
++    <field name="collection_sim">Actors&#39; Fund of America Records</field>
++    <field name="collection_ssm">Actors&#39; Fund of America Records</field>
+     <field name="collection_unitid_ssm">WAG.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Call Board&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Call Board
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Call Board&lt;/em&gt;</field>
++    <field name="unittitle_teim">Call Board</field>
+     <field name="unitdate_normal_ssm">1964/1972</field>
+     <field name="unitdate_normal_teim">1964/1972</field>
+     <field name="unitdate_normal_sim">1964/1972</field>
+@@ -31,15 +27,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 28, Folder: 5</field>
+     <field name="location_si">Box: 28, Folder: 5</field>
+-    <field name="collection_teim">Actors' Fund of America Records</field>
++    <field name="collection_teim">Actors&#39; Fund of America Records</field>
++    <field name="author_teim">Craig Savino, 2006-2008 and Adrien Hilton, 2009; Series XI added by Giana Ricci and Rachel Schimke.</field>
+     <field name="collection_unitid_teim">WAG.036</field>
+     <field name="series_sim">Series VI: Catholic Actors Guild Records</field>
+-    <field name="series_si">Series VI: Catholic Actors Guild Records &gt;&gt; 
+-      &lt;em&gt;Call Board&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Call Board
+-    </field>
++    <field name="series_si">Series VI: Catholic Actors Guild Records &gt;&gt; &lt;em&gt;Call Board&lt;/em&gt;</field>
++    <field name="heading_ssm">Call Board</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>
+     <field name="unitdate_start_si">1964</field>

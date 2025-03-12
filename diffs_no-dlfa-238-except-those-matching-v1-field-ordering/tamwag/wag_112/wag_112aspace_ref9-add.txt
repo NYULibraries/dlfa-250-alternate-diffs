@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_112</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Women's Trade Union League of New York Records</field>
+-    <field name="collection_ssm">Women's Trade Union League of New York Records</field>
++    <field name="collection_sim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="collection_ssm">Women&#39;s Trade Union League of New York Records</field>
+     <field name="collection_unitid_ssm">WAG.112</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series VI: Card Catalogue</field>
+@@ -21,7 +21,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Women's Trade Union League of New York Records</field>
++    <field name="collection_teim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="author_teim">and described by Nancy Schrom Dye, Description adapted by Nicole Greenhouse in April 2013</field>
+     <field name="collection_unitid_teim">WAG.112</field>
+     <field name="series_si">Series VI: Card Catalogue</field>
+     <field name="heading_ssm">Series VI: Card Catalogue</field>

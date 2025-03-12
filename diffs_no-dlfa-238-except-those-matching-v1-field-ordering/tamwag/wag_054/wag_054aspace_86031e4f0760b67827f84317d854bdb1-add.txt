@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">wag_054</field>
+     <field name="parent_ssi">aspace_b3254f3ac5670835ca4e53447dcb6af8</field>
+     <field name="parent_ssm">aspace_b3254f3ac5670835ca4e53447dcb6af8</field>
+-    <field name="parent_unittitles_ssm">Series V: Union Label and Service Trades Department AFL and AFL-CIO
+-</field>
+-    <field name="parent_unittitles_teim">Series V: Union Label and Service Trades Department AFL and AFL-CIO
+-</field>
++    <field name="parent_unittitles_ssm">Series V: Union Label and Service Trades Department AFL and AFL-CIO&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series V: Union Label and Service Trades Department AFL and AFL-CIO&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
+@@ -15,10 +13,10 @@
+     <field name="collection_ssm">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
+     <field name="collection_unitid_ssm">WAG.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Do not buy"
+- 
+-</field>
+-    <field name="unittitle_teim">"Do not buy"
++    <field name="unittitle_ssm">&#34;Do not buy&#34;
++ 
++</field>
++    <field name="unittitle_teim">&#34;Do not buy&#34;
+  
+ </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/845084</field>
+@@ -36,14 +34,14 @@
+     <field name="location_ssm">Box: 7, Folder: 17</field>
+     <field name="location_si">Box: 7, Folder: 17</field>
+     <field name="collection_teim">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
++    <field name="author_teim">Mary Allison Farley with the assistance of William Huang</field>
+     <field name="collection_unitid_teim">WAG.054</field>
+-    <field name="series_sim">Series V: Union Label and Service Trades Department AFL and AFL-CIO
+-</field>
++    <field name="series_sim">Series V: Union Label and Service Trades Department AFL and AFL-CIO&amp;#xA;</field>
+     <field name="series_si">Series V: Union Label and Service Trades Department AFL and AFL-CIO
+- &gt;&gt; "Do not buy"
+- 
+-</field>
+-    <field name="heading_ssm">"Do not buy"
++ &gt;&gt; &#34;Do not buy&#34;
++ 
++</field>
++    <field name="heading_ssm">&#34;Do not buy&#34;
+  
+ </field>
+     <field name="unitdate_start_sim">1972</field>

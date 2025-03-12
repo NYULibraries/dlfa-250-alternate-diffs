@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_070</field>
+     <field name="parent_ssi">aspace_ref11</field>
+     <field name="parent_ssm">aspace_ref11</field>
+-    <field name="parent_unittitles_ssm">Series II: New York State Workman's Compensation Board, 1960-1988.</field>
+-    <field name="parent_unittitles_teim">Series II: New York State Workman's Compensation Board, 1960-1988.</field>
++    <field name="parent_unittitles_ssm">Series II: New York State Workman&amp;#39;s Compensation Board, 1960-1988.</field>
++    <field name="parent_unittitles_teim">Series II: New York State Workman&amp;#39;s Compensation Board, 1960-1988.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Seymour Posner Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 2, Folder: 18</field>
+     <field name="location_si">Box: 2, Folder: 18</field>
+     <field name="collection_teim">Seymour Posner Papers</field>
++    <field name="author_teim">Cathy Moran in 1989</field>
+     <field name="collection_unitid_teim">WAG.070</field>
+-    <field name="series_sim">Series II: New York State Workman's Compensation Board, 1960-1988.</field>
+-    <field name="series_si">Series II: New York State Workman's Compensation Board, 1960-1988. &gt;&gt; Editorials</field>
++    <field name="series_sim">Series II: New York State Workman&amp;#39;s Compensation Board, 1960-1988.</field>
++    <field name="series_si">Series II: New York State Workman&#39;s Compensation Board, 1960-1988. &gt;&gt; Editorials</field>
+     <field name="heading_ssm">Editorials</field>
+     <field name="unitdate_start_sim">1979</field>
+     <field name="unitdate_start_ssm">1979</field>

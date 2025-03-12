@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_011</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Actors' Equity Association Records</field>
+-    <field name="collection_ssm">Actors' Equity Association Records</field>
++    <field name="collection_sim">Actors&#39; Equity Association Records</field>
++    <field name="collection_ssm">Actors&#39; Equity Association Records</field>
+     <field name="collection_unitid_ssm">WAG.011</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series X: Photographs, Video, and Ephemera</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1913/1991</field>
+     <field name="unitdate_normal_sim">1913/1991</field>
+     <field name="unitdate_inclusive_teim">1913-1991</field>
+-    <field name="scopecontent_teim">Consists of photographs of Actors' Equity Association members and events, clippings, invitations, publications, playbills, musical scores, piano practice books, scripts, and pins.</field>
++    <field name="scopecontent_teim">Consists of photographs of Actors&#39; Equity Association members and events, clippings, invitations, publications, playbills, musical scores, piano practice books, scripts, and pins.</field>
+     <field name="ref_ssi">aspace_ref9943</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Actors' Equity Association Records</field>
++    <field name="collection_teim">Actors&#39; Equity Association Records</field>
++    <field name="author_teim">K. Kevyne Baar, 2003-2006. Preliminary processing by Martha S. Lo Monaco and Miriam Frank, 1987. </field>
+     <field name="collection_unitid_teim">WAG.011</field>
+     <field name="series_si">Series X: Photographs, Video, and Ephemera</field>
+     <field name="heading_ssm">Series X: Photographs, Video, and Ephemera</field>

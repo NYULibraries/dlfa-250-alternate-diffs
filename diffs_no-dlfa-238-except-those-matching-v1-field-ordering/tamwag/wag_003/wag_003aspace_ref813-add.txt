@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Social Service Employees Union Records</field>
+     <field name="collection_unitid_ssm">WAG.003</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mayor's Management Report [Edward I. Koch]</field>
+-    <field name="unittitle_teim">Mayor's Management Report [Edward I. Koch]</field>
++    <field name="unittitle_ssm">Mayor&#39;s Management Report [Edward I. Koch]</field>
++    <field name="unittitle_teim">Mayor&#39;s Management Report [Edward I. Koch]</field>
+     <field name="unitdate_teim">Sep 17, 1989</field>
+     <field name="ref_ssi">aspace_ref813</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 23, Folder: 15</field>
+     <field name="location_si">Box: 23, Folder: 15</field>
+     <field name="collection_teim">Social Service Employees Union Records</field>
++    <field name="author_teim">K. Kevyne Baar</field>
+     <field name="collection_unitid_teim">WAG.003</field>
+     <field name="series_sim">Series III: General Files</field>
+-    <field name="series_si">Series III: General Files &gt;&gt; Mayor's Management Report [Edward I. Koch]</field>
+-    <field name="heading_ssm">Mayor's Management Report [Edward I. Koch]</field>
++    <field name="series_si">Series III: General Files &gt;&gt; Mayor&#39;s Management Report [Edward I. Koch]</field>
++    <field name="heading_ssm">Mayor&#39;s Management Report [Edward I. Koch]</field>
+     <field name="unitdate_ssm">Sep 17, 1989</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">800</field>

@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="parent_unittitles_teim">Series III: Film and Video Recordings</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Southern Tenant Farmers' Union Collection</field>
+-    <field name="collection_ssm">Southern Tenant Farmers' Union Collection</field>
++    <field name="collection_sim">Southern Tenant Farmers&#39; Union Collection</field>
++    <field name="collection_ssm">Southern Tenant Farmers&#39; Union Collection</field>
+     <field name="collection_unitid_ssm">WAG.329</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Very Rony, Arthur Schlesinger Jr. ("Cannister #1")</field>
+-    <field name="unittitle_teim">Very Rony, Arthur Schlesinger Jr. ("Cannister #1")</field>
++    <field name="unittitle_ssm">Very Rony, Arthur Schlesinger Jr. (&#34;Cannister #1&#34;)</field>
++    <field name="unittitle_teim">Very Rony, Arthur Schlesinger Jr. (&#34;Cannister #1&#34;)</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref124</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -24,11 +24,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 7, reel: 1-6</field>
+     <field name="location_si">Box: 7, reel: 1-6</field>
+-    <field name="collection_teim">Southern Tenant Farmers' Union Collection</field>
++    <field name="collection_teim">Southern Tenant Farmers&#39; Union Collection</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">WAG.329</field>
+     <field name="series_sim">Series III: Film and Video Recordings</field>
+-    <field name="series_si">Series III: Film and Video Recordings &gt;&gt; Very Rony, Arthur Schlesinger Jr. ("Cannister #1")</field>
+-    <field name="heading_ssm">Very Rony, Arthur Schlesinger Jr. ("Cannister #1")</field>
++    <field name="series_si">Series III: Film and Video Recordings &gt;&gt; Very Rony, Arthur Schlesinger Jr. (&#34;Cannister #1&#34;)</field>
++    <field name="heading_ssm">Very Rony, Arthur Schlesinger Jr. (&#34;Cannister #1&#34;)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">136</field>

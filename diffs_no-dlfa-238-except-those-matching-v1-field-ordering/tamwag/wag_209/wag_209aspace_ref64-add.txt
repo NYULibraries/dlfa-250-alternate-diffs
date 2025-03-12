@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">American Guild of Musical Artists Records</field>
+     <field name="collection_unitid_ssm">WAG.209</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Agreements: Managers' contract</field>
+-    <field name="unittitle_teim">Agreements: Managers' contract</field>
++    <field name="unittitle_ssm">Agreements: Managers&#39; contract</field>
++    <field name="unittitle_teim">Agreements: Managers&#39; contract</field>
+     <field name="unitdate_normal_ssm">1944/1949</field>
+     <field name="unitdate_normal_teim">1944/1949</field>
+     <field name="unitdate_normal_sim">1944/1949</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 19</field>
+     <field name="location_si">Box: 2, Folder: 19</field>
+     <field name="collection_teim">American Guild of Musical Artists Records</field>
++    <field name="author_teim">Annie Grunow, 2007</field>
+     <field name="collection_unitid_teim">WAG.209</field>
+     <field name="series_sim">Series II: General Files</field>
+-    <field name="series_si">Series II: General Files &gt;&gt; Agreements: Managers' contract</field>
+-    <field name="heading_ssm">Agreements: Managers' contract</field>
++    <field name="series_si">Series II: General Files &gt;&gt; Agreements: Managers&#39; contract</field>
++    <field name="heading_ssm">Agreements: Managers&#39; contract</field>
+     <field name="unitdate_start_sim">1944</field>
+     <field name="unitdate_start_ssm">1944</field>
+     <field name="unitdate_start_si">1944</field>

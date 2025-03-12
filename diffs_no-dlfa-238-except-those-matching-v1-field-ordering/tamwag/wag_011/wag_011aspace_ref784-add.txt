@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries B: 1945-2004.</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Actors' Equity Association Records</field>
+-    <field name="collection_ssm">Actors' Equity Association Records</field>
++    <field name="collection_sim">Actors&#39; Equity Association Records</field>
++    <field name="collection_ssm">Actors&#39; Equity Association Records</field>
+     <field name="collection_unitid_ssm">WAG.011</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Theatre Authority: By-laws, Agreement, Brochures</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_ssm">1940/1969</field>
+     <field name="unitdate_normal_teim">1940/1969</field>
+     <field name="unitdate_normal_sim">1940/1969</field>
+-    <field name="unitdate_inclusive_teim">[1950's?]</field>
++    <field name="unitdate_inclusive_teim">[1950&#39;s?]</field>
+     <field name="ref_ssi">aspace_ref784</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -32,7 +32,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 17, Folder: 22</field>
+     <field name="location_si">Box: 17, Folder: 22</field>
+-    <field name="collection_teim">Actors' Equity Association Records</field>
++    <field name="collection_teim">Actors&#39; Equity Association Records</field>
++    <field name="author_teim">K. Kevyne Baar, 2003-2006. Preliminary processing by Martha S. Lo Monaco and Miriam Frank, 1987. </field>
+     <field name="collection_unitid_teim">WAG.011</field>
+     <field name="series_sim">Series III: General Files</field>
+     <field name="series_sim">Subseries B: 1945-2004.</field>
+@@ -44,7 +45,7 @@
+     <field name="unitdate_end_sim">1969</field>
+     <field name="unitdate_end_ssm">1969</field>
+     <field name="unitdate_end_si">1969</field>
+-    <field name="unitdate_ssm">Inclusive, [1950's?]</field>
++    <field name="unitdate_ssm">Inclusive, [1950&#39;s?]</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">783</field>
+   </doc>

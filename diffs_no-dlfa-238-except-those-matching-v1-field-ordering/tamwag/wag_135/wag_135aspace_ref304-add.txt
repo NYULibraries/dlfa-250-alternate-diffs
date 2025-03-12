@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
+     <field name="collection_unitid_ssm">WAG.135</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Entenmann's</field>
+-    <field name="unittitle_teim">Entenmann's</field>
++    <field name="unittitle_ssm">Entenmann&#39;s</field>
++    <field name="unittitle_teim">Entenmann&#39;s</field>
+     <field name="unitdate_normal_ssm">1987/1987</field>
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 15, Folder: 9</field>
+     <field name="location_si">Box: 15, Folder: 9</field>
+     <field name="collection_teim">Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</field>
++    <field name="author_teim">Jessica Weglein</field>
+     <field name="collection_unitid_teim">WAG.135</field>
+     <field name="series_sim">Series IV: Shop Files</field>
+-    <field name="series_si">Series IV: Shop Files &gt;&gt; Entenmann's</field>
+-    <field name="heading_ssm">Entenmann's</field>
++    <field name="series_si">Series IV: Shop Files &gt;&gt; Entenmann&#39;s</field>
++    <field name="heading_ssm">Entenmann&#39;s</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

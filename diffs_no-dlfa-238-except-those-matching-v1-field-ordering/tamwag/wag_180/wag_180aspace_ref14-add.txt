@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1930/1955</field>
+     <field name="unitdate_normal_sim">1930/1955</field>
+     <field name="unitdate_inclusive_teim">circa 1930s-1950s</field>
+-    <field name="scopecontent_teim">Five black and white photographs, including an undated group portrait shot outside "the Marble Shop" in the Bronx, group shots of Local 137 members on the job, at a demonstration, and at a conference.</field>
++    <field name="scopecontent_teim">Five black and white photographs, including an undated group portrait shot outside &#34;the Marble Shop&#34; in the Bronx, group shots of Local 137 members on the job, at a demonstration, and at a conference.</field>
+     <field name="ref_ssi">aspace_ref14</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: Shared Tamiment A005, Folder: 1</field>
+     <field name="location_si">Box: Shared Tamiment A005, Folder: 1</field>
+     <field name="collection_teim">Sheet Metal Workers International Association, Local 137 Records</field>
++    <field name="author_teim">Erika Gottfried</field>
+     <field name="collection_unitid_teim">WAG.180</field>
+     <field name="series_si">Photographs</field>
+     <field name="heading_ssm">Photographs</field>

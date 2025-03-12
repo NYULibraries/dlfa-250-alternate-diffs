@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_170</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">John Francis O'Donnell Papers</field>
+-    <field name="collection_ssm">John Francis O'Donnell Papers</field>
++    <field name="collection_sim">John Francis O&#39;Donnell Papers</field>
++    <field name="collection_ssm">John Francis O&#39;Donnell Papers</field>
+     <field name="collection_unitid_ssm">WAG.170</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Box 4</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1960/1999</field>
+     <field name="unitdate_normal_sim">1960/1999</field>
+     <field name="unitdate_inclusive_teim">circa 1960-1999</field>
+-    <field name="scopecontent_teim">This box contains O'Donnell's copies of the Manhattan and Bronx Surface Transit Operating Authority's "Exhibits for Contract Negotiations" from 1967, 1969, and 1976; the New York City Transit Authority's "Exhibits for Contract Negotiations" from 1959, 1961, 1963, 1969, 1971, 1976, 1978, and 1980; and the New York City Transit Authority's "Economic Fact Book" from 1967 and 1969. Also included in this box are countless other copies of various reports, collective bargaining agreements, and constitutions and by-laws concerning or produced by the American Postal Workers Union, the Utility Workers Union of America, and other unions.</field>
++    <field name="scopecontent_teim">This box contains O&#39;Donnell&#39;s copies of the Manhattan and Bronx Surface Transit Operating Authority&#39;s &#34;Exhibits for Contract Negotiations&#34; from 1967, 1969, and 1976; the New York City Transit Authority&#39;s &#34;Exhibits for Contract Negotiations&#34; from 1959, 1961, 1963, 1969, 1971, 1976, 1978, and 1980; and the New York City Transit Authority&#39;s &#34;Economic Fact Book&#34; from 1967 and 1969. Also included in this box are countless other copies of various reports, collective bargaining agreements, and constitutions and by-laws concerning or produced by the American Postal Workers Union, the Utility Workers Union of America, and other unions.</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+-    <field name="collection_teim">John Francis O'Donnell Papers</field>
++    <field name="collection_teim">John Francis O&#39;Donnell Papers</field>
++    <field name="author_teim">Rachel Schimke, 2014</field>
+     <field name="collection_unitid_teim">WAG.170</field>
+     <field name="series_si">Box 4</field>
+     <field name="heading_ssm">Box 4</field>

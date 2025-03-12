@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Hotel and Motel Trades Council Records</field>
+     <field name="collection_unitid_ssm">WAG.123</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Loew's Hotels</field>
+-    <field name="unittitle_teim">Loew's Hotels</field>
++    <field name="unittitle_ssm">Loew&#39;s Hotels</field>
++    <field name="unittitle_teim">Loew&#39;s Hotels</field>
+     <field name="unitdate_normal_ssm">1930/1987</field>
+     <field name="unitdate_normal_teim">1930/1987</field>
+     <field name="unitdate_normal_sim">1930/1987</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 15, Folder: 5</field>
+     <field name="location_si">Box: 15, Folder: 5</field>
+     <field name="collection_teim">New York Hotel and Motel Trades Council Records</field>
++    <field name="author_teim">Porsche Martin, Ted Casselman, Janet Greene and Gail Malmgreen, 1999; 2003; 2010</field>
+     <field name="collection_unitid_teim">WAG.123</field>
+     <field name="series_sim">Series III: General Files</field>
+-    <field name="series_si">Series III: General Files &gt;&gt; Loew's Hotels</field>
+-    <field name="heading_ssm">Loew's Hotels</field>
++    <field name="series_si">Series III: General Files &gt;&gt; Loew&#39;s Hotels</field>
++    <field name="heading_ssm">Loew&#39;s Hotels</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>

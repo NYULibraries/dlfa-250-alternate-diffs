@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_112</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Women's Trade Union League of New York Records</field>
+-    <field name="collection_ssm">Women's Trade Union League of New York Records</field>
++    <field name="collection_sim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="collection_ssm">Women&#39;s Trade Union League of New York Records</field>
+     <field name="collection_unitid_ssm">WAG.112</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV: Printed and Duplicated Material</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1907/1955</field>
+     <field name="unitdate_normal_sim">1907/1955</field>
+     <field name="unitdate_inclusive_teim">1907-1955</field>
+-    <field name="scopecontent_teim">The printed and duplicated series contains the New York League's Annual Reports, Convention Reports, and Monthly Bulletins.  It also contains items issued by the National and New York Leagues and other organizations and of state and federal legislative bills, assembled by the New York League.</field>
++    <field name="scopecontent_teim">The printed and duplicated series contains the New York League&#39;s Annual Reports, Convention Reports, and Monthly Bulletins.  It also contains items issued by the National and New York Leagues and other organizations and of state and federal legislative bills, assembled by the New York League.</field>
+     <field name="ref_ssi">aspace_ref7</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,7 +28,8 @@
+     <field name="location_ssm">Box: 9</field>
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+-    <field name="collection_teim">Women's Trade Union League of New York Records</field>
++    <field name="collection_teim">Women&#39;s Trade Union League of New York Records</field>
++    <field name="author_teim">and described by Nancy Schrom Dye, Description adapted by Nicole Greenhouse in April 2013</field>
+     <field name="collection_unitid_teim">WAG.112</field>
+     <field name="series_si">Series IV: Printed and Duplicated Material</field>
+     <field name="heading_ssm">Series IV: Printed and Duplicated Material</field>

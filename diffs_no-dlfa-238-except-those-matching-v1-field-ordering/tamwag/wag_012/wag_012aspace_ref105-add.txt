@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_012</field>
+     <field name="parent_ssi">aspace_ref27</field>
+     <field name="parent_ssm">aspace_ref27</field>
+-    <field name="parent_unittitles_ssm">Series II: General and Macy's Herald Square Files</field>
+-    <field name="parent_unittitles_teim">Series II: General and Macy's Herald Square Files</field>
++    <field name="parent_unittitles_ssm">Series II: General and Macy&amp;#39;s Herald Square Files</field>
++    <field name="parent_unittitles_teim">Series II: General and Macy&amp;#39;s Herald Square Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Retail, Wholesale, and Department Store Union (RWDSU), Local 1-S, Records</field>
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Retail, Wholesale, and Department Store Union (RWDSU), Local 1-S, Records</field>
+     <field name="collection_unitid_ssm">WAG.012</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Macy Star&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Macy Star
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Macy Star&lt;/em&gt;</field>
++    <field name="unittitle_teim">Macy Star</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/273655</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/273655</field>
+     <field name="unitdate_normal_ssm">1946/1977</field>
+@@ -34,14 +30,11 @@
+     <field name="location_ssm">Box: 5, Folder: 1</field>
+     <field name="location_si">Box: 5, Folder: 1</field>
+     <field name="collection_teim">Retail, Wholesale, and Department Store Union (RWDSU), Local 1-S, Records</field>
++    <field name="author_teim">Processed by Hillel Arnold</field>
+     <field name="collection_unitid_teim">WAG.012</field>
+-    <field name="series_sim">Series II: General and Macy's Herald Square Files</field>
+-    <field name="series_si">Series II: General and Macy's Herald Square Files &gt;&gt; 
+-      &lt;em&gt;Macy Star&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Macy Star
+-    </field>
++    <field name="series_sim">Series II: General and Macy&amp;#39;s Herald Square Files</field>
++    <field name="series_si">Series II: General and Macy&#39;s Herald Square Files &gt;&gt; &lt;em&gt;Macy Star&lt;/em&gt;</field>
++    <field name="heading_ssm">Macy Star</field>
+     <field name="unitdate_start_sim">1946</field>
+     <field name="unitdate_start_ssm">1946</field>
+     <field name="unitdate_start_si">1946</field>

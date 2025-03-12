@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Labor History Association Records</field>
+     <field name="collection_unitid_ssm">WAG.198</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Video: "Labor History Happened Here"</field>
+-    <field name="unittitle_teim">Video: "Labor History Happened Here"</field>
++    <field name="unittitle_ssm">Video: &#34;Labor History Happened Here&#34;</field>
++    <field name="unittitle_teim">Video: &#34;Labor History Happened Here&#34;</field>
+     <field name="unitdate_normal_ssm">1999-05-22/1999-05-22</field>
+     <field name="unitdate_normal_teim">1999-05-22/1999-05-22</field>
+     <field name="unitdate_normal_sim">1999-05-22/1999-05-22</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: Shared Tamiment 015</field>
+     <field name="location_si">Box: Shared Tamiment 015</field>
+     <field name="collection_teim">New York Labor History Association Records</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">WAG.198</field>
+     <field name="series_sim">Series II: Special Events, Projects, and Publications</field>
+-    <field name="series_si">Series II: Special Events, Projects, and Publications &gt;&gt; Video: "Labor History Happened Here"</field>
+-    <field name="heading_ssm">Video: "Labor History Happened Here"</field>
++    <field name="series_si">Series II: Special Events, Projects, and Publications &gt;&gt; Video: &#34;Labor History Happened Here&#34;</field>
++    <field name="heading_ssm">Video: &#34;Labor History Happened Here&#34;</field>
+     <field name="unitdate_ssm">1999-05-22</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">38</field>

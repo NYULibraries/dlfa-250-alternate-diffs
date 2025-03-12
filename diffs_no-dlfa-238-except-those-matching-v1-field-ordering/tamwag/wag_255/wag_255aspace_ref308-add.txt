@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Randolph Papers</field>
+     <field name="collection_unitid_ssm">WAG.255</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Poems: Selections from Carl Sandburg's &lt;em&gt;The People, Yes&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Poems: Selections from Carl Sandburg's The People, Yes</field>
++    <field name="unittitle_ssm">Poems: Selections from Carl Sandburg&#39;s &lt;em&gt;The People, Yes&lt;/em&gt;</field>
++    <field name="unittitle_teim">Poems: Selections from Carl Sandburg&#39;s The People, Yes</field>
+     <field name="unitdate_normal_ssm">1940/1999</field>
+     <field name="unitdate_normal_teim">1940/1999</field>
+     <field name="unitdate_normal_sim">1940/1999</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 6, Folder: 4</field>
+     <field name="location_si">Box: 6, Folder: 4</field>
+     <field name="collection_teim">John Randolph Papers</field>
++    <field name="author_teim">K. Kevyne Baar, 2009</field>
+     <field name="collection_unitid_teim">WAG.255</field>
+     <field name="series_sim">Series III: Productions and Professional Activities</field>
+-    <field name="series_si">Series III: Productions and Professional Activities &gt;&gt; Poems: Selections from Carl Sandburg's &lt;em&gt;The People, Yes&lt;/em&gt;</field>
+-    <field name="heading_ssm">Poems: Selections from Carl Sandburg's The People, Yes</field>
++    <field name="series_si">Series III: Productions and Professional Activities &gt;&gt; Poems: Selections from Carl Sandburg&#39;s &lt;em&gt;The People, Yes&lt;/em&gt;</field>
++    <field name="heading_ssm">Poems: Selections from Carl Sandburg&#39;s The People, Yes</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

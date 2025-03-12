@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">wag_054</field>
+     <field name="parent_ssi">aspace_c004aa2008ef28fcc91dc947d024d73c</field>
+     <field name="parent_ssm">aspace_c004aa2008ef28fcc91dc947d024d73c</field>
+-    <field name="parent_unittitles_ssm">Series IV: Officers' Correspondence</field>
+-    <field name="parent_unittitles_teim">Series IV: Officers' Correspondence</field>
++    <field name="parent_unittitles_ssm">Series IV: Officers&amp;#39; Correspondence</field>
++    <field name="parent_unittitles_teim">Series IV: Officers&amp;#39; Correspondence</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
+@@ -28,9 +28,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Union Label and Service Trades Council of Greater New York and Long Island Records</field>
++    <field name="author_teim">Mary Allison Farley with the assistance of William Huang</field>
+     <field name="collection_unitid_teim">WAG.054</field>
+-    <field name="series_sim">Series IV: Officers' Correspondence</field>
+-    <field name="series_si">Series IV: Officers' Correspondence &gt;&gt; Subseries A. General</field>
++    <field name="series_sim">Series IV: Officers&amp;#39; Correspondence</field>
++    <field name="series_si">Series IV: Officers&#39; Correspondence &gt;&gt; Subseries A. General</field>
+     <field name="heading_ssm">Subseries A. General</field>
+     <field name="unitdate_start_sim">1919</field>
+     <field name="unitdate_start_ssm">1919</field>

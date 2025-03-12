@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Jewish Labor Committee Records, Part I</field>
+     <field name="collection_unitid_ssm">WAG.025.001</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Workmen's Circle</field>
+-    <field name="unittitle_teim">Workmen's Circle</field>
++    <field name="unittitle_ssm">Workmen&#39;s Circle</field>
++    <field name="unittitle_teim">Workmen&#39;s Circle</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/286396</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/286396</field>
+     <field name="unitdate_teim">May 1941-Jun 1941</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 53, Folder: 1</field>
+     <field name="location_si">Box: 53, Folder: 1</field>
+     <field name="collection_teim">Jewish Labor Committee Records, Part I</field>
++    <field name="author_teim">Gail Malmgreen, Karl Dunkel, Ethel Lobman, et al., 1990-1996.</field>
+     <field name="collection_unitid_teim">WAG.025.001</field>
+     <field name="series_sim">Series IV: Rescue and Relief</field>
+     <field name="series_sim">Subseries IV:B: Relief</field>
+     <field name="series_sim">Sub Subseries IV:B:2: Immigration: Individual Files (arranged alphabetically)</field>
+-    <field name="series_si">Series IV: Rescue and Relief &gt;&gt; Subseries IV:B: Relief &gt;&gt; Sub Subseries IV:B:2: Immigration: Individual Files (arranged alphabetically) &gt;&gt; Workmen's Circle</field>
+-    <field name="heading_ssm">Workmen's Circle</field>
++    <field name="series_si">Series IV: Rescue and Relief &gt;&gt; Subseries IV:B: Relief &gt;&gt; Sub Subseries IV:B:2: Immigration: Individual Files (arranged alphabetically) &gt;&gt; Workmen&#39;s Circle</field>
++    <field name="heading_ssm">Workmen&#39;s Circle</field>
+     <field name="unitdate_ssm">May 1941-Jun 1941</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1916</field>

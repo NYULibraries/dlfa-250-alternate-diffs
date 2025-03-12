@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1976/2018</field>
+     <field name="unitdate_normal_sim">1976/2018</field>
+     <field name="unitdate_inclusive_teim">1976-2018</field>
+-    <field name="scopecontent_teim">This series consists of documents, photographs, posters and broadsides pertaining to special events and projects, annual conferences, and organizational publications, such as Labor History Month, the John Commerford Award, the Barbara Wertheimer prize, film festivals, labor history tours, World History News, map projects, and occasional papers written by history students. This series also contains the organization's archived website and some unprocessed electronic records on physical carriers.</field>
++    <field name="scopecontent_teim">This series consists of documents, photographs, posters and broadsides pertaining to special events and projects, annual conferences, and organizational publications, such as Labor History Month, the John Commerford Award, the Barbara Wertheimer prize, film festivals, labor history tours, World History News, map projects, and occasional papers written by history students. This series also contains the organization&#39;s archived website and some unprocessed electronic records on physical carriers.</field>
+     <field name="ref_ssi">aspace_fd40db1ea7e654290b798127ea0d2fdb</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">New York Labor History Association Records</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">WAG.198</field>
+     <field name="series_si">Series II: Special Events, Projects, and Publications</field>
+     <field name="heading_ssm">Series II: Special Events, Projects, and Publications</field>

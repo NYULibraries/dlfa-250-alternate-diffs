@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1991/1996</field>
+     <field name="unitdate_normal_sim">1991/1996</field>
+     <field name="unitdate_inclusive_teim">1991-1996</field>
+-    <field name="scopecontent_teim">This box mostly contains news articles on the Taystee Bakery shutdown and the worker's efforts to create an employee-owned bakery.</field>
++    <field name="scopecontent_teim">This box mostly contains news articles on the Taystee Bakery shutdown and the worker&#39;s efforts to create an employee-owned bakery.</field>
+     <field name="scopecontent_teim">There are also two binders that contain an assortment of news articles and correspondence to Lynn Bell.</field>
+     <field name="ref_ssi">aspace_ref31</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Taystee Bakery Organizing Campaign Records</field>
++    <field name="author_teim">Rachel Schimke, 2014</field>
+     <field name="collection_unitid_teim">WAG.216</field>
+     <field name="series_si">Box 5</field>
+     <field name="heading_ssm">Box 5</field>

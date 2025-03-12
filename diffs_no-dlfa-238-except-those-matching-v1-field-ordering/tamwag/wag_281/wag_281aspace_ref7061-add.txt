@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series V: Networks</field>
+     <field name="unittitle_teim">Series V: Networks</field>
+-    <field name="scopecontent_teim">This series consists of the National Office's interactions with the major networks: ABC (American Broadcasting Corporation), CBS (Columbia Broadcasting System), NBC (National Broadcasting System), and Dumont. Materials include agreements, codes, claims, arbitrations, and correspondence.</field>
++    <field name="scopecontent_teim">This series consists of the National Office&#39;s interactions with the major networks: ABC (American Broadcasting Corporation), CBS (Columbia Broadcasting System), NBC (National Broadcasting System), and Dumont. Materials include agreements, codes, claims, arbitrations, and correspondence.</field>
+     <field name="ref_ssi">aspace_ref7061</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">American Federation of Television and Radio Artists (AFTRA) National Office Records</field>
++    <field name="author_teim">K. Kevyne Baar with Ellie d&#39;Eustachio, Aidan Kinney, Kelsey Marksteiner</field>
+     <field name="collection_unitid_teim">WAG.281</field>
+     <field name="series_si">Series V: Networks</field>
+     <field name="heading_ssm">Series V: Networks</field>
