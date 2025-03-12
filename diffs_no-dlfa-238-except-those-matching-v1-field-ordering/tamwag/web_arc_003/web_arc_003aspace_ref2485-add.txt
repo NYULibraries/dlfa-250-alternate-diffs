@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="creator_ssm">Millions March NYC</field>
+     <field name="creator_ssm">Millions March NYC</field>
+     <field name="unitdate_teim">Dec 10, 2014-ongoing</field>
+-    <field name="scopecontent_teim">The Millions March NYC was a march on December 13th 2014, which was part of a national "Day of Anger" in response to the police murders of Mike Brown, Eric Garner, Tamir Rice and Akai Gurley in 2014. The website includes logistical information about the march, as well as the demands of the Black Lives Matter movement.</field>
++    <field name="scopecontent_teim">The Millions March NYC was a march on December 13th 2014, which was part of a national &#34;Day of Anger&#34; in response to the police murders of Mike Brown, Eric Garner, Tamir Rice and Akai Gurley in 2014. The website includes logistical information about the march, as well as the demands of the Black Lives Matter movement.</field>
+     <field name="corpname_teim">Millions March NYC</field>
+     <field name="corpname_ssm">Millions March NYC</field>
+     <field name="geogname_teim">New York (N.Y.).</field>
+@@ -49,6 +49,7 @@
+     <field name="subject_sim">Police brutality.</field>
+     <field name="subject_sim">Black power.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Millions March NYC Archived Website</field>
+     <field name="heading_ssm">Millions March NYC Archived Website</field>

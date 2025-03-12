@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2012/2013</field>
+     <field name="unitdate_normal_sim">2012/2013</field>
+     <field name="unitdate_inclusive_teim">Jul 24, 2012-Apr 23, 2013</field>
+-    <field name="scopecontent_teim">off our backs is a feminist news journal that was first published in 1970. Their mission is to provide news and information about women's lives and feminist activism, educate the public about the status of women around the world, serve as a forum for feminist ideas and theory, be an information resource on feminist, women's, and lesbian culture, and seek social justice and equality for women worldwide. The website features access to back issues.</field>
++    <field name="scopecontent_teim">off our backs is a feminist news journal that was first published in 1970. Their mission is to provide news and information about women&#39;s lives and feminist activism, educate the public about the status of women around the world, serve as a forum for feminist ideas and theory, be an information resource on feminist, women&#39;s, and lesbian culture, and seek social justice and equality for women worldwide. The website features access to back issues.</field>
+     <field name="corpname_teim">off our backs</field>
+     <field name="corpname_ssm">off our backs</field>
+     <field name="subject_teim">Feminism and mass media.</field>
+@@ -40,6 +40,7 @@
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Feminism and mass media.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Off Our Backs Archived Website</field>
+     <field name="heading_ssm">Off Our Backs Archived Website</field>

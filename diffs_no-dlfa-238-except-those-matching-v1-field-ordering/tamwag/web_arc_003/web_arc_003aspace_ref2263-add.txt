@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="creator_ssm">Greenwich House (New York, N.Y.)</field>
+     <field name="creator_ssm">Greenwich House (New York, N.Y.)</field>
+     <field name="unitdate_teim">Aug 25, 2009 - ongoing</field>
+-    <field name="scopecontent_teim">Greenwich House, founded in 1902 by Mary Kingsbury Simkhovitch, is a social settlement house in the Greenwich Village section of New York City. Initially founded to help New York's immigrant populations adjust to life in a new country. The organization by offers social and health services, cultural and educational programs, and opportunities for civic involvement to New Yorkers of all ages and backgrounds, including a chemical dependency program, classes in music and pottery, a nursery, and a senior center.</field>
++    <field name="scopecontent_teim">Greenwich House, founded in 1902 by Mary Kingsbury Simkhovitch, is a social settlement house in the Greenwich Village section of New York City. Initially founded to help New York&#39;s immigrant populations adjust to life in a new country. The organization by offers social and health services, cultural and educational programs, and opportunities for civic involvement to New Yorkers of all ages and backgrounds, including a chemical dependency program, classes in music and pottery, a nursery, and a senior center.</field>
+     <field name="corpname_teim">Greenwich House (New York, N.Y.)</field>
+     <field name="corpname_ssm">Greenwich House (New York, N.Y.)</field>
+     <field name="dao_teim">Greenwich House</field>
+@@ -33,6 +33,7 @@
+     <field name="name_teim">Greenwich House (New York, N.Y.)</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Greenwich House Archived Website</field>
+     <field name="heading_ssm">Greenwich House Archived Website</field>

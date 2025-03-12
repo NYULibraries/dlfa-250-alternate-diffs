@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">Aug 9, 2009</field>
+-    <field name="scopecontent_teim">The Weather Underground Organization, also known as Weathermen, described itself as a revolutionary organization of communist men and women. The FBI's analysis of its motivations, beliefs, and international travels are outlined in this 420 pp. summary, released under the Freedom of Information Act.</field>
++    <field name="scopecontent_teim">The Weather Underground Organization, also known as Weathermen, described itself as a revolutionary organization of communist men and women. The FBI&#39;s analysis of its motivations, beliefs, and international travels are outlined in this 420 pp. summary, released under the Freedom of Information Act.</field>
+     <field name="corpname_teim">United States. Federal Bureau of Investigation</field>
+     <field name="corpname_teim">Weather Underground Organization</field>
+     <field name="corpname_ssm">United States. Federal Bureau of Investigation</field>
+@@ -52,6 +52,7 @@
+     <field name="subject_sim">Terrorists -- United States</field>
+     <field name="subject_sim">New Left -- United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Weather Underground FBI Report 1976 Archived Website</field>
+     <field name="heading_ssm">Weather Underground FBI Report 1976 Archived Website</field>

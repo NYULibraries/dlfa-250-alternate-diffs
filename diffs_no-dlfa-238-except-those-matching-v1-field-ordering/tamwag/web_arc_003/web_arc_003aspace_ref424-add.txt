@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,11 +23,11 @@
+     <field name="geogname_teim">Lower East Side (New York, N.Y.) -- Social conditions.</field>
+     <field name="geogname_ssm">Lower East Side (New York, N.Y.) -- Social conditions.</field>
+     <field name="subject_teim">Low-income housing.</field>
+-    <field name="subject_teim">Tenants' associations.</field>
+-    <field name="subject_teim">Low-income housing.</field>
+-    <field name="subject_teim">Tenants' associations.</field>
++    <field name="subject_teim">Tenants&#39; associations.</field>
++    <field name="subject_teim">Low-income housing.</field>
++    <field name="subject_teim">Tenants&#39; associations.</field>
+     <field name="subject_ssm">Low-income housing.</field>
+-    <field name="subject_ssm">Tenants' associations.</field>
++    <field name="subject_ssm">Tenants&#39; associations.</field>
+     <field name="dao_teim">Cooper Square Committee Archived Website: March 2012-ongoing</field>
+     <field name="dao_ssm">Cooper Square Committee Archived Website: March 2012-ongoing</field>
+     <field name="ref_ssi">aspace_ref424</field>
+@@ -43,8 +43,9 @@
+     <field name="place_ssm">Lower East Side (New York, N.Y.) -- Social conditions.</field>
+     <field name="place_sim">Lower East Side (New York, N.Y.) -- Social conditions.</field>
+     <field name="subject_sim">Low-income housing.</field>
+-    <field name="subject_sim">Tenants' associations.</field>
++    <field name="subject_sim">Tenants&#39; associations.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Cooper Square Committee Archived Website</field>
+     <field name="heading_ssm">Cooper Square Committee Archived Website</field>

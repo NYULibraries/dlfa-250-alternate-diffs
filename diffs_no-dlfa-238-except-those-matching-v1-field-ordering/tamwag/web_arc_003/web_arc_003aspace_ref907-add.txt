@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="creator_ssm">Trotsky Internet Archive</field>
+     <field name="creator_ssm">Trotsky Internet Archive</field>
+     <field name="unitdate_teim">Dec 23, 2008-ongoing</field>
+-    <field name="scopecontent_teim">The Leon Trotsky Internet Archive contains Trotsky's writings, biographical information, photographs, and other documents.</field>
++    <field name="scopecontent_teim">The Leon Trotsky Internet Archive contains Trotsky&#39;s writings, biographical information, photographs, and other documents.</field>
+     <field name="corpname_teim">Trotsky Internet Archive</field>
+     <field name="corpname_ssm">Trotsky Internet Archive</field>
+     <field name="persname_teim">Trotsky, Leon, 1879-1940</field>
+@@ -45,6 +45,7 @@
+     <field name="subject_sim">Trotskyism.</field>
+     <field name="subject_sim">Communism.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Leon Trotsky Internet Archive Archived Website</field>
+     <field name="heading_ssm">Leon Trotsky Internet Archive Archived Website</field>

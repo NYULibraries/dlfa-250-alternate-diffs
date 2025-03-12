@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,11 +21,11 @@
+     <field name="scopecontent_teim">The Professional Staff Congress is the union that represents more than 20,000 faculty and staff at the City University of New York (CUNY). The union negotiates, administers and enforces collective bargaining agreements; protects the rights of staff through the grievance and arbitration process; engages in political activity on behalf of CUNY and its staff and students; and advocates for the interests of the instructional staff in various forums. It is affiliated with the American Federation of Teachers (AFT), the American Association of University Professors (AAUP), the New York State United Teachers (NYSUT), and the NYC Central Labor Council (CLC).</field>
+     <field name="corpname_teim">Professional Staff Congress/City University of New York</field>
+     <field name="corpname_ssm">Professional Staff Congress/City University of New York</field>
+-    <field name="subject_teim">College teachers' unions -- New York (State) -- New York</field>
++    <field name="subject_teim">College teachers&#39; unions -- New York (State) -- New York</field>
+     <field name="subject_teim">Universities and colleges |x Employees |x Labor unions |z New York (State) |z New York.</field>
+-    <field name="subject_teim">College teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_teim">Universities and colleges -- Employees -- Labor unions -- New York (State) -- New York.</field>
+-    <field name="subject_ssm">College teachers' unions -- New York (State) -- New York</field>
++    <field name="subject_teim">College teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_teim">Universities and colleges --Employees --Labor unions --New York (State) --New York.</field>
++    <field name="subject_ssm">College teachers&#39; unions -- New York (State) -- New York</field>
+     <field name="subject_ssm">Universities and colleges |x Employees |x Labor unions |z New York (State) |z New York.</field>
+     <field name="dao_teim">Professional Staff Congress Archived Website: September 2007-ongoing</field>
+     <field name="dao_ssm">Professional Staff Congress Archived Website: September 2007-ongoing</field>
+@@ -39,9 +39,10 @@
+     <field name="name_sim">Professional Staff Congress/City University of New York</field>
+     <field name="name_teim">Professional Staff Congress/City University of New York</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">College teachers' unions -- New York (State) -- New York</field>
+-    <field name="subject_sim">Universities and colleges -- Employees -- Labor unions -- New York (State) -- New York.</field>
++    <field name="subject_sim">College teachers&#39; unions -- New York (State) -- New York</field>
++    <field name="subject_sim">Universities and colleges --Employees --Labor unions --New York (State) --New York.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">Professional Staff Congress/City University of New York. Archived Website</field>
+     <field name="heading_ssm">Professional Staff Congress/City University of New York. Archived Website</field>

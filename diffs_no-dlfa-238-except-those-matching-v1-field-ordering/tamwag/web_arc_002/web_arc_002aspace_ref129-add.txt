@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,8 +23,8 @@
+     <field name="corpname_ssm">Communications Workers of America. Local 1032 (Ewing, N.J.)</field>
+     <field name="subject_teim">Telecommunication |x Labor unions |z New Jersey.</field>
+     <field name="subject_teim">Telecommunication |x Labor unions |z New York.</field>
+-    <field name="subject_teim">Telecommunication -- Labor unions -- New Jersey.</field>
+-    <field name="subject_teim">Telecommunication -- Labor unions -- New York.</field>
++    <field name="subject_teim">Telecommunication --Labor unions --New Jersey.</field>
++    <field name="subject_teim">Telecommunication --Labor unions --New York.</field>
+     <field name="subject_ssm">Telecommunication |x Labor unions |z New Jersey.</field>
+     <field name="subject_ssm">Telecommunication |x Labor unions |z New York.</field>
+     <field name="dao_teim">Communications Workers of America, Local 1032</field>
+@@ -39,9 +39,10 @@
+     <field name="name_sim">Communications Workers of America. Local 1032 (Ewing, N.J.)</field>
+     <field name="name_teim">Communications Workers of America. Local 1032 (Ewing, N.J.)</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="subject_sim">Telecommunication -- Labor unions -- New Jersey.</field>
+-    <field name="subject_sim">Telecommunication -- Labor unions -- New York.</field>
++    <field name="subject_sim">Telecommunication --Labor unions --New Jersey.</field>
++    <field name="subject_sim">Telecommunication --Labor unions --New York.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">Communications Workers of America, Local 1032 Archived Website</field>
+     <field name="heading_ssm">Communications Workers of America, Local 1032 Archived Website</field>

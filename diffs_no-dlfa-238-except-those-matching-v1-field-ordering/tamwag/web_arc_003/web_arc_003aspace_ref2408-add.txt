@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2007/2009</field>
+     <field name="unitdate_normal_sim">2007/2009</field>
+     <field name="unitdate_inclusive_teim">Sep 28, 2007-Jul 24, 2009</field>
+-    <field name="scopecontent_teim">The American Friends Service Committee carries out service, development, social justice, and peace programs throughout the world. Founded by Quakers ( A pacifist Christian denomination) in 1917 to provide conscientious objectors with an opportunity to aid civilian war victims. AFSC's work is based on the Quaker belief in the worth of every person and faith in the power of love to overcome violence and injustice. The organization's mission and achievements won worldwide recognition in 1947 when it accepted the Nobel Peace Prize with the British Friends Service Council on behalf of all Quakers. This is the website for the Prison Watch campaign, which monitored injustices in the American prison system.</field>
++    <field name="scopecontent_teim">The American Friends Service Committee carries out service, development, social justice, and peace programs throughout the world. Founded by Quakers ( A pacifist Christian denomination) in 1917 to provide conscientious objectors with an opportunity to aid civilian war victims. AFSC&#39;s work is based on the Quaker belief in the worth of every person and faith in the power of love to overcome violence and injustice. The organization&#39;s mission and achievements won worldwide recognition in 1947 when it accepted the Nobel Peace Prize with the British Friends Service Council on behalf of all Quakers. This is the website for the Prison Watch campaign, which monitored injustices in the American prison system.</field>
+     <field name="corpname_teim">American Friends Service Committee</field>
+     <field name="corpname_ssm">American Friends Service Committee</field>
+     <field name="subject_teim">Prisons -- United States</field>
+@@ -44,6 +44,7 @@
+     <field name="subject_sim">Prisons -- United States</field>
+     <field name="subject_sim">Prisoners -- Civil rights -- United States.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">American Friends Service Committee Prison Watch Archived Website</field>
+     <field name="heading_ssm">American Friends Service Committee Prison Watch Archived Website</field>

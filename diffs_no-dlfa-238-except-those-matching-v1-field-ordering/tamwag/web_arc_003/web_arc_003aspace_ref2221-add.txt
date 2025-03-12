@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2009/2013</field>
+     <field name="unitdate_normal_sim">2009/2013</field>
+     <field name="unitdate_inclusive_teim">Aug 15, 2009 - Sep 10, 2013</field>
+-    <field name="scopecontent_teim">The Black Radical Congress (BRC), founded in 1998 in Chicago, is a radical African American activist coalition of organizations and individuals focused on advocating for broad progressive social justice, racial equality and economic justice goals within the United States. The BRC holds conferences and other programs. The website only gives information on the BRC's history and biographical information on notable individuals relating to the BRC.</field>
++    <field name="scopecontent_teim">The Black Radical Congress (BRC), founded in 1998 in Chicago, is a radical African American activist coalition of organizations and individuals focused on advocating for broad progressive social justice, racial equality and economic justice goals within the United States. The BRC holds conferences and other programs. The website only gives information on the BRC&#39;s history and biographical information on notable individuals relating to the BRC.</field>
+     <field name="corpname_teim">Black Radical Congress</field>
+     <field name="corpname_ssm">Black Radical Congress</field>
+     <field name="subject_teim">African American radicals</field>
+@@ -44,6 +44,7 @@
+     <field name="subject_sim">African American radicals</field>
+     <field name="subject_sim">Black nationalism.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">Black Radical Congress Archived Website</field>
+     <field name="heading_ssm">Black Radical Congress Archived Website</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">Jan 28, 2009-ongoing</field>
+-    <field name="scopecontent_teim">Local 802 of the American Federation of Musicians is a local union of professional musicians living or working in New York City, Nassau and Suffolk counties, New York. The union's mission is to fight for the interests and well being of the musicians employed in New York's music and entertainment industries through organizing and collective bargaining as well as through legislative and political action. The website contains agreements and contracts, their Allegro magazine and other news postings, and event listings.</field>
++    <field name="scopecontent_teim">Local 802 of the American Federation of Musicians is a local union of professional musicians living or working in New York City, Nassau and Suffolk counties, New York. The union&#39;s mission is to fight for the interests and well being of the musicians employed in New York&#39;s music and entertainment industries through organizing and collective bargaining as well as through legislative and political action. The website contains agreements and contracts, their Allegro magazine and other news postings, and event listings.</field>
+     <field name="corpname_teim">American Federation of Musicians. Local 802</field>
+     <field name="corpname_ssm">American Federation of Musicians. Local 802</field>
+     <field name="subject_teim">Musicians -- Labor unions -- New York (State) -- New York</field>
+@@ -38,6 +38,7 @@
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Musicians -- Labor unions -- New York (State) -- New York</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
++    <field name="author_teim">Nicole Greenhouse, in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">American Federation of Musicans, Local 802 Archived Website</field>
+     <field name="heading_ssm">American Federation of Musicans, Local 802 Archived Website</field>

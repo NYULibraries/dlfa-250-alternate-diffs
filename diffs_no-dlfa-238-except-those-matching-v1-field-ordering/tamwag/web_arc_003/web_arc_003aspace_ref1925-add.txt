@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="creator_ssm">Socialist Party (U.S.)</field>
+     <field name="creator_ssm">Socialist Party (U.S.)</field>
+     <field name="unitdate_teim">Dec 1, 2013- ongoing</field>
+-    <field name="scopecontent_teim">The Socialist magazine and website are published by members of the Socialist Party USA. The website contains information on the Socialist Party's platform, issues of the magazine, and articles.</field>
++    <field name="scopecontent_teim">The Socialist magazine and website are published by members of the Socialist Party USA. The website contains information on the Socialist Party&#39;s platform, issues of the magazine, and articles.</field>
+     <field name="corpname_teim">Socialist Party (U.S.)</field>
+     <field name="corpname_ssm">Socialist Party (U.S.)</field>
+     <field name="subject_teim">Socialists -- United States.</field>
+@@ -41,6 +41,7 @@
+     <field name="subject_sim">Socialists -- United States.</field>
+     <field name="subject_sim">Socialism -- United States -- Periodicals.</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
++    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+     <field name="collection_unitid_teim">WEB.ARC.003</field>
+     <field name="series_si">&lt;em&gt;The Socialist&lt;/em&gt; Archived Website</field>
+     <field name="heading_ssm">The Socialist Archived Website</field>
