@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref25</field>
+     <field name="parent_ssm">aspace_ref14</field>
+     <field name="parent_ssm">aspace_ref25</field>
+-    <field name="parent_unittitles_ssm">Series I: People's Olympics</field>
++    <field name="parent_unittitles_ssm">Series I: People&amp;#39;s Olympics</field>
+     <field name="parent_unittitles_ssm">Olimpiada Popular de Barcelona: Press Release</field>
+-    <field name="parent_unittitles_teim">Series I: People's Olympics</field>
++    <field name="parent_unittitles_teim">Series I: People&amp;#39;s Olympics</field>
+     <field name="parent_unittitles_teim">Olimpiada Popular de Barcelona: Press Release</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">Bernard R. Danchik Papers</field>
++    <field name="author_teim">Wendy Scheir, September 2004</field>
+     <field name="collection_unitid_teim">ALBA.033</field>
+-    <field name="series_sim">Series I: People's Olympics</field>
++    <field name="series_sim">Series I: People&amp;#39;s Olympics</field>
+     <field name="series_sim">Olimpiada Popular de Barcelona: Press Release</field>
+-    <field name="series_si">Series I: People's Olympics &gt;&gt; Olimpiada Popular de Barcelona: Press Release &gt;&gt; Olympic Gymnastics Tryouts: Program and Score Card</field>
++    <field name="series_si">Series I: People&#39;s Olympics &gt;&gt; Olimpiada Popular de Barcelona: Press Release &gt;&gt; Olympic Gymnastics Tryouts: Program and Score Card</field>
+     <field name="heading_ssm">Olympic Gymnastics Tryouts: Program and Score Card</field>
+     <field name="unitdate_ssm">Jun 1936</field>
+     <field name="date_range_sim">undated &amp; other</field>

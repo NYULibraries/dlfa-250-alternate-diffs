@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,10 @@
+     <field name="collection_ssm">Benjamin Iceland Papers</field>
+     <field name="collection_unitid_ssm">ALBA.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">World War II: "Yank—The Story of the War"</field>
+-    <field name="unittitle_teim">World War II: "Yank—The Story of the War"</field>
++    <field name="unittitle_ssm">World War II: &#34;Yank—The Story of the War&#34;
++</field>
++    <field name="unittitle_teim">World War II: &#34;Yank—The Story of the War&#34;
++</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref142</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +27,13 @@
+     <field name="location_ssm">Box: 3, Folder: 18</field>
+     <field name="location_si">Box: 3, Folder: 18</field>
+     <field name="collection_teim">Benjamin Iceland Papers</field>
++    <field name="author_teim">Alix Ross, Oct 2005</field>
+     <field name="collection_unitid_teim">ALBA.054</field>
+     <field name="series_sim">Series III: Subject Files, 1977-1990</field>
+-    <field name="series_si">Series III: Subject Files, 1977-1990 &gt;&gt; World War II: "Yank—The Story of the War"</field>
+-    <field name="heading_ssm">World War II: "Yank—The Story of the War"</field>
++    <field name="series_si">Series III: Subject Files, 1977-1990 &gt;&gt; World War II: &#34;Yank—The Story of the War&#34;
++</field>
++    <field name="heading_ssm">World War II: &#34;Yank—The Story of the War&#34;
++</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">128</field>

@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1980/1986</field>
+     <field name="unitdate_normal_teim">1980/1986</field>
+     <field name="unitdate_normal_sim">1980/1986</field>
+-    <field name="unitdate_inclusive_teim">1980; 1985; 1986</field>
++    <field name="unitdate_inclusive_teim">1980; 1985; 1986 </field>
+     <field name="ref_ssi">aspace_ref164</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,9 @@
+     <field name="location_ssm">Box: 3, Folder: 42</field>
+     <field name="location_si">Box: 3, Folder: 42</field>
+     <field name="collection_teim">Walter Schuetrum Papers</field>
++    <field name="author_teim">Ariel Zambenedetti, 2008, Gail Malmgreen, 2012. 
++Entered into Archivists Toolkit by Kate Dundon
++</field>
+     <field name="collection_unitid_teim">ALBA.136</field>
+     <field name="series_sim">Series II: General Files (Post-Spanish Civil War), 1946-1987.</field>
+     <field name="series_si">Series II: General Files (Post-Spanish Civil War), 1946-1987. &gt;&gt; Yates, James</field>
+@@ -38,7 +41,7 @@
+     <field name="unitdate_end_sim">1986</field>
+     <field name="unitdate_end_ssm">1986</field>
+     <field name="unitdate_end_si">1986</field>
+-    <field name="unitdate_ssm">Inclusive, 1980; 1985; 1986</field>
++    <field name="unitdate_ssm">Inclusive, 1980; 1985; 1986 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">150</field>
+   </doc>

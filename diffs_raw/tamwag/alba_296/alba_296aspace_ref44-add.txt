@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Selligman Family Papers</field>
+     <field name="collection_unitid_ssm">ALBA.296</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Assorted items from Joseph Selligman Jr.'s suitcase</field>
+-    <field name="unittitle_teim">Assorted items from Joseph Selligman Jr.'s suitcase</field>
++    <field name="unittitle_ssm">Assorted items from Joseph Selligman Jr.&#39;s suitcase</field>
++    <field name="unittitle_teim">Assorted items from Joseph Selligman Jr.&#39;s suitcase</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/28155</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/28155</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -23,9 +23,10 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Selligman Family Papers</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">ALBA.296</field>
+-    <field name="series_si">Assorted items from Joseph Selligman Jr.'s suitcase</field>
+-    <field name="heading_ssm">Assorted items from Joseph Selligman Jr.'s suitcase</field>
++    <field name="series_si">Assorted items from Joseph Selligman Jr.&#39;s suitcase</field>
++    <field name="heading_ssm">Assorted items from Joseph Selligman Jr.&#39;s suitcase</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">46</field>

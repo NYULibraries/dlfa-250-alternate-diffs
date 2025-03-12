@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref15</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref15</field>
+-    <field name="parent_unittitles_ssm">Photographs</field>
++    <field name="parent_unittitles_ssm">Photographs </field>
+     <field name="parent_unittitles_ssm">General Photographs</field>
+-    <field name="parent_unittitles_teim">Photographs</field>
++    <field name="parent_unittitles_teim">Photographs </field>
+     <field name="parent_unittitles_teim">General Photographs</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_ssm">1967/1967</field>
+     <field name="unitdate_normal_teim">1967/1967</field>
+     <field name="unitdate_normal_sim">1967/1967</field>
+-    <field name="unitdate_inclusive_teim">1967</field>
++    <field name="unitdate_inclusive_teim">1967 </field>
+     <field name="ref_ssi">aspace_ref74</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,9 +34,9 @@
+     <field name="location_si">Box: 5, Folder: 4</field>
+     <field name="collection_teim">Felix Kusman Photographs</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.178</field>
+-    <field name="series_sim">Photographs</field>
++    <field name="series_sim">Photographs </field>
+     <field name="series_sim">General Photographs</field>
+-    <field name="series_si">Photographs &gt;&gt; General Photographs &gt;&gt; General Photographs</field>
++    <field name="series_si">Photographs  &gt;&gt; General Photographs &gt;&gt; General Photographs</field>
+     <field name="heading_ssm">General Photographs</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>
+@@ -44,7 +44,7 @@
+     <field name="unitdate_end_sim">1967</field>
+     <field name="unitdate_end_ssm">1967</field>
+     <field name="unitdate_end_si">1967</field>
+-    <field name="unitdate_ssm">Inclusive, 1967</field>
++    <field name="unitdate_ssm">Inclusive, 1967 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">57</field>
+   </doc>

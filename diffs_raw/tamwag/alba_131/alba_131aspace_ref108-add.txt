@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frances Patai Papers</field>
+     <field name="collection_unitid_ssm">ALBA.131</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Holman, Portia: "Hospital in Spain"</field>
+-    <field name="unittitle_teim">Holman, Portia: "Hospital in Spain"</field>
++    <field name="unittitle_ssm">Holman, Portia: &#34;Hospital in Spain&#34;</field>
++    <field name="unittitle_teim">Holman, Portia: &#34;Hospital in Spain&#34;</field>
+     <field name="unitdate_normal_ssm">1937/1937</field>
+     <field name="unitdate_normal_teim">1937/1937</field>
+     <field name="unitdate_normal_sim">1937/1937</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 6, Folder: 12</field>
+     <field name="location_si">Box: 6, Folder: 12</field>
+     <field name="collection_teim">Frances Patai Papers</field>
++    <field name="author_teim">Angela Frattarola and Ted Casselman</field>
+     <field name="collection_unitid_teim">ALBA.131</field>
+     <field name="series_sim">Series III: Subject Files</field>
+-    <field name="series_si">Series III: Subject Files &gt;&gt; Holman, Portia: "Hospital in Spain"</field>
+-    <field name="heading_ssm">Holman, Portia: "Hospital in Spain"</field>
++    <field name="series_si">Series III: Subject Files &gt;&gt; Holman, Portia: &#34;Hospital in Spain&#34;</field>
++    <field name="heading_ssm">Holman, Portia: &#34;Hospital in Spain&#34;</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>
+     <field name="unitdate_start_si">1937</field>

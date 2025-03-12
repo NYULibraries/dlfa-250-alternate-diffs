@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1939/1953</field>
+     <field name="unitdate_normal_sim">1939/1953</field>
+     <field name="unitdate_inclusive_teim">1939-1953; undated</field>
+-    <field name="scopecontent_teim">This series consists of two scrapbooks. One scrapbook contains official correspondence dating from 1939 to 1953. It includes fundraising letters signed by Lillian Hellman, Paul Robeson, Vincent Sheean, and David McKelvy White, among others. The second scrapbook contains broadsides, invitations, tickets, stamps, and brochures for dances, rallies, fundraisers and other VALB events. These scrapbooks provide an overview of VALB's early years.</field>
++    <field name="scopecontent_teim">This series consists of two scrapbooks. One scrapbook contains official correspondence dating from 1939 to 1953. It includes fundraising letters signed by Lillian Hellman, Paul Robeson, Vincent Sheean, and David McKelvy White, among others. The second scrapbook contains broadsides, invitations, tickets, stamps, and brochures for dances, rallies, fundraisers and other VALB events. These scrapbooks provide an overview of VALB&#39;s early years.</field>
+     <field name="ref_ssi">aspace_ref829</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Veterans of the Abraham Lincoln Brigade Records</field>
++    <field name="author_teim">Alix Ross</field>
+     <field name="collection_unitid_teim">ALBA.019</field>
+     <field name="series_si">Series III: Scrapbooks (Oversize)</field>
+     <field name="heading_ssm">Series III: Scrapbooks (Oversize)</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Carl Geiser Papers</field>
+     <field name="collection_unitid_ssm">ALBA.004</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Higgins, Jimmy (Canada): Subject of Manuel Alvarez's &lt;em&gt;The Tall Soldier&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Higgins, Jimmy (Canada): Subject of Manuel Alvarez's The Tall Soldier</field>
++    <field name="unittitle_ssm">Higgins, Jimmy (Canada): Subject of Manuel Alvarez&#39;s &lt;em&gt;The Tall Soldier&lt;/em&gt;</field>
++    <field name="unittitle_teim">Higgins, Jimmy (Canada): Subject of Manuel Alvarez&#39;s The Tall Soldier</field>
+     <field name="unitdate_normal_ssm">1980/1984</field>
+     <field name="unitdate_normal_teim">1980/1984</field>
+     <field name="unitdate_normal_sim">1980/1984</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 5, Folder: 25</field>
+     <field name="location_si">Box: 5, Folder: 25</field>
+     <field name="collection_teim">Carl Geiser Papers</field>
++    <field name="author_teim">Elizabeth Compa, Jennifer Waxman, and Jessica Weglein</field>
+     <field name="collection_unitid_teim">ALBA.004</field>
+     <field name="series_sim">Series III: Biographical Files</field>
+-    <field name="series_si">Series III: Biographical Files &gt;&gt; Higgins, Jimmy (Canada): Subject of Manuel Alvarez's &lt;em&gt;The Tall Soldier&lt;/em&gt;</field>
+-    <field name="heading_ssm">Higgins, Jimmy (Canada): Subject of Manuel Alvarez's The Tall Soldier</field>
++    <field name="series_si">Series III: Biographical Files &gt;&gt; Higgins, Jimmy (Canada): Subject of Manuel Alvarez&#39;s &lt;em&gt;The Tall Soldier&lt;/em&gt;</field>
++    <field name="heading_ssm">Higgins, Jimmy (Canada): Subject of Manuel Alvarez&#39;s The Tall Soldier</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>

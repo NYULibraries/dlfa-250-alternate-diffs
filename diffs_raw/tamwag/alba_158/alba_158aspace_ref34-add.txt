@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">James I. Loeb Papers</field>
+     <field name="collection_unitid_ssm">ALBA.158</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Spain's Tragedy: Socialist Party statement on political situation in Spain</field>
+-    <field name="unittitle_teim">Spain's Tragedy: Socialist Party statement on political situation in Spain</field>
++    <field name="unittitle_ssm">Spain&#39;s Tragedy: Socialist Party statement on political situation in Spain</field>
++    <field name="unittitle_teim">Spain&#39;s Tragedy: Socialist Party statement on political situation in Spain</field>
+     <field name="unitdate_normal_ssm">1939/1939</field>
+     <field name="unitdate_normal_teim">1939/1939</field>
+     <field name="unitdate_normal_sim">1939/1939</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 20</field>
+     <field name="location_si">Box: 1, Folder: 20</field>
+     <field name="collection_teim">James I. Loeb Papers</field>
++    <field name="author_teim">Wendy Scheir</field>
+     <field name="collection_unitid_teim">ALBA.158</field>
+     <field name="series_sim">Series I: Spanish Refugee Aid and Relief</field>
+-    <field name="series_si">Series I: Spanish Refugee Aid and Relief &gt;&gt; Spain's Tragedy: Socialist Party statement on political situation in Spain</field>
+-    <field name="heading_ssm">Spain's Tragedy: Socialist Party statement on political situation in Spain</field>
++    <field name="series_si">Series I: Spanish Refugee Aid and Relief &gt;&gt; Spain&#39;s Tragedy: Socialist Party statement on political situation in Spain</field>
++    <field name="heading_ssm">Spain&#39;s Tragedy: Socialist Party statement on political situation in Spain</field>
+     <field name="unitdate_start_sim">1939</field>
+     <field name="unitdate_start_ssm">1939</field>
+     <field name="unitdate_start_si">1939</field>

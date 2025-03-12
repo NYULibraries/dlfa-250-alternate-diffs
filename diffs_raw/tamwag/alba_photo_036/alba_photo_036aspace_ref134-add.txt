@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Abraham Lincoln Brigade Archives: Small Photograph Collections</field>
+     <field name="collection_unitid_ssm">ALBA.PHOTO.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Torgoff, Leon: Childhood with Carl Torgoff and Irving "Togy" Torgoff</field>
+-    <field name="unittitle_teim">Torgoff, Leon: Childhood with Carl Torgoff and Irving "Togy" Torgoff</field>
++    <field name="unittitle_ssm">Torgoff, Leon: Childhood with Carl Torgoff and Irving &#34;Togy&#34; Torgoff</field>
++    <field name="unittitle_teim">Torgoff, Leon: Childhood with Carl Torgoff and Irving &#34;Togy&#34; Torgoff</field>
+     <field name="unitdate_normal_ssm">1928/1992</field>
+     <field name="unitdate_normal_teim">1928/1992</field>
+     <field name="unitdate_normal_sim">1928/1992</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 39</field>
+     <field name="location_si">Box: 2, Folder: 39</field>
+     <field name="collection_teim">Abraham Lincoln Brigade Archives: Small Photograph Collections</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.036</field>
+     <field name="series_sim">Series XII: Leon Torgoff Collection</field>
+-    <field name="series_si">Series XII: Leon Torgoff Collection &gt;&gt; Torgoff, Leon: Childhood with Carl Torgoff and Irving "Togy" Torgoff</field>
+-    <field name="heading_ssm">Torgoff, Leon: Childhood with Carl Torgoff and Irving "Togy" Torgoff</field>
++    <field name="series_si">Series XII: Leon Torgoff Collection &gt;&gt; Torgoff, Leon: Childhood with Carl Torgoff and Irving &#34;Togy&#34; Torgoff</field>
++    <field name="heading_ssm">Torgoff, Leon: Childhood with Carl Torgoff and Irving &#34;Togy&#34; Torgoff</field>
+     <field name="unitdate_start_sim">1928</field>
+     <field name="unitdate_start_ssm">1928</field>
+     <field name="unitdate_start_si">1928</field>

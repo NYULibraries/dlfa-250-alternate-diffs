@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Abraham Lincoln Brigade Archives Vertical Files: Individuals</field>
+     <field name="collection_unitid_ssm">ALBA.VF.002</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Kleinbordt, Paul (aka Steve "Pablo" Davis)</field>
+-    <field name="unittitle_teim">Kleinbordt, Paul (aka Steve "Pablo" Davis)</field>
++    <field name="unittitle_ssm">Kleinbordt, Paul (aka Steve &#34;Pablo&#34; Davis)</field>
++    <field name="unittitle_teim">Kleinbordt, Paul (aka Steve &#34;Pablo&#34; Davis)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/36490</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/36490</field>
+     <field name="ref_ssi">aspace_ref1796</field>
+@@ -26,10 +26,11 @@
+     <field name="location_ssm">Box: 13, Folder: 16</field>
+     <field name="location_si">Box: 13, Folder: 16</field>
+     <field name="collection_teim">Abraham Lincoln Brigade Archives Vertical Files: Individuals</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">ALBA.VF.002</field>
+     <field name="series_sim">Series I: ALBA Individual Files</field>
+-    <field name="series_si">Series I: ALBA Individual Files &gt;&gt; Kleinbordt, Paul (aka Steve "Pablo" Davis)</field>
+-    <field name="heading_ssm">Kleinbordt, Paul (aka Steve "Pablo" Davis)</field>
++    <field name="series_si">Series I: ALBA Individual Files &gt;&gt; Kleinbordt, Paul (aka Steve &#34;Pablo&#34; Davis)</field>
++    <field name="heading_ssm">Kleinbordt, Paul (aka Steve &#34;Pablo&#34; Davis)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">564</field>
+   </doc>

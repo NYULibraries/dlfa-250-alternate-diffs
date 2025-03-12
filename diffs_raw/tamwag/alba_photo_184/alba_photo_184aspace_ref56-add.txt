@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">alba_photo_184</field>
+     <field name="parent_ssi">aspace_ref13</field>
+     <field name="parent_ssm">aspace_ref13</field>
+-    <field name="parent_unittitles_ssm">Series I: Photographer's Inventory</field>
+-    <field name="parent_unittitles_teim">Series I: Photographer's Inventory</field>
++    <field name="parent_unittitles_ssm">Series I: Photographer&amp;#39;s Inventory</field>
++    <field name="parent_unittitles_teim">Series I: Photographer&amp;#39;s Inventory</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Paul Burns Photographs</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 1, Folder: 43</field>
+     <field name="location_si">Box: 1, Folder: 43</field>
+     <field name="collection_teim">Paul Burns Photographs</field>
++    <field name="author_teim">Evan Daniel and Julie Kessler</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.184</field>
+-    <field name="series_sim">Series I: Photographer's Inventory</field>
+-    <field name="series_si">Series I: Photographer's Inventory &gt;&gt; Lincoln men resting between shifts, Jarama</field>
++    <field name="series_sim">Series I: Photographer&amp;#39;s Inventory</field>
++    <field name="series_si">Series I: Photographer&#39;s Inventory &gt;&gt; Lincoln men resting between shifts, Jarama</field>
+     <field name="heading_ssm">Lincoln men resting between shifts, Jarama</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>

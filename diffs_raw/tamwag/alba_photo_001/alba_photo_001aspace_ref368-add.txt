@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fredericka Martin Photographs</field>
+     <field name="collection_unitid_ssm">ALBA.PHOTO.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Levine, ?: May Levine's Son</field>
+-    <field name="unittitle_teim">Levine, ?: May Levine's Son</field>
++    <field name="unittitle_ssm">Levine, ?: May Levine&#39;s Son</field>
++    <field name="unittitle_teim">Levine, ?: May Levine&#39;s Son</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref368</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 80</field>
+     <field name="location_si">Box: 4, Folder: 80</field>
+     <field name="collection_teim">Fredericka Martin Photographs</field>
++    <field name="author_teim">Evan Daniel, 2005</field>
+     <field name="collection_unitid_teim">ALBA.PHOTO.001</field>
+     <field name="series_sim">Series I: Photographs</field>
+-    <field name="series_si">Series I: Photographs &gt;&gt; Levine, ?: May Levine's Son</field>
+-    <field name="heading_ssm">Levine, ?: May Levine's Son</field>
++    <field name="series_si">Series I: Photographs &gt;&gt; Levine, ?: May Levine&#39;s Son</field>
++    <field name="heading_ssm">Levine, ?: May Levine&#39;s Son</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">355</field>
