@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kevin Kennedy Ephemera and Photographs Collection</field>
+     <field name="collection_unitid_ssm">AIA.063</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Toney Phelber, Paul O'D</field>
+-    <field name="unittitle_teim">Toney Phelber, Paul O'D</field>
++    <field name="unittitle_ssm">Toney Phelber, Paul O&#39;D</field>
++    <field name="unittitle_teim">Toney Phelber, Paul O&#39;D</field>
+     <field name="unitdate_teim">1994</field>
+     <field name="ref_ssi">aspace_73aa9f07c90e3b1bd2ac5e4a0802148a</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 22, Folder: 22</field>
+     <field name="location_si">Box: 22, Folder: 22</field>
+     <field name="collection_teim">Kevin Kennedy Ephemera and Photographs Collection</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.063</field>
+     <field name="series_sim">Series II: Photographs and Photo Negatives</field>
+-    <field name="series_si">Series II: Photographs and Photo Negatives &gt;&gt; Toney Phelber, Paul O'D</field>
+-    <field name="heading_ssm">Toney Phelber, Paul O'D</field>
++    <field name="series_si">Series II: Photographs and Photo Negatives &gt;&gt; Toney Phelber, Paul O&#39;D</field>
++    <field name="heading_ssm">Toney Phelber, Paul O&#39;D</field>
+     <field name="unitdate_ssm">1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">923</field>

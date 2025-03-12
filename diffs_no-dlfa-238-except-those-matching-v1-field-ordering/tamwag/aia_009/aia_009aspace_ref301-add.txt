@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George Harrison Papers</field>
+     <field name="collection_unitid_ssm">AIA.009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;James Connolly Wrote for Toda&lt;/em&gt;y.... Nora Connolly O'Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
+-    <field name="unittitle_teim">James Connolly Wrote for Today.... Nora Connolly O'Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
++    <field name="unittitle_ssm">&lt;em&gt;James Connolly Wrote for Toda&lt;/em&gt;y.... Nora Connolly O&#39;Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
++    <field name="unittitle_teim">James Connolly Wrote for Today.... Nora Connolly O&#39;Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/2321</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/2321</field>
+     <field name="unitdate_normal_ssm">1978/1978</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 7, Folder: 1</field>
+     <field name="location_si">Box: 7, Folder: 1</field>
+     <field name="collection_teim">George Harrison Papers</field>
++    <field name="author_teim">Alice Naughton, Mary Kriock, Marion Casey, Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.009</field>
+     <field name="series_sim">Series III. Pamphlets and Publications</field>
+     <field name="series_sim">Subseries A. Irish </field>
+-    <field name="series_si">Series III. Pamphlets and Publications &gt;&gt; Subseries A. Irish  &gt;&gt; &lt;em&gt;James Connolly Wrote for Toda&lt;/em&gt;y.... Nora Connolly O'Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
+-    <field name="heading_ssm">James Connolly Wrote for Today.... Nora Connolly O'Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
++    <field name="series_si">Series III. Pamphlets and Publications &gt;&gt; Subseries A. Irish  &gt;&gt; &lt;em&gt;James Connolly Wrote for Toda&lt;/em&gt;y.... Nora Connolly O&#39;Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
++    <field name="heading_ssm">James Connolly Wrote for Today.... Nora Connolly O&#39;Brien and Eibhlin Ni Sheidhir. (Irish Freedom Press, Dublin) </field>
+     <field name="unitdate_start_sim">1978</field>
+     <field name="unitdate_start_ssm">1978</field>
+     <field name="unitdate_start_si">1978</field>

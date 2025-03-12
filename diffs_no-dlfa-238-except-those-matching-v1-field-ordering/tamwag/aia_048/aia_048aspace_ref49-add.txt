@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">aia_048</field>
+     <field name="parent_ssi">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref2</field>
+-    <field name="parent_unittitles_ssm">Inventory
+-</field>
+-    <field name="parent_unittitles_teim">Inventory
+-</field>
++    <field name="parent_unittitles_ssm">Inventory&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Inventory&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James P. Sullivan Collection</field>
+@@ -15,9 +13,9 @@
+     <field name="collection_ssm">James P. Sullivan Collection</field>
+     <field name="collection_unitid_ssm">AIA.048</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
+-Pictured: Cohen, Banderman, Sullivan and Freeman</field>
+-    <field name="unittitle_teim">Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
++    <field name="unittitle_ssm">Article and picture of Sullivan running &#34;Athletes who Race at 22nd Regiment Armory To-night&#34; 
++Pictured: Cohen, Banderman, Sullivan and Freeman</field>
++    <field name="unittitle_teim">Article and picture of Sullivan running &#34;Athletes who Race at 22nd Regiment Armory To-night&#34; 
+ Pictured: Cohen, Banderman, Sullivan and Freeman</field>
+     <field name="unitdate_teim">circa 1905</field>
+     <field name="ref_ssi">aspace_ref49</field>
+@@ -29,13 +27,13 @@
+     <field name="location_ssm">Box: 1, Item: aia048_047</field>
+     <field name="location_si">Box: 1, Item: aia048_047</field>
+     <field name="collection_teim">James P. Sullivan Collection</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.048</field>
+-    <field name="series_sim">Inventory
+-</field>
++    <field name="series_sim">Inventory&amp;#xA;</field>
+     <field name="series_si">Inventory
+- &gt;&gt; Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
+-Pictured: Cohen, Banderman, Sullivan and Freeman</field>
+-    <field name="heading_ssm">Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
++ &gt;&gt; Article and picture of Sullivan running &#34;Athletes who Race at 22nd Regiment Armory To-night&#34; 
++Pictured: Cohen, Banderman, Sullivan and Freeman</field>
++    <field name="heading_ssm">Article and picture of Sullivan running &#34;Athletes who Race at 22nd Regiment Armory To-night&#34; 
+ Pictured: Cohen, Banderman, Sullivan and Freeman</field>
+     <field name="unitdate_ssm">circa 1905</field>
+     <field name="date_range_sim">undated &amp; other</field>

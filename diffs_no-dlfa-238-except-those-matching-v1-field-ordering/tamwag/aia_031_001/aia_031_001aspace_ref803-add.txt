@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Harrison, Charles, "Macushla" [18308] &lt;strong&gt;Side B: &lt;/strong&gt;Harrison, Charles, "Mother Machree" [18309] (Edison 52262)</field>
+-    <field name="unittitle_teim">Side A: Harrison, Charles, "Macushla" [18308] Side B: Harrison, Charles, "Mother Machree" [18309] (Edison 52262)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Harrison, Charles, &#34;Macushla&#34; [18308] &lt;strong&gt;Side B: &lt;/strong&gt;Harrison, Charles, &#34;Mother Machree&#34; [18309] (Edison 52262)</field>
++    <field name="unittitle_teim">Side A: Harrison, Charles, &#34;Macushla&#34; [18308] Side B: Harrison, Charles, &#34;Mother Machree&#34; [18309] (Edison 52262)</field>
+     <field name="ref_ssi">aspace_ref803</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 7, Folder: 14</field>
+     <field name="location_si">Box: 7, Folder: 14</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Harrison, Charles, "Macushla" [18308] &lt;strong&gt;Side B: &lt;/strong&gt;Harrison, Charles, "Mother Machree" [18309] (Edison 52262)</field>
+-    <field name="heading_ssm">Side A: Harrison, Charles, "Macushla" [18308] Side B: Harrison, Charles, "Mother Machree" [18309] (Edison 52262)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Harrison, Charles, &#34;Macushla&#34; [18308] &lt;strong&gt;Side B: &lt;/strong&gt;Harrison, Charles, &#34;Mother Machree&#34; [18309] (Edison 52262)</field>
++    <field name="heading_ssm">Side A: Harrison, Charles, &#34;Macushla&#34; [18308] Side B: Harrison, Charles, &#34;Mother Machree&#34; [18309] (Edison 52262)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">892</field>
+   </doc>

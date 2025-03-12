@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Irish Repertory Theatre Records</field>
+     <field name="collection_unitid_ssm">AIA.080</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">2012-2013 Season -- &lt;em&gt;It's A Wonderful Life&lt;/em&gt;</field>
+-    <field name="unittitle_teim">2012-2013 Season -- It's A Wonderful Life</field>
++    <field name="unittitle_ssm">2012-2013 Season -- &lt;em&gt;It&#39;s A Wonderful Life&lt;/em&gt;</field>
++    <field name="unittitle_teim">2012-2013 Season -- It&#39;s A Wonderful Life</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/771427</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/771427</field>
+     <field name="unitdate_normal_ssm">2012/2012</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_teim">2012</field>
+-    <field name="dao_teim">2012-2013 Season -- It's A Wonderful Life : 2013-</field>
+-    <field name="dao_ssm">2012-2013 Season -- It's A Wonderful Life : 2013-</field>
++    <field name="dao_teim">2012-2013 Season -- It&#39;s A Wonderful Life : 2013-</field>
++    <field name="dao_ssm">2012-2013 Season -- It&#39;s A Wonderful Life : 2013-</field>
+     <field name="ref_ssi">aspace_ec6c94d401068c73f4c5f65a5d090ec5</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,10 +36,11 @@
+     <field name="location_si">Box: Electronic records, E-records: TW_AIA_80_ER_58</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Irish Repertory Theatre Records</field>
++    <field name="author_teim">Megan O&#39;Shea and Kate Fisher</field>
+     <field name="collection_unitid_teim">AIA.080</field>
+     <field name="series_sim">Series I. Production Materials</field>
+-    <field name="series_si">Series I. Production Materials &gt;&gt; 2012-2013 Season -- &lt;em&gt;It's A Wonderful Life&lt;/em&gt;</field>
+-    <field name="heading_ssm">2012-2013 Season -- It's A Wonderful Life</field>
++    <field name="series_si">Series I. Production Materials &gt;&gt; 2012-2013 Season -- &lt;em&gt;It&#39;s A Wonderful Life&lt;/em&gt;</field>
++    <field name="heading_ssm">2012-2013 Season -- It&#39;s A Wonderful Life</field>
+     <field name="unitdate_start_sim">2012</field>
+     <field name="unitdate_start_ssm">2012</field>
+     <field name="unitdate_start_si">2012</field>

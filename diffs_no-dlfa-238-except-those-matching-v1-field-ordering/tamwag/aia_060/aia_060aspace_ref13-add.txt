@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_060</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series IV. Correspondence: Family</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1914/1957</field>
+     <field name="unitdate_normal_sim">1914/1957</field>
+     <field name="unitdate_inclusive_teim">1914-1957</field>
+-    <field name="scopecontent_teim">Incoming and outgoing correspondence between Ernie O'Malley and members of his family including his mother, siblings, children, wife, in-laws, cousins and others.   Also included in this series are letters from family members that were neither addressed to nor written by O'Malley.  As in other Correspondence Series, numerous photocopies of originals exist within this series.  See index for a complete listing.</field>
++    <field name="scopecontent_teim">Incoming and outgoing correspondence between Ernie O&#39;Malley and members of his family including his mother, siblings, children, wife, in-laws, cousins and others.   Also included in this series are letters from family members that were neither addressed to nor written by O&#39;Malley.  As in other Correspondence Series, numerous photocopies of originals exist within this series.  See index for a complete listing.</field>
+     <field name="ref_ssi">aspace_ref13</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_si">Series IV. Correspondence: Family</field>
+     <field name="heading_ssm">Series IV. Correspondence: Family</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34740</field>
+     <field name="unitid_ssm">cuid34740</field>
+     <field name="unitdate_teim">Dec 2, 2011</field>
+-    <field name="bioghist_teim">Dan Tubridy (b. Rockaway, New York, 1948) is the grandchild of Irish immigrants from Counties Kerry and Clare and can trace his family?s Irish lineage back to the eighteenth century. He is the owner of the Bungalow Bar in Far Rockaway, which was featured on Spike TV's Bar Rescue.</field>
++    <field name="bioghist_teim">Dan Tubridy (b. Rockaway, New York, 1948) is the grandchild of Irish immigrants from Counties Kerry and Clare and can trace his family?s Irish lineage back to the eighteenth century. He is the owner of the Bungalow Bar in Far Rockaway, which was featured on Spike TV&#39;s Bar Rescue.</field>
+     <field name="ref_ssi">aspace_ref503</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 4, Folder: 89</field>
+     <field name="location_si">Box: 4, Folder: 89</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">T</field>
+     <field name="series_si">T &gt;&gt; Tubridy, Dan</field>

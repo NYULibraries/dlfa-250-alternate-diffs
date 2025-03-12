@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brian McGinn Papers</field>
+     <field name="collection_unitid_ssm">AIA.015</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Biddy," "Molly," "Sheila"</field>
+-    <field name="unittitle_teim">"Biddy," "Molly," "Sheila"</field>
++    <field name="unittitle_ssm">&#34;Biddy,&#34; &#34;Molly,&#34; &#34;Sheila&#34;</field>
++    <field name="unittitle_teim">&#34;Biddy,&#34; &#34;Molly,&#34; &#34;Sheila&#34;</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/931300</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/931300</field>
+     <field name="unitdate_inclusive_teim">1938, 1977, 1990, 1998, 2000</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 28, Folder: 1</field>
+     <field name="location_si">Box: 28, Folder: 1</field>
+     <field name="collection_teim">Brian McGinn Papers</field>
++    <field name="author_teim">Karen Murphy, Rebecca Altermatt, Kaitlyn Medley, and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.015</field>
+     <field name="series_sim">Series V: Newfoundland (Nova Scotia, Canada)</field>
+-    <field name="series_si">Series V: Newfoundland (Nova Scotia, Canada) &gt;&gt; "Biddy," "Molly," "Sheila"</field>
+-    <field name="heading_ssm">"Biddy," "Molly," "Sheila"</field>
++    <field name="series_si">Series V: Newfoundland (Nova Scotia, Canada) &gt;&gt; &#34;Biddy,&#34; &#34;Molly,&#34; &#34;Sheila&#34;</field>
++    <field name="heading_ssm">&#34;Biddy,&#34; &#34;Molly,&#34; &#34;Sheila&#34;</field>
+     <field name="unitdate_ssm">Inclusive, 1938, 1977, 1990, 1998, 2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">158</field>

@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_unittitles_ssm">Series I. Works</field>
+-    <field name="parent_unittitles_ssm">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="parent_unittitles_teim">Series I. Works</field>
+-    <field name="parent_unittitles_teim">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Poetry notebook</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1929/1932</field>
+     <field name="unitdate_normal_sim">1929/1932</field>
+     <field name="unitdate_inclusive_teim">circa 1929-1932</field>
+-    <field name="scopecontent_teim">Notebook contains 31 poems by Ernie O'Malley, including "Earth," "O soft-hued moon, I'd liek to walk a Dublin Street," "Connemara," "Waiting," "Couriers," "Embers," "Pale Silver Was Her Face," "Bootleg," "The Mountain Speaks," "The Swarthy Snow Looks Sullen," "Sea Depths," "Failure," "Freedom," "The Horse Pass Towards the Mountains," "This Broken Plinth of Bare Mud Wall," "Why by Captious," "On the Mountain Die the Snow Lies Deep." "Moonlight Song," "What Alchemy Assists You Distill," "Words," "Complication," "Desert House," and "Memory Why He Tyrannous."</field>
++    <field name="scopecontent_teim">Notebook contains 31 poems by Ernie O&#39;Malley, including &#34;Earth,&#34; &#34;O soft-hued moon, I&#39;d liek to walk a Dublin Street,&#34; &#34;Connemara,&#34; &#34;Waiting,&#34; &#34;Couriers,&#34; &#34;Embers,&#34; &#34;Pale Silver Was Her Face,&#34; &#34;Bootleg,&#34; &#34;The Mountain Speaks,&#34; &#34;The Swarthy Snow Looks Sullen,&#34; &#34;Sea Depths,&#34; &#34;Failure,&#34; &#34;Freedom,&#34; &#34;The Horse Pass Towards the Mountains,&#34; &#34;This Broken Plinth of Bare Mud Wall,&#34; &#34;Why by Captious,&#34; &#34;On the Mountain Die the Snow Lies Deep.&#34; &#34;Moonlight Song,&#34; &#34;What Alchemy Assists You Distill,&#34; &#34;Words,&#34; &#34;Complication,&#34; &#34;Desert House,&#34; and &#34;Memory Why He Tyrannous.&#34;</field>
+     <field name="ref_ssi">aspace_ref56</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,11 +33,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 31</field>
+     <field name="location_si">Box: 1, Folder: 31</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series I. Works</field>
+-    <field name="series_sim">Subseries IA. Ernie O'Malley</field>
+-    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O'Malley &gt;&gt; Poetry notebook</field>
++    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
++    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Poetry notebook</field>
+     <field name="heading_ssm">Poetry notebook</field>
+     <field name="unitdate_start_sim">1929</field>
+     <field name="unitdate_start_ssm">1929</field>

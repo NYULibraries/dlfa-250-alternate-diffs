@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34739</field>
+     <field name="unitid_ssm">cuid34739</field>
+     <field name="unitdate_teim">Apr 2, 2012</field>
+-    <field name="bioghist_teim">Patrick Tracey (b. Boston, Massachusetts, 1958) is the son of Irish-American parents and can trace his family?s roots to Famine-era Co. Roscommon. He is the author of Stalking Irish Madness: Searching for the Roots of My Family's Schizophrenia.</field>
++    <field name="bioghist_teim">Patrick Tracey (b. Boston, Massachusetts, 1958) is the son of Irish-American parents and can trace his family?s roots to Famine-era Co. Roscommon. He is the author of Stalking Irish Madness: Searching for the Roots of My Family&#39;s Schizophrenia.</field>
+     <field name="ref_ssi">aspace_ref520</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 4, Folder: 88</field>
+     <field name="location_si">Box: 4, Folder: 88</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">T</field>
+     <field name="series_si">T &gt;&gt; Tracey, Patrick</field>

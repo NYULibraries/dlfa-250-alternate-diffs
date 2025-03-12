@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt; Feeney, Jack, "The Connemara Shore" &lt;strong&gt; Side B: &lt;/strong&gt;  Feeney, Jack, "There's An Echo of Old Ireland Everywhere" </field>
+-    <field name="unittitle_teim">Side A:  Feeney, Jack, "The Connemara Shore"  Side B:   Feeney, Jack, "There's An Echo of Old Ireland Everywhere" </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt; Feeney, Jack, &#34;The Connemara Shore&#34; &lt;strong&gt; Side B: &lt;/strong&gt;  Feeney, Jack, &#34;There&#39;s An Echo of Old Ireland Everywhere&#34; </field>
++    <field name="unittitle_teim">Side A:  Feeney, Jack, &#34;The Connemara Shore&#34;  Side B:   Feeney, Jack, &#34;There&#39;s An Echo of Old Ireland Everywhere&#34; </field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_e7a056c5908dcdce65b3d68c45910760</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 8, Folder: 25</field>
+     <field name="location_si">Box: 8, Folder: 25</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt; Feeney, Jack, "The Connemara Shore" &lt;strong&gt; Side B: &lt;/strong&gt;  Feeney, Jack, "There's An Echo of Old Ireland Everywhere" </field>
+-    <field name="heading_ssm">Side A:  Feeney, Jack, "The Connemara Shore"  Side B:   Feeney, Jack, "There's An Echo of Old Ireland Everywhere" </field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt; Feeney, Jack, &#34;The Connemara Shore&#34; &lt;strong&gt; Side B: &lt;/strong&gt;  Feeney, Jack, &#34;There&#39;s An Echo of Old Ireland Everywhere&#34; </field>
++    <field name="heading_ssm">Side A:  Feeney, Jack, &#34;The Connemara Shore&#34;  Side B:   Feeney, Jack, &#34;There&#39;s An Echo of Old Ireland Everywhere&#34; </field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">666</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">John T. Ridge Collection</field>
+     <field name="collection_unitid_ssm">AIA.068</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">O'Brien, Michael J.: &lt;em&gt;The McCarthys in Early American History&lt;/em&gt;
+-</field>
+-    <field name="unittitle_teim">O'Brien, Michael J.: The McCarthys in Early American History
++    <field name="unittitle_ssm">O&#39;Brien, Michael J.: &lt;em&gt;The McCarthys in Early American History&lt;/em&gt;
++</field>
++    <field name="unittitle_teim">O&#39;Brien, Michael J.: The McCarthys in Early American History
+ </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/736120</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/736120</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 10, Folder: 4</field>
+     <field name="location_si">Box: 10, Folder: 4</field>
+     <field name="collection_teim">John T. Ridge Collection</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.068</field>
+     <field name="series_sim">Series I: Social Organizations and Early Irish America</field>
+-    <field name="series_si">Series I: Social Organizations and Early Irish America &gt;&gt; O'Brien, Michael J.: &lt;em&gt;The McCarthys in Early American History&lt;/em&gt;
+-</field>
+-    <field name="heading_ssm">O'Brien, Michael J.: The McCarthys in Early American History
++    <field name="series_si">Series I: Social Organizations and Early Irish America &gt;&gt; O&#39;Brien, Michael J.: &lt;em&gt;The McCarthys in Early American History&lt;/em&gt;
++</field>
++    <field name="heading_ssm">O&#39;Brien, Michael J.: The McCarthys in Early American History
+ </field>
+     <field name="unitdate_start_sim">1921</field>
+     <field name="unitdate_start_ssm">1921</field>

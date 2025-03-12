@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Hum and Strum, "Nobody Knows What Happened to McCarty" [2016] &lt;strong&gt;Side B: &lt;/strong&gt;Hum and Strum, "If I Knock the 'L' out of Kelly" [2013] (Stellar SR 1002B)</field>
+-    <field name="unittitle_teim">Side A: Hum and Strum, "Nobody Knows What Happened to McCarty" [2016] Side B: Hum and Strum, "If I Knock the 'L' out of Kelly" [2013] (Stellar SR 1002B)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Hum and Strum, &#34;Nobody Knows What Happened to McCarty&#34; [2016] &lt;strong&gt;Side B: &lt;/strong&gt;Hum and Strum, &#34;If I Knock the &#39;L&#39; out of Kelly&#34; [2013] (Stellar SR 1002B)</field>
++    <field name="unittitle_teim">Side A: Hum and Strum, &#34;Nobody Knows What Happened to McCarty&#34; [2016] Side B: Hum and Strum, &#34;If I Knock the &#39;L&#39; out of Kelly&#34; [2013] (Stellar SR 1002B)</field>
+     <field name="ref_ssi">aspace_ref892</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 626</field>
+     <field name="location_si">disk: XA78 626</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Hum and Strum, "Nobody Knows What Happened to McCarty" [2016] &lt;strong&gt;Side B: &lt;/strong&gt;Hum and Strum, "If I Knock the 'L' out of Kelly" [2013] (Stellar SR 1002B)</field>
+-    <field name="heading_ssm">Side A: Hum and Strum, "Nobody Knows What Happened to McCarty" [2016] Side B: Hum and Strum, "If I Knock the 'L' out of Kelly" [2013] (Stellar SR 1002B)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Hum and Strum, &#34;Nobody Knows What Happened to McCarty&#34; [2016] &lt;strong&gt;Side B: &lt;/strong&gt;Hum and Strum, &#34;If I Knock the &#39;L&#39; out of Kelly&#34; [2013] (Stellar SR 1002B)</field>
++    <field name="heading_ssm">Side A: Hum and Strum, &#34;Nobody Knows What Happened to McCarty&#34; [2016] Side B: Hum and Strum, &#34;If I Knock the &#39;L&#39; out of Kelly&#34; [2013] (Stellar SR 1002B)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1000</field>
+   </doc>

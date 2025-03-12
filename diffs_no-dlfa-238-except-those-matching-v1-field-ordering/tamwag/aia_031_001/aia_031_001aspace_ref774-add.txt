@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Happy Six, "Rockaway Baby" [79431] &lt;strong&gt;Side B: &lt;/strong&gt;Happy Six, "By the Pyramids" [79432] (Columbia A3314)</field>
+-    <field name="unittitle_teim">Side A: Happy Six, "Rockaway Baby" [79431] Side B: Happy Six, "By the Pyramids" [79432] (Columbia A3314)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Happy Six, &#34;Rockaway Baby&#34; [79431] &lt;strong&gt;Side B: &lt;/strong&gt;Happy Six, &#34;By the Pyramids&#34; [79432] (Columbia A3314)</field>
++    <field name="unittitle_teim">Side A: Happy Six, &#34;Rockaway Baby&#34; [79431] Side B: Happy Six, &#34;By the Pyramids&#34; [79432] (Columbia A3314)</field>
+     <field name="unitdate_normal_ssm">1908/1908</field>
+     <field name="unitdate_normal_teim">1908/1908</field>
+     <field name="unitdate_normal_sim">1908/1908</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">disk: XA78 2128</field>
+     <field name="location_si">disk: XA78 2128</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Happy Six, "Rockaway Baby" [79431] &lt;strong&gt;Side B: &lt;/strong&gt;Happy Six, "By the Pyramids" [79432] (Columbia A3314)</field>
+-    <field name="heading_ssm">Side A: Happy Six, "Rockaway Baby" [79431] Side B: Happy Six, "By the Pyramids" [79432] (Columbia A3314)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Happy Six, &#34;Rockaway Baby&#34; [79431] &lt;strong&gt;Side B: &lt;/strong&gt;Happy Six, &#34;By the Pyramids&#34; [79432] (Columbia A3314)</field>
++    <field name="heading_ssm">Side A: Happy Six, &#34;Rockaway Baby&#34; [79431] Side B: Happy Six, &#34;By the Pyramids&#34; [79432] (Columbia A3314)</field>
+     <field name="unitdate_start_sim">1908</field>
+     <field name="unitdate_start_ssm">1908</field>
+     <field name="unitdate_start_si">1908</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;McCafferty, James, "Off to Philadelphia" [30-3346] &lt;strong&gt;Side B: &lt;/strong&gt;McCafferty, James, "Kitty, My Love, Will You Marry Me?" [30-3349] (His Master's Voice I.M.404)</field>
+-    <field name="unittitle_teim">Side A: McCafferty, James, "Off to Philadelphia" [30-3346] Side B: McCafferty, James, "Kitty, My Love, Will You Marry Me?" [30-3349] (His Master's Voice I.M.404)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;McCafferty, James, &#34;Off to Philadelphia&#34; [30-3346] &lt;strong&gt;Side B: &lt;/strong&gt;McCafferty, James, &#34;Kitty, My Love, Will You Marry Me?&#34; [30-3349] (His Master&#39;s Voice I.M.404)</field>
++    <field name="unittitle_teim">Side A: McCafferty, James, &#34;Off to Philadelphia&#34; [30-3346] Side B: McCafferty, James, &#34;Kitty, My Love, Will You Marry Me?&#34; [30-3349] (His Master&#39;s Voice I.M.404)</field>
+     <field name="ref_ssi">aspace_ref1262</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 817</field>
+     <field name="location_si">disk: XA78 817</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;McCafferty, James, "Off to Philadelphia" [30-3346] &lt;strong&gt;Side B: &lt;/strong&gt;McCafferty, James, "Kitty, My Love, Will You Marry Me?" [30-3349] (His Master's Voice I.M.404)</field>
+-    <field name="heading_ssm">Side A: McCafferty, James, "Off to Philadelphia" [30-3346] Side B: McCafferty, James, "Kitty, My Love, Will You Marry Me?" [30-3349] (His Master's Voice I.M.404)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;McCafferty, James, &#34;Off to Philadelphia&#34; [30-3346] &lt;strong&gt;Side B: &lt;/strong&gt;McCafferty, James, &#34;Kitty, My Love, Will You Marry Me?&#34; [30-3349] (His Master&#39;s Voice I.M.404)</field>
++    <field name="heading_ssm">Side A: McCafferty, James, &#34;Off to Philadelphia&#34; [30-3346] Side B: McCafferty, James, &#34;Kitty, My Love, Will You Marry Me?&#34; [30-3349] (His Master&#39;s Voice I.M.404)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1406</field>
+   </doc>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Harrington, Pat, "Peggy" [72267] &lt;strong&gt;Side B: &lt;/strong&gt;Harrington, Pat, "That's Mr. Brannigan Our Next M.P." [72382] (Decca 18784)</field>
+-    <field name="unittitle_teim">Side A: Harrington, Pat, "Peggy" [72267] Side B: Harrington, Pat, "That's Mr. Brannigan Our Next M.P." [72382] (Decca 18784)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Harrington, Pat, &#34;Peggy&#34; [72267] &lt;strong&gt;Side B: &lt;/strong&gt;Harrington, Pat, &#34;That&#39;s Mr. Brannigan Our Next M.P.&#34; [72382] (Decca 18784)</field>
++    <field name="unittitle_teim">Side A: Harrington, Pat, &#34;Peggy&#34; [72267] Side B: Harrington, Pat, &#34;That&#39;s Mr. Brannigan Our Next M.P.&#34; [72382] (Decca 18784)</field>
+     <field name="ref_ssi">aspace_ref793</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 2099</field>
+     <field name="location_si">disk: XA78 2099</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Harrington, Pat, "Peggy" [72267] &lt;strong&gt;Side B: &lt;/strong&gt;Harrington, Pat, "That's Mr. Brannigan Our Next M.P." [72382] (Decca 18784)</field>
+-    <field name="heading_ssm">Side A: Harrington, Pat, "Peggy" [72267] Side B: Harrington, Pat, "That's Mr. Brannigan Our Next M.P." [72382] (Decca 18784)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Harrington, Pat, &#34;Peggy&#34; [72267] &lt;strong&gt;Side B: &lt;/strong&gt;Harrington, Pat, &#34;That&#39;s Mr. Brannigan Our Next M.P.&#34; [72382] (Decca 18784)</field>
++    <field name="heading_ssm">Side A: Harrington, Pat, &#34;Peggy&#34; [72267] Side B: Harrington, Pat, &#34;That&#39;s Mr. Brannigan Our Next M.P.&#34; [72382] (Decca 18784)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">882</field>
+   </doc>

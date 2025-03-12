@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John T. Ridge Collection</field>
+     <field name="collection_unitid_ssm">AIA.068</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Artwork: Robert Emmet, "Ireland's Illustrious Sons," Ancient Order of Hibernians Ladies Auxiliary</field>
+-    <field name="unittitle_teim">Artwork: Robert Emmet, "Ireland's Illustrious Sons," Ancient Order of Hibernians Ladies Auxiliary</field>
++    <field name="unittitle_ssm">Artwork: Robert Emmet, &#34;Ireland&#39;s Illustrious Sons,&#34; Ancient Order of Hibernians Ladies Auxiliary</field>
++    <field name="unittitle_teim">Artwork: Robert Emmet, &#34;Ireland&#39;s Illustrious Sons,&#34; Ancient Order of Hibernians Ladies Auxiliary</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/18883</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/18883</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Flat-File-Folder: 7</field>
+     <field name="location_si">Flat-File-Folder: 7</field>
+     <field name="collection_teim">John T. Ridge Collection</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.068</field>
+     <field name="series_sim">Series I: Social Organizations and Early Irish America</field>
+-    <field name="series_si">Series I: Social Organizations and Early Irish America &gt;&gt; Artwork: Robert Emmet, "Ireland's Illustrious Sons," Ancient Order of Hibernians Ladies Auxiliary</field>
+-    <field name="heading_ssm">Artwork: Robert Emmet, "Ireland's Illustrious Sons," Ancient Order of Hibernians Ladies Auxiliary</field>
++    <field name="series_si">Series I: Social Organizations and Early Irish America &gt;&gt; Artwork: Robert Emmet, &#34;Ireland&#39;s Illustrious Sons,&#34; Ancient Order of Hibernians Ladies Auxiliary</field>
++    <field name="heading_ssm">Artwork: Robert Emmet, &#34;Ireland&#39;s Illustrious Sons,&#34; Ancient Order of Hibernians Ladies Auxiliary</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">53</field>

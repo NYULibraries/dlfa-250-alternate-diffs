@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">James J. Comerford Papers</field>
+     <field name="collection_unitid_ssm">AIA.010</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+-9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+-    <field name="unittitle_teim">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
++    <field name="unittitle_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O&#39;Neill, 8. John Duffy
++9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
++    <field name="unittitle_teim">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O&#39;Neill, 8. John Duffy
+ 9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+     <field name="unitdate_normal_ssm">1938/1938</field>
+     <field name="unitdate_normal_teim">1938/1938</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 11, Item: 4</field>
+     <field name="location_si">Box: 11, Item: 4</field>
+     <field name="collection_teim">James J. Comerford Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.010</field>
+     <field name="series_sim">Series IV. Audio</field>
+-    <field name="series_si">Series IV. Audio &gt;&gt; Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+-9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+-    <field name="heading_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
++    <field name="series_si">Series IV. Audio &gt;&gt; Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O&#39;Neill, 8. John Duffy
++9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
++    <field name="heading_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O&#39;Neill, 8. John Duffy
+ 9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+     <field name="unitdate_start_sim">1938</field>
+     <field name="unitdate_start_ssm">1938</field>

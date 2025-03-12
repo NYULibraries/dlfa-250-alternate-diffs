@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Irish Immigration Reform Movement, New York Chapter Records</field>
+     <field name="collection_unitid_ssm">AIA.016</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Workforce 2000: Work and Workers for the 21st Century," U.S. Department of Labor</field>
+-    <field name="unittitle_teim">"Workforce 2000: Work and Workers for the 21st Century," U.S. Department of Labor</field>
++    <field name="unittitle_ssm">&#34;Workforce 2000: Work and Workers for the 21st Century,&#34; U.S. Department of Labor</field>
++    <field name="unittitle_teim">&#34;Workforce 2000: Work and Workers for the 21st Century,&#34; U.S. Department of Labor</field>
+     <field name="unitdate_normal_ssm">1987/1987</field>
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 13, Folder: 25</field>
+     <field name="location_si">Box: 13, Folder: 25</field>
+     <field name="collection_teim">Irish Immigration Reform Movement, New York Chapter Records</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.016</field>
+     <field name="series_sim">V: Publications</field>
+-    <field name="series_si">V: Publications &gt;&gt; "Workforce 2000: Work and Workers for the 21st Century," U.S. Department of Labor</field>
+-    <field name="heading_ssm">"Workforce 2000: Work and Workers for the 21st Century," U.S. Department of Labor</field>
++    <field name="series_si">V: Publications &gt;&gt; &#34;Workforce 2000: Work and Workers for the 21st Century,&#34; U.S. Department of Labor</field>
++    <field name="heading_ssm">&#34;Workforce 2000: Work and Workers for the 21st Century,&#34; U.S. Department of Labor</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

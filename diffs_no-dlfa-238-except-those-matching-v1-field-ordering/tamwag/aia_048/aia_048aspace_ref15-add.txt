@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">aia_048</field>
+     <field name="parent_ssi">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref2</field>
+-    <field name="parent_unittitles_ssm">Inventory
+-</field>
+-    <field name="parent_unittitles_teim">Inventory
+-</field>
++    <field name="parent_unittitles_ssm">Inventory&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Inventory&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James P. Sullivan Collection</field>
+@@ -15,8 +13,8 @@
+     <field name="collection_ssm">James P. Sullivan Collection</field>
+     <field name="collection_unitid_ssm">AIA.048</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</field>
+-    <field name="unittitle_teim">Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</field>
++    <field name="unittitle_ssm">Newpaper clipping: &#34;Irish Heroes of Olympia Honored at Great Feast&#34;, unidentified source</field>
++    <field name="unittitle_teim">Newpaper clipping: &#34;Irish Heroes of Olympia Honored at Great Feast&#34;, unidentified source</field>
+     <field name="unitdate_teim">Sep 22, 1908</field>
+     <field name="ref_ssi">aspace_ref15</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -27,12 +25,12 @@
+     <field name="location_ssm">Box: 1, Item: aia048_013</field>
+     <field name="location_si">Box: 1, Item: aia048_013</field>
+     <field name="collection_teim">James P. Sullivan Collection</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.048</field>
+-    <field name="series_sim">Inventory
+-</field>
++    <field name="series_sim">Inventory&amp;#xA;</field>
+     <field name="series_si">Inventory
+- &gt;&gt; Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</field>
+-    <field name="heading_ssm">Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</field>
++ &gt;&gt; Newpaper clipping: &#34;Irish Heroes of Olympia Honored at Great Feast&#34;, unidentified source</field>
++    <field name="heading_ssm">Newpaper clipping: &#34;Irish Heroes of Olympia Honored at Great Feast&#34;, unidentified source</field>
+     <field name="unitdate_ssm">Sep 22, 1908</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

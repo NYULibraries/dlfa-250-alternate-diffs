@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid34617</field>
+     <field name="unitid_ssm">cuid34617</field>
+     <field name="unitdate_teim">Apr 27, 2012</field>
+-    <field name="bioghist_teim">Dr. James Lynch (b. Queens, New York, 1965) is the only child of postwar Cavan immigrants. He grew up in Elmhurst, Queens, surrounded by extended family on both his father's and mother's sides. Having attended Catholic schools, he attended medical school and specialized in psychiatry. He watched in horror from his Brooklyn Heights office as the Twin Towers crumbled on 9/11. He is married to an Irish-American and has two children. Dr. Lynch is often consulted in cases related to sexual abuse in Ireland.</field>
++    <field name="bioghist_teim">Dr. James Lynch (b. Queens, New York, 1965) is the only child of postwar Cavan immigrants. He grew up in Elmhurst, Queens, surrounded by extended family on both his father&#39;s and mother&#39;s sides. Having attended Catholic schools, he attended medical school and specialized in psychiatry. He watched in horror from his Brooklyn Heights office as the Twin Towers crumbled on 9/11. He is married to an Irish-American and has two children. Dr. Lynch is often consulted in cases related to sexual abuse in Ireland.</field>
+     <field name="ref_ssi">aspace_ref528</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 4, Folder: 59</field>
+     <field name="location_si">Box: 4, Folder: 59</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">L</field>
+     <field name="series_si">L &gt;&gt; Lynch, James</field>

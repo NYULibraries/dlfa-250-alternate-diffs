@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2015/2015</field>
+     <field name="unitdate_normal_sim">2015/2015</field>
+     <field name="unitdate_inclusive_teim">2015</field>
+-    <field name="scopecontent_teim">This interview was conducted by Miriam Nyhan in Estes Park, Colorado on June 20, 2015. The interview contains Brigid Mulloy's family history and her father's career trajectory. She describes her father's ancestry and her family's immigration story. She recounts her father's work with the United States Army during World War II. Mulloy discusses her father's employment as a professor of anthropology at the University of Wyoming and his work on Easter Island.</field>
++    <field name="scopecontent_teim">This interview was conducted by Miriam Nyhan in Estes Park, Colorado on June 20, 2015. The interview contains Brigid Mulloy&#39;s family history and her father&#39;s career trajectory. She describes her father&#39;s ancestry and her family&#39;s immigration story. She recounts her father&#39;s work with the United States Army during World War II. Mulloy discusses her father&#39;s employment as a professor of anthropology at the University of Wyoming and his work on Easter Island.</field>
+     <field name="bioghist_teim">Brigid Mulloy was born in 1951 in Laramie, Wyoming. She lived on Easter Island from 1960 to 1961.</field>
+     <field name="dao_teim">Mulloy, Brigid: 2015-</field>
+     <field name="dao_ssm">Mulloy, Brigid: 2015-</field>
+@@ -35,6 +35,7 @@
+     <field name="location_si">Box: Electronic records, E-records: TW_AIA_30_ER_88</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">M</field>
+     <field name="series_si">M &gt;&gt; Mulloy, Brigid</field>

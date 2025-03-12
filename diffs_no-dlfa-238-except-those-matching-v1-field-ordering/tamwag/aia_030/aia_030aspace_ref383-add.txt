@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">Aug 8, 2011</field>
+-    <field name="bioghist_teim">Fr. Jim Gardiner of the Dominican Order (b. Bronx, New York, 1942) is a Franciscan Friar and former director of Graymoor Spiritual Life Center in Garrison, New York. He worked with civil rights activists in Washington, DC, in the 1970s, and with AIDS patients in New York City in the 1980s and 1990s. He led the 22nd St. Patrick's Day Parade in Peekskill, New York, in 2011.</field>
++    <field name="bioghist_teim">Fr. Jim Gardiner of the Dominican Order (b. Bronx, New York, 1942) is a Franciscan Friar and former director of Graymoor Spiritual Life Center in Garrison, New York. He worked with civil rights activists in Washington, DC, in the 1970s, and with AIDS patients in New York City in the 1980s and 1990s. He led the 22nd St. Patrick&#39;s Day Parade in Peekskill, New York, in 2011.</field>
+     <field name="ref_ssi">aspace_ref383</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 2, Folder: 8</field>
+     <field name="location_si">Box: 2, Folder: 8</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">G</field>
+     <field name="series_si">G &gt;&gt; Gardiner, Fr. Jim</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Irish Echo Photographs</field>
+     <field name="collection_unitid_ssm">AIA.045</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Morris, Michael "Mouse"</field>
+-    <field name="unittitle_teim">Morris, Michael "Mouse"</field>
++    <field name="unittitle_ssm">Morris, Michael &#34;Mouse&#34;</field>
++    <field name="unittitle_teim">Morris, Michael &#34;Mouse&#34;</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/953319</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/953319</field>
+     <field name="unitdate_normal_ssm">2010/2010</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 25, Folder: 18</field>
+     <field name="location_si">Box: 25, Folder: 18</field>
+     <field name="collection_teim">Irish Echo Photographs</field>
++    <field name="author_teim">Marion Casey, Mary Corcoran, John Ridge, Rachel Searcy, and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.045</field>
+     <field name="series_sim">Series II: Ireland</field>
+     <field name="series_sim">Subseries II.D: Sports</field>
+-    <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.D: Sports &gt;&gt; Morris, Michael "Mouse"</field>
+-    <field name="heading_ssm">Morris, Michael "Mouse"</field>
++    <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.D: Sports &gt;&gt; Morris, Michael &#34;Mouse&#34;</field>
++    <field name="heading_ssm">Morris, Michael &#34;Mouse&#34;</field>
+     <field name="unitdate_start_sim">2010</field>
+     <field name="unitdate_start_ssm">2010</field>
+     <field name="unitdate_start_si">2010</field>

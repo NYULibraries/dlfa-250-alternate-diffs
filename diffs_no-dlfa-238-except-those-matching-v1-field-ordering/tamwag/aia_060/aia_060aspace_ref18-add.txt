@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_060</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series X. Diaries, Notes and Research</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1922/1963</field>
+     <field name="unitdate_normal_sim">1922/1963</field>
+     <field name="unitdate_inclusive_teim">1922-1963</field>
+-    <field name="scopecontent_teim">This series contains diaries, journals, notebooks, loose notes and research by Ernie O'Malley contextualizing his literary output and body of work.  Items in this series reflect the commentary, criticisms, critiques and general notes taken by O'Malley on a variety of topics including art, literature, poetry and history, and provide insight into his research methodology and writing process.  Most notebooks in this series are untitled, however, some notebooks bear the letters "P" indicating painting, or "I" for Ireland.  Of special interest in this series are O'Malley's diaries from his travels in the United States and Mexico, as well as, notebooks relating to his military career.  See the accompanying index for an itemized listing, description and full summary of each notebook in this series.  Additional notebooks and notes may be found in Series 1: Works and Series 12: Art Materials.</field>
++    <field name="scopecontent_teim">This series contains diaries, journals, notebooks, loose notes and research by Ernie O&#39;Malley contextualizing his literary output and body of work.  Items in this series reflect the commentary, criticisms, critiques and general notes taken by O&#39;Malley on a variety of topics including art, literature, poetry and history, and provide insight into his research methodology and writing process.  Most notebooks in this series are untitled, however, some notebooks bear the letters &#34;P&#34; indicating painting, or &#34;I&#34; for Ireland.  Of special interest in this series are O&#39;Malley&#39;s diaries from his travels in the United States and Mexico, as well as, notebooks relating to his military career.  See the accompanying index for an itemized listing, description and full summary of each notebook in this series.  Additional notebooks and notes may be found in Series 1: Works and Series 12: Art Materials.</field>
+     <field name="ref_ssi">aspace_ref18</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_si">Series X. Diaries, Notes and Research</field>
+     <field name="heading_ssm">Series X. Diaries, Notes and Research</field>

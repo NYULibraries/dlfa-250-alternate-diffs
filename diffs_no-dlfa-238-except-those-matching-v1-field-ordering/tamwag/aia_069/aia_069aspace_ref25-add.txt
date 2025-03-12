@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Personal Materials</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Paul O'Dwyer Papers</field>
+-    <field name="collection_ssm">Paul O'Dwyer Papers</field>
++    <field name="collection_sim">Paul O&#39;Dwyer Papers</field>
++    <field name="collection_ssm">Paul O&#39;Dwyer Papers</field>
+     <field name="collection_unitid_ssm">AIA.069</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Personal Correspondence: J</field>
+@@ -27,7 +27,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 14</field>
+     <field name="location_si">Box: 1, Folder: 14</field>
+-    <field name="collection_teim">Paul O'Dwyer Papers</field>
++    <field name="collection_teim">Paul O&#39;Dwyer Papers</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.069</field>
+     <field name="series_sim">Personal Materials</field>
+     <field name="series_si">Personal Materials &gt;&gt; Personal Correspondence: J</field>

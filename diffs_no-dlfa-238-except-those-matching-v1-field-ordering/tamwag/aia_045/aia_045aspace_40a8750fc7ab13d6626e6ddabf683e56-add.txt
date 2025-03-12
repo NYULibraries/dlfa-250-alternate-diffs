@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Irish Echo Photographs</field>
+     <field name="collection_unitid_ssm">AIA.045</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Finnegan's Wake&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Finnegan's Wake
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Finnegan&#39;s Wake&lt;/em&gt;</field>
++    <field name="unittitle_teim">Finnegan&#39;s Wake</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/953385</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/953385</field>
+     <field name="unitdate_normal_ssm">2004/2004</field>
+@@ -28,8 +24,8 @@
+     <field name="unitdate_normal_teim">2004/2004</field>
+     <field name="unitdate_normal_sim">2004/2004</field>
+     <field name="unitdate_teim">2004</field>
+-    <field name="dao_teim">Finnegan's Wake: 2004-</field>
+-    <field name="dao_ssm">Finnegan's Wake: 2004-</field>
++    <field name="dao_teim">Finnegan&#39;s Wake: 2004-</field>
++    <field name="dao_ssm">Finnegan&#39;s Wake: 2004-</field>
+     <field name="ref_ssi">aspace_40a8750fc7ab13d6626e6ddabf683e56</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -40,15 +36,12 @@
+     <field name="location_si">Box: Electronic Records, E-records: TW_AIA_045_ER_2</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Irish Echo Photographs</field>
++    <field name="author_teim">Marion Casey, Mary Corcoran, John Ridge, Rachel Searcy, and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.045</field>
+     <field name="series_sim">Series VI: Film, Television, and Theatre</field>
+     <field name="series_sim">Subseries VI.B: Theatre</field>
+-    <field name="series_si">Series VI: Film, Television, and Theatre &gt;&gt; Subseries VI.B: Theatre &gt;&gt; 
+-      &lt;em&gt;Finnegan's Wake&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Finnegan's Wake
+-    </field>
++    <field name="series_si">Series VI: Film, Television, and Theatre &gt;&gt; Subseries VI.B: Theatre &gt;&gt; &lt;em&gt;Finnegan&#39;s Wake&lt;/em&gt;</field>
++    <field name="heading_ssm">Finnegan&#39;s Wake</field>
+     <field name="unitdate_start_sim">2004</field>
+     <field name="unitdate_start_ssm">2004</field>
+     <field name="unitdate_start_si">2004</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Adrian Flannelly Show Audio Recordings</field>
+     <field name="collection_unitid_ssm">AIA.089</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Maureen O'Hara</field>
+-    <field name="unittitle_teim">Maureen O'Hara</field>
++    <field name="unittitle_ssm">Maureen O&#39;Hara</field>
++    <field name="unittitle_teim">Maureen O&#39;Hara</field>
+     <field name="unitdate_normal_ssm">1987-01/1987-01</field>
+     <field name="unitdate_normal_teim">1987-01/1987-01</field>
+     <field name="unitdate_normal_sim">1987-01/1987-01</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4, audiocassette: 089.0280</field>
+     <field name="location_si">Box: 4, audiocassette: 089.0280</field>
+     <field name="collection_teim">The Adrian Flannelly Show Audio Recordings</field>
++    <field name="author_teim">Rachel Searcy and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.089</field>
+     <field name="series_sim">Additional Tapes</field>
+-    <field name="series_si">Additional Tapes &gt;&gt; Maureen O'Hara</field>
+-    <field name="heading_ssm">Maureen O'Hara</field>
++    <field name="series_si">Additional Tapes &gt;&gt; Maureen O&#39;Hara</field>
++    <field name="heading_ssm">Maureen O&#39;Hara</field>
+     <field name="unitdate_ssm">January 1987 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">283</field>

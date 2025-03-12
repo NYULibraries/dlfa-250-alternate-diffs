@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.004</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">You're as Welcome as the Flowers in May</field>
+-    <field name="unittitle_teim">You're as Welcome as the Flowers in May</field>
++    <field name="unittitle_ssm">You&#39;re as Welcome as the Flowers in May</field>
++    <field name="unittitle_teim">You&#39;re as Welcome as the Flowers in May</field>
+     <field name="unitdate_normal_ssm">1942/1942</field>
+     <field name="unitdate_normal_teim">1942/1942</field>
+     <field name="unitdate_normal_sim">1942/1942</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 50, Folder: 31</field>
+     <field name="location_si">Box: 50, Folder: 31</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
++    <field name="author_teim">Marion R. Casey and Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.031.004</field>
+     <field name="series_sim">Series III: Sheet Music (Non-Irish)</field>
+-    <field name="series_si">Series III: Sheet Music (Non-Irish) &gt;&gt; You're as Welcome as the Flowers in May</field>
+-    <field name="heading_ssm">You're as Welcome as the Flowers in May</field>
++    <field name="series_si">Series III: Sheet Music (Non-Irish) &gt;&gt; You&#39;re as Welcome as the Flowers in May</field>
++    <field name="heading_ssm">You&#39;re as Welcome as the Flowers in May</field>
+     <field name="unitdate_start_sim">1942</field>
+     <field name="unitdate_start_ssm">1942</field>
+     <field name="unitdate_start_si">1942</field>

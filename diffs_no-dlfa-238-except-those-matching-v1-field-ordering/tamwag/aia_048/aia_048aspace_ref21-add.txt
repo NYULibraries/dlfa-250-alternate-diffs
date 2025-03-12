@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,10 +5,8 @@
+     <field name="ead_ssi">aia_048</field>
+     <field name="parent_ssi">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref2</field>
+-    <field name="parent_unittitles_ssm">Inventory
+-</field>
+-    <field name="parent_unittitles_teim">Inventory
+-</field>
++    <field name="parent_unittitles_ssm">Inventory&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Inventory&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James P. Sullivan Collection</field>
+@@ -27,9 +25,9 @@
+     <field name="location_ssm">Box: 1, Item: aia048_019</field>
+     <field name="location_si">Box: 1, Item: aia048_019</field>
+     <field name="collection_teim">James P. Sullivan Collection</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.048</field>
+-    <field name="series_sim">Inventory
+-</field>
++    <field name="series_sim">Inventory&amp;#xA;</field>
+     <field name="series_si">Inventory
+  &gt;&gt; Irish American Athletic Club Membership Card</field>
+     <field name="heading_ssm">Irish American Athletic Club Membership Card</field>

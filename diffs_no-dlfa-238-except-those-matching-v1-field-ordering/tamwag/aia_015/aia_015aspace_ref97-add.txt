@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brian McGinn Papers</field>
+     <field name="collection_unitid_ssm">AIA.015</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Jamestown: O'Conor, Dionis</field>
+-    <field name="unittitle_teim">Jamestown: O'Conor, Dionis</field>
++    <field name="unittitle_ssm">Jamestown: O&#39;Conor, Dionis</field>
++    <field name="unittitle_teim">Jamestown: O&#39;Conor, Dionis</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/3501</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/3501</field>
+     <field name="unitdate_normal_ssm">1929/1997</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 3, Folder: 13</field>
+     <field name="location_si">Box: 3, Folder: 13</field>
+     <field name="collection_teim">Brian McGinn Papers</field>
++    <field name="author_teim">Karen Murphy, Rebecca Altermatt, Kaitlyn Medley, and Aki Snyder</field>
+     <field name="collection_unitid_teim">AIA.015</field>
+     <field name="series_sim">Series III: 16th and 17th Century America: Early Irish in America</field>
+-    <field name="series_si">Series III: 16th and 17th Century America: Early Irish in America &gt;&gt; Jamestown: O'Conor, Dionis</field>
+-    <field name="heading_ssm">Jamestown: O'Conor, Dionis</field>
++    <field name="series_si">Series III: 16th and 17th Century America: Early Irish in America &gt;&gt; Jamestown: O&#39;Conor, Dionis</field>
++    <field name="heading_ssm">Jamestown: O&#39;Conor, Dionis</field>
+     <field name="unitdate_start_sim">1929</field>
+     <field name="unitdate_start_ssm">1929</field>
+     <field name="unitdate_start_si">1929</field>

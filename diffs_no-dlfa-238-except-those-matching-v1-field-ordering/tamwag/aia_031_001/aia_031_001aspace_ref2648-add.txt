@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Killoran, Paddy, &lt;em&gt;Paddy Killoran's Back in Town&lt;/em&gt; (Shanachie 33003)</field>
+-    <field name="unittitle_teim">Killoran, Paddy, Paddy Killoran's Back in Town (Shanachie 33003)</field>
++    <field name="unittitle_ssm">Killoran, Paddy, &lt;em&gt;Paddy Killoran&#39;s Back in Town&lt;/em&gt; (Shanachie 33003)</field>
++    <field name="unittitle_teim">Killoran, Paddy, Paddy Killoran&#39;s Back in Town (Shanachie 33003)</field>
+     <field name="ref_ssi">aspace_ref2648</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA33 268</field>
+     <field name="location_si">disk: XA33 268</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series II: 33 1/3 RPM Records</field>
+-    <field name="series_si">Series II: 33 1/3 RPM Records &gt;&gt; Killoran, Paddy, &lt;em&gt;Paddy Killoran's Back in Town&lt;/em&gt; (Shanachie 33003)</field>
+-    <field name="heading_ssm">Killoran, Paddy, Paddy Killoran's Back in Town (Shanachie 33003)</field>
++    <field name="series_si">Series II: 33 1/3 RPM Records &gt;&gt; Killoran, Paddy, &lt;em&gt;Paddy Killoran&#39;s Back in Town&lt;/em&gt; (Shanachie 33003)</field>
++    <field name="heading_ssm">Killoran, Paddy, Paddy Killoran&#39;s Back in Town (Shanachie 33003)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3164</field>
+   </doc>

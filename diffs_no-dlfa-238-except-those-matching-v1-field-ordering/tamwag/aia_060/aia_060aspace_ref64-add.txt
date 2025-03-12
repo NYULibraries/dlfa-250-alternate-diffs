@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,13 +7,13 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_unittitles_ssm">Series I. Works</field>
+-    <field name="parent_unittitles_ssm">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="parent_unittitles_teim">Series I. Works</field>
+-    <field name="parent_unittitles_teim">Subseries IA. Ernie O'Malley</field>
++    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Ernie O'Malley Papers</field>
+-    <field name="collection_ssm">Ernie O'Malley Papers</field>
++    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
++    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+     <field name="collection_unitid_ssm">AIA.060</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Poetry, Final, 51 poems, typescript</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1930/1935</field>
+     <field name="unitdate_normal_sim">1930/1935</field>
+     <field name="unitdate_inclusive_teim">1930-1935</field>
+-    <field name="scopecontent_teim">Typed drafts of "final" set of 51 poems by Ernie O'Malley, including 10 signed. Poems include "Inspiration," "Couriers," "Vorticist," "We Have Not Sought for Beauty Being Wise," "Embers," in addition to numerous unpublished writings.</field>
++    <field name="scopecontent_teim">Typed drafts of &#34;final&#34; set of 51 poems by Ernie O&#39;Malley, including 10 signed. Poems include &#34;Inspiration,&#34; &#34;Couriers,&#34; &#34;Vorticist,&#34; &#34;We Have Not Sought for Beauty Being Wise,&#34; &#34;Embers,&#34; in addition to numerous unpublished writings.</field>
+     <field name="ref_ssi">aspace_ref64</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,11 +33,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 39</field>
+     <field name="location_si">Box: 1, Folder: 39</field>
+-    <field name="collection_teim">Ernie O'Malley Papers</field>
++    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
++    <field name="author_teim">Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.060</field>
+     <field name="series_sim">Series I. Works</field>
+-    <field name="series_sim">Subseries IA. Ernie O'Malley</field>
+-    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O'Malley &gt;&gt; Poetry, Final, 51 poems, typescript</field>
++    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
++    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Poetry, Final, 51 poems, typescript</field>
+     <field name="heading_ssm">Poetry, Final, 51 poems, typescript</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>

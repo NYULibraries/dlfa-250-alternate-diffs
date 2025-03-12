@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">Mar 25, 2011</field>
+-    <field name="bioghist_teim">John Moylan (b. Manhattan, New York, 1940), the son of immigrants from Co. Cork, spent his career as a doorman at Tavern on the Green, a restaurant located in Central Park. He is also the author of several articles including "Remembering Kelso," "The Boys of Summer's Past" and "The Finest of the Finest."</field>
++    <field name="bioghist_teim">John Moylan (b. Manhattan, New York, 1940), the son of immigrants from Co. Cork, spent his career as a doorman at Tavern on the Green, a restaurant located in Central Park. He is also the author of several articles including &#34;Remembering Kelso,&#34; &#34;The Boys of Summer&#39;s Past&#34; and &#34;The Finest of the Finest.&#34;</field>
+     <field name="ref_ssi">aspace_ref426</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 3, Folder: 10</field>
+     <field name="location_si">Box: 3, Folder: 10</field>
+     <field name="collection_teim">Ireland House Oral History Collection</field>
++    <field name="author_teim">Rebecca Altermatt, Rachel Searcy</field>
+     <field name="collection_unitid_teim">AIA.030</field>
+     <field name="series_sim">M</field>
+     <field name="series_si">M &gt;&gt; Moylan, John</field>

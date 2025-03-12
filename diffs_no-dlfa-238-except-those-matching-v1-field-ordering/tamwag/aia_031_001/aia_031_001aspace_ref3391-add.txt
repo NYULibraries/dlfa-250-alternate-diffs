@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Donovan, Edgar, "Florian's Song" [39077] &lt;strong&gt;Side B: &lt;/strong&gt;Donovan, Edgar, "Swallows" [39078] (Columbia A 1478)
+-</field>
+-    <field name="unittitle_teim">Side A: Donovan, Edgar, "Florian's Song" [39077] Side B: Donovan, Edgar, "Swallows" [39078] (Columbia A 1478)
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Donovan, Edgar, &#34;Florian&#39;s Song&#34; [39077] &lt;strong&gt;Side B: &lt;/strong&gt;Donovan, Edgar, &#34;Swallows&#34; [39078] (Columbia A 1478)
++</field>
++    <field name="unittitle_teim">Side A: Donovan, Edgar, &#34;Florian&#39;s Song&#34; [39077] Side B: Donovan, Edgar, &#34;Swallows&#34; [39078] (Columbia A 1478)
+ </field>
+     <field name="ref_ssi">aspace_ref3391</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -26,11 +26,12 @@
+     <field name="location_ssm">disk: XA78 2604</field>
+     <field name="location_si">disk: XA78 2604</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Donovan, Edgar, "Florian's Song" [39077] &lt;strong&gt;Side B: &lt;/strong&gt;Donovan, Edgar, "Swallows" [39078] (Columbia A 1478)
+-</field>
+-    <field name="heading_ssm">Side A: Donovan, Edgar, "Florian's Song" [39077] Side B: Donovan, Edgar, "Swallows" [39078] (Columbia A 1478)
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Donovan, Edgar, &#34;Florian&#39;s Song&#34; [39077] &lt;strong&gt;Side B: &lt;/strong&gt;Donovan, Edgar, &#34;Swallows&#34; [39078] (Columbia A 1478)
++</field>
++    <field name="heading_ssm">Side A: Donovan, Edgar, &#34;Florian&#39;s Song&#34; [39077] Side B: Donovan, Edgar, &#34;Swallows&#34; [39078] (Columbia A 1478)
+ </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2797</field>

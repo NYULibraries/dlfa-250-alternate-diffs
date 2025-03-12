@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Sean Prendiville Papers</field>
+     <field name="collection_unitid_ssm">AIA.005</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Silk handerchief/scarf "Remember '98" with images of:
+-Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
+-    <field name="unittitle_teim">Silk handerchief/scarf "Remember '98" with images of:
++    <field name="unittitle_ssm">Silk handerchief/scarf &#34;Remember &#39;98&#34; with images of:
++Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
++    <field name="unittitle_teim">Silk handerchief/scarf &#34;Remember &#39;98&#34; with images of:
+ Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
+     <field name="unitid_teim">cuid14997</field>
+     <field name="unitid_ssm">cuid14997</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 5, Folder: 4</field>
+     <field name="location_si">Box: 5, Folder: 4</field>
+     <field name="collection_teim">Sean Prendiville Papers</field>
++    <field name="author_teim">Alice Naughton and Rebecca Altermatt</field>
+     <field name="collection_unitid_teim">AIA.005</field>
+     <field name="series_sim">Series V. Nonprint</field>
+-    <field name="series_si">Series V. Nonprint &gt;&gt; Silk handerchief/scarf "Remember '98" with images of:
+-Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
+-    <field name="heading_ssm">Silk handerchief/scarf "Remember '98" with images of:
++    <field name="series_si">Series V. Nonprint &gt;&gt; Silk handerchief/scarf &#34;Remember &#39;98&#34; with images of:
++Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
++    <field name="heading_ssm">Silk handerchief/scarf &#34;Remember &#39;98&#34; with images of:
+ Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

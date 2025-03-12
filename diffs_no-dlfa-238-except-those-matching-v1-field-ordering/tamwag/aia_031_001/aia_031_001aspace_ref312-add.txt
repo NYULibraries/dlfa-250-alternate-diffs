@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+     <field name="collection_unitid_ssm">AIA.031.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Coleman, Michael, "Bonnie Kate" [38978] &lt;strong&gt;Side B: &lt;/strong&gt;Coleman, Michael, "Medley of Jigs" [38979] (Decca F.5424)</field>
+-    <field name="unittitle_teim">Side A: Coleman, Michael, "Bonnie Kate" [38978] Side B: Coleman, Michael, "Medley of Jigs" [38979] (Decca F.5424)</field>
++    <field name="unittitle_ssm">&lt;strong&gt;Side A: &lt;/strong&gt;Coleman, Michael, &#34;Bonnie Kate&#34; [38978] &lt;strong&gt;Side B: &lt;/strong&gt;Coleman, Michael, &#34;Medley of Jigs&#34; [38979] (Decca F.5424)</field>
++    <field name="unittitle_teim">Side A: Coleman, Michael, &#34;Bonnie Kate&#34; [38978] Side B: Coleman, Michael, &#34;Medley of Jigs&#34; [38979] (Decca F.5424)</field>
+     <field name="ref_ssi">aspace_ref312</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">disk: XA78 119</field>
+     <field name="location_si">disk: XA78 119</field>
+     <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
++    <field name="author_teim">Brendan Dolan </field>
+     <field name="collection_unitid_teim">AIA.031.001</field>
+     <field name="series_sim">Series I: 78 RPM Records</field>
+-    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Coleman, Michael, "Bonnie Kate" [38978] &lt;strong&gt;Side B: &lt;/strong&gt;Coleman, Michael, "Medley of Jigs" [38979] (Decca F.5424)</field>
+-    <field name="heading_ssm">Side A: Coleman, Michael, "Bonnie Kate" [38978] Side B: Coleman, Michael, "Medley of Jigs" [38979] (Decca F.5424)</field>
++    <field name="series_si">Series I: 78 RPM Records &gt;&gt; &lt;strong&gt;Side A: &lt;/strong&gt;Coleman, Michael, &#34;Bonnie Kate&#34; [38978] &lt;strong&gt;Side B: &lt;/strong&gt;Coleman, Michael, &#34;Medley of Jigs&#34; [38979] (Decca F.5424)</field>
++    <field name="heading_ssm">Side A: Coleman, Michael, &#34;Bonnie Kate&#34; [38978] Side B: Coleman, Michael, &#34;Medley of Jigs&#34; [38979] (Decca F.5424)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">335</field>
+   </doc>
