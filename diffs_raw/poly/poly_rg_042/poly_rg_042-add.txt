@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -3,8 +3,8 @@
+   <doc>
+     <field name="author_teim">Zoe Blecher-Cohen</field>
+     <field name="author_ssm">Zoe Blecher-Cohen</field>
+-    <field name="unittitle_teim">Polytechnic President's Office Records</field>
+-    <field name="unittitle_ssm">Polytechnic President's Office Records</field>
++    <field name="unittitle_teim">Polytechnic President&#39;s Office Records</field>
++    <field name="unittitle_ssm">Polytechnic President&#39;s Office Records</field>
+     <field name="unitid_teim">RG.042</field>
+     <field name="unitid_ssm">RG.042</field>
+     <field name="unitdate_normal_ssm">1988/2004</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_bulk_teim">1995-1997</field>
+     <field name="unitdate_inclusive_teim">1988-2004</field>
+     <field name="scopecontent_teim">Materials are mostly media and design related including layouts for brochures and documents from the 1996-1997 Poly logo contest.</field>
+-    <field name="acqinfo_teim">Materials were transferred from the President's Office in the Jacobs Administrative Building on 6/29/2017.</field>
++    <field name="acqinfo_teim">Materials were transferred from the President&#39;s Office in the Jacobs Administrative Building on 6/29/2017.</field>
+     <field name="corpname_teim">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+     <field name="corpname_ssm">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+     <field name="genreform_teim">Floppy disks</field>
+@@ -27,9 +27,9 @@
+     <field name="genreform_ssm">Brochures</field>
+     <field name="genreform_ssm">Publications</field>
+     <field name="genreform_ssm">Correspondence</field>
+-    <field name="collection_sim">Polytechnic President's Office Records</field>
+-    <field name="collection_ssm">Polytechnic President's Office Records</field>
+-    <field name="collection_teim">Polytechnic President's Office Records</field>
++    <field name="collection_sim">Polytechnic President&#39;s Office Records</field>
++    <field name="collection_ssm">Polytechnic President&#39;s Office Records</field>
++    <field name="collection_teim">Polytechnic President&#39;s Office Records</field>
+     <field name="id">poly_rg_042</field>
+     <field name="ead_ssi">poly_rg_042</field>
+     <field name="repository_ssi">poly</field>
+@@ -46,7 +46,7 @@
+     <field name="material_type_ssm">Brochures</field>
+     <field name="material_type_ssm">Publications</field>
+     <field name="material_type_ssm">Correspondence</field>
+-    <field name="heading_ssm">Polytechnic President's Office Records</field>
++    <field name="heading_ssm">Polytechnic President&#39;s Office Records</field>
+     <field name="unitdate_start_sim">1988</field>
+     <field name="unitdate_start_sim">1995</field>
+     <field name="unitdate_start_ssm">1988</field>

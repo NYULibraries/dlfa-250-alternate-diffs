@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,12 @@
+     <field name="collection_ssm">Poly Archives Portrait Collection</field>
+     <field name="collection_unitid_ssm">RG.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Mark, Herman: See Herman Mark Collection</field>
+-    <field name="unittitle_teim">Mark, Herman: See Herman Mark Collection</field>
++    <field name="unittitle_ssm">Mark, Herman: See Herman Mark Collection
++
++</field>
++    <field name="unittitle_teim">Mark, Herman: See Herman Mark Collection
++
++</field>
+     <field name="unitid_teim">cuid1705</field>
+     <field name="unitid_ssm">cuid1705</field>
+     <field name="unitdate_teim">undated</field>
+@@ -25,10 +29,15 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Poly Archives Portrait Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.028</field>
+     <field name="series_sim">M</field>
+-    <field name="series_si">M &gt;&gt; Mark, Herman: See Herman Mark Collection</field>
+-    <field name="heading_ssm">Mark, Herman: See Herman Mark Collection</field>
++    <field name="series_si">M &gt;&gt; Mark, Herman: See Herman Mark Collection
++
++</field>
++    <field name="heading_ssm">Mark, Herman: See Herman Mark Collection
++
++</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">760</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Poly Archives Historic Photograph Collection</field>
+     <field name="collection_unitid_ssm">RG.026</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Goldsmith's Birthday Party</field>
+-    <field name="unittitle_teim">Goldsmith's Birthday Party</field>
++    <field name="unittitle_ssm">Goldsmith&#39;s Birthday Party</field>
++    <field name="unittitle_teim">Goldsmith&#39;s Birthday Party</field>
+     <field name="unitid_teim">cuid765</field>
+     <field name="unitid_ssm">cuid765</field>
+     <field name="unitdate_teim">1999 October 18</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">box: 18, folder: 27</field>
+     <field name="location_si">box: 18, folder: 27</field>
+     <field name="collection_teim">Poly Archives Historic Photograph Collection</field>
++    <field name="author_teim">Lindsay Anderberg and Absar Alam</field>
+     <field name="collection_unitid_teim">RG.026</field>
+     <field name="series_sim">Series VII: Events</field>
+     <field name="series_sim">Subseries D: Banquets and Celebrations</field>
+-    <field name="series_si">Series VII: Events &gt;&gt; Subseries D: Banquets and Celebrations &gt;&gt; Goldsmith's Birthday Party</field>
+-    <field name="heading_ssm">Goldsmith's Birthday Party</field>
++    <field name="series_si">Series VII: Events &gt;&gt; Subseries D: Banquets and Celebrations &gt;&gt; Goldsmith&#39;s Birthday Party</field>
++    <field name="heading_ssm">Goldsmith&#39;s Birthday Party</field>
+     <field name="unitdate_ssm">1999 October 18</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">800</field>

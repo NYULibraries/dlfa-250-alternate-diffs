@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,8 @@
+     <field name="unitdate_normal_ssm">1999/1999</field>
+     <field name="unitdate_normal_teim">1999/1999</field>
+     <field name="unitdate_normal_sim">1999/1999</field>
+-    <field name="unitdate_teim">1999, 2000</field>
++    <field name="unitdate_teim">1999, 2000
++</field>
+     <field name="ref_ssi">aspace_bbff9328eed68f7a0ea6723f63c9fbfe</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -28,6 +29,7 @@
+     <field name="location_ssm">box: 2, folder: 16</field>
+     <field name="location_si">box: 2, folder: 16</field>
+     <field name="collection_teim">Haldun Hadimioglu Papers</field>
++    <field name="author_teim">Zoe Blecher-Cohen, Mandy Abokhair, and Aileen Thong</field>
+     <field name="collection_unitid_teim">RG.043</field>
+     <field name="series_sim">Series V: Computer Science Curriculum Materials</field>
+     <field name="series_si">Series V: Computer Science Curriculum Materials &gt;&gt; ABET Criteria 2000 Materials</field>
+@@ -38,7 +40,8 @@
+     <field name="unitdate_end_sim">1999</field>
+     <field name="unitdate_end_ssm">1999</field>
+     <field name="unitdate_end_si">1999</field>
+-    <field name="unitdate_ssm">1999, 2000</field>
++    <field name="unitdate_ssm">1999, 2000
++</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">140</field>
+   </doc>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Keller Mechanical Engineering Corporation Collection</field>
+     <field name="collection_unitid_ssm">RG.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Work shots for Willy's Motors, Richmond Division, California</field>
+-    <field name="unittitle_teim">Work shots for Willy's Motors, Richmond Division, California</field>
++    <field name="unittitle_ssm">Work shots for Willy&#39;s Motors, Richmond Division, California</field>
++    <field name="unittitle_teim">Work shots for Willy&#39;s Motors, Richmond Division, California</field>
+     <field name="unitdate_normal_ssm">1955/1955</field>
+     <field name="unitdate_normal_teim">1955/1955</field>
+     <field name="unitdate_normal_sim">1955/1955</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 6, folder: 20</field>
+     <field name="location_si">box: 6, folder: 20</field>
+     <field name="collection_teim">Keller Mechanical Engineering Corporation Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.001</field>
+     <field name="series_sim">Series II: Notebooks</field>
+     <field name="series_sim">Subseries B: Keller BG-22 Machines, Work Shots (Notebook #3)</field>
+-    <field name="series_si">Series II: Notebooks &gt;&gt; Subseries B: Keller BG-22 Machines, Work Shots (Notebook #3) &gt;&gt; Work shots for Willy's Motors, Richmond Division, California</field>
+-    <field name="heading_ssm">Work shots for Willy's Motors, Richmond Division, California</field>
++    <field name="series_si">Series II: Notebooks &gt;&gt; Subseries B: Keller BG-22 Machines, Work Shots (Notebook #3) &gt;&gt; Work shots for Willy&#39;s Motors, Richmond Division, California</field>
++    <field name="heading_ssm">Work shots for Willy&#39;s Motors, Richmond Division, California</field>
+     <field name="unitdate_start_sim">1955</field>
+     <field name="unitdate_start_ssm">1955</field>
+     <field name="unitdate_start_si">1955</field>

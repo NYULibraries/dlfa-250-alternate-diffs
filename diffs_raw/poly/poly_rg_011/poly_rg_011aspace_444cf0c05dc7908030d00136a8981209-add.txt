@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Vintage Equipment Collection</field>
+     <field name="collection_unitid_ssm">RG.011</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Thesis: "Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes," June 1954</field>
+-    <field name="unittitle_teim">Thesis: "Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes," June 1954</field>
++    <field name="unittitle_ssm">Thesis: &#34;Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes,&#34; June 1954</field>
++    <field name="unittitle_teim">Thesis: &#34;Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes,&#34; June 1954</field>
+     <field name="unitdate_normal_ssm">1954-06/1954-06</field>
+     <field name="unitdate_normal_teim">1954-06/1954-06</field>
+     <field name="unitdate_normal_sim">1954-06/1954-06</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 2, item: 1</field>
+     <field name="location_si">box: 2, item: 1</field>
+     <field name="collection_teim">Vintage Equipment Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.011</field>
+     <field name="series_sim">Series II: 2021 Accretion</field>
+     <field name="series_sim">Sub-series B: Academia</field>
+-    <field name="series_si">Series II: 2021 Accretion &gt;&gt; Sub-series B: Academia &gt;&gt; Thesis: "Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes," June 1954</field>
+-    <field name="heading_ssm">Thesis: "Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes," June 1954</field>
++    <field name="series_si">Series II: 2021 Accretion &gt;&gt; Sub-series B: Academia &gt;&gt; Thesis: &#34;Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes,&#34; June 1954</field>
++    <field name="heading_ssm">Thesis: &#34;Steady State Forced Heat Convection in Non-Compressible Fluids in Laminar Flow Through Circular Pipes,&#34; June 1954</field>
+     <field name="unitdate_ssm">1954-06</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>

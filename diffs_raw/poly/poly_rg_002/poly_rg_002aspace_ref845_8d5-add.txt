@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Herman F. Mark Collection</field>
+     <field name="collection_unitid_ssm">RG.002</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NASA</field>
+-    <field name="unittitle_teim">NASA</field>
++    <field name="unittitle_ssm">NASA </field>
++    <field name="unittitle_teim">NASA </field>
+     <field name="unitid_teim">cuid3322</field>
+     <field name="unitid_ssm">cuid3322</field>
+     <field name="unitdate_normal_ssm">1976/1982</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">box: 23, folder: 16</field>
+     <field name="location_si">box: 23, folder: 16</field>
+     <field name="collection_teim">Herman F. Mark Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.002</field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">Subseries E: Miscellaneous</field>
+-    <field name="series_si">Series VII: Photographs &gt;&gt; Subseries E: Miscellaneous &gt;&gt; NASA</field>
+-    <field name="heading_ssm">NASA</field>
++    <field name="series_si">Series VII: Photographs &gt;&gt; Subseries E: Miscellaneous &gt;&gt; NASA </field>
++    <field name="heading_ssm">NASA </field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>
+     <field name="unitdate_start_si">1976</field>

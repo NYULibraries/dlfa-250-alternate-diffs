@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_055</field>
+     <field name="parent_ssi">aspace_140741fd18406eaff149b2541c8c2126</field>
+     <field name="parent_ssm">aspace_140741fd18406eaff149b2541c8c2126</field>
+-    <field name="parent_unittitles_ssm">Series II: APCS &amp; AMOL</field>
+-    <field name="parent_unittitles_teim">Series II: APCS &amp; AMOL</field>
++    <field name="parent_unittitles_ssm">Series II: APCS &amp;amp; AMOL</field>
++    <field name="parent_unittitles_teim">Series II: APCS &amp;amp; AMOL</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Peter P. Carr Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Peter P. Carr Papers</field>
+     <field name="collection_unitid_ssm">RG.055</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Linear Coeff's &amp; Confluent Hypergeom's</field>
+-    <field name="unittitle_teim">Linear Coeff's &amp; Confluent Hypergeom's</field>
++    <field name="unittitle_ssm">Linear Coeff&#39;s &amp; Confluent Hypergeom&#39;s</field>
++    <field name="unittitle_teim">Linear Coeff&#39;s &amp; Confluent Hypergeom&#39;s</field>
+     <field name="unitdate_normal_ssm">1995-08/1995-08</field>
+     <field name="unitdate_normal_teim">1995-08/1995-08</field>
+     <field name="unitdate_normal_sim">1995-08/1995-08</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 4, folder: 54</field>
+     <field name="location_si">box: 4, folder: 54</field>
+     <field name="collection_teim">Peter P. Carr Papers</field>
++    <field name="author_teim">Aileen Thong and Megan Bardis</field>
+     <field name="collection_unitid_teim">RG.055</field>
+-    <field name="series_sim">Series II: APCS &amp; AMOL</field>
+-    <field name="series_si">Series II: APCS &amp; AMOL &gt;&gt; Linear Coeff's &amp; Confluent Hypergeom's</field>
+-    <field name="heading_ssm">Linear Coeff's &amp; Confluent Hypergeom's</field>
++    <field name="series_sim">Series II: APCS &amp;amp; AMOL</field>
++    <field name="series_si">Series II: APCS &amp; AMOL &gt;&gt; Linear Coeff&#39;s &amp; Confluent Hypergeom&#39;s</field>
++    <field name="heading_ssm">Linear Coeff&#39;s &amp; Confluent Hypergeom&#39;s</field>
+     <field name="unitdate_ssm">1995-08</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">355</field>

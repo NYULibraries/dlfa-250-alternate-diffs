@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Poly Archives Video Collection</field>
+     <field name="collection_unitid_ssm">RG.003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Leadership Seminar Series: Leonard Berkowitz "A Lifetime of Learning at Exxon"</field>
+-    <field name="unittitle_teim">Leadership Seminar Series: Leonard Berkowitz "A Lifetime of Learning at Exxon"</field>
++    <field name="unittitle_ssm">Leadership Seminar Series: Leonard Berkowitz &#34;A Lifetime of Learning at Exxon&#34;</field>
++    <field name="unittitle_teim">Leadership Seminar Series: Leonard Berkowitz &#34;A Lifetime of Learning at Exxon&#34;</field>
+     <field name="unitdate_teim">1996 February 19</field>
+     <field name="ref_ssi">aspace_ref79_pmu</field>
+     <field name="repository_ssi">poly</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">box: 4</field>
+     <field name="location_si">box: 4</field>
+     <field name="collection_teim">Poly Archives Video Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.003</field>
+     <field name="series_sim">Series II: Lectures and Interviews</field>
+     <field name="series_sim">Subseries B: Leadership Seminar Series</field>
+-    <field name="series_si">Series II: Lectures and Interviews &gt;&gt; Subseries B: Leadership Seminar Series &gt;&gt; Leadership Seminar Series: Leonard Berkowitz "A Lifetime of Learning at Exxon"</field>
+-    <field name="heading_ssm">Leadership Seminar Series: Leonard Berkowitz "A Lifetime of Learning at Exxon"</field>
++    <field name="series_si">Series II: Lectures and Interviews &gt;&gt; Subseries B: Leadership Seminar Series &gt;&gt; Leadership Seminar Series: Leonard Berkowitz &#34;A Lifetime of Learning at Exxon&#34;</field>
++    <field name="heading_ssm">Leadership Seminar Series: Leonard Berkowitz &#34;A Lifetime of Learning at Exxon&#34;</field>
+     <field name="unitdate_ssm">1996 February 19</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">77</field>

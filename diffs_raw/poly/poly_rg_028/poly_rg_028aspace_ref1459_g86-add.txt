@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,13 @@
+     <field name="collection_ssm">Poly Archives Portrait Collection</field>
+     <field name="collection_unitid_ssm">RG.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Wong, Edward K. "Ted"</field>
+-    <field name="unittitle_teim">Wong, Edward K. "Ted"</field>
++    <field name="unittitle_ssm">Wong, Edward K. &#34;Ted&#34;</field>
++    <field name="unittitle_teim">Wong, Edward K. &#34;Ted&#34;</field>
+     <field name="unitid_teim">cuid2395</field>
+     <field name="unitid_ssm">cuid2395</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="dao_teim">Wong, Edward K. "Ted": undated</field>
+-    <field name="dao_ssm">Wong, Edward K. "Ted": undated</field>
++    <field name="dao_teim">Wong, Edward K. &#34;Ted&#34;: undated</field>
++    <field name="dao_ssm">Wong, Edward K. &#34;Ted&#34;: undated</field>
+     <field name="ref_ssi">aspace_ref1459_g86</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -30,10 +30,11 @@
+     <field name="location_si">box: 9, folder: 77</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Poly Archives Portrait Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.028</field>
+     <field name="series_sim">W</field>
+-    <field name="series_si">W &gt;&gt; Wong, Edward K. "Ted"</field>
+-    <field name="heading_ssm">Wong, Edward K. "Ted"</field>
++    <field name="series_si">W &gt;&gt; Wong, Edward K. &#34;Ted&#34;</field>
++    <field name="heading_ssm">Wong, Edward K. &#34;Ted&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1460</field>

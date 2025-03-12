@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_042</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Polytechnic President's Office Records</field>
+-    <field name="collection_ssm">Polytechnic President's Office Records</field>
++    <field name="collection_sim">Polytechnic President&#39;s Office Records</field>
++    <field name="collection_ssm">Polytechnic President&#39;s Office Records</field>
+     <field name="collection_unitid_ssm">RG.042</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Graduate Studies flyers - Civil &amp; Environmental Eng.</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 1, folder: 19</field>
+     <field name="location_si">box: 1, folder: 19</field>
+-    <field name="collection_teim">Polytechnic President's Office Records</field>
++    <field name="collection_teim">Polytechnic President&#39;s Office Records</field>
++    <field name="author_teim">Zoe Blecher-Cohen</field>
+     <field name="collection_unitid_teim">RG.042</field>
+     <field name="series_si">Graduate Studies flyers - Civil &amp; Environmental Eng.</field>
+     <field name="heading_ssm">Graduate Studies flyers - Civil &amp; Environmental Eng.</field>

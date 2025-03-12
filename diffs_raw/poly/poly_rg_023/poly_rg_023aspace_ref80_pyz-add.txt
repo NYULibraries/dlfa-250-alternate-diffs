@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1934/1967</field>
+     <field name="unitdate_normal_sim">1934/1967</field>
+     <field name="unitdate_inclusive_teim">1934-1967</field>
+-    <field name="scopecontent_teim">The biographical materials include industry publications noting Wyatt's achievements and Wyatt's obituary.</field>
++    <field name="scopecontent_teim">The biographical materials include industry publications noting Wyatt&#39;s achievements and Wyatt&#39;s obituary.</field>
+     <field name="ref_ssi">aspace_ref80_pyz</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Kenneth S. Wyatt Papers</field>
++    <field name="author_teim">Erica Saunders and Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.023</field>
+     <field name="series_si">Series I: Biographical Information</field>
+     <field name="heading_ssm">Series I: Biographical Information</field>

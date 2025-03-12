@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_021</field>
+     <field name="parent_ssi">aspace_ref37_1ef</field>
+     <field name="parent_ssm">aspace_ref37_1ef</field>
+-    <field name="parent_unittitles_ssm">Series X: Polytechnic Honorary Degrees ("Golden Books")</field>
+-    <field name="parent_unittitles_teim">Series X: Polytechnic Honorary Degrees ("Golden Books")</field>
++    <field name="parent_unittitles_ssm">Series X: Polytechnic Honorary Degrees (&amp;#34;Golden Books&amp;#34;)</field>
++    <field name="parent_unittitles_teim">Series X: Polytechnic Honorary Degrees (&amp;#34;Golden Books&amp;#34;)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Polytechnic History and Milestones Collection</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1997/2013</field>
+     <field name="unitdate_normal_sim">1997/2013</field>
+     <field name="unitdate_inclusive_teim">1997-2013</field>
+-    <field name="scopecontent_teim">When originally processed, the honorary degree citations in the most recent Golden Book were from 2005-2013. In May 2023, Prof. Richard Thorsen donated addition original citations, which were added to the book. The citations now range from 1997-2013.</field>
++    <field name="scopecontent_teim">When originally processed, the honorary degree citations in the most recent Golden Book were from 2005-2013.  In May 2023, Prof. Richard Thorsen donated addition original citations, which were added to the book.  The citations now range from 1997-2013.</field>
+     <field name="ref_ssi">aspace_ref31_kv5</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -29,9 +29,10 @@
+     <field name="location_ssm">box: 7, object: 3</field>
+     <field name="location_si">box: 7, object: 3</field>
+     <field name="collection_teim">Polytechnic History and Milestones Collection</field>
++    <field name="author_teim">Lindsay Anderberg</field>
+     <field name="collection_unitid_teim">RG.021</field>
+-    <field name="series_sim">Series X: Polytechnic Honorary Degrees ("Golden Books")</field>
+-    <field name="series_si">Series X: Polytechnic Honorary Degrees ("Golden Books") &gt;&gt; Golden Book, 1997-2013</field>
++    <field name="series_sim">Series X: Polytechnic Honorary Degrees (&amp;#34;Golden Books&amp;#34;)</field>
++    <field name="series_si">Series X: Polytechnic Honorary Degrees (&#34;Golden Books&#34;) &gt;&gt; Golden Book, 1997-2013</field>
+     <field name="heading_ssm">Golden Book, 1997-2013</field>
+     <field name="unitdate_start_sim">1997</field>
+     <field name="unitdate_start_ssm">1997</field>

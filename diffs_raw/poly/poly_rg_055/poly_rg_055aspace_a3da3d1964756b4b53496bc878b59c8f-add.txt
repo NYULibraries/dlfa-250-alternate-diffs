@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Peter P. Carr Papers</field>
+     <field name="collection_unitid_ssm">RG.055</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Siegel's Paradox</field>
+-    <field name="unittitle_teim">Siegel's Paradox</field>
++    <field name="unittitle_ssm">Siegel&#39;s Paradox</field>
++    <field name="unittitle_teim">Siegel&#39;s Paradox</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_a3da3d1964756b4b53496bc878b59c8f</field>
+     <field name="repository_ssi">poly</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">box: 18, folder: 15</field>
+     <field name="location_si">box: 18, folder: 15</field>
+     <field name="collection_teim">Peter P. Carr Papers</field>
++    <field name="author_teim">Aileen Thong and Megan Bardis</field>
+     <field name="collection_unitid_teim">RG.055</field>
+     <field name="series_sim">Series XXXIX: Ideas R-Z</field>
+-    <field name="series_si">Series XXXIX: Ideas R-Z &gt;&gt; Siegel's Paradox</field>
+-    <field name="heading_ssm">Siegel's Paradox</field>
++    <field name="series_si">Series XXXIX: Ideas R-Z &gt;&gt; Siegel&#39;s Paradox</field>
++    <field name="heading_ssm">Siegel&#39;s Paradox</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1724</field>

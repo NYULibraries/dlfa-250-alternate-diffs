@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref2168_7cv</field>
+     <field name="parent_ssm">aspace_ref2171_axd</field>
+     <field name="parent_unittitles_ssm">Series I: Organizations</field>
+-    <field name="parent_unittitles_ssm">Subseries A: National Academies</field>
++    <field name="parent_unittitles_ssm">Subseries A: National Academies </field>
+     <field name="parent_unittitles_teim">Series I: Organizations</field>
+-    <field name="parent_unittitles_teim">Subseries A: National Academies</field>
++    <field name="parent_unittitles_teim">Subseries A: National Academies </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Administrative Papers of Chancellor George Bugliarello</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Administrative Papers of Chancellor George Bugliarello</field>
+     <field name="collection_unitid_ssm">RG.007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Presidents' Circle – Washington, DC</field>
+-    <field name="unittitle_teim">The Presidents' Circle – Washington, DC</field>
++    <field name="unittitle_ssm">The Presidents&#39; Circle – Washington, DC</field>
++    <field name="unittitle_teim">The Presidents&#39; Circle – Washington, DC</field>
+     <field name="unitdate_normal_ssm">2008/2008</field>
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">box: 4, folder: 20</field>
+     <field name="location_si">box: 4, folder: 20</field>
+     <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">RG.007</field>
+     <field name="series_sim">Series I: Organizations</field>
+-    <field name="series_sim">Subseries A: National Academies</field>
+-    <field name="series_si">Series I: Organizations &gt;&gt; Subseries A: National Academies &gt;&gt; The Presidents' Circle – Washington, DC</field>
+-    <field name="heading_ssm">The Presidents' Circle – Washington, DC</field>
++    <field name="series_sim">Subseries A: National Academies </field>
++    <field name="series_si">Series I: Organizations &gt;&gt; Subseries A: National Academies  &gt;&gt; The Presidents&#39; Circle – Washington, DC</field>
++    <field name="heading_ssm">The Presidents&#39; Circle – Washington, DC</field>
+     <field name="unitdate_start_sim">2008</field>
+     <field name="unitdate_start_ssm">2008</field>
+     <field name="unitdate_start_si">2008</field>

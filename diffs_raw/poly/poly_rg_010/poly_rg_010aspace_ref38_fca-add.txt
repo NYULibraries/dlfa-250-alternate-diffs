@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref6_kyk</field>
+     <field name="parent_ssm">aspace_ref1_l52</field>
+     <field name="parent_ssm">aspace_ref6_kyk</field>
+-    <field name="parent_unittitles_ssm">Series I: Electrical Engineering Courses</field>
++    <field name="parent_unittitles_ssm">Series I: Electrical Engineering Courses&amp;#xA;</field>
+     <field name="parent_unittitles_ssm">Subseries F: EE 411</field>
+-    <field name="parent_unittitles_teim">Series I: Electrical Engineering Courses</field>
++    <field name="parent_unittitles_teim">Series I: Electrical Engineering Courses&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Subseries F: EE 411</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">true</field>
+@@ -31,10 +31,12 @@
+     <field name="location_ssm">box: 1, folder: 13</field>
+     <field name="location_si">box: 1, folder: 13</field>
+     <field name="collection_teim">Frank E. Canavaciol Papers</field>
++    <field name="author_teim">Sophia Dahab</field>
+     <field name="collection_unitid_teim">RG.010</field>
+-    <field name="series_sim">Series I: Electrical Engineering Courses</field>
++    <field name="series_sim">Series I: Electrical Engineering Courses&amp;#xA;</field>
+     <field name="series_sim">Subseries F: EE 411</field>
+-    <field name="series_si">Series I: Electrical Engineering Courses &gt;&gt; Subseries F: EE 411 &gt;&gt; Notes and Problems, 1953-1954</field>
++    <field name="series_si">Series I: Electrical Engineering Courses
++ &gt;&gt; Subseries F: EE 411 &gt;&gt; Notes and Problems, 1953-1954</field>
+     <field name="heading_ssm">Notes and Problems, 1953-1954</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>

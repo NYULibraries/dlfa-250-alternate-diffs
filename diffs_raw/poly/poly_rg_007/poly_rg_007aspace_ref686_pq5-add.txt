@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_ssm">2001/2004</field>
+     <field name="unitdate_normal_teim">2001/2004</field>
+     <field name="unitdate_normal_sim">2001/2004</field>
+-    <field name="unitdate_inclusive_teim">2001 January – 2004 February</field>
++    <field name="unitdate_inclusive_teim">2001 January  – 2004 February</field>
+     <field name="ref_ssi">aspace_ref686_pq5</field>
+     <field name="repository_ssi">poly</field>
+     <field name="repository_sim">poly</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">box: 24, folder: 6</field>
+     <field name="location_si">box: 24, folder: 6</field>
+     <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
++    <field name="author_teim">Julianna Monjeau</field>
+     <field name="collection_unitid_teim">RG.007</field>
+     <field name="series_sim">Series II: Subject Files</field>
+     <field name="series_sim">Subseries A: Alphabetical Files</field>
+@@ -42,7 +43,7 @@
+     <field name="unitdate_end_sim">2004</field>
+     <field name="unitdate_end_ssm">2004</field>
+     <field name="unitdate_end_si">2004</field>
+-    <field name="unitdate_ssm">Inclusive, 2001 January – 2004 February</field>
++    <field name="unitdate_ssm">Inclusive, 2001 January  – 2004 February</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">1091</field>
+   </doc>

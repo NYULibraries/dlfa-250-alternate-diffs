@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Herbert Morawetz Collection</field>
+     <field name="collection_unitid_ssm">RG.037</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Book Reviews - "Polymers: The Origins and Growth of a Science"</field>
+-    <field name="unittitle_teim">Book Reviews - "Polymers: The Origins and Growth of a Science"</field>
++    <field name="unittitle_ssm">Book Reviews - &#34;Polymers: The Origins and Growth of a Science&#34;</field>
++    <field name="unittitle_teim">Book Reviews - &#34;Polymers: The Origins and Growth of a Science&#34;</field>
+     <field name="unitdate_normal_ssm">1985/1986</field>
+     <field name="unitdate_normal_teim">1985/1986</field>
+     <field name="unitdate_normal_sim">1985/1986</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">box: 4, folder: 3</field>
+     <field name="location_si">box: 4, folder: 3</field>
+     <field name="collection_teim">Herbert Morawetz Collection</field>
++    <field name="author_teim">Emma Sarconi &amp; Zoe Blecher-Cohen</field>
+     <field name="collection_unitid_teim">RG.037</field>
+     <field name="series_sim">Series VI: Publications</field>
+-    <field name="series_si">Series VI: Publications &gt;&gt; Book Reviews - "Polymers: The Origins and Growth of a Science"</field>
+-    <field name="heading_ssm">Book Reviews - "Polymers: The Origins and Growth of a Science"</field>
++    <field name="series_si">Series VI: Publications &gt;&gt; Book Reviews - &#34;Polymers: The Origins and Growth of a Science&#34;</field>
++    <field name="heading_ssm">Book Reviews - &#34;Polymers: The Origins and Growth of a Science&#34;</field>
+     <field name="unitdate_start_sim">1985</field>
+     <field name="unitdate_start_ssm">1985</field>
+     <field name="unitdate_start_si">1985</field>
