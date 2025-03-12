@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Glass Plate Negatives</field>
+     <field name="unittitle_teim">Glass Plate Negatives</field>
+-    <field name="scopecontent_teim">This subseries contains glass plate negatives from the summer of 1935 at Camp Kinderland, with some images from 1936. The majority of the images depict groups at the camp, many of which have no identifying information. Most of the description for the images are in Yiddish, with some English. Some significant events shown in the images include the camp's morning salute, a visit to the camp from Robert Minor, and the erection of the Lenin statue on the property.</field>
++    <field name="scopecontent_teim">This subseries contains glass plate negatives from the summer of 1935 at Camp Kinderland, with some images from 1936. The majority of the images depict groups at the camp, many of which have no identifying information. Most of the description for the images are in Yiddish, with some English. Some significant events shown in the images include the camp&#39;s morning salute, a visit to the camp from Robert Minor, and the erection of the Lenin statue on the property.</field>
+     <field name="ref_ssi">aspace_ref147</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Camp Kinderland Records</field>
++    <field name="author_teim">Alexander Bloom and Michael Beebe, 2009.</field>
+     <field name="collection_unitid_teim">TAM.439</field>
+     <field name="series_sim">Series IX: Photographic Materials, 1924-2010</field>
+     <field name="series_si">Series IX: Photographic Materials, 1924-2010 &gt;&gt; Glass Plate Negatives</field>

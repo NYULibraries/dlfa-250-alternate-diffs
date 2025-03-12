@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Lowenthal Papers</field>
+     <field name="collection_unitid_ssm">TAM.190</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Libyan Technical Assistance - "International Conciliation"</field>
+-    <field name="unittitle_teim">"Libyan Technical Assistance - "International Conciliation"</field>
++    <field name="unittitle_ssm">&#34;Libyan Technical Assistance - &#34;International Conciliation&#34;</field>
++    <field name="unittitle_teim">&#34;Libyan Technical Assistance - &#34;International Conciliation&#34;</field>
+     <field name="unitid_teim">cuid8996</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/779246</field>
+     <field name="unitid_ssm">cuid8996</field>
+@@ -26,8 +26,7 @@
+     <field name="unitdate_normal_sim">1957-05-02/1957-05-02</field>
+     <field name="unitdate_normal_sim">2018-06/2018-06</field>
+     <field name="unitdate_teim">1957-05-02</field>
+-    <field name="unitdate_teim"> </field>
+-    <field name="phystech_teim">Format: 1/4" open reel audio, Duration: 30 min.</field>
++    <field name="phystech_teim">Format: 1/4&#34; open reel audio, Duration: 30 min.</field>
+     <field name="ref_ssi">aspace_3dd7909d0f71e8443da48185711b08e3</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,10 +37,11 @@
+     <field name="location_ssm">E-records: tamwag_tam190, E-records: cuid8996</field>
+     <field name="location_si">E-records: tamwag_tam190, E-records: cuid8996</field>
+     <field name="collection_teim">John Lowenthal Papers</field>
++    <field name="author_teim">Evan Daniel</field>
+     <field name="collection_unitid_teim">TAM.190</field>
+     <field name="series_sim">Series VI: Unprocessed Materials</field>
+-    <field name="series_si">Series VI: Unprocessed Materials &gt;&gt; "Libyan Technical Assistance - "International Conciliation"</field>
+-    <field name="heading_ssm">"Libyan Technical Assistance - "International Conciliation"</field>
++    <field name="series_si">Series VI: Unprocessed Materials &gt;&gt; &#34;Libyan Technical Assistance - &#34;International Conciliation&#34;</field>
++    <field name="heading_ssm">&#34;Libyan Technical Assistance - &#34;International Conciliation&#34;</field>
+     <field name="unitdate_ssm">1957-05-02  </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">780</field>

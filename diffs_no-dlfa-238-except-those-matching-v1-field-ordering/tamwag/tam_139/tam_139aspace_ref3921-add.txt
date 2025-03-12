@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Greenwich House Records</field>
+     <field name="collection_unitid_ssm">TAM.139</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Press Releases and Related Material-- Women's Clubs</field>
+-    <field name="unittitle_teim">Press Releases and Related Material-- Women's Clubs</field>
++    <field name="unittitle_ssm">Press Releases and Related Material-- Women&#39;s Clubs</field>
++    <field name="unittitle_teim">Press Releases and Related Material-- Women&#39;s Clubs</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/190023</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/190023</field>
+     <field name="unitdate_normal_ssm">1930/1931</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Box: 25, Folder: 48</field>
+     <field name="location_si">Box: 25, Folder: 48</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series III: Programs</field>
+     <field name="series_sim">Subseries A: Departments and Activities</field>
+     <field name="series_sim">Sub-subseries 46: Publicity</field>
+-    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 46: Publicity &gt;&gt; Press Releases and Related Material-- Women's Clubs</field>
+-    <field name="heading_ssm">Press Releases and Related Material-- Women's Clubs</field>
++    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 46: Publicity &gt;&gt; Press Releases and Related Material-- Women&#39;s Clubs</field>
++    <field name="heading_ssm">Press Releases and Related Material-- Women&#39;s Clubs</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>

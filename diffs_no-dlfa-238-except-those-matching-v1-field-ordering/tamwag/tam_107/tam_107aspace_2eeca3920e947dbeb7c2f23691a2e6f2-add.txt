@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tamiment Playhouse Records</field>
+     <field name="collection_unitid_ssm">TAM.107</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Artwork: "Manhattan Greenery", Willard G. Levitas</field>
+-    <field name="unittitle_teim">Artwork: "Manhattan Greenery", Willard G. Levitas</field>
++    <field name="unittitle_ssm">Artwork: &#34;Manhattan Greenery&#34;, Willard G. Levitas</field>
++    <field name="unittitle_teim">Artwork: &#34;Manhattan Greenery&#34;, Willard G. Levitas</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/771259</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/771259</field>
+     <field name="unitdate_normal_ssm">1950-06-08/1950-06-08</field>
+@@ -28,10 +28,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Tamiment Playhouse Records</field>
++    <field name="author_teim">Martha LoMonaco</field>
+     <field name="collection_unitid_teim">TAM.107</field>
+     <field name="series_sim">Series V: Scrapbooks</field>
+-    <field name="series_si">Series V: Scrapbooks &gt;&gt; Artwork: "Manhattan Greenery", Willard G. Levitas</field>
+-    <field name="heading_ssm">Artwork: "Manhattan Greenery", Willard G. Levitas</field>
++    <field name="series_si">Series V: Scrapbooks &gt;&gt; Artwork: &#34;Manhattan Greenery&#34;, Willard G. Levitas</field>
++    <field name="heading_ssm">Artwork: &#34;Manhattan Greenery&#34;, Willard G. Levitas</field>
+     <field name="unitdate_ssm">1950-06-08</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">507</field>

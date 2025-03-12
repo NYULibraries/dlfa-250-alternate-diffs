@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1989/1990</field>
+     <field name="unitdate_normal_sim">1989/1990</field>
+     <field name="unitdate_inclusive_teim">1989-1990</field>
+-    <field name="scopecontent_teim">This series contains footage of  Namibian independence celebrations from Estela Bravo's 1990 documentary Namibia: The Last Colony. Videos in this series include footage of meetings between Nelson Mandela and Cuban dignitaries, interviews with notable individuals including Jesse Jackson, and footage of the celebrations, which feature Estela Bravo speaking with individuals on the street.</field>
++    <field name="scopecontent_teim">This series contains footage of  Namibian independence celebrations from Estela Bravo&#39;s 1990 documentary Namibia: The Last Colony. Videos in this series include footage of meetings between Nelson Mandela and Cuban dignitaries, interviews with notable individuals including Jesse Jackson, and footage of the celebrations, which feature Estela Bravo speaking with individuals on the street.</field>
+     <field name="bioghist_teim">In March 1990, Namibia celebrated its independence from the apartheid government in South Africa, which had controlled and occupied the country since World War I. The independence celebration featured notable speakers and honored guests, including Nelson Mandela.</field>
+     <field name="ref_ssi">aspace_ref1385</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -26,6 +26,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_si">Series XX: &lt;em&gt;Namibia: The Last Colony&lt;/em&gt;</field>
+     <field name="heading_ssm">Series XX: Namibia: The Last Colony</field>

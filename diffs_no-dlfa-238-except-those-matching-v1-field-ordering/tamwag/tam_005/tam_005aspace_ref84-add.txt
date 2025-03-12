@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Jefferson School of Social Science Records and Indexes</field>
+     <field name="collection_unitid_ssm">TAM.005</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Paxton, Max T. On Comrade Jackson's Report: A Dissent; March 3, 1958</field>
+-    <field name="unittitle_teim">Paxton, Max T. On Comrade Jackson's Report: A Dissent; March 3, 1958</field>
++    <field name="unittitle_ssm">Paxton, Max T. On Comrade Jackson&#39;s Report: A Dissent; March 3, 1958</field>
++    <field name="unittitle_teim">Paxton, Max T. On Comrade Jackson&#39;s Report: A Dissent; March 3, 1958</field>
+     <field name="unitdate_normal_ssm">1958/1958</field>
+     <field name="unitdate_normal_teim">1958/1958</field>
+     <field name="unitdate_normal_sim">1958/1958</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 12</field>
+     <field name="location_si">Box: 2, Folder: 12</field>
+     <field name="collection_teim">Jefferson School of Social Science Records and Indexes</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.005</field>
+     <field name="series_sim">Series I. Records</field>
+-    <field name="series_si">Series I. Records &gt;&gt; Paxton, Max T. On Comrade Jackson's Report: A Dissent; March 3, 1958</field>
+-    <field name="heading_ssm">Paxton, Max T. On Comrade Jackson's Report: A Dissent; March 3, 1958</field>
++    <field name="series_si">Series I. Records &gt;&gt; Paxton, Max T. On Comrade Jackson&#39;s Report: A Dissent; March 3, 1958</field>
++    <field name="heading_ssm">Paxton, Max T. On Comrade Jackson&#39;s Report: A Dissent; March 3, 1958</field>
+     <field name="unitdate_start_sim">1958</field>
+     <field name="unitdate_start_ssm">1958</field>
+     <field name="unitdate_start_si">1958</field>

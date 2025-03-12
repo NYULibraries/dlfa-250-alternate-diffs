@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1994/2000</field>
+     <field name="unitdate_normal_sim">1994/2000</field>
+     <field name="unitdate_inclusive_teim">1994-2000</field>
+-    <field name="scopecontent_teim">Contains legal materials: Security Reduction; Window MCI's</field>
++    <field name="scopecontent_teim">Contains legal materials: Security Reduction; Window MCI&#39;s</field>
+     <field name="ref_ssi">aspace_ref11</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 8</field>
+     <field name="location_si">Box: 8</field>
+     <field name="collection_teim">Park West Village Tenants Association Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.333</field>
+     <field name="series_si">Legal Materials</field>
+     <field name="heading_ssm">Legal Materials</field>

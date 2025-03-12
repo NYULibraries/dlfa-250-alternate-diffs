@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Chiapas Media Project Records</field>
+     <field name="collection_unitid_ssm">TAM.774</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">El Paso 2, Beto O'Rourke</field>
+-    <field name="unittitle_teim">El Paso 2, Beto O'Rourke</field>
++    <field name="unittitle_ssm">El Paso 2, Beto O&#39;Rourke</field>
++    <field name="unittitle_teim">El Paso 2, Beto O&#39;Rourke</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/950255</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/950255</field>
+     <field name="unitdate_normal_ssm">2009-10/2009-10</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 20, MiniDV: 774_130</field>
+     <field name="location_si">Box: 20, MiniDV: 774_130</field>
+     <field name="collection_teim">Chiapas Media Project Records</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">TAM.774</field>
+     <field name="series_sim">Series I. Video Archive</field>
+     <field name="series_sim">Sub-Series 1.D: Living Juarez</field>
+-    <field name="series_si">Series I. Video Archive &gt;&gt; Sub-Series 1.D: Living Juarez &gt;&gt; El Paso 2, Beto O'Rourke</field>
+-    <field name="heading_ssm">El Paso 2, Beto O'Rourke</field>
++    <field name="series_si">Series I. Video Archive &gt;&gt; Sub-Series 1.D: Living Juarez &gt;&gt; El Paso 2, Beto O&#39;Rourke</field>
++    <field name="heading_ssm">El Paso 2, Beto O&#39;Rourke</field>
+     <field name="unitdate_ssm">October, 2009</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">139</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Pauline Park Papers</field>
+     <field name="collection_unitid_ssm">TAM.663</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Video Recording: "&lt;em&gt;In The Life&lt;/em&gt; American Gender Episode # 1406 - March 2005 TRT 56:47 minutes"</field>
+-    <field name="unittitle_teim">Video Recording: "In The Life American Gender Episode # 1406 - March 2005 TRT 56:47 minutes"</field>
++    <field name="unittitle_ssm">Video Recording: &#34;&lt;em&gt;In The Life&lt;/em&gt; American Gender Episode # 1406 - March 2005 TRT 56:47 minutes&#34;</field>
++    <field name="unittitle_teim">Video Recording: &#34;In The Life American Gender Episode # 1406 - March 2005 TRT 56:47 minutes&#34;</field>
+     <field name="unitdate_normal_ssm">2005/2005</field>
+     <field name="unitdate_normal_teim">2005/2005</field>
+     <field name="unitdate_normal_sim">2005/2005</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 8, Video: 663.013</field>
+     <field name="location_si">Box: 8, Video: 663.013</field>
+     <field name="collection_teim">Pauline Park Papers</field>
++    <field name="author_teim">Caroline Evans and Amy Lau</field>
+     <field name="collection_unitid_teim">TAM.663</field>
+     <field name="series_sim">Series IV. Personal</field>
+-    <field name="series_si">Series IV. Personal &gt;&gt; Video Recording: "&lt;em&gt;In The Life&lt;/em&gt; American Gender Episode # 1406 - March 2005 TRT 56:47 minutes"</field>
+-    <field name="heading_ssm">Video Recording: "In The Life American Gender Episode # 1406 - March 2005 TRT 56:47 minutes"</field>
++    <field name="series_si">Series IV. Personal &gt;&gt; Video Recording: &#34;&lt;em&gt;In The Life&lt;/em&gt; American Gender Episode # 1406 - March 2005 TRT 56:47 minutes&#34;</field>
++    <field name="heading_ssm">Video Recording: &#34;In The Life American Gender Episode # 1406 - March 2005 TRT 56:47 minutes&#34;</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>
+     <field name="unitdate_start_si">2005</field>

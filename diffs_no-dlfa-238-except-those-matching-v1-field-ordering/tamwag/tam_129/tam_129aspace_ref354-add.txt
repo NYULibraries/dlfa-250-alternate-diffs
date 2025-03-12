@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Labor Research Association Records</field>
+     <field name="collection_unitid_ssm">TAM.129</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Corporations Auxiliary Co; a.k.a. "International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
+-    <field name="unittitle_teim">Corporations Auxiliary Co; a.k.a. "International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
++    <field name="unittitle_ssm">Corporations Auxiliary Co; a.k.a. &#34;International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
++    <field name="unittitle_teim">Corporations Auxiliary Co; a.k.a. &#34;International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
+     <field name="unitdate_normal_ssm">1920/1937</field>
+     <field name="unitdate_normal_teim">1920/1937</field>
+     <field name="unitdate_normal_sim">1920/1937</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 8, Folder: 11</field>
+     <field name="location_si">Box: 8, Folder: 11</field>
+     <field name="collection_teim">Labor Research Association Records</field>
++    <field name="author_teim">Tamiment staff (2009). Edited to reflect addenda (2012). </field>
+     <field name="collection_unitid_teim">TAM.129</field>
+     <field name="series_sim">Series VII: Labor Spies</field>
+-    <field name="series_si">Series VII: Labor Spies &gt;&gt; Corporations Auxiliary Co; a.k.a. "International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
+-    <field name="heading_ssm">Corporations Auxiliary Co; a.k.a. "International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
++    <field name="series_si">Series VII: Labor Spies &gt;&gt; Corporations Auxiliary Co; a.k.a. &#34;International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
++    <field name="heading_ssm">Corporations Auxiliary Co; a.k.a. &#34;International Auxiliary Co.: (Illinois, N.Y., Ohio, Tn., Wisconsin, elsewhere)</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>
+     <field name="unitdate_start_si">1920</field>

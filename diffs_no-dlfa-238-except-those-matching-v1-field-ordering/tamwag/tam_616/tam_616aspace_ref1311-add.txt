@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1984/1988</field>
+     <field name="unitdate_normal_sim">1984/1988</field>
+     <field name="unitdate_inclusive_teim">1984-1988</field>
+-    <field name="scopecontent_teim">The 25-minute documentary Maurice Bishop (1984) reconstructs the events leading up to Maurice Bishop's assassination and the United States invasion of Grenada. The film won an Honorable Mention, Black Filmmakers Paul Robeson Award, at the 1985 Newark Film Festival.</field>
++    <field name="scopecontent_teim">The 25-minute documentary Maurice Bishop (1984) reconstructs the events leading up to Maurice Bishop&#39;s assassination and the United States invasion of Grenada. The film won an Honorable Mention, Black Filmmakers Paul Robeson Award, at the 1985 Newark Film Festival.</field>
+     <field name="ref_ssi">aspace_ref1311</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_si">Series XVII: &lt;em&gt;Maurice Bishop&lt;/em&gt;</field>
+     <field name="heading_ssm">Series XVII: Maurice Bishop</field>

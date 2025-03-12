@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_522</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Time's Up Records</field>
+-    <field name="collection_ssm">Time's Up Records</field>
++    <field name="collection_sim">Time&#39;s Up Records</field>
++    <field name="collection_ssm">Time&#39;s Up Records</field>
+     <field name="collection_unitid_ssm">TAM.522</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">2016 Donation</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1993/2012</field>
+     <field name="unitdate_normal_sim">1993/2012</field>
+     <field name="unitdate_inclusive_teim">1993-2012</field>
+-    <field name="scopecontent_teim">This donation consists of ten binders of clippings related to Time's Up activities in New York City.The binders are grouped by year, and contain articles from local New York City publications like the Village Voice, Time Out New York, and the New York Times about events and news related to environmental issues in the city. The bulk of the articles relate to bike safety, construction of bike lanes, Critical Mass demonstrations, and cycling events.</field>
++    <field name="scopecontent_teim">This donation consists of ten binders of clippings related to Time&#39;s Up activities in New York City.The binders are grouped by year, and contain articles from local New York City publications like the Village Voice, Time Out New York, and the New York Times about events and news related to environmental issues in the city. The bulk of the articles relate to bike safety, construction of bike lanes, Critical Mass demonstrations, and cycling events.</field>
+     <field name="ref_ssi">aspace_ref297</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -26,7 +26,8 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+-    <field name="collection_teim">Time's Up Records</field>
++    <field name="collection_teim">Time&#39;s Up Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.522</field>
+     <field name="series_si">2016 Donation</field>
+     <field name="heading_ssm">2016 Donation</field>

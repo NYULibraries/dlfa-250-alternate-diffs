@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2000/2005</field>
+     <field name="unitdate_normal_sim">2000/2005</field>
+     <field name="unitdate_inclusive_teim">2000-2005</field>
+-    <field name="scopecontent_teim">This series consists of materials created, collected, or used by Billionaires for Bush activists during the 2000 and 2004 U.S. presidential election for the organization's specific actions targeting particular policies, politicians, or large issues. The materials in this series document the organization's strategies to engage the media, as well as the tactics and methods activists used to join existing events led by the politicians they were critiquing, interact with activists pursuing similar goals through different measures, and initiate their own events that encouraged distributed action with individual engagement.</field>
++    <field name="scopecontent_teim">This series consists of materials created, collected, or used by Billionaires for Bush activists during the 2000 and 2004 U.S. presidential election for the organization&#39;s specific actions targeting particular policies, politicians, or large issues. The materials in this series document the organization&#39;s strategies to engage the media, as well as the tactics and methods activists used to join existing events led by the politicians they were critiquing, interact with activists pursuing similar goals through different measures, and initiate their own events that encouraged distributed action with individual engagement.</field>
+     <field name="ref_ssi">aspace_ccf908ee9936117bed0e323cc1a58485</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Billionaires for Bush Records</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">TAM.725</field>
+     <field name="series_si">Series III: Actions</field>
+     <field name="heading_ssm">Series III: Actions</field>

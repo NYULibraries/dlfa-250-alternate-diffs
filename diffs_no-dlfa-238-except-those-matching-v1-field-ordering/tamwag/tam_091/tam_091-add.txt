@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitdate_normal_teim">1922/1983</field>
+     <field name="unitdate_normal_sim">1922/1983</field>
+     <field name="unitdate_inclusive_teim">1922-1983</field>
+-    <field name="scopecontent_teim">This collection contains Stern's diary; two notebooks with comments on Jews, Zionism, and world affairs; correspondence from family members, friends, and colleagues; and photographs. The collection also contains biographical material.</field>
++    <field name="scopecontent_teim">This collection contains Stern&#39;s diary; two notebooks with comments on Jews, Zionism, and world affairs; correspondence from family members, friends, and colleagues; and photographs. The collection also contains biographical material.</field>
+     <field name="bioghist_teim">Faygle Stern (circa 1904-1936), was a Jewish communist active in the Jewish Section of the International Workers Order, primarily as a teacher in the Yiddish shule movement in the Brownsville section of Brooklyn, New York. She was born in Ostroleka (a.k.a. Ostrolenka), Poland, came to the United States in 1921, and died in childbirth in January, 1936.</field>
+     <field name="acqinfo_teim">Donated by Phyllis Stern (niece of Fagel Stern), 1990. The accession numbers associated with this gift are 1990.005 and 1990.008.</field>
+     <field name="phystech_teim">Due to the fragile nature of the original materials, researchers must use the access photocopies in Box 1.</field>
+@@ -42,11 +42,11 @@
+     <field name="subject_teim">Zionism.</field>
+     <field name="subject_teim">Political activists |z New York (State) |z Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Jewish communists -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Jewish teachers -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Jews, Polish -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Jewish communists -- Cuba.</field>
+-    <field name="subject_teim">Zionism.</field>
+-    <field name="subject_teim">Political activists -- New York (State) -- Brooklyn (New York, N.Y.)</field>
++    <field name="subject_teim">Jewish teachers --New York (State) --New York.</field>
++    <field name="subject_teim">Jews, Polish --New York (State) --New York.</field>
++    <field name="subject_teim">Jewish communists --Cuba.</field>
++    <field name="subject_teim">Zionism.</field>
++    <field name="subject_teim">Political activists --New York (State) --Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Jewish communists -- New York (State) -- New York.</field>
+     <field name="subject_ssm">Jewish teachers |z New York (State) |z New York.</field>
+     <field name="subject_ssm">Jews, Polish |z New York (State) |z New York.</field>
+@@ -73,11 +73,11 @@
+     <field name="name_teim">Stern, Fagel, 1904-1936</field>
+     <field name="name_teim">Stern, Phyllis</field>
+     <field name="place_sim">Brownsville (New York, N.Y.)</field>
+-    <field name="subject_sim">Jewish teachers -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Jews, Polish -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Jewish communists -- Cuba.</field>
++    <field name="subject_sim">Jewish teachers --New York (State) --New York.</field>
++    <field name="subject_sim">Jews, Polish --New York (State) --New York.</field>
++    <field name="subject_sim">Jewish communists --Cuba.</field>
+     <field name="subject_sim">Zionism.</field>
+-    <field name="subject_sim">Political activists -- New York (State) -- Brooklyn (New York, N.Y.)</field>
++    <field name="subject_sim">Political activists --New York (State) --Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Jewish communists -- New York (State) -- New York.</field>
+     <field name="material_type_sim">Correspondence.</field>
+     <field name="material_type_sim">Notebooks</field>

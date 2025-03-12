@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Victor Rabinowitz Papers</field>
+     <field name="collection_unitid_ssm">TAM.123</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">BORF: Hirsch, Arthur "Buzz": Freedom of Speech</field>
+-    <field name="unittitle_teim">BORF: Hirsch, Arthur "Buzz": Freedom of Speech</field>
++    <field name="unittitle_ssm">BORF: Hirsch, Arthur &#34;Buzz&#34;: Freedom of Speech</field>
++    <field name="unittitle_teim">BORF: Hirsch, Arthur &#34;Buzz&#34;: Freedom of Speech</field>
+     <field name="unitdate_normal_ssm">1977/1977</field>
+     <field name="unitdate_normal_teim">1977/1977</field>
+     <field name="unitdate_normal_sim">1977/1977</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 15, Folder: 6</field>
+     <field name="location_si">Box: 15, Folder: 6</field>
+     <field name="collection_teim">Victor Rabinowitz Papers</field>
++    <field name="author_teim">Johanna Blokker, Craig Savino, Sarah Graff and Gail Malmgreen.</field>
+     <field name="collection_unitid_teim">TAM.123</field>
+     <field name="series_sim">Series III: Legal Case Files, 1918-2001.</field>
+-    <field name="series_si">Series III: Legal Case Files, 1918-2001. &gt;&gt; BORF: Hirsch, Arthur "Buzz": Freedom of Speech</field>
+-    <field name="heading_ssm">BORF: Hirsch, Arthur "Buzz": Freedom of Speech</field>
++    <field name="series_si">Series III: Legal Case Files, 1918-2001. &gt;&gt; BORF: Hirsch, Arthur &#34;Buzz&#34;: Freedom of Speech</field>
++    <field name="heading_ssm">BORF: Hirsch, Arthur &#34;Buzz&#34;: Freedom of Speech</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

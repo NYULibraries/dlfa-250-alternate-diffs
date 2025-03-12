@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Greenwich House Records</field>
+     <field name="collection_unitid_ssm">TAM.139</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Finance Director's Correspondence w/ Lewis Cuyler</field>
+-    <field name="unittitle_teim">Finance Director's Correspondence w/ Lewis Cuyler</field>
++    <field name="unittitle_ssm">Finance Director&#39;s Correspondence w/ Lewis Cuyler</field>
++    <field name="unittitle_teim">Finance Director&#39;s Correspondence w/ Lewis Cuyler</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/188145</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/188145</field>
+     <field name="unitdate_normal_ssm">1936/1941</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Box: 4, Folder: 58</field>
+     <field name="location_si">Box: 4, Folder: 58</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series I: Administrative Records</field>
+     <field name="series_sim">Subseries B: Financial Records</field>
+     <field name="series_sim">Sub-subseries 2: Correspondence and Memoranda</field>
+-    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries B: Financial Records &gt;&gt; Sub-subseries 2: Correspondence and Memoranda &gt;&gt; Finance Director's Correspondence w/ Lewis Cuyler</field>
+-    <field name="heading_ssm">Finance Director's Correspondence w/ Lewis Cuyler</field>
++    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries B: Financial Records &gt;&gt; Sub-subseries 2: Correspondence and Memoranda &gt;&gt; Finance Director&#39;s Correspondence w/ Lewis Cuyler</field>
++    <field name="heading_ssm">Finance Director&#39;s Correspondence w/ Lewis Cuyler</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>
+     <field name="unitdate_start_si">1936</field>

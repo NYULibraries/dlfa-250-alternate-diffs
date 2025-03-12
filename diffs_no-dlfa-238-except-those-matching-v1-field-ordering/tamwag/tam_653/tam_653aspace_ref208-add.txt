@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,16 @@
+     <field name="collection_ssm">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">TAM.653</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Socialist Republic&lt;/em&gt; Publisher: Peoples' Democracy City of publication: Dublin, Ireland</field>
+-    <field name="unittitle_teim">Socialist Republic Publisher: Peoples' Democracy City of publication: Dublin, Ireland</field>
++    <field name="unittitle_ssm">&lt;em&gt;Socialist Republic&lt;/em&gt; Publisher: Peoples&#39; Democracy City of publication: Dublin, Ireland</field>
++    <field name="unittitle_teim">Socialist Republic
++ Publisher: Peoples&#39; Democracy
++ City of publication: Dublin, Ireland</field>
+     <field name="unitdate_normal_ssm">1937/2002</field>
+     <field name="unitdate_normal_teim">1937/2002</field>
+     <field name="unitdate_normal_sim">1937/2002</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="corpname_teim">Peoples' Democracy</field>
+-    <field name="corpname_ssm">Peoples' Democracy</field>
++    <field name="corpname_teim">Peoples&#39; Democracy</field>
++    <field name="corpname_ssm">Peoples&#39; Democracy</field>
+     <field name="title_teim">Socialist Republic</field>
+     <field name="title_ssm">Socialist Republic</field>
+     <field name="ref_ssi">aspace_ref208</field>
+@@ -31,13 +33,16 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 8, Folder: 22</field>
+     <field name="location_si">Box: 8, Folder: 22</field>
+-    <field name="name_sim">Peoples' Democracy</field>
+-    <field name="name_teim">Peoples' Democracy</field>
++    <field name="name_sim">Peoples&#39; Democracy</field>
++    <field name="name_teim">Peoples&#39; Democracy</field>
+     <field name="collection_teim">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">TAM.653</field>
+     <field name="series_sim">Series I: Serials by Title</field>
+-    <field name="series_si">Series I: Serials by Title &gt;&gt; &lt;em&gt;Socialist Republic&lt;/em&gt; Publisher: Peoples' Democracy City of publication: Dublin, Ireland</field>
+-    <field name="heading_ssm">Socialist Republic Publisher: Peoples' Democracy City of publication: Dublin, Ireland</field>
++    <field name="series_si">Series I: Serials by Title &gt;&gt; &lt;em&gt;Socialist Republic&lt;/em&gt; Publisher: Peoples&#39; Democracy City of publication: Dublin, Ireland</field>
++    <field name="heading_ssm">Socialist Republic
++ Publisher: Peoples&#39; Democracy
++ City of publication: Dublin, Ireland</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>
+     <field name="unitdate_start_si">1937</field>

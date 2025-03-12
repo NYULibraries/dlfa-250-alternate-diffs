@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_214</field>
+     <field name="parent_ssi">aspace_ref3</field>
+     <field name="parent_ssm">aspace_ref3</field>
+-    <field name="parent_unittitles_ssm">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants' Legislative Coalition</field>
+-    <field name="parent_unittitles_teim">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants' Legislative Coalition</field>
++    <field name="parent_unittitles_ssm">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants&amp;#39; Legislative Coalition</field>
++    <field name="parent_unittitles_teim">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants&amp;#39; Legislative Coalition</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Ronald Lawson Research Files for the Tenant Movement in New York City</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 1, Folder: 16</field>
+     <field name="location_si">Box: 1, Folder: 16</field>
+     <field name="collection_teim">Ronald Lawson Research Files for the Tenant Movement in New York City</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.214</field>
+-    <field name="series_sim">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants' Legislative Coalition</field>
+-    <field name="series_si">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants' Legislative Coalition &gt;&gt; Met Council - 700</field>
++    <field name="series_sim">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants&amp;#39; Legislative Coalition</field>
++    <field name="series_si">Research Files (box 1): Includes Metropolitan Council on Housing; New York State Tenants&#39; Legislative Coalition &gt;&gt; Met Council - 700</field>
+     <field name="heading_ssm">Met Council - 700</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

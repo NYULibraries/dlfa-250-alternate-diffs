@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Young People's Socialist League and Socialist Party's Committee on Youth Affairs</field>
+-    <field name="unittitle_teim">Young People's Socialist League and Socialist Party's Committee on Youth Affairs</field>
++    <field name="unittitle_ssm">Young People&#39;s Socialist League and Socialist Party&#39;s Committee on Youth Affairs</field>
++    <field name="unittitle_teim">Young People&#39;s Socialist League and Socialist Party&#39;s Committee on Youth Affairs</field>
+     <field name="unitdate_normal_ssm">1932/1933</field>
+     <field name="unitdate_normal_teim">1932/1933</field>
+     <field name="unitdate_normal_sim">1932/1933</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 36, Folder: 3</field>
+     <field name="location_si">Box: 36, Folder: 3</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series III: Course Records</field>
+     <field name="series_sim">Subseries IIIB: Miscellaneous Records</field>
+-    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIIB: Miscellaneous Records &gt;&gt; Young People's Socialist League and Socialist Party's Committee on Youth Affairs</field>
+-    <field name="heading_ssm">Young People's Socialist League and Socialist Party's Committee on Youth Affairs</field>
++    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIIB: Miscellaneous Records &gt;&gt; Young People&#39;s Socialist League and Socialist Party&#39;s Committee on Youth Affairs</field>
++    <field name="heading_ssm">Young People&#39;s Socialist League and Socialist Party&#39;s Committee on Youth Affairs</field>
+     <field name="unitdate_start_sim">1932</field>
+     <field name="unitdate_start_ssm">1932</field>
+     <field name="unitdate_start_si">1932</field>

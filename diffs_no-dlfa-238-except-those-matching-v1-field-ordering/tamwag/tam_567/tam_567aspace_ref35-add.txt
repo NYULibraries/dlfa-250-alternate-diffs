@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_567</field>
+     <field name="parent_ssi">aspace_ref6</field>
+     <field name="parent_ssm">aspace_ref6</field>
+-    <field name="parent_unittitles_ssm">Series I: Drunken Boat and Max Blechman's Activities</field>
+-    <field name="parent_unittitles_teim">Series I: Drunken Boat and Max Blechman's Activities</field>
++    <field name="parent_unittitles_ssm">Series I: Drunken Boat and Max Blechman&amp;#39;s Activities</field>
++    <field name="parent_unittitles_teim">Series I: Drunken Boat and Max Blechman&amp;#39;s Activities</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Max Blechman Papers</field>
+@@ -30,9 +30,10 @@
+     <field name="location_ssm">Box: 1, Folder: 28</field>
+     <field name="location_si">Box: 1, Folder: 28</field>
+     <field name="collection_teim">Max Blechman Papers</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.567</field>
+-    <field name="series_sim">Series I: Drunken Boat and Max Blechman's Activities</field>
+-    <field name="series_si">Series I: Drunken Boat and Max Blechman's Activities &gt;&gt; Blechman, Max: Letters to, M</field>
++    <field name="series_sim">Series I: Drunken Boat and Max Blechman&amp;#39;s Activities</field>
++    <field name="series_si">Series I: Drunken Boat and Max Blechman&#39;s Activities &gt;&gt; Blechman, Max: Letters to, M</field>
+     <field name="heading_ssm">Blechman, Max: Letters to, M</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>

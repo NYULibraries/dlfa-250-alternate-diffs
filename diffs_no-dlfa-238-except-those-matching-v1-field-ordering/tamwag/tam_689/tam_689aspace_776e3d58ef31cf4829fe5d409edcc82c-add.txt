@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Oscar Berland Papers</field>
+     <field name="collection_unitid_ssm">TAM.689</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Oscar Berland's FBI Report</field>
+-    <field name="unittitle_teim">Oscar Berland's FBI Report</field>
++    <field name="unittitle_ssm">Oscar Berland&#39;s FBI Report</field>
++    <field name="unittitle_teim">Oscar Berland&#39;s FBI Report</field>
+     <field name="unitdate_normal_ssm">1964/1964</field>
+     <field name="unitdate_normal_teim">1964/1964</field>
+     <field name="unitdate_normal_sim">1964/1964</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">Oscar Berland Papers</field>
++    <field name="author_teim">Andrea Kutsenkow</field>
+     <field name="collection_unitid_teim">TAM.689</field>
+-    <field name="series_si">Oscar Berland's FBI Report</field>
+-    <field name="heading_ssm">Oscar Berland's FBI Report</field>
++    <field name="series_si">Oscar Berland&#39;s FBI Report</field>
++    <field name="heading_ssm">Oscar Berland&#39;s FBI Report</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>
+     <field name="unitdate_start_si">1964</field>

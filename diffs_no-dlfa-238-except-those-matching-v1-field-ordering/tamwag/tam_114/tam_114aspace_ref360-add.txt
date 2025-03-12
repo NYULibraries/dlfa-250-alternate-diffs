@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John and Constantine Poulos Papers</field>
+     <field name="collection_unitid_ssm">TAM.114</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Review of KKE Kousoulas' book</field>
+-    <field name="unittitle_teim">Review of KKE Kousoulas' book</field>
++    <field name="unittitle_ssm">Review of KKE Kousoulas&#39; book</field>
++    <field name="unittitle_teim">Review of KKE Kousoulas&#39; book</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/168221</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/168221</field>
+     <field name="unitdate_normal_ssm">1921/1978</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 11, Folder: 6</field>
+     <field name="location_si">Box: 11, Folder: 6</field>
+     <field name="collection_teim">John and Constantine Poulos Papers</field>
++    <field name="author_teim">Su Shan Chin, 1988.</field>
+     <field name="collection_unitid_teim">TAM.114</field>
+     <field name="series_sim">Series IV: John Poulos Correspondence and 4th International</field>
+     <field name="series_sim">Subseries IV:B: Correspondence</field>
+-    <field name="series_si">Series IV: John Poulos Correspondence and 4th International &gt;&gt; Subseries IV:B: Correspondence &gt;&gt; Review of KKE Kousoulas' book</field>
+-    <field name="heading_ssm">Review of KKE Kousoulas' book</field>
++    <field name="series_si">Series IV: John Poulos Correspondence and 4th International &gt;&gt; Subseries IV:B: Correspondence &gt;&gt; Review of KKE Kousoulas&#39; book</field>
++    <field name="heading_ssm">Review of KKE Kousoulas&#39; book</field>
+     <field name="unitdate_start_sim">1921</field>
+     <field name="unitdate_start_ssm">1921</field>
+     <field name="unitdate_start_si">1921</field>

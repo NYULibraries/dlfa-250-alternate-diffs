@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">George Breitman Papers</field>
+     <field name="collection_unitid_ssm">TAM.169</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Shachtman, Max "Dear comrades..." [from Bujukada, Turkey]</field>
+-    <field name="unittitle_teim">Shachtman, Max "Dear comrades..." [from Bujukada, Turkey]</field>
++    <field name="unittitle_ssm">Shachtman, Max &#34;Dear comrades...&#34; [from Bujukada, Turkey]</field>
++    <field name="unittitle_teim">Shachtman, Max &#34;Dear comrades...&#34; [from Bujukada, Turkey]</field>
+     <field name="unitdate_normal_ssm">1933-06/1933-06</field>
+     <field name="unitdate_normal_teim">1933-06/1933-06</field>
+     <field name="unitdate_normal_sim">1933-06/1933-06</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 53, Folder: 18</field>
+     <field name="location_si">Box: 53, Folder: 18</field>
+     <field name="collection_teim">George Breitman Papers</field>
++    <field name="author_teim">Ellen Kastel, Katja Vehlow, Peter Filardo, 2001. </field>
+     <field name="collection_unitid_teim">TAM.169</field>
+     <field name="series_sim">Series IV. Writings, Lectures, and Interviews</field>
+     <field name="series_sim">Subseries F: Trotsky, Leon</field>
+-    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries F: Trotsky, Leon &gt;&gt; Shachtman, Max "Dear comrades..." [from Bujukada, Turkey]</field>
+-    <field name="heading_ssm">Shachtman, Max "Dear comrades..." [from Bujukada, Turkey]</field>
++    <field name="series_si">Series IV. Writings, Lectures, and Interviews &gt;&gt; Subseries F: Trotsky, Leon &gt;&gt; Shachtman, Max &#34;Dear comrades...&#34; [from Bujukada, Turkey]</field>
++    <field name="heading_ssm">Shachtman, Max &#34;Dear comrades...&#34; [from Bujukada, Turkey]</field>
+     <field name="unitdate_ssm">June 1933</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">780</field>

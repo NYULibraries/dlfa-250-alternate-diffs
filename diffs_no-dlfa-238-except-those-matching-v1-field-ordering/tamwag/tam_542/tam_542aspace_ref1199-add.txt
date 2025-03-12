@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Howard Zinn Papers</field>
+     <field name="collection_unitid_ssm">TAM.542</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Columbus, Christopher: &lt;em&gt;Columbus, the Indians and Human Progress&lt;/em&gt; (German translation of section from &lt;em&gt;A People's History of the United States&lt;/em&gt;)</field>
+-    <field name="unittitle_teim">Columbus, Christopher: Columbus, the Indians and Human Progress (German translation of section from A People's History of the United States)</field>
++    <field name="unittitle_ssm">Columbus, Christopher: &lt;em&gt;Columbus, the Indians and Human Progress&lt;/em&gt; (German translation of section from &lt;em&gt;A People&#39;s History of the United States&lt;/em&gt;)</field>
++    <field name="unittitle_teim">Columbus, Christopher: Columbus, the Indians and Human Progress (German translation of section from A People&#39;s History of the United States)</field>
+     <field name="unitid_teim">cuid16454</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/235274</field>
+     <field name="unitid_ssm">cuid16454</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 45, Folder: 11</field>
+     <field name="location_si">Box: 45, Folder: 11</field>
+     <field name="collection_teim">Howard Zinn Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Maggie Schreiner and Walker Gunning</field>
+     <field name="collection_unitid_teim">TAM.542</field>
+     <field name="series_sim">Series VIII: Subject Files</field>
+-    <field name="series_si">Series VIII: Subject Files &gt;&gt; Columbus, Christopher: &lt;em&gt;Columbus, the Indians and Human Progress&lt;/em&gt; (German translation of section from &lt;em&gt;A People's History of the United States&lt;/em&gt;)</field>
+-    <field name="heading_ssm">Columbus, Christopher: Columbus, the Indians and Human Progress (German translation of section from A People's History of the United States)</field>
++    <field name="series_si">Series VIII: Subject Files &gt;&gt; Columbus, Christopher: &lt;em&gt;Columbus, the Indians and Human Progress&lt;/em&gt; (German translation of section from &lt;em&gt;A People&#39;s History of the United States&lt;/em&gt;)</field>
++    <field name="heading_ssm">Columbus, Christopher: Columbus, the Indians and Human Progress (German translation of section from A People&#39;s History of the United States)</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

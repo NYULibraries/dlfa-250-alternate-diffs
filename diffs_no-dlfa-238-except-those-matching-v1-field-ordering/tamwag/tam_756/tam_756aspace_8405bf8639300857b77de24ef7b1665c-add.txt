@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1921/1999</field>
+     <field name="unitdate_normal_sim">1921/1999</field>
+     <field name="unitdate_inclusive_teim">1921-1999</field>
+-    <field name="scopecontent_teim">Series I. Personal Files, consists of materials that document Bean's personal life, including correspondence with friends and family, greeting cards, and photographs.</field>
++    <field name="scopecontent_teim">Series I. Personal Files, consists of materials that document Bean&#39;s personal life, including correspondence with friends and family, greeting cards, and photographs.</field>
+     <field name="ref_ssi">aspace_8405bf8639300857b77de24ef7b1665c</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Adelaide Bean Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">TAM.756</field>
+     <field name="series_si">Series I. Personal Files</field>
+     <field name="heading_ssm">Series I. Personal Files</field>

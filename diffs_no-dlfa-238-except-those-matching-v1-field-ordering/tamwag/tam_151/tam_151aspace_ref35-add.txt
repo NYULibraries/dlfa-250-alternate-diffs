@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Lee Baxandall Papers</field>
+     <field name="collection_unitid_ssm">TAM.151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Koehler "The Strike"</field>
+-    <field name="unittitle_teim">Koehler "The Strike"</field>
++    <field name="unittitle_ssm">Koehler &#34;The Strike&#34;</field>
++    <field name="unittitle_teim">Koehler &#34;The Strike&#34;</field>
+     <field name="unitdate_normal_ssm">1888/1971</field>
+     <field name="unitdate_normal_teim">1888/1971</field>
+     <field name="unitdate_normal_sim">1888/1971</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 20</field>
+     <field name="location_si">Box: 20</field>
+     <field name="collection_teim">Lee Baxandall Papers</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.151</field>
+     <field name="series_sim">Series I: Research Files</field>
+-    <field name="series_si">Series I: Research Files &gt;&gt; Koehler "The Strike"</field>
+-    <field name="heading_ssm">Koehler "The Strike"</field>
++    <field name="series_si">Series I: Research Files &gt;&gt; Koehler &#34;The Strike&#34;</field>
++    <field name="heading_ssm">Koehler &#34;The Strike&#34;</field>
+     <field name="unitdate_start_sim">1888</field>
+     <field name="unitdate_start_ssm">1888</field>
+     <field name="unitdate_start_si">1888</field>

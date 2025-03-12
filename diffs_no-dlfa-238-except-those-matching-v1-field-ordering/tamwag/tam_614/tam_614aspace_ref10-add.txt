@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1900/1949</field>
+     <field name="unitdate_normal_sim">1900/1949</field>
+     <field name="unitdate_inclusive_teim">circa 1900s-1940s</field>
+-    <field name="scopecontent_teim">This series contains artifacts recovered by Yoland Skeete from the old Newark Chinatown. These materials include books in Chinese on folklore and fortune telling, a Chinese shadow puppet, and a copy of a marriage certificate from a family who lived in Newark's Chinatown.</field>
++    <field name="scopecontent_teim">This series contains artifacts recovered by Yoland Skeete from the old Newark Chinatown. These materials include books in Chinese on folklore and fortune telling, a Chinese shadow puppet, and a copy of a marriage certificate from a family who lived in Newark&#39;s Chinatown.</field>
+     <field name="ref_ssi">aspace_ref10</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Yoland Skeete Research Files on Newark Chinatown</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.614</field>
+     <field name="series_si">Artifacts</field>
+     <field name="heading_ssm">Artifacts</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1970/1970</field>
+     <field name="unitdate_normal_sim">1970/1970</field>
+     <field name="unitdate_inclusive_teim">circa Apr 15, 1970</field>
+-    <field name="scopecontent_teim">The larger of two tapes is  labeled, "Tape of Dan Siegel Rotcy rally ..." "Rotcy" may signify ROTC (Reserve Officers' Training Corps).</field>
++    <field name="scopecontent_teim">The larger of two tapes is  labeled, &#34;Tape of Dan Siegel Rotcy rally ...&#34; &#34;Rotcy&#34; may signify ROTC (Reserve Officers&#39; Training Corps).</field>
+     <field name="ref_ssi">aspace_ref149</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 6 (oversized), Folder: 1</field>
+     <field name="location_si">Box: 6 (oversized), Folder: 1</field>
+     <field name="collection_teim">Robert E. Treuhaft Papers</field>
++    <field name="author_teim">Erika Gottfried</field>
+     <field name="collection_unitid_teim">TAM.664</field>
+     <field name="series_sim">Legal Case Files</field>
+     <field name="series_si">Legal Case Files &gt;&gt; Siegel, Dan - Reel to Reel Audiotapes of Speech at Rally </field>

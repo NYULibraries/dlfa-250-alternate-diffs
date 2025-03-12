@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2001/2004</field>
+     <field name="unitdate_normal_sim">2001/2004</field>
+     <field name="unitdate_inclusive_teim">circa 2001-2004</field>
+-    <field name="scopecontent_teim">This interview was conducted by an unidentified individual. In this interview an individual only identified as "Victor" talks about the Hollywood Blacklist and the Alger Hiss trials. He talks about his experience as a blacklisted member of the film industry, his film career, his acquaintance with Alger Hiss, and his membership in the Communist Party of the United States of America.</field>
++    <field name="scopecontent_teim">This interview was conducted by an unidentified individual. In this interview an individual only identified as &#34;Victor&#34; talks about the Hollywood Blacklist and the Alger Hiss trials. He talks about his experience as a blacklisted member of the film industry, his film career, his acquaintance with Alger Hiss, and his membership in the Communist Party of the United States of America.</field>
+     <field name="dao_teim">Chapin, Victor</field>
+     <field name="dao_teim">Chapin, Victor: circa 2001-2004</field>
+     <field name="dao_ssm">Chapin, Victor</field>
+@@ -33,6 +33,7 @@
+     <field name="location_si">Box: Electronic Records, E-records: TW_TAM_709_ER_27</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">The Nation Institute Oral History Collection on Alger Hiss</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.709</field>
+     <field name="series_si">Chapin, Victor</field>
+     <field name="heading_ssm">Chapin, Victor</field>

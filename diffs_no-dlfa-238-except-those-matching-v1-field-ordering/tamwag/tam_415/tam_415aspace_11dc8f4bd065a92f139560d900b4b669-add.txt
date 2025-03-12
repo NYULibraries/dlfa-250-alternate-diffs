@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1777/1955</field>
+     <field name="unitdate_normal_sim">1777/1955</field>
+     <field name="unitdate_inclusive_teim">1777-1955, undated</field>
+-    <field name="scopecontent_teim">This small subseries is an assembled grouping of organizational and corporate business records. The subseries represents New York City corporate and organizational business concerns through a cash book, ship log, ledger, and receipts. This subseries also consists of organizational records, indentures, policies, memorabilia, and a ship's crew list.</field>
++    <field name="scopecontent_teim">This small subseries is an assembled grouping of organizational and corporate business records. The subseries represents New York City corporate and organizational business concerns through a cash book, ship log, ledger, and receipts. This subseries also consists of organizational records, indentures, policies, memorabilia, and a ship&#39;s crew list.</field>
+     <field name="ref_ssi">aspace_11dc8f4bd065a92f139560d900b4b669</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
++    <field name="author_teim">Maggie Schreiner, Amy Lau, and Makoroba Sow.</field>
+     <field name="collection_unitid_teim">TAM.415</field>
+     <field name="series_sim">Series III. Family, Organizational and Corporate Records</field>
+     <field name="series_si">Series III. Family, Organizational and Corporate Records &gt;&gt; Series III.B. Organizational and Corporate Records</field>

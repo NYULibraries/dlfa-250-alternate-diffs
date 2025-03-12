@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">David Sullivan U.S. Maoism Collection</field>
+     <field name="collection_unitid_ssm">TAM.527</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">International Women's Day (3 items)</field>
+-    <field name="unittitle_teim">International Women's Day (3 items)</field>
++    <field name="unittitle_ssm">International Women&#39;s Day (3 items)</field>
++    <field name="unittitle_teim">International Women&#39;s Day (3 items)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/233120</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/233120</field>
+     <field name="unitdate_normal_ssm">1981/1981</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Flat-File-Folder: 2 Right</field>
+     <field name="location_si">Flat-File-Folder: 2 Right</field>
+     <field name="collection_teim">David Sullivan U.S. Maoism Collection</field>
++    <field name="author_teim">Adrien Hilton, Gwen Gethner</field>
+     <field name="collection_unitid_teim">TAM.527</field>
+     <field name="series_sim">Series IX: Posters, 1968-1990</field>
+     <field name="series_sim">Sub-series B: Flat-Files</field>
+-    <field name="series_si">Series IX: Posters, 1968-1990 &gt;&gt; Sub-series B: Flat-Files &gt;&gt; International Women's Day (3 items)</field>
+-    <field name="heading_ssm">International Women's Day (3 items)</field>
++    <field name="series_si">Series IX: Posters, 1968-1990 &gt;&gt; Sub-series B: Flat-Files &gt;&gt; International Women&#39;s Day (3 items)</field>
++    <field name="heading_ssm">International Women&#39;s Day (3 items)</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

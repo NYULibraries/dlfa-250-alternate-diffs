@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -4,11 +4,11 @@
+     <field name="author_teim">Rachel Schimke, 2013</field>
+     <field name="author_ssm">Rachel Schimke, 2013</field>
+     <field name="unittitle_teim">Science &amp; Society Editorial Files</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Science &amp;amp; Society&lt;/em&gt; Editorial Files</field>
++    <field name="unittitle_ssm">&lt;em&gt;Science &amp; Society&lt;/em&gt; Editorial Files</field>
+     <field name="unitid_teim">TAM.555</field>
+     <field name="unitid_ssm">TAM.555</field>
+-    <field name="abstract_teim">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The editorial staff's records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board.</field>
+-    <field name="abstract_ssm">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The editorial staff's records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board.</field>
++    <field name="abstract_teim">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The editorial staff&#39;s records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board.</field>
++    <field name="abstract_ssm">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The editorial staff&#39;s records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board.</field>
+     <field name="creator_teim">Science &amp; Society (New York, N.Y.)</field>
+     <field name="creator_ssm">Science &amp; Society (New York, N.Y.)</field>
+     <field name="creator_ssm">Science &amp; Society (New York, N.Y.)</field>
+@@ -20,8 +20,8 @@
+     <field name="unitdate_normal_sim">1990/2009</field>
+     <field name="unitdate_bulk_teim">1990-2009</field>
+     <field name="unitdate_inclusive_teim">circa 1960-2009</field>
+-    <field name="scopecontent_teim">The Science &amp; Society editorial staff's records are mainly comprised of author files, consisting of correspondence with authors regarding the work they submitted to the journal and often their manuscripts. The correspondence in these files reveals the rationale for the editorial staff's decisions to either accept or reject the manuscripts for publication. The collection also contains administrative correspondence between the editorial staff and a multitude of outside parties related to the management, policies, and day-to-day operations of the journal. To a much lesser extent, the collection includes the minutes and correspondence of the editorial board.</field>
+-    <field name="bioghist_teim">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The journal is interdisciplinary, applying a Marxist perspective to a broad range of topics; however, political economy is the most frequently represented topic, followed by Marxist philosophy, the history of communist movements, and other topics. The journal's head editor is David Laibman, a Professor Emeritus of Economics at Brooklyn College and the Graduate Center, City University of New York.</field>
++    <field name="scopecontent_teim">The Science &amp; Society editorial staff&#39;s records are mainly comprised of author files, consisting of correspondence with authors regarding the work they submitted to the journal and often their manuscripts. The correspondence in these files reveals the rationale for the editorial staff&#39;s decisions to either accept or reject the manuscripts for publication. The collection also contains administrative correspondence between the editorial staff and a multitude of outside parties related to the management, policies, and day-to-day operations of the journal. To a much lesser extent, the collection includes the minutes and correspondence of the editorial board.</field>
++    <field name="bioghist_teim">Science &amp; Society is a scholarly Marxist quarterly founded in 1936. The journal is interdisciplinary, applying a Marxist perspective to a broad range of topics; however, political economy is the most frequently represented topic, followed by Marxist philosophy, the history of communist movements, and other topics. The journal&#39;s head editor is David Laibman, a Professor Emeritus of Economics at Brooklyn College and the Graduate Center, City University of New York.</field>
+     <field name="acqinfo_teim">Donated by Marvin Gettleman and David Laibman on behalf of Science &amp; Society in 2010. The accession number associated with this gift is 2010.077.</field>
+     <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+     <field name="corpname_teim">Science &amp; Society (New York, N.Y.)</field>
+@@ -45,9 +45,9 @@
+     <field name="subject_teim">Marxian economics |v Periodicals.</field>
+     <field name="subject_teim">Philosophy, Marxist |v Periodicals.</field>
+     <field name="subject_teim">Communism -- Periodicals.</field>
+-    <field name="subject_teim">Communism -- History -- Periodicals.</field>
+-    <field name="subject_teim">Marxian economics -- Periodicals.</field>
+-    <field name="subject_teim">Philosophy, Marxist -- Periodicals.</field>
++    <field name="subject_teim">Communism --History --Periodicals.</field>
++    <field name="subject_teim">Marxian economics --Periodicals.</field>
++    <field name="subject_teim">Philosophy, Marxist --Periodicals.</field>
+     <field name="subject_teim">Communism -- Periodicals.</field>
+     <field name="subject_ssm">Communism |x History |v Periodicals.</field>
+     <field name="subject_ssm">Marxian economics |v Periodicals.</field>
+@@ -73,9 +73,9 @@
+     <field name="name_teim">Gettleman, Marvin E.</field>
+     <field name="name_teim">Laibman, David</field>
+     <field name="name_teim">Marx, Karl, 1818-1883</field>
+-    <field name="subject_sim">Communism -- History -- Periodicals.</field>
+-    <field name="subject_sim">Marxian economics -- Periodicals.</field>
+-    <field name="subject_sim">Philosophy, Marxist -- Periodicals.</field>
++    <field name="subject_sim">Communism --History --Periodicals.</field>
++    <field name="subject_sim">Marxian economics --Periodicals.</field>
++    <field name="subject_sim">Philosophy, Marxist --Periodicals.</field>
+     <field name="subject_sim">Communism -- Periodicals.</field>
+     <field name="heading_ssm">Science &amp; Society Editorial Files</field>
+     <field name="unitdate_start_sim">1960</field>

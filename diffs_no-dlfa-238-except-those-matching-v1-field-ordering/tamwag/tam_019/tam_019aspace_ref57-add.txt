@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mark Starr Papers</field>
+     <field name="collection_unitid_ssm">TAM.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: "Positive Heath of Older People"; "Jobs After Forty"; "Making the Most of Maturity")</field>
+-    <field name="unittitle_teim">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: "Positive Heath of Older People"; "Jobs After Forty"; "Making the Most of Maturity")</field>
++    <field name="unittitle_ssm">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: &#34;Positive Heath of Older People&#34;; &#34;Jobs After Forty&#34;; &#34;Making the Most of Maturity&#34;)</field>
++    <field name="unittitle_teim">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: &#34;Positive Heath of Older People&#34;; &#34;Jobs After Forty&#34;; &#34;Making the Most of Maturity&#34;)</field>
+     <field name="unitdate_normal_ssm">1955/1958</field>
+     <field name="unitdate_normal_teim">1955/1958</field>
+     <field name="unitdate_normal_sim">1955/1958</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 6, Folder: 8</field>
+     <field name="location_si">Box: 6, Folder: 8</field>
+     <field name="collection_teim">Mark Starr Papers</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.019</field>
+     <field name="series_sim">First Accession</field>
+-    <field name="series_si">First Accession &gt;&gt; Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: "Positive Heath of Older People"; "Jobs After Forty"; "Making the Most of Maturity")</field>
+-    <field name="heading_ssm">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: "Positive Heath of Older People"; "Jobs After Forty"; "Making the Most of Maturity")</field>
++    <field name="series_si">First Accession &gt;&gt; Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: &#34;Positive Heath of Older People&#34;; &#34;Jobs After Forty&#34;; &#34;Making the Most of Maturity&#34;)</field>
++    <field name="heading_ssm">Old Age (General Correspondence, Clippings, event: Little White House Conference on Aging, Manuscripts include: &#34;Positive Heath of Older People&#34;; &#34;Jobs After Forty&#34;; &#34;Making the Most of Maturity&#34;)</field>
+     <field name="unitdate_start_sim">1955</field>
+     <field name="unitdate_start_ssm">1955</field>
+     <field name="unitdate_start_si">1955</field>

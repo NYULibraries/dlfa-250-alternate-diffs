@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fanny Simon Papers</field>
+     <field name="collection_unitid_ssm">TAM.185</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photographs: Bar Harbor, Jone's Beach, and other unmarked locations</field>
+-    <field name="unittitle_teim">Photographs: Bar Harbor, Jone's Beach, and other unmarked locations</field>
++    <field name="unittitle_ssm">Photographs: Bar Harbor, Jone&#39;s Beach, and other unmarked locations</field>
++    <field name="unittitle_teim">Photographs: Bar Harbor, Jone&#39;s Beach, and other unmarked locations</field>
+     <field name="unitdate_normal_ssm">1940/1949</field>
+     <field name="unitdate_normal_teim">1940/1949</field>
+     <field name="unitdate_normal_sim">1940/1949</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 11, Folder: 27</field>
+     <field name="location_si">Box: 11, Folder: 27</field>
+     <field name="collection_teim">Fanny Simon Papers</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">TAM.185</field>
+     <field name="series_sim">Series I: Personal Materials</field>
+-    <field name="series_si">Series I: Personal Materials &gt;&gt; Photographs: Bar Harbor, Jone's Beach, and other unmarked locations</field>
+-    <field name="heading_ssm">Photographs: Bar Harbor, Jone's Beach, and other unmarked locations</field>
++    <field name="series_si">Series I: Personal Materials &gt;&gt; Photographs: Bar Harbor, Jone&#39;s Beach, and other unmarked locations</field>
++    <field name="heading_ssm">Photographs: Bar Harbor, Jone&#39;s Beach, and other unmarked locations</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

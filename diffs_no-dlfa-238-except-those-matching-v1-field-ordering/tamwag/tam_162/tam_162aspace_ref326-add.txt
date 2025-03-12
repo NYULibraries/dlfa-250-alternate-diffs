@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_162</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">WHAM! (Women's Health Action and Mobilization) Records</field>
+-    <field name="collection_ssm">WHAM! (Women's Health Action and Mobilization) Records</field>
++    <field name="collection_sim">WHAM! (Women&#39;s Health Action and Mobilization) Records</field>
++    <field name="collection_ssm">WHAM! (Women&#39;s Health Action and Mobilization) Records</field>
+     <field name="collection_unitid_ssm">TAM.162</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Recent Files (Meixell donation)</field>
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">cuid14359</field>
+     <field name="unitid_ssm">cuid14359</field>
+     <field name="unitdate_teim">1998-2003</field>
+-    <field name="scopecontent_teim">This box includes Fed Up Queers clippings and Church Ladies for Choice, anti-war, "corporate bureaucracy fans," and "WHAM has closed up shop" materials.</field>
++    <field name="scopecontent_teim">This box includes Fed Up Queers clippings and Church Ladies for Choice, anti-war, &#34;corporate bureaucracy fans,&#34; and &#34;WHAM has closed up shop&#34; materials.</field>
+     <field name="ref_ssi">aspace_ref326</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 21</field>
+     <field name="location_si">Box: 21</field>
+-    <field name="collection_teim">WHAM! (Women's Health Action and Mobilization) Records</field>
++    <field name="collection_teim">WHAM! (Women&#39;s Health Action and Mobilization) Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.162</field>
+     <field name="series_si">Recent Files (Meixell donation)</field>
+     <field name="heading_ssm">Recent Files (Meixell donation)</field>

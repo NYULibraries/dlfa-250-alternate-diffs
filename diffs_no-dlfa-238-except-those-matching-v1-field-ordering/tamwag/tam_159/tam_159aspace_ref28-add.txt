@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">William Price Collection on the Murder of George Polk</field>
+     <field name="collection_unitid_ssm">TAM.159</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Researcher's Correspondence</field>
+-    <field name="unittitle_teim">Researcher's Correspondence</field>
++    <field name="unittitle_ssm">Researcher&#39;s Correspondence</field>
++    <field name="unittitle_teim">Researcher&#39;s Correspondence</field>
+     <field name="unitdate_teim">1948-1949</field>
+     <field name="ref_ssi">aspace_ref28</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">William Price Collection on the Murder of George Polk</field>
++    <field name="author_teim">Daniel Bender, 2009. Finding aid edited in 2013 by David Olson to reflect reincorporation of nonprint materials, 2013.</field>
+     <field name="collection_unitid_teim">TAM.159</field>
+     <field name="series_sim">Series III: Polk Murder</field>
+-    <field name="series_si">Series III: Polk Murder &gt;&gt; Researcher's Correspondence</field>
+-    <field name="heading_ssm">Researcher's Correspondence</field>
++    <field name="series_si">Series III: Polk Murder &gt;&gt; Researcher&#39;s Correspondence</field>
++    <field name="heading_ssm">Researcher&#39;s Correspondence</field>
+     <field name="unitdate_ssm">1948-1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">18</field>

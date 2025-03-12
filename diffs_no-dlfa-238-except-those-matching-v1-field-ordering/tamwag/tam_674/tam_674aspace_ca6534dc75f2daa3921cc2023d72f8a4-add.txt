@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1950/1952</field>
+     <field name="unitdate_normal_sim">1950/1952</field>
+     <field name="unitdate_inclusive_teim">1950-1952</field>
+-    <field name="scopecontent_teim">This series contains a set of complete, bound trial transcripts of the legal case United States vs. Alger Hiss. Transcripts are in volumes I-X, and were prepared by the court in response to Hiss's 1950 appeal of his conviction. Trial transcripts are also accompanied by copies of printed briefs, petitions, memoranda, and affidavits also prepared by the court in response to the appeal.</field>
++    <field name="scopecontent_teim">This series contains a set of complete, bound trial transcripts of the legal case United States vs. Alger Hiss. Transcripts are in volumes I-X, and were prepared by the court in response to Hiss&#39;s 1950 appeal of his conviction. Trial transcripts are also accompanied by copies of printed briefs, petitions, memoranda, and affidavits also prepared by the court in response to the appeal.</field>
+     <field name="ref_ssi">aspace_ca6534dc75f2daa3921cc2023d72f8a4</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Debevoise &amp; Plimpton Records on Alger Hiss</field>
++    <field name="author_teim">Heather Mulliner</field>
+     <field name="collection_unitid_teim">TAM.674</field>
+     <field name="series_sim">Series II: Hiss Personal 2395</field>
+     <field name="series_si">Series II: Hiss Personal 2395 &gt;&gt; Sub-Series II.E: Trial Transcripts</field>

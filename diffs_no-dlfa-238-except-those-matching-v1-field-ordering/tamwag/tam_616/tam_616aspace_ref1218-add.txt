@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+     <field name="collection_unitid_ssm">TAM.616</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"With Priest in Poor Neighborhood, Argentina  #11"</field>
+-    <field name="unittitle_teim">"With Priest in Poor Neighborhood, Argentina  #11"</field>
++    <field name="unittitle_ssm">&#34;With Priest in Poor Neighborhood, Argentina  #11&#34;</field>
++    <field name="unittitle_teim">&#34;With Priest in Poor Neighborhood, Argentina  #11&#34;</field>
+     <field name="unitid_teim">cuid17693</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/241425</field>
+     <field name="unitid_ssm">cuid17693</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1987/1987</field>
+     <field name="unitdate_normal_sim">1987/1987</field>
+     <field name="unitdate_inclusive_teim">circa 1987</field>
+-    <field name="scopecontent_teim">This video features a tour of a poor village in Argentina. It begins with footage of children sharing lunch in a school, and features shots of the streets and people in the village. The footage shows a priest speaking with people in the village, greeting them, and introducing them to Estela Bravo. Bravo asks several men and women about their country's foreign debt, and several speak about the extreme poverty in their community, the lack of jobs, and their dependence on government support. The priest shows Bravo a field fill with garbage and describes how men in the village sort the garbage and sell what they gather for parts. He explains that it is dangerous work, which contributes to many diseases in the community, and that the villagers live among the garbage daily.</field>
++    <field name="scopecontent_teim">This video features a tour of a poor village in Argentina. It begins with footage of children sharing lunch in a school, and features shots of the streets and people in the village. The footage shows a priest speaking with people in the village, greeting them, and introducing them to Estela Bravo. Bravo asks several men and women about their country&#39;s foreign debt, and several speak about the extreme poverty in their community, the lack of jobs, and their dependence on government support. The priest shows Bravo a field fill with garbage and describes how men in the village sort the garbage and sell what they gather for parts. He explains that it is dangerous work, which contributes to many diseases in the community, and that the villagers live among the garbage daily.</field>
+     <field name="phystech_teim">Original Format: Umatic. Duration: 00:21:53.</field>
+     <field name="ref_ssi">aspace_ref1218</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 98, DVD: ref1218</field>
+     <field name="location_si">Box: 98, DVD: ref1218</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series III: Children in Debt</field>
+-    <field name="series_si">Series III: Children in Debt &gt;&gt; "With Priest in Poor Neighborhood, Argentina  #11"</field>
+-    <field name="heading_ssm">"With Priest in Poor Neighborhood, Argentina  #11"</field>
++    <field name="series_si">Series III: Children in Debt &gt;&gt; &#34;With Priest in Poor Neighborhood, Argentina  #11&#34;</field>
++    <field name="heading_ssm">&#34;With Priest in Poor Neighborhood, Argentina  #11&#34;</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">BOX 2: </field>
+     <field name="unittitle_teim">BOX 2: </field>
+     <field name="scopecontent_teim">BOX 2 </field>
+-    <field name="scopecontent_teim">Contains non-archival binders and materials related to political concerns of SLAM, mostly (notably Mumia). Also has some grant proposals and other SLAM organizational paperwork. Newspapers are included and reference SLAM's activities.</field>
++    <field name="scopecontent_teim">Contains non-archival binders and materials related to political concerns of SLAM, mostly (notably Mumia). Also has some grant proposals and other SLAM organizational paperwork. Newspapers are included and reference SLAM&#39;s activities.</field>
+     <field name="scopecontent_teim">1     Binder</field>
+     <field name="scopecontent_teim">
+ MUMIA: Coalition to Free Mumia Abu-Jamal</field>
+@@ -71,6 +71,7 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Student Liberation Action Movement (SLAM!) Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.351</field>
+     <field name="series_si">BOX 2: </field>
+     <field name="heading_ssm">BOX 2: </field>

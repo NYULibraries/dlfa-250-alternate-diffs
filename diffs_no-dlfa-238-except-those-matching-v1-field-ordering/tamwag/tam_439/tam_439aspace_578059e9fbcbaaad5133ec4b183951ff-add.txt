@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,11 +21,11 @@
+     <field name="unitdate_normal_teim">1969/2003</field>
+     <field name="unitdate_normal_sim">1969/2003</field>
+     <field name="unitdate_inclusive_teim">1969-2003</field>
+-    <field name="scopecontent_teim">Includes camper performances of Fiddler on the Roof and Finian's Rainbow, and camp events, such as Visiting Day, among others.</field>
++    <field name="scopecontent_teim">Includes camper performances of Fiddler on the Roof and Finian&#39;s Rainbow, and camp events, such as Visiting Day, among others.</field>
+     <field name="title_teim">Fiddler on the Roof</field>
+-    <field name="title_teim">Finian's Rainbow</field>
++    <field name="title_teim">Finian&#39;s Rainbow</field>
+     <field name="title_ssm">Fiddler on the Roof</field>
+-    <field name="title_ssm">Finian's Rainbow</field>
++    <field name="title_ssm">Finian&#39;s Rainbow</field>
+     <field name="dao_teim">Camp Performances and Events</field>
+     <field name="dao_ssm">Camp Performances and Events</field>
+     <field name="ref_ssi">aspace_578059e9fbcbaaad5133ec4b183951ff</field>
+@@ -46,6 +46,7 @@
+     <field name="location_si">Box: Electronic Records, Item: TW_TAM_439_ER_4</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Camp Kinderland Records</field>
++    <field name="author_teim">Alexander Bloom and Michael Beebe, 2009.</field>
+     <field name="collection_unitid_teim">TAM.439</field>
+     <field name="series_sim">Series X: Audiovisual Materials</field>
+     <field name="series_si">Series X: Audiovisual Materials &gt;&gt; Camp Performances and Events</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">American Veterans for Peace Records</field>
+     <field name="collection_unitid_ssm">TAM.246</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Vet's Voice&lt;/em&gt;: Suppression of</field>
+-    <field name="unittitle_teim">Vet's Voice: Suppression of</field>
++    <field name="unittitle_ssm">&lt;em&gt;Vet&#39;s Voice&lt;/em&gt;: Suppression of</field>
++    <field name="unittitle_teim">Vet&#39;s Voice: Suppression of</field>
+     <field name="unitdate_normal_ssm">1953/1957</field>
+     <field name="unitdate_normal_teim">1953/1957</field>
+     <field name="unitdate_normal_sim">1953/1957</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 25</field>
+     <field name="location_si">Box: 1, Folder: 25</field>
+     <field name="collection_teim">American Veterans for Peace Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.246</field>
+-    <field name="series_si">&lt;em&gt;Vet's Voice&lt;/em&gt;: Suppression of</field>
+-    <field name="heading_ssm">Vet's Voice: Suppression of</field>
++    <field name="series_si">&lt;em&gt;Vet&#39;s Voice&lt;/em&gt;: Suppression of</field>
++    <field name="heading_ssm">Vet&#39;s Voice: Suppression of</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>
+     <field name="unitdate_start_si">1953</field>

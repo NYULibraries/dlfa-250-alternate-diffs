@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_058</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">People's Coalition for Peace and Justice Records</field>
+-    <field name="collection_ssm">People's Coalition for Peace and Justice Records</field>
++    <field name="collection_sim">People&#39;s Coalition for Peace and Justice Records</field>
++    <field name="collection_ssm">People&#39;s Coalition for Peace and Justice Records</field>
+     <field name="collection_unitid_ssm">TAM.058</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Container list</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">People's Coalition for Peace and Justice Records</field>
++    <field name="collection_teim">People&#39;s Coalition for Peace and Justice Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.058</field>
+     <field name="series_si">Container list</field>
+     <field name="heading_ssm">Container list</field>

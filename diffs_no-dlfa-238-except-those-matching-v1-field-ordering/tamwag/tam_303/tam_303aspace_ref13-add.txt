@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_303</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Neil Sih Typescript "Five Years of the Left Opposition in China"</field>
+-    <field name="collection_ssm">Neil Sih Typescript "Five Years of the Left Opposition in China"</field>
++    <field name="collection_sim">Neil Sih Typescript &#34;Five Years of the Left Opposition in China&#34;</field>
++    <field name="collection_ssm">Neil Sih Typescript &#34;Five Years of the Left Opposition in China&#34;</field>
+     <field name="collection_unitid_ssm">TAM.303</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Manuscript</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Neil Sih Typescript "Five Years of the Left Opposition in China"</field>
++    <field name="collection_teim">Neil Sih Typescript &#34;Five Years of the Left Opposition in China&#34;</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.303</field>
+     <field name="series_si">Series I: Manuscript</field>
+     <field name="heading_ssm">Series I: Manuscript</field>

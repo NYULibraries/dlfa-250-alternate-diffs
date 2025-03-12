@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries IID: Legal Issues</field>
+     <field name="unittitle_teim">Subseries IID: Legal Issues</field>
+-    <field name="scopecontent_teim">Materials in this subseries reference several court cases that involved The Nation.  The most extensively represented case is Harper &amp; Row, Publishers, Inc., et al. v. Nation, et al..  The case stemmed from the appearance of a verbatim excerpt from a leaked copy of Gerald Ford's unpublished memoir, A Time to Heal, in the April 7, 1979, issue of The Nation.  The excerpt dealt with Ford's unprecedented pardon of ex-president Nixon.  While The Nation felt that this was "fair use", Harper &amp; Row saw it as copyright infringement.  The District Court ruling for Harper &amp; Row resulted in a financial settlement.  The 2nd Circuit Court of Appeals, however, reversed that decision. The case was finally settled by the US Supreme Court in Harper &amp; Row's favor.  The collection contains documents from all three courts along with other materials related to the case.</field>
++    <field name="scopecontent_teim">Materials in this subseries reference several court cases that involved The Nation.  The most extensively represented case is Harper &amp; Row, Publishers, Inc., et al. v. Nation, et al..  The case stemmed from the appearance of a verbatim excerpt from a leaked copy of Gerald Ford&#39;s unpublished memoir, A Time to Heal, in the April 7, 1979, issue of The Nation.  The excerpt dealt with Ford&#39;s unprecedented pardon of ex-president Nixon.  While The Nation felt that this was &#34;fair use&#34;, Harper &amp; Row saw it as copyright infringement.  The District Court ruling for Harper &amp; Row resulted in a financial settlement.  The 2nd Circuit Court of Appeals, however, reversed that decision. The case was finally settled by the US Supreme Court in Harper &amp; Row&#39;s favor.  The collection contains documents from all three courts along with other materials related to the case.</field>
+     <field name="ref_ssi">aspace_ref322</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Victor S. Navasky Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Mary Corcoran, Heather Mulliner, and Giana Ricci</field>
+     <field name="collection_unitid_teim">TAM.594</field>
+     <field name="series_sim">Series II: Navasky and The Nation</field>
+     <field name="series_si">Series II: Navasky and The Nation &gt;&gt; Subseries IID: Legal Issues</field>

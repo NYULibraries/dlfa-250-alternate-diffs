@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Asian CineVision Records</field>
+     <field name="collection_unitid_ssm">TAM.416</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick</field>
+-    <field name="unittitle_teim">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick</field>
++    <field name="unittitle_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick</field>
++    <field name="unittitle_teim">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick</field>
+     <field name="unitid_teim">cuid1646</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/252494</field>
+     <field name="unitid_ssm">cuid1646</field>
+@@ -21,8 +21,8 @@
+     <field name="unitid_ssm">/repositories/2/archival_objects/252494</field>
+     <field name="unitdate_teim">Jul 1976-Jan 23, 1977</field>
+     <field name="phystech_teim">Duration: 33:02</field>
+-    <field name="dao_teim">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick: Jul 1976-Jan 23, 1977</field>
+-    <field name="dao_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick: Jul 1976-Jan 23, 1977</field>
++    <field name="dao_teim">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick: Jul 1976-Jan 23, 1977</field>
++    <field name="dao_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick: Jul 1976-Jan 23, 1977</field>
+     <field name="ref_ssi">aspace_ref106</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,10 +33,11 @@
+     <field name="location_si">Box: 79</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Asian CineVision Records</field>
++    <field name="author_teim">I-Ting Emily Chu</field>
+     <field name="collection_unitid_teim">TAM.416</field>
+     <field name="series_sim">Series III: Video Recordings</field>
+-    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick</field>
+-    <field name="heading_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama "The World of Ah Sing," Getting Sick</field>
++    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick</field>
++    <field name="heading_ssm">Video 016: CCTV Oct 3, 1976/Oct 7, 1976 Broadcast tape – News, Drama &#34;The World of Ah Sing,&#34; Getting Sick</field>
+     <field name="unitdate_ssm">Jul 1976-Jan 23, 1977</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">102</field>

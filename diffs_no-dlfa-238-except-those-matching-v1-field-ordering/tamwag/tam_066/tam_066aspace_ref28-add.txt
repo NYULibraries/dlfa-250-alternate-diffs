@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_066</field>
+     <field name="parent_ssi">aspace_ref25</field>
+     <field name="parent_ssm">aspace_ref25</field>
+-    <field name="parent_unittitles_ssm">Series II: International News, "Special Issues," 1932-1936.</field>
+-    <field name="parent_unittitles_teim">Series II: International News, "Special Issues," 1932-1936.</field>
++    <field name="parent_unittitles_ssm">Series II: International News, &amp;#34;Special Issues,&amp;#34; 1932-1936.</field>
++    <field name="parent_unittitles_teim">Series II: International News, &amp;#34;Special Issues,&amp;#34; 1932-1936.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 1, Folder: 14</field>
+     <field name="location_si">Box: 1, Folder: 14</field>
+     <field name="collection_teim">Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera</field>
++    <field name="author_teim">Tamiment staff and Ariel Zambenedetti, 2008</field>
+     <field name="collection_unitid_teim">TAM.066</field>
+-    <field name="series_sim">Series II: International News, "Special Issues," 1932-1936.</field>
+-    <field name="series_si">Series II: International News, "Special Issues," 1932-1936. &gt;&gt; Special #4: Suppressed Articles: European War Threat and the ICL (Reports by Oehler and L. Basky)</field>
++    <field name="series_sim">Series II: International News, &amp;#34;Special Issues,&amp;#34; 1932-1936.</field>
++    <field name="series_si">Series II: International News, &#34;Special Issues,&#34; 1932-1936. &gt;&gt; Special #4: Suppressed Articles: European War Threat and the ICL (Reports by Oehler and L. Basky)</field>
+     <field name="heading_ssm">Special #4: Suppressed Articles: European War Threat and the ICL (Reports by Oehler and L. Basky)</field>
+     <field name="unitdate_start_sim">1932</field>
+     <field name="unitdate_start_ssm">1932</field>

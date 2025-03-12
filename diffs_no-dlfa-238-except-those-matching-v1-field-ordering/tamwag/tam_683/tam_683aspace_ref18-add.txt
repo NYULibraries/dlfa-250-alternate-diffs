@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,12 +11,12 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Publications</field>
+     <field name="unittitle_teim">Publications</field>
+-    <field name="scopecontent_teim">This series consists of publications both created and collected by NACLA. Publications created by NACLA include one-off publications that are not part of an ongoing series, compilations of articles written by NACLA staff sent to news services, and its regularly published journal, known by the following names throughout the years: the NACLA Newsletter (1966-1971), NACLA's Latin America and Empire Report (1971-1977), and NACLA Report on the Americas (1977-1991). Publications collected by NACLA include research materials such as general political guides and bibliographic information for human rights organizations.</field>
++    <field name="scopecontent_teim">This series consists of publications both created and collected by NACLA. Publications created by NACLA include one-off publications that are not part of an ongoing series, compilations of articles written by NACLA staff sent to news services, and its regularly published journal, known by the following names throughout the years: the NACLA Newsletter (1966-1971), NACLA&#39;s Latin America and Empire Report (1971-1977), and NACLA Report on the Americas (1977-1991). Publications collected by NACLA include research materials such as general political guides and bibliographic information for human rights organizations.</field>
+     <field name="title_teim">NACLA Newsletter</field>
+-    <field name="title_teim">NACLA's Latin America and Empire Report</field>
++    <field name="title_teim">NACLA&#39;s Latin America and Empire Report</field>
+     <field name="title_teim">NACLA Report on the Americas</field>
+     <field name="title_ssm">NACLA Newsletter</field>
+-    <field name="title_ssm">NACLA's Latin America and Empire Report</field>
++    <field name="title_ssm">NACLA&#39;s Latin America and Empire Report</field>
+     <field name="title_ssm">NACLA Report on the Americas</field>
+     <field name="ref_ssi">aspace_ref18</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">North American Congress on Latin America (NACLA) Records</field>
++    <field name="author_teim">Amanda Moreno</field>
+     <field name="collection_unitid_teim">TAM.683</field>
+     <field name="series_si">Publications</field>
+     <field name="heading_ssm">Publications</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_teim">2023-07/2023-07</field>
+     <field name="unitdate_normal_sim">2023-07/2023-07</field>
+     <field name="unitdate_teim">July 2023</field>
+-    <field name="scopecontent_teim">Episode of the New York Times "Daily" podcast. A resource featured on the Zip Code Memory Project website.</field>
++    <field name="scopecontent_teim">Episode of the New York Times &#34;Daily&#34; podcast. A resource featured on the Zip Code Memory Project website.</field>
+     <field name="corpname_teim">New York Times Company</field>
+     <field name="corpname_ssm">New York Times Company</field>
+     <field name="dao_teim">Stories From the Great American Labor Shortage Archived Website: July 2023</field>
+@@ -38,6 +38,7 @@
+     <field name="name_teim">New York Times Company</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York City COVID-19 Web Activism Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">TAM.798</field>
+     <field name="series_si">Stories From the Great American Labor Shortage</field>
+     <field name="heading_ssm">Stories From the Great American Labor Shortage</field>

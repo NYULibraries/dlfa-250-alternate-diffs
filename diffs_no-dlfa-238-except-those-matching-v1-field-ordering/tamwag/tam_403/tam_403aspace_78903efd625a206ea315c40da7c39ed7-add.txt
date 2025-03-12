@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Moss Roberts Vietnam War Research Files</field>
+     <field name="collection_unitid_ssm">TAM.403</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Vietnam People's Army Bulletin</field>
+-    <field name="unittitle_teim">Vietnam People's Army Bulletin</field>
++    <field name="unittitle_ssm">Vietnam People&#39;s Army Bulletin</field>
++    <field name="unittitle_teim">Vietnam People&#39;s Army Bulletin</field>
+     <field name="unitdate_normal_ssm">1966-01/1966-02</field>
+     <field name="unitdate_normal_teim">1966-01/1966-02</field>
+     <field name="unitdate_normal_sim">1966-01/1966-02</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: Shared Tamiment 068, Folder: 15</field>
+     <field name="location_si">Box: Shared Tamiment 068, Folder: 15</field>
+     <field name="collection_teim">Moss Roberts Vietnam War Research Files</field>
++    <field name="author_teim">Maddux Pearson and Anna Björnsson McCormick</field>
+     <field name="collection_unitid_teim">TAM.403</field>
+     <field name="series_sim">Series I: Indochinese Home Front</field>
+-    <field name="series_si">Series I: Indochinese Home Front &gt;&gt; Vietnam People's Army Bulletin</field>
+-    <field name="heading_ssm">Vietnam People's Army Bulletin</field>
++    <field name="series_si">Series I: Indochinese Home Front &gt;&gt; Vietnam People&#39;s Army Bulletin</field>
++    <field name="heading_ssm">Vietnam People&#39;s Army Bulletin</field>
+     <field name="unitdate_ssm">Inclusive, January-February 1966</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">43</field>

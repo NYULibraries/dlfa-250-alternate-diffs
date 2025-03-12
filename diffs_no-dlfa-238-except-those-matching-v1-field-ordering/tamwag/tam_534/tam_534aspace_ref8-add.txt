@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_534</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Miriam Sigel Friedlander files on New York City Council and Women's Issues</field>
+-    <field name="collection_ssm">Miriam Sigel Friedlander files on New York City Council and Women's Issues</field>
++    <field name="collection_sim">Miriam Sigel Friedlander files on New York City Council and Women&#39;s Issues</field>
++    <field name="collection_ssm">Miriam Sigel Friedlander files on New York City Council and Women&#39;s Issues</field>
+     <field name="collection_unitid_ssm">TAM.534</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Includes electoral campaign material, other City Council related materials, and buttons</field>
+@@ -21,7 +21,8 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+-    <field name="collection_teim">Miriam Sigel Friedlander files on New York City Council and Women's Issues</field>
++    <field name="collection_teim">Miriam Sigel Friedlander files on New York City Council and Women&#39;s Issues</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.534</field>
+     <field name="series_si">Includes electoral campaign material, other City Council related materials, and buttons</field>
+     <field name="heading_ssm">Includes electoral campaign material, other City Council related materials, and buttons</field>

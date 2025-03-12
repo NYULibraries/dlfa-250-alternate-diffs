@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Box 1</field>
+     <field name="unittitle_teim">Box 1</field>
+-    <field name="scopecontent_teim">Contains correspondence and materials pertaining to V.J. McGill's dismissal from Hunter College.</field>
++    <field name="scopecontent_teim">Contains correspondence and materials pertaining to V.J. McGill&#39;s dismissal from Hunter College.</field>
+     <field name="ref_ssi">aspace_ref19</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -21,6 +21,7 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Vivian Jerauld (V.J.) McGill Papers</field>
++    <field name="author_teim">Maggie Schreiner</field>
+     <field name="collection_unitid_teim">TAM.571</field>
+     <field name="series_si">Box 1</field>
+     <field name="heading_ssm">Box 1</field>

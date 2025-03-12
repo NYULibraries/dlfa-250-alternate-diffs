@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1996/2006</field>
+     <field name="unitdate_normal_sim">1996/2006</field>
+     <field name="unitdate_inclusive_teim">circa 2001</field>
+-    <field name="scopecontent_teim">This series consists of a poster printed by Max Blechman titled "Empire" and a printed flyer opposing Professor Karal Ann Marlings statements in the New York Times.</field>
++    <field name="scopecontent_teim">This series consists of a poster printed by Max Blechman titled &#34;Empire&#34; and a printed flyer opposing Professor Karal Ann Marlings statements in the New York Times.</field>
+     <field name="ref_ssi">aspace_e0ff8704535bb121a5dedd7e8d83749e</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Max Blechman Papers</field>
++    <field name="author_teim">Peter Filardo</field>
+     <field name="collection_unitid_teim">TAM.567</field>
+     <field name="series_si">Series III. Posters</field>
+     <field name="heading_ssm">Series III. Posters</field>

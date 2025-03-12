@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_035</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Workingmen's Co-operative Publishing Association Records</field>
+-    <field name="collection_ssm">Workingmen's Co-operative Publishing Association Records</field>
++    <field name="collection_sim">Workingmen&#39;s Co-operative Publishing Association Records</field>
++    <field name="collection_ssm">Workingmen&#39;s Co-operative Publishing Association Records</field>
+     <field name="collection_unitid_ssm">TAM.035</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Correspondence (Part 2), Printed Matter, Miscellaneous, Constitution and Membership Lists</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+-    <field name="collection_teim">Workingmen's Co-operative Publishing Association Records</field>
++    <field name="collection_teim">Workingmen&#39;s Co-operative Publishing Association Records</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.035</field>
+     <field name="series_si">Correspondence (Part 2), Printed Matter, Miscellaneous, Constitution and Membership Lists</field>
+     <field name="heading_ssm">Correspondence (Part 2), Printed Matter, Miscellaneous, Constitution and Membership Lists</field>

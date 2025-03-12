@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+     <field name="unitdate_inclusive_teim">1996 September 25</field>
+-    <field name="scopecontent_teim">This video features footage of still images of Fidel Castro and Alfredo "Chino" Esquivel. The images feature contemporary photographs of the two men shaking hands and greeting each other, and older photos of Castro and Esquivel as young men with their classmates from the University of Havana. This video does not contain any audio.</field>
++    <field name="scopecontent_teim">This video features footage of still images of Fidel Castro and Alfredo &#34;Chino&#34; Esquivel. The images feature contemporary photographs of the two men shaking hands and greeting each other, and older photos of Castro and Esquivel as young men with their classmates from the University of Havana. This video does not contain any audio.</field>
+     <field name="phystech_teim">Original Format: Betacam. Duration: 00:20:36.</field>
+     <field name="dao_teim">Esquivel, Chino: Photographs: 1996 September 25</field>
+     <field name="dao_ssm">Esquivel, Chino: Photographs: 1996 September 25</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 97, DVD: ref28</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Esquivel, Chino: Photographs</field>

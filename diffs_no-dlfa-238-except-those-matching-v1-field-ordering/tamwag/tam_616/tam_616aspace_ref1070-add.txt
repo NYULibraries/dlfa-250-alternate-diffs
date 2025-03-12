@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">2001/2001</field>
+     <field name="unitdate_normal_sim">2001/2001</field>
+     <field name="unitdate_inclusive_teim">2001 January 25</field>
+-    <field name="scopecontent_teim">This video features clips of Fidel Castro at several public events filmed around the year 2000. The majority of the clips feature rallies and town meetings in Cuba calling for the return of Elian González. Castro does not speak in any of the clips, but can be seen greeting crowds. In one section he speaks to González's father Juan Miguel González Quintana, but cannot be heard due to poor audio quality. Other clips feature Castro touring a Cuban medical school with American reporter Andrea Mitchell, and clips included at the end of the tape feature Castro greeting crowds during his travels to other countries.</field>
++    <field name="scopecontent_teim">This video features clips of Fidel Castro at several public events filmed around the year 2000. The majority of the clips feature rallies and town meetings in Cuba calling for the return of Elian González. Castro does not speak in any of the clips, but can be seen greeting crowds. In one section he speaks to González&#39;s father Juan Miguel González Quintana, but cannot be heard due to poor audio quality. Other clips feature Castro touring a Cuban medical school with American reporter Andrea Mitchell, and clips included at the end of the tape feature Castro greeting crowds during his travels to other countries.</field>
+     <field name="phystech_teim">Original Format: Betacam. Duration: 00:32:12.</field>
+     <field name="dao_teim">Castro, Fidel: Footage, Public Events: 2001 January 25</field>
+     <field name="dao_ssm">Castro, Fidel: Footage, Public Events: 2001 January 25</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 96, DVD: ref1070</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Castro, Fidel: Footage, Public Events</field>

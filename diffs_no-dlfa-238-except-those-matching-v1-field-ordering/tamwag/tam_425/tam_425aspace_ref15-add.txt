@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Rand School Archives Collection on Upton Sinclair</field>
+     <field name="collection_unitid_ssm">TAM.425</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tamiment Institute Library Bulletin No. 17 ("Upton Sinclair's 80th Birthday": leading article)</field>
+-    <field name="unittitle_teim">Tamiment Institute Library Bulletin No. 17 ("Upton Sinclair's 80th Birthday": leading article)</field>
++    <field name="unittitle_ssm">Tamiment Institute Library Bulletin No. 17 (&#34;Upton Sinclair&#39;s 80th Birthday&#34;: leading article)</field>
++    <field name="unittitle_teim">Tamiment Institute Library Bulletin No. 17 (&#34;Upton Sinclair&#39;s 80th Birthday&#34;: leading article)</field>
+     <field name="unitdate_normal_ssm">1958/1958</field>
+     <field name="unitdate_normal_teim">1958/1958</field>
+     <field name="unitdate_normal_sim">1958/1958</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">Rand School Archives Collection on Upton Sinclair</field>
++    <field name="author_teim">Peter Meyer Filardo</field>
+     <field name="collection_unitid_teim">TAM.425</field>
+     <field name="series_sim">Papers</field>
+-    <field name="series_si">Papers &gt;&gt; Tamiment Institute Library Bulletin No. 17 ("Upton Sinclair's 80th Birthday": leading article)</field>
+-    <field name="heading_ssm">Tamiment Institute Library Bulletin No. 17 ("Upton Sinclair's 80th Birthday": leading article)</field>
++    <field name="series_si">Papers &gt;&gt; Tamiment Institute Library Bulletin No. 17 (&#34;Upton Sinclair&#39;s 80th Birthday&#34;: leading article)</field>
++    <field name="heading_ssm">Tamiment Institute Library Bulletin No. 17 (&#34;Upton Sinclair&#39;s 80th Birthday&#34;: leading article)</field>
+     <field name="unitdate_start_sim">1958</field>
+     <field name="unitdate_start_ssm">1958</field>
+     <field name="unitdate_start_si">1958</field>

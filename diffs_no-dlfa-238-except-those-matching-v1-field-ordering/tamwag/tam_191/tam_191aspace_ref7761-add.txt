@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">National Lawyers Guild Records</field>
+     <field name="collection_unitid_ssm">TAM.191</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Retainers: "100" Authorizations [I]</field>
+-    <field name="unittitle_teim">Retainers: "100" Authorizations [I]</field>
++    <field name="unittitle_ssm">Retainers: &#34;100&#34; Authorizations [I]</field>
++    <field name="unittitle_teim">Retainers: &#34;100&#34; Authorizations [I]</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/211665</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/211665</field>
+     <field name="unitdate_normal_ssm">1977/1980</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 293, Folder: 5</field>
+     <field name="location_si">Box: 293, Folder: 5</field>
+     <field name="collection_teim">National Lawyers Guild Records</field>
++    <field name="author_teim">Part I - Keri A. Myers, 2004; Part II - Jan Hilley, 2006-2007. </field>
+     <field name="collection_unitid_teim">TAM.191</field>
+     <field name="series_sim">Part 2, Series XII: NLG v. AG - Administrative Material</field>
+-    <field name="series_si">Part 2, Series XII: NLG v. AG - Administrative Material &gt;&gt; Retainers: "100" Authorizations [I]</field>
+-    <field name="heading_ssm">Retainers: "100" Authorizations [I]</field>
++    <field name="series_si">Part 2, Series XII: NLG v. AG - Administrative Material &gt;&gt; Retainers: &#34;100&#34; Authorizations [I]</field>
++    <field name="heading_ssm">Retainers: &#34;100&#34; Authorizations [I]</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

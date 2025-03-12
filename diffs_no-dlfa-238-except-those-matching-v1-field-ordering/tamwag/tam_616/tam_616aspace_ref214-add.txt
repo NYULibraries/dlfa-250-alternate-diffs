@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1992/1992</field>
+     <field name="unitdate_normal_sim">1992/1992</field>
+     <field name="unitdate_inclusive_teim">1992 November 30</field>
+-    <field name="bioghist_teim">Robert Alan Pastor (1947-2014) was a member of the National Security Council Staff during the Carter administration. Responsible for US policy toward Latin America and the Caribbean, Pastor participated in the Carter administration's efforts to improve relations with Cuba.</field>
++    <field name="bioghist_teim">Robert Alan Pastor (1947-2014) was a member of the National Security Council Staff during the Carter administration. Responsible for US policy toward Latin America and the Caribbean, Pastor participated in the Carter administration&#39;s efforts to improve relations with Cuba.</field>
+     <field name="phystech_teim">Original Format: Betacam. Recording is divided into 2 access DVDs. Duration: Part 1 - 00:16:56; Part 2 - 00:01:40.</field>
+     <field name="dao_teim">Pastor, Bob: Interview at the Carter Center : Nov 30, 1992</field>
+     <field name="dao_ssm">Pastor, Bob: Interview at the Carter Center : Nov 30, 1992</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 77, DVD: ref214</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Pastor, Bob: Interview at the Carter Center</field>

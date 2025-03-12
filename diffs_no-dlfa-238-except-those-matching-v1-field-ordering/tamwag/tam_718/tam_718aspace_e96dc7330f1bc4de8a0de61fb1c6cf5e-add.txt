@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Beyond the Pale Records</field>
+     <field name="collection_unitid_ssm">TAM.718</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hanon Reznikov reading from Vasily Grossman's &lt;em&gt;A Writer at War&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Hanon Reznikov reading from Vasily Grossman's A Writer at War</field>
++    <field name="unittitle_ssm">Hanon Reznikov reading from Vasily Grossman&#39;s &lt;em&gt;A Writer at War&lt;/em&gt;</field>
++    <field name="unittitle_teim">Hanon Reznikov reading from Vasily Grossman&#39;s A Writer at War</field>
+     <field name="unitid_teim">cuid35586</field>
+     <field name="unitid_ssm">cuid35586</field>
+     <field name="unitdate_normal_ssm">2006-10-15/2006-10-15</field>
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">2006-10-15/2006-10-15</field>
+     <field name="unitdate_normal_sim">2006-10-15/2006-10-15</field>
+     <field name="unitdate_teim">2006-10-15</field>
+-    <field name="dao_teim">Hanon Reznikov reading from Vasily Grossman's A Writer at War: 2006-10-15-</field>
+-    <field name="dao_ssm">Hanon Reznikov reading from Vasily Grossman's A Writer at War: 2006-10-15-</field>
++    <field name="dao_teim">Hanon Reznikov reading from Vasily Grossman&#39;s A Writer at War: 2006-10-15-</field>
++    <field name="dao_ssm">Hanon Reznikov reading from Vasily Grossman&#39;s A Writer at War: 2006-10-15-</field>
+     <field name="ref_ssi">aspace_e96dc7330f1bc4de8a0de61fb1c6cf5e</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,9 +29,10 @@
+     <field name="location_si">Box: Electronic Records, E-records: TW_TAM_718_ER_55</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Beyond the Pale Records</field>
++    <field name="author_teim">Heather Mulliner, Amy C. Vo</field>
+     <field name="collection_unitid_teim">TAM.718</field>
+-    <field name="series_si">Hanon Reznikov reading from Vasily Grossman's &lt;em&gt;A Writer at War&lt;/em&gt;</field>
+-    <field name="heading_ssm">Hanon Reznikov reading from Vasily Grossman's A Writer at War</field>
++    <field name="series_si">Hanon Reznikov reading from Vasily Grossman&#39;s &lt;em&gt;A Writer at War&lt;/em&gt;</field>
++    <field name="heading_ssm">Hanon Reznikov reading from Vasily Grossman&#39;s A Writer at War</field>
+     <field name="unitdate_ssm">2006-10-15</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">975</field>

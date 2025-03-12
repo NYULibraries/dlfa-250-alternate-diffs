@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_161</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Dorothy O. Helly Research Files for Livingstone's Legacy: Horace Waller and Victorian Mythmaking</field>
+-    <field name="collection_ssm">Dorothy O. Helly Research Files for Livingstone's Legacy: Horace Waller and Victorian Mythmaking</field>
++    <field name="collection_sim">Dorothy O. Helly Research Files for Livingstone&#39;s Legacy: Horace Waller and Victorian Mythmaking</field>
++    <field name="collection_ssm">Dorothy O. Helly Research Files for Livingstone&#39;s Legacy: Horace Waller and Victorian Mythmaking</field>
+     <field name="collection_unitid_ssm">TAM.161</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Inventory</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">tamwag</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Dorothy O. Helly Research Files for Livingstone's Legacy: Horace Waller and Victorian Mythmaking</field>
++    <field name="collection_teim">Dorothy O. Helly Research Files for Livingstone&#39;s Legacy: Horace Waller and Victorian Mythmaking</field>
++    <field name="author_teim">Michael V. D&#39;Ambrosio and Daniel Michelson, Jun 2011</field>
+     <field name="collection_unitid_teim">TAM.161</field>
+     <field name="series_si">Inventory</field>
+     <field name="heading_ssm">Inventory</field>

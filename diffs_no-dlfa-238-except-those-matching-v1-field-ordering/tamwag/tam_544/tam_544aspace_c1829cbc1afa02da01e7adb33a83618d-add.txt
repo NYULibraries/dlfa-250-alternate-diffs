@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid15038</field>
+     <field name="unitid_ssm">cuid15038</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Format: 1/8" audiocassette, Duration: 63 min. [A] and 46 min. [B]</field>
++    <field name="phystech_teim">Format: 1/8&#34; audiocassette, Duration: 63 min. [A] and 46 min. [B]</field>
+     <field name="ref_ssi">aspace_c1829cbc1afa02da01e7adb33a83618d</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: cuid15038A, cuid15038B</field>
+     <field name="location_si">Box: Digitized Access Files, file: cuid15038A, cuid15038B</field>
+     <field name="collection_teim">Richard Moser Collection on the GI Anti-Vietnam War Movement and Lordstown (Ohio) Automobile Workers</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.544</field>
+     <field name="series_sim">Vietnam GI movement Oral Histories</field>
+     <field name="series_si">Vietnam GI movement Oral Histories &gt;&gt; Jan Berry</field>

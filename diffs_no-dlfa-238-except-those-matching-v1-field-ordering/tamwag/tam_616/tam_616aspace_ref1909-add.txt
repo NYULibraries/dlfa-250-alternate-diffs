@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2000/2000</field>
+     <field name="unitdate_normal_sim">2000/2000</field>
+     <field name="unitdate_inclusive_teim">2000</field>
+-    <field name="scopecontent_teim">This 38-minute film documents a trip to Havana  associated with Camp Kinderland, a progressive Jewish camp in Tolland, Massachusetts. It features over 100 American citizens between the ages of 16 and 80. In the film camp members tour schools, a cigar factory, synagogues, and Cuba's monument to the Rosenbergs near Revolution Square.</field>
++    <field name="scopecontent_teim">This 38-minute film documents a trip to Havana  associated with Camp Kinderland, a progressive Jewish camp in Tolland, Massachusetts. It features over 100 American citizens between the ages of 16 and 80. In the film camp members tour schools, a cigar factory, synagogues, and Cuba&#39;s monument to the Rosenbergs near Revolution Square.</field>
+     <field name="ref_ssi">aspace_ref1909</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_si">Series II: &lt;em&gt;Camp Kinderland in Havana&lt;/em&gt;</field>
+     <field name="heading_ssm">Series II: Camp Kinderland in Havana</field>

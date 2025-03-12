@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1910/1983</field>
+     <field name="unitdate_normal_sim">1910/1983</field>
+     <field name="unitdate_inclusive_teim">1910-1983</field>
+-    <field name="scopecontent_teim">Series II is primarily Falkowski's correspondence with his family, especially his wife and siblings. Prominent correspondents include Joseph North, Jack Conroy, Louis Adamic, and Elizabeth Gurely Flynn.</field>
++    <field name="scopecontent_teim">Series II is primarily Falkowski&#39;s correspondence with his family, especially his wife and siblings. Prominent correspondents include Joseph North, Jack Conroy, Louis Adamic, and Elizabeth Gurely Flynn.</field>
+     <field name="ref_ssi">aspace_ref46</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edward J. Falkowski Papers</field>
++    <field name="author_teim">Tamiment staff</field>
+     <field name="collection_unitid_teim">TAM.120</field>
+     <field name="series_si">Series II: Correspondence</field>
+     <field name="heading_ssm">Series II: Correspondence</field>

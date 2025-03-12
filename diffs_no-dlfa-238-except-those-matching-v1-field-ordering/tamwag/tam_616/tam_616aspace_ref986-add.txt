@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+     <field name="unitdate_inclusive_teim">1996 September 24</field>
+-    <field name="bioghist_teim">Victor Rabinowitz (1911-2007) was a prominent American lawyer who was asked by the Cuban government in 1960 to represent Cuba in legal cases in the United States. In 1964, he won the Sabbatino case in the United States Supreme Court, which upheld Cuba's sovereign right to nationalize American companies in Cuba.</field>
++    <field name="bioghist_teim">Victor Rabinowitz (1911-2007) was a prominent American lawyer who was asked by the Cuban government in 1960 to represent Cuba in legal cases in the United States. In 1964, he won the Sabbatino case in the United States Supreme Court, which upheld Cuba&#39;s sovereign right to nationalize American companies in Cuba.</field>
+     <field name="dao_teim">Rabinowitz, Victor: Interview : Sep 24, 1996</field>
+     <field name="dao_ssm">Rabinowitz, Victor: Interview : Sep 24, 1996</field>
+     <field name="ref_ssi">aspace_ref986</field>
+@@ -36,6 +36,7 @@
+     <field name="location_si">Box: 86, DVD: ref986</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Heather Mulliner.</field>
+     <field name="collection_unitid_teim">TAM.616</field>
+     <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+     <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Rabinowitz, Victor: Interview</field>

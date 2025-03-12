@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frederic Ewen Papers</field>
+     <field name="collection_unitid_ssm">TAM.277</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Nihilists&lt;/em&gt; by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski's &lt;em&gt;The Possessed&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The Nihilists by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski's The Possessed</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Nihilists&lt;/em&gt; by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski&#39;s &lt;em&gt;The Possessed&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Nihilists by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski&#39;s The Possessed</field>
+     <field name="unitdate_normal_ssm">1970/1970</field>
+     <field name="unitdate_normal_teim">1970/1970</field>
+     <field name="unitdate_normal_sim">1970/1970</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 3, Folder: 21</field>
+     <field name="location_si">Box: 3, Folder: 21</field>
+     <field name="collection_teim">Frederic Ewen Papers</field>
++    <field name="author_teim">Keri A. Myers (2003)</field>
+     <field name="collection_unitid_teim">TAM.277</field>
+     <field name="series_sim">Series III: Scripts</field>
+-    <field name="series_si">Series III: Scripts &gt;&gt; &lt;em&gt;The Nihilists&lt;/em&gt; by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski's &lt;em&gt;The Possessed&lt;/em&gt;</field>
+-    <field name="heading_ssm">The Nihilists by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski's The Possessed</field>
++    <field name="series_si">Series III: Scripts &gt;&gt; &lt;em&gt;The Nihilists&lt;/em&gt; by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski&#39;s &lt;em&gt;The Possessed&lt;/em&gt;</field>
++    <field name="heading_ssm">The Nihilists by Frederic Ewen and John Randolph adapted from Fyodor Dostoyevski&#39;s The Possessed</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>
+     <field name="unitdate_start_si">1970</field>

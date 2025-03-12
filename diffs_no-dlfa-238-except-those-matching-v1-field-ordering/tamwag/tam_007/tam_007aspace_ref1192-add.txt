@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Rand School of Social Science Records</field>
+     <field name="collection_unitid_ssm">TAM.007</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Kobbe, Herman, "Solving the Housing Problem With Special Application to New York State", 21pp.</field>
+-    <field name="unittitle_teim">Kobbe, Herman, "Solving the Housing Problem With Special Application to New York State", 21pp.</field>
++    <field name="unittitle_ssm">Kobbe, Herman, &#34;Solving the Housing Problem With Special Application to New York State&#34;, 21pp.</field>
++    <field name="unittitle_teim">Kobbe, Herman, &#34;Solving the Housing Problem With Special Application to New York State&#34;, 21pp.</field>
+     <field name="unitdate_normal_ssm">1931/1931</field>
+     <field name="unitdate_normal_teim">1931/1931</field>
+     <field name="unitdate_normal_sim">1931/1931</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 41, Folder: 4</field>
+     <field name="location_si">Box: 41, Folder: 4</field>
+     <field name="collection_teim">Rand School of Social Science Records</field>
++    <field name="author_teim">Tamiment Staff</field>
+     <field name="collection_unitid_teim">TAM.007</field>
+     <field name="series_sim">Series III: Course Records</field>
+     <field name="series_sim">Subseries IIID: Manuscripts</field>
+-    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Kobbe, Herman, "Solving the Housing Problem With Special Application to New York State", 21pp.</field>
+-    <field name="heading_ssm">Kobbe, Herman, "Solving the Housing Problem With Special Application to New York State", 21pp.</field>
++    <field name="series_si">Series III: Course Records &gt;&gt; Subseries IIID: Manuscripts &gt;&gt; Kobbe, Herman, &#34;Solving the Housing Problem With Special Application to New York State&#34;, 21pp.</field>
++    <field name="heading_ssm">Kobbe, Herman, &#34;Solving the Housing Problem With Special Application to New York State&#34;, 21pp.</field>
+     <field name="unitdate_start_sim">1931</field>
+     <field name="unitdate_start_ssm">1931</field>
+     <field name="unitdate_start_si">1931</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Victor S. Navasky Papers</field>
+     <field name="collection_unitid_ssm">TAM.594</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Clearance/ "Rehabilitation" material</field>
+-    <field name="unittitle_teim">Clearance/ "Rehabilitation" material</field>
++    <field name="unittitle_ssm">Clearance/ &#34;Rehabilitation&#34; material</field>
++    <field name="unittitle_teim">Clearance/ &#34;Rehabilitation&#34; material</field>
+     <field name="unitdate_normal_ssm">1952/1960</field>
+     <field name="unitdate_normal_teim">1952/1960</field>
+     <field name="unitdate_normal_sim">1952/1960</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 20, Folder: 22</field>
+     <field name="location_si">Box: 20, Folder: 22</field>
+     <field name="collection_teim">Victor S. Navasky Papers</field>
++    <field name="author_teim">Jan Hilley, with the assistance of Mary Corcoran, Heather Mulliner, and Giana Ricci</field>
+     <field name="collection_unitid_teim">TAM.594</field>
+     <field name="series_sim">Series IV: The Hollywood Blacklist and Naming Names</field>
+     <field name="series_sim">Subseries IVA:  Research and Related Materials</field>
+-    <field name="series_si">Series IV: The Hollywood Blacklist and Naming Names &gt;&gt; Subseries IVA:  Research and Related Materials &gt;&gt; Clearance/ "Rehabilitation" material</field>
+-    <field name="heading_ssm">Clearance/ "Rehabilitation" material</field>
++    <field name="series_si">Series IV: The Hollywood Blacklist and Naming Names &gt;&gt; Subseries IVA:  Research and Related Materials &gt;&gt; Clearance/ &#34;Rehabilitation&#34; material</field>
++    <field name="heading_ssm">Clearance/ &#34;Rehabilitation&#34; material</field>
+     <field name="unitdate_start_sim">1952</field>
+     <field name="unitdate_start_ssm">1952</field>
+     <field name="unitdate_start_si">1952</field>

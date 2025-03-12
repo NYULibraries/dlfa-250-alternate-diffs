@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Beyond the Pale Records</field>
+     <field name="collection_unitid_ssm">TAM.718</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">COJO Investigations and JTS Tenants' Struggle [1996-012]</field>
+-    <field name="unittitle_teim">COJO Investigations and JTS Tenants' Struggle [1996-012]</field>
++    <field name="unittitle_ssm">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]</field>
++    <field name="unittitle_teim">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]</field>
+     <field name="unitid_teim">cuid33775</field>
+     <field name="unitid_ssm">cuid33775</field>
+     <field name="unitdate_normal_ssm">1996-12-15/1996-12-15</field>
+@@ -18,8 +18,8 @@
+     <field name="unitdate_normal_sim">1996-12-15/1996-12-15</field>
+     <field name="unitdate_inclusive_teim">1996-12-15</field>
+     <field name="phystech_teim">Duration: 1:02:13, Preservation Note: Dropouts During Program; Program Distorted at Times</field>
+-    <field name="dao_teim">COJO Investigations and JTS Tenants' Struggle [1996-012]: 1996-12-15</field>
+-    <field name="dao_ssm">COJO Investigations and JTS Tenants' Struggle [1996-012]: 1996-12-15</field>
++    <field name="dao_teim">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]: 1996-12-15</field>
++    <field name="dao_ssm">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]: 1996-12-15</field>
+     <field name="ref_ssi">aspace_dc5dbca7959d7268fa695a915510fdeb</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -30,9 +30,10 @@
+     <field name="location_si">Box: 2, audiocassette: 718_0062</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Beyond the Pale Records</field>
++    <field name="author_teim">Heather Mulliner, Amy C. Vo</field>
+     <field name="collection_unitid_teim">TAM.718</field>
+-    <field name="series_si">COJO Investigations and JTS Tenants' Struggle [1996-012]</field>
+-    <field name="heading_ssm">COJO Investigations and JTS Tenants' Struggle [1996-012]</field>
++    <field name="series_si">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]</field>
++    <field name="heading_ssm">COJO Investigations and JTS Tenants&#39; Struggle [1996-012]</field>
+     <field name="unitdate_ssm">Inclusive, 1996-12-15</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">99</field>

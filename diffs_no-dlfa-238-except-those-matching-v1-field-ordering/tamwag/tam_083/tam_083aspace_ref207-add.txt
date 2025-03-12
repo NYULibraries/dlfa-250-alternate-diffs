@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Jay and Si-Lan Chen Leyda Papers</field>
+     <field name="collection_unitid_ssm">TAM.083</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Masses &amp;amp; Mainstream"</field>
+-    <field name="unittitle_teim">"Masses &amp; Mainstream"</field>
++    <field name="unittitle_ssm">&#34;Masses &amp; Mainstream&#34;</field>
++    <field name="unittitle_teim">&#34;Masses &amp; Mainstream&#34;</field>
+     <field name="unitdate_normal_ssm">1948/1948</field>
+     <field name="unitdate_normal_teim">1948/1948</field>
+     <field name="unitdate_normal_sim">1948/1948</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">Box: 6, Folder: 11</field>
+     <field name="location_si">Box: 6, Folder: 11</field>
+     <field name="collection_teim">Jay and Si-Lan Chen Leyda Papers</field>
++    <field name="author_teim">Peter Filardo and Katja Vehlow</field>
+     <field name="collection_unitid_teim">TAM.083</field>
+     <field name="series_sim">Series I: Jay Leyda Papers</field>
+     <field name="series_sim">Subseries B: Correspondence</field>
+     <field name="series_sim">Sub-subseries 1: Alphabetical</field>
+-    <field name="series_si">Series I: Jay Leyda Papers &gt;&gt; Subseries B: Correspondence &gt;&gt; Sub-subseries 1: Alphabetical &gt;&gt; "Masses &amp;amp; Mainstream"</field>
+-    <field name="heading_ssm">"Masses &amp; Mainstream"</field>
++    <field name="series_si">Series I: Jay Leyda Papers &gt;&gt; Subseries B: Correspondence &gt;&gt; Sub-subseries 1: Alphabetical &gt;&gt; &#34;Masses &amp; Mainstream&#34;</field>
++    <field name="heading_ssm">&#34;Masses &amp; Mainstream&#34;</field>
+     <field name="unitdate_start_sim">1948</field>
+     <field name="unitdate_start_ssm">1948</field>
+     <field name="unitdate_start_si">1948</field>

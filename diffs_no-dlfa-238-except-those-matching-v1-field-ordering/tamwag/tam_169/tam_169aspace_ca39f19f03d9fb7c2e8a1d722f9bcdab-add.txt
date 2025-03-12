@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_teim">1989</field>
+-    <field name="scopecontent_teim">Includes Pre-Conf Discussion and "T+P Tom"</field>
++    <field name="scopecontent_teim">Includes Pre-Conf Discussion and &#34;T+P Tom&#34;</field>
+     <field name="ref_ssi">aspace_ca39f19f03d9fb7c2e8a1d722f9bcdab</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 72, audiocassette: 169_0172</field>
+     <field name="location_si">Box: 72, audiocassette: 169_0172</field>
+     <field name="collection_teim">George Breitman Papers</field>
++    <field name="author_teim">Ellen Kastel, Katja Vehlow, Peter Filardo, 2001. </field>
+     <field name="collection_unitid_teim">TAM.169</field>
+     <field name="series_sim">Series III. Political Organizations and Activities</field>
+     <field name="series_sim">Subseries B: Other Organizations</field>

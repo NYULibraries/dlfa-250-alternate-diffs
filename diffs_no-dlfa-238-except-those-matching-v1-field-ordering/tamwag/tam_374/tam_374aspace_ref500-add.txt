@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">2006/2007</field>
+     <field name="unitdate_normal_sim">2006/2007</field>
+     <field name="unitdate_inclusive_teim">2006-2007</field>
+-    <field name="scopecontent_teim">This series is mostly comprised of material relating to Muriel Goldring's illness, death and estate.</field>
++    <field name="scopecontent_teim">This series is mostly comprised of material relating to Muriel Goldring&#39;s illness, death and estate.</field>
+     <field name="ref_ssi">aspace_ref500</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 18</field>
+     <field name="location_si">Box: 18</field>
+     <field name="collection_teim">Benjamin and Muriel Goldring Papers and Photographs</field>
++    <field name="author_teim">Jennifer Pondo, Daniel Michelson, and Gail Malmgreen, 2009-2010</field>
+     <field name="collection_unitid_teim">TAM.374</field>
+     <field name="series_si">Series VII: Estate-Related Material
+ </field>

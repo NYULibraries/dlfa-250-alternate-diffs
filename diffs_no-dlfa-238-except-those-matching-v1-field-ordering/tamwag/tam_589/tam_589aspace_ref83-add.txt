@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,9 +13,9 @@
+     <field name="collection_ssm">Center for Constitutional Rights Records</field>
+     <field name="collection_unitid_ssm">TAM.589</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">#293 – US Servicemen's Fund v. James Eastland, et al
+-</field>
+-    <field name="unittitle_teim">#293 – US Servicemen's Fund v. James Eastland, et al
++    <field name="unittitle_ssm">#293 – US Servicemen&#39;s Fund v. James Eastland, et al
++</field>
++    <field name="unittitle_teim">#293 – US Servicemen&#39;s Fund v. James Eastland, et al
+ </field>
+     <field name="unitdate_normal_ssm">1970/1970</field>
+     <field name="unitdate_normal_teim">1970/1970</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 80</field>
+     <field name="location_si">Box: 80</field>
+     <field name="collection_teim">Center for Constitutional Rights Records</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">TAM.589</field>
+     <field name="series_sim">New York Public Library Schomburg Accession</field>
+-    <field name="series_si">New York Public Library Schomburg Accession &gt;&gt; #293 – US Servicemen's Fund v. James Eastland, et al
+-</field>
+-    <field name="heading_ssm">#293 – US Servicemen's Fund v. James Eastland, et al
++    <field name="series_si">New York Public Library Schomburg Accession &gt;&gt; #293 – US Servicemen&#39;s Fund v. James Eastland, et al
++</field>
++    <field name="heading_ssm">#293 – US Servicemen&#39;s Fund v. James Eastland, et al
+ </field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>

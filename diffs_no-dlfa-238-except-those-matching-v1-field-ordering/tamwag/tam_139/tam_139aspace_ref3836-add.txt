@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwich House Records</field>
+     <field name="collection_unitid_ssm">TAM.139</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Sub-subseries 36: Jones Street Boys' Club</field>
+-    <field name="unittitle_teim">Sub-subseries 36: Jones Street Boys' Club</field>
++    <field name="unittitle_ssm">Sub-subseries 36: Jones Street Boys&#39; Club</field>
++    <field name="unittitle_teim">Sub-subseries 36: Jones Street Boys&#39; Club</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/189975</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/189975</field>
+     <field name="ref_ssi">aspace_ref3836</field>
+@@ -27,11 +27,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Greenwich House Records</field>
++    <field name="author_teim">Alan Ginsberg, Stephanie Muntone and Peter Filardo (2009); Finding aid revised by to reflect portions of collection not microfilmed (2009)</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series III: Programs</field>
+     <field name="series_sim">Subseries A: Departments and Activities</field>
+-    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 36: Jones Street Boys' Club</field>
+-    <field name="heading_ssm">Sub-subseries 36: Jones Street Boys' Club</field>
++    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 36: Jones Street Boys&#39; Club</field>
++    <field name="heading_ssm">Sub-subseries 36: Jones Street Boys&#39; Club</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1957</field>
+   </doc>

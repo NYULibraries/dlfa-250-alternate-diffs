@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Bureau of Legal Advice Records</field>
+     <field name="collection_unitid_ssm">TAM.044</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Keppel, Fredrick A. 3d Assistant, US Sec'y of War</field>
+-    <field name="unittitle_teim">Keppel, Fredrick A. 3d Assistant, US Sec'y of War</field>
++    <field name="unittitle_ssm">Keppel, Fredrick A. 3d Assistant, US Sec&#39;y of War</field>
++    <field name="unittitle_teim">Keppel, Fredrick A. 3d Assistant, US Sec&#39;y of War</field>
+     <field name="unitdate_normal_ssm">1918/1919</field>
+     <field name="unitdate_normal_teim">1918/1919</field>
+     <field name="unitdate_normal_sim">1918/1919</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">New York Bureau of Legal Advice Records</field>
++    <field name="author_teim">Tamiment staff, 2009; Edited by Rachel Schimke for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials, 2013</field>
+     <field name="collection_unitid_teim">TAM.044</field>
+     <field name="series_sim">Series II: Correspondence Files</field>
+-    <field name="series_si">Series II: Correspondence Files &gt;&gt; Keppel, Fredrick A. 3d Assistant, US Sec'y of War</field>
+-    <field name="heading_ssm">Keppel, Fredrick A. 3d Assistant, US Sec'y of War</field>
++    <field name="series_si">Series II: Correspondence Files &gt;&gt; Keppel, Fredrick A. 3d Assistant, US Sec&#39;y of War</field>
++    <field name="heading_ssm">Keppel, Fredrick A. 3d Assistant, US Sec&#39;y of War</field>
+     <field name="unitdate_start_sim">1918</field>
+     <field name="unitdate_start_ssm">1918</field>
+     <field name="unitdate_start_si">1918</field>

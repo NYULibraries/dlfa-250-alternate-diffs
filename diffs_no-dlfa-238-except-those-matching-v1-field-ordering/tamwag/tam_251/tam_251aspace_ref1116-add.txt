@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Norman Dorsen Papers</field>
+     <field name="collection_unitid_ssm">TAM.251</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"ACLU 1995" (VHS)</field>
+-    <field name="unittitle_teim">"ACLU 1995" (VHS)</field>
++    <field name="unittitle_ssm">&#34;ACLU 1995&#34; (VHS)</field>
++    <field name="unittitle_teim">&#34;ACLU 1995&#34; (VHS)</field>
+     <field name="unitdate_normal_ssm">1995/1995</field>
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 42, Folder: data_value_missing_c052c901f4442b7000f09c6218af3155</field>
+     <field name="location_si">Box: 42, Folder: data_value_missing_c052c901f4442b7000f09c6218af3155</field>
+     <field name="collection_teim">Norman Dorsen Papers</field>
++    <field name="author_teim">Paul Sager</field>
+     <field name="collection_unitid_teim">TAM.251</field>
+     <field name="series_sim">Series VII: Audio-visual materials.</field>
+-    <field name="series_si">Series VII: Audio-visual materials. &gt;&gt; "ACLU 1995" (VHS)</field>
+-    <field name="heading_ssm">"ACLU 1995" (VHS)</field>
++    <field name="series_si">Series VII: Audio-visual materials. &gt;&gt; &#34;ACLU 1995&#34; (VHS)</field>
++    <field name="heading_ssm">&#34;ACLU 1995&#34; (VHS)</field>
+     <field name="unitdate_start_sim">1995</field>
+     <field name="unitdate_start_ssm">1995</field>
+     <field name="unitdate_start_si">1995</field>
