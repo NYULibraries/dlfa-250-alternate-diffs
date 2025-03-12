@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Antinori, Cora as 'La Moda' in 'Un po' di colore' performed at the Pergola Theatre, Firenze</field>
+-    <field name="unittitle_teim">Antinori, Cora as 'La Moda' in 'Un po' di colore' performed at the Pergola Theatre, Firenze</field>
++    <field name="unittitle_ssm">Antinori, Cora as &#39;La Moda&#39; in &#39;Un po&#39; di colore&#39; performed at the Pergola Theatre, Firenze</field>
++    <field name="unittitle_teim">Antinori, Cora as &#39;La Moda&#39; in &#39;Un po&#39; di colore&#39; performed at the Pergola Theatre, Firenze</field>
+     <field name="unitid_teim">cuid532</field>
+     <field name="unitid_ssm">cuid532</field>
+     <field name="unitdate_normal_ssm">1915/1915</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Photo-Album: 2, Image: 2g.-2n.</field>
+     <field name="location_si">Photo-Album: 2, Image: 2g.-2n.</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries A: Acton, Arthur (AA)</field>
+     <field name="series_sim">4 friends of AA and HMA</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries A: Acton, Arthur (AA) &gt;&gt; 4 friends of AA and HMA &gt;&gt; Antinori, Cora as 'La Moda' in 'Un po' di colore' performed at the Pergola Theatre, Firenze</field>
+-    <field name="heading_ssm">Antinori, Cora as 'La Moda' in 'Un po' di colore' performed at the Pergola Theatre, Firenze</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries A: Acton, Arthur (AA) &gt;&gt; 4 friends of AA and HMA &gt;&gt; Antinori, Cora as &#39;La Moda&#39; in &#39;Un po&#39; di colore&#39; performed at the Pergola Theatre, Firenze</field>
++    <field name="heading_ssm">Antinori, Cora as &#39;La Moda&#39; in &#39;Un po&#39; di colore&#39; performed at the Pergola Theatre, Firenze</field>
+     <field name="unitdate_start_sim">1915</field>
+     <field name="unitdate_start_ssm">1915</field>
+     <field name="unitdate_start_si">1915</field>

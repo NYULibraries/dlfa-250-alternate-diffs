@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">HA by Mme Lo Ch'ang (K'ang T'ung-Pi, now known as Kang Tongbi)</field>
+-    <field name="unittitle_teim">HA by Mme Lo Ch'ang (K'ang T'ung-Pi, now known as Kang Tongbi)</field>
++    <field name="unittitle_ssm">HA by Mme Lo Ch&#39;ang (K&#39;ang T&#39;ung-Pi, now known as Kang Tongbi)</field>
++    <field name="unittitle_teim">HA by Mme Lo Ch&#39;ang (K&#39;ang T&#39;ung-Pi, now known as Kang Tongbi)</field>
+     <field name="unitid_teim">cuid1240</field>
+     <field name="unitid_ssm">cuid1240</field>
+     <field name="unitdate_normal_ssm">1870/1994</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Photo-Album: 8, Image: 100</field>
+     <field name="location_si">Photo-Album: 8, Image: 100</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries C: Acton, Harold (HA)</field>
+     <field name="series_sim">11 Portraits of HA</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 11 Portraits of HA &gt;&gt; HA by Mme Lo Ch'ang (K'ang T'ung-Pi, now known as Kang Tongbi)</field>
+-    <field name="heading_ssm">HA by Mme Lo Ch'ang (K'ang T'ung-Pi, now known as Kang Tongbi)</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 11 Portraits of HA &gt;&gt; HA by Mme Lo Ch&#39;ang (K&#39;ang T&#39;ung-Pi, now known as Kang Tongbi)</field>
++    <field name="heading_ssm">HA by Mme Lo Ch&#39;ang (K&#39;ang T&#39;ung-Pi, now known as Kang Tongbi)</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>
+     <field name="unitdate_start_si">1870</field>

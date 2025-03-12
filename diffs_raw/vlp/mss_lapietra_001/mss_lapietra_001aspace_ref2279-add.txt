@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref2254</field>
+     <field name="parent_unittitles_ssm">Series I: The Actons</field>
+     <field name="parent_unittitles_ssm">Subseries C: Acton, Harold (HA)</field>
+-    <field name="parent_unittitles_ssm">16 HA's funeral, 3 March 1994</field>
++    <field name="parent_unittitles_ssm">16 HA&amp;#39;s funeral, 3 March 1994</field>
+     <field name="parent_unittitles_teim">Series I: The Actons</field>
+     <field name="parent_unittitles_teim">Subseries C: Acton, Harold (HA)</field>
+-    <field name="parent_unittitles_teim">16 HA's funeral, 3 March 1994</field>
++    <field name="parent_unittitles_teim">16 HA&amp;#39;s funeral, 3 March 1994</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Photo-Album: 12, Image: 138</field>
+     <field name="location_si">Photo-Album: 12, Image: 138</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries C: Acton, Harold (HA)</field>
+-    <field name="series_sim">16 HA's funeral, 3 March 1994</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 16 HA's funeral, 3 March 1994 &gt;&gt; The funeral service at the church of San Marco, Firenze</field>
++    <field name="series_sim">16 HA&amp;#39;s funeral, 3 March 1994</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 16 HA&#39;s funeral, 3 March 1994 &gt;&gt; The funeral service at the church of San Marco, Firenze</field>
+     <field name="heading_ssm">The funeral service at the church of San Marco, Firenze</field>
+     <field name="unitdate_start_sim">1994</field>
+     <field name="unitdate_start_ssm">1994</field>

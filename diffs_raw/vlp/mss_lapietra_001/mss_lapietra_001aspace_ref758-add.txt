@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">HMA with Ellen O'Connor on a zeppelin</field>
+-    <field name="unittitle_teim">HMA with Ellen O'Connor on a zeppelin</field>
++    <field name="unittitle_ssm">HMA with Ellen O&#39;Connor on a zeppelin</field>
++    <field name="unittitle_teim">HMA with Ellen O&#39;Connor on a zeppelin</field>
+     <field name="unitid_teim">cuid838</field>
+     <field name="unitid_ssm">cuid838</field>
+     <field name="unitdate_normal_ssm">1912/1912</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Photo-Album: 4, Image: 170</field>
+     <field name="location_si">Photo-Album: 4, Image: 170</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries B: Acton, Hortense née Mitchell (HMA)</field>
+     <field name="series_sim">2 HMA with others</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries B: Acton, Hortense née Mitchell (HMA) &gt;&gt; 2 HMA with others &gt;&gt; HMA with Ellen O'Connor on a zeppelin</field>
+-    <field name="heading_ssm">HMA with Ellen O'Connor on a zeppelin</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries B: Acton, Hortense née Mitchell (HMA) &gt;&gt; 2 HMA with others &gt;&gt; HMA with Ellen O&#39;Connor on a zeppelin</field>
++    <field name="heading_ssm">HMA with Ellen O&#39;Connor on a zeppelin</field>
+     <field name="unitdate_start_sim">1912</field>
+     <field name="unitdate_start_ssm">1912</field>
+     <field name="unitdate_start_si">1912</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">iv. AA's painting activity</field>
+-    <field name="unittitle_teim">iv. AA's painting activity</field>
++    <field name="unittitle_ssm">iv. AA&#39;s painting activity</field>
++    <field name="unittitle_teim">iv. AA&#39;s painting activity</field>
+     <field name="ref_ssi">aspace_ref11596</field>
+     <field name="repository_ssi">vlp</field>
+     <field name="repository_sim">vlp</field>
+@@ -28,12 +28,13 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries A: The Actons</field>
+     <field name="series_sim">1 Acton, Arthur</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA's painting activity</field>
+-    <field name="heading_ssm">iv. AA's painting activity</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA&#39;s painting activity</field>
++    <field name="heading_ssm">iv. AA&#39;s painting activity</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6881</field>
+   </doc>

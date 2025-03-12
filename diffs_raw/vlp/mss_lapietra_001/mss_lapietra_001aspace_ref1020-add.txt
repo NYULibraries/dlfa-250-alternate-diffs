@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">HA on his nurse's lap, 16 November</field>
+-    <field name="unittitle_teim">HA on his nurse's lap, 16 November</field>
++    <field name="unittitle_ssm">HA on his nurse&#39;s lap, 16 November</field>
++    <field name="unittitle_teim">HA on his nurse&#39;s lap, 16 November</field>
+     <field name="unitid_teim">cuid982</field>
+     <field name="unitid_ssm">cuid982</field>
+     <field name="unitdate_normal_ssm">1904/1904</field>
+@@ -36,12 +36,13 @@
+     <field name="location_ssm">Photo-Album: 6, Image: 21-24.</field>
+     <field name="location_si">Photo-Album: 6, Image: 21-24.</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries C: Acton, Harold (HA)</field>
+     <field name="series_sim">1 HA in the 1900s</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 1 HA in the 1900s &gt;&gt; HA on his nurse's lap, 16 November</field>
+-    <field name="heading_ssm">HA on his nurse's lap, 16 November</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries C: Acton, Harold (HA) &gt;&gt; 1 HA in the 1900s &gt;&gt; HA on his nurse&#39;s lap, 16 November</field>
++    <field name="heading_ssm">HA on his nurse&#39;s lap, 16 November</field>
+     <field name="unitdate_start_sim">1904</field>
+     <field name="unitdate_start_ssm">1904</field>
+     <field name="unitdate_start_si">1904</field>

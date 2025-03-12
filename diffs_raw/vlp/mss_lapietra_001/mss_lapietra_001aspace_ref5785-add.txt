@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">The Acton Photograph Archive</field>
+     <field name="collection_unitid_ssm">MSS.LaPietra.001</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Folder 2. Album labelled "2. Collezione Acton"</field>
+-    <field name="unittitle_teim">Folder 2. Album labelled "2. Collezione Acton"</field>
++    <field name="unittitle_ssm">Folder 2. Album labelled &#34;2. Collezione Acton&#34;</field>
++    <field name="unittitle_teim">Folder 2. Album labelled &#34;2. Collezione Acton&#34;</field>
+     <field name="scopecontent_teim">This is one of a series of canvas-bound albums with photographs pasted on to the pages and numbered as follows:</field>
+     <field name="ref_ssi">aspace_ref5785</field>
+     <field name="repository_ssi">vlp</field>
+@@ -29,12 +29,13 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series II: Villa La Pietra</field>
+     <field name="series_sim">Subseries B: The Interior and the Collection</field>
+     <field name="series_sim">5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it.</field>
+-    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; Folder 2. Album labelled "2. Collezione Acton"</field>
+-    <field name="heading_ssm">Folder 2. Album labelled "2. Collezione Acton"</field>
++    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; Folder 2. Album labelled &#34;2. Collezione Acton&#34;</field>
++    <field name="heading_ssm">Folder 2. Album labelled &#34;2. Collezione Acton&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3353</field>
+   </doc>

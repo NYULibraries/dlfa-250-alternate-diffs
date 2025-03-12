@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref2336</field>
+     <field name="parent_unittitles_ssm">Series I: The Actons</field>
+     <field name="parent_unittitles_ssm">Subseries D: Acton, William (WA)</field>
+-    <field name="parent_unittitles_ssm">3 WA's painting activity</field>
++    <field name="parent_unittitles_ssm">3 WA&amp;#39;s painting activity</field>
+     <field name="parent_unittitles_teim">Series I: The Actons</field>
+     <field name="parent_unittitles_teim">Subseries D: Acton, William (WA)</field>
+-    <field name="parent_unittitles_teim">3 WA's painting activity</field>
++    <field name="parent_unittitles_teim">3 WA&amp;#39;s painting activity</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Box: 13, Folder: 97</field>
+     <field name="location_si">Box: 13, Folder: 97</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries D: Acton, William (WA)</field>
+-    <field name="series_sim">3 WA's painting activity</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries D: Acton, William (WA) &gt;&gt; 3 WA's painting activity &gt;&gt; Lady with a guitar [to be used for a portrait by WA]</field>
++    <field name="series_sim">3 WA&amp;#39;s painting activity</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries D: Acton, William (WA) &gt;&gt; 3 WA&#39;s painting activity &gt;&gt; Lady with a guitar [to be used for a portrait by WA]</field>
+     <field name="heading_ssm">Lady with a guitar [to be used for a portrait by WA]</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>

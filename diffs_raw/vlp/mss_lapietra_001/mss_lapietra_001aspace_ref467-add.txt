@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref457</field>
+     <field name="parent_unittitles_ssm">Series I: The Actons</field>
+     <field name="parent_unittitles_ssm">Subseries A: Acton, Arthur (AA)</field>
+-    <field name="parent_unittitles_ssm">6 AA's painting activity (and his studios)</field>
++    <field name="parent_unittitles_ssm">6 AA&amp;#39;s painting activity (and his studios)</field>
+     <field name="parent_unittitles_teim">Series I: The Actons</field>
+     <field name="parent_unittitles_teim">Subseries A: Acton, Arthur (AA)</field>
+-    <field name="parent_unittitles_teim">6 AA's painting activity (and his studios)</field>
++    <field name="parent_unittitles_teim">6 AA&amp;#39;s painting activity (and his studios)</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Photo-Album: 2, Image: 158</field>
+     <field name="location_si">Photo-Album: 2, Image: 158</field>
+     <field name="collection_teim">The Acton Photograph Archive</field>
++    <field name="author_teim">Collection processed by Finding aid prepared by Alta Macadam</field>
+     <field name="collection_unitid_teim">MSS.LaPietra.001</field>
+     <field name="series_sim">Series I: The Actons</field>
+     <field name="series_sim">Subseries A: Acton, Arthur (AA)</field>
+-    <field name="series_sim">6 AA's painting activity (and his studios)</field>
+-    <field name="series_si">Series I: The Actons &gt;&gt; Subseries A: Acton, Arthur (AA) &gt;&gt; 6 AA's painting activity (and his studios) &gt;&gt; Interior</field>
++    <field name="series_sim">6 AA&amp;#39;s painting activity (and his studios)</field>
++    <field name="series_si">Series I: The Actons &gt;&gt; Subseries A: Acton, Arthur (AA) &gt;&gt; 6 AA&#39;s painting activity (and his studios) &gt;&gt; Interior</field>
+     <field name="heading_ssm">Interior</field>
+     <field name="unitdate_start_sim">1890</field>
+     <field name="unitdate_start_ssm">1890</field>
