@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+     <field name="collection_unitid_ssm">FILMS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Our Case for the Forty Hour Work Week&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Our Case for the Forty Hour Work Week
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Our Case for the Forty Hour Work Week&lt;/em&gt;</field>
++    <field name="unittitle_teim">Our Case for the Forty Hour Work Week</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/987998</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/987998</field>
+     <field name="unitdate_normal_ssm">1950/1950</field>
+@@ -28,7 +24,7 @@
+     <field name="unitdate_normal_teim">1950/1950</field>
+     <field name="unitdate_normal_sim">1950/1950</field>
+     <field name="unitdate_teim">1950</field>
+-    <field name="scopecontent_teim">Consists of scenes from demonstrations, meetings, a television program and press conference from the Transport Workers Union's drive to win a forty-hour week for New York City Board of Transportation employees. Narration is provided by printed titles.</field>
++    <field name="scopecontent_teim">Consists of scenes from demonstrations, meetings, a television program and press conference from the Transport Workers Union&#39;s drive to win a forty-hour week for New York City Board of Transportation employees. Narration is provided by printed titles.</field>
+     <field name="ref_ssi">aspace_0c9ddc38555e2643ef1251832c2bcc7c</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,15 +34,12 @@
+     <field name="location_ssm">Film_Canister: c8, 16mm_film_reels: 001_0792</field>
+     <field name="location_si">Film_Canister: c8, 16mm_film_reels: 001_0792</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>
+-    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; 
+-      &lt;em&gt;Our Case for the Forty Hour Work Week&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Our Case for the Forty Hour Work Week
+-    </field>
++    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; &lt;em&gt;Our Case for the Forty Hour Work Week&lt;/em&gt;</field>
++    <field name="heading_ssm">Our Case for the Forty Hour Work Week</field>
+     <field name="unitdate_start_sim">1950</field>
+     <field name="unitdate_start_ssm">1950</field>
+     <field name="unitdate_start_si">1950</field>

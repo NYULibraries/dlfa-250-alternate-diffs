@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">David Loeb Weiss Film Collection</field>
+     <field name="collection_unitid_ssm">FILMS.002</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">LDT-R1 'Traitor' Cannon </field>
+-    <field name="unittitle_teim">LDT-R1 'Traitor' Cannon </field>
++    <field name="unittitle_ssm">LDT-R1 &#39;Traitor&#39; Cannon </field>
++    <field name="unittitle_teim">LDT-R1 &#39;Traitor&#39; Cannon </field>
+     <field name="unitid_teim">cuid209</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/736492</field>
+     <field name="unitid_ssm">cuid209</field>
+@@ -23,9 +23,9 @@
+     <field name="unitdate_normal_teim">1920/1990</field>
+     <field name="unitdate_normal_sim">1920/1990</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="phystech_teim">Duration: 9 min. 22 sec., Color, Silent; Preservation note: "B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code. Slight edgewave; soundtrack is not available."</field>
+-    <field name="dao_teim">LDT-R1 'Traitor' Cannon</field>
+-    <field name="dao_ssm">LDT-R1 'Traitor' Cannon</field>
++    <field name="phystech_teim">Duration: 9 min. 22 sec., Color, Silent; Preservation note: &#34;B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code. Slight edgewave; soundtrack is not available.&#34;</field>
++    <field name="dao_teim">LDT-R1 &#39;Traitor&#39; Cannon</field>
++    <field name="dao_ssm">LDT-R1 &#39;Traitor&#39; Cannon</field>
+     <field name="ref_ssi">aspace_05c6e7ceb967c16a6900cbdfb9fe5459</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,10 +36,11 @@
+     <field name="location_si">Box: 27, 16mm_film_reels: 1</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">David Loeb Weiss Film Collection</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">FILMS.002</field>
+     <field name="series_sim">Series II. Planet Without a Visa</field>
+-    <field name="series_si">Series II. Planet Without a Visa &gt;&gt; LDT-R1 'Traitor' Cannon </field>
+-    <field name="heading_ssm">LDT-R1 'Traitor' Cannon </field>
++    <field name="series_si">Series II. Planet Without a Visa &gt;&gt; LDT-R1 &#39;Traitor&#39; Cannon </field>
++    <field name="heading_ssm">LDT-R1 &#39;Traitor&#39; Cannon </field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>
+     <field name="unitdate_start_si">1920</field>

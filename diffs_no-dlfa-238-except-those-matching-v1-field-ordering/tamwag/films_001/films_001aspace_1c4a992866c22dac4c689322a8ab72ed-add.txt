@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,8 @@
+     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+     <field name="collection_unitid_ssm">FILMS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;United We Are Invincible&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      United We Are Invincible
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;United We Are Invincible&lt;/em&gt;</field>
++    <field name="unittitle_teim">United We Are Invincible</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/988751</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/988751</field>
+     <field name="unitdate_normal_ssm">1941/1941</field>
+@@ -28,7 +24,7 @@
+     <field name="unitdate_normal_teim">1941/1941</field>
+     <field name="unitdate_normal_sim">1941/1941</field>
+     <field name="unitdate_teim">1941</field>
+-    <field name="scopecontent_teim">A documentary telling the story of the Transport Workers Union's successful March 1941 strike against the New York City Omnibus Corporation and Fifth Avenue Coach Company.</field>
++    <field name="scopecontent_teim">A documentary telling the story of the Transport Workers Union&#39;s successful March 1941 strike against the New York City Omnibus Corporation and Fifth Avenue Coach Company.</field>
+     <field name="ref_ssi">aspace_1c4a992866c22dac4c689322a8ab72ed</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -36,15 +32,12 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>
+-    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; 
+-      &lt;em&gt;United We Are Invincible&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      United We Are Invincible
+-    </field>
++    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; &lt;em&gt;United We Are Invincible&lt;/em&gt;</field>
++    <field name="heading_ssm">United We Are Invincible</field>
+     <field name="unitdate_start_sim">1941</field>
+     <field name="unitdate_start_ssm">1941</field>
+     <field name="unitdate_start_si">1941</field>

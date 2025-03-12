@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+     <field name="collection_unitid_ssm">FILMS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Save the 3rd Avenue El" Demonstration</field>
+-    <field name="unittitle_teim">"Save the 3rd Avenue El" Demonstration</field>
++    <field name="unittitle_ssm">&#34;Save the 3rd Avenue El&#34; Demonstration</field>
++    <field name="unittitle_teim">&#34;Save the 3rd Avenue El&#34; Demonstration</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/988103</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/988103</field>
+     <field name="unitdate_normal_ssm">1954/1955</field>
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1954/1955</field>
+     <field name="unitdate_normal_sim">1954/1955</field>
+     <field name="unitdate_inclusive_teim">circa 1954-1955</field>
+-    <field name="scopecontent_teim">Picket line, "Save the 3rd Avenue El" demonstration by Transport Workers Union against destruction of elevated subway line.</field>
++    <field name="scopecontent_teim">Picket line, &#34;Save the 3rd Avenue El&#34; demonstration by Transport Workers Union against destruction of elevated subway line.</field>
+     <field name="ref_ssi">aspace_ace016e3f9b0c30e3aaaa965fa426487</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -35,11 +35,12 @@
+     <field name="location_ssm">Film_Canister: c31, 16mm_film_reels: 001_0820</field>
+     <field name="location_si">Film_Canister: c31, 16mm_film_reels: 001_0820</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
++    <field name="author_teim">Rachel Mahre, Olivija Liepa</field>
+     <field name="collection_unitid_teim">FILMS.001</field>
+     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+     <field name="series_sim">Subseries I.A. Films</field>
+-    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; "Save the 3rd Avenue El" Demonstration</field>
+-    <field name="heading_ssm">"Save the 3rd Avenue El" Demonstration</field>
++    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; &#34;Save the 3rd Avenue El&#34; Demonstration</field>
++    <field name="heading_ssm">&#34;Save the 3rd Avenue El&#34; Demonstration</field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>
