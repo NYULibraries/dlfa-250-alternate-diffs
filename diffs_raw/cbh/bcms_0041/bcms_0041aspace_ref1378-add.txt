@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0041</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Nobody's Bride</field>
+-    <field name="unittitle_teim">Nobody's Bride</field>
++    <field name="unittitle_ssm">Nobody&#39;s Bride</field>
++    <field name="unittitle_teim">Nobody&#39;s Bride</field>
+     <field name="unitdate_teim">May 14, 1923</field>
+     <field name="ref_ssi">aspace_ref1378</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
++    <field name="author_teim">Collection processed by Lisa DeBoer, Lisa Castrogiovanni and Lisa Studier and revised by Diana Bowers-Smith.</field>
+     <field name="collection_unitid_teim">BCMS.0041</field>
+     <field name="series_sim">Park Palace</field>
+-    <field name="series_si">Park Palace &gt;&gt; Nobody's Bride</field>
+-    <field name="heading_ssm">Nobody's Bride</field>
++    <field name="series_si">Park Palace &gt;&gt; Nobody&#39;s Bride</field>
++    <field name="heading_ssm">Nobody&#39;s Bride</field>
+     <field name="unitdate_ssm">May 14, 1923</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">718</field>

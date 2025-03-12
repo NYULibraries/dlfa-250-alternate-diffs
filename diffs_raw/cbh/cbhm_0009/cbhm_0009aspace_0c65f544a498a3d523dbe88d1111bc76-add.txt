@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn College collection</field>
+     <field name="collection_unitid_ssm">CBHM.0009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Community Children's Theatre</field>
+-    <field name="unittitle_teim">Community Children's Theatre</field>
++    <field name="unittitle_ssm">Community Children&#39;s Theatre</field>
++    <field name="unittitle_teim">Community Children&#39;s Theatre</field>
+     <field name="unitdate_normal_ssm">1965/1965</field>
+     <field name="unitdate_normal_teim">1965/1965</field>
+     <field name="unitdate_normal_sim">1965/1965</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 11</field>
+     <field name="location_si">Box: 1, Folder: 11</field>
+     <field name="collection_teim">Brooklyn College collection</field>
++    <field name="author_teim">Dee Bowers</field>
+     <field name="collection_unitid_teim">CBHM.0009</field>
+     <field name="series_sim">Series 1: Documents and ephemera</field>
+-    <field name="series_si">Series 1: Documents and ephemera &gt;&gt; Community Children's Theatre</field>
+-    <field name="heading_ssm">Community Children's Theatre</field>
++    <field name="series_si">Series 1: Documents and ephemera &gt;&gt; Community Children&#39;s Theatre</field>
++    <field name="heading_ssm">Community Children&#39;s Theatre</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

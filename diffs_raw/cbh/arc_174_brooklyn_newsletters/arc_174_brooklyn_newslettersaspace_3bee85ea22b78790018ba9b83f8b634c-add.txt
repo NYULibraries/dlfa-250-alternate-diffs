@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Brooklyn newsletter collection</field>
+     <field name="collection_unitid_ssm">ARC.174</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Luhn's Rugby Bulletin</field>
+-    <field name="unittitle_teim">Luhn's Rugby Bulletin</field>
++    <field name="unittitle_ssm">Luhn&#39;s Rugby Bulletin</field>
++    <field name="unittitle_teim">Luhn&#39;s Rugby Bulletin</field>
+     <field name="unitdate_normal_ssm">1912-04/1912-05</field>
+     <field name="unitdate_normal_teim">1912-04/1912-05</field>
+     <field name="unitdate_normal_sim">1912-04/1912-05</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+-    <field name="series_si">Luhn's Rugby Bulletin</field>
+-    <field name="heading_ssm">Luhn's Rugby Bulletin</field>
++    <field name="series_si">Luhn&#39;s Rugby Bulletin</field>
++    <field name="heading_ssm">Luhn&#39;s Rugby Bulletin</field>
+     <field name="unitdate_ssm">Inclusive, 1912 April-May</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">58</field>

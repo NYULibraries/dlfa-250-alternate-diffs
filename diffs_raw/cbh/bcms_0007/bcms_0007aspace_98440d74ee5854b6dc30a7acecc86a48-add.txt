@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Brooklyn Ephemera Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0007</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Churches: St. Mathew's (Lutheran) [Park Slope]</field>
+-    <field name="unittitle_teim">Churches: St. Mathew's (Lutheran) [Park Slope]</field>
++    <field name="unittitle_ssm">Churches: St. Mathew&#39;s (Lutheran) [Park Slope]</field>
++    <field name="unittitle_teim">Churches: St. Mathew&#39;s (Lutheran) [Park Slope]</field>
+     <field name="ref_ssi">aspace_98440d74ee5854b6dc30a7acecc86a48</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -20,9 +20,10 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Brooklyn Ephemera Collection</field>
++    <field name="author_teim">Brooklyn Collection staff</field>
+     <field name="collection_unitid_teim">BCMS.0007</field>
+-    <field name="series_si">Churches: St. Mathew's (Lutheran) [Park Slope]</field>
+-    <field name="heading_ssm">Churches: St. Mathew's (Lutheran) [Park Slope]</field>
++    <field name="series_si">Churches: St. Mathew&#39;s (Lutheran) [Park Slope]</field>
++    <field name="heading_ssm">Churches: St. Mathew&#39;s (Lutheran) [Park Slope]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">499</field>
+   </doc>

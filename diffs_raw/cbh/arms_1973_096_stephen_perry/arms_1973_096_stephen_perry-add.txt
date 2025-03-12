@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Stephen Perry account book</field>
+     <field name="unitid_teim">1973.095</field>
+     <field name="unitid_ssm">1973.095</field>
+-    <field name="abstract_teim">The Stephen Perry account book lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
+-    <field name="abstract_ssm">The Stephen Perry account book lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
++    <field name="abstract_teim">The Stephen Perry account book lists Dr. Perry&#39;s financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
++    <field name="abstract_ssm">The Stephen Perry account book lists Dr. Perry&#39;s financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
+     <field name="creator_teim">Perry, Stephen</field>
+     <field name="creator_ssm">Perry, Stephen</field>
+     <field name="creator_ssm">Perry, Stephen</field>
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1840/1870</field>
+     <field name="unitdate_bulk_teim">1840-1870</field>
+     <field name="unitdate_inclusive_teim">1840-1884</field>
+-    <field name="scopecontent_teim">The Stephen Perry account book consists of a single volume and spans the period 1840 to 1884. It lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates pasted into the volume. These documents span the period 1880 to 1884 and are signed by Dr. Perry.</field>
++    <field name="scopecontent_teim">The Stephen Perry account book consists of a single volume and spans the period 1840 to 1884. It lists Dr. Perry&#39;s financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates pasted into the volume. These documents span the period 1880 to 1884 and are signed by Dr. Perry.</field>
+     <field name="bioghist_teim">Dr. Stephen Perry was a physician who lived and worked in Northport, Long Island, New York during the mid- and late-nineteenth century.</field>
+     <field name="acqinfo_teim">Gift of William A. Robbins, 1938.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>

@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,12 +16,12 @@
+     <field name="unittitle_ssm">Sub-series 12.5: September 11th Memorial Sing</field>
+     <field name="unittitle_teim">Sub-series 12.5: September 11th Memorial Sing</field>
+     <field name="scopecontent_teim">This sub-series includes artist submission forms and audio, as well as promotional materials, permit information and a final performance list.</field>
+-    <field name="scopecontent_teim">Selected Song List:</field>
++    <field name="scopecontent_teim">Selected Song List: </field>
+     <field name="scopecontent_teim">Cliff Matias, Honor Song</field>
+     <field name="scopecontent_teim">Tom Chelston, Never Forget</field>
+     <field name="scopecontent_teim">Annie Dinerman, Talking with Friends</field>
+     <field name="scopecontent_teim">Alex Schein, Breathe Out</field>
+-    <field name="scopecontent_teim">Jane Byaela, This Tower's Burning</field>
++    <field name="scopecontent_teim">Jane Byaela, This Tower&#39;s Burning</field>
+     <field name="scopecontent_teim">Dave Hall, Two Cities</field>
+     <field name="scopecontent_teim">Papa Dish, The September 11th Song</field>
+     <field name="scopecontent_teim">Michael Hill, Heart of New York</field>
+@@ -29,10 +29,10 @@
+     <field name="scopecontent_teim">Doug Katsaros, Ordinary Hero</field>
+     <field name="scopecontent_teim">Eric Kivnick and Fourth Graders from PS 48, Twin Towers</field>
+     <field name="scopecontent_teim">Jan Bell, No Country</field>
+-    <field name="scopecontent_teim">Brian DeVale, NY's Damn Bravest</field>
++    <field name="scopecontent_teim">Brian DeVale, NY&#39;s Damn Bravest</field>
+     <field name="scopecontent_teim">Roberta Scott, Angel Wings</field>
+-    <field name="scopecontent_teim">Bruce Markow, Let's Be Honest</field>
+-    <field name="scopecontent_teim">Bev Grant, Truth That's Real</field>
++    <field name="scopecontent_teim">Bruce Markow, Let&#39;s Be Honest</field>
++    <field name="scopecontent_teim">Bev Grant, Truth That&#39;s Real</field>
+     <field name="scopecontent_teim">Colin Steel, Brooklyn Bridge</field>
+     <field name="scopecontent_teim">Hilary Hawke, This Country</field>
+     <field name="scopecontent_teim">Wendy Starland, Stolen Love</field>
+@@ -46,6 +46,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Arts Council Folk Arts collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">CBHM.0002</field>
+     <field name="series_sim">Series 12: September 11th Memorial Projects</field>
+     <field name="series_si">Series 12: September 11th Memorial Projects &gt;&gt; Sub-series 12.5: September 11th Memorial Sing</field>

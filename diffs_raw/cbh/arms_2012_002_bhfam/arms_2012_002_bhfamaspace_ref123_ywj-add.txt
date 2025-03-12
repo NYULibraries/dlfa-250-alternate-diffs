@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1892/1976</field>
+     <field name="unitdate_normal_sim">1892/1976</field>
+     <field name="unitdate_inclusive_teim">1892-1976</field>
+-    <field name="scopecontent_teim">The Resident files series contains records related to resident's of the Brooklyn Home for Aged Men, dating from 1892 to 1976. These include applications, assignments, agreements, funeral bills, and other administrative, legal, and financial records. Additional records related to residents are included in the Administrative and financial records series.</field>
++    <field name="scopecontent_teim">The Resident files series contains records related to resident&#39;s of the Brooklyn Home for Aged Men, dating from 1892 to 1976. These include applications, assignments, agreements, funeral bills, and other administrative, legal, and financial records. Additional records related to residents are included in the Administrative and financial records series.</field>
+     <field name="ref_ssi">aspace_ref123_ywj</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Home for Aged Men records</field>
++    <field name="author_teim">John Zarrillo. Digital files processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2012.002</field>
+     <field name="series_si">Series 2: Resident files</field>
+     <field name="heading_ssm">Series 2: Resident files</field>

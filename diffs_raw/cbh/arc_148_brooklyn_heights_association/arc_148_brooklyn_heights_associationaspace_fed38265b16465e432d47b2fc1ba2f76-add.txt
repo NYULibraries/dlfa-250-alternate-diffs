@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1910/1980</field>
+     <field name="unitdate_normal_sim">1910/1980</field>
+     <field name="unitdate_inclusive_teim">circa 1910-1980</field>
+-    <field name="scopecontent_teim">Includes 1959 treasurer's report, 1962 list of commercial members, and results from a survey of the membership.</field>
++    <field name="scopecontent_teim">Includes 1959 treasurer&#39;s report, 1962 list of commercial members, and results from a survey of the membership.</field>
+     <field name="ref_ssi">aspace_fed38265b16465e432d47b2fc1ba2f76</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Brooklyn Heights Association collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.148</field>
+     <field name="series_sim">Series 1: Documents and ephemera</field>
+     <field name="series_si">Series 1: Documents and ephemera &gt;&gt; By-Laws and administrative information</field>

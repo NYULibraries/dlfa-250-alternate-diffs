@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1918/2011</field>
+     <field name="unitdate_normal_sim">1918/2011</field>
+     <field name="unitdate_inclusive_teim">1918-2011</field>
+-    <field name="scopecontent_teim">The series contains a small assortment of personal papers that belonged to Wilson, dating from 1918 to 2011. They include records relating to his wife's family (the Dowells), passports and other licenses, a record of a burglary of his home at 199 Lincoln Road, 84 Ross Street housing records, and papers relating to the Tuskegee Airmen.</field>
++    <field name="scopecontent_teim">The series contains a small assortment of personal papers that belonged to Wilson, dating from 1918 to 2011. They include records relating to his wife&#39;s family (the Dowells), passports and other licenses, a record of a burglary of his home at 199 Lincoln Road, 84 Ross Street housing records, and papers relating to the Tuskegee Airmen.</field>
+     <field name="ref_ssi">aspace_c230d50905c3f17291a6c2c8b72386c9</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Theobald Wilson photographs</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.005</field>
+     <field name="series_si">Series 4: Personal papers</field>
+     <field name="heading_ssm">Series 4: Personal papers</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1985/1998</field>
+     <field name="unitdate_normal_sim">1985/1998</field>
+     <field name="unitdate_inclusive_teim">1985-1998</field>
+-    <field name="scopecontent_teim">Largely focusing on Park Slope and the surrounding neighborhoods, the Park Slope Paper provides local news coverage of business, politics, education, community events, clubs and organizations, arts, culture, sports, and entertainment. Birth announcements, wedding announcements, and obituaries do not appear in the paper. The paper features a weekly events guide, a Brooklyn business page, and a "Wine and Dine" section. Advertisements and obituaries do not appear in the paper.</field>
++    <field name="scopecontent_teim">Largely focusing on Park Slope and the surrounding neighborhoods, the Park Slope Paper provides local news coverage of business, politics, education, community events, clubs and organizations, arts, culture, sports, and entertainment. Birth announcements, wedding announcements, and obituaries do not appear in the paper. The paper features a weekly events guide, a Brooklyn business page, and a &#34;Wine and Dine&#34; section. Advertisements and obituaries do not appear in the paper.</field>
+     <field name="ref_ssi">aspace_ref160</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">bin: 31</field>
+     <field name="location_si">bin: 31</field>
+     <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian; Olivia Morales Geaghan, Archivist; Revised and updated by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0028</field>
+     <field name="series_si">Park Slope Paper</field>
+     <field name="heading_ssm">Park Slope Paper</field>

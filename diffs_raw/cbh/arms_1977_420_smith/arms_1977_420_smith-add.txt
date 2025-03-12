@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1784/1784</field>
+     <field name="unitdate_teim">1784</field>
+     <field name="scopecontent_teim">The last will and testament of Bathsheba Smith of Huntington, Long Island, dated November 9, 1784.</field>
+-    <field name="acqinfo_teim">Source and date of acquisition unknown. Formally accessioned in 1977.</field>
++    <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="genreform_teim">Wills</field>
+@@ -28,9 +28,9 @@
+     <field name="persname_teim">Smith, Bathsheba</field>
+     <field name="persname_ssm">Smith, Bathsheba</field>
+     <field name="persname_ssm">Smith, Bathsheba</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Huntington</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Huntington</field>
+-    <field name="subject_ssm">Decedents' estates -- New York (State) -- Huntington</field>
++    <field name="subject_teim">Decedents&#39; estates -- New York (State) -- Huntington</field>
++    <field name="subject_teim">Decedents&#39; estates -- New York (State) -- Huntington</field>
++    <field name="subject_ssm">Decedents&#39; estates -- New York (State) -- Huntington</field>
+     <field name="collection_sim">Bathsheba Smith will</field>
+     <field name="collection_ssm">Bathsheba Smith will</field>
+     <field name="collection_teim">Bathsheba Smith will</field>
+@@ -46,7 +46,7 @@
+     <field name="name_sim">Smith, Bathsheba</field>
+     <field name="name_teim">Smith, Bathsheba</field>
+     <field name="place_sim">Huntington (N.Y.)</field>
+-    <field name="subject_sim">Decedents' estates -- New York (State) -- Huntington</field>
++    <field name="subject_sim">Decedents&#39; estates -- New York (State) -- Huntington</field>
+     <field name="material_type_sim">Wills</field>
+     <field name="material_type_ssm">Wills</field>
+     <field name="heading_ssm">Bathsheba Smith will</field>

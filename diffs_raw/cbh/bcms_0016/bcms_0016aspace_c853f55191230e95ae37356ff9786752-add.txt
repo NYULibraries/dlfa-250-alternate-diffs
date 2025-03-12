@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">bcms_0016</field>
+     <field name="parent_ssi">aspace_ref35</field>
+     <field name="parent_ssm">aspace_ref35</field>
+-    <field name="parent_unittitles_ssm">Series V: George Beldock v. William O'Dwyer</field>
+-    <field name="parent_unittitles_teim">Series V: George Beldock v. William O'Dwyer</field>
++    <field name="parent_unittitles_ssm">Series V: George Beldock v. William O&amp;#39;Dwyer</field>
++    <field name="parent_unittitles_teim">Series V: George Beldock v. William O&amp;#39;Dwyer</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Burton Turkus Collection</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 2, Folder: 7</field>
+     <field name="location_si">Box: 2, Folder: 7</field>
+     <field name="collection_teim">Burton Turkus Collection</field>
++    <field name="author_teim">Abigail Rubin. Revised by Sarah Quick, Reference Archivist.</field>
+     <field name="collection_unitid_teim">BCMS.0016</field>
+-    <field name="series_sim">Series V: George Beldock v. William O'Dwyer</field>
+-    <field name="series_si">Series V: George Beldock v. William O'Dwyer &gt;&gt; Beldock Radio Addresses</field>
++    <field name="series_sim">Series V: George Beldock v. William O&amp;#39;Dwyer</field>
++    <field name="series_si">Series V: George Beldock v. William O&#39;Dwyer &gt;&gt; Beldock Radio Addresses</field>
+     <field name="heading_ssm">Beldock Radio Addresses</field>
+     <field name="unitdate_ssm">1931, 1945</field>
+     <field name="date_range_sim">undated &amp; other</field>

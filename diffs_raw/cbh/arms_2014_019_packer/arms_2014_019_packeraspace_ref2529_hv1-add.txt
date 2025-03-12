@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1972/2012</field>
+     <field name="unitdate_inclusive_teim">1972-2012</field>
+     <field name="scopecontent_teim">The sub-series consists of student directories, dating from 1972 to 2012.</field>
+-    <field name="scopecontent_teim">One item of note is a copy of the 1977-1978 directory that includes a tally of the students' ethnicities by grade level.</field>
++    <field name="scopecontent_teim">One item of note is a copy of the 1977-1978 directory that includes a tally of the students&#39; ethnicities by grade level.</field>
+     <field name="ref_ssi">aspace_ref2529_hv1</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -28,6 +28,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">The Packer Collegiate Institute records</field>
++    <field name="author_teim">Pratt Institute, School of Library and Information Science graduate students and John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_sim">Series 8: Student Life</field>
+     <field name="series_si">Series 8: Student Life &gt;&gt; Sub-series 8.6: Student Directories</field>

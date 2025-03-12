@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">The Misses Crawford's School for Boys and Girls</field>
+-    <field name="unittitle_teim">The Misses Crawford's School for Boys and Girls</field>
++    <field name="unittitle_ssm">The Misses Crawford&#39;s School for Boys and Girls</field>
++    <field name="unittitle_teim">The Misses Crawford&#39;s School for Boys and Girls</field>
+     <field name="ref_ssi">aspace_ref69_bmc</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -22,10 +22,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; The Misses Crawford's School for Boys and Girls</field>
+-    <field name="heading_ssm">The Misses Crawford's School for Boys and Girls</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; The Misses Crawford&#39;s School for Boys and Girls</field>
++    <field name="heading_ssm">The Misses Crawford&#39;s School for Boys and Girls</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">473</field>
+   </doc>

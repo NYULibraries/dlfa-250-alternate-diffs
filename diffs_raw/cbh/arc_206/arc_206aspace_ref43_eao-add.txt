@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1841/1849</field>
+     <field name="unitdate_normal_sim">1841/1849</field>
+     <field name="unitdate_inclusive_teim">1841, 1844, 1849</field>
+-    <field name="scopecontent_teim">1841 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., at Andover, MA, re: suggested courses of study for Storrs's education; 1844 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., William T. Eustis, et al., as committee for a Society, at Boston, re: declining invitation to lecture before the Society; 1849 note, signed by Rufus Choate</field>
++    <field name="scopecontent_teim">1841 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., at Andover, MA, re: suggested courses of study for Storrs&#39;s education; 1844 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., William T. Eustis, et al., as committee for a Society, at Boston, re: declining invitation to lecture before the Society; 1849 note, signed by Rufus Choate</field>
+     <field name="ref_ssi">aspace_ref43_eao</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 20</field>
+     <field name="location_si">Box: 1, Folder: 20</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Choate, Rufus</field>
+     <field name="heading_ssm">Choate, Rufus</field>

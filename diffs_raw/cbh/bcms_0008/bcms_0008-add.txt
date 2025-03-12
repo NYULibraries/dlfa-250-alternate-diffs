@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,11 +30,11 @@
+     <field name="subject_teim">Business</field>
+     <field name="subject_teim">Business enterprises |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Business enterprises |z New York (State) |z Kings County |x History</field>
+-    <field name="subject_teim">Industries -- New York (State) -- Kings County -- History</field>
+-    <field name="subject_teim">Brooklyn (New York, N.Y.)--Politics and government</field>
+-    <field name="subject_teim">Business</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County -- History</field>
++    <field name="subject_teim">Industries --New York (State) --Kings County --History</field>
++    <field name="subject_teim">Brooklyn (New York, N.Y.)--Politics and government</field>
++    <field name="subject_teim">Business</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County --History</field>
+     <field name="subject_ssm">Industries |z New York (State) |z Kings County |x History</field>
+     <field name="subject_ssm">Brooklyn (New York, N.Y.)--Politics and government</field>
+     <field name="subject_ssm">Business</field>
+@@ -51,12 +51,12 @@
+     <field name="format_sim">Archival Collection</field>
+     <field name="format_ssm">Archival Collection</field>
+     <field name="format_ii">0</field>
+-    <field name="place_sim">New York (N.Y.) -- Officials and employees</field>
+-    <field name="subject_sim">Industries -- New York (State) -- Kings County -- History</field>
++    <field name="place_sim">New York (N.Y.) --Officials and employees</field>
++    <field name="subject_sim">Industries --New York (State) --Kings County --History</field>
+     <field name="subject_sim">Brooklyn (New York, N.Y.)--Politics and government</field>
+     <field name="subject_sim">Business</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County -- History</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County --History</field>
+     <field name="material_type_sim">Business records</field>
+     <field name="material_type_sim">Letterheads</field>
+     <field name="material_type_sim">Stationery</field>

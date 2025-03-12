@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn tax document collection</field>
+     <field name="unitid_teim">1986.012</field>
+     <field name="unitid_ssm">1986.012</field>
+-    <field name="abstract_teim">This collection contains documents relating to Brooklyn taxes and tax collections, including: a tax form for a property transaction on Van Brunt St by W. A. Husted, dated 1864; a tax form for a property transaction on Lawton St. by William Radde, dated 1865; a receipt for A.S. Wheeler for taxes paid on a property transaction, dated 1866; and a petition and an affadavit concerning John B. France's attempt to receive a tax refund, dated 1909.</field>
+-    <field name="abstract_ssm">This collection contains documents relating to Brooklyn taxes and tax collections, including: a tax form for a property transaction on Van Brunt St by W. A. Husted, dated 1864; a tax form for a property transaction on Lawton St. by William Radde, dated 1865; a receipt for A.S. Wheeler for taxes paid on a property transaction, dated 1866; and a petition and an affadavit concerning John B. France's attempt to receive a tax refund, dated 1909.</field>
++    <field name="abstract_teim">This collection contains documents relating to Brooklyn taxes and tax collections, including: a tax form for a property transaction on Van Brunt St by W. A. Husted, dated 1864;  a tax form for a property transaction on Lawton St. by William Radde, dated 1865; a receipt for A.S. Wheeler for taxes paid on a property transaction, dated 1866; and a petition and an affadavit concerning John B. France&#39;s attempt to receive a tax refund, dated 1909.</field>
++    <field name="abstract_ssm">This collection contains documents relating to Brooklyn taxes and tax collections, including: a tax form for a property transaction on Van Brunt St by W. A. Husted, dated 1864;  a tax form for a property transaction on Lawton St. by William Radde, dated 1865; a receipt for A.S. Wheeler for taxes paid on a property transaction, dated 1866; and a petition and an affadavit concerning John B. France&#39;s attempt to receive a tax refund, dated 1909.</field>
+     <field name="unitdate_normal_ssm">1864/1909</field>
+     <field name="unitdate_normal_teim">1864/1909</field>
+     <field name="unitdate_normal_sim">1864/1909</field>
+@@ -23,7 +23,7 @@
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Taxation |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Taxation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Taxation --New York (State) --Kings County</field>
+     <field name="subject_ssm">Taxation |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn tax document collection</field>
+     <field name="collection_ssm">Brooklyn tax document collection</field>
+@@ -37,7 +37,7 @@
+     <field name="format_ssm">Archival Collection</field>
+     <field name="format_ii">0</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Taxation -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Taxation --New York (State) --Kings County</field>
+     <field name="material_type_sim">Tax records</field>
+     <field name="material_type_sim">Receipts (financial records)</field>
+     <field name="material_type_ssm">Tax records</field>

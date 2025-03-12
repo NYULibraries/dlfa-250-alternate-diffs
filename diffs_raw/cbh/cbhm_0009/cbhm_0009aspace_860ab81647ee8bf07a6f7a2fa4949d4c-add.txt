@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,13 @@
+     <field name="collection_ssm">Brooklyn College collection</field>
+     <field name="collection_unitid_ssm">CBHM.0009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Ol' Spigot</field>
+-    <field name="unittitle_teim">The Ol' Spigot</field>
++    <field name="unittitle_ssm">The Ol&#39; Spigot</field>
++    <field name="unittitle_teim">The Ol&#39; Spigot</field>
+     <field name="unitdate_normal_ssm">1970/1971</field>
+     <field name="unitdate_normal_teim">1970/1971</field>
+     <field name="unitdate_normal_sim">1970/1971</field>
+     <field name="unitdate_inclusive_teim">1970-1971</field>
+-    <field name="scopecontent_teim">"The official newspaper of student government."</field>
++    <field name="scopecontent_teim">&#34;The official newspaper of student government.&#34;</field>
+     <field name="ref_ssi">aspace_860ab81647ee8bf07a6f7a2fa4949d4c</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,10 +29,11 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn College collection</field>
++    <field name="author_teim">Dee Bowers</field>
+     <field name="collection_unitid_teim">CBHM.0009</field>
+     <field name="series_sim">Series 2: Publications</field>
+-    <field name="series_si">Series 2: Publications &gt;&gt; The Ol' Spigot</field>
+-    <field name="heading_ssm">The Ol' Spigot</field>
++    <field name="series_si">Series 2: Publications &gt;&gt; The Ol&#39; Spigot</field>
++    <field name="heading_ssm">The Ol&#39; Spigot</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>
+     <field name="unitdate_start_si">1970</field>

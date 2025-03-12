@@ -1,0 +1,61 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+-    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_sim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="collection_ssm">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
+     <field name="collection_unitid_ssm">1994.007</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Ung, Po Yee</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 August 17</field>
+-    <field name="scopecontent_teim">In this interview, Po Yee Ung discusses her external world. She recounts her professional life: a Hong Kong career in business, and a New York City career in journalism. Ung evaluates Eighth Avenue's potential as a business and cultural center for Chinese immigrants in Brooklyn, and its deficiencies as a community resource. Ung recounts instances of petty neighborhood crime. She describes the neighborhood's aesthetic and real estate conditions. She talks about her affinity for Spanish-speaking sections of the neighborhood; particularly Hispanic food, customs, and people. Throughout the interview, Ung declines to answer questions that she views as too personal, or which may indicate her general whereabouts. Interview in Cantonese conducted by Ka-Kam Chui.</field>
++    <field name="scopecontent_teim">In this interview, Po Yee Ung discusses her external world. She recounts her professional life: a Hong Kong career in business, and a New York City career in journalism. Ung evaluates Eighth Avenue&#39;s potential as a business and cultural center for Chinese immigrants in Brooklyn, and its deficiencies as a community resource. Ung recounts instances of petty neighborhood crime. She describes the neighborhood&#39;s aesthetic and real estate conditions. She talks about her affinity for Spanish-speaking sections of the neighborhood; particularly Hispanic food, customs, and people. Throughout the interview, Ung declines to answer questions that she views as too personal, or which may indicate her general whereabouts. Interview in Cantonese conducted by Ka-Kam Chui.</field>
+     <field name="bioghist_teim">Po Yee Ung, born in Hong Kong circa 1957, immigrated to New York City at age twenty-five to accept a job offer. She settled in the Brighton Beach neighborhood of Brooklyn. As a young career woman in Tai Po, China, Ung worked in both the garment and electronics industries. In New York City, she worked primarily as a journalist; writing for Chinese-language print newspapers and weeklies, reporting and interviewing for Chinese-language Apple Television, and writing a column for a Chinese-language entertainment weekly. At the time of the 1993 interview, Ung was thirty-six years old, lived alone in the Sunset Park neighborhood of Brooklyn, and earned a living as an insurance saleswoman.</field>
+     <field name="geogname_teim">Brighton Beach (New York, N.Y.)</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+@@ -37,12 +37,12 @@
+     <field name="subject_teim">Home economics |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Journalists -- New York (State) -- New York</field>
+     <field name="subject_teim">Race relations |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ethnic relations</field>
+-    <field name="subject_teim">Home economics -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Journalists -- New York (State) -- New York</field>
+-    <field name="subject_teim">Race relations -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --New York</field>
++    <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ethnic relations</field>
++    <field name="subject_teim">Home economics --New York (State) --Kings County</field>
++    <field name="subject_teim">Journalists -- New York (State) -- New York</field>
++    <field name="subject_teim">Race relations --New York (State) --Kings County</field>
+     <field name="subject_ssm">Chinese Americans |z New York (State) |z New York</field>
+     <field name="subject_ssm">Crime -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Ethnic relations</field>
+@@ -63,13 +63,14 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Hong Kong (China)</field>
+     <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- New York</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --New York</field>
+     <field name="subject_sim">Crime -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Ethnic relations</field>
+-    <field name="subject_sim">Home economics -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Home economics --New York (State) --Kings County</field>
+     <field name="subject_sim">Journalists -- New York (State) -- New York</field>
+-    <field name="subject_sim">Race relations -- New York (State) -- Kings County</field>
+-    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="subject_sim">Race relations --New York (State) --Kings County</field>
++    <field name="collection_teim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">1994.007</field>
+     <field name="series_sim">Series 1: Oral histories</field>
+     <field name="series_si">Series 1: Oral histories &gt;&gt; Ung, Po Yee</field>

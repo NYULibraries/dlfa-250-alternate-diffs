@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,13 @@
+     <field name="collection_ssm">Brooklyn Bureau of Community Service records</field>
+     <field name="collection_unitid_ssm">ARC.129</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Sub-series 1.6: Women's Committee</field>
+-    <field name="unittitle_teim">Sub-series 1.6: Women's Committee</field>
++    <field name="unittitle_ssm">Sub-series 1.6: Women&#39;s Committee</field>
++    <field name="unittitle_teim">Sub-series 1.6: Women&#39;s Committee</field>
+     <field name="unitdate_normal_ssm">1969/1985</field>
+     <field name="unitdate_normal_teim">1969/1985</field>
+     <field name="unitdate_normal_sim">1969/1985</field>
+     <field name="unitdate_inclusive_teim">1969-1985</field>
+-    <field name="scopecontent_teim">The sub-series contains a Women's Committe publicity scrapbook (1969-1980) and meeting agendas and minutes (1974-1985).</field>
++    <field name="scopecontent_teim">The sub-series contains a Women&#39;s Committe publicity scrapbook (1969-1980) and meeting agendas and minutes (1974-1985).</field>
+     <field name="ref_ssi">aspace_ref171_4uw</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,10 +27,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn Bureau of Community Service records</field>
++    <field name="author_teim">Patricia Glowinski and Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.129</field>
+     <field name="series_sim">Series 1: Brooklyn Bureau of Charities and Bureau of Community Service records</field>
+-    <field name="series_si">Series 1: Brooklyn Bureau of Charities and Bureau of Community Service records &gt;&gt; Sub-series 1.6: Women's Committee</field>
+-    <field name="heading_ssm">Sub-series 1.6: Women's Committee</field>
++    <field name="series_si">Series 1: Brooklyn Bureau of Charities and Bureau of Community Service records &gt;&gt; Sub-series 1.6: Women&#39;s Committee</field>
++    <field name="heading_ssm">Sub-series 1.6: Women&#39;s Committee</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

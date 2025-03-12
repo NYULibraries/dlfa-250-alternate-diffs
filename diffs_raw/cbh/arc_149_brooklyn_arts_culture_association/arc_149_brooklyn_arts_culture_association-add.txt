@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Arts and Culture Association publications</field>
+     <field name="unitid_teim">ARC.149</field>
+     <field name="unitid_ssm">ARC.149</field>
+-    <field name="abstract_teim">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association's monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association's newsletter, , spotlighting local artists and performances, and press releases for exhibits and performances.</field>
+-    <field name="abstract_ssm">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association's monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association's newsletter, , spotlighting local artists and performances, and press releases for exhibits and performances.</field>
++    <field name="abstract_teim">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association&#39;s monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association&#39;s newsletter, , spotlighting local artists and performances, and press releases for exhibits and performances.</field>
++    <field name="abstract_ssm">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association&#39;s monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association&#39;s newsletter, , spotlighting local artists and performances, and press releases for exhibits and performances.</field>
+     <field name="creator_teim">Brooklyn Arts and Culture Association</field>
+     <field name="creator_ssm">Brooklyn Arts and Culture Association</field>
+     <field name="creator_ssm">Brooklyn Arts and Culture Association</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1969/1997</field>
+     <field name="unitdate_normal_sim">1969/1997</field>
+     <field name="unitdate_inclusive_teim">1969-1997</field>
+-    <field name="scopecontent_teim">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association's monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association's newsletter, Brooklyn's Where Its At, spotlighting local artists and performances, and press releases for exhibits and performances.</field>
+-    <field name="bioghist_teim">The Brooklyn Arts and Culture Association ("BACA") was founded in 1966 to promote local cultural programs and organize arts programming in the borough of Brooklyn. BACA partnered with the Brooklyn Institute of Arts and Sciences in 1969 and received steady financial support throughout the 1970s. The organization grew into a granting agency in 1980, and became known as the Brooklyn Arts Council in 1987.</field>
++    <field name="scopecontent_teim">The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association&#39;s monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association&#39;s newsletter, Brooklyn&#39;s Where Its At, spotlighting local artists and performances, and press releases for exhibits and performances.</field>
++    <field name="bioghist_teim">The Brooklyn Arts and Culture Association (&#34;BACA&#34;) was founded in 1966 to promote local cultural programs and organize arts programming in the borough of Brooklyn. BACA partnered with the Brooklyn Institute of Arts and Sciences in 1969 and received steady financial support throughout the 1970s. The organization grew into a granting agency in 1980, and became known as the Brooklyn Arts Council in 1987.</field>
+     <field name="acqinfo_teim">Source and date of acquisition for the collection are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Arts and Culture Association</field>
+@@ -37,8 +37,8 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Intellectual life |y 20th century</field>
+     <field name="subject_teim">Performing arts |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Arts |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Arts -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Performing arts --New York (State) --Kings County</field>
++    <field name="subject_teim">Arts --New York (State) --Kings County</field>
+     <field name="subject_ssm">Performing arts |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Arts |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn Arts and Culture Association publications</field>
+@@ -59,9 +59,9 @@
+     <field name="name_teim">Brooklyn Arts and Culture Association</field>
+     <field name="name_teim">Brooklyn Institute of Arts and Sciences</field>
+     <field name="name_teim">Brooklyn Arts Council</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life -- 20th century</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Arts -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life --20th century</field>
++    <field name="subject_sim">Performing arts --New York (State) --Kings County</field>
++    <field name="subject_sim">Arts --New York (State) --Kings County</field>
+     <field name="material_type_sim">Newsletters</field>
+     <field name="material_type_sim">Calendars</field>
+     <field name="material_type_ssm">Newsletters</field>

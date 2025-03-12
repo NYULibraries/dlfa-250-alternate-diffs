@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_1974_018_robert_livingston</field>
+     <field name="parent_ssi">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+     <field name="parent_ssm">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+-    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents</field>
+-    <field name="parent_unittitles_teim">Series 2: Five Nations Documents</field>
++    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents </field>
++    <field name="parent_unittitles_teim">Series 2: Five Nations Documents </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Livingston papers</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1687/1687</field>
+     <field name="unitdate_normal_sim">1687/1687</field>
+     <field name="unitdate_teim">1687</field>
+-    <field name="scopecontent_teim">Examination of two Mohawk Indians "come from Canada who was in ye Company of Cryn" [Cryn, a.k.a Joseph (Sosé) Togouiroui, called the Great Mohawk, chief of the French Mohawks, d. 1690], taken in Albany by the Mayor and aldermen, 25 August 1687, re: efforts by the Governor of Canada at Montréal, the Jesuits, and Cryn to influence the Mohawks, Oneidas, and Onondagas not to make war with the French [20th c. note, in pencil: "not in Vol. III, Col. Hist N.Y."].</field>
++    <field name="scopecontent_teim">Examination of two Mohawk Indians &#34;come from Canada who was in ye Company of Cryn&#34; [Cryn, a.k.a Joseph (Sosé) Togouiroui, called the Great Mohawk, chief of the French Mohawks, d. 1690], taken in Albany by the Mayor and aldermen, 25 August 1687, re: efforts by the Governor of Canada at Montréal, the Jesuits, and Cryn to influence the Mohawks, Oneidas, and Onondagas not to make war with the French [20th c. note, in pencil: &#34;not in Vol. III, Col. Hist N.Y.&#34;].</field>
+     <field name="ref_ssi">aspace_52af4ca19aa2990794c10f3f4bbed110</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,9 +29,10 @@
+     <field name="location_ssm">Box: 1, Folder: 38</field>
+     <field name="location_si">Box: 1, Folder: 38</field>
+     <field name="collection_teim">Robert Livingston papers</field>
++    <field name="author_teim">Manning Field. Updated by Sarah Quick in 2024. </field>
+     <field name="collection_unitid_teim">1974.018</field>
+-    <field name="series_sim">Series 2: Five Nations Documents</field>
+-    <field name="series_si">Series 2: Five Nations Documents &gt;&gt; Examination of two Mohawk</field>
++    <field name="series_sim">Series 2: Five Nations Documents </field>
++    <field name="series_si">Series 2: Five Nations Documents  &gt;&gt; Examination of two Mohawk</field>
+     <field name="heading_ssm">Examination of two Mohawk</field>
+     <field name="unitdate_start_sim">1687</field>
+     <field name="unitdate_start_ssm">1687</field>

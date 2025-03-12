@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Clementine Lasar-Studwell scrapbook</field>
+     <field name="unitid_teim">1977.147</field>
+     <field name="unitid_ssm">1977.147</field>
+-    <field name="abstract_teim">The scrapbook documents Clementine Lasar-Studwell's career as a vocalist from 1870-1876 and includes concert programs, news clippings of concert announcements, and reviews.</field>
+-    <field name="abstract_ssm">The scrapbook documents Clementine Lasar-Studwell's career as a vocalist from 1870-1876 and includes concert programs, news clippings of concert announcements, and reviews.</field>
++    <field name="abstract_teim">The scrapbook documents Clementine Lasar-Studwell&#39;s career as a vocalist from 1870-1876 and includes concert programs, news clippings of concert announcements, and reviews.</field>
++    <field name="abstract_ssm">The scrapbook documents Clementine Lasar-Studwell&#39;s career as a vocalist from 1870-1876 and includes concert programs, news clippings of concert announcements, and reviews.</field>
+     <field name="creator_teim">Lasar-Studwell, Clementine</field>
+     <field name="creator_ssm">Lasar-Studwell, Clementine</field>
+     <field name="creator_ssm">Lasar-Studwell, Clementine</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1870/1876</field>
+     <field name="unitdate_normal_sim">1870/1876</field>
+     <field name="unitdate_inclusive_teim">1870-1876</field>
+-    <field name="scopecontent_teim">The Clementine Lasar-Studwell scrapbook is housed in a single bound volume and spans the period 1870 to 1876. The scrapbook documents Mrs. Lasar-Studwell's career as a vocalist during this period and includes concert programs, news clippings of concert announcements, and reviews.</field>
++    <field name="scopecontent_teim">The Clementine Lasar-Studwell scrapbook is housed in a single bound volume and spans the period 1870 to 1876. The scrapbook documents Mrs. Lasar-Studwell&#39;s career as a vocalist during this period and includes concert programs, news clippings of concert announcements, and reviews.</field>
+     <field name="bioghist_teim">Clementine Lasar-Studwell was a vocalist from Brooklyn, having made her debut New York City performance as Clementine Lassar in 1871 at Association Hall. In addition to performing throughout New York City and Brooklyn during the 1870s, she also sang in church choirs and concerts throughout New York, New Jersey, Connecticut, and Massachusetts, and became the featured soprano at Plymouth Church of the Pilgrims in Brooklyn in 1873. In 1880 Ms. Lasar was married and thereafter performed under her married name, Clementine Lasar-Studwell. She was the daughter of noted organist Sigismond Lasar.</field>
+     <field name="acqinfo_teim">Gift of William J. Studwell, date unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -39,10 +39,10 @@
+     <field name="subject_teim">Vocalists |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Sopranos (singers) |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Performing arts |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Vocalists -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Sopranos (singers) -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Music --New York (State) --Kings County</field>
++    <field name="subject_teim">Vocalists --New York (State) --Kings County</field>
++    <field name="subject_teim">Sopranos (singers) --New York (State) --Kings County</field>
++    <field name="subject_teim">Performing arts --New York (State) --Kings County</field>
+     <field name="subject_ssm">Music |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Vocalists |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Sopranos (singers) |z New York (State) |z Kings County</field>
+@@ -62,10 +62,10 @@
+     <field name="name_sim">Lasar-Studwell, Clementine</field>
+     <field name="name_teim">Lasar-Studwell, Clementine</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Vocalists -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Sopranos (singers) -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Performing arts -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Music --New York (State) --Kings County</field>
++    <field name="subject_sim">Vocalists --New York (State) --Kings County</field>
++    <field name="subject_sim">Sopranos (singers) --New York (State) --Kings County</field>
++    <field name="subject_sim">Performing arts --New York (State) --Kings County</field>
+     <field name="material_type_sim">Concert programs</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

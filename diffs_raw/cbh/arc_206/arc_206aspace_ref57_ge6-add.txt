@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1776/1776</field>
+     <field name="unitdate_normal_sim">1776/1776</field>
+     <field name="unitdate_inclusive_teim">1776</field>
+-    <field name="scopecontent_teim">1776 letter from John Hancock, President of the Continental Congress, at Philadelphia, to the Committee at Trenton, 22 January 1776, re: notice that a previous letter from the committee had been put before the Congress for consideration, and also requesting that the committee send a Brigadier General Prescott and a Captain Chace "who lately commanded the Gaspy arm'd vessel in Canada" to Philadelphia, the two being among a number of officers held prisoner at Trenton, lately escorted there by Colonel Wyncoop</field>
++    <field name="scopecontent_teim">1776 letter from John Hancock, President of the Continental Congress, at Philadelphia, to the Committee at Trenton, 22 January 1776, re: notice that a previous letter from the committee had been put before the Congress for consideration, and also requesting that the committee send a Brigadier General Prescott and a Captain Chace &#34;who lately commanded the Gaspy arm&#39;d vessel in Canada&#34; to Philadelphia, the two being among a number of officers held prisoner at Trenton, lately escorted there by Colonel Wyncoop</field>
+     <field name="ref_ssi">aspace_ref57_ge6</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 41</field>
+     <field name="location_si">Box: 1, Folder: 41</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Hancock, John</field>
+     <field name="heading_ssm">Hancock, John</field>

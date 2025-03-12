@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,8 +26,8 @@
+     <field name="unitdate_normal_sim">1849/1892</field>
+     <field name="unitdate_inclusive_teim">1849-1892</field>
+     <field name="scopecontent_teim">This collection consists of correspondence between Albert Osborn and his daughter, Anna, regarding her schoolwork and his travels to California and Mexico during the period 1849 to 1852. Also included is a legal agreement between Albert Osborn and Samuel Smith for a plot of land on Gallatin Place in Brooklyn, as well as various financial notes and the last will and testament of Adeline Osborn.</field>
+-    <field name="bioghist_teim">Albert and Adeline Osborn lived with their daughter Anna on Gallatin Place in Brooklyn, N.Y., on a plot of land between Fulton and Livingston Streets that Albert had purchased in 1856. During Albert's time living in California in the late 1840s and early 1850s, Adeline and Anna had resided at No. 20 Johnson Street in Brooklyn.</field>
+-    <field name="acqinfo_teim">Gift of Mrs. Malcolm G. Smith, date unknown. Formally accessioned in 1977.</field>
++    <field name="bioghist_teim">Albert and Adeline Osborn lived with their daughter Anna on Gallatin Place in Brooklyn, N.Y., on a plot of land between Fulton and Livingston Streets that Albert had purchased in 1856. During Albert&#39;s time living in California in the late 1840s and early 1850s, Adeline and Anna had resided at No. 20 Johnson Street in Brooklyn.</field>
++    <field name="acqinfo_teim">Gift of Mrs. Malcolm G. Smith, date unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="famname_teim">Osborn family</field>
+@@ -61,11 +61,11 @@
+     <field name="persname_ssm">Osborn, Adeline</field>
+     <field name="persname_ssm">Osborn, Anna Maria</field>
+     <field name="subject_teim">Families -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Families -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Families -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Decedents&#39; estates -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Families -- New York (State) -- Kings County</field>
+-    <field name="subject_ssm">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_ssm">Decedents&#39; estates -- New York (State) -- Kings County</field>
+     <field name="collection_sim">Albert Osborn family papers</field>
+     <field name="collection_ssm">Albert Osborn family papers</field>
+     <field name="collection_teim">Albert Osborn family papers</field>
+@@ -91,7 +91,7 @@
+     <field name="name_teim">Osborn, Albert</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Families -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Decedents' estates -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Decedents&#39; estates -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Financial records</field>
+     <field name="material_type_sim">Family papers</field>
+     <field name="material_type_sim">Land titles -- New York (State) -- Kings County</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1896/1900</field>
+     <field name="unitdate_normal_sim">1896/1900</field>
+     <field name="unitdate_inclusive_teim">1896-1900</field>
+-    <field name="scopecontent_teim">The drawings subseries includes two black-and-white pencil drawings on paper, both drawn and signed by McCarthy, circa 1896-1900. The first is a drawing of a football field scene with a small black-and-white photographic portrait of McCarthy in his Lehigh University football sweater. The second drawing is titled "Honorary Societies."</field>
++    <field name="scopecontent_teim">The drawings subseries includes two black-and-white pencil drawings on paper, both drawn and signed by McCarthy, circa 1896-1900. The first is a drawing of a football field scene with a small black-and-white photographic portrait of McCarthy in his Lehigh University football sweater. The second drawing is titled &#34;Honorary Societies.&#34;</field>
+     <field name="ref_ssi">aspace_ref16_xgs</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">William T. McCarthy collection</field>
++    <field name="author_teim">Patricia Glowinski</field>
+     <field name="collection_unitid_teim">ARC.059</field>
+     <field name="series_sim">Series 3: Drawings and photographs</field>
+     <field name="series_si">Series 3: Drawings and photographs &gt;&gt; Subseries 1: Drawings</field>

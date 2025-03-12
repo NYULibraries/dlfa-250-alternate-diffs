@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Norman Finkelstein Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0067</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Finkelstein's Letters to the Editor</field>
+-    <field name="unittitle_teim">Finkelstein's Letters to the Editor</field>
++    <field name="unittitle_ssm">Finkelstein&#39;s Letters to the Editor</field>
++    <field name="unittitle_teim">Finkelstein&#39;s Letters to the Editor</field>
+     <field name="unitdate_teim">1984-1986</field>
+     <field name="ref_ssi">aspace_ref22</field>
+     <field name="repository_ssi">cbh</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 16</field>
+     <field name="location_si">Box: 1, Folder: 16</field>
+     <field name="collection_teim">Norman Finkelstein Collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0067</field>
+     <field name="series_sim">Series I: Books</field>
+     <field name="series_sim">Subseries I: Image and Reality</field>
+-    <field name="series_si">Series I: Books &gt;&gt; Subseries I: Image and Reality &gt;&gt; Finkelstein's Letters to the Editor</field>
+-    <field name="heading_ssm">Finkelstein's Letters to the Editor</field>
++    <field name="series_si">Series I: Books &gt;&gt; Subseries I: Image and Reality &gt;&gt; Finkelstein&#39;s Letters to the Editor</field>
++    <field name="heading_ssm">Finkelstein&#39;s Letters to the Editor</field>
+     <field name="unitdate_ssm">1984-1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">11</field>

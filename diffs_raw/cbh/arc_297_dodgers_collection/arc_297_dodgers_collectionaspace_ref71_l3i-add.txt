@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn Dodgers collection</field>
+     <field name="collection_unitid_ssm">ARC.297</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Dodgers All-Time Greats - A Pictoral History - 1890-1970's&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The Dodgers All-Time Greats - A Pictoral History - 1890-1970's</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Dodgers All-Time Greats - A Pictoral History - 1890-1970&#39;s&lt;/em&gt;</field>
++    <field name="unittitle_teim">The Dodgers All-Time Greats - A Pictoral History - 1890-1970&#39;s</field>
+     <field name="unitdate_normal_ssm">1972/1979</field>
+     <field name="unitdate_normal_teim">1972/1979</field>
+     <field name="unitdate_normal_sim">1972/1979</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4</field>
+     <field name="location_si">Box: 4</field>
+     <field name="collection_teim">Brooklyn Dodgers collection</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">ARC.297</field>
+     <field name="series_sim">Series 2: Clippings and scrapbooks</field>
+-    <field name="series_si">Series 2: Clippings and scrapbooks &gt;&gt; &lt;em&gt;The Dodgers All-Time Greats - A Pictoral History - 1890-1970's&lt;/em&gt;</field>
+-    <field name="heading_ssm">The Dodgers All-Time Greats - A Pictoral History - 1890-1970's</field>
++    <field name="series_si">Series 2: Clippings and scrapbooks &gt;&gt; &lt;em&gt;The Dodgers All-Time Greats - A Pictoral History - 1890-1970&#39;s&lt;/em&gt;</field>
++    <field name="heading_ssm">The Dodgers All-Time Greats - A Pictoral History - 1890-1970&#39;s</field>
+     <field name="unitdate_start_sim">1972</field>
+     <field name="unitdate_start_ssm">1972</field>
+     <field name="unitdate_start_si">1972</field>

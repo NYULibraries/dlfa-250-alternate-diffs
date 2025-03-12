@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_teim">1993</field>
+-    <field name="scopecontent_teim">A VHS tape of "Target Bush," produced by AIDS Community Television ACT UP and AIDS activists demonstrations and protests. "This tape was originally telecast 1/19/93."</field>
++    <field name="scopecontent_teim">A VHS tape of &#34;Target Bush,&#34; produced by AIDS Community Television ACT UP and AIDS activists demonstrations and protests. &#34;This tape was originally telecast 1/19/93.&#34;</field>
+     <field name="phystech_teim">VHS. Runtime: 30:00</field>
+     <field name="phystech_teim">This VHS tape is not available for research. This material is not digitized.</field>
+     <field name="ref_ssi">aspace_d4e28b247bde3412fbcb0d9dfa52367f</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 13, item: 1</field>
+     <field name="location_si">Box: 13, item: 1</field>
+     <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
++    <field name="author_teim">Brett Dion, Will Brown, Alice Griffin</field>
+     <field name="collection_unitid_teim">1993.001</field>
+     <field name="series_sim">Series 3: Donated materials</field>
+     <field name="series_sim">Sub-series 3.11: Additional Donations</field>

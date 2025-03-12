@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,8 @@
+     <field name="unitdate_normal_sim">1946/1957</field>
+     <field name="unitdate_bulk_teim">1946-1957</field>
+     <field name="unitdate_inclusive_teim">1934-1957</field>
+-    <field name="scopecontent_teim">The BCSP program files contain the most complete description of the organization's activities in its various program areas.</field>
++    <field name="scopecontent_teim">The BCSP program files contain the most complete description of the organization&#39;s activities in its various
++program areas.</field>
+     <field name="ref_ssi">aspace_891ffff9ef0421848b5879a4d62edf6a</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +28,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
++    <field name="author_teim">Nancy Johnson, Consulting Archivist and, Julie Moffat, Assistant Archivist and Preservation Coordinator, Brooklyn Collection, 1999</field>
+     <field name="collection_unitid_teim">BCMS.0039</field>
+     <field name="series_si">Series 3: Program files</field>
+     <field name="heading_ssm">Series 3: Program files</field>

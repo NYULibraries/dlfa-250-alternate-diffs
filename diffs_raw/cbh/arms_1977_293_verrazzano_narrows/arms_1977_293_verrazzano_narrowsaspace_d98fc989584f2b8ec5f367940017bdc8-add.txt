@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1964/1964</field>
+     <field name="unitdate_normal_sim">1964/1964</field>
+     <field name="unitdate_teim">circa 1964</field>
+-    <field name="scopecontent_teim">"Spanning the Narrows" and "Historical Highlights."</field>
++    <field name="scopecontent_teim">&#34;Spanning the Narrows&#34; and &#34;Historical Highlights.&#34;</field>
+     <field name="ref_ssi">aspace_d98fc989584f2b8ec5f367940017bdc8</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: A0024, Folder: 4</field>
+     <field name="location_si">Box: A0024, Folder: 4</field>
+     <field name="collection_teim">Verrazzano-Narrows Bridge collection</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">1977.293</field>
+     <field name="series_si">Triborough Bridge and Tunnel Authority publications</field>
+     <field name="heading_ssm">Triborough Bridge and Tunnel Authority publications</field>

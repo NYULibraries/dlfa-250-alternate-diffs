@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1874/1889</field>
+     <field name="unitdate_normal_sim">1874/1889</field>
+     <field name="unitdate_inclusive_teim">1874-1889</field>
+-    <field name="scopecontent_teim">Reports and by-laws. Later reports also cover the hospital's training school for nurses.</field>
++    <field name="scopecontent_teim">Reports and by-laws. Later reports also cover the hospital&#39;s training school for nurses.</field>
+     <field name="ref_ssi">aspace_516f828bbebab9d24205c3cd50d1c330</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 3-4</field>
+     <field name="location_si">Box: 2, Folder: 3-4</field>
+     <field name="collection_teim">Brooklyn hospitals and health services organizations collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">ARC.141</field>
+     <field name="series_si">Brooklyn Homeopathic Hospital</field>
+     <field name="heading_ssm">Brooklyn Homeopathic Hospital</field>

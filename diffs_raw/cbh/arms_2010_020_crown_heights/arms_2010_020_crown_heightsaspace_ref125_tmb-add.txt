@@ -1,0 +1,64 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -33,7 +33,7 @@
+     <field name="geogname_ssm">North Carolina</field>
+     <field name="persname_teim">Mark, Linda</field>
+     <field name="persname_ssm">Mark, Linda</field>
+-    <field name="subject_teim">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans |x Relations with Jews </field>
+     <field name="subject_teim">Carnival |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Catholic Church |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Christian life |z New York (State) |z Kings County</field>
+@@ -42,16 +42,16 @@
+     <field name="subject_teim">Judaism |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Race relations -- United States</field>
+     <field name="subject_teim">Segregation |z United States</field>
+-    <field name="subject_teim">African Americans -- Relations with Jews</field>
+-    <field name="subject_teim">Carnival -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Catholic Church -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Christian life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education</field>
+-    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Judaism -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">Segregation -- United States</field>
+-    <field name="subject_ssm">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans --Relations with Jews </field>
++    <field name="subject_teim">Carnival --New York (State) --Kings County</field>
++    <field name="subject_teim">Catholic Church --New York (State) --Kings County</field>
++    <field name="subject_teim">Christian life --New York (State) --Kings County</field>
++    <field name="subject_teim">Education</field>
++    <field name="subject_teim">Family life --New York (State) --Kings County</field>
++    <field name="subject_teim">Judaism --New York (State) --Kings County</field>
++    <field name="subject_teim">Race relations -- United States</field>
++    <field name="subject_teim">Segregation --United States</field>
++    <field name="subject_ssm">African Americans |x Relations with Jews </field>
+     <field name="subject_ssm">Carnival |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Catholic Church |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Christian life |z New York (State) |z Kings County</field>
+@@ -80,16 +80,17 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">North Carolina</field>
+-    <field name="subject_sim">African Americans -- Relations with Jews</field>
+-    <field name="subject_sim">Carnival -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Catholic Church -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Christian life -- New York (State) -- Kings County</field>
++    <field name="subject_sim">African Americans --Relations with Jews </field>
++    <field name="subject_sim">Carnival --New York (State) --Kings County</field>
++    <field name="subject_sim">Catholic Church --New York (State) --Kings County</field>
++    <field name="subject_sim">Christian life --New York (State) --Kings County</field>
+     <field name="subject_sim">Education</field>
+-    <field name="subject_sim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Judaism -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Family life --New York (State) --Kings County</field>
++    <field name="subject_sim">Judaism --New York (State) --Kings County</field>
+     <field name="subject_sim">Race relations -- United States</field>
+-    <field name="subject_sim">Segregation -- United States</field>
++    <field name="subject_sim">Segregation --United States</field>
+     <field name="collection_teim">Listen to This: Crown Heights Oral History collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">2010.020</field>
+     <field name="series_si">Mark, Linda</field>
+     <field name="heading_ssm">Mark, Linda</field>

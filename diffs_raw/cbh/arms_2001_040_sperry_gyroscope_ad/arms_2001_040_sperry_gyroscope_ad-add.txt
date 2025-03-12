@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="subject_teim">Aerospace engineering -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Business enterprises |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Aerospace engineering -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
+     <field name="subject_ssm">Aerospace engineering -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Business enterprises |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Sperry Gyroscope Company, Inc. advertisement</field>
+@@ -43,7 +43,7 @@
+     <field name="name_teim">Sperry Gyroscope Company, inc</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Aerospace engineering -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
+     <field name="material_type_sim">Advertisements</field>
+     <field name="material_type_ssm">Advertisements</field>
+     <field name="heading_ssm">Sperry Gyroscope Company, Inc. advertisement</field>

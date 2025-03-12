@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1855/1974</field>
+     <field name="unitdate_normal_sim">1855/1974</field>
+     <field name="unitdate_inclusive_teim">1855-1974</field>
+-    <field name="scopecontent_teim">Series 4: Register and certificates of indenture, 1855-1974, includes an Orphan Asylum and Brookwood Hall Register, dated 1907 to 1974, which lists orphan names, dates of birth, dates of admission to the society's care, parents' names and addresses, status of parents, and comment on final disposition of the child. Also included are certificates of indenture and a certificate confirming the placement of children in the care of the Orphan Asylum.</field>
++    <field name="scopecontent_teim">Series 4: Register and certificates of indenture, 1855-1974, includes an Orphan Asylum and Brookwood Hall Register, dated 1907 to 1974, which lists orphan names, dates of birth, dates of admission to the society&#39;s care, parents&#39; names and addresses, status of parents, and comment on final disposition of the child. Also included are certificates of indenture and a certificate confirming the placement of children in the care of the Orphan Asylum.</field>
+     <field name="ref_ssi">aspace_286f7d97c7112a90b2b7344c6a686986</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Orphan Asylum Society of the City of Brooklyn records</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.131</field>
+     <field name="series_si">Series 4: Register and certificates of indenture</field>
+     <field name="heading_ssm">Series 4: Register and certificates of indenture</field>

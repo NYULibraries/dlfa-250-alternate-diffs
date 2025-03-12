@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">2013 April 21</field>
+-    <field name="scopecontent_teim">In the interview, Maxwell discusses her childhood in the Brownsville neighborhood of Brooklyn; friendships in the Brownsville community; family's roots in Anniston and Birmingham, Alabama; relatives' migration from Alabama to New York City in the 1930s; and losing her mother and other family members to cancer. Interview conducted by Dorothy Saint Jean.</field>
+-    <field name="bioghist_teim">Taneka Maxwell was born to African American parents on a U.S. Army base in Heidelberg, Germany. She was raised in Brooklyn, New York and Anniston, Alabama. Maxwell received a B.A.Sc in communication and media studies from Hofstra University in Hempstead, New York. She wrote a children's book under the pseudonym "Pink Maxwell" and worked as an account analyst at Morgan Stanley.</field>
++    <field name="scopecontent_teim">In the interview, Maxwell discusses her childhood in the Brownsville neighborhood of Brooklyn; friendships in the Brownsville community; family&#39;s roots in Anniston and Birmingham, Alabama; relatives&#39; migration from Alabama to New York City in the 1930s; and losing her mother and other family members to cancer. Interview conducted by Dorothy Saint Jean.</field>
++    <field name="bioghist_teim">Taneka Maxwell was born to African American parents on a U.S. Army base in Heidelberg, Germany. She was raised in Brooklyn, New York and Anniston, Alabama. Maxwell received a B.A.Sc in communication and media studies from Hofstra University in Hempstead, New York. She wrote a children&#39;s book under the pseudonym &#34;Pink Maxwell&#34; and worked as an account analyst at Morgan Stanley.</field>
+     <field name="geogname_teim">Anniston (Ala.)</field>
+     <field name="geogname_teim">Brownsville (New York, N.Y.)</field>
+     <field name="geogname_ssm">Anniston (Ala.)</field>
+@@ -27,17 +27,17 @@
+     <field name="subject_teim">Education |z New York (State)</field>
+     <field name="subject_teim">Bereavement in adolescence</field>
+     <field name="subject_teim">African Americans -- Alabama -- Anniston</field>
+-    <field name="subject_teim">Migration, Internal |z United States</field>
+-    <field name="subject_teim">African Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education -- New York (State)</field>
+-    <field name="subject_teim">Bereavement in adolescence</field>
+-    <field name="subject_teim">African Americans -- Alabama -- Anniston</field>
+-    <field name="subject_teim">Migration, Internal -- United States</field>
++    <field name="subject_teim">Migration, Internal |z United States </field>
++    <field name="subject_teim">African Americans -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Education --New York (State)</field>
++    <field name="subject_teim">Bereavement in adolescence</field>
++    <field name="subject_teim">African Americans -- Alabama -- Anniston</field>
++    <field name="subject_teim">Migration, Internal --United States </field>
+     <field name="subject_ssm">African Americans -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Education |z New York (State)</field>
+     <field name="subject_ssm">Bereavement in adolescence</field>
+     <field name="subject_ssm">African Americans -- Alabama -- Anniston</field>
+-    <field name="subject_ssm">Migration, Internal |z United States</field>
++    <field name="subject_ssm">Migration, Internal |z United States </field>
+     <field name="ref_ssi">aspace_ref136_ozf</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Anniston (Ala.)</field>
+     <field name="place_sim">Brownsville (New York, N.Y.)</field>
+     <field name="subject_sim">African Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Education -- New York (State)</field>
++    <field name="subject_sim">Education --New York (State)</field>
+     <field name="subject_sim">Bereavement in adolescence</field>
+     <field name="subject_sim">African Americans -- Alabama -- Anniston</field>
+-    <field name="subject_sim">Migration, Internal -- United States</field>
++    <field name="subject_sim">Migration, Internal --United States </field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Taneka Maxwell</field>
+     <field name="heading_ssm">Taneka Maxwell</field>

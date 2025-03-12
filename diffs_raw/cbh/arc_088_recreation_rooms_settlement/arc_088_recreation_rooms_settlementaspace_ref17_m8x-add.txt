@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1905/1965</field>
+     <field name="unitdate_normal_teim">1905/1965</field>
+     <field name="unitdate_normal_sim">1905/1965</field>
+-    <field name="unitdate_inclusive_teim">1905-1965</field>
++    <field name="unitdate_inclusive_teim">1905-1965 </field>
+     <field name="ref_ssi">aspace_ref17_m8x</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Recreation Rooms and Settlement collection</field>
++    <field name="author_teim">James Moske</field>
+     <field name="collection_unitid_teim">ARC.088</field>
+     <field name="series_sim">Series 1: Administration</field>
+     <field name="series_si">Series 1: Administration &gt;&gt; Certificate of Incorporation and Bylaws</field>
+@@ -38,7 +39,7 @@
+     <field name="unitdate_end_sim">1965</field>
+     <field name="unitdate_end_ssm">1965</field>
+     <field name="unitdate_end_si">1965</field>
+-    <field name="unitdate_ssm">Inclusive, 1905-1965</field>
++    <field name="unitdate_ssm">Inclusive, 1905-1965 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

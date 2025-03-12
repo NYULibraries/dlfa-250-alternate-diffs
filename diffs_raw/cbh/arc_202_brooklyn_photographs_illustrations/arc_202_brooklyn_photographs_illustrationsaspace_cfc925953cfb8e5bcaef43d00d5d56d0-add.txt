@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1850/1900</field>
+     <field name="unitdate_normal_sim">1850/1900</field>
+     <field name="unitdate_inclusive_teim">1850-1900</field>
+-    <field name="scopecontent_teim">Mostly images of Borough Hall with one image of "shanties at the foot of Court Street."</field>
++    <field name="scopecontent_teim">Mostly images of Borough Hall with one image of &#34;shanties at the foot of Court Street.&#34;</field>
+     <field name="ref_ssi">aspace_cfc925953cfb8e5bcaef43d00d5d56d0</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 17, Folder: 11</field>
+     <field name="location_si">Box: 17, Folder: 11</field>
+     <field name="collection_teim">Brooklyn photograph and illustration collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.202</field>
+     <field name="series_sim">Images by Subject</field>
+     <field name="series_si">Images by Subject &gt;&gt; Downtown Brooklyn</field>

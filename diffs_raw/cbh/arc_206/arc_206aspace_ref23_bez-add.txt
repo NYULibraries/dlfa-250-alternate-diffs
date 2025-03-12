@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1848/1848</field>
+     <field name="unitdate_normal_sim">1848/1848</field>
+     <field name="unitdate_inclusive_teim">1848</field>
+-    <field name="scopecontent_teim">1848 letter, from David Alexander Bokee, at Albany, to Alden J. Spooner, Joshua M. Van Cott, and W. Wallace, as committee members of the Hamilton Literary Association, Brooklyn, re: the committee's invitation</field>
++    <field name="scopecontent_teim">1848 letter, from David Alexander Bokee, at Albany, to Alden J. Spooner, Joshua M. Van Cott, and W. Wallace, as committee members of the Hamilton Literary Association, Brooklyn, re: the committee&#39;s invitation</field>
+     <field name="ref_ssi">aspace_ref23_bez</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 9</field>
+     <field name="location_si">Box: 1, Folder: 9</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Bokee, David Alexander</field>
+     <field name="heading_ssm">Bokee, David Alexander</field>

@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,13 +31,13 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Social life and customs</field>
+     <field name="geogname_ssm">Brooklyn Heights (New York, N.Y.)</field>
+     <field name="subject_teim">Low-income housing |z New York (State) |z New York</field>
+-    <field name="subject_teim">Tenants' associations |z New York (State) |z New York</field>
++    <field name="subject_teim">Tenants&#39; associations |z New York (State) |z New York</field>
+     <field name="subject_teim">Housing, Cooperative |z New York (State) |z New York</field>
+-    <field name="subject_teim">Low-income housing -- New York (State) -- New York</field>
+-    <field name="subject_teim">Tenants' associations -- New York (State) -- New York</field>
+-    <field name="subject_teim">Housing, Cooperative -- New York (State) -- New York</field>
++    <field name="subject_teim">Low-income housing --New York (State) --New York</field>
++    <field name="subject_teim">Tenants&#39; associations --New York (State) --New York</field>
++    <field name="subject_teim">Housing, Cooperative --New York (State) --New York</field>
+     <field name="subject_ssm">Low-income housing |z New York (State) |z New York</field>
+-    <field name="subject_ssm">Tenants' associations |z New York (State) |z New York</field>
++    <field name="subject_ssm">Tenants&#39; associations |z New York (State) |z New York</field>
+     <field name="subject_ssm">Housing, Cooperative |z New York (State) |z New York</field>
+     <field name="title_teim">Cadman complex (Newsletter)</field>
+     <field name="title_teim">Cadman views (Newsletter)</field>
+@@ -60,11 +60,11 @@
+     <field name="name_teim">Cadman Towers (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Cadman Plaza North (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Whitman Close (Brooklyn, New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
+     <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+-    <field name="subject_sim">Low-income housing -- New York (State) -- New York</field>
+-    <field name="subject_sim">Tenants' associations -- New York (State) -- New York</field>
+-    <field name="subject_sim">Housing, Cooperative -- New York (State) -- New York</field>
++    <field name="subject_sim">Low-income housing --New York (State) --New York</field>
++    <field name="subject_sim">Tenants&#39; associations --New York (State) --New York</field>
++    <field name="subject_sim">Housing, Cooperative --New York (State) --New York</field>
+     <field name="material_type_sim">Newsletters</field>
+     <field name="material_type_ssm">Newsletters</field>
+     <field name="heading_ssm">Cadman Plaza Complex resident newsletters</field>

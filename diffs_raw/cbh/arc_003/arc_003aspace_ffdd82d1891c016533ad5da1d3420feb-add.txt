@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2010/2010</field>
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">May 4, 2010</field>
+-    <field name="scopecontent_teim">In his interview, Jack Grossman (1923- ) talks about growing up in Brooklyn in a Jewish family and his experience working at the Brooklyn Navy Yard. He describes in detail the Mold Loft at the Navy Yard, where balsawood models were made from the blueprints and then steel was heated in large ovens and shaped to match the models, forming the curved pieces that would become part of the hull of the ships. He says that ships are known as "she" because of their womanly curves. Grossman explains that the master shipfitters were Irish and had learned the skills in the United Kingdom. Grossman worked on the USS Missouri and was one of four "kids" on a platform for the christening and launch. In addition, Grossman talks about his father's interactions with the Mafia while selling pickles, the founding of Las Vegas, and other jobs he has had including driving a taxi cab in New York and running a catering truck in California. Interview conducted by Sady Sullivan.</field>
++    <field name="scopecontent_teim">In his interview, Jack Grossman (1923- ) talks about growing up in Brooklyn in a Jewish family and his experience working at the Brooklyn Navy Yard. He describes in detail the Mold Loft at the Navy Yard, where balsawood models were made from the blueprints and then steel was heated in large ovens and shaped to match the models, forming the curved pieces that would become part of the hull of the ships. He says that ships are known as &#34;she&#34; because of their womanly curves. Grossman explains that the master shipfitters were Irish and had learned the skills in the United Kingdom. Grossman worked on the USS Missouri and was one of four &#34;kids&#34; on a platform for the christening and launch. In addition, Grossman talks about his father&#39;s interactions with the Mafia while selling pickles, the founding of Las Vegas, and other jobs he has had including driving a taxi cab in New York and running a catering truck in California. Interview conducted by Sady Sullivan.</field>
+     <field name="bioghist_teim">Jack Grossman (1923- ) was born in New York on the Lower East Side near the Williamsburg Bridge. His father emigrated from Austria and was known as the Pickle Man because he made and sold pickles. His mother passed away when he was four years old and he is the youngest of four children. In 1939 or 1940, Grossman was hired at the Brooklyn Navy Yard as a Trainee - he was only 17 years old so they had to give him a special title and paid him only 58 cents per hour. He later became a shipbuilder and attended classes three days a week to learn how to tack weld and read ship blueprints.</field>
+     <field name="corpname_teim">New York Naval Shipyard</field>
+     <field name="corpname_teim">Missouri (Battleship : BB 63)</field>
+@@ -47,9 +47,9 @@
+     <field name="subject_teim">Warships</field>
+     <field name="subject_teim">Organized crime</field>
+     <field name="subject_teim">Religion and culture -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Shipbuilding -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Street vendors -- New York (State) -- New York</field>
++    <field name="subject_teim">Shipbuilding --New York (State) --Kings County</field>
++    <field name="subject_teim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_teim">Street vendors --New York (State) --New York</field>
+     <field name="subject_teim">World War, 1939-1945</field>
+     <field name="subject_ssm">Blueprints</field>
+     <field name="subject_ssm">Taxicab drivers -- New York (State) -- New York</field>
+@@ -85,11 +85,12 @@
+     <field name="subject_sim">Warships</field>
+     <field name="subject_sim">Organized crime</field>
+     <field name="subject_sim">Religion and culture -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Shipbuilding -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Street vendors -- New York (State) -- New York</field>
++    <field name="subject_sim">Shipbuilding --New York (State) --Kings County</field>
++    <field name="subject_sim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_sim">Street vendors --New York (State) --New York</field>
+     <field name="subject_sim">World War, 1939-1945</field>
+     <field name="collection_teim">Brooklyn Navy Yard oral history collection</field>
++    <field name="author_teim">Amy Lau, Mary Mann, Aliki Caloyeras, and Margaret Fraser</field>
+     <field name="collection_unitid_teim">ARC.003</field>
+     <field name="series_si">Oral History Interview with Jack Grossman</field>
+     <field name="heading_ssm">Oral History Interview with Jack Grossman</field>

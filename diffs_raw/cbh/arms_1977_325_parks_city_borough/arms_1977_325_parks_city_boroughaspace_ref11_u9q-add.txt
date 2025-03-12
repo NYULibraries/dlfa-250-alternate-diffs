@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1879/1912</field>
+     <field name="unitdate_normal_sim">1879/1912</field>
+     <field name="unitdate_inclusive_teim">1879-1912</field>
+-    <field name="scopecontent_teim">This series consists of reports issued from the Department of Parks including operating reports, foremen's reports, as well as reports pertaining to real estate, Shore Road, rehabilitation, Forest Park, and new park sites.</field>
++    <field name="scopecontent_teim">This series consists of reports issued from the Department of Parks including operating reports, foremen&#39;s reports, as well as reports pertaining to real estate, Shore Road, rehabilitation, Forest Park, and new park sites.</field>
+     <field name="ref_ssi">aspace_ref11_u9q</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Department of Parks, City and Borough of Brooklyn records</field>
++    <field name="author_teim">Robert Sink</field>
+     <field name="collection_unitid_teim">1977.325</field>
+     <field name="series_si">Series 2: Reports</field>
+     <field name="heading_ssm">Series 2: Reports</field>

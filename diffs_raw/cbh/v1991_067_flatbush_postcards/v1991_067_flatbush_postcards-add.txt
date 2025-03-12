@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Collection of Flatbush postcards</field>
+     <field name="unitid_teim">V1991.067</field>
+     <field name="unitid_ssm">V1991.067</field>
+-    <field name="abstract_teim">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled "Town of Flatbush Civic and Cultural Association, Inc."</field>
+-    <field name="abstract_ssm">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled "Town of Flatbush Civic and Cultural Association, Inc."</field>
++    <field name="abstract_teim">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled &#34;Town of Flatbush Civic and Cultural Association, Inc.&#34;</field>
++    <field name="abstract_ssm">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled &#34;Town of Flatbush Civic and Cultural Association, Inc.&#34;</field>
+     <field name="creator_teim">Flatbush Civic and Cultural Association</field>
+     <field name="creator_ssm">Flatbush Civic and Cultural Association</field>
+     <field name="creator_ssm">Flatbush Civic and Cultural Association</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1815/1915</field>
+     <field name="unitdate_normal_sim">1815/1915</field>
+     <field name="unitdate_inclusive_teim">circa 1825 to 1905</field>
+-    <field name="scopecontent_teim">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled "Town of Flatbush Civic and Cultural Association, Inc."</field>
++    <field name="scopecontent_teim">The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled &#34;Town of Flatbush Civic and Cultural Association, Inc.&#34;</field>
+     <field name="acqinfo_teim">Gift of C. F. Tramontana, 1991.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Flatbush Civic and Cultural Association</field>
+@@ -33,9 +33,9 @@
+     <field name="subject_teim">Architecture, Domestic |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Church buildings |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Street photography |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Architecture, Domestic -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Church buildings -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Street photography -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Architecture, Domestic --New York (State) --Kings County</field>
++    <field name="subject_teim">Church buildings --New York (State) --Kings County</field>
++    <field name="subject_teim">Street photography --New York (State) --Kings County</field>
+     <field name="subject_ssm">Architecture, Domestic |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Church buildings |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Street photography |z New York (State) |z Kings County</field>
+@@ -53,10 +53,10 @@
+     <field name="creator_sim">Flatbush Civic and Cultural Association</field>
+     <field name="name_sim">Flatbush Civic and Cultural Association</field>
+     <field name="name_teim">Flatbush Civic and Cultural Association</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
+-    <field name="subject_sim">Architecture, Domestic -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Church buildings -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Street photography -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Buildings, structures, etc. --Pictorial works</field>
++    <field name="subject_sim">Architecture, Domestic --New York (State) --Kings County</field>
++    <field name="subject_sim">Church buildings --New York (State) --Kings County</field>
++    <field name="subject_sim">Street photography --New York (State) --Kings County</field>
+     <field name="material_type_sim">Postcards</field>
+     <field name="material_type_sim">Photographic postcards</field>
+     <field name="material_type_sim">Picture postcards</field>

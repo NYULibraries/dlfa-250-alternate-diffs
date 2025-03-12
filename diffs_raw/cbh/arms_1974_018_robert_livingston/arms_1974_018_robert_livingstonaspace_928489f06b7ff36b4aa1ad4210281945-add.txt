@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_1974_018_robert_livingston</field>
+     <field name="parent_ssi">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+     <field name="parent_ssm">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+-    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents</field>
+-    <field name="parent_unittitles_teim">Series 2: Five Nations Documents</field>
++    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents </field>
++    <field name="parent_unittitles_teim">Series 2: Five Nations Documents </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Livingston papers</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1702/1702</field>
+     <field name="unitdate_normal_sim">1702/1702</field>
+     <field name="unitdate_teim">1702</field>
+-    <field name="scopecontent_teim">Journal of a trip to Canada and back, made by David Schuyler, Wessel Ten Broeck, and Jean Rosie [Johannes Roseboom?], 5 September 1702 [20th c. note in pencil: "not in Vol. IV, Col. Hist. N.Y."].</field>
++    <field name="scopecontent_teim">Journal of a trip to Canada and back, made by David Schuyler, Wessel Ten Broeck, and Jean Rosie [Johannes Roseboom?], 5 September 1702 [20th c. note in pencil: &#34;not in Vol. IV, Col. Hist. N.Y.&#34;].</field>
+     <field name="ref_ssi">aspace_928489f06b7ff36b4aa1ad4210281945</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,9 +29,10 @@
+     <field name="location_ssm">Box: 1, Folder: 51</field>
+     <field name="location_si">Box: 1, Folder: 51</field>
+     <field name="collection_teim">Robert Livingston papers</field>
++    <field name="author_teim">Manning Field. Updated by Sarah Quick in 2024. </field>
+     <field name="collection_unitid_teim">1974.018</field>
+-    <field name="series_sim">Series 2: Five Nations Documents</field>
+-    <field name="series_si">Series 2: Five Nations Documents &gt;&gt; Journal of a trip to Canada</field>
++    <field name="series_sim">Series 2: Five Nations Documents </field>
++    <field name="series_si">Series 2: Five Nations Documents  &gt;&gt; Journal of a trip to Canada</field>
+     <field name="heading_ssm">Journal of a trip to Canada</field>
+     <field name="unitdate_start_sim">1702</field>
+     <field name="unitdate_start_ssm">1702</field>

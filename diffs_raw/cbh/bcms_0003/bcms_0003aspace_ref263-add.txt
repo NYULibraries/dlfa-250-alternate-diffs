@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. Frank Leslie's Illustrated Newspaper</field>
++    <field name="unittitle_ssm">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_normal_ssm">1874-08-22/1874-08-22</field>
+     <field name="unitdate_normal_teim">1874-08-22/1874-08-22</field>
+     <field name="unitdate_normal_sim">1874-08-22/1874-08-22</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Beecher, Henry Ward</field>
+-    <field name="series_si">Beecher, Henry Ward &gt;&gt; Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. Frank Leslie's Illustrated Newspaper</field>
++    <field name="series_si">Beecher, Henry Ward &gt;&gt; Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">Plymouth Pastor-Scene at the Depot at Peekskill, N.Y. and Friday Evening Prayer Meeting in Plymouth-Church Lecture-Room. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_ssm">August 22, 1874</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">220</field>

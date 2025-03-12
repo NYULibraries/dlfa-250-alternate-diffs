@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Minutes of the Home Committee</field>
+     <field name="unittitle_teim">Minutes of the Home Committee</field>
+     <field name="unitdate_teim">1921-1935</field>
+-    <field name="scopecontent_teim">Includes Treasurer's annual reports 1928-1929.</field>
++    <field name="scopecontent_teim">Includes Treasurer&#39;s annual reports 1928-1929.</field>
+     <field name="ref_ssi">aspace_ref40</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">Box: 1, Folder: 14</field>
+     <field name="location_si">Box: 1, Folder: 14</field>
+     <field name="collection_teim">The Froebel Society Records: Brooklyn Chapter</field>
++    <field name="author_teim">Joy Holland</field>
+     <field name="collection_unitid_teim">BCMS.0037</field>
+     <field name="series_sim">Series 4: Home Committee Minutes</field>
+     <field name="series_si">Series 4: Home Committee Minutes &gt;&gt; Minutes of the Home Committee</field>

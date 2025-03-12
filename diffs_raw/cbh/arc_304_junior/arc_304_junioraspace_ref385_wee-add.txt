@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Junior League of Brooklyn records</field>
+     <field name="collection_unitid_ssm">ARC.304</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">President's ad-hoc search committee</field>
+-    <field name="unittitle_teim">President's ad-hoc search committee</field>
++    <field name="unittitle_ssm">President&#39;s ad-hoc search committee</field>
++    <field name="unittitle_teim">President&#39;s ad-hoc search committee</field>
+     <field name="unitdate_normal_ssm">1983/1983</field>
+     <field name="unitdate_normal_teim">1983/1983</field>
+     <field name="unitdate_normal_sim">1983/1983</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 16, Folder: 10</field>
+     <field name="location_si">Box: 16, Folder: 10</field>
+     <field name="collection_teim">Junior League of Brooklyn records</field>
++    <field name="author_teim">Eunice Liu. Digital material processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">ARC.304</field>
+     <field name="series_sim">Series 4: Committees and Task Forces</field>
+-    <field name="series_si">Series 4: Committees and Task Forces &gt;&gt; President's ad-hoc search committee</field>
+-    <field name="heading_ssm">President's ad-hoc search committee</field>
++    <field name="series_si">Series 4: Committees and Task Forces &gt;&gt; President&#39;s ad-hoc search committee</field>
++    <field name="heading_ssm">President&#39;s ad-hoc search committee</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

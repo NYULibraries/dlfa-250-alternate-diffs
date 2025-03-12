@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1863-02-21/1863-02-21</field>
+     <field name="unitdate_normal_sim">1863-02-21/1863-02-21</field>
+     <field name="unitdate_teim">February 21, 1863</field>
+-    <field name="scopecontent_teim">Plans to be home around March 18th. The following day being Washington's Birthday, a grand review of troops by General Hooker is planned.</field>
++    <field name="scopecontent_teim">Plans to be home around March 18th. The following day being Washington&#39;s Birthday, a grand review of troops by General Hooker is planned.</field>
+     <field name="ref_ssi">aspace_ec499b62954ec085834d5587bd9ca0e2</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Letters of James W. Vanderhoef</field>
++    <field name="author_teim">Joy Holland, Manager of Special Collections</field>
+     <field name="collection_unitid_teim">BCMS.0021</field>
+     <field name="series_sim">Series II: Civil War Period Letters and Papers</field>
+     <field name="series_si">Series II: Civil War Period Letters and Papers &gt;&gt; Letter written at Potomac Creek Bridge, Virginia</field>

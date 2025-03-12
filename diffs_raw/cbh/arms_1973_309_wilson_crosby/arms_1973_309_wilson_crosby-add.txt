@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Wilson Crosby park construction notebook</field>
+     <field name="unitid_teim">1973.309</field>
+     <field name="unitid_ssm">1973.309</field>
+-    <field name="abstract_teim">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as "Brooklyn Park."</field>
+-    <field name="abstract_ssm">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as "Brooklyn Park."</field>
++    <field name="abstract_teim">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as &#34;Brooklyn Park.&#34;</field>
++    <field name="abstract_ssm">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as &#34;Brooklyn Park.&#34;</field>
+     <field name="creator_teim">Crosby, Wilson</field>
+     <field name="creator_ssm">Crosby, Wilson</field>
+     <field name="creator_ssm">Crosby, Wilson</field>
+@@ -16,9 +16,9 @@
+     <field name="unitdate_normal_teim">1868/1876</field>
+     <field name="unitdate_normal_sim">1868/1876</field>
+     <field name="unitdate_inclusive_teim">1868-1876</field>
+-    <field name="scopecontent_teim">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as "Brooklyn Park." Includes handwritten formulas and tables for estimating the quantity of masonry required. As no such park in present-day Brooklyn bears the name of Brooklyn Park, the specific park referenced in Crosby's book is not known, though it is possibly Prospect Park, since the book also includes information on manholes in this latter park.</field>
++    <field name="scopecontent_teim">One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as &#34;Brooklyn Park.&#34;  Includes handwritten formulas and tables for estimating the quantity of masonry required.  As no such park in present-day Brooklyn bears the name of Brooklyn Park, the specific park referenced in Crosby&#39;s book is not known, though it is possibly Prospect Park, since the book also includes information on manholes in this latter park.</field>
+     <field name="bioghist_teim">Wilson Crosby was an engineer who lived on Herkimer Street in Brooklyn.</field>
+-    <field name="acqinfo_teim">Gift of A. Gertrude Crosby, date unknown. The collection was formally accessioned in 1973.</field>
++    <field name="acqinfo_teim">Gift of A. Gertrude Crosby, date unknown.  The collection was formally accessioned in 1973.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="genreform_teim">Notebooks</field>
+@@ -33,8 +33,8 @@
+     <field name="persname_ssm">Crosby, Wilson</field>
+     <field name="subject_teim">Engineers |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Parks |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Engineers -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Engineers --New York (State) --Kings County</field>
++    <field name="subject_teim">Parks --New York (State) --Kings County</field>
+     <field name="subject_ssm">Engineers |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Parks |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Wilson Crosby park construction notebook</field>
+@@ -54,8 +54,8 @@
+     <field name="place_sim">Brooklyn Park (New York, N.Y.)</field>
+     <field name="place_sim">Prospect Park (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Engineers -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Parks -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Engineers --New York (State) --Kings County</field>
++    <field name="subject_sim">Parks --New York (State) --Kings County</field>
+     <field name="material_type_sim">Notebooks</field>
+     <field name="material_type_ssm">Notebooks</field>
+     <field name="heading_ssm">Wilson Crosby park construction notebook</field>

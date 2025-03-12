@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Junior League of Brooklyn records</field>
+     <field name="collection_unitid_ssm">ARC.304</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Brooklyn Children's Museum (MUSE)</field>
+-    <field name="unittitle_teim">Brooklyn Children's Museum (MUSE)</field>
++    <field name="unittitle_ssm">Brooklyn Children&#39;s Museum (MUSE)</field>
++    <field name="unittitle_teim">Brooklyn Children&#39;s Museum (MUSE)</field>
+     <field name="unitdate_normal_ssm">1984/1985</field>
+     <field name="unitdate_normal_teim">1984/1985</field>
+     <field name="unitdate_normal_sim">1984/1985</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 17, Folder: 18</field>
+     <field name="location_si">Box: 17, Folder: 18</field>
+     <field name="collection_teim">Junior League of Brooklyn records</field>
++    <field name="author_teim">Eunice Liu. Digital material processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">ARC.304</field>
+     <field name="series_sim">Series 5: Subject Files</field>
+-    <field name="series_si">Series 5: Subject Files &gt;&gt; Brooklyn Children's Museum (MUSE)</field>
+-    <field name="heading_ssm">Brooklyn Children's Museum (MUSE)</field>
++    <field name="series_si">Series 5: Subject Files &gt;&gt; Brooklyn Children&#39;s Museum (MUSE)</field>
++    <field name="heading_ssm">Brooklyn Children&#39;s Museum (MUSE)</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

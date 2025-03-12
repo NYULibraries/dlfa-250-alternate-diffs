@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_1988_018_womens_exchange</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Women's Exchange of Brooklyn records</field>
+-    <field name="collection_ssm">Women's Exchange of Brooklyn records</field>
++    <field name="collection_sim">Women&#39;s Exchange of Brooklyn records</field>
++    <field name="collection_ssm">Women&#39;s Exchange of Brooklyn records</field>
+     <field name="collection_unitid_ssm">1988.018</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 1: Minutes</field>
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1942/1964</field>
+     <field name="unitdate_normal_sim">1942/1964</field>
+     <field name="unitdate_inclusive_teim">1942-1964</field>
+-    <field name="scopecontent_teim">This series contains the monthly meeting minutes of the Board of Managers, accompanied by a treasurer's report on the previous month's activities. The minutes provide details on the activities, plans, and concerns of the Women's Exchange, and report on new memberships, resignations, and the business affairs of the Exchange.</field>
++    <field name="scopecontent_teim">This series contains the monthly meeting minutes of the Board of Managers, accompanied by a treasurer&#39;s report on the previous month&#39;s activities. The minutes provide details on the activities, plans, and concerns of the Women&#39;s Exchange, and report on new memberships, resignations, and the business affairs of the Exchange.</field>
+     <field name="ref_ssi">aspace_ref9_wpi</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -22,7 +22,8 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Women's Exchange of Brooklyn records</field>
++    <field name="collection_teim">Women&#39;s Exchange of Brooklyn records</field>
++    <field name="author_teim">Jillian Cuellar</field>
+     <field name="collection_unitid_teim">1988.018</field>
+     <field name="series_si">Series 1: Minutes</field>
+     <field name="heading_ssm">Series 1: Minutes</field>

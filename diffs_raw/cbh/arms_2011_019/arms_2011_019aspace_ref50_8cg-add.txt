@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">2012 January 19</field>
+-    <field name="scopecontent_teim">In the interview, Hong discusses her family; racial identity and racially ambiguous appearance; educational experiences; career path; father's immigration to the United States from China; and the history of media portrayals of mixed race people. Interview conducted by Jen Chau.</field>
++    <field name="scopecontent_teim">In the interview, Hong discusses her family; racial identity and racially ambiguous appearance; educational experiences; career path; father&#39;s immigration to the United States from China; and the history of media portrayals of mixed race people. Interview conducted by Jen Chau.</field>
+     <field name="bioghist_teim">Lenge Hong was born to a Scottish mother and a Chinese father and raised in Miami, Florida. Hong received a B.F.A. in film and video production from New York University, an M.F.A. in creative writing from the New School, and an M.L.S. from Pratt Institute, all located in New York City. She worked as a film researcher and as an archivist at the New York Historical Society in New York City.</field>
+     <field name="geogname_teim">United States |x Emigration and immigration</field>
+     <field name="geogname_teim">China</field>
+@@ -34,15 +34,15 @@
+     <field name="subject_teim">Scottish Americans |z Florida |z Miami</field>
+     <field name="subject_teim">Race identity</field>
+     <field name="subject_teim">Chinese Americans |z Florida |z Miami</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Racially mixed families</field>
+-    <field name="subject_teim">Racially ambiguous people</field>
+-    <field name="subject_teim">Education, Higher -- New York (State) -- New York</field>
+-    <field name="subject_teim">Racially mixed people</field>
+-    <field name="subject_teim">Racism in mass media</field>
+-    <field name="subject_teim">Scottish Americans -- Florida -- Miami</field>
+-    <field name="subject_teim">Race identity</field>
+-    <field name="subject_teim">Chinese Americans -- Florida -- Miami</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --New York</field>
++    <field name="subject_teim">Racially mixed families</field>
++    <field name="subject_teim">Racially ambiguous people</field>
++    <field name="subject_teim">Education, Higher -- New York (State) -- New York</field>
++    <field name="subject_teim">Racially mixed people</field>
++    <field name="subject_teim">Racism in mass media</field>
++    <field name="subject_teim">Scottish Americans --Florida --Miami</field>
++    <field name="subject_teim">Race identity</field>
++    <field name="subject_teim">Chinese Americans --Florida --Miami</field>
+     <field name="subject_ssm">Chinese Americans |z New York (State) |z New York</field>
+     <field name="subject_ssm">Racially mixed families</field>
+     <field name="subject_ssm">Racially ambiguous people</field>
+@@ -58,22 +58,23 @@
+     <field name="repository_ssm">cbh</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_ssm">China</field>
+     <field name="place_ssm">Miami (Fla.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
+     <field name="place_sim">China</field>
+     <field name="place_sim">Miami (Fla.)</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- New York</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --New York</field>
+     <field name="subject_sim">Racially mixed families</field>
+     <field name="subject_sim">Racially ambiguous people</field>
+     <field name="subject_sim">Education, Higher -- New York (State) -- New York</field>
+     <field name="subject_sim">Racially mixed people</field>
+     <field name="subject_sim">Racism in mass media</field>
+-    <field name="subject_sim">Scottish Americans -- Florida -- Miami</field>
++    <field name="subject_sim">Scottish Americans --Florida --Miami</field>
+     <field name="subject_sim">Race identity</field>
+-    <field name="subject_sim">Chinese Americans -- Florida -- Miami</field>
++    <field name="subject_sim">Chinese Americans --Florida --Miami</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Lenge Hong</field>
+     <field name="heading_ssm">Lenge Hong</field>

@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">American Board of Commissioners of Foreign Missions annual meeting book</field>
+     <field name="unitid_teim">1977.083</field>
+     <field name="unitid_ssm">1977.083</field>
+-    <field name="abstract_teim">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</field>
+-    <field name="abstract_ssm">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</field>
++    <field name="abstract_teim">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees&#39; states of residence and who they stayed with while in Brooklyn.</field>
++    <field name="abstract_ssm">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees&#39; states of residence and who they stayed with while in Brooklyn.</field>
+     <field name="creator_teim">American Board of Commissioners for Foreign Missions</field>
+     <field name="creator_ssm">American Board of Commissioners for Foreign Missions</field>
+     <field name="creator_ssm">American Board of Commissioners for Foreign Missions</field>
+@@ -16,9 +16,9 @@
+     <field name="unitdate_normal_teim">1870/1870</field>
+     <field name="unitdate_normal_sim">1870/1870</field>
+     <field name="unitdate_teim">1870</field>
+-    <field name="scopecontent_teim">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</field>
++    <field name="scopecontent_teim">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees&#39; states of residence and who they stayed with while in Brooklyn.</field>
+     <field name="bioghist_teim">The American Board of Commissioners of Foreign Missions was founded in 1810 to support foreign missionary efforts. The 61st annual meeting of the Board was held in Brooklyn, N.Y. in October of 1870.</field>
+-    <field name="acqinfo_teim">Gift of H.H. McFarland, 1872. Formally accessioned in 1977.</field>
++    <field name="acqinfo_teim">Gift of H.H. McFarland, 1872.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">American Board of Commissioners for Foreign Missions</field>
+     <field name="corpname_teim">American Board of Commissioners for Foreign Missions</field>
+@@ -35,10 +35,10 @@
+     <field name="subject_teim">Missionaries |z United States</field>
+     <field name="subject_teim">Missions -- Congresses</field>
+     <field name="subject_teim">Congresses and conventions |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Religious institutions -- United States</field>
+-    <field name="subject_teim">Missionaries -- United States</field>
+-    <field name="subject_teim">Missions -- Congresses</field>
+-    <field name="subject_teim">Congresses and conventions -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Religious institutions --United States</field>
++    <field name="subject_teim">Missionaries --United States</field>
++    <field name="subject_teim">Missions -- Congresses</field>
++    <field name="subject_teim">Congresses and conventions --New York (State) --Kings County</field>
+     <field name="subject_ssm">Religious institutions |z United States</field>
+     <field name="subject_ssm">Missionaries |z United States</field>
+     <field name="subject_ssm">Missions -- Congresses</field>
+@@ -58,10 +58,10 @@
+     <field name="name_sim">American Board of Commissioners for Foreign Missions</field>
+     <field name="name_teim">American Board of Commissioners for Foreign Missions</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Religious institutions -- United States</field>
+-    <field name="subject_sim">Missionaries -- United States</field>
++    <field name="subject_sim">Religious institutions --United States</field>
++    <field name="subject_sim">Missionaries --United States</field>
+     <field name="subject_sim">Missions -- Congresses</field>
+-    <field name="subject_sim">Congresses and conventions -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Congresses and conventions --New York (State) --Kings County</field>
+     <field name="material_type_sim">Attendance lists</field>
+     <field name="material_type_sim">Membership lists</field>
+     <field name="material_type_ssm">Attendance lists</field>

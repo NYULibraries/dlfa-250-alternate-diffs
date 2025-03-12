@@ -1,0 +1,67 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1989/1989</field>
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_inclusive_teim">1989 May 4</field>
+-    <field name="scopecontent_teim">In the interview, Hernandez discusses his Latino/a friends, as well as relations between African-American and Latino/a students at Bushwick High School, where he is a student. He talks about his experiences in the school's bilingual program, and about life in the neighborhood. He mentions Casa Borínquen, a local Latin dance club, and ''La Avenida de Puerto Rico," or Graham Avenue, so called because of the large number of Latino/a businesses there. Finally, he talks of his hopes of returning to Puerto Rico and continuing his education there, and of the impact American culture has had on him. Interview conducted by Morton Marks.</field>
++    <field name="scopecontent_teim">In the interview, Hernandez discusses his Latino/a friends, as well as relations between African-American and Latino/a students at Bushwick High School, where he is a student. He talks about his experiences in the school&#39;s bilingual program, and about life in the neighborhood. He mentions Casa Borínquen, a local Latin dance club, and &#39;&#39;La Avenida de Puerto Rico,&#34; or Graham Avenue, so called because of the large number of Latino/a businesses there. Finally, he talks of his hopes of returning to Puerto Rico and continuing his education there, and of the impact American culture has had on him. Interview conducted by Morton Marks.</field>
+     <field name="bioghist_teim">Ismael Hernandez was born circa 1970 in Quebradillas, a small town in the west of Puerto Rico. Hernandez came to New York as an infant where he attended school until the third grade, and then returned to Puerto Rico for six years. He came back to New York in 1985 at the age of 15 and lived with an older brother in the Bushwick neighborhood of Brooklyn. His parents remained in Puerto Rico.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Bushwick (New York, N.Y.)</field>
+@@ -41,14 +41,14 @@
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Music</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z New York |x Social life and customs |y 20th century</field>
+     <field name="subject_teim">African Americans -- Education -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Dominican Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ecuadorian Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_teim">Hispanic Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Rican youth</field>
+-    <field name="subject_teim">Puerto Ricans -- Education -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Music</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- New York -- Social life and customs -- 20th century</field>
++    <field name="subject_teim">Dominican Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Ecuadorian Americans --New York (State) --New York</field>
++    <field name="subject_teim">High school students --New York (State) --New York</field>
++    <field name="subject_teim">Hispanic Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Rican youth</field>
++    <field name="subject_teim">Puerto Ricans --Education --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Music</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --New York --Social life and customs --20th century</field>
+     <field name="subject_ssm">African Americans -- Education -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Dominican Americans |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Ecuadorian Americans |z New York (State) |z New York</field>
+@@ -67,21 +67,22 @@
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="place_ssm">Bushwick (New York, N.Y.)</field>
+     <field name="place_ssm">Puerto Rico</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Bushwick (New York, N.Y.)</field>
+     <field name="place_sim">Puerto Rico</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
+     <field name="subject_sim">African Americans -- Education -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Dominican Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ecuadorian Americans -- New York (State) -- New York</field>
+-    <field name="subject_sim">High school students -- New York (State) -- New York</field>
+-    <field name="subject_sim">Hispanic Americans -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Dominican Americans --New York (State) --Kings County</field>
++    <field name="subject_sim">Ecuadorian Americans --New York (State) --New York</field>
++    <field name="subject_sim">High school students --New York (State) --New York</field>
++    <field name="subject_sim">Hispanic Americans --New York (State) --Kings County</field>
+     <field name="subject_sim">Puerto Rican youth</field>
+-    <field name="subject_sim">Puerto Ricans -- Education -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Music</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- New York -- Social life and customs -- 20th century</field>
++    <field name="subject_sim">Puerto Ricans --Education --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Music</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --New York --Social life and customs --20th century</field>
+     <field name="collection_teim">Hispanic Communities Documentation Project records and oral histories</field>
++    <field name="author_teim">Cesar Garza</field>
+     <field name="collection_unitid_teim">ARC.032</field>
+     <field name="series_sim">Series 1: Publicized oral histories</field>
+     <field name="series_si">Series 1: Publicized oral histories &gt;&gt; Hernandez, Ismael</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1974/1975</field>
+     <field name="unitdate_normal_sim">1974/1975</field>
+     <field name="unitdate_inclusive_teim">1974-1975</field>
+-    <field name="scopecontent_teim">"The Tower" newsletter, "State of the Parish," various programs.</field>
++    <field name="scopecontent_teim">&#34;The Tower&#34; newsletter, &#34;State of the Parish,&#34; various programs.</field>
+     <field name="ref_ssi">aspace_f028db639102785f503e42b2b780ad47</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 1, Folder: 10</field>
+     <field name="location_si">Box: 1, Folder: 10</field>
+     <field name="collection_teim">Catholic churches and organizations publications and ephemera</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">1986.016</field>
+     <field name="series_si">St. Michael-St. Edward</field>
+     <field name="heading_ssm">St. Michael-St. Edward</field>

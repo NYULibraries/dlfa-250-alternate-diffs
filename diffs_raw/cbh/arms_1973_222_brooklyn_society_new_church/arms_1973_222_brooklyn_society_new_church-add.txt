@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Society of the New Church property records</field>
+     <field name="unitid_teim">1973.222</field>
+     <field name="unitid_ssm">1973.222</field>
+-    <field name="abstract_teim">Records relating to the Brooklyn Society of the New Church's purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence. Documents span the period 1868 to 1926.</field>
+-    <field name="abstract_ssm">Records relating to the Brooklyn Society of the New Church's purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence. Documents span the period 1868 to 1926.</field>
++    <field name="abstract_teim">Records relating to the Brooklyn Society of the New Church&#39;s purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence.  Documents span the period 1868 to 1926.</field>
++    <field name="abstract_ssm">Records relating to the Brooklyn Society of the New Church&#39;s purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence.  Documents span the period 1868 to 1926.</field>
+     <field name="creator_teim">Brooklyn Society of the New Church</field>
+     <field name="creator_ssm">Brooklyn Society of the New Church</field>
+     <field name="creator_ssm">Brooklyn Society of the New Church</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1868/1926</field>
+     <field name="unitdate_normal_sim">1868/1926</field>
+     <field name="unitdate_inclusive_teim">1868-1926</field>
+-    <field name="scopecontent_teim">Records relating to the Brooklyn Society of the New Church's purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence. Documents span the period 1868 to 1926.</field>
+-    <field name="bioghist_teim">The Brooklyn Society of the New Church was a Swedenborgian church organized in the 1850s. In 1869, the church purchased land at Clark and Monroe Streets that had formerly belonged to the Universalist Church of the Restoration.</field>
++    <field name="scopecontent_teim">Records relating to the Brooklyn Society of the New Church&#39;s purchase of property at Clark and Monroe Streets, including subscription lists, minutes, mortgages, receipts, and correspondence.  Documents span the period 1868 to 1926.</field>
++    <field name="bioghist_teim">The Brooklyn Society of the New Church was a Swedenborgian church organized in the 1850s.  In 1869, the church purchased land at Clark and Monroe Streets that had formerly belonged to the Universalist Church of the Restoration.</field>
+     <field name="acqinfo_teim">Gift of D. Irving Mead, 1946.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Society of the New Church</field>
+@@ -39,8 +39,8 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Church property |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Religious institutions |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Church property -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Church property --New York (State) --Kings County</field>
++    <field name="subject_teim">Religious institutions --New York (State) --Kings County</field>
+     <field name="subject_ssm">Church property |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Religious institutions |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn Society of the New Church property records</field>
+@@ -58,8 +58,8 @@
+     <field name="name_sim">Brooklyn Society of the New Church</field>
+     <field name="name_teim">Brooklyn Society of the New Church</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Church property -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Church property --New York (State) --Kings County</field>
++    <field name="subject_sim">Religious institutions --New York (State) --Kings County</field>
+     <field name="material_type_sim">Subscription lists</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_sim">Mortgages</field>

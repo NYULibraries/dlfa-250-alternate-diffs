@@ -1,0 +1,77 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -43,7 +43,7 @@
+     <field name="persname_teim">Galamison, Milton A., 1923-1988 (Milton Arthur)</field>
+     <field name="persname_teim">King, Martin Luther, Jr., 1929-1968</field>
+     <field name="persname_teim">Griffith, Michael, 1963-1986</field>
+-    <field name="persname_teim">Kennedy, John F., 1917-1963 (John Fitzgerald)</field>
++    <field name="persname_teim">Kennedy, John F., 1917-1963  (John Fitzgerald)</field>
+     <field name="persname_teim">Koch, Ed</field>
+     <field name="persname_teim">Miller, Arthur, Jr.</field>
+     <field name="persname_teim">X, Malcolm, 1925-1965</field>
+@@ -53,7 +53,7 @@
+     <field name="persname_ssm">Galamison, Milton A., 1923-1988 (Milton Arthur)</field>
+     <field name="persname_ssm">King, Martin Luther, Jr., 1929-1968</field>
+     <field name="persname_ssm">Griffith, Michael, 1963-1986</field>
+-    <field name="persname_ssm">Kennedy, John F., 1917-1963 (John Fitzgerald)</field>
++    <field name="persname_ssm">Kennedy, John F., 1917-1963  (John Fitzgerald)</field>
+     <field name="persname_ssm">Koch, Ed</field>
+     <field name="persname_ssm">Miller, Arthur, Jr.</field>
+     <field name="persname_ssm">X, Malcolm, 1925-1965</field>
+@@ -72,12 +72,12 @@
+     <field name="subject_teim">Black Muslims</field>
+     <field name="subject_teim">Black nationalism -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Civil rights movements -- United States -- 20th century</field>
+-    <field name="subject_teim">Community activists -- New York (State) -- New York</field>
+-    <field name="subject_teim">Gentrification -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Muslims -- New York (State) -- New York</field>
+-    <field name="subject_teim">Peace movements -- United States -- History</field>
+-    <field name="subject_teim">Police-community relations -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Racism -- New York (State) -- New York</field>
++    <field name="subject_teim">Community activists --New York (State) --New York</field>
++    <field name="subject_teim">Gentrification -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Muslims --New York (State) --New York</field>
++    <field name="subject_teim">Peace movements -- United States -- History</field>
++    <field name="subject_teim">Police-community relations -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Racism --New York (State) --New York</field>
+     <field name="subject_teim">Vietnam War, 1961-1975</field>
+     <field name="subject_ssm">Assassination -- United States</field>
+     <field name="subject_ssm">Black Muslims</field>
+@@ -105,7 +105,7 @@
+     <field name="name_sim">Galamison, Milton A., 1923-1988 (Milton Arthur)</field>
+     <field name="name_sim">King, Martin Luther, Jr., 1929-1968</field>
+     <field name="name_sim">Griffith, Michael, 1963-1986</field>
+-    <field name="name_sim">Kennedy, John F., 1917-1963 (John Fitzgerald)</field>
++    <field name="name_sim">Kennedy, John F., 1917-1963  (John Fitzgerald)</field>
+     <field name="name_sim">Koch, Ed</field>
+     <field name="name_sim">Miller, Arthur, Jr.</field>
+     <field name="name_sim">X, Malcolm, 1925-1965</field>
+@@ -118,7 +118,7 @@
+     <field name="name_teim">Galamison, Milton A., 1923-1988 (Milton Arthur)</field>
+     <field name="name_teim">King, Martin Luther, Jr., 1929-1968</field>
+     <field name="name_teim">Griffith, Michael, 1963-1986</field>
+-    <field name="name_teim">Kennedy, John F., 1917-1963 (John Fitzgerald)</field>
++    <field name="name_teim">Kennedy, John F., 1917-1963  (John Fitzgerald)</field>
+     <field name="name_teim">Koch, Ed</field>
+     <field name="name_teim">Miller, Arthur, Jr.</field>
+     <field name="name_teim">X, Malcolm, 1925-1965</field>
+@@ -134,14 +134,15 @@
+     <field name="subject_sim">Black Muslims</field>
+     <field name="subject_sim">Black nationalism -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Civil rights movements -- United States -- 20th century</field>
+-    <field name="subject_sim">Community activists -- New York (State) -- New York</field>
++    <field name="subject_sim">Community activists --New York (State) --New York</field>
+     <field name="subject_sim">Gentrification -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Muslims -- New York (State) -- New York</field>
++    <field name="subject_sim">Muslims --New York (State) --New York</field>
+     <field name="subject_sim">Peace movements -- United States -- History</field>
+     <field name="subject_sim">Police-community relations -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Racism -- New York (State) -- New York</field>
++    <field name="subject_sim">Racism --New York (State) --New York</field>
+     <field name="subject_sim">Vietnam War, 1961-1975</field>
+     <field name="collection_teim">Voices of Crown Heights oral histories</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">2016.027</field>
+     <field name="series_sim">Voices of Crown Heights oral histories: Brooklyn Historical Society</field>
+     <field name="series_si">Voices of Crown Heights oral histories: Brooklyn Historical Society &gt;&gt; Green, Richard</field>

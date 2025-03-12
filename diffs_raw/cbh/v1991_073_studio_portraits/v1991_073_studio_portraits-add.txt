@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,12 +25,12 @@
+     <field name="scopecontent_teim">Dana, 565 Fulton Street</field>
+     <field name="scopecontent_teim">Duryea, 39 Greenpoint Avenue</field>
+     <field name="scopecontent_teim">Ehm, 708 and 710 Broadway</field>
+-    <field name="scopecontent_teim">Estabrook's Ferrotypes, 375 Fulton Street</field>
++    <field name="scopecontent_teim">Estabrook&#39;s Ferrotypes, 375 Fulton Street</field>
+     <field name="scopecontent_teim">French Art Studio, 457 86th Street</field>
+     <field name="scopecontent_teim">Gardner and Co., 276 and 278 Fulton Street</field>
+     <field name="scopecontent_teim">Hall, Joseph, 111 Fulton Street</field>
+     <field name="scopecontent_teim">Holler, Henry, 984 Broadway</field>
+-    <field name="scopecontent_teim">Jacob's Studio, 1431 Broadway</field>
++    <field name="scopecontent_teim">Jacob&#39;s Studio, 1431 Broadway</field>
+     <field name="scopecontent_teim">Kopke, Harry, 1293 Broadway and 479 Fulton Street</field>
+     <field name="scopecontent_teim">Lane, 461 Fulton Street</field>
+     <field name="scopecontent_teim">Ollivier, 466 5th Avenue</field>
+@@ -43,7 +43,8 @@
+     <field name="scopecontent_teim">Warshaw, A.</field>
+     <field name="scopecontent_teim">Weinig, 485 Fulton Street</field>
+     <field name="scopecontent_teim">Werner, A., 709-711 Broadway</field>
+-    <field name="scopecontent_teim">This collection includes images of the following named individuals:</field>
++    <field name="scopecontent_teim">
++This collection includes images of the following named individuals:</field>
+     <field name="scopecontent_teim">Buskirk, Schuyler</field>
+     <field name="scopecontent_teim">Douglas, Elmira</field>
+     <field name="scopecontent_teim">Hueker, Mamie</field>
+@@ -51,7 +52,7 @@
+     <field name="scopecontent_teim">MacKay, Lucy and Sidney</field>
+     <field name="scopecontent_teim">Vanderveer, Francis S.</field>
+     <field name="scopecontent_teim">Woodman, Nathaniel Hubbard</field>
+-    <field name="acqinfo_teim">A portion of the collection was a gift of Clark S. Marlor, 1991. The items in accession 2022.025 and the portrait of Elmira Douglas were the gift of Shelley Cardiel. The tintype from Estabrook's Ferrotypes was a transfer from the Summit Historical Society, 2020. The portrait from Sheppard studio was the gift of Bonnie L. Miller, 2019. The portrait from Jacob's Studio was the gift of Joann Lindstrom, 2019. The Crawford portrait was an unsolicited donation from an unknown sender. The portrait from Van Doorn was a transfer from the Historical Society of Frederick County, 2023. The source and date of acquisition for the remainder of the collection are unknown.</field>
++    <field name="acqinfo_teim">A portion of the collection was a gift of Clark S. Marlor, 1991. The items in accession 2022.025 and the portrait of Elmira Douglas were the gift of Shelley Cardiel. The tintype from Estabrook&#39;s Ferrotypes was a transfer from the Summit Historical Society, 2020. The portrait from Sheppard studio was the gift of Bonnie L. Miller, 2019. The portrait from Jacob&#39;s Studio was the gift of Joann Lindstrom, 2019. The Crawford portrait was an unsolicited donation from an unknown sender. The portrait from Van Doorn was a transfer from the Historical Society of Frederick County, 2023. The source and date of acquisition for the remainder of the collection are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="genreform_teim">Black-and-white prints (photographs)</field>
+@@ -67,7 +68,7 @@
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Photographers |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Photographers -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Photographers --New York (State) --Kings County</field>
+     <field name="subject_ssm">Photographers |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Collection of studio portraits by Brooklyn photographers</field>
+     <field name="collection_ssm">Collection of studio portraits by Brooklyn photographers</field>
+@@ -81,7 +82,7 @@
+     <field name="format_ssm">Archival Collection</field>
+     <field name="format_ii">0</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Photographers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Photographers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Black-and-white prints (photographs)</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_sim">Group portraits</field>

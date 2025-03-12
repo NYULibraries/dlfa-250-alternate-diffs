@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,10 +30,10 @@
+     <field name="subject_teim">Roads |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Food inspection |z New York (State) |z Queens County</field>
+     <field name="subject_teim">Police |z New York (State) |z Queens County</field>
+-    <field name="subject_teim">Roads -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Roads -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Food inspection -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Police -- New York (State) -- Queens County</field>
++    <field name="subject_teim">Roads --New York (State) --Queens County</field>
++    <field name="subject_teim">Roads --New York (State) --Kings County</field>
++    <field name="subject_teim">Food inspection --New York (State) --Queens County</field>
++    <field name="subject_teim">Police --New York (State) --Queens County</field>
+     <field name="subject_ssm">Roads |z New York (State) |z Queens County</field>
+     <field name="subject_ssm">Roads |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Food inspection |z New York (State) |z Queens County</field>
+@@ -53,10 +53,10 @@
+     <field name="name_sim">Jamaica (New York, N.Y.). Office of Police</field>
+     <field name="name_teim">Jamaica (New York, N.Y.). Office of Police</field>
+     <field name="place_sim">Jamaica (New York, N.Y.)</field>
+-    <field name="subject_sim">Roads -- New York (State) -- Queens County</field>
+-    <field name="subject_sim">Roads -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Food inspection -- New York (State) -- Queens County</field>
+-    <field name="subject_sim">Police -- New York (State) -- Queens County</field>
++    <field name="subject_sim">Roads --New York (State) --Queens County</field>
++    <field name="subject_sim">Roads --New York (State) --Kings County</field>
++    <field name="subject_sim">Food inspection --New York (State) --Queens County</field>
++    <field name="subject_sim">Police --New York (State) --Queens County</field>
+     <field name="heading_ssm">Jamaica Office of Police records</field>
+     <field name="unitdate_start_sim">1780</field>
+     <field name="unitdate_start_ssm">1780</field>

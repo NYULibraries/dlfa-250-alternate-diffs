@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+     <field name="parent_ssm">aspace_ref53_eg9</field>
+     <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_ssm">Harvey's Select School</field>
++    <field name="parent_unittitles_ssm">Harvey&amp;#39;s Select School</field>
+     <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_teim">Harvey's Select School</field>
++    <field name="parent_unittitles_teim">Harvey&amp;#39;s Select School</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn schools collection</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_sim">Harvey's Select School</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; Harvey's Select School &gt;&gt; Promotional pamphlet</field>
++    <field name="series_sim">Harvey&amp;#39;s Select School</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; Harvey&#39;s Select School &gt;&gt; Promotional pamphlet</field>
+     <field name="heading_ssm">Promotional pamphlet</field>
+     <field name="unitdate_start_sim">1846</field>
+     <field name="unitdate_start_ssm">1846</field>

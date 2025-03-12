@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_sim">1885/1950</field>
+     <field name="unitdate_bulk_teim">1885-1950</field>
+     <field name="unitdate_inclusive_teim">1852-2010</field>
+-    <field name="scopecontent_teim">The sub-series contains covers (envelopes) which contain auxiliary markings, dating from 1852 to 2010. It is arranged alpabetically by marking (registered, returned, etc.). Of note is a World War II letter from a father to his son, who was captured in the Pacific. It includes correspondence between Snitzer and Senator Charles Schumer's office regarding the letter.</field>
++    <field name="scopecontent_teim">The sub-series contains covers (envelopes) which contain auxiliary markings, dating from 1852 to 2010. It is arranged alpabetically by marking (registered, returned, etc.). Of note is a World War II letter from a father to his son, who was captured in the Pacific. It includes correspondence between Snitzer and Senator Charles Schumer&#39;s office regarding the letter.</field>
+     <field name="ref_ssi">aspace_ref8_yuy</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -31,6 +31,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Fred Snitzer collection of Kings County postal ephemera</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.003</field>
+     <field name="series_sim">Series 2: Covers</field>
+     <field name="series_si">Series 2: Covers &gt;&gt; Sub-series 5: Auxiliary Markings</field>

@@ -1,0 +1,58 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Jarvis S. Wight medical scrapbook</field>
+     <field name="unitid_teim">ARC.256</field>
+     <field name="unitid_ssm">ARC.256</field>
+-    <field name="abstract_teim">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight. The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures. Some handwritten medical notes are also included.</field>
+-    <field name="abstract_ssm">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight. The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures. Some handwritten medical notes are also included.</field>
++    <field name="abstract_teim">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight.  The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures.  Some handwritten medical notes are also included.</field>
++    <field name="abstract_ssm">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight.  The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures.  Some handwritten medical notes are also included.</field>
+     <field name="creator_teim">Wight, J. S. (Jarvis Sherman)</field>
+     <field name="creator_ssm">Wight, J. S. (Jarvis Sherman)</field>
+     <field name="creator_ssm">Wight, J. S. (Jarvis Sherman)</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1892/1905</field>
+     <field name="unitdate_normal_sim">1892/1905</field>
+     <field name="unitdate_inclusive_teim">1892-1905</field>
+-    <field name="scopecontent_teim">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight. The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures. Some handwritten medical notes are also included.</field>
+-    <field name="bioghist_teim">Jarvis Sherman Wight (1834-1901) was a prominent Brooklyn physician and surgeon. He received medical training at Tufts College near Boston, MA, as well as the College of Physicians and Surgeons and Long Island College Hospital in New York and Brooklyn, N.Y. He was an assistant surgeon during the Civil War, a lecturer at Long Island College Hospital, and a consulting surgeon at St. Mary's Hospital and the Eastern District Hospital in Brooklyn. Wight was a member of several medical organizations, including the Medical Society in the County of Kings, the Brooklyn Surgical Society, the New York State Medical Association, the American Academy of Medicine, and the American Surgical Association. Wight invented many surgical instruments and authored several articles published in medical journals.</field>
++    <field name="scopecontent_teim">Scrapbook of articles removed from various medical journals, most written by Jarvis S. Wight.  The articles date from 1892 to 1905 and relate to various medical subjects, conditions, and procedures.  Some handwritten medical notes are also included.</field>
++    <field name="bioghist_teim">Jarvis Sherman Wight (1834-1901) was a prominent Brooklyn physician and surgeon.  He received medical training at Tufts College near Boston, MA, as well as the College of Physicians and Surgeons and Long Island College Hospital in New York and Brooklyn, N.Y.  He was an assistant surgeon during the Civil War, a lecturer at Long Island College Hospital, and a consulting surgeon at St. Mary&#39;s Hospital and the Eastern District Hospital in Brooklyn.  Wight was a member of several medical organizations, including the Medical Society in the County of Kings, the Brooklyn Surgical Society, the New York State Medical Association, the American Academy of Medicine, and the American Surgical Association.  Wight invented many surgical instruments and authored several articles published in medical journals.</field>
+     <field name="acqinfo_teim">Gift of Carol Wight, date unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -40,11 +40,11 @@
+     <field name="subject_teim">Medicine</field>
+     <field name="subject_teim">Surgeons |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Surgery</field>
+-    <field name="subject_teim">Surgery -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Physicians -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Medicine -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Medicine</field>
+-    <field name="subject_teim">Surgeons -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Surgery --New York (State) --Kings County</field>
++    <field name="subject_teim">Physicians --New York (State) --Kings County</field>
++    <field name="subject_teim">Medicine --New York (State) --Kings County</field>
++    <field name="subject_teim">Medicine</field>
++    <field name="subject_teim">Surgeons --New York (State) --Kings County</field>
+     <field name="subject_ssm">Surgery</field>
+     <field name="subject_ssm">Surgery |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Physicians |z New York (State) |z Kings County</field>
+@@ -67,11 +67,11 @@
+     <field name="name_teim">Wight, J. S. (Jarvis Sherman)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Surgery</field>
+-    <field name="subject_sim">Surgery -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Physicians -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Medicine -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Surgery --New York (State) --Kings County</field>
++    <field name="subject_sim">Physicians --New York (State) --Kings County</field>
++    <field name="subject_sim">Medicine --New York (State) --Kings County</field>
+     <field name="subject_sim">Medicine</field>
+-    <field name="subject_sim">Surgeons -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Surgeons --New York (State) --Kings County</field>
+     <field name="material_type_sim">Journals (periodicals)</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Articles</field>

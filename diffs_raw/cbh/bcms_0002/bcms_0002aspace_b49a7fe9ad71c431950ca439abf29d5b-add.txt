@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Brooklyn Daily Eagle photographs</field>
+     <field name="collection_unitid_ssm">BCMS.0002</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Weed, J. Spencer: President of Nat'l Horse Show</field>
+-    <field name="unittitle_teim">Weed, J. Spencer: President of Nat'l Horse Show</field>
++    <field name="unittitle_ssm">Weed, J. Spencer: President of Nat&#39;l Horse Show</field>
++    <field name="unittitle_teim">Weed, J. Spencer: President of Nat&#39;l Horse Show</field>
+     <field name="ref_ssi">aspace_b49a7fe9ad71c431950ca439abf29d5b</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Case: 1</field>
+     <field name="location_si">Case: 1</field>
+     <field name="collection_teim">Brooklyn Daily Eagle photographs</field>
++    <field name="author_teim">Brooklyn Collection staff and finding aid revised by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0002</field>
+     <field name="series_sim">Morgue Photographs</field>
+     <field name="series_sim">W</field>
+-    <field name="series_si">Morgue Photographs &gt;&gt; W &gt;&gt; Weed, J. Spencer: President of Nat'l Horse Show</field>
+-    <field name="heading_ssm">Weed, J. Spencer: President of Nat'l Horse Show</field>
++    <field name="series_si">Morgue Photographs &gt;&gt; W &gt;&gt; Weed, J. Spencer: President of Nat&#39;l Horse Show</field>
++    <field name="heading_ssm">Weed, J. Spencer: President of Nat&#39;l Horse Show</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">45065</field>
+   </doc>

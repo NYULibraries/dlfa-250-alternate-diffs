@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_sim">1991/1991</field>
+     <field name="unitdate_teim">1991</field>
+     <field name="scopecontent_teim">This interview was conducted on May 12, 1988.</field>
+-    <field name="bioghist_teim">Arthur E. Blyn was born on August 30, 1911 in Manhattan. Blyn received his undergraduate degree from the University of Rochester and law degree from the New York Law School. Blyn was chairman of the American Labor Party in Brooklyn's 18th Assembly District and then later served as a judge on the Civil Court of the City of New York and the Surrogate and Supreme Courts of New York County. He died on January 8, 2005.</field>
+-    <field name="phystech_teim">Cassette tapes are not available for research use. Access to the interview is available digitally onsite at Center for Brooklyn History's Othmer Library.</field>
++    <field name="bioghist_teim">Arthur E. Blyn was born on August 30, 1911 in Manhattan. Blyn received his undergraduate degree from the University of Rochester and law degree from the New York Law School. Blyn was chairman of the American Labor Party in Brooklyn&#39;s 18th Assembly District and then later served as a judge on the Civil Court of the City of New York and the Surrogate and Supreme Courts of New York County. He died on January 8, 2005.</field>
++    <field name="phystech_teim">Cassette tapes are not available for research use. Access to the interview is available digitally onsite at Center for Brooklyn History&#39;s Othmer Library.</field>
+     <field name="phystech_teim">One original audio cassette.</field>
+     <field name="phystech_teim">One preservation .WAV file. One access .mp3 file.</field>
+     <field name="ref_ssi">aspace_f79722df51b4eb268123aa69f02b7803</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Box: 8, Cassette: 12</field>
+     <field name="location_si">Box: 8, Cassette: 12</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Arthur Blyn</field>
+     <field name="heading_ssm">Arthur Blyn</field>

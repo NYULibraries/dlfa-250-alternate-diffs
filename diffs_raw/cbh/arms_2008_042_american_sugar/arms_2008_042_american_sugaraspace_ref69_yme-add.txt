@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1999/2001</field>
+     <field name="unitdate_normal_sim">1999/2001</field>
+     <field name="unitdate_inclusive_teim">1999-2001</field>
+-    <field name="scopecontent_teim">The series documents the 1999-2001 labor strike at the Domino Sugar refinery in Brooklyn, New York. It contains three picket signs, flyers calling for a boycott of Domino Sugar (which also outline the worker's grievances with management), and one flyer advertising a concert held at The Ship's Mast (at South Fifth Street and Kent Avenue) benefiting the striking workers.</field>
++    <field name="scopecontent_teim">The series documents the 1999-2001 labor strike at the Domino Sugar refinery in Brooklyn, New York. It contains three picket signs, flyers calling for a boycott of Domino Sugar (which also outline the worker&#39;s grievances with management), and one flyer advertising a concert held at The Ship&#39;s Mast (at South Fifth Street and Kent Avenue) benefiting the striking workers.</field>
+     <field name="ref_ssi">aspace_ref69_yme</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">American Sugar Refining Company records</field>
++    <field name="author_teim">Liz Farrell</field>
+     <field name="collection_unitid_teim">2008.042</field>
+     <field name="series_si">Series 4: Domino Sugar refinery labor dispute</field>
+     <field name="heading_ssm">Series 4: Domino Sugar refinery labor dispute</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1787/1875</field>
+     <field name="unitdate_normal_sim">1787/1875</field>
+     <field name="unitdate_inclusive_teim">1787-1875</field>
+-    <field name="scopecontent_teim">Lists all students and tuition amounts paid (1787-1792) as well as treasurers' accounts (1819-1875).</field>
++    <field name="scopecontent_teim">Lists all students and tuition amounts paid (1787-1792) as well as treasurers&#39; accounts (1819-1875).</field>
+     <field name="ref_ssi">aspace_699ff91502b75fe1035565c451a39b9e</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Erasmus Hall collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">ARC.230</field>
+     <field name="series_sim">Series 1: Erasmus Hall Academy</field>
+     <field name="series_si">Series 1: Erasmus Hall Academy &gt;&gt; Account book</field>

@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Henricus Selyns pastorate records</field>
+     <field name="unitid_teim">1973.169</field>
+     <field name="unitid_ssm">1973.169</field>
+-    <field name="abstract_teim">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns' original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century.</field>
+-    <field name="abstract_ssm">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns' original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century.</field>
++    <field name="abstract_teim">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns&#39; original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century.</field>
++    <field name="abstract_ssm">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns&#39; original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century.</field>
+     <field name="creator_teim">Selyns, Henricus</field>
+     <field name="creator_ssm">Selyns, Henricus</field>
+     <field name="creator_ssm">Selyns, Henricus</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1638/1696</field>
+     <field name="unitdate_normal_sim">1638/1696</field>
+     <field name="unitdate_inclusive_teim">1638-1696</field>
+-    <field name="scopecontent_teim">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns' original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century. The records document Selyns' day-to-day duties and experiences as a minister in the Dutch Reformed Church in the village of Breuckelen (later Brooklyn), and in many cases read like journal entries or entries in a daily log. The records include lists of marriages, deaths, and church members, and the volume itself includes an alphabetical index of names in the back.</field>
+-    <field name="bioghist_teim">Henricus Selyns was born in Amsterdam, the Netherlands in 1636, was educated at the University of Leyden, and ordained a minister in the Dutch Reformed Church in 1660. The same year of his ordination, Selyns emigrated to the Dutch colony of New Amsterdam (later New York), where he became pastor of the Dutch Reformed Church in the village of Breuckelen (later Brooklyn). Selyns returned to the Netherlands in 1664, but then sailed back to the renamed New York colony in 1682, where he lived until his death in 1701.</field>
++    <field name="scopecontent_teim">The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns&#39; original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century. The records document Selyns&#39; day-to-day duties and experiences as a minister in the Dutch Reformed Church in the village of Breuckelen (later Brooklyn), and in many cases read like journal entries or entries in a daily log. The records include lists of marriages, deaths, and church members, and the volume itself includes an alphabetical index of names in the back.</field>
++    <field name="bioghist_teim">Henricus Selyns was born in Amsterdam, the Netherlands in 1636, was educated at the University of Leyden, and ordained a minister in the Dutch Reformed Church  in 1660. The same year of his ordination, Selyns emigrated to the Dutch colony of New Amsterdam (later New York), where he became pastor of the Dutch Reformed Church in the village of Breuckelen (later Brooklyn). Selyns returned to the Netherlands in 1664, but then sailed back to the renamed New York colony in 1682, where he lived until his death in 1701.</field>
+     <field name="acqinfo_teim">Gift of Richard Salter Storrs, 1900.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Old First Reformed Church (Brooklyn, New York, N.Y.)</field>
+@@ -39,8 +39,8 @@
+     <field name="persname_ssm">Selyns, Henricus</field>
+     <field name="subject_teim">Reformed Church |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Religious institutions |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Reformed Church -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Reformed Church --New York (State) --Kings County</field>
++    <field name="subject_teim">Religious institutions --New York (State) --Kings County</field>
+     <field name="subject_ssm">Reformed Church |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Religious institutions |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Henricus Selyns pastorate records</field>
+@@ -61,9 +61,9 @@
+     <field name="name_teim">Selyns, Henricus</field>
+     <field name="place_sim">New Netherland</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
+-    <field name="subject_sim">Reformed Church -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Religious life and customs</field>
++    <field name="subject_sim">Reformed Church --New York (State) --Kings County</field>
++    <field name="subject_sim">Religious institutions --New York (State) --Kings County</field>
+     <field name="material_type_sim">Church records</field>
+     <field name="material_type_sim">Marriage records</field>
+     <field name="material_type_sim">Death records</field>

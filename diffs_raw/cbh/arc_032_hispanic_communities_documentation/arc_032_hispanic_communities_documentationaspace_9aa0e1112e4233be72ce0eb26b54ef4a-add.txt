@@ -1,0 +1,57 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_inclusive_teim">1989 April 6</field>
+     <field name="scopecontent_teim">In this interview, Elba Ramos Jimenez recounts her major biographical events. She recalls following family to New York, explaining that her sister had migrated to New York in the 1950s, and was sending part of the salary she earned in sewing factories back to her family in Peru. Jimenez discusses her community activist role, mentioning the community groups active in their opposition to the destruction of most of the low-cost housing in the Gowanus and Boerum Hill neighborhoods of Brooklyn. She also shares some details of the Peruvian communities of New York and New Jersey, and of the Peruvian Independence Day Parade held in Paterson, New Jersey every year. Interview conducted by Marcelo Herman.</field>
+-    <field name="bioghist_teim">Elba Ramos Jimenez was born in the highlands of Peru, and was raised in small towns there until her family moved to Lima. She worked in factories by day and attended high school at night. Jimenez came to New York in 1964, and lived first with her sister in the Boerum Hill and Cobble Hill neighborhoods of Brooklyn. In the 1970s, she became involved with the Gowanus-Boerum Hill Housing Association, and later with the Altura Coalition, which fought for tenants' rights and against urban renewal and real speculation. For many years Jimenez worked in Brooklyn factories, but went to work in a day care center after her daughter was born. Her involvement with local politics led to her election as a Jessie Jackson delegate to the Democratic Party convention in San Francisco in 1984. In 1989, she was an instructor of bilingual education in a public school.</field>
++    <field name="bioghist_teim">Elba Ramos Jimenez was born in the highlands of Peru, and was raised in small towns there until her family moved to Lima. She worked in factories by day and attended high school at night. Jimenez came to New York in 1964, and lived first with her sister in the Boerum Hill and Cobble Hill neighborhoods of Brooklyn. In the 1970s, she became involved with the Gowanus-Boerum Hill Housing Association, and later with the Altura Coalition, which fought for tenants&#39; rights and against urban renewal and real speculation. For many years Jimenez worked in Brooklyn factories, but went to work in a day care center after her daughter was born. Her involvement with local politics led to her election as a Jessie Jackson delegate to the Democratic Party convention in San Francisco in 1984. In 1989, she was an instructor of bilingual education in a public school.</field>
+     <field name="corpname_teim">Gowanus-Boerum Hill Housing Association</field>
+     <field name="corpname_ssm">Gowanus-Boerum Hill Housing Association</field>
+     <field name="geogname_teim">Atlantic Avenue (New York, N.Y.)</field>
+@@ -39,12 +39,12 @@
+     <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Peruvian Americans |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Puerto Ricans |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Community development, Urban -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Hispanic Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Housing -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Peruvian Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Community development, Urban --New York (State) --Kings County</field>
++    <field name="subject_teim">Hispanic Americans -- New York (State) -- New York</field>
++    <field name="subject_teim">Housing --New York (State) --Kings County</field>
++    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Peruvian Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --Kings County</field>
+     <field name="subject_ssm">Community development, Urban |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Hispanic Americans -- New York (State) -- New York</field>
+     <field name="subject_ssm">Housing |z New York (State) |z Kings County</field>
+@@ -62,18 +62,19 @@
+     <field name="place_ssm">Atlantic Avenue (New York, N.Y.)</field>
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="place_ssm">Peru</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Atlantic Avenue (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Peru</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Community development, Urban -- New York (State) -- Kings County</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Community development, Urban --New York (State) --Kings County</field>
+     <field name="subject_sim">Hispanic Americans -- New York (State) -- New York</field>
+-    <field name="subject_sim">Housing -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Housing --New York (State) --Kings County</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Peruvian Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Peruvian Americans --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --Kings County</field>
+     <field name="collection_teim">Hispanic Communities Documentation Project records and oral histories</field>
++    <field name="author_teim">Cesar Garza</field>
+     <field name="collection_unitid_teim">ARC.032</field>
+     <field name="series_sim">Series 1: Publicized oral histories</field>
+     <field name="series_si">Series 1: Publicized oral histories &gt;&gt; Jimenez, Elba</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1972/1972</field>
+     <field name="unitdate_normal_sim">1972/1972</field>
+     <field name="unitdate_teim">1972</field>
+-    <field name="scopecontent_teim">Berlinda Jones. Also includes Jones's J.H.S. diploma, 1969, which does not specify a school.</field>
++    <field name="scopecontent_teim">Berlinda Jones. Also includes Jones&#39;s J.H.S. diploma, 1969, which does not specify a school.</field>
+     <field name="ref_ssi">aspace_191f58fbe65f18cc47ff3bc8ddfa1e2b</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">Canarsie High School</field>

@@ -1,0 +1,50 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,15 +7,15 @@
+     <field name="unittitle_ssm">Town of Gravesend tax assessment book</field>
+     <field name="unitid_teim">1973.188</field>
+     <field name="unitid_ssm">1973.188</field>
+-    <field name="abstract_teim">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident's property.</field>
+-    <field name="abstract_ssm">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident's property.</field>
++    <field name="abstract_teim">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident&#39;s property.</field>
++    <field name="abstract_ssm">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident&#39;s property.</field>
+     <field name="unitdate_normal_ssm">1870/1890</field>
+     <field name="unitdate_normal_teim">1870/1890</field>
+     <field name="unitdate_normal_sim">1870/1890</field>
+     <field name="unitdate_inclusive_teim">circa 1880</field>
+-    <field name="scopecontent_teim">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident's property. For each resident, the book notes the property location, number of acres assessed, building value, real estate value, personal estate value, aggregate value, and amount taxed. Entries toward the back of the volume devote several pages toward the assessment of individual estates, including the South Greenfield Estate and the estates of John Emmers and Daniel D. Stillwell. An assessment list of non-residents is also included. The compiler of the assessment book is unknown.</field>
+-    <field name="bioghist_teim">The Town of Gravesend was one of the six original towns of Kings County. Founded by religious dissenter Lady Deborah Moody and her followers in 1643, it was the only one of the original towns to be founded by English settlers. Gravesend was annexed by the City of Brooklyn in 1894.</field>
+-    <field name="acqinfo_teim">Gift of Mrs. Wheeler N. Voorhees, date unknown. The collection was formally accessioned in 1973.</field>
++    <field name="scopecontent_teim">One tax assessment book containing an alphabetical list of residents of the Town of Gravesend in Brooklyn, circa 1880, with assessments of each resident&#39;s property.  For each resident, the book notes the property location, number of acres assessed, building value, real estate value, personal estate value, aggregate value, and amount taxed.  Entries toward the back of the volume devote several pages toward the assessment of individual estates, including the South Greenfield Estate and the estates of John Emmers and Daniel D. Stillwell.  An assessment list of non-residents is also included.  The compiler of the assessment book is unknown.</field>
++    <field name="bioghist_teim">The Town of Gravesend was one of the six original towns of Kings County.  Founded by religious dissenter Lady Deborah Moody and her followers in 1643, it was the only one of the original towns to be founded by English settlers.  Gravesend was annexed by the City of Brooklyn in 1894.</field>
++    <field name="acqinfo_teim">Gift of Mrs. Wheeler N. Voorhees, date unknown.  The collection was formally accessioned in 1973.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+     <field name="genreform_teim">Tax records</field>
+@@ -27,9 +27,9 @@
+     <field name="subject_teim">Tax assessment |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Property tax |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Real property |x Valuation |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Tax assessment -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Property tax -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- Valuation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Tax assessment --New York (State) --Kings County</field>
++    <field name="subject_teim">Property tax --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --Valuation --New York (State) --Kings County</field>
+     <field name="subject_ssm">Tax assessment |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Property tax |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real property |x Valuation |z New York (State) |z Kings County</field>
+@@ -46,9 +46,9 @@
+     <field name="format_ii">0</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Gravesend (New York, N.Y.)</field>
+-    <field name="subject_sim">Tax assessment -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Property tax -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- Valuation -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Tax assessment --New York (State) --Kings County</field>
++    <field name="subject_sim">Property tax --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --Valuation --New York (State) --Kings County</field>
+     <field name="material_type_sim">Tax records</field>
+     <field name="material_type_ssm">Tax records</field>
+     <field name="heading_ssm">Town of Gravesend tax assessment book</field>

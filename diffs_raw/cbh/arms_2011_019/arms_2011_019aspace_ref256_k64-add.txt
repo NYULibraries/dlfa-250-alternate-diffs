@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">2011 December 20</field>
+-    <field name="scopecontent_teim">In the interview, Heller discusses her racial identity and appearance; childhood in a white Jewish household; decision to become a single mother; and presentation of her son's racial identity and heritage. Interview conducted by Jen Chau.</field>
++    <field name="scopecontent_teim">In the interview, Heller discusses her racial identity and appearance; childhood in a white Jewish household; decision to become a single mother; and presentation of her son&#39;s racial identity and heritage. Interview conducted by Jen Chau.</field>
+     <field name="bioghist_teim">Lisa Heller, who has African American and American Jewish heritage, was raised in the Bronx, New York. Heller received a B.A. in economic geography from the University of California at Berkeley and a dual M.B.A./M.C.P. from the Sloan School of Management at the Massachusetts Institute of Technology in Boston, Massachusetts.</field>
+     <field name="geogname_teim">Fort Greene (New York, N.Y.)</field>
+     <field name="geogname_ssm">Fort Greene (New York, N.Y.)</field>
+@@ -27,11 +27,11 @@
+     <field name="subject_teim">Race identity</field>
+     <field name="subject_teim">Education, Higher |z California |z Berkeley</field>
+     <field name="subject_teim">African American Jews -- New York (State) -- New York</field>
+-    <field name="subject_teim">Single mothers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Racially mixed people</field>
+-    <field name="subject_teim">Religious identity</field>
+-    <field name="subject_teim">Race identity</field>
+-    <field name="subject_teim">Education, Higher -- California -- Berkeley</field>
++    <field name="subject_teim">Single mothers --New York (State) --New York</field>
++    <field name="subject_teim">Racially mixed people</field>
++    <field name="subject_teim">Religious identity</field>
++    <field name="subject_teim">Race identity</field>
++    <field name="subject_teim">Education, Higher --California --Berkeley</field>
+     <field name="subject_teim">African American Jews -- New York (State) -- New York</field>
+     <field name="subject_ssm">Single mothers |z New York (State) |z New York</field>
+     <field name="subject_ssm">Racially mixed people</field>
+@@ -47,13 +47,14 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">Fort Greene (New York, N.Y.)</field>
+     <field name="place_sim">Fort Greene (New York, N.Y.)</field>
+-    <field name="subject_sim">Single mothers -- New York (State) -- New York</field>
++    <field name="subject_sim">Single mothers --New York (State) --New York</field>
+     <field name="subject_sim">Racially mixed people</field>
+     <field name="subject_sim">Religious identity</field>
+     <field name="subject_sim">Race identity</field>
+-    <field name="subject_sim">Education, Higher -- California -- Berkeley</field>
++    <field name="subject_sim">Education, Higher --California --Berkeley</field>
+     <field name="subject_sim">African American Jews -- New York (State) -- New York</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Lisa Heller</field>
+     <field name="heading_ssm">Lisa Heller</field>

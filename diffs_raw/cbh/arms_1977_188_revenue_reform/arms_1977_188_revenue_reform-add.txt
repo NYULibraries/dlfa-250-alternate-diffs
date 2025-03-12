@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_sim">1884/1887</field>
+     <field name="unitdate_inclusive_teim">1884-1887</field>
+     <field name="scopecontent_teim">One bound scrapbook containing various ephemeral items dating from 1884 to 1887 and relating to the Brooklyn Revenue Reform Club, including clippings from numerous Brooklyn and New York City newspapers, dinner invitations and menus, event announcements and admission tickets, membership applications, circulars, and leaflets.</field>
+-    <field name="bioghist_teim">The Brooklyn Revenue Reform Club, founded circa 1879, was an organization that advocated free trade principles. Henry Ward Beecher (1813-1887) was president of the organization, and Thomas G. Shearman (1834-1900), Beecher's lawyer, was its founder.</field>
+-    <field name="acqinfo_teim">Gift of Samuel Grierson, date unknown. Formally accessioned in 1977.</field>
++    <field name="bioghist_teim">The Brooklyn Revenue Reform Club, founded circa 1879, was an organization that advocated free trade principles. Henry Ward Beecher (1813-1887) was president of the organization, and Thomas G. Shearman (1834-1900), Beecher&#39;s lawyer, was its founder.</field>
++    <field name="acqinfo_teim">Gift of Samuel Grierson, date unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Revenue Reform Club</field>
+     <field name="corpname_teim">Brooklyn Revenue Reform Club</field>
+@@ -45,7 +45,7 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Economic conditions</field>
+     <field name="subject_teim">Free trade |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Free trade -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Free trade --New York (State) --Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Free trade |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Clubs -- New York (State) -- Kings County</field>
+@@ -63,8 +63,8 @@
+     <field name="creator_sim">Brooklyn Revenue Reform Club</field>
+     <field name="name_sim">Brooklyn Revenue Reform Club</field>
+     <field name="name_teim">Brooklyn Revenue Reform Club</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Economic conditions</field>
+-    <field name="subject_sim">Free trade -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Economic conditions</field>
++    <field name="subject_sim">Free trade --New York (State) --Kings County</field>
+     <field name="subject_sim">Clubs -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Printed ephemera</field>
+     <field name="material_type_sim">Circulars (fliers)</field>

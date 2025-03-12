@@ -1,0 +1,82 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+-    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_sim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="collection_ssm">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
+     <field name="collection_unitid_ssm">1994.007</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Anonymous</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 July 1</field>
+     <field name="scopecontent_teim">In this interview, the narrator provides an overview of her life; both before and after immigrating to New York City from Hong Kong. She discusses her childhood and private schooling in Kowloon, her decision to move to America with her husband and her trip to New York City in the 1960s. The narrator recounts the evolution of her career; from typist, to bridal gown seamstress, to art gallery owner. She offers her thoughts on parenting and practical home economics and provides an overview of the financial situation faced by Chinese immigrants and small business owners. Interview in Mandarin conducted by Gregory Ruf.</field>
+-    <field name="bioghist_teim">In her forties when the interview occurred in 1993, the narrator was born in Mainland China and moved with her family to Kowloon, Hong Kong when she was a young girl. The daughter of school teachers from China's educated class, she was taught in private schools, nurtured a love of painting, and studied English in college. In the 1960s, she moved with her husband to New York City, and ultimately settled in the Sunset Park neighborhood of Brooklyn. A mother of four, the narrator also worked outside the home; as a typist, then a bridal gown seamstress, and eventually the owner of a small art gallery.</field>
++    <field name="bioghist_teim">In her forties when the interview occurred in 1993, the narrator was born in Mainland China and moved with her family to Kowloon, Hong Kong when she was a young girl. The daughter of school teachers from China&#39;s educated class, she was taught in private schools, nurtured a love of painting, and studied English in college. In the 1960s, she moved with her husband to New York City, and ultimately settled in the Sunset Park neighborhood of Brooklyn. A mother of four, the narrator also worked outside the home; as a typist, then a bridal gown seamstress, and eventually the owner of a small art gallery.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.) |x Economic conditions |y 20th century</field>
+     <field name="geogname_teim">Chinatown (Brooklyn, New York, N.Y.)</field>
+@@ -45,11 +45,11 @@
+     <field name="subject_teim">Chinese Americans |x Education</field>
+     <field name="subject_teim">Chinese Americans |z New York (State) |z New York</field>
+     <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Art -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Artists -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Chinese Americans -- Education</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- New York</field>
++    <field name="subject_teim">Art --New York (State) --Kings County</field>
++    <field name="subject_teim">Artists --New York (State) --Kings County</field>
++    <field name="subject_teim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_teim">Chinese Americans --Education</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --New York</field>
+     <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Art |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Artists |z New York (State) |z Kings County</field>
+@@ -64,28 +64,29 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Economic conditions -- 20th century</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Economic conditions --20th century</field>
+     <field name="place_ssm">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_ssm">Chinatown (New York, N.Y.)</field>
+-    <field name="place_ssm">Hong Kong (China) -- Politics and government -- 1997-</field>
++    <field name="place_ssm">Hong Kong (China) --Politics and government --1997-</field>
+     <field name="place_ssm">Kowloon (China)</field>
+     <field name="place_ssm">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Economic conditions -- 20th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Economic conditions --20th century</field>
+     <field name="place_sim">Chinatown (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Chinatown (New York, N.Y.)</field>
+-    <field name="place_sim">Hong Kong (China) -- Politics and government -- 1997-</field>
++    <field name="place_sim">Hong Kong (China) --Politics and government --1997-</field>
+     <field name="place_sim">Kowloon (China)</field>
+     <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Art -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Artists -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Chinese Americans -- Education</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- New York</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Art --New York (State) --Kings County</field>
++    <field name="subject_sim">Artists --New York (State) --Kings County</field>
++    <field name="subject_sim">Business enterprises --New York (State) --Kings County</field>
++    <field name="subject_sim">Chinese Americans --Education</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --New York</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_teim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">1994.007</field>
+     <field name="series_sim">Series 1: Oral histories</field>
+     <field name="series_si">Series 1: Oral histories &gt;&gt; Anonymous</field>

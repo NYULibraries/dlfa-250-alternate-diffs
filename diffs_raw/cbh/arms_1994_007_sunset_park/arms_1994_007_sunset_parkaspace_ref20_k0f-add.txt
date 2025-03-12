@@ -1,0 +1,76 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+-    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_sim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="collection_ssm">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
+     <field name="collection_unitid_ssm">1994.007</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Quinones, Edmundo</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1994/1994</field>
+     <field name="unitdate_normal_sim">1994/1994</field>
+     <field name="unitdate_inclusive_teim">1994 June 10</field>
+-    <field name="scopecontent_teim">In this interview, Edmundo Quinones discusses his life as a first-generation working-class Puerto Rican American. He reflects on the challenges he's faced as a Latino growing up in a White neighborhood; particularly discrimination, and strengthening his Latino identity while avoiding mainstream assimilation. He provides an overarching view on the American dream: class mobility (both upward and downward), ethnic relations, and neighborhood change. He describes the Brooklyn neighborhood of Bay Ridge's transformation from a predominantly poor Scandinavian enclave, to a Latino area called Sunset Park, to a bustling, predominantly Chinese American community. Interview conducted by Gregory Ruf and Fabiana Chiu.</field>
+-    <field name="bioghist_teim">Edmundo Quinones was born circa 1946 in Manhattan to Puerto Rican immigrant parents, and grew up in the Bay Ridge neighborhood of Brooklyn. As Latinos, the Quinones were discriminated against -- still, he remembers a childhood of mixed play in his working-class neighborhood with stick-ball and water balloons. At age fourteen Quinones moved to Puerto Rico. When he re-settled in New York City he found the Sunset Park neighborhood of Brooklyn to be inhabited primarily by Latinos. He married a Puerto Rican woman and had two sons. Around 1985, Quinones stumbled upon Brooklyn's Chinatown and was amazed to find the Chinese American community so quickly well-established.</field>
++    <field name="scopecontent_teim">In this interview, Edmundo Quinones discusses his life as a first-generation working-class Puerto Rican American. He reflects on the challenges he&#39;s faced as a Latino growing up in a White neighborhood; particularly discrimination, and strengthening his Latino identity while avoiding mainstream assimilation. He provides an overarching view on the American dream: class mobility (both upward and downward), ethnic relations, and neighborhood change. He describes the Brooklyn neighborhood of Bay Ridge&#39;s transformation from a predominantly poor Scandinavian enclave, to a Latino area called Sunset Park, to a bustling, predominantly Chinese American community. Interview conducted by Gregory Ruf and Fabiana Chiu.</field>
++    <field name="bioghist_teim">Edmundo Quinones was born circa 1946 in Manhattan to Puerto Rican immigrant parents, and grew up in the Bay Ridge neighborhood of Brooklyn. As Latinos, the Quinones were discriminated against -- still, he remembers a childhood of mixed play in his working-class neighborhood with stick-ball and water balloons. At age fourteen Quinones moved to Puerto Rico. When he re-settled in New York City he found the Sunset Park neighborhood of Brooklyn to be inhabited primarily by Latinos. He married a Puerto Rican woman and had two sons. Around 1985, Quinones stumbled upon Brooklyn&#39;s Chinatown and was amazed to find the Chinese American community so quickly well-established.</field>
+     <field name="geogname_teim">Bay Ridge (New York, N.Y)</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Chinatown (Brooklyn, New York, N.Y.)</field>
+@@ -47,15 +47,15 @@
+     <field name="subject_teim">Scandinavian Americans |z New York (State) |z New York</field>
+     <field name="subject_teim">Social classes</field>
+     <field name="subject_teim">American Dream</field>
+-    <field name="subject_teim">Chinese Americans -- New York (State) -- New York</field>
+-    <field name="subject_teim">Discrimination in housing -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Education</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ethnic relations</field>
+-    <field name="subject_teim">Hispanic Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Multiculturalism</field>
+-    <field name="subject_teim">Puerto Ricans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Scandinavian Americans -- New York (State) -- New York</field>
++    <field name="subject_teim">Chinese Americans --New York (State) --New York</field>
++    <field name="subject_teim">Discrimination in housing --New York (State) --Kings County</field>
++    <field name="subject_teim">Education</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Ethnic relations</field>
++    <field name="subject_teim">Hispanic Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Multiculturalism</field>
++    <field name="subject_teim">Puerto Ricans --New York (State) --Kings County</field>
++    <field name="subject_teim">Scandinavian Americans --New York (State) --New York</field>
+     <field name="subject_teim">Social classes</field>
+     <field name="subject_ssm">American Dream</field>
+     <field name="subject_ssm">Chinese Americans |z New York (State) |z New York</field>
+@@ -87,17 +87,18 @@
+     <field name="place_sim">San Juan (P.R)</field>
+     <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+     <field name="subject_sim">American Dream</field>
+-    <field name="subject_sim">Chinese Americans -- New York (State) -- New York</field>
+-    <field name="subject_sim">Discrimination in housing -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Chinese Americans --New York (State) --New York</field>
++    <field name="subject_sim">Discrimination in housing --New York (State) --Kings County</field>
+     <field name="subject_sim">Education</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_sim">Ethnic relations</field>
+-    <field name="subject_sim">Hispanic Americans -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Hispanic Americans --New York (State) --Kings County</field>
+     <field name="subject_sim">Multiculturalism</field>
+-    <field name="subject_sim">Puerto Ricans -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Scandinavian Americans -- New York (State) -- New York</field>
++    <field name="subject_sim">Puerto Ricans --New York (State) --Kings County</field>
++    <field name="subject_sim">Scandinavian Americans --New York (State) --New York</field>
+     <field name="subject_sim">Social classes</field>
+-    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
++    <field name="collection_teim">New Neighbors: Sunset Park&#39;s Chinese Community records</field>
++    <field name="author_teim">Brett Dion and Maria Santiago</field>
+     <field name="collection_unitid_teim">1994.007</field>
+     <field name="series_sim">Series 1: Oral histories</field>
+     <field name="series_si">Series 1: Oral histories &gt;&gt; Quinones, Edmundo</field>

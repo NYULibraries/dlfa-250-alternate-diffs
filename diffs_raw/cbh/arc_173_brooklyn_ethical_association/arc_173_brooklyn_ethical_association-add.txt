@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Ethical Association publications</field>
+     <field name="unitid_teim">ARC.173</field>
+     <field name="unitid_ssm">ARC.173</field>
+-    <field name="abstract_teim">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association's programming. Season programs include the Brooklyn Ethical Association's constitution, officer lists, a brief introduction to the season's theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
+-    <field name="abstract_ssm">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association's programming. Season programs include the Brooklyn Ethical Association's constitution, officer lists, a brief introduction to the season's theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
++    <field name="abstract_teim">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association&#39;s programming. Season programs include the Brooklyn Ethical Association&#39;s constitution, officer lists, a brief introduction to the season&#39;s theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
++    <field name="abstract_ssm">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association&#39;s programming. Season programs include the Brooklyn Ethical Association&#39;s constitution, officer lists, a brief introduction to the season&#39;s theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
+     <field name="creator_teim">Brooklyn Ethical Association</field>
+     <field name="creator_ssm">Brooklyn Ethical Association</field>
+     <field name="creator_ssm">Brooklyn Ethical Association</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1888/1896</field>
+     <field name="unitdate_normal_sim">1888/1896</field>
+     <field name="unitdate_inclusive_teim">1888-1896</field>
+-    <field name="scopecontent_teim">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association's programming. Season programs include the Brooklyn Ethical Association's constitution, officer lists, a brief introduction to the season's theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
++    <field name="scopecontent_teim">The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association&#39;s programming. Season programs include the Brooklyn Ethical Association&#39;s constitution, officer lists, a brief introduction to the season&#39;s theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed.</field>
+     <field name="bioghist_teim">The Brooklyn Ethical Association began meeting in 1880 at the Second Unitarian Church in Brooklyn, N.Y. The Association was organized for the group study of ethics, politics, economics, and other social sciences, and to disseminate knowledge about these topics through public lectures and discussion. Each year, the members selected a theme to be explored throughout a season of lectures and discussion. Frequently, these themes touched on social facets of evolution, such as evolution and goverment, evolution and science, evolution and civilization, and evolution and art. In the 1890s, the Association moved its meetings and lectures to the Pouch Mansion on Clinton Avenue in the present-day Brooklyn neighborhood of Clinton Hill. After the 1898 season, the Brooklyn Ethical Association disbanded.</field>
+     <field name="acqinfo_teim">Portions of the collection were the gift of James A. Skilton, 1889 to 1893. Source and date of acquisition for remaining items in the collection are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -38,9 +38,9 @@
+     <field name="subject_teim">Lectures and lecturing |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Ethics |x Societies, etc.</field>
+-    <field name="subject_teim">Lectures and lecturing -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ethics -- Societies, etc.</field>
++    <field name="subject_teim">Lectures and lecturing --New York (State) --Kings County</field>
++    <field name="subject_teim">Clubs -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ethics --Societies, etc.</field>
+     <field name="subject_ssm">Lectures and lecturing |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Clubs -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Ethics |x Societies, etc.</field>
+@@ -58,12 +58,12 @@
+     <field name="creator_sim">Brooklyn Ethical Association</field>
+     <field name="name_sim">Brooklyn Ethical Association</field>
+     <field name="name_teim">Brooklyn Ethical Association</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life -- 19th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life --19th century</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Clinton Hill (New York, N.Y.)</field>
+-    <field name="subject_sim">Lectures and lecturing -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Lectures and lecturing --New York (State) --Kings County</field>
+     <field name="subject_sim">Clubs -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ethics -- Societies, etc.</field>
++    <field name="subject_sim">Ethics --Societies, etc.</field>
+     <field name="material_type_sim">Programs (documents)</field>
+     <field name="material_type_sim">Volumes (documents by form)</field>
+     <field name="material_type_ssm">Programs (documents)</field>

@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1836/1859</field>
+     <field name="unitdate_inclusive_teim">circa 1836-1859</field>
+     <field name="scopecontent_teim">This collection consists of correspondence, notes, and receipts of James S. Gould of Brooklyn, N.Y. spanning the period 1836 to 1859. The majority of the collection is made up of correspondence and notes between Gould and several spiritualists in various locations in New York State, including bookkeeper Eugene M. Packard of Brooklyn; S.N. Dodge (place of residence unknown); Francis Griswold of Albany, N.Y.; Warren Gale of Kings Ferry, N.Y. (near the present-day Town of Cortlandt in Westchester County); and others. The letters are dominated by the subjects of religion, dreams, spiritualism, financial matters, and the results of seances. There are also references in the letters to the Know Nothing political movement in Brooklyn, particularly in the context of its opposition to Catholicism.</field>
+-    <field name="bioghist_teim">There are some discrepancies in the letters in regards to the initial of Gould's middle name; in some letters he is referred to as James S. Gould, while in others he is referred to as James C. Gould. However, the various receipts included in the collection seem to indicate that Gould himself used the former initial.</field>
++    <field name="bioghist_teim">There are some discrepancies in the letters in regards to the initial of Gould&#39;s middle name; in some letters he is referred to as James S. Gould, while in others he is referred to as James C. Gould. However, the various receipts included in the collection seem to indicate that Gould himself used the former initial.</field>
+     <field name="acqinfo_teim">Gift of Herbert B. Howe on behalf of Hope Lewis Sudbury, 1955.</field>
+     <field name="phystech_teim">If digital surrogates exist, they should be used in place of the originals whenever possible.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -44,10 +44,10 @@
+     <field name="subject_teim">Religion</field>
+     <field name="subject_teim">Seances</field>
+     <field name="subject_teim">Spiritualism |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Spiritualists -- New York (State)</field>
+-    <field name="subject_teim">Religion</field>
+-    <field name="subject_teim">Seances</field>
+-    <field name="subject_teim">Spiritualism -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Spiritualists --New York (State)</field>
++    <field name="subject_teim">Religion</field>
++    <field name="subject_teim">Seances</field>
++    <field name="subject_teim">Spiritualism --New York (State) --Kings County</field>
+     <field name="subject_ssm">Spiritualists |z New York (State)</field>
+     <field name="subject_ssm">Religion</field>
+     <field name="subject_ssm">Seances</field>
+@@ -69,13 +69,13 @@
+     <field name="name_teim">American Party</field>
+     <field name="name_teim">Gould, James S.</field>
+     <field name="place_sim">Cortlandt (N.Y. : Town)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Religious life and customs</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Religious life and customs</field>
+     <field name="place_sim">Albany (N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Politics and government</field>
+-    <field name="subject_sim">Spiritualists -- New York (State)</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Politics and government</field>
++    <field name="subject_sim">Spiritualists --New York (State)</field>
+     <field name="subject_sim">Religion</field>
+     <field name="subject_sim">Seances</field>
+-    <field name="subject_sim">Spiritualism -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Spiritualism --New York (State) --Kings County</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_sim">Notes</field>
+     <field name="material_type_sim">Receipts (financial records)</field>

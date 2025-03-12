@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn Dodgers collection</field>
+     <field name="collection_unitid_ssm">ARC.297</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis</field>
+-    <field name="unittitle_teim">"A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis</field>
++    <field name="unittitle_ssm">&#34;A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947&#34; lithograph by Jim Annis</field>
++    <field name="unittitle_teim">&#34;A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947&#34; lithograph by Jim Annis</field>
+     <field name="unitdate_normal_ssm">2002/2002</field>
+     <field name="unitdate_normal_teim">2002/2002</field>
+     <field name="unitdate_normal_sim">2002/2002</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Folder: Flat File</field>
+     <field name="location_si">Folder: Flat File</field>
+     <field name="collection_teim">Brooklyn Dodgers collection</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">ARC.297</field>
+     <field name="series_sim">Series 4: Photographs and art</field>
+-    <field name="series_si">Series 4: Photographs and art &gt;&gt; "A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis</field>
+-    <field name="heading_ssm">"A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis</field>
++    <field name="series_si">Series 4: Photographs and art &gt;&gt; &#34;A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947&#34; lithograph by Jim Annis</field>
++    <field name="heading_ssm">&#34;A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947&#34; lithograph by Jim Annis</field>
+     <field name="unitdate_start_sim">2002</field>
+     <field name="unitdate_start_ssm">2002</field>
+     <field name="unitdate_start_si">2002</field>

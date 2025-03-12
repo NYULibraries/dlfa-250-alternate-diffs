@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Switzer family papers</field>
+     <field name="unitid_teim">2007.026</field>
+     <field name="unitid_ssm">2007.026</field>
+-    <field name="abstract_teim">The papers consist of material pertaining to Louise M. Switzer and her family. Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram "L.M.S." The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
+-    <field name="abstract_ssm">The papers consist of material pertaining to Louise M. Switzer and her family. Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram "L.M.S." The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
++    <field name="abstract_teim">The papers consist of material pertaining to Louise M. Switzer and her family.  Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram &#34;L.M.S.&#34; The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
++    <field name="abstract_ssm">The papers consist of material pertaining to Louise M. Switzer and her family.  Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram &#34;L.M.S.&#34; The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
+     <field name="creator_teim">Berg, Evelyn L.</field>
+     <field name="creator_teim">Switzer family</field>
+     <field name="creator_ssm">Berg, Evelyn L.</field>
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_sim">1890/1930</field>
+     <field name="unitdate_bulk_teim">1890-1930</field>
+     <field name="unitdate_inclusive_teim">1868-2003</field>
+-    <field name="scopecontent_teim">The papers consist of material pertaining to Louise M. Switzer and her family. Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram "L.M.S." The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
++    <field name="scopecontent_teim">The papers consist of material pertaining to Louise M. Switzer and her family.  Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram &#34;L.M.S.&#34; The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</field>
+     <field name="scopecontent_teim">The books in the collection include: The Revellers, by Rev. Edward A. Monroe (1849), Tales of a Wayside Inn, by Henry Wadsworth Longfellow (1928), and one Holy Bible (circa 1875).</field>
+     <field name="acqinfo_teim">Gift of Evelyn L. Berg, 2007.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -59,7 +59,7 @@
+     <field name="subject_teim">Genealogy</field>
+     <field name="subject_teim">Weddings |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Genealogy</field>
+-    <field name="subject_teim">Weddings -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Weddings --New York (State) --Kings County</field>
+     <field name="subject_ssm">Genealogy</field>
+     <field name="subject_ssm">Weddings |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Switzer family papers</field>
+@@ -85,7 +85,7 @@
+     <field name="name_teim">Switzer, Louise M.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Genealogy</field>
+-    <field name="subject_sim">Weddings -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Weddings --New York (State) --Kings County</field>
+     <field name="material_type_sim">Photographs</field>
+     <field name="material_type_sim">Parasols</field>
+     <field name="material_type_sim">Artifacts (object genre)</field>

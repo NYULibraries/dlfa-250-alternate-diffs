@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="persname_ssm">Atwood, Elijah</field>
+     <field name="persname_ssm">Atwood, Elijah</field>
+     <field name="subject_teim">Wills |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Wills -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Wills --New York (State) --Kings County</field>
+     <field name="subject_ssm">Wills |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Elijah Atwood last will and testament</field>
+     <field name="collection_ssm">Elijah Atwood last will and testament</field>
+@@ -43,7 +43,7 @@
+     <field name="name_sim">Atwood, Elijah</field>
+     <field name="name_teim">Atwood, Elijah</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Wills -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Wills --New York (State) --Kings County</field>
+     <field name="heading_ssm">Elijah Atwood last will and testament</field>
+     <field name="unitdate_start_sim">1841</field>
+     <field name="unitdate_start_ssm">1841</field>

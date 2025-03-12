@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">arms_1974_018_robert_livingston</field>
+     <field name="parent_ssi">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+     <field name="parent_ssm">aspace_245b35eb73cb63d51a576d26cf3f4ca7</field>
+-    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents</field>
+-    <field name="parent_unittitles_teim">Series 2: Five Nations Documents</field>
++    <field name="parent_unittitles_ssm">Series 2: Five Nations Documents </field>
++    <field name="parent_unittitles_teim">Series 2: Five Nations Documents </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Livingston papers</field>
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1687/1687</field>
+     <field name="unitdate_normal_sim">1687/1687</field>
+     <field name="unitdate_teim">1687</field>
+-    <field name="scopecontent_teim">Proposals made by the Magnase (Mohawk) sachems in Cachnaquage, 1 July 1687, re: the capture of Johannes Roseboom and his party in jononda by the French and their Indians, written (and translated) by Dirck Wesselsz [CG], in Dutch [20th c. note, in pencil: "not in Vol. III, Col. Hist N.Y."]</field>
++    <field name="scopecontent_teim">Proposals made by the Magnase (Mohawk) sachems in Cachnaquage, 1 July 1687, re: the capture of Johannes Roseboom and his party in jononda by the French and their Indians, written (and translated) by Dirck Wesselsz [CG], in Dutch [20th c. note, in pencil: &#34;not in Vol. III, Col. Hist N.Y.&#34;]</field>
+     <field name="ref_ssi">aspace_f3e5901318944f3a8ec2850133bc5371</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,9 +29,10 @@
+     <field name="location_ssm">Box: 1, Folder: 34</field>
+     <field name="location_si">Box: 1, Folder: 34</field>
+     <field name="collection_teim">Robert Livingston papers</field>
++    <field name="author_teim">Manning Field. Updated by Sarah Quick in 2024. </field>
+     <field name="collection_unitid_teim">1974.018</field>
+-    <field name="series_sim">Series 2: Five Nations Documents</field>
+-    <field name="series_si">Series 2: Five Nations Documents &gt;&gt; Proposals made by the Magnase (Mohawk) sachems in Cachnaquage</field>
++    <field name="series_sim">Series 2: Five Nations Documents </field>
++    <field name="series_si">Series 2: Five Nations Documents  &gt;&gt; Proposals made by the Magnase (Mohawk) sachems in Cachnaquage</field>
+     <field name="heading_ssm">Proposals made by the Magnase (Mohawk) sachems in Cachnaquage</field>
+     <field name="unitdate_start_sim">1687</field>
+     <field name="unitdate_start_ssm">1687</field>

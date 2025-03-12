@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+     <field name="parent_ssm">aspace_0860ceb382e16b3b6759e3363d3252a8</field>
+     <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_ssm">St. Joseph's Commercial High School</field>
++    <field name="parent_unittitles_ssm">St. Joseph&amp;#39;s Commercial High School</field>
+     <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_teim">St. Joseph's Commercial High School</field>
++    <field name="parent_unittitles_teim">St. Joseph&amp;#39;s Commercial High School</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn schools collection</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Folder: Flat File</field>
+     <field name="location_si">Folder: Flat File</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_sim">St. Joseph's Commercial High School</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Joseph's Commercial High School &gt;&gt; Commencement photograph</field>
++    <field name="series_sim">St. Joseph&amp;#39;s Commercial High School</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Joseph&#39;s Commercial High School &gt;&gt; Commencement photograph</field>
+     <field name="heading_ssm">Commencement photograph</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1781/1781</field>
+     <field name="unitdate_normal_sim">1781/1781</field>
+     <field name="unitdate_inclusive_teim">1781</field>
+-    <field name="scopecontent_teim">1781 wartime letter from General John Stark, at Saratoga, to Colonel Wallbridge, at Skeensborough, re: request for assistance in aiding Captain Hickok with transport of the General's flag to Canada, mentions the prior day's capture by local militia of five Tories from Canada who held orders "of a similar nature to those taken at Bennington"</field>
++    <field name="scopecontent_teim">1781 wartime letter from General John Stark, at Saratoga, to Colonel Wallbridge, at Skeensborough, re: request for assistance in aiding Captain Hickok with transport of the General&#39;s flag to Canada, mentions the prior day&#39;s capture by local militia of five Tories from Canada who held orders &#34;of a similar nature to those taken at Bennington&#34;</field>
+     <field name="ref_ssi">aspace_ref70_98r</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 2, Folder: 93</field>
+     <field name="location_si">Box: 2, Folder: 93</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Stark, John (General)</field>
+     <field name="heading_ssm">Stark, John (General)</field>

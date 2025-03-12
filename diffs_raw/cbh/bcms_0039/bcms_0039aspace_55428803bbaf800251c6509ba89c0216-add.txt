@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_sim">1950/1954</field>
+     <field name="unitdate_bulk_teim">1950-1954</field>
+     <field name="unitdate_inclusive_teim">1931-1954</field>
+-    <field name="scopecontent_teim">These files include general information and correspondence regarding the overall coordination of local neighborhood councils by BCSP, as well as chronicling the debate about the administrative hierarchy of the various welfare and health councils in New York City and in Brooklyn. Also included here are publications from other cities on the concept of neighborhood councils, and reports and statistics on Brooklyn and its welfare and health needs, including "Brooklyn Neighborhoods," by Herbert J. Ballon, containing detailed neighborhood-by-neighborhood assessments [no date, probably mid-1940s], and "Composition and Resources of Brooklyn," by Amy E. Krueger [1931], giving a summary of Brooklyn's "resources and of its composition that may be helpful to social workers."</field>
++    <field name="scopecontent_teim">These files include general information and correspondence regarding the overall coordination of local neighborhood councils by BCSP, as well as chronicling the debate about the administrative hierarchy of the various welfare and health councils in New York City and in Brooklyn. Also included here are publications from other cities on the concept of neighborhood councils, and reports and statistics on Brooklyn and its welfare and health needs, including &#34;Brooklyn Neighborhoods,&#34; by Herbert J. Ballon, containing detailed neighborhood-by-neighborhood assessments [no date, probably mid-1940s], and &#34;Composition and Resources of Brooklyn,&#34; by Amy E. Krueger [1931], giving a summary of Brooklyn&#39;s &#34;resources and of its composition that may be helpful to social workers.&#34;</field>
+     <field name="ref_ssi">aspace_55428803bbaf800251c6509ba89c0216</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -31,6 +31,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
++    <field name="author_teim">Nancy Johnson, Consulting Archivist and, Julie Moffat, Assistant Archivist and Preservation Coordinator, Brooklyn Collection, 1999</field>
+     <field name="collection_unitid_teim">BCMS.0039</field>
+     <field name="series_sim">Series 5: Brooklyn welfare and health councils</field>
+     <field name="series_si">Series 5: Brooklyn welfare and health councils &gt;&gt; Subseries 5.1: Neighborhood councils, general information</field>

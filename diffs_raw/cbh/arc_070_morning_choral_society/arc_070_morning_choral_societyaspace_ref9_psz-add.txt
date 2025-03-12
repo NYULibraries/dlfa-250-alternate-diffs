@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1945/1962</field>
+     <field name="unitdate_normal_sim">1945/1962</field>
+     <field name="unitdate_inclusive_teim">1945-1962</field>
+-    <field name="scopecontent_teim">Reports and minutes contains reports from the Society's officers as well as from the chairpersons of the various committees. Also included are the minutes of board meetings and annual meetings.</field>
++    <field name="scopecontent_teim">Reports and minutes contains reports from the Society&#39;s officers as well as from the chairpersons of the various committees. Also included are the minutes of board meetings and annual meetings.</field>
+     <field name="ref_ssi">aspace_ref9_psz</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Morning Choral Society records</field>
++    <field name="author_teim">Leilani Dawson</field>
+     <field name="collection_unitid_teim">ARC.070</field>
+     <field name="series_si">Reports and minutes</field>
+     <field name="heading_ssm">Reports and minutes</field>

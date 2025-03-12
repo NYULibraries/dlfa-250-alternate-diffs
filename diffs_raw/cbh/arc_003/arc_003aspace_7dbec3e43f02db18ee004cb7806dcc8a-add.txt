@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">June 24, 2008</field>
+-    <field name="scopecontent_teim">In his interview, George Martinez (1933- ) discusses his own experience growing up during the war, as well as what he remembers of his sister's work as a welder at the Navy Yard. He remembers collecting scraps for the war effort and his sister returning home with a burned uniform or eye injuries. George Martinez explains that many people who could not get jobs before the war, because of disabilities or race, were able to get jobs at the Navy Yard during this time. He also recalls the block party with his neighbors to celebrate the end of the war. Interview conducted by Sady Sullivan.</field>
++    <field name="scopecontent_teim">In his interview, George Martinez (1933- ) discusses his own experience growing up during the war, as well as what he remembers of his sister&#39;s work as a welder at the Navy Yard. He remembers collecting scraps for the war effort and his sister returning home with a burned uniform or eye injuries. George Martinez explains that many people who could not get jobs before the war, because of disabilities or race, were able to get jobs at the Navy Yard during this time. He also recalls the block party with his neighbors to celebrate the end of the war. Interview conducted by Sady Sullivan.</field>
+     <field name="bioghist_teim">George Martinez (1933- ) grew up in Williamsburg, Brooklyn with two sisters. His parents were both born in Columbia, as well as his older sister Grace Martinez De La Rosa (1923- ), who worked as a welder at the Brooklyn Navy Yard during WWII. After marrying, Grace Martinez De La Rosa moved to Mexico City, while George Martinez worked for the US Postal Service and currently lives on Long Island. Grace Martinez De La Rosa (1923- ) was studying to become a teacher in college when WWII began and she left to work at the Navy Yard.</field>
+     <field name="corpname_teim">New York Naval Shipyard</field>
+     <field name="corpname_ssm">New York Naval Shipyard</field>
+@@ -45,13 +45,13 @@
+     <field name="subject_teim">World War, 1939-1945</field>
+     <field name="subject_teim">Family</field>
+     <field name="subject_teim">Neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Race relations -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Shipbuilding -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Shipfitting</field>
+-    <field name="subject_teim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Wages -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Women -- Employment -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Work environment -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Race relations --New York (State) --Kings County</field>
++    <field name="subject_teim">Shipbuilding --New York (State) --Kings County</field>
++    <field name="subject_teim">Shipfitting</field>
++    <field name="subject_teim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_teim">Wages --New York (State) --Kings County</field>
++    <field name="subject_teim">Women --Employment --New York (State) --Kings County</field>
++    <field name="subject_teim">Work environment --New York (State) --Kings County</field>
+     <field name="subject_teim">World War, 1939-1945</field>
+     <field name="subject_ssm">Family</field>
+     <field name="subject_ssm">Neighborhoods -- New York (State) -- Kings County</field>
+@@ -77,23 +77,24 @@
+     <field name="place_ssm">Williamsburg (New York, N.Y.)</field>
+     <field name="place_ssm">Long Island (N.Y.)</field>
+     <field name="place_ssm">Mexico</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Williamsburg (New York, N.Y.)</field>
+     <field name="place_sim">Long Island (N.Y.)</field>
+     <field name="place_sim">Mexico</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
+     <field name="subject_sim">Family</field>
+     <field name="subject_sim">Neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Race relations -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Shipbuilding -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Race relations --New York (State) --Kings County</field>
++    <field name="subject_sim">Shipbuilding --New York (State) --Kings County</field>
+     <field name="subject_sim">Shipfitting</field>
+-    <field name="subject_sim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Wages -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Women -- Employment -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Work environment -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_sim">Wages --New York (State) --Kings County</field>
++    <field name="subject_sim">Women --Employment --New York (State) --Kings County</field>
++    <field name="subject_sim">Work environment --New York (State) --Kings County</field>
+     <field name="subject_sim">World War, 1939-1945</field>
+     <field name="collection_teim">Brooklyn Navy Yard oral history collection</field>
++    <field name="author_teim">Amy Lau, Mary Mann, Aliki Caloyeras, and Margaret Fraser</field>
+     <field name="collection_unitid_teim">ARC.003</field>
+     <field name="series_si">Oral History Interview with George Martinez</field>
+     <field name="heading_ssm">Oral History Interview with George Martinez</field>

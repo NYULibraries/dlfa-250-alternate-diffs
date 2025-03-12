@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1978/1978</field>
+     <field name="unitdate_normal_sim">1978/1978</field>
+     <field name="unitdate_teim">1978</field>
+-    <field name="scopecontent_teim">This file contains a conference paper titled "Political Development in Urban America: The Case of the Brooklyn Machine" by Henry Claflin Wells.</field>
++    <field name="scopecontent_teim">This file contains a conference paper titled &#34;Political Development in Urban America: The Case of the Brooklyn Machine&#34; by Henry Claflin Wells.</field>
+     <field name="ref_ssi">aspace_6d526b33a25fa499d2c10028856a39b6</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 6, Folder: 11 -12</field>
+     <field name="location_si">Box: 6, Folder: 11 -12</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Henry Claflin Wells</field>
+     <field name="heading_ssm">Henry Claflin Wells</field>

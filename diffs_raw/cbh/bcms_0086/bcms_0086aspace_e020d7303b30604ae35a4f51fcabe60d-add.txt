@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1920/1970</field>
+     <field name="unitdate_normal_sim">1920/1970</field>
+     <field name="unitdate_inclusive_teim">circa 1920s-1960s</field>
+-    <field name="scopecontent_teim">Three photographs, one of a group of young women gathered around a pony. Note on folder "photos inc the foster girl."</field>
++    <field name="scopecontent_teim">Three photographs, one of a group of young women gathered around a pony. Note on folder &#34;photos inc the foster girl.&#34;</field>
+     <field name="ref_ssi">aspace_e020d7303b30604ae35a4f51fcabe60d</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 19</field>
+     <field name="location_si">Box: 1, Folder: 19</field>
+     <field name="collection_teim">Mitchell Family collection</field>
++    <field name="author_teim">Brooklyn Collection staff</field>
+     <field name="collection_unitid_teim">BCMS.0086</field>
+     <field name="series_sim">Photographs</field>
+     <field name="series_si">Photographs &gt;&gt; Mixed photographs</field>

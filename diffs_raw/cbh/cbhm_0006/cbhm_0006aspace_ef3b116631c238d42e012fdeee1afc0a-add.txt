@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+     <field name="parent_ssm">aspace_ref123_7pv</field>
+     <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_ssm">St. Augustine's Diocesan High School</field>
++    <field name="parent_unittitles_ssm">St. Augustine&amp;#39;s Diocesan High School</field>
+     <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_teim">St. Augustine's Diocesan High School</field>
++    <field name="parent_unittitles_teim">St. Augustine&amp;#39;s Diocesan High School</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn schools collection</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 10</field>
+     <field name="location_si">Box: 10</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_sim">St. Augustine's Diocesan High School</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Augustine's Diocesan High School &gt;&gt; Commencement program</field>
++    <field name="series_sim">St. Augustine&amp;#39;s Diocesan High School</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Augustine&#39;s Diocesan High School &gt;&gt; Commencement program</field>
+     <field name="heading_ssm">Commencement program</field>
+     <field name="unitdate_start_sim">1968</field>
+     <field name="unitdate_start_ssm">1968</field>

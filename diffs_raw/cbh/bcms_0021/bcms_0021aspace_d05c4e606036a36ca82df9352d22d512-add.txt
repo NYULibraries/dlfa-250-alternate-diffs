@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1865-01-23/1865-01-23</field>
+     <field name="unitdate_normal_sim">1865-01-23/1865-01-23</field>
+     <field name="unitdate_teim">January 23, 1865</field>
+-    <field name="scopecontent_teim">War Department notice in reply to enquiry from family, stating that Vanderhoef is "Prisoner of War."</field>
++    <field name="scopecontent_teim">War Department notice in reply to enquiry from family, stating that Vanderhoef is &#34;Prisoner of War.&#34;</field>
+     <field name="ref_ssi">aspace_d05c4e606036a36ca82df9352d22d512</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 2</field>
+     <field name="location_si">Box: 1, Folder: 2</field>
+     <field name="collection_teim">Letters of James W. Vanderhoef</field>
++    <field name="author_teim">Joy Holland, Manager of Special Collections</field>
+     <field name="collection_unitid_teim">BCMS.0021</field>
+     <field name="series_sim">Series II: Civil War Period Letters and Papers</field>
+     <field name="series_si">Series II: Civil War Period Letters and Papers &gt;&gt; War Department notice</field>

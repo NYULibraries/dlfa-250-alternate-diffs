@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Prospect Park</field>
+     <field name="unittitle_teim">Prospect Park</field>
+     <field name="scopecontent_teim">Several color photos of a reenactment of the Battle of Brooklyn; Lefferts homestead; Litchfield villa; Boat House. Some images gift of Dorothy A. Burns.</field>
+-    <field name="scopecontent_teim">Box 29 contains a 3' long rolled panoramic photo of Charles Lindbergh addressing a crowd at Prospect Park in June 1927.</field>
++    <field name="scopecontent_teim">Box 29 contains a 3&#39; long rolled panoramic photo of Charles Lindbergh addressing a crowd at Prospect Park in June 1927.</field>
+     <field name="phystech_teim">The photograph in Box 29 is rolled and may be inaccessible to researchers.</field>
+     <field name="ref_ssi">aspace_d6119931630959a8b4a68a91765e7cea</field>
+     <field name="repository_ssi">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 25</field>
+     <field name="location_si">Box: 25</field>
+     <field name="collection_teim">Brooklyn photograph and illustration collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.202</field>
+     <field name="series_sim">Images by Subject</field>
+     <field name="series_si">Images by Subject &gt;&gt; Prospect Park</field>

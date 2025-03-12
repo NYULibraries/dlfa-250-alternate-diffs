@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1861/1970</field>
+     <field name="unitdate_inclusive_teim">1861-1970</field>
+     <field name="scopecontent_teim">The Brooklyn Art Association records span the period 1861 to 1970 and consists primarily of catalogs of exhibitions produced by the Association. Other materials include janitorial accounts, checks, bills, receipts, proxies, lists of stockholders and annual and life members, a photocopy of a certificate of incorporation for the association, and various annual reports.</field>
+-    <field name="bioghist_teim">The Brooklyn Art Association was founded in 1861 as an organization looking to improve the market for Brooklyn artists and to enhance the culutural life of Brooklyn. The Association was composed of both artists and lay citizens, and through its efforts laid the groundwork for what would later become the Brooklyn Museum. Though influential, the Association began to dissolve in the 1890s.</field>
++    <field name="bioghist_teim">The Brooklyn Art Association was founded in 1861 as an organization looking to improve the market for Brooklyn artists and to enhance the culutural life of Brooklyn.  The Association was composed of both artists and lay citizens, and through its efforts laid the groundwork for what would later become the Brooklyn Museum.  Though influential, the Association began to dissolve in the 1890s.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Art Association</field>
+     <field name="corpname_teim">Brooklyn Art Association</field>
+@@ -39,9 +39,9 @@
+     <field name="subject_teim">Art |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Art, American</field>
+     <field name="subject_teim">Art |x Societies, etc.</field>
+-    <field name="subject_teim">Art -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Art, American</field>
+-    <field name="subject_teim">Art -- Societies, etc.</field>
++    <field name="subject_teim">Art --New York (State) --Kings County</field>
++    <field name="subject_teim">Art, American</field>
++    <field name="subject_teim">Art --Societies, etc.</field>
+     <field name="subject_ssm">Art |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Art, American</field>
+     <field name="subject_ssm">Art |x Societies, etc.</field>
+@@ -59,10 +59,10 @@
+     <field name="creator_sim">Brooklyn Art Association</field>
+     <field name="name_sim">Brooklyn Art Association</field>
+     <field name="name_teim">Brooklyn Art Association</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+-    <field name="subject_sim">Art -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
++    <field name="subject_sim">Art --New York (State) --Kings County</field>
+     <field name="subject_sim">Art, American</field>
+-    <field name="subject_sim">Art -- Societies, etc.</field>
++    <field name="subject_sim">Art --Societies, etc.</field>
+     <field name="material_type_sim">Certificates of incorporation</field>
+     <field name="material_type_sim">Accounts</field>
+     <field name="material_type_sim">Membership lists</field>

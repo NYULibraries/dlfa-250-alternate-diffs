@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. &lt;em&gt;Harper's Weekly&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. Harper's Weekly</field>
++    <field name="unittitle_ssm">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. &lt;em&gt;Harper&#39;s Weekly&lt;/em&gt;</field>
++    <field name="unittitle_teim">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. Harper&#39;s Weekly</field>
+     <field name="unitdate_normal_ssm">1869-06-19/1869-06-19</field>
+     <field name="unitdate_normal_teim">1869-06-19/1869-06-19</field>
+     <field name="unitdate_normal_sim">1869-06-19/1869-06-19</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3</field>
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Cemeteries</field>
+-    <field name="series_si">Cemeteries &gt;&gt; Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. &lt;em&gt;Harper's Weekly&lt;/em&gt;</field>
+-    <field name="heading_ssm">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. Harper's Weekly</field>
++    <field name="series_si">Cemeteries &gt;&gt; Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. &lt;em&gt;Harper&#39;s Weekly&lt;/em&gt;</field>
++    <field name="heading_ssm">Decoration of the graves of Union soldiers at Cypress Hills Cemetery, Brooklyn, New York, May 30, 1869. Sketched by Stanley Fox. Harper&#39;s Weekly</field>
+     <field name="unitdate_ssm">June 19, 1869</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">383</field>

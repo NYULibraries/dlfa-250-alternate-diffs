@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. &lt;em&gt;Harper's Weekly&lt;/em&gt;,</field>
+-    <field name="unittitle_teim">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. Harper's Weekly,</field>
++    <field name="unittitle_ssm">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. &lt;em&gt;Harper&#39;s Weekly&lt;/em&gt;,</field>
++    <field name="unittitle_teim">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. Harper&#39;s Weekly,</field>
+     <field name="unitdate_normal_ssm">1882-09-30/1882-09-30</field>
+     <field name="unitdate_normal_teim">1882-09-30/1882-09-30</field>
+     <field name="unitdate_normal_sim">1882-09-30/1882-09-30</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Racetracks</field>
+-    <field name="series_si">Racetracks &gt;&gt; Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. &lt;em&gt;Harper's Weekly&lt;/em&gt;,</field>
+-    <field name="heading_ssm">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. Harper's Weekly,</field>
++    <field name="series_si">Racetracks &gt;&gt; Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. &lt;em&gt;Harper&#39;s Weekly&lt;/em&gt;,</field>
++    <field name="heading_ssm">Racing at Brighton Beach, Coney Island. Drawn by P. Frenzeny. Harper&#39;s Weekly,</field>
+     <field name="unitdate_ssm">1882-09-30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1010</field>

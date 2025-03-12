@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Arnie Goldwag Brooklyn Congress of Racial Equality (CORE) collection</field>
+     <field name="collection_unitid_ssm">ARC.002</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Stang, Alan, &lt;em&gt;It's Very Simple&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Stang, Alan, It's Very Simple</field>
++    <field name="unittitle_ssm">Stang, Alan, &lt;em&gt;It&#39;s Very Simple&lt;/em&gt;</field>
++    <field name="unittitle_teim">Stang, Alan, It&#39;s Very Simple</field>
+     <field name="unitdate_normal_ssm">1965/1965</field>
+     <field name="unitdate_normal_teim">1965/1965</field>
+     <field name="unitdate_normal_sim">1965/1965</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 19, item: 23</field>
+     <field name="location_si">Box: 19, item: 23</field>
+     <field name="collection_teim">Arnie Goldwag Brooklyn Congress of Racial Equality (CORE) collection</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">ARC.002</field>
+     <field name="series_sim">Series 2: Books</field>
+-    <field name="series_si">Series 2: Books &gt;&gt; Stang, Alan, &lt;em&gt;It's Very Simple&lt;/em&gt;</field>
+-    <field name="heading_ssm">Stang, Alan, It's Very Simple</field>
++    <field name="series_si">Series 2: Books &gt;&gt; Stang, Alan, &lt;em&gt;It&#39;s Very Simple&lt;/em&gt;</field>
++    <field name="heading_ssm">Stang, Alan, It&#39;s Very Simple</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

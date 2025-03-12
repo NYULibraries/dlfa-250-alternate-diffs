@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Text "Memorabilia of Greenleaf Institute" by Sarah Ball</field>
+-    <field name="unittitle_teim">Text "Memorabilia of Greenleaf Institute" by Sarah Ball</field>
++    <field name="unittitle_ssm">Text &#34;Memorabilia of Greenleaf Institute&#34; by Sarah Ball</field>
++    <field name="unittitle_teim">Text &#34;Memorabilia of Greenleaf Institute&#34; by Sarah Ball</field>
+     <field name="ref_ssi">aspace_4fa5374f697d2aa07ce1d0565687923c</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">Greenleaf Female Institute</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; Greenleaf Female Institute &gt;&gt; Text "Memorabilia of Greenleaf Institute" by Sarah Ball</field>
+-    <field name="heading_ssm">Text "Memorabilia of Greenleaf Institute" by Sarah Ball</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; Greenleaf Female Institute &gt;&gt; Text &#34;Memorabilia of Greenleaf Institute&#34; by Sarah Ball</field>
++    <field name="heading_ssm">Text &#34;Memorabilia of Greenleaf Institute&#34; by Sarah Ball</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">316</field>
+   </doc>

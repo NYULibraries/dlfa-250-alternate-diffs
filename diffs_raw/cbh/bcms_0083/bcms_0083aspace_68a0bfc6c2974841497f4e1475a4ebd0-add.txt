@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Park Slope Civic Council (PSCC) records</field>
+     <field name="collection_unitid_ssm">BCMS.0083</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Maxwellton's Carriage House and Caretaker's Home</field>
+-    <field name="unittitle_teim">Maxwellton's Carriage House and Caretaker's Home</field>
++    <field name="unittitle_ssm">Maxwellton&#39;s Carriage House and Caretaker&#39;s Home</field>
++    <field name="unittitle_teim">Maxwellton&#39;s Carriage House and Caretaker&#39;s Home</field>
+     <field name="unitdate_normal_ssm">1997/2004</field>
+     <field name="unitdate_normal_teim">1997/2004</field>
+     <field name="unitdate_normal_sim">1997/2004</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 11, Folder: 1</field>
+     <field name="location_si">Box: 11, Folder: 1</field>
+     <field name="collection_teim">Park Slope Civic Council (PSCC) records</field>
++    <field name="author_teim">Alice Griffin, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0083</field>
+     <field name="series_sim">Series 2: Carl Kaiserman papers</field>
+     <field name="series_sim">Sub-series 2.2: Subject Files</field>
+-    <field name="series_si">Series 2: Carl Kaiserman papers &gt;&gt; Sub-series 2.2: Subject Files &gt;&gt; Maxwellton's Carriage House and Caretaker's Home</field>
+-    <field name="heading_ssm">Maxwellton's Carriage House and Caretaker's Home</field>
++    <field name="series_si">Series 2: Carl Kaiserman papers &gt;&gt; Sub-series 2.2: Subject Files &gt;&gt; Maxwellton&#39;s Carriage House and Caretaker&#39;s Home</field>
++    <field name="heading_ssm">Maxwellton&#39;s Carriage House and Caretaker&#39;s Home</field>
+     <field name="unitdate_start_sim">1997</field>
+     <field name="unitdate_start_ssm">1997</field>
+     <field name="unitdate_start_si">1997</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">2007/2010</field>
+     <field name="unitdate_normal_sim">2007/2010</field>
+     <field name="unitdate_inclusive_teim">2007-2010</field>
+-    <field name="scopecontent_teim">"A quarterly newsletter brought to you by the three Downtown Brooklyn Business Improvement Districts (BIDs) and the Downtown Brooklyn Partnership."</field>
++    <field name="scopecontent_teim">&#34;A quarterly newsletter brought to you by the three Downtown Brooklyn Business Improvement Districts (BIDs) and the Downtown Brooklyn Partnership.&#34;</field>
+     <field name="ref_ssi">aspace_2645f469bd854fba21642e57c22e9607</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">Brooklyn newsletter collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.174</field>
+     <field name="series_si">Downtown Brooklyn</field>
+     <field name="heading_ssm">Downtown Brooklyn</field>

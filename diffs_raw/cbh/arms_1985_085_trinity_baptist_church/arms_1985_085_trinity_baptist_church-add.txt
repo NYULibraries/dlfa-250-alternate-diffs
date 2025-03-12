@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Trinity Baptist Church ledger</field>
+     <field name="unitid_teim">1985.085</field>
+     <field name="unitid_ssm">1985.085</field>
+-    <field name="abstract_teim">This collection consists of one ledger, dated 1874 to 1915 and contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses. Trinity Baptist Church was established in 1875. During the church's first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn.</field>
+-    <field name="abstract_ssm">This collection consists of one ledger, dated 1874 to 1915 and contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses. Trinity Baptist Church was established in 1875. During the church's first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn.</field>
++    <field name="abstract_teim">This collection consists of one ledger, dated 1874 to 1915 and  contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses.  Trinity Baptist Church was established in 1875. During the church&#39;s first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn.</field>
++    <field name="abstract_ssm">This collection consists of one ledger, dated 1874 to 1915 and  contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses.  Trinity Baptist Church was established in 1875. During the church&#39;s first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn.</field>
+     <field name="creator_teim">Trinity Baptist Church (Brooklyn, New York, N.Y.)</field>
+     <field name="creator_ssm">Trinity Baptist Church (Brooklyn, New York, N.Y.)</field>
+     <field name="creator_ssm">Trinity Baptist Church (Brooklyn, New York, N.Y.)</field>
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1874/1915</field>
+     <field name="unitdate_inclusive_teim">1874-1915</field>
+     <field name="scopecontent_teim">This collection consists of one ledger, dated 1874 to 1915 and measuring one linear foot. The ledger contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses.</field>
+-    <field name="bioghist_teim">Trinity Baptist Church was established in 1875. During the church's first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn. In 1877, Trinity's chapel opened, located on Greene Avenue between Patchen Avenue and Broadway in Bedford-Stuyvesant. The majority of the founding congregation was comprised of members from the Willoughby Avenue Baptist Church.</field>
++    <field name="bioghist_teim">Trinity Baptist Church was established in 1875. During the church&#39;s first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn. In 1877, Trinity&#39;s chapel opened, located on Greene Avenue between Patchen Avenue and Broadway in Bedford-Stuyvesant. The majority of the founding congregation was comprised of members from the Willoughby Avenue Baptist Church.</field>
+     <field name="acqinfo_teim">Gift of Harold J. Manson, date unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Trinity Baptist Church (Brooklyn, New York, N.Y.)</field>
+@@ -37,10 +37,10 @@
+     <field name="subject_teim">Church records and registers</field>
+     <field name="subject_teim">Baptists |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Religious institutions |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Church membership -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Church records and registers</field>
+-    <field name="subject_teim">Baptists -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Church membership --New York (State) --Kings County</field>
++    <field name="subject_teim">Church records and registers</field>
++    <field name="subject_teim">Baptists --New York (State) --Kings County</field>
++    <field name="subject_teim">Religious institutions --New York (State) --Kings County</field>
+     <field name="subject_ssm">Church membership |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Church records and registers</field>
+     <field name="subject_ssm">Baptists |z New York (State) |z Kings County</field>
+@@ -62,11 +62,11 @@
+     <field name="name_teim">Trinity Baptist Church (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Bedford-Stuyvesant (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Genealogy</field>
+-    <field name="subject_sim">Church membership -- New York (State) -- Kings County</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Genealogy</field>
++    <field name="subject_sim">Church membership --New York (State) --Kings County</field>
+     <field name="subject_sim">Church records and registers</field>
+-    <field name="subject_sim">Baptists -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Religious institutions -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Baptists --New York (State) --Kings County</field>
++    <field name="subject_sim">Religious institutions --New York (State) --Kings County</field>
+     <field name="material_type_sim">Membership lists</field>
+     <field name="material_type_ssm">Membership lists</field>
+     <field name="heading_ssm">Trinity Baptist Church ledger</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Slides by Object ID</field>
+     <field name="unittitle_teim">Slides by Object ID</field>
+-    <field name="scopecontent_teim">This series consists of slides that have been individually numbered and described in the library's image database.</field>
++    <field name="scopecontent_teim">This series consists of slides that have been individually numbered and described in the library&#39;s image database.</field>
+     <field name="phystech_teim">The digitized images and descriptions of the items in this series are available to view on site at the library.</field>
+     <field name="ref_ssi">aspace_3417faa4d493fad76b50695a57fa960b</field>
+     <field name="repository_ssi">cbh</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn slide collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">V1984.001</field>
+     <field name="series_si">Slides by Object ID</field>
+     <field name="heading_ssm">Slides by Object ID</field>

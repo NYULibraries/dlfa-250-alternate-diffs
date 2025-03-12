@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Williamsburgh Savings Bank account book and scrapbook</field>
+     <field name="unitid_teim">1990.008</field>
+     <field name="unitid_ssm">1990.008</field>
+-    <field name="abstract_teim">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank's building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
+-    <field name="abstract_ssm">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank's building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
++    <field name="abstract_teim">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank&#39;s building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
++    <field name="abstract_ssm">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank&#39;s building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
+     <field name="creator_teim">Williamsburgh Savings Bank</field>
+     <field name="creator_ssm">Williamsburgh Savings Bank</field>
+     <field name="creator_ssm">Williamsburgh Savings Bank</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1869/1969</field>
+     <field name="unitdate_normal_sim">1869/1969</field>
+     <field name="unitdate_inclusive_teim">1869-1875, 1936-1969</field>
+-    <field name="scopecontent_teim">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank's building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
+-    <field name="bioghist_teim">The Williamsburgh Savings Bank, chartered in 1851, originally opened its doors to customers from a rented basement in the Town of Williamsburgh (now the Williamsburg neighborhood of Brooklyn). The bank continued to rent office space until 1875 when the first Williamsburgh Savings Bank building opened at 175 Broadway in what was then the Eastern District of the City of Brooklyn (now, also, the Williamsburg neighborhood of Brooklyn). The building, landmarked since 1966, was built following an architectural competition held by the bank to find an architect to design their headquarters. George B. Post submitted the winning design of a four-story Classical Revival style building. Post would go on to design other landmarked buildings including the Brooklyn Historical Society building.</field>
++    <field name="scopecontent_teim">This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank&#39;s building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969.</field>
++    <field name="bioghist_teim">The Williamsburgh Savings Bank, chartered in 1851, originally opened its doors to customers from a rented basement in the Town of Williamsburgh (now the Williamsburg neighborhood of Brooklyn). The bank continued to rent office space until 1875 when the first Williamsburgh Savings Bank building opened at 175 Broadway in what was then the Eastern District of the City of Brooklyn (now, also, the Williamsburg neighborhood of Brooklyn). The building, landmarked since 1966, was built following an architectural competition held by the bank to find an architect to design their headquarters. George B. Post submitted the winning design of a four-story Classical Revival style building. Post would go on to design other landmarked buildings including the Brooklyn Historical Society building. </field>
+     <field name="bioghist_teim">In 1926, the Williamsburgh Savings Bank bought more property, this time in the brownstone adorned Fort Greene neighborhood of Brooklyn. On this site, the 34-story Williamsburgh Savings Bank building, located at 1 Hanson Place, was built. The skyscraper was designed by the architectural firm Halsey, McCormack, and Helmer who specialized in bank architecture. Their designs include the landmarked Emigrant Savings Bank building (originally the Dollar Savings Bank) located in the Bronx.</field>
+     <field name="bioghist_teim">The Williamsburgh Savings Bank building, 1 Hanson Place was built between 1927 and 1929. Standing at 512 feet, it was the tallest building in Brooklyn until the completion of The Brooklyner condominiums (516 feet) in 2009. The now landmarked Williamsburgh Savings Bank building (since 1977) was also home to the largest four-faced clock in the world. It held this title until 1962. In 2009, the building was converted into condominiums. In 2010, the expansive ornate marbled lobby, originally the banking room, was opened to house the popular weekend market, Brooklyn Flea.</field>
+     <field name="acqinfo_teim">Gift of the Williamsburg Savings Bank, 1990.</field>
+@@ -39,10 +39,10 @@
+     <field name="subject_teim">Bank buildings |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Savings banks |z New York (State) |z Kings County |x Design and construction</field>
+     <field name="subject_teim">Savings banks |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Banks and banking -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Bank buildings -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Savings banks -- New York (State) -- Kings County -- Design and construction</field>
+-    <field name="subject_teim">Savings banks -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Banks and banking --New York (State) --Kings County</field>
++    <field name="subject_teim">Bank buildings --New York (State) --Kings County</field>
++    <field name="subject_teim">Savings banks --New York (State) --Kings County --Design and construction</field>
++    <field name="subject_teim">Savings banks --New York (State) --Kings County</field>
+     <field name="subject_ssm">Banks and banking |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Bank buildings |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Savings banks |z New York (State) |z Kings County |x Design and construction</field>
+@@ -62,10 +62,10 @@
+     <field name="name_sim">Williamsburgh Savings Bank</field>
+     <field name="name_teim">Williamsburgh Savings Bank</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Banks and banking -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Bank buildings -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Savings banks -- New York (State) -- Kings County -- Design and construction</field>
+-    <field name="subject_sim">Savings banks -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Banks and banking --New York (State) --Kings County</field>
++    <field name="subject_sim">Bank buildings --New York (State) --Kings County</field>
++    <field name="subject_sim">Savings banks --New York (State) --Kings County --Design and construction</field>
++    <field name="subject_sim">Savings banks --New York (State) --Kings County</field>
+     <field name="material_type_sim">Scrapbooks</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Account books</field>

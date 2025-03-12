@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+     <field name="parent_ssm">aspace_830c686632d0f0e5bba5a71e41aaa335</field>
+     <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_ssm">St. Joseph's College</field>
++    <field name="parent_unittitles_ssm">St. Joseph&amp;#39;s College</field>
+     <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+-    <field name="parent_unittitles_teim">St. Joseph's College</field>
++    <field name="parent_unittitles_teim">St. Joseph&amp;#39;s College</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brooklyn schools collection</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 11</field>
+     <field name="location_si">Box: 11</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_sim">St. Joseph's College</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Joseph's College &gt;&gt; Promotional materials</field>
++    <field name="series_sim">St. Joseph&amp;#39;s College</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Joseph&#39;s College &gt;&gt; Promotional materials</field>
+     <field name="heading_ssm">Promotional materials</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>

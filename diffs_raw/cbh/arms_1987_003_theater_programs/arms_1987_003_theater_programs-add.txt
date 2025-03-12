@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Theater programs scrapbook</field>
+     <field name="unitid_teim">1987.003</field>
+     <field name="unitid_ssm">1987.003</field>
+-    <field name="abstract_teim">One scrapbook of an unknown compiler of programs, reviews, and notices for New York City and Brooklyn theatrical productions. Several Brooklyn Academy of Music and Florence Dramatic Society programs are included.</field>
+-    <field name="abstract_ssm">One scrapbook of an unknown compiler of programs, reviews, and notices for New York City and Brooklyn theatrical productions. Several Brooklyn Academy of Music and Florence Dramatic Society programs are included.</field>
++    <field name="abstract_teim">One scrapbook of an unknown compiler of programs, reviews, and notices for New York City and Brooklyn theatrical productions.  Several Brooklyn Academy of Music and Florence Dramatic Society programs are included.</field>
++    <field name="abstract_ssm">One scrapbook of an unknown compiler of programs, reviews, and notices for New York City and Brooklyn theatrical productions.  Several Brooklyn Academy of Music and Florence Dramatic Society programs are included.</field>
+     <field name="unitdate_normal_ssm">1890/1895</field>
+     <field name="unitdate_normal_teim">1890/1895</field>
+     <field name="unitdate_normal_sim">1890/1895</field>
+@@ -34,10 +34,10 @@
+     <field name="subject_teim">Theaters |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Theater |z New York (State) |z New York</field>
+     <field name="subject_teim">Theaters |z New York (State) |z New York</field>
+-    <field name="subject_teim">Theater -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Theaters -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Theater -- New York (State) -- New York</field>
+-    <field name="subject_teim">Theaters -- New York (State) -- New York</field>
++    <field name="subject_teim">Theater --New York (State) --Kings County</field>
++    <field name="subject_teim">Theaters --New York (State) --Kings County</field>
++    <field name="subject_teim">Theater --New York (State) --New York</field>
++    <field name="subject_teim">Theaters --New York (State) --New York</field>
+     <field name="subject_ssm">Theater |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Theaters |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Theater |z New York (State) |z New York</field>
+@@ -57,10 +57,10 @@
+     <field name="name_teim">Brooklyn Academy of Music</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+-    <field name="subject_sim">Theater -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Theaters -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Theater -- New York (State) -- New York</field>
+-    <field name="subject_sim">Theaters -- New York (State) -- New York</field>
++    <field name="subject_sim">Theater --New York (State) --Kings County</field>
++    <field name="subject_sim">Theaters --New York (State) --Kings County</field>
++    <field name="subject_sim">Theater --New York (State) --New York</field>
++    <field name="subject_sim">Theaters --New York (State) --New York</field>
+     <field name="material_type_sim">Reviews (document genre)</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Theater programs</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1947-12-26/1947-12-27</field>
+     <field name="unitdate_normal_sim">1947-12-26/1947-12-27</field>
+     <field name="unitdate_inclusive_teim">1947 December 26-27</field>
+-    <field name="scopecontent_teim">Photographs depict Marvin and Carol Kasper playing in the 26.4" of snow that fell during the blizzard.</field>
++    <field name="scopecontent_teim">Photographs depict Marvin and Carol Kasper playing in the 26.4&#34; of snow that fell during the blizzard.</field>
+     <field name="ref_ssi">aspace_3777650ab4e63126de2060fcc9d90e30</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Kasper Family Collection</field>
++    <field name="author_teim">Diana Bowers-Smith</field>
+     <field name="collection_unitid_teim">BCMS.0080</field>
+     <field name="series_sim">Family Photographs</field>
+     <field name="series_si">Family Photographs &gt;&gt; Blizzard of 1947</field>

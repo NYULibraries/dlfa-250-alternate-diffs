@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn landmarks calendars</field>
+     <field name="unitid_teim">ARC.234</field>
+     <field name="unitid_ssm">ARC.234</field>
+-    <field name="abstract_teim">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn's oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901.</field>
+-    <field name="abstract_ssm">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn's oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901.</field>
++    <field name="abstract_teim">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn&#39;s oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901.</field>
++    <field name="abstract_ssm">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn&#39;s oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901.</field>
+     <field name="creator_teim">Busing, F. A.</field>
+     <field name="creator_ssm">Busing, F. A.</field>
+     <field name="creator_ssm">Busing, F. A.</field>
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_teim">1901/1901</field>
+     <field name="unitdate_normal_sim">1901/1901</field>
+     <field name="unitdate_inclusive_teim">1901</field>
+-    <field name="scopecontent_teim">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn's oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901. Each calendar contains 15 pages with 20 views of Dutch homesteads in Brooklyn, identified by owner name, neighborhood, street, date or time period built, and historic facts about the site. Brooklyn neighborhoods depicted in the collection include Flatlands, East New York, Flatbush, Bergen Beach, Bay Ridge, Canarsie, New Lots, Gravesend, and Coney Island.</field>
++    <field name="scopecontent_teim">Three calendars, titled Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn&#39;s oldest landmarks--the disappearing homesteads of the 17th and 18th centuries, copyright 1901. Each calendar contains 15 pages with 20 views of Dutch homesteads in Brooklyn, identified by owner name, neighborhood, street, date or time period built, and historic facts about the site. Brooklyn neighborhoods depicted in the collection include Flatlands, East New York, Flatbush, Bergen Beach, Bay Ridge, Canarsie, New Lots, Gravesend, and Coney Island.</field>
+     <field name="acqinfo_teim">Source and date of acquisition for items in this collection are unknown.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -48,8 +48,8 @@
+     <field name="persname_ssm">Busing, F. A.</field>
+     <field name="subject_teim">Dwellings |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Architecture, Dutch |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Dwellings -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Architecture, Dutch -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Dwellings --New York (State) --Kings County</field>
++    <field name="subject_teim">Architecture, Dutch --New York (State) --Kings County</field>
+     <field name="subject_ssm">Dwellings |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Architecture, Dutch |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn landmarks calendars</field>
+@@ -76,8 +76,8 @@
+     <field name="place_sim">Flatbush (New York, N.Y.)</field>
+     <field name="place_sim">New Lots (New York, N.Y.)</field>
+     <field name="place_sim">Canarsie (New York, N.Y.)</field>
+-    <field name="subject_sim">Dwellings -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Architecture, Dutch -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Dwellings --New York (State) --Kings County</field>
++    <field name="subject_sim">Architecture, Dutch --New York (State) --Kings County</field>
+     <field name="material_type_sim">Calendars</field>
+     <field name="material_type_sim">Illustrations (layout features)</field>
+     <field name="material_type_ssm">Calendars</field>

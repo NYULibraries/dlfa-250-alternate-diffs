@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0041</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Heart's Blood (Herzblut)</field>
+-    <field name="unittitle_teim">Heart's Blood (Herzblut)</field>
++    <field name="unittitle_ssm">Heart&#39;s Blood (Herzblut)</field>
++    <field name="unittitle_teim">Heart&#39;s Blood (Herzblut)</field>
+     <field name="unitdate_teim">December 3-10, [no year]</field>
+     <field name="ref_ssi">aspace_ref718</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
++    <field name="author_teim">Collection processed by Lisa DeBoer, Lisa Castrogiovanni and Lisa Studier and revised by Diana Bowers-Smith.</field>
+     <field name="collection_unitid_teim">BCMS.0041</field>
+     <field name="series_sim">Hansa Theatre</field>
+-    <field name="series_si">Hansa Theatre &gt;&gt; Heart's Blood (Herzblut)</field>
+-    <field name="heading_ssm">Heart's Blood (Herzblut)</field>
++    <field name="series_si">Hansa Theatre &gt;&gt; Heart&#39;s Blood (Herzblut)</field>
++    <field name="heading_ssm">Heart&#39;s Blood (Herzblut)</field>
+     <field name="unitdate_ssm">December 3-10, [no year]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">382</field>

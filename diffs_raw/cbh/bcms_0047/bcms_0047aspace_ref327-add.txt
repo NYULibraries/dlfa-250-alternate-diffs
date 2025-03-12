@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kings County Historic Records Microfilm Collection</field>
+     <field name="collection_unitid_ssm">BCMS.0047</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Butler, Jerome. &lt;em&gt;The Story of Gravesend, It's Settlement and Development.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Butler, Jerome. The Story of Gravesend, It's Settlement and Development.</field>
++    <field name="unittitle_ssm">Butler, Jerome. &lt;em&gt;The Story of Gravesend, It&#39;s Settlement and Development.&lt;/em&gt;</field>
++    <field name="unittitle_teim">Butler, Jerome. The Story of Gravesend, It&#39;s Settlement and Development.</field>
+     <field name="ref_ssi">aspace_ref327</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -24,10 +24,11 @@
+     <field name="location_ssm">reel: 57</field>
+     <field name="location_si">reel: 57</field>
+     <field name="collection_teim">Kings County Historic Records Microfilm Collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0047</field>
+     <field name="series_sim">Reel 57, Titles 1-9 are Student Papers from the James A. Kelly Institute for Historical Studies at St. Francis College, 1957</field>
+-    <field name="series_si">Reel 57, Titles 1-9 are Student Papers from the James A. Kelly Institute for Historical Studies at St. Francis College, 1957 &gt;&gt; Butler, Jerome. &lt;em&gt;The Story of Gravesend, It's Settlement and Development.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Butler, Jerome. The Story of Gravesend, It's Settlement and Development.</field>
++    <field name="series_si">Reel 57, Titles 1-9 are Student Papers from the James A. Kelly Institute for Historical Studies at St. Francis College, 1957 &gt;&gt; Butler, Jerome. &lt;em&gt;The Story of Gravesend, It&#39;s Settlement and Development.&lt;/em&gt;</field>
++    <field name="heading_ssm">Butler, Jerome. The Story of Gravesend, It&#39;s Settlement and Development.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">303</field>
+   </doc>

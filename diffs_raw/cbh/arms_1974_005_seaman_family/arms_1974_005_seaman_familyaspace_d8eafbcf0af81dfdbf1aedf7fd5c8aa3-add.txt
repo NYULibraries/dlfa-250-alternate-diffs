@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1816-11-12/1816-11-12</field>
+     <field name="unitdate_normal_sim">1816-11-12/1816-11-12</field>
+     <field name="unitdate_teim">November 12, 1816</field>
+-    <field name="scopecontent_teim">Agreement of C. Roe to "purchase for and on account of Seaman and Cocks a quantity of full blooded Marino wool."</field>
++    <field name="scopecontent_teim">Agreement of C. Roe to &#34;purchase for and on account of Seaman and Cocks a quantity of full blooded Marino wool.&#34;</field>
+     <field name="ref_ssi">aspace_d8eafbcf0af81dfdbf1aedf7fd5c8aa3</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -30,6 +30,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Seaman family papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">1974.005</field>
+     <field name="series_sim">Series 2: Other documents</field>
+     <field name="series_sim">Sub-series 2.2: Business Records</field>

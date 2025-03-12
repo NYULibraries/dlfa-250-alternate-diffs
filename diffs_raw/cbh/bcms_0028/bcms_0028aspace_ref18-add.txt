@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1979/1980</field>
+     <field name="unitdate_normal_sim">1979/1980</field>
+     <field name="unitdate_inclusive_teim">1979-1980</field>
+-    <field name="scopecontent_teim">Largely focusing on the neighborhoods of Brighton Beach, Coney Island, and Manhattan Beach, the Beach Journal provides coverage of business, political, education, and community news, with an emphasis on the area's Jewish community. Engagement announcements as well as Bat and Bar Mitzvah announcements regularly appear. Advertisements, classifieds, and photographs appear throughout. Stories about the area's Russian immigrant population also regularly appear.</field>
++    <field name="scopecontent_teim">Largely focusing on the neighborhoods of Brighton Beach, Coney Island, and Manhattan Beach, the Beach Journal provides coverage of business, political, education, and community news, with an emphasis on the area&#39;s Jewish community. Engagement announcements as well as Bat and Bar Mitzvah announcements regularly appear. Advertisements, classifieds, and photographs appear throughout. Stories about the area&#39;s Russian immigrant population also regularly appear.</field>
+     <field name="ref_ssi">aspace_ref18</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">bin: 4</field>
+     <field name="location_si">bin: 4</field>
+     <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
++    <field name="author_teim">Ben Gocker, Librarian; Olivia Morales Geaghan, Archivist; Revised and updated by Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0028</field>
+     <field name="series_si">Beach Journal</field>
+     <field name="heading_ssm">Beach Journal</field>

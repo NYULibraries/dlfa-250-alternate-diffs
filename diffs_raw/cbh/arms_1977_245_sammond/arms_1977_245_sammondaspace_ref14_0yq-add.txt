@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1889/1953</field>
+     <field name="unitdate_normal_sim">1889/1953</field>
+     <field name="unitdate_inclusive_teim">1889-1953</field>
+-    <field name="scopecontent_teim">This series contains sheet music of various composers including a volume of organ works of J.S. Bach, a volume of Mozart's piano sonatas, and a volume of modern organ music, among others. Some of the sheet music has notations made by Sammond.</field>
++    <field name="scopecontent_teim">This series contains sheet music of various composers including a volume of organ works of J.S. Bach, a volume of Mozart&#39;s piano sonatas, and a volume of modern organ music, among others. Some of the sheet music has notations made by Sammond.</field>
+     <field name="ref_ssi">aspace_ref14_0yq</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Herbert Stavely Sammond papers</field>
++    <field name="author_teim">Cesar Garza</field>
+     <field name="collection_unitid_teim">1977.245</field>
+     <field name="series_si">Series 3: Music Compilations</field>
+     <field name="heading_ssm">Series 3: Music Compilations</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Principal's album (class photographs)</field>
+-    <field name="unittitle_teim">Principal's album (class photographs)</field>
++    <field name="unittitle_ssm">Principal&#39;s album (class photographs)</field>
++    <field name="unittitle_teim">Principal&#39;s album (class photographs)</field>
+     <field name="unitdate_normal_ssm">2001/2002</field>
+     <field name="unitdate_normal_teim">2001/2002</field>
+     <field name="unitdate_normal_sim">2001/2002</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 6</field>
+     <field name="location_si">Box: 6</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">I.S. 252</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; I.S. 252 &gt;&gt; Principal's album (class photographs)</field>
+-    <field name="heading_ssm">Principal's album (class photographs)</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; I.S. 252 &gt;&gt; Principal&#39;s album (class photographs)</field>
++    <field name="heading_ssm">Principal&#39;s album (class photographs)</field>
+     <field name="unitdate_start_sim">2001</field>
+     <field name="unitdate_start_ssm">2001</field>
+     <field name="unitdate_start_si">2001</field>

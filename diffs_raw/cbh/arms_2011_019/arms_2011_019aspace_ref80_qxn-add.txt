@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_inclusive_teim">2013 August 3</field>
+     <field name="scopecontent_teim">In the interview, the McGills discuss their childhoods in the East New York neighborhood of Brooklyn; perceptions of cultural changes in East New York; courtship, marriage, and raising children in New York City; and plans for retirement. Interview conducted by Dorothy Saint Jean.</field>
+     <field name="bioghist_teim">Pattie McGill was born to African American parents and raised in the East New York neighborhood of Brooklyn. She worked as a school aide in a public school in East New York.</field>
+-    <field name="bioghist_teim">Ralph McGill was born to an Italian mother and a white American father and raised in the East New York neighborhood of Brooklyn. He worked as a mechanic in his family's auto business.</field>
++    <field name="bioghist_teim">Ralph McGill was born to an Italian mother and a white American father and raised in the East New York neighborhood of Brooklyn. He worked as a mechanic in his family&#39;s auto business.</field>
+     <field name="geogname_teim">East New York (New York, N.Y.)</field>
+     <field name="geogname_ssm">East New York (New York, N.Y.)</field>
+     <field name="subject_teim">Education |z New York (State) |z New York</field>
+@@ -26,8 +26,8 @@
+     <field name="subject_teim">Community identity |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Racially mixed families</field>
+     <field name="subject_teim">Parenthood</field>
+-    <field name="subject_teim">Education -- New York (State) -- New York</field>
+-    <field name="subject_teim">Community identity -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Education --New York (State) --New York</field>
++    <field name="subject_teim">Community identity --New York (State) --Kings County</field>
+     <field name="subject_teim">Racially mixed families</field>
+     <field name="subject_teim">Parenthood</field>
+     <field name="subject_ssm">Education |z New York (State) |z New York</field>
+@@ -42,11 +42,12 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">East New York (New York, N.Y.)</field>
+     <field name="place_sim">East New York (New York, N.Y.)</field>
+-    <field name="subject_sim">Education -- New York (State) -- New York</field>
+-    <field name="subject_sim">Community identity -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Education --New York (State) --New York</field>
++    <field name="subject_sim">Community identity --New York (State) --Kings County</field>
+     <field name="subject_sim">Racially mixed families</field>
+     <field name="subject_sim">Parenthood</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Pattie McGill and Ralph McGill</field>
+     <field name="heading_ssm">Pattie McGill and Ralph McGill</field>

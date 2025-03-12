@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. Frank Leslie's Illustrated Newspaper</field>
++    <field name="unittitle_ssm">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="unittitle_teim">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_normal_ssm">1874-03-07/1874-03-07</field>
+     <field name="unitdate_normal_teim">1874-03-07/1874-03-07</field>
+     <field name="unitdate_normal_sim">1874-03-07/1874-03-07</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Churches</field>
+-    <field name="series_si">Churches &gt;&gt; The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. &lt;em&gt;Frank Leslie's Illustrated Newspaper&lt;/em&gt;</field>
+-    <field name="heading_ssm">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. Frank Leslie's Illustrated Newspaper</field>
++    <field name="series_si">Churches &gt;&gt; The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. &lt;em&gt;Frank Leslie&#39;s Illustrated Newspaper&lt;/em&gt;</field>
++    <field name="heading_ssm">The New Brooklyn Tabernacle on Schermerhorn Street, Rev. T. De Witt Talmage, Pastor. Frank Leslie&#39;s Illustrated Newspaper</field>
+     <field name="unitdate_ssm">March 7, 1874</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">431</field>

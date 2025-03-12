@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+     <field name="collection_unitid_ssm">BCMS.0039</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Woman's Press</field>
+-    <field name="unittitle_teim">Woman's Press</field>
++    <field name="unittitle_ssm">Woman&#39;s Press</field>
++    <field name="unittitle_teim">Woman&#39;s Press</field>
+     <field name="ref_ssi">aspace_0fdf5b711377245ae94d1c65a2756798</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Box: 51, Folder: 7.5.366</field>
+     <field name="location_si">Box: 51, Folder: 7.5.366</field>
+     <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
++    <field name="author_teim">Nancy Johnson, Consulting Archivist and, Julie Moffat, Assistant Archivist and Preservation Coordinator, Brooklyn Collection, 1999</field>
+     <field name="collection_unitid_teim">BCMS.0039</field>
+     <field name="series_sim">Series 7: Related non-government agencies</field>
+     <field name="series_sim">Subseries 7.5: Other related agencies</field>
+-    <field name="series_si">Series 7: Related non-government agencies &gt;&gt; Subseries 7.5: Other related agencies &gt;&gt; Woman's Press</field>
+-    <field name="heading_ssm">Woman's Press</field>
++    <field name="series_si">Series 7: Related non-government agencies &gt;&gt; Subseries 7.5: Other related agencies &gt;&gt; Woman&#39;s Press</field>
++    <field name="heading_ssm">Woman&#39;s Press</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">878</field>
+   </doc>

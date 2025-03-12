@@ -1,0 +1,95 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 May 12</field>
+     <field name="scopecontent_teim">Bella Rubaszkin discusses some traditions, teachings and social gatherings of the Lubavitcher community. She and her husband Gabriel talk about their displacement in Europe and Russia during and after World War II; the changing ethnicities of their pocket of the Crown Heights neighborhood of Brooklyn and changes in where Jews have settled in the New York City area since the 1950s; and the success and job opportunities of their neighbors and relatives. They make their observations on the ethnic and racial tensions of Crown Heights since the 1970s through to the 1991 rioting and the aftermath. In light of her attendance in a college-level political science course, Bella offers her thoughts on the strife within the community and ways of reconciliation. Interview conducted by Jill Vexler.</field>
+-    <field name="bioghist_teim">Bella (Biela) Rubaszkin was born in 1933. Observant from birth, she fled her home village of Krolevets, Ukraine as World War II intensified in 1941. She and her family migrated east to Saratov, Russia and then further east until the war's end. She met her future husband Gabriel Rubaszkin, a Russian Jew, in Samarkand, Uzbekistan. Religious persecution forced their move to the United States, via several countries. During their five-year stay in France, Bella and Gabriel were married. They arrived in New York in 1954. By 1958, they had settled in the Brooklyn neighborhood of Crown Heights and began raising a family. By 1993, they were grandparents. They sold their Carroll Street home in 2005, and have since resided in White Lake, New York and Miami Beach, Florida.</field>
++    <field name="bioghist_teim">Bella (Biela) Rubaszkin was born in 1933. Observant from birth, she fled her home village of Krolevets, Ukraine as World War II intensified in 1941. She and her family migrated east to Saratov, Russia and then further east until the war&#39;s end. She met her future husband Gabriel Rubaszkin, a Russian Jew, in Samarkand, Uzbekistan. Religious persecution forced their move to the United States, via several countries. During their five-year stay in France, Bella and Gabriel were married. They arrived in New York in 1954. By 1958, they had settled in the Brooklyn neighborhood of Crown Heights and began raising a family. By 1993, they were grandparents. They sold their Carroll Street home in 2005, and have since resided in White Lake, New York and Miami Beach, Florida.</field>
+     <field name="corpname_teim">Brooklyn Botanic Garden</field>
+     <field name="corpname_teim">Congregation Lubavitch (Crown Heights, New York, N.Y.)</field>
+     <field name="corpname_ssm">Brooklyn Botanic Garden</field>
+@@ -53,7 +53,7 @@
+     <field name="persname_ssm">Rubaszkin, Gabriel</field>
+     <field name="persname_ssm">Schneerson, Menachem Mendel</field>
+     <field name="persname_ssm">Sharpton, Al</field>
+-    <field name="subject_teim">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans |x Relations with Jews </field>
+     <field name="subject_teim">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Hasidim |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Holocaust, Jewish (1939-1945)</field>
+@@ -65,19 +65,19 @@
+     <field name="subject_teim">Persecution |z Soviet Union</field>
+     <field name="subject_teim">Race relations -- United States</field>
+     <field name="subject_teim">World War, 1939-1945 |x Refugees</field>
+-    <field name="subject_teim">African Americans -- Relations with Jews</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Hasidim -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Holocaust, Jewish (1939-1945)</field>
+-    <field name="subject_teim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jewish neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jews, Russian -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Judaism -- Hasidic rite</field>
+-    <field name="subject_teim">Persecution -- Soviet Union</field>
+-    <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">World War, 1939-1945 -- Refugees</field>
+-    <field name="subject_ssm">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans --Relations with Jews </field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Hasidim --New York (State) --Kings County</field>
++    <field name="subject_teim">Holocaust, Jewish (1939-1945)</field>
++    <field name="subject_teim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_teim">Immigrants -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Jewish neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Jews, Russian --New York (State) --Kings County</field>
++    <field name="subject_teim">Judaism --Hasidic rite</field>
++    <field name="subject_teim">Persecution --Soviet Union</field>
++    <field name="subject_teim">Race relations -- United States</field>
++    <field name="subject_teim">World War, 1939-1945 --Refugees</field>
++    <field name="subject_ssm">African Americans |x Relations with Jews </field>
+     <field name="subject_ssm">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Hasidim |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Holocaust, Jewish (1939-1945)</field>
+@@ -117,7 +117,7 @@
+     <field name="place_ssm">France</field>
+     <field name="place_ssm">Israel</field>
+     <field name="place_ssm">Ukraine</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Borough Park (New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+@@ -124,20 +124,21 @@
+     <field name="place_sim">France</field>
+     <field name="place_sim">Israel</field>
+     <field name="place_sim">Ukraine</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">African Americans -- Relations with Jews</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Hasidim -- New York (State) -- Kings County</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">African Americans --Relations with Jews </field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Hasidim --New York (State) --Kings County</field>
+     <field name="subject_sim">Holocaust, Jewish (1939-1945)</field>
+-    <field name="subject_sim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Home ownership --Social aspects --New York (State) --Kings County</field>
+     <field name="subject_sim">Immigrants -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Jewish neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Jews, Russian -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Judaism -- Hasidic rite</field>
+-    <field name="subject_sim">Persecution -- Soviet Union</field>
++    <field name="subject_sim">Jewish neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Jews, Russian --New York (State) --Kings County</field>
++    <field name="subject_sim">Judaism --Hasidic rite</field>
++    <field name="subject_sim">Persecution --Soviet Union</field>
+     <field name="subject_sim">Race relations -- United States</field>
+-    <field name="subject_sim">World War, 1939-1945 -- Refugees</field>
++    <field name="subject_sim">World War, 1939-1945 --Refugees</field>
+     <field name="collection_teim">Crown Heights History Project collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">1994.006</field>
+     <field name="series_sim">Crown Heights History Project oral histories</field>
+     <field name="series_si">Crown Heights History Project oral histories &gt;&gt; Rubaszkin, Bella and Gabriel</field>

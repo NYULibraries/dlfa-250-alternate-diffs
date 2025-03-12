@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_sim">1989/1989</field>
+     <field name="unitdate_teim">1989</field>
+     <field name="scopecontent_teim">This interview took place on November 4, 1989.</field>
+-    <field name="bioghist_teim">Hulett S. Pankey was born in 1903 in Brooklyn, New York. He was a member of Vincent Carney's political club along with his brother Robert Pankey. Pankey died on January 17, 1991.</field>
+-    <field name="phystech_teim">Cassette tapes are not available for research use. Access to the interview is available digitally onsite at Center for Brooklyn History's Othmer Library.</field>
++    <field name="bioghist_teim">Hulett S. Pankey was born in 1903 in Brooklyn, New York. He was a member of Vincent Carney&#39;s political club along with his brother Robert Pankey. Pankey died on January 17, 1991.</field>
++    <field name="phystech_teim">Cassette tapes are not available for research use. Access to the interview is available digitally onsite at Center for Brooklyn History&#39;s Othmer Library.</field>
+     <field name="phystech_teim">One original audio cassette.</field>
+     <field name="phystech_teim">Two preservation .WAV files. One access .mp3 file.</field>
+     <field name="ref_ssi">aspace_f94ae402af9935a3fc250059b6d07ff3</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Box: 9, Cassette: 50</field>
+     <field name="location_si">Box: 9, Cassette: 50</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Hulett Pankey</field>
+     <field name="heading_ssm">Hulett Pankey</field>

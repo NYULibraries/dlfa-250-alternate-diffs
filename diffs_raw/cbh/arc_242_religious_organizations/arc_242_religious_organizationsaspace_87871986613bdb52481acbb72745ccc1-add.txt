@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1909/1912</field>
+     <field name="unitdate_normal_sim">1909/1912</field>
+     <field name="unitdate_inclusive_teim">1909-1912</field>
+-    <field name="scopecontent_teim">People's Pulpit newsletter Vols. 1-4.</field>
++    <field name="scopecontent_teim">People&#39;s Pulpit newsletter Vols. 1-4.</field>
+     <field name="ref_ssi">aspace_87871986613bdb52481acbb72745ccc1</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: OS-20</field>
+     <field name="location_si">Box: OS-20</field>
+     <field name="collection_teim">Religious organizations of Brooklyn collection</field>
++    <field name="author_teim">Nicholas Pavlik</field>
+     <field name="collection_unitid_teim">ARC.242</field>
+     <field name="series_si">Bible and Tract Society, Brooklyn Tabernacle</field>
+     <field name="heading_ssm">Bible and Tract Society, Brooklyn Tabernacle</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1930/1939</field>
+     <field name="unitdate_normal_sim">1930/1939</field>
+     <field name="unitdate_inclusive_teim">1930-1939</field>
+-    <field name="scopecontent_teim">"Transactions" publication.</field>
++    <field name="scopecontent_teim">&#34;Transactions&#34; publication.</field>
+     <field name="ref_ssi">aspace_4e14681a149713b3199119e0fc81b7e1</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 4-9</field>
+     <field name="location_si">Box: 1, Folder: 4-9</field>
+     <field name="collection_teim">Fraternal organizations of Brooklyn collection</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.147</field>
+     <field name="series_sim">Series 3: Free and Accepted Masons</field>
+     <field name="series_si">Series 3: Free and Accepted Masons &gt;&gt; American Lodge of Research</field>

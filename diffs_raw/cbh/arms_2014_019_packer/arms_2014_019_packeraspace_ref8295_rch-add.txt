@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">The Packer Collegiate Institute records</field>
+     <field name="collection_unitid_ssm">2014.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Demo. John Gray Presentation. Sunday Today Program."</field>
+-    <field name="unittitle_teim">"Demo. John Gray Presentation. Sunday Today Program."</field>
++    <field name="unittitle_ssm">&#34;Demo. John Gray Presentation. Sunday Today Program.&#34;</field>
++    <field name="unittitle_teim">&#34;Demo. John Gray Presentation. Sunday Today Program.&#34;</field>
+     <field name="unitdate_normal_ssm">1985/1995</field>
+     <field name="unitdate_normal_teim">1985/1995</field>
+     <field name="unitdate_normal_sim">1985/1995</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 351, Folder: 2</field>
+     <field name="location_si">Box: 351, Folder: 2</field>
+     <field name="collection_teim">The Packer Collegiate Institute records</field>
++    <field name="author_teim">Pratt Institute, School of Library and Information Science graduate students and John Zarrillo. Digital materials processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_sim">Series 18: Audio, film, and video recordings</field>
+     <field name="series_sim">Sub-series 18.4: Video recordings</field>
+-    <field name="series_si">Series 18: Audio, film, and video recordings &gt;&gt; Sub-series 18.4: Video recordings &gt;&gt; "Demo. John Gray Presentation. Sunday Today Program."</field>
+-    <field name="heading_ssm">"Demo. John Gray Presentation. Sunday Today Program."</field>
++    <field name="series_si">Series 18: Audio, film, and video recordings &gt;&gt; Sub-series 18.4: Video recordings &gt;&gt; &#34;Demo. John Gray Presentation. Sunday Today Program.&#34;</field>
++    <field name="heading_ssm">&#34;Demo. John Gray Presentation. Sunday Today Program.&#34;</field>
+     <field name="unitdate_start_sim">1985</field>
+     <field name="unitdate_start_ssm">1985</field>
+     <field name="unitdate_start_si">1985</field>

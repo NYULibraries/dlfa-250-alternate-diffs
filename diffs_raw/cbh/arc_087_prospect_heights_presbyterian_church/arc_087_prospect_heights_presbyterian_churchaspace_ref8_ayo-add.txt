@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1908/1965</field>
+     <field name="unitdate_normal_sim">1908/1965</field>
+     <field name="unitdate_inclusive_teim">1908-1965</field>
+-    <field name="scopecontent_teim">Baptism and Marriage Documents contains stubs from certificates presented to individuals baptized or married at the church. These stubs contain names, addresses, dates of baptism or marriage, birthdates, and parents' names.</field>
++    <field name="scopecontent_teim">Baptism and Marriage Documents contains stubs from certificates presented to individuals baptized or married at the church. These stubs contain names, addresses, dates of baptism or marriage, birthdates, and parents&#39; names.</field>
+     <field name="ref_ssi">aspace_ref8_ayo</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Prospect Heights Presbyterian Church records</field>
++    <field name="author_teim">Weatherly Stephan</field>
+     <field name="collection_unitid_teim">ARC.087</field>
+     <field name="series_si">Series 7: Baptism and Marriage Documents</field>
+     <field name="heading_ssm">Series 7: Baptism and Marriage Documents</field>

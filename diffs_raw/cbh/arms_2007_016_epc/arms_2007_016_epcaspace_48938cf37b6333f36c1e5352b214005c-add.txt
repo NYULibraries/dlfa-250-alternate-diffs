@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_teim">1986</field>
+-    <field name="scopecontent_teim">This folder includes City of New York Department of Transportation plans, dated October 27, 1986. These blueprints are titled "Maintenance of Traffic - General Plan." Contract number THCK 170B.</field>
++    <field name="scopecontent_teim">This folder includes City of New York Department of Transportation plans, dated October 27, 1986. These blueprints are titled &#34;Maintenance of Traffic - General Plan.&#34; Contract number THCK 170B.</field>
+     <field name="phystech_teim">This material is stored offsite. Please contact library staff for more information.</field>
+     <field name="ref_ssi">aspace_48938cf37b6333f36c1e5352b214005c</field>
+     <field name="repository_ssi">cbh</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Folder: 7</field>
+     <field name="location_si">Folder: 7</field>
+     <field name="collection_teim">Eastern Parkway Coalition records</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2007.016</field>
+     <field name="series_sim">Series 2: Plans and maps</field>
+     <field name="series_si">Series 2: Plans and maps &gt;&gt; Eastern Parkway maintenance of traffic general plan</field>

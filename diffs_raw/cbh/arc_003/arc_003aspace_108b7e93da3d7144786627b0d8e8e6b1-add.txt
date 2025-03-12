@@ -1,0 +1,69 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,8 +17,8 @@
+     <field name="unitdate_normal_teim">2007/2007</field>
+     <field name="unitdate_normal_sim">2007/2007</field>
+     <field name="unitdate_inclusive_teim">January 23, 2007</field>
+-    <field name="scopecontent_teim">In this joint interview, Michael (1928- ) and Vincent Faiella (1960- ) look back on the Reliable Naval Tailoring, Co.'s history in Brooklyn before Vincent Faiella moved the business to Red Hook, New Jersey in 2006. Michael Faiella talks about his Italian background, growing up in Brooklyn close to his extended family, and his fondness for the area around the Brooklyn Navy Yard. Michael and Vincent Faiella also discuss the commercial and social activities on Sands Street and how much the neighborhood changed after the Navy Yard was decommissioned and the Brooklyn-Queens Expressway was built. Michael Faiella was also interviewed in 1987. Interview conducted by Daniella Romano.</field>
+-    <field name="bioghist_teim">Michael Faiella (1928- ) grew up in Vinegar Hill, Brooklyn on Sands Street. His father opened Reliable Naval Tailoring, Co. in 1927 at 191 Sands Street. The shop moved several times, but always remained close to the Brooklyn Navy Yard. Michael Faiella's son, Vincent Faiella (1960- ) grew up in Gravesend, Brooklyn and currently lives in Red Bank, New Jersey.</field>
++    <field name="scopecontent_teim">In this joint interview, Michael (1928- ) and Vincent Faiella (1960- ) look back on the Reliable Naval Tailoring, Co.&#39;s history in Brooklyn before Vincent Faiella moved the business to Red Hook, New Jersey in 2006. Michael Faiella talks about his Italian background, growing up in Brooklyn close to his extended family, and his fondness for the area around the Brooklyn Navy Yard. Michael and Vincent Faiella also discuss the commercial and social activities on Sands Street and how much the neighborhood changed after the Navy Yard was decommissioned and the Brooklyn-Queens Expressway was built. Michael Faiella was also interviewed in 1987. Interview conducted by Daniella Romano.</field>
++    <field name="bioghist_teim">Michael Faiella (1928- ) grew up in Vinegar Hill, Brooklyn on Sands Street. His father opened Reliable Naval Tailoring, Co. in 1927 at 191 Sands Street. The shop moved several times, but always remained close to the Brooklyn Navy Yard. Michael Faiella&#39;s son, Vincent Faiella (1960- ) grew up in Gravesend, Brooklyn and currently lives in Red Bank, New Jersey.</field>
+     <field name="corpname_teim">New York Naval Shipyard</field>
+     <field name="corpname_ssm">New York Naval Shipyard</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+@@ -49,13 +49,13 @@
+     <field name="subject_teim">World War, 1939-1945</field>
+     <field name="subject_teim">Business enterprises</field>
+     <field name="subject_teim">Family-owned business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Italian Americans -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Local transit -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Military uniforms</field>
+-    <field name="subject_teim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Tailoring -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Yacht clubs -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Italian Americans --New York (State) --Kings County</field>
++    <field name="subject_teim">Local transit -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Military uniforms</field>
++    <field name="subject_teim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_teim">Tailoring --New York (State) --Kings County</field>
++    <field name="subject_teim">Transportation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Yacht clubs --New York (State) --Kings County</field>
+     <field name="subject_teim">World War, 1939-1945</field>
+     <field name="subject_ssm">Business enterprises</field>
+     <field name="subject_ssm">Family-owned business enterprises -- New York (State) -- Kings County</field>
+@@ -83,7 +83,7 @@
+     <field name="place_ssm">Sands Street (New York, N.Y.)</field>
+     <field name="place_ssm">Vinegar Hill (New York, N.Y.)</field>
+     <field name="place_ssm">Flatbush Avenue (New York, N.Y.)</field>
+-    <field name="place_ssm">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
++    <field name="place_ssm">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Downtown Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Gravesend (New York, N.Y.)</field>
+@@ -90,18 +90,19 @@
+     <field name="place_sim">Sands Street (New York, N.Y.)</field>
+     <field name="place_sim">Vinegar Hill (New York, N.Y.)</field>
+     <field name="place_sim">Flatbush Avenue (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Emigration and immigration</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Emigration and immigration</field>
+     <field name="subject_sim">Business enterprises</field>
+     <field name="subject_sim">Family-owned business enterprises -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Italian Americans -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Italian Americans --New York (State) --Kings County</field>
+     <field name="subject_sim">Local transit -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Military uniforms</field>
+-    <field name="subject_sim">Shipyards -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Tailoring -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Shipyards --New York (State) --Kings County</field>
++    <field name="subject_sim">Tailoring --New York (State) --Kings County</field>
+     <field name="subject_sim">Transportation -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Yacht clubs -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Yacht clubs --New York (State) --Kings County</field>
+     <field name="subject_sim">World War, 1939-1945</field>
+     <field name="collection_teim">Brooklyn Navy Yard oral history collection</field>
++    <field name="author_teim">Amy Lau, Mary Mann, Aliki Caloyeras, and Margaret Fraser</field>
+     <field name="collection_unitid_teim">ARC.003</field>
+     <field name="series_si">Oral History Interview with Michael and Vincent Faiella</field>
+     <field name="heading_ssm">Oral History Interview with Michael and Vincent Faiella</field>

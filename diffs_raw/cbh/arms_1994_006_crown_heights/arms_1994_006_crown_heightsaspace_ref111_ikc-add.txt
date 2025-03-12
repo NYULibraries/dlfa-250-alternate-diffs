@@ -1,0 +1,71 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_inclusive_teim">1993 July 22</field>
+     <field name="scopecontent_teim">Carl E. Roberts discusses the misperceptions of Jamaicans and Jamaican Americans; his educational and professional experiences; and his community activism. He speaks directly about the real and perceived rifts between the Black communities and the Orthodox and Hasidim communities in the Crown Heights neighborhood of Brooklyn, and the personal touches that can improve relations. Roberts offers his insight into the changes in real estate ownership within Crown Heights over several decades and how that affects the neighborhood. Interview conducted by Craig Wilder.</field>
+-    <field name="bioghist_teim">A Jamaican American, Carl E. Roberts has lived in Brooklyn for all his adult life. Emigrating in 1954 while still in his teens, the family moved to the Brooklyn neighborhood of Bedford-Stuyvesant. He worked full-time at a Macy's department store, while attending Brooklyn College part-time. His family moved to the Crown Heights neighborhood in 1958. After serving in the Army for over two years, he took a bank teller job. Roberts, an Investment Banking major, completed his education at New York University. He went to work for New York Life Insurance, but also began a tax consultant business in his home with help from his wife. For much of the 1980s, Roberts was a local politician and community activist, serving on Community Board Nine as well as related committees. He ran three times for a seat in the New York State Assembly, but never won.</field>
++    <field name="bioghist_teim">A Jamaican American, Carl E. Roberts has lived in Brooklyn for all his adult life. Emigrating in 1954 while still in his teens, the family moved to the Brooklyn neighborhood of Bedford-Stuyvesant. He worked full-time at a Macy&#39;s department store, while attending Brooklyn College part-time. His family moved to the Crown Heights neighborhood in 1958. After serving in the Army for over two years, he took a bank teller job. Roberts, an Investment Banking major, completed his education at New York University. He went to work for New York Life Insurance, but also began a tax consultant business in his home with help from his wife. For much of the 1980s, Roberts was a local politician and community activist, serving on Community Board Nine as well as related committees. He ran three times for a seat in the New York State Assembly, but never won.</field>
+     <field name="corpname_teim">Community Board No. 9 (Brooklyn, New York, N.Y.)</field>
+     <field name="corpname_teim">New York Life Insurance Company</field>
+     <field name="corpname_teim">New York University</field>
+@@ -37,7 +37,7 @@
+     <field name="persname_teim">Rosenbaum, Yankel</field>
+     <field name="persname_ssm">Roberts, Carl E.</field>
+     <field name="persname_ssm">Rosenbaum, Yankel</field>
+-    <field name="subject_teim">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans |x Relations with Jews </field>
+     <field name="subject_teim">Blacks |x Race identity</field>
+     <field name="subject_teim">Community activists -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+@@ -46,16 +46,16 @@
+     <field name="subject_teim">Jewish neighborhoods |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Multiculturalism</field>
+     <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_teim">African Americans -- Relations with Jews</field>
+-    <field name="subject_teim">Blacks -- Race identity</field>
+-    <field name="subject_teim">Community activists -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Jamaican Americans</field>
+-    <field name="subject_teim">Jewish neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Multiculturalism</field>
+-    <field name="subject_teim">Race relations -- United States</field>
+-    <field name="subject_ssm">African Americans |x Relations with Jews</field>
++    <field name="subject_teim">African Americans --Relations with Jews </field>
++    <field name="subject_teim">Blacks --Race identity</field>
++    <field name="subject_teim">Community activists -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Home ownership --Social aspects --New York (State) --Kings County</field>
++    <field name="subject_teim">Jamaican Americans</field>
++    <field name="subject_teim">Jewish neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_teim">Multiculturalism</field>
++    <field name="subject_teim">Race relations -- United States</field>
++    <field name="subject_ssm">African Americans |x Relations with Jews </field>
+     <field name="subject_ssm">Blacks |x Race identity</field>
+     <field name="subject_ssm">Community activists -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Ethnic neighborhoods |z New York (State) |z Kings County</field>
+@@ -84,16 +84,17 @@
+     <field name="place_ssm">Crown Heights (New York, N.Y.)</field>
+     <field name="place_sim">Bedford-Stuyvesant (New York, N.Y.)</field>
+     <field name="place_sim">Crown Heights (New York, N.Y.)</field>
+-    <field name="subject_sim">African Americans -- Relations with Jews</field>
+-    <field name="subject_sim">Blacks -- Race identity</field>
++    <field name="subject_sim">African Americans --Relations with Jews </field>
++    <field name="subject_sim">Blacks --Race identity</field>
+     <field name="subject_sim">Community activists -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Ethnic neighborhoods -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Home ownership -- Social aspects -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Ethnic neighborhoods --New York (State) --Kings County</field>
++    <field name="subject_sim">Home ownership --Social aspects --New York (State) --Kings County</field>
+     <field name="subject_sim">Jamaican Americans</field>
+-    <field name="subject_sim">Jewish neighborhoods -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Jewish neighborhoods --New York (State) --Kings County</field>
+     <field name="subject_sim">Multiculturalism</field>
+     <field name="subject_sim">Race relations -- United States</field>
+     <field name="collection_teim">Crown Heights History Project collection</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">1994.006</field>
+     <field name="series_sim">Crown Heights History Project oral histories</field>
+     <field name="series_si">Crown Heights History Project oral histories &gt;&gt; Roberts, Carl E.</field>

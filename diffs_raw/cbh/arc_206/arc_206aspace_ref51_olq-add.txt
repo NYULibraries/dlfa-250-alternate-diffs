@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1781/1781</field>
+     <field name="unitdate_normal_sim">1781/1781</field>
+     <field name="unitdate_inclusive_teim">1781</field>
+-    <field name="scopecontent_teim">1781 letter from General Roger Enos, at "Castelton," to Col. Ebenezer Walbridge, re: rendering approval of the Colonel's orders in a recent military action</field>
++    <field name="scopecontent_teim">1781 letter from General Roger Enos, at &#34;Castelton,&#34; to Col. Ebenezer Walbridge, re: rendering approval of the Colonel&#39;s orders in a recent military action</field>
+     <field name="ref_ssi">aspace_ref51_olq</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 30</field>
+     <field name="location_si">Box: 1, Folder: 30</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Enos, Roger (General)</field>
+     <field name="heading_ssm">Enos, Roger (General)</field>

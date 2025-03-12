@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1953/1973</field>
+     <field name="unitdate_normal_sim">1953/1973</field>
+     <field name="unitdate_inclusive_teim">circa 1963</field>
+-    <field name="scopecontent_teim">This file contains a student paper titled "Hymie Schorenstein - A Political Biography."</field>
++    <field name="scopecontent_teim">This file contains a student paper titled &#34;Hymie Schorenstein - A Political Biography.&#34;</field>
+     <field name="ref_ssi">aspace_40cc80a60ed82afe89c72cf15441d843</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 35</field>
+     <field name="location_si">Box: 2, Folder: 35</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Merel J. Pomeranz Glaubiger</field>
+     <field name="heading_ssm">Merel J. Pomeranz Glaubiger</field>

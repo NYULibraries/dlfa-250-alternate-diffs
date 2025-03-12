@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_teim">Hotels |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Hotels -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Hotels --New York (State) --Kings County</field>
+     <field name="subject_ssm">Hotels |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Brooklyn Hotel Company Stock Certificate</field>
+     <field name="collection_ssm">Brooklyn Hotel Company Stock Certificate</field>
+@@ -43,7 +43,7 @@
+     <field name="name_sim">Brooklyn Hotel Company (Brooklyn, New York, N.Y.)</field>
+     <field name="name_teim">Brooklyn Hotel Company (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Hotels -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Hotels --New York (State) --Kings County</field>
+     <field name="material_type_sim">Stock certificates</field>
+     <field name="material_type_ssm">Stock certificates</field>
+     <field name="heading_ssm">Brooklyn Hotel Company Stock Certificate</field>

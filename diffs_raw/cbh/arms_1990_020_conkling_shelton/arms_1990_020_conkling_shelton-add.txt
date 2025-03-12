@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Rebecca Conkling Shelton correspondence with O.B. Ackerley</field>
+     <field name="unitid_teim">1990.020</field>
+     <field name="unitid_ssm">1990.020</field>
+-    <field name="abstract_teim">This collection contains correspondence between Rebecca Conkling Shelton and O.B. Ackerley concerning Shelton's late husband, the Reverend Frederick William Shelton, and the acquisition of a collection of his sermons. The collection also includes a list of Frederick William Shelton's Works" and a eulogy.</field>
+-    <field name="abstract_ssm">This collection contains correspondence between Rebecca Conkling Shelton and O.B. Ackerley concerning Shelton's late husband, the Reverend Frederick William Shelton, and the acquisition of a collection of his sermons. The collection also includes a list of Frederick William Shelton's Works" and a eulogy.</field>
++    <field name="abstract_teim">This collection contains correspondence between Rebecca Conkling Shelton and O.B. Ackerley concerning Shelton&#39;s late husband, the Reverend Frederick William Shelton, and the acquisition of a collection of his sermons.  The collection also includes a list of Frederick William Shelton&#39;s Works&#34; and a eulogy.</field>
++    <field name="abstract_ssm">This collection contains correspondence between Rebecca Conkling Shelton and O.B. Ackerley concerning Shelton&#39;s late husband, the Reverend Frederick William Shelton, and the acquisition of a collection of his sermons.  The collection also includes a list of Frederick William Shelton&#39;s Works&#34; and a eulogy.</field>
+     <field name="creator_teim">Shelton, Rebecca Conkling</field>
+     <field name="creator_teim">Ackerly, Orville B.</field>
+     <field name="creator_ssm">Shelton, Rebecca Conkling</field>
+@@ -31,7 +31,7 @@
+     <field name="persname_ssm">Shelton, Rebecca Conkling</field>
+     <field name="persname_ssm">Ackerly, Orville B.</field>
+     <field name="subject_teim">Clergy |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Clergy -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Clergy --New York (State) --Kings County</field>
+     <field name="subject_ssm">Clergy |z New York (State) |z Kings County</field>
+     <field name="collection_sim">Rebecca Conkling Shelton correspondence with O.B. Ackerley</field>
+     <field name="collection_ssm">Rebecca Conkling Shelton correspondence with O.B. Ackerley</field>
+@@ -51,7 +51,7 @@
+     <field name="name_teim">Shelton, Rebecca Conkling</field>
+     <field name="name_teim">Ackerly, Orville B.</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Clergy -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Clergy --New York (State) --Kings County</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_ssm">Correspondence</field>
+     <field name="heading_ssm">Rebecca Conkling Shelton correspondence with O.B. Ackerley</field>

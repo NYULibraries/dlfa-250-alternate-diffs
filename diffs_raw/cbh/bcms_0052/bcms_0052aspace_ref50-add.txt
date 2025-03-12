@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Al Todres Brooklyn Dodgers collection</field>
+     <field name="collection_unitid_ssm">BCMS.0052</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Baseball's Beloved Bums</field>
+-    <field name="unittitle_teim">Baseball's Beloved Bums</field>
++    <field name="unittitle_ssm">Baseball&#39;s Beloved Bums</field>
++    <field name="unittitle_teim">Baseball&#39;s Beloved Bums</field>
+     <field name="unitdate_teim">1947</field>
+     <field name="ref_ssi">aspace_ref50</field>
+     <field name="repository_ssi">cbh</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 3, Folder: 9</field>
+     <field name="location_si">Box: 3, Folder: 9</field>
+     <field name="collection_teim">Al Todres Brooklyn Dodgers collection</field>
++    <field name="author_teim">Sarah Quick, Reference Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0052</field>
+     <field name="series_sim">Series VI: Books and Guides</field>
+-    <field name="series_si">Series VI: Books and Guides &gt;&gt; Baseball's Beloved Bums</field>
+-    <field name="heading_ssm">Baseball's Beloved Bums</field>
++    <field name="series_si">Series VI: Books and Guides &gt;&gt; Baseball&#39;s Beloved Bums</field>
++    <field name="heading_ssm">Baseball&#39;s Beloved Bums</field>
+     <field name="unitdate_ssm">1947</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">38</field>

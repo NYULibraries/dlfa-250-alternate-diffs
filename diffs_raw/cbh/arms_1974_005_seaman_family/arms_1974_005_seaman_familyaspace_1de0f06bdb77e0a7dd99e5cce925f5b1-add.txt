@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1814-12-30/1814-12-30</field>
+     <field name="unitdate_normal_sim">1814-12-30/1814-12-30</field>
+     <field name="unitdate_teim">December 30, 1814</field>
+-    <field name="scopecontent_teim">Sheriff's deed for Seth Hamilton's place at Athens.</field>
++    <field name="scopecontent_teim">Sheriff&#39;s deed for Seth Hamilton&#39;s place at Athens.</field>
+     <field name="ref_ssi">aspace_1de0f06bdb77e0a7dd99e5cce925f5b1</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -30,6 +30,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Seaman family papers</field>
++    <field name="author_teim">Larry Weimer</field>
+     <field name="collection_unitid_teim">1974.005</field>
+     <field name="series_sim">Series 1: Deeds</field>
+     <field name="series_sim">Sub-series 1.3: Greene County, NY</field>

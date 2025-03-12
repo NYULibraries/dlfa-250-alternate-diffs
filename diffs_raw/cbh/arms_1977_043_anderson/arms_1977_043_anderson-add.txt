@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Jonathan Howard and Nicholas Anderson deed</field>
+     <field name="unitid_teim">1977.043</field>
+     <field name="unitid_ssm">1977.043</field>
+-    <field name="abstract_teim">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y. The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
+-    <field name="abstract_ssm">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y. The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
++    <field name="abstract_teim">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y.  The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
++    <field name="abstract_ssm">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y.  The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
+     <field name="creator_teim">Howard, Jonathan</field>
+     <field name="creator_teim">Anderson, Nicholas</field>
+     <field name="creator_ssm">Howard, Jonathan</field>
+@@ -37,9 +37,9 @@
+     <field name="subject_teim">Land titles |z New York (State) |z Queens County</field>
+     <field name="subject_teim">Deeds</field>
+     <field name="subject_teim">Sheriffs |z New York (State) |z Queens County</field>
+-    <field name="subject_teim">Land titles -- New York (State) -- Queens County</field>
+-    <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Sheriffs -- New York (State) -- Queens County</field>
++    <field name="subject_teim">Land titles --New York (State) --Queens County</field>
++    <field name="subject_teim">Deeds</field>
++    <field name="subject_teim">Sheriffs --New York (State) --Queens County</field>
+     <field name="subject_ssm">Land titles |z New York (State) |z Queens County</field>
+     <field name="subject_ssm">Deeds</field>
+     <field name="subject_ssm">Sheriffs |z New York (State) |z Queens County</field>
+@@ -62,9 +62,9 @@
+     <field name="name_teim">Anderson, Nicholas</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="place_sim">Queens County (N.Y.)</field>
+-    <field name="subject_sim">Land titles -- New York (State) -- Queens County</field>
++    <field name="subject_sim">Land titles --New York (State) --Queens County</field>
+     <field name="subject_sim">Deeds</field>
+-    <field name="subject_sim">Sheriffs -- New York (State) -- Queens County</field>
++    <field name="subject_sim">Sheriffs --New York (State) --Queens County</field>
+     <field name="heading_ssm">Jonathan Howard and Nicholas Anderson deed</field>
+     <field name="unitdate_start_sim">1813</field>
+     <field name="unitdate_start_ssm">1813</field>

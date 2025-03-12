@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Verrazzano-Narrows Bridge collection</field>
+     <field name="collection_unitid_ssm">1977.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NY Daily News "Bridge Souvenir" section</field>
+-    <field name="unittitle_teim">NY Daily News "Bridge Souvenir" section</field>
++    <field name="unittitle_ssm">NY Daily News &#34;Bridge Souvenir&#34; section</field>
++    <field name="unittitle_teim">NY Daily News &#34;Bridge Souvenir&#34; section</field>
+     <field name="unitdate_normal_ssm">1964-09-15/1964-09-15</field>
+     <field name="unitdate_normal_teim">1964-09-15/1964-09-15</field>
+     <field name="unitdate_normal_sim">1964-09-15/1964-09-15</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: A0024, Folder: 6</field>
+     <field name="location_si">Box: A0024, Folder: 6</field>
+     <field name="collection_teim">Verrazzano-Narrows Bridge collection</field>
++    <field name="author_teim">Matthew Gorham</field>
+     <field name="collection_unitid_teim">1977.293</field>
+-    <field name="series_si">NY Daily News "Bridge Souvenir" section</field>
+-    <field name="heading_ssm">NY Daily News "Bridge Souvenir" section</field>
++    <field name="series_si">NY Daily News &#34;Bridge Souvenir&#34; section</field>
++    <field name="heading_ssm">NY Daily News &#34;Bridge Souvenir&#34; section</field>
+     <field name="unitdate_ssm">September 15, 1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6</field>

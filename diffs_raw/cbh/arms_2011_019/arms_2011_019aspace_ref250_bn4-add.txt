@@ -1,0 +1,58 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">2012 February 10</field>
+-    <field name="scopecontent_teim">In the interviews, Clare and Fikre and discuss their religious backgrounds; courtship, wedding, and marriage; encounters with racism and prejudice; and their children. Fikre also discusses Ethiopia's role in the Arab-Israeli conflict. Interviews conducted by Liza Zapol.</field>
++    <field name="scopecontent_teim">In the interviews, Clare and Fikre and discuss their religious backgrounds; courtship, wedding, and marriage; encounters with racism and prejudice; and their children. Fikre also discusses Ethiopia&#39;s role in the Arab-Israeli conflict. Interviews conducted by Liza Zapol.</field>
+     <field name="bioghist_teim">Clare Workneh was born to white American Catholic parents in Brooklyn, New York and raised in Floral Park, New York. Upon graduation from Our Lady of Mercy High School, Clare became a nun with the Maryknoll Sisters in Ossining, New York. She left the order after eight years and worked for the United Methodist Board of Social Ministries.</field>
+     <field name="bioghist_teim">Fikre Workneh was born to Ethiopian parents and raised in Gojjam, Ethiopia. He was a minister in the Ethiopian Orthodox Church and served as a missionary in the Caribbean before immigrating to the United States. He attended the Silberman School of Social Work at Hunter College in New York City and worked for the National Institute of Mental Health.</field>
+     <field name="geogname_teim">Ethiopia</field>
+@@ -32,13 +32,13 @@
+     <field name="subject_teim">Catholicism</field>
+     <field name="subject_teim">Religious institutions |z New York (State) |z New York</field>
+     <field name="subject_teim">Racially mixed families</field>
+-    <field name="subject_teim">Discrimination in housing -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ethiopians -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ethiopian Orthodox Church</field>
+-    <field name="subject_teim">Interfaith marriage</field>
+-    <field name="subject_teim">Arab-Israeli conflict</field>
+-    <field name="subject_teim">Catholicism</field>
+-    <field name="subject_teim">Religious institutions -- New York (State) -- New York</field>
++    <field name="subject_teim">Discrimination in housing --New York (State) --New York</field>
++    <field name="subject_teim">Ethiopians --New York (State) --New York</field>
++    <field name="subject_teim">Ethiopian Orthodox Church</field>
++    <field name="subject_teim">Interfaith marriage</field>
++    <field name="subject_teim">Arab-Israeli conflict</field>
++    <field name="subject_teim">Catholicism</field>
++    <field name="subject_teim">Religious institutions --New York (State) --New York</field>
+     <field name="subject_teim">Racially mixed families</field>
+     <field name="subject_ssm">Discrimination in housing |z New York (State) |z New York</field>
+     <field name="subject_ssm">Ethiopians |z New York (State) |z New York</field>
+@@ -55,18 +55,19 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="place_ssm">Ethiopia</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Ethiopia</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Discrimination in housing -- New York (State) -- New York</field>
+-    <field name="subject_sim">Ethiopians -- New York (State) -- New York</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Discrimination in housing --New York (State) --New York</field>
++    <field name="subject_sim">Ethiopians --New York (State) --New York</field>
+     <field name="subject_sim">Ethiopian Orthodox Church</field>
+     <field name="subject_sim">Interfaith marriage</field>
+     <field name="subject_sim">Arab-Israeli conflict</field>
+     <field name="subject_sim">Catholicism</field>
+-    <field name="subject_sim">Religious institutions -- New York (State) -- New York</field>
++    <field name="subject_sim">Religious institutions --New York (State) --New York</field>
+     <field name="subject_sim">Racially mixed families</field>
+     <field name="collection_teim">Crossing Borders, Bridging Generations oral history collection</field>
++    <field name="author_teim">Julia Lipkins with assistance from Elena Locascio</field>
+     <field name="collection_unitid_teim">2011.019</field>
+     <field name="series_si">Clare Workneh and Fikre Workneh</field>
+     <field name="heading_ssm">Clare Workneh and Fikre Workneh</field>

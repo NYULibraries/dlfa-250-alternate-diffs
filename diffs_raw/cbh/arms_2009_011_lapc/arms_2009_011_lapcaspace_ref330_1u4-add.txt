@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+     <field name="collection_unitid_ssm">2009.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Young Women's Bible Class</field>
+-    <field name="unittitle_teim">Young Women's Bible Class</field>
++    <field name="unittitle_ssm">Young Women&#39;s Bible Class</field>
++    <field name="unittitle_teim">Young Women&#39;s Bible Class</field>
+     <field name="unitdate_normal_ssm">1920/1929</field>
+     <field name="unitdate_normal_teim">1920/1929</field>
+     <field name="unitdate_normal_sim">1920/1929</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 23, Folder: 37</field>
+     <field name="location_si">Box: 23, Folder: 37</field>
+     <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
++    <field name="author_teim">John Zarrillo. Digital material processed by Erica López in 2019.</field>
+     <field name="collection_unitid_teim">2009.011</field>
+     <field name="series_sim">Series 14: Sunday School</field>
+-    <field name="series_si">Series 14: Sunday School &gt;&gt; Young Women's Bible Class</field>
+-    <field name="heading_ssm">Young Women's Bible Class</field>
++    <field name="series_si">Series 14: Sunday School &gt;&gt; Young Women&#39;s Bible Class</field>
++    <field name="heading_ssm">Young Women&#39;s Bible Class</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>
+     <field name="unitdate_start_si">1920</field>

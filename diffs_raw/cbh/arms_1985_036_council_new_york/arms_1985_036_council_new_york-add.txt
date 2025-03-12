@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -49,9 +49,9 @@
+     <field name="subject_teim">Public welfare |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Depressions |y 1929</field>
+     <field name="subject_teim">Public welfare |z New York (State) |z New York</field>
+-    <field name="subject_teim">Public welfare -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Depressions -- 1929</field>
+-    <field name="subject_teim">Public welfare -- New York (State) -- New York</field>
++    <field name="subject_teim">Public welfare --New York (State) --Kings County</field>
++    <field name="subject_teim">Depressions --1929</field>
++    <field name="subject_teim">Public welfare --New York (State) --New York</field>
+     <field name="subject_ssm">Public welfare |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Depressions |y 1929</field>
+     <field name="subject_ssm">Public welfare |z New York (State) |z New York</field>
+@@ -78,12 +78,12 @@
+     <field name="name_teim">Falconer, Douglas C.</field>
+     <field name="name_teim">Brandt, Lilian</field>
+     <field name="name_teim">Lonigan, Edna</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Economic conditions -- 20th century</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Economic conditions --20th century</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Public welfare -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Depressions -- 1929</field>
+-    <field name="subject_sim">Public welfare -- New York (State) -- New York</field>
++    <field name="subject_sim">Public welfare --New York (State) --Kings County</field>
++    <field name="subject_sim">Depressions --1929</field>
++    <field name="subject_sim">Public welfare --New York (State) --New York</field>
+     <field name="material_type_sim">Manuscripts (document genre)</field>
+     <field name="material_type_ssm">Manuscripts (document genre)</field>
+     <field name="heading_ssm">Welfare Council of New York City manuscript collection</field>

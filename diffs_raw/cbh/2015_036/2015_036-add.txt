@@ -1,0 +1,62 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Brooklyn Waterworks architectural drawings</field>
+     <field name="unitid_teim">2015.036</field>
+     <field name="unitid_ssm">2015.036</field>
+-    <field name="abstract_teim">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper's House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
+-    <field name="abstract_ssm">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper's House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
++    <field name="abstract_teim">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper&#39;s House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
++    <field name="abstract_ssm">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper&#39;s House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
+     <field name="creator_teim">Parfitt, Walter E.</field>
+     <field name="creator_teim">Parfitt Brothers (Firm)</field>
+     <field name="creator_teim">Thayer &amp; Wallace (Firm)</field>
+@@ -25,7 +25,7 @@
+     <field name="unitdate_normal_teim">1889/1908</field>
+     <field name="unitdate_normal_sim">1889/1908</field>
+     <field name="unitdate_inclusive_teim">1889-1908</field>
+-    <field name="scopecontent_teim">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper's House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
++    <field name="scopecontent_teim">The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper&#39;s House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries.</field>
+     <field name="scopecontent_teim">Milburn Engine House and Pumping House</field>
+     <field name="scopecontent_teim">Seven drawings</field>
+     <field name="scopecontent_teim">Architect: Frank Freeman</field>
+@@ -35,7 +35,7 @@
+     <field name="scopecontent_teim">Two drawings</field>
+     <field name="scopecontent_teim">Architect: Walter E. Parfitt (Parfitt Bros.)</field>
+     <field name="scopecontent_teim">Acting Chief Engineer: J.W. McKay</field>
+-    <field name="scopecontent_teim">Keeper's House at Lake Massapequa</field>
++    <field name="scopecontent_teim">Keeper&#39;s House at Lake Massapequa</field>
+     <field name="scopecontent_teim">Seven drawings</field>
+     <field name="scopecontent_teim">Architects: Thayer &amp; Wallace</field>
+     <field name="bioghist_teim">Frank Freeman was born in Hamilton, Ontario, Canada, in 1861. He arrived in New York in the early 1880s, where he studied architecture. He primarily worked in the Richardsonian Romanesque style, and designed numerous buildings in the New York City metropolitan area, especially Brooklyn. He died in Montclair, New Jersey, in 1949.</field>
+@@ -76,10 +76,10 @@
+     <field name="subject_teim">Waterworks |z New York (State) |z Nassau County</field>
+     <field name="subject_teim">Waterworks |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Romanesque revival (Architecture) |z New York (State) |z Nassau County</field>
+-    <field name="subject_teim">Water-supply -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Waterworks -- New York (State) -- Nassau County</field>
+-    <field name="subject_teim">Waterworks -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Romanesque revival (Architecture) -- New York (State) -- Nassau County</field>
++    <field name="subject_teim">Water-supply --New York (State) --Kings County</field>
++    <field name="subject_teim">Waterworks --New York (State) --Nassau County</field>
++    <field name="subject_teim">Waterworks --New York (State) --Kings County</field>
++    <field name="subject_teim">Romanesque revival (Architecture) --New York (State) --Nassau County</field>
+     <field name="subject_ssm">Water-supply |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Waterworks |z New York (State) |z Nassau County</field>
+     <field name="subject_ssm">Waterworks |z New York (State) |z Kings County</field>
+@@ -115,10 +115,10 @@
+     <field name="place_sim">Baldwin (N.Y.)</field>
+     <field name="place_sim">Long Island (N.Y.)</field>
+     <field name="place_sim">Freeport (N.Y.)</field>
+-    <field name="subject_sim">Water-supply -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Waterworks -- New York (State) -- Nassau County</field>
+-    <field name="subject_sim">Waterworks -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Romanesque revival (Architecture) -- New York (State) -- Nassau County</field>
++    <field name="subject_sim">Water-supply --New York (State) --Kings County</field>
++    <field name="subject_sim">Waterworks --New York (State) --Nassau County</field>
++    <field name="subject_sim">Waterworks --New York (State) --Kings County</field>
++    <field name="subject_sim">Romanesque revival (Architecture) --New York (State) --Nassau County</field>
+     <field name="material_type_sim">Architectural drawings</field>
+     <field name="material_type_ssm">Architectural drawings</field>
+     <field name="heading_ssm">Brooklyn Waterworks architectural drawings</field>

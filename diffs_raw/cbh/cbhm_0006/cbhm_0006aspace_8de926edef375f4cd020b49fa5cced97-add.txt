@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1967/1968</field>
+     <field name="unitdate_normal_sim">1967/1968</field>
+     <field name="unitdate_inclusive_teim">1967-1968</field>
+-    <field name="scopecontent_teim">Includes one issue each of Halsey Speaks and Halsey's Many Faces.</field>
++    <field name="scopecontent_teim">Includes one issue each of Halsey Speaks and Halsey&#39;s Many Faces.</field>
+     <field name="ref_ssi">aspace_8de926edef375f4cd020b49fa5cced97</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+     <field name="series_sim">J.H.S. 296 Halsey</field>

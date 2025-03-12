@@ -1,0 +1,58 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">1974 November 5</field>
+     <field name="scopecontent_teim">In this interview, Flora Acosta briefly describes her five day journey to the United States and experiences adapting to the United States socially, economically, and culturally. She closes the interview with her perception of the differences between her generation and the younger generation of Puerto Ricans in Brooklyn. Interview in Spanish conducted by Jaime Barreto.</field>
+-    <field name="bioghist_teim">Flora Acosta was born in Guayanilla, Puerto Rico in the late nineteenth century. She immigrated to New York in 1927. Her husband Ramón Acosta was also recorded for this collection. Acosta's daughter is Celia Vice, an influential community leader in Brooklyn and also a narrator in this collection.</field>
++    <field name="bioghist_teim">Flora Acosta was born in Guayanilla, Puerto Rico in the late nineteenth century. She immigrated to New York in 1927. Her husband Ramón Acosta was also recorded for this collection. Acosta&#39;s daughter is Celia Vice, an influential community leader in Brooklyn and also a narrator in this collection.</field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_teim">Manhattan (New York, N.Y.)</field>
+     <field name="geogname_teim">Puerto Rico</field>
+@@ -34,15 +34,15 @@
+     <field name="subject_teim">Factories |z New York (State) |z New York</field>
+     <field name="subject_teim">Labor |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Puerto Rican women |x Employment |z New York (State) |z New York</field>
+-    <field name="subject_teim">Women's rights |z New York (State) |z New York</field>
+-    <field name="subject_teim">Factories -- New York (State) -- New York</field>
+-    <field name="subject_teim">Labor -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Puerto Rican women -- Employment -- New York (State) -- New York</field>
+-    <field name="subject_teim">Women's rights -- New York (State) -- New York</field>
++    <field name="subject_teim">Women&#39;s rights |z New York (State) |z New York</field>
++    <field name="subject_teim">Factories --New York (State) --New York</field>
++    <field name="subject_teim">Labor --New York (State) --Kings County</field>
++    <field name="subject_teim">Puerto Rican women --Employment --New York (State) --New York</field>
++    <field name="subject_teim">Women&#39;s rights --New York (State) --New York</field>
+     <field name="subject_ssm">Factories |z New York (State) |z New York</field>
+     <field name="subject_ssm">Labor |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Puerto Rican women |x Employment |z New York (State) |z New York</field>
+-    <field name="subject_ssm">Women's rights |z New York (State) |z New York</field>
++    <field name="subject_ssm">Women&#39;s rights |z New York (State) |z New York</field>
+     <field name="ref_ssi">aspace_ref25_gqt</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -52,16 +52,17 @@
+     <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+     <field name="place_ssm">Manhattan (New York, N.Y.)</field>
+     <field name="place_ssm">Puerto Rico</field>
+-    <field name="place_ssm">United States -- Emigration and immigration</field>
++    <field name="place_ssm">United States --Emigration and immigration</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="place_sim">Manhattan (New York, N.Y.)</field>
+     <field name="place_sim">Puerto Rico</field>
+-    <field name="place_sim">United States -- Emigration and immigration</field>
+-    <field name="subject_sim">Factories -- New York (State) -- New York</field>
+-    <field name="subject_sim">Labor -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Puerto Rican women -- Employment -- New York (State) -- New York</field>
+-    <field name="subject_sim">Women's rights -- New York (State) -- New York</field>
++    <field name="place_sim">United States --Emigration and immigration</field>
++    <field name="subject_sim">Factories --New York (State) --New York</field>
++    <field name="subject_sim">Labor --New York (State) --Kings County</field>
++    <field name="subject_sim">Puerto Rican women --Employment --New York (State) --New York</field>
++    <field name="subject_sim">Women&#39;s rights --New York (State) --New York</field>
+     <field name="collection_teim">Puerto Rican Oral History Project records</field>
++    <field name="author_teim">Morgen Stevens-Garmon under the supervision of Chela Scott Weber, with revision by Brett Dion</field>
+     <field name="collection_unitid_teim">1976.001</field>
+     <field name="series_sim">Series 1: Oral Histories</field>
+     <field name="series_si">Series 1: Oral Histories &gt;&gt; Acosta, Flora</field>

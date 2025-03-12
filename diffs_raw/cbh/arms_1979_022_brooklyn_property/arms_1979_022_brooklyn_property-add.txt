@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1800/1899</field>
+     <field name="unitdate_bulk_teim">1800-1899</field>
+     <field name="unitdate_inclusive_teim">1683-1920</field>
+-    <field name="acqinfo_teim">The source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1979.</field>
++    <field name="acqinfo_teim">The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1979.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -47,8 +47,8 @@
+     <field name="subject_teim">Mortgages |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Deeds</field>
+-    <field name="subject_teim">Mortgages -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Mortgages --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
+     <field name="subject_ssm">Deeds</field>
+     <field name="subject_ssm">Mortgages |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+@@ -73,12 +73,12 @@
+     <field name="name_teim">Lott family</field>
+     <field name="name_teim">Vanderveer family</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Maps</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Maps</field>
+     <field name="place_sim">Bushwick (New York, N.Y.)</field>
+     <field name="place_sim">Williamsburg (New York, N.Y.)</field>
+     <field name="subject_sim">Deeds</field>
+-    <field name="subject_sim">Mortgages -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Mortgages --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
+     <field name="material_type_sim">Abstracts (summaries)</field>
+     <field name="material_type_sim">Leases</field>
+     <field name="material_type_ssm">Abstracts (summaries)</field>

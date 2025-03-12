@@ -1,0 +1,64 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">2017-03-02/2017-03-02</field>
+     <field name="unitdate_teim">2017 March 2</field>
+     <field name="scopecontent_teim">In this interview, Rudy Suggs narrates his life from childhood, to life as a young adult involved in the drug trade, up to the contemporary period where he works as a violence interrupter; all centered in the Crown Heights neighborhood of Brooklyn. Suggs talks about the drug trade in detail and elaborates upon the 1986 New York Police Department 77th Precinct scandal. He describes his youth, being bused to schools that were predominantly attended by White students, and growing up in a large family. He also remembers the 1977 New York City blackout. He details his time spent in prison and how he moved from a life of crime to working as a cook for a senior citizen center and as a violence interrupter for the local Save Our Streets program within the Crown Heights Mediation Center. He also speaks about his experience of gentrification in the neighborhood. Interview conducted by Amaka Okechukwu.</field>
+-    <field name="bioghist_teim">Rudy Suggs, an African American male, was born in 1962 at Kings County Hospital. He grew up (and continues living) on Lincoln Place, between Albany and Troy Avenues in the Crown Heights neighborhood of Brooklyn. His parents were from North Carolina and came to Brooklyn in the 1950s. Suggs is one of seven siblings. He attended a variety of public schools as a youth in the Crown Heights, Gravesend, and Coney Island neighborhoods of Brooklyn. As a young man he was a drug dealer and spent eighteen months in prison. At the time of the 2017 interview, he worked as a cook at an elder care facility and served as a violence interrupter with Save Our Streets Crown Heights (based on Chicago's Cease Fire model), a program of the Crown Heights Community Mediation Center. He has worked with Save Our Streets Crown Heights for eight years.</field>
++    <field name="bioghist_teim">Rudy Suggs, an African American male, was born in 1962 at Kings County Hospital. He grew up (and continues living) on Lincoln Place, between Albany and Troy Avenues in the Crown Heights neighborhood of Brooklyn. His parents were from North Carolina and came to Brooklyn in the 1950s. Suggs is one of seven siblings. He attended a variety of public schools as a youth in the Crown Heights, Gravesend, and Coney Island neighborhoods of Brooklyn. As a young man he was a drug dealer and spent eighteen months in prison. At the time of the 2017 interview, he worked as a cook at an elder care facility and served as a violence interrupter with Save Our Streets Crown Heights (based on Chicago&#39;s Cease Fire model), a program of the Crown Heights Community Mediation Center. He has worked with Save Our Streets Crown Heights for eight years.</field>
+     <field name="corpname_teim">Congregation Lubavitch (Crown Heights, New York, N.Y.)</field>
+     <field name="corpname_teim">Crown Heights Mediation Center</field>
+     <field name="corpname_ssm">Congregation Lubavitch (Crown Heights, New York, N.Y.)</field>
+@@ -55,16 +55,16 @@
+     <field name="subject_teim">Community activists -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Community centers -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Drug dealers -- New York (State) -- New York</field>
+-    <field name="subject_teim">Drug traffic -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Electric power failures -- New York (State) -- New York</field>
+-    <field name="subject_teim">Ex-convicts -- Rehabilitation -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Gentrification -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Hasidim -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Home ownership -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Housing -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Pillage -- New York (State) -- New York</field>
++    <field name="subject_teim">Drug dealers --New York (State) --New York</field>
++    <field name="subject_teim">Drug traffic -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Electric power failures --New York (State) --New York</field>
++    <field name="subject_teim">Ex-convicts -- Rehabilitation -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Family life -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Gentrification -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Hasidim -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Home ownership -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Housing -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Pillage --New York (State) --New York</field>
+     <field name="subject_teim">Race relations -- New York (State) -- Kings County</field>
+     <field name="subject_teim">Racism</field>
+     <field name="subject_ssm">Community activists -- New York (State) -- Kings County</field>
+@@ -105,9 +105,9 @@
+     <field name="subject_sim">Community activists -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Community centers -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Crime -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Drug dealers -- New York (State) -- New York</field>
++    <field name="subject_sim">Drug dealers --New York (State) --New York</field>
+     <field name="subject_sim">Drug traffic -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Electric power failures -- New York (State) -- New York</field>
++    <field name="subject_sim">Electric power failures --New York (State) --New York</field>
+     <field name="subject_sim">Ex-convicts -- Rehabilitation -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Family life -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Gentrification -- New York (State) -- Kings County</field>
+@@ -114,10 +114,11 @@
+     <field name="subject_sim">Hasidim -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Home ownership -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Housing -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Pillage -- New York (State) -- New York</field>
++    <field name="subject_sim">Pillage --New York (State) --New York</field>
+     <field name="subject_sim">Race relations -- New York (State) -- Kings County</field>
+     <field name="subject_sim">Racism</field>
+     <field name="collection_teim">Voices of Crown Heights oral histories</field>
++    <field name="author_teim">Brett Dion</field>
+     <field name="collection_unitid_teim">2016.027</field>
+     <field name="series_sim">Voices of Crown Heights oral histories: Brooklyn Historical Society</field>
+     <field name="series_si">Voices of Crown Heights oral histories: Brooklyn Historical Society &gt;&gt; Suggs, Rudy</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_sim">1900/1930</field>
+     <field name="unitdate_bulk_teim">1900-1930</field>
+     <field name="unitdate_inclusive_teim">1874-2009</field>
+-    <field name="scopecontent_teim">This subseries contains Kings County picture postcards, dating from 1874 to 2009.</field>
++    <field name="scopecontent_teim">This subseries contains Kings County picture postcards, dating from 1874 to 2009. </field>
+     <field name="scopecontent_teim">The sub-series is divided into five sections:</field>
+     <field name="scopecontent_teim">1. Communities (Brooklyn neighborhoods)</field>
+     <field name="scopecontent_teim">2. Bridges</field>
+@@ -38,6 +38,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Fred Snitzer collection of Kings County postal ephemera</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.003</field>
+     <field name="series_sim">Series 1: Postcards</field>
+     <field name="series_si">Series 1: Postcards &gt;&gt; Sub-series 1: Picture Postcards</field>

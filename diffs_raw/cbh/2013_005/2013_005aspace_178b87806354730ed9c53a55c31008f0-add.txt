@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1960/2008</field>
+     <field name="unitdate_normal_sim">1960/2008</field>
+     <field name="unitdate_inclusive_teim">1960s-2008</field>
+-    <field name="scopecontent_teim">The series contains a small assortment of records relating to Wilson's commercial photography business, dating from the 1960s to 2008. It also includes records relating to his pension and welfare funds as a member of the Graphic Communications International Union Local 119B.</field>
++    <field name="scopecontent_teim">The series contains a small assortment of records relating to Wilson&#39;s commercial photography business, dating from the 1960s to 2008. It also includes records relating to his pension and welfare funds as a member of the Graphic Communications International Union Local 119B.</field>
+     <field name="ref_ssi">aspace_178b87806354730ed9c53a55c31008f0</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Theobald Wilson photographs</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.005</field>
+     <field name="series_si">Series 2: Business records</field>
+     <field name="heading_ssm">Series 2: Business records</field>

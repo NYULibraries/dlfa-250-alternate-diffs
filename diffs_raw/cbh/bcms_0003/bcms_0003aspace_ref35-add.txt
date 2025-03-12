@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn periodical illustrations</field>
+     <field name="collection_unitid_ssm">BCMS.0003</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Ericsson's Torpedo Boat "Destroyer," Now Undergoing Firing Tests at the Brooklyn Navy Yard. &lt;em&gt;Once A Week&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Ericsson's Torpedo Boat "Destroyer," Now Undergoing Firing Tests at the Brooklyn Navy Yard. Once A Week</field>
++    <field name="unittitle_ssm">Ericsson&#39;s Torpedo Boat &#34;Destroyer,&#34; Now Undergoing Firing Tests at the Brooklyn Navy Yard. &lt;em&gt;Once A Week&lt;/em&gt;</field>
++    <field name="unittitle_teim">Ericsson&#39;s Torpedo Boat &#34;Destroyer,&#34; Now Undergoing Firing Tests at the Brooklyn Navy Yard. Once A Week</field>
+     <field name="unitdate_normal_ssm">1892-07-09/1892-07-09</field>
+     <field name="unitdate_normal_teim">1892-07-09/1892-07-09</field>
+     <field name="unitdate_normal_sim">1892-07-09/1892-07-09</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1</field>
+     <field name="location_si">Box: 1</field>
+     <field name="collection_teim">Brooklyn periodical illustrations</field>
++    <field name="author_teim">Ben Gocker, Librarian; Ally Malinenko, Librarian; Diana Bowers-Smith, Archivist</field>
+     <field name="collection_unitid_teim">BCMS.0003</field>
+     <field name="series_sim">Battleships</field>
+-    <field name="series_si">Battleships &gt;&gt; Ericsson's Torpedo Boat "Destroyer," Now Undergoing Firing Tests at the Brooklyn Navy Yard. &lt;em&gt;Once A Week&lt;/em&gt;</field>
+-    <field name="heading_ssm">Ericsson's Torpedo Boat "Destroyer," Now Undergoing Firing Tests at the Brooklyn Navy Yard. Once A Week</field>
++    <field name="series_si">Battleships &gt;&gt; Ericsson&#39;s Torpedo Boat &#34;Destroyer,&#34; Now Undergoing Firing Tests at the Brooklyn Navy Yard. &lt;em&gt;Once A Week&lt;/em&gt;</field>
++    <field name="heading_ssm">Ericsson&#39;s Torpedo Boat &#34;Destroyer,&#34; Now Undergoing Firing Tests at the Brooklyn Navy Yard. Once A Week</field>
+     <field name="unitdate_ssm">1892-07-09</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">167</field>

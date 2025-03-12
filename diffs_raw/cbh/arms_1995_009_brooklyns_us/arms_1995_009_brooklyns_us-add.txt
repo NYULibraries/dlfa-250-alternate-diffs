@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,8 +31,8 @@
+     <field name="persname_ssm">Barber, Samuel</field>
+     <field name="subject_teim">Geography |z United States</field>
+     <field name="subject_teim">Cities and towns |x History |z United States</field>
+-    <field name="subject_teim">Geography -- United States</field>
+-    <field name="subject_teim">Cities and towns -- History -- United States</field>
++    <field name="subject_teim">Geography --United States</field>
++    <field name="subject_teim">Cities and towns --History --United States</field>
+     <field name="subject_ssm">Geography |z United States</field>
+     <field name="subject_ssm">Cities and towns |x History |z United States</field>
+     <field name="collection_sim">Brooklyns in the U.S.</field>
+@@ -50,8 +50,8 @@
+     <field name="name_sim">Barber, Samuel</field>
+     <field name="name_teim">Barber, Samuel</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Geography -- United States</field>
+-    <field name="subject_sim">Cities and towns -- History -- United States</field>
++    <field name="subject_sim">Geography --United States</field>
++    <field name="subject_sim">Cities and towns --History --United States</field>
+     <field name="material_type_sim">Manuscripts (document genre)</field>
+     <field name="material_type_ssm">Manuscripts (document genre)</field>
+     <field name="heading_ssm">Brooklyns in the U.S.</field>

@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">New York City public property auctions catalogue and advertisement</field>
+     <field name="unitid_teim">ARC.261</field>
+     <field name="unitid_ssm">ARC.261</field>
+-    <field name="abstract_teim">One catalogue published in 1926 by the New York City Compstroller's Office featuring descriptions and photographs of property in all five city boroughs going up for sale at a public auction. Also included is an advertisement released in 1924 by Jeremiah Johnson Jr. Co. Real Estate Auctioneers for 600 property lots in the Brooklyn neighborhood of Flatbush going up for sale at public auction.</field>
+-    <field name="abstract_ssm">One catalogue published in 1926 by the New York City Compstroller's Office featuring descriptions and photographs of property in all five city boroughs going up for sale at a public auction. Also included is an advertisement released in 1924 by Jeremiah Johnson Jr. Co. Real Estate Auctioneers for 600 property lots in the Brooklyn neighborhood of Flatbush going up for sale at public auction.</field>
++    <field name="abstract_teim">One catalogue published in 1926 by the New York City Compstroller&#39;s Office featuring descriptions and photographs of property in all five city boroughs going up for sale at a public auction.  Also included is an advertisement released in 1924 by Jeremiah Johnson Jr. Co. Real Estate Auctioneers for 600 property lots in the Brooklyn neighborhood of Flatbush going up for sale at public auction.</field>
++    <field name="abstract_ssm">One catalogue published in 1926 by the New York City Compstroller&#39;s Office featuring descriptions and photographs of property in all five city boroughs going up for sale at a public auction.  Also included is an advertisement released in 1924 by Jeremiah Johnson Jr. Co. Real Estate Auctioneers for 600 property lots in the Brooklyn neighborhood of Flatbush going up for sale at public auction.</field>
+     <field name="creator_teim">New York (N.Y.). Office of the Comptroller</field>
+     <field name="creator_teim">Jeremiah Johnson Jr. Co. (Brooklyn, New York, N.Y.)</field>
+     <field name="creator_ssm">New York (N.Y.). Office of the Comptroller</field>
+@@ -39,11 +39,11 @@
+     <field name="subject_teim">Real property auctions |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Real property |z New York (State) |z New York</field>
+     <field name="subject_teim">Real property auctions |z New York (State) |z New York</field>
+-    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property auctions -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Real property -- New York (State) -- New York</field>
+-    <field name="subject_teim">Real property auctions -- New York (State) -- New York</field>
++    <field name="subject_teim">Real property --New York (State) --Kings County</field>
++    <field name="subject_teim">Real estate business -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Real property auctions --New York (State) --Kings County</field>
++    <field name="subject_teim">Real property --New York (State) --New York</field>
++    <field name="subject_teim">Real property auctions --New York (State) --New York</field>
+     <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Real estate business -- New York (State) -- Kings County</field>
+     <field name="subject_ssm">Real property auctions |z New York (State) |z Kings County</field>
+@@ -68,11 +68,11 @@
+     <field name="name_teim">Jeremiah Johnson Jr. Co. (Brooklyn, New York, N.Y.)</field>
+     <field name="place_sim">New York (N.Y.)</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --Kings County</field>
+     <field name="subject_sim">Real estate business -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property auctions -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Real property -- New York (State) -- New York</field>
+-    <field name="subject_sim">Real property auctions -- New York (State) -- New York</field>
++    <field name="subject_sim">Real property auctions --New York (State) --Kings County</field>
++    <field name="subject_sim">Real property --New York (State) --New York</field>
++    <field name="subject_sim">Real property auctions --New York (State) --New York</field>
+     <field name="material_type_sim">Advertisements</field>
+     <field name="material_type_sim">Catalogs</field>
+     <field name="material_type_ssm">Advertisements</field>

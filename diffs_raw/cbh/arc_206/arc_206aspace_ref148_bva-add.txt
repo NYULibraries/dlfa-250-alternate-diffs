@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1811/1811</field>
+     <field name="unitdate_normal_sim">1811/1811</field>
+     <field name="unitdate_inclusive_teim">1811</field>
+-    <field name="scopecontent_teim">1811 letter, from Dr. Samuel L. Mitchell, at New York, to Dr. Benjamin Franklin Thompson, at Setauket, LI, re: thanking Thompson for his oration to "the Columbian Order," and mentioning Mitchell's own talk "on the life, exploits, and precepts of Tammany," the letter composed on a circular of the "University of the State of New York College of Physicians and Surgeons" (printed matter)</field>
++    <field name="scopecontent_teim">1811 letter, from Dr. Samuel L. Mitchell, at New York, to Dr. Benjamin Franklin Thompson, at Setauket, LI, re: thanking Thompson for his oration to &#34;the Columbian Order,&#34; and mentioning Mitchell&#39;s own talk &#34;on the life, exploits, and precepts of Tammany,&#34; the letter composed on a circular of the &#34;University of the State of New York College of Physicians and Surgeons&#34; (printed matter)</field>
+     <field name="ref_ssi">aspace_ref148_bva</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 70</field>
+     <field name="location_si">Box: 1, Folder: 70</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Mitchell, Samuel L. (Dr.)</field>
+     <field name="heading_ssm">Mitchell, Samuel L. (Dr.)</field>

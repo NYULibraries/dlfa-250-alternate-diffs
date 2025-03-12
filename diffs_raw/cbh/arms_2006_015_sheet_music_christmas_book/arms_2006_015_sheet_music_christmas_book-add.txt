@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Sheet music and Christmas book</field>
+     <field name="unitid_teim">2006.015</field>
+     <field name="unitid_ssm">2006.015</field>
+-    <field name="abstract_teim">Sheet music for the song "Moon over Brooklyn," dated 1946, and an illustrated Christmas story book titled To the Little Boys of Long Island, dated 1885. The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn.</field>
+-    <field name="abstract_ssm">Sheet music for the song "Moon over Brooklyn," dated 1946, and an illustrated Christmas story book titled To the Little Boys of Long Island, dated 1885. The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn.</field>
++    <field name="abstract_teim">Sheet music for the song &#34;Moon over Brooklyn,&#34; dated 1946, and an illustrated Christmas story book titled To the Little Boys of Long Island, dated 1885.  The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn.</field>
++    <field name="abstract_ssm">Sheet music for the song &#34;Moon over Brooklyn,&#34; dated 1946, and an illustrated Christmas story book titled To the Little Boys of Long Island, dated 1885.  The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn.</field>
+     <field name="creator_teim">Baldwin, O. S.</field>
+     <field name="creator_ssm">Baldwin, O. S.</field>
+     <field name="creator_ssm">Baldwin, O. S.</field>
+@@ -32,9 +32,9 @@
+     <field name="subject_teim">Christmas |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Holidays |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Popular music |z New York (State) |z New York</field>
+-    <field name="subject_teim">Christmas -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Holidays -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Popular music -- New York (State) -- New York</field>
++    <field name="subject_teim">Christmas --New York (State) --Kings County</field>
++    <field name="subject_teim">Holidays --New York (State) --Kings County</field>
++    <field name="subject_teim">Popular music --New York (State) --New York</field>
+     <field name="subject_ssm">Christmas |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Holidays |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Popular music |z New York (State) |z New York</field>
+@@ -52,10 +52,10 @@
+     <field name="creator_sim">Baldwin, O. S.</field>
+     <field name="name_sim">Baldwin, O. S.</field>
+     <field name="name_teim">Baldwin, O. S.</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+-    <field name="subject_sim">Christmas -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Holidays -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Popular music -- New York (State) -- New York</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
++    <field name="subject_sim">Christmas --New York (State) --Kings County</field>
++    <field name="subject_sim">Holidays --New York (State) --Kings County</field>
++    <field name="subject_sim">Popular music --New York (State) --New York</field>
+     <field name="material_type_sim">Christmas stories</field>
+     <field name="material_type_sim">Gift books</field>
+     <field name="material_type_sim">Sheet music</field>

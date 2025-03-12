@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1832/1832</field>
+     <field name="unitdate_normal_sim">1832/1832</field>
+     <field name="unitdate_inclusive_teim">1832</field>
+-    <field name="scopecontent_teim">1832 letter, from Zechariah Lewis, at Brooklyn, to Col. Alden Spooner, re: wine cultivation and the "Isabella Grape", includes an 1832 circular, printed matter, authored by Spooner (attached)</field>
++    <field name="scopecontent_teim">1832 letter, from Zechariah Lewis, at Brooklyn, to Col. Alden Spooner, re: wine cultivation and the &#34;Isabella Grape&#34;, includes an 1832 circular, printed matter, authored by Spooner (attached)</field>
+     <field name="ref_ssi">aspace_ref136_l5s</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 61</field>
+     <field name="location_si">Box: 1, Folder: 61</field>
+     <field name="collection_teim">Autograph Manuscript collection</field>
++    <field name="author_teim">Brooklyn Historical Society staff</field>
+     <field name="collection_unitid_teim">ARC.206</field>
+     <field name="series_si">Lewis, Zechariah</field>
+     <field name="heading_ssm">Lewis, Zechariah</field>

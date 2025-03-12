@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Friends and Residents of Greater Gowanus records</field>
+     <field name="collection_unitid_ssm">2017.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New York City's Wastewater Treatment System</field>
+-    <field name="unittitle_teim">New York City's Wastewater Treatment System</field>
++    <field name="unittitle_ssm">New York City&#39;s Wastewater Treatment System</field>
++    <field name="unittitle_teim">New York City&#39;s Wastewater Treatment System</field>
+     <field name="unitdate_normal_ssm">2005/2008</field>
+     <field name="unitdate_normal_teim">2005/2008</field>
+     <field name="unitdate_normal_sim">2005/2008</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 4, Folder: 9</field>
+     <field name="location_si">Box: 4, Folder: 9</field>
+     <field name="collection_teim">Friends and Residents of Greater Gowanus records</field>
++    <field name="author_teim">Aimee Lusty, Processing Archivist</field>
+     <field name="collection_unitid_teim">2017.011</field>
+     <field name="series_sim">Series 2: Project files</field>
+     <field name="series_sim">Sub-series 2.2: Environmental and historical reports</field>
+-    <field name="series_si">Series 2: Project files &gt;&gt; Sub-series 2.2: Environmental and historical reports &gt;&gt; New York City's Wastewater Treatment System</field>
+-    <field name="heading_ssm">New York City's Wastewater Treatment System</field>
++    <field name="series_si">Series 2: Project files &gt;&gt; Sub-series 2.2: Environmental and historical reports &gt;&gt; New York City&#39;s Wastewater Treatment System</field>
++    <field name="heading_ssm">New York City&#39;s Wastewater Treatment System</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>
+     <field name="unitdate_start_si">2005</field>

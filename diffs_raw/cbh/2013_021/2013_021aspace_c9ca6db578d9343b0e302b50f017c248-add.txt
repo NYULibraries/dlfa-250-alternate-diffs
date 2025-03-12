@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1968/1968</field>
+     <field name="unitdate_normal_sim">1968/1968</field>
+     <field name="unitdate_teim">1968</field>
+-    <field name="scopecontent_teim">This file contains an article titled "Charlie Doesn't Even Know His Daily Racism is a Sick Joke" by Bob Teague.</field>
++    <field name="scopecontent_teim">This file contains an article titled &#34;Charlie Doesn&#39;t Even Know His Daily Racism is a Sick Joke&#34; by Bob Teague.</field>
+     <field name="ref_ssi">aspace_c9ca6db578d9343b0e302b50f017c248</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 5, Folder: 26</field>
+     <field name="location_si">Box: 5, Folder: 26</field>
+     <field name="collection_teim">Jeffrey Gerson Brooklyn politics research collection</field>
++    <field name="author_teim">Alice Griffin</field>
+     <field name="collection_unitid_teim">2013.021</field>
+     <field name="series_si">Bob Teague</field>
+     <field name="heading_ssm">Bob Teague</field>

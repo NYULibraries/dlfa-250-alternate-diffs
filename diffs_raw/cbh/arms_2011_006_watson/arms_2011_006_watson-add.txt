@@ -1,0 +1,63 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">William Watson Clark scrapbook</field>
+     <field name="unitid_teim">2011.006</field>
+     <field name="unitid_ssm">2011.006</field>
+-    <field name="abstract_teim">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson's wife.</field>
+-    <field name="abstract_ssm">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson's wife.</field>
++    <field name="abstract_teim">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson&#39;s wife.</field>
++    <field name="abstract_ssm">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson&#39;s wife.</field>
+     <field name="creator_teim">Clark, William Watson</field>
+     <field name="creator_ssm">Clark, William Watson</field>
+     <field name="creator_ssm">Clark, William Watson</field>
+@@ -16,8 +16,8 @@
+     <field name="unitdate_normal_teim">1918/1948</field>
+     <field name="unitdate_normal_sim">1918/1948</field>
+     <field name="unitdate_inclusive_teim">circa 1928 to 1938</field>
+-    <field name="scopecontent_teim">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson's wife.</field>
+-    <field name="bioghist_teim">William Watson Clark (1902-1972), known as "Watty" or "Lefty" Clark, was a professional baseball pitcher who was active from 1924 to 1937. Clark debuted with the Cleveland Indians, and went on to pitch for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants.</field>
++    <field name="scopecontent_teim">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants.  Items date from circa 1928 to 1938.  Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera.  The scrapbook was compiled by Watson&#39;s wife.</field>
++    <field name="bioghist_teim">William Watson Clark (1902-1972), known as &#34;Watty&#34; or &#34;Lefty&#34; Clark, was a professional baseball pitcher who was active from 1924 to 1937.  Clark debuted with the Cleveland Indians, and went on to pitch for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants.</field>
+     <field name="acqinfo_teim">Gift of William W. Clark, 2011.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Brooklyn Dodgers (Baseball team)</field>
+@@ -47,12 +47,12 @@
+     <field name="subject_teim">Baseball |z New York (State) |z New York</field>
+     <field name="subject_teim">Baseball players |z New York (State) |z New York</field>
+     <field name="subject_teim">Baseball players |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Baseball teams -- New York (State) -- New York</field>
+-    <field name="subject_teim">Baseball teams -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Baseball -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Baseball -- New York (State) -- New York</field>
+-    <field name="subject_teim">Baseball players -- New York (State) -- New York</field>
+-    <field name="subject_teim">Baseball players -- New York (State) -- Kings County</field>
++    <field name="subject_teim">Baseball teams --New York (State) --New York</field>
++    <field name="subject_teim">Baseball teams --New York (State) --Kings County</field>
++    <field name="subject_teim">Baseball --New York (State) --Kings County</field>
++    <field name="subject_teim">Baseball --New York (State) --New York</field>
++    <field name="subject_teim">Baseball players --New York (State) --New York</field>
++    <field name="subject_teim">Baseball players --New York (State) --Kings County</field>
+     <field name="subject_ssm">Baseball teams |z New York (State) |z New York</field>
+     <field name="subject_ssm">Baseball teams |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Baseball |z New York (State) |z Kings County</field>
+@@ -79,12 +79,12 @@
+     <field name="name_teim">Ebbets Field (New York, N.Y.)</field>
+     <field name="name_teim">New York Giants (Baseball team)</field>
+     <field name="name_teim">Clark, William Watson</field>
+-    <field name="subject_sim">Baseball teams -- New York (State) -- New York</field>
+-    <field name="subject_sim">Baseball teams -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Baseball -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Baseball -- New York (State) -- New York</field>
+-    <field name="subject_sim">Baseball players -- New York (State) -- New York</field>
+-    <field name="subject_sim">Baseball players -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Baseball teams --New York (State) --New York</field>
++    <field name="subject_sim">Baseball teams --New York (State) --Kings County</field>
++    <field name="subject_sim">Baseball --New York (State) --Kings County</field>
++    <field name="subject_sim">Baseball --New York (State) --New York</field>
++    <field name="subject_sim">Baseball players --New York (State) --New York</field>
++    <field name="subject_sim">Baseball players --New York (State) --Kings County</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Printed ephemera</field>
+     <field name="material_type_sim">Admission tickets</field>

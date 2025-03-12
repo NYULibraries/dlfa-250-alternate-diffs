@@ -1,0 +1,64 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">National Council of Women of the United States leaflet</field>
+     <field name="unitid_teim">1977.156</field>
+     <field name="unitid_ssm">1977.156</field>
+-    <field name="abstract_teim">One 1895 leaflet issued by the National Council of Women of the United States announcing the event "Reunion of Friends and Pioneers of Woman's Progress."</field>
+-    <field name="abstract_ssm">One 1895 leaflet issued by the National Council of Women of the United States announcing the event "Reunion of Friends and Pioneers of Woman's Progress."</field>
++    <field name="abstract_teim">One 1895 leaflet issued by the National Council of Women of the United States announcing the event &#34;Reunion of Friends and Pioneers of Woman&#39;s Progress.&#34;</field>
++    <field name="abstract_ssm">One 1895 leaflet issued by the National Council of Women of the United States announcing the event &#34;Reunion of Friends and Pioneers of Woman&#39;s Progress.&#34;</field>
+     <field name="creator_teim">National Council of Women of the United States</field>
+     <field name="creator_ssm">National Council of Women of the United States</field>
+     <field name="creator_ssm">National Council of Women of the United States</field>
+@@ -16,9 +16,9 @@
+     <field name="unitdate_normal_teim">1895/1895</field>
+     <field name="unitdate_normal_sim">1895/1895</field>
+     <field name="unitdate_teim">1895</field>
+-    <field name="scopecontent_teim">One leaflet, dated 1895, issued by the National Council of Women of the United States. The leaflet announces the holding of an event called "Reunion of Friends and Pioneers of Woman's Progress" at the Metropolitan Opera House in New York City, held in honor of Elizabeth Cady Stanton's 80th birthday.</field>
+-    <field name="bioghist_teim">The National Council of Women of the United States was established in 1888 by such prominent women's rights advocates as Susan B. Anthony, Clara Barton, Julia Ward Howe, and Sojourner Truth. The Council campaigned for reform in regards to several social issues, including women's suffrage, child labor, and workplace conditions.</field>
+-    <field name="acqinfo_teim">Source and date of acquisition unknown. Formally accessioned in 1977.</field>
++    <field name="scopecontent_teim">One leaflet, dated 1895, issued by the National Council of Women of the United States.  The leaflet announces the holding of an event called &#34;Reunion of Friends and Pioneers of Woman&#39;s Progress&#34; at the Metropolitan Opera House in New York City, held in honor of Elizabeth Cady Stanton&#39;s 80th birthday.</field>
++    <field name="bioghist_teim">The National Council of Women of the United States was established in 1888 by such prominent women&#39;s rights advocates as Susan B. Anthony, Clara Barton, Julia Ward Howe, and Sojourner Truth. The Council campaigned for reform in regards to several social issues, including women&#39;s suffrage, child labor, and workplace conditions.</field>
++    <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1977.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">National Council of Women of the United States</field>
+     <field name="corpname_ssm">Brooklyn Historical Society</field>
+@@ -28,15 +28,15 @@
+     <field name="persname_teim">Stanton, Elizabeth Cady</field>
+     <field name="persname_ssm">Stanton, Elizabeth Cady</field>
+     <field name="subject_teim">Women |x Suffrage |z New York (State) |z New York</field>
+-    <field name="subject_teim">Women's rights |z New York (State) |z New York</field>
++    <field name="subject_teim">Women&#39;s rights |z New York (State) |z New York</field>
+     <field name="subject_teim">Women |z New York (State) |z New York |x Social conditions</field>
+     <field name="subject_teim">Reunions |z New York (State) |z New York</field>
+-    <field name="subject_teim">Women -- Suffrage -- New York (State) -- New York</field>
+-    <field name="subject_teim">Women's rights -- New York (State) -- New York</field>
+-    <field name="subject_teim">Women -- New York (State) -- New York -- Social conditions</field>
+-    <field name="subject_teim">Reunions -- New York (State) -- New York</field>
++    <field name="subject_teim">Women --Suffrage --New York (State) --New York</field>
++    <field name="subject_teim">Women&#39;s rights --New York (State) --New York</field>
++    <field name="subject_teim">Women --New York (State) --New York --Social conditions</field>
++    <field name="subject_teim">Reunions --New York (State) --New York</field>
+     <field name="subject_ssm">Women |x Suffrage |z New York (State) |z New York</field>
+-    <field name="subject_ssm">Women's rights |z New York (State) |z New York</field>
++    <field name="subject_ssm">Women&#39;s rights |z New York (State) |z New York</field>
+     <field name="subject_ssm">Women |z New York (State) |z New York |x Social conditions</field>
+     <field name="subject_ssm">Reunions |z New York (State) |z New York</field>
+     <field name="collection_sim">National Council of Women of the United States leaflet</field>
+@@ -55,10 +55,10 @@
+     <field name="name_sim">Stanton, Elizabeth Cady</field>
+     <field name="name_teim">National Council of Women of the United States</field>
+     <field name="name_teim">Stanton, Elizabeth Cady</field>
+-    <field name="subject_sim">Women -- Suffrage -- New York (State) -- New York</field>
+-    <field name="subject_sim">Women's rights -- New York (State) -- New York</field>
+-    <field name="subject_sim">Women -- New York (State) -- New York -- Social conditions</field>
+-    <field name="subject_sim">Reunions -- New York (State) -- New York</field>
++    <field name="subject_sim">Women --Suffrage --New York (State) --New York</field>
++    <field name="subject_sim">Women&#39;s rights --New York (State) --New York</field>
++    <field name="subject_sim">Women --New York (State) --New York --Social conditions</field>
++    <field name="subject_sim">Reunions --New York (State) --New York</field>
+     <field name="material_type_sim">Leaflets (printed works)</field>
+     <field name="material_type_ssm">Leaflets (printed works)</field>
+     <field name="heading_ssm">National Council of Women of the United States leaflet</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Brooklyn schools collection</field>
+     <field name="collection_unitid_ssm">CBHM.0006</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Miss Whitcomb's School for Young Ladies and Children</field>
+-    <field name="unittitle_teim">Miss Whitcomb's School for Young Ladies and Children</field>
++    <field name="unittitle_ssm">Miss Whitcomb&#39;s School for Young Ladies and Children</field>
++    <field name="unittitle_teim">Miss Whitcomb&#39;s School for Young Ladies and Children</field>
+     <field name="ref_ssi">aspace_ref68_q2r</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -22,10 +22,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn schools collection</field>
++    <field name="author_teim">Weatherly Stephan and Patricia Glowinski</field>
+     <field name="collection_unitid_teim">CBHM.0006</field>
+     <field name="series_sim">Series 2: Individual schools</field>
+-    <field name="series_si">Series 2: Individual schools &gt;&gt; Miss Whitcomb's School for Young Ladies and Children</field>
+-    <field name="heading_ssm">Miss Whitcomb's School for Young Ladies and Children</field>
++    <field name="series_si">Series 2: Individual schools &gt;&gt; Miss Whitcomb&#39;s School for Young Ladies and Children</field>
++    <field name="heading_ssm">Miss Whitcomb&#39;s School for Young Ladies and Children</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">471</field>
+   </doc>

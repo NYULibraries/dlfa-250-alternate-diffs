@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1851/1918</field>
+     <field name="unitdate_normal_sim">1851/1918</field>
+     <field name="unitdate_inclusive_teim">1851-1918</field>
+-    <field name="scopecontent_teim">The series consists of property records (including deeds, title searches, and maps) that could not be matched with corresponding individual case files and records that document city efforts to acquire land in Brooklyn, Queens, and Long Island. The records span the years 1851 to 1918. Material with respect to properties located outside Brooklyn generally relate to the city's water supply.</field>
++    <field name="scopecontent_teim">The series consists of property records (including deeds, title searches, and maps) that could not be matched with corresponding individual case files and records that document city efforts to acquire land in Brooklyn, Queens, and Long Island. The records span the years 1851 to 1918. Material with respect to properties located outside Brooklyn generally relate to the city&#39;s water supply.</field>
+     <field name="scopecontent_teim">Please note that Series 1: Case Files also includes numerous property records related to assessments and other legal disputes.</field>
+     <field name="ref_ssi">aspace_ref4780_km0</field>
+     <field name="repository_ssi">cbh</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.015</field>
+     <field name="series_si">Series 4: Property Files</field>
+     <field name="heading_ssm">Series 4: Property Files</field>

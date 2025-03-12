@@ -1,0 +1,66 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Chaminade records</field>
+     <field name="unitid_teim">1977.204</field>
+     <field name="unitid_ssm">1977.204</field>
+-    <field name="abstract_teim">Records of the Chaminade, including the group's constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph. Materials date from 1923 to 1952.</field>
+-    <field name="abstract_ssm">Records of the Chaminade, including the group's constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph. Materials date from 1923 to 1952.</field>
++    <field name="abstract_teim">Records of the Chaminade, including the group&#39;s constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph.  Materials date from 1923 to 1952.</field>
++    <field name="abstract_ssm">Records of the Chaminade, including the group&#39;s constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph.  Materials date from 1923 to 1952.</field>
+     <field name="creator_teim">Chaminade (Choral society)</field>
+     <field name="creator_ssm">Chaminade (Choral society)</field>
+     <field name="creator_ssm">Chaminade (Choral society)</field>
+@@ -20,8 +20,8 @@
+     <field name="unitdate_normal_sim">1941/1951</field>
+     <field name="unitdate_bulk_teim">1941-1951</field>
+     <field name="unitdate_inclusive_teim">1923-1952</field>
+-    <field name="scopecontent_teim">Records of the Chaminade, including the group's constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph. Materials date from 1923 to 1952.</field>
+-    <field name="bioghist_teim">The Chaminade was a Brooklyn women's choral society founded in 1898 to study and perform choral music.</field>
++    <field name="scopecontent_teim">Records of the Chaminade, including the group&#39;s constitution, correspondence, a scrapbook of news clippings, loose clippings, press releases, programs, and one black-and-white photograph.  Materials date from 1923 to 1952.</field>
++    <field name="bioghist_teim">The Chaminade was a Brooklyn women&#39;s choral society founded in 1898 to study and perform choral music.</field>
+     <field name="acqinfo_teim">Gift of Mrs. Thurston C. Bassett, 1958.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+     <field name="corpname_teim">Chaminade (Choral society)</field>
+@@ -47,15 +47,15 @@
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Intellectual life</field>
+     <field name="subject_teim">Choral societies |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Music |z New York (State) |z Kings County</field>
+-    <field name="subject_teim">Women's choirs |z New York (State) |z Kings County</field>
++    <field name="subject_teim">Women&#39;s choirs |z New York (State) |z Kings County</field>
+     <field name="subject_teim">Women |z New York (State) |z Kings County |x Societies and clubs</field>
+-    <field name="subject_teim">Choral societies -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Women's choirs -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Women -- New York (State) -- Kings County -- Societies and clubs</field>
++    <field name="subject_teim">Choral societies --New York (State) --Kings County</field>
++    <field name="subject_teim">Music --New York (State) --Kings County</field>
++    <field name="subject_teim">Women&#39;s choirs --New York (State) --Kings County</field>
++    <field name="subject_teim">Women --New York (State) --Kings County --Societies and clubs</field>
+     <field name="subject_ssm">Choral societies |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Music |z New York (State) |z Kings County</field>
+-    <field name="subject_ssm">Women's choirs |z New York (State) |z Kings County</field>
++    <field name="subject_ssm">Women&#39;s choirs |z New York (State) |z Kings County</field>
+     <field name="subject_ssm">Women |z New York (State) |z Kings County |x Societies and clubs</field>
+     <field name="collection_sim">Chaminade records</field>
+     <field name="collection_ssm">Chaminade records</field>
+@@ -71,12 +71,12 @@
+     <field name="creator_sim">Chaminade (Choral society)</field>
+     <field name="name_sim">Chaminade (Choral society)</field>
+     <field name="name_teim">Chaminade (Choral society)</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+-    <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life</field>
+-    <field name="subject_sim">Choral societies -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Music -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Women's choirs -- New York (State) -- Kings County</field>
+-    <field name="subject_sim">Women -- New York (State) -- Kings County -- Societies and clubs</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Social life and customs</field>
++    <field name="place_sim">Brooklyn (New York, N.Y.) --Intellectual life</field>
++    <field name="subject_sim">Choral societies --New York (State) --Kings County</field>
++    <field name="subject_sim">Music --New York (State) --Kings County</field>
++    <field name="subject_sim">Women&#39;s choirs --New York (State) --Kings County</field>
++    <field name="subject_sim">Women --New York (State) --Kings County --Societies and clubs</field>
+     <field name="material_type_sim">Press releases</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>
+     <field name="material_type_sim">Programs (documents)</field>

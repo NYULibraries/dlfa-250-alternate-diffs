@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1802/1824</field>
+     <field name="unitdate_normal_sim">1802/1824</field>
+     <field name="unitdate_inclusive_teim">1802-1824</field>
+-    <field name="scopecontent_teim">This series contains materials relating to Hezekiah Beers Pierpont's business ventures and consists primarily of financial accounts of the distillery and of persons indebted to him.</field>
++    <field name="scopecontent_teim">This series contains materials relating to Hezekiah Beers Pierpont&#39;s business ventures and consists primarily of financial accounts of the distillery and of persons indebted to him.</field>
+     <field name="ref_ssi">aspace_ref1_jy2</field>
+     <field name="repository_ssi">cbh</field>
+     <field name="repository_sim">cbh</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Pierrepont family papers</field>
++    <field name="author_teim">Teresa Mora (1999), with modifications by Larry Weimer (2011).</field>
+     <field name="collection_unitid_teim">ARC.263</field>
+     <field name="series_si">Series 1: Mercantile, Farm and Distillery</field>
+     <field name="heading_ssm">Series 1: Mercantile, Farm and Distillery</field>

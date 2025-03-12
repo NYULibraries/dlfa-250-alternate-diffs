@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Edgar McDonald papers</field>
+     <field name="unitid_teim">1977.072</field>
+     <field name="unitid_ssm">1977.072</field>
+-    <field name="abstract_teim">The Edgar McDonald papers include correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald's honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank.</field>
+-    <field name="abstract_ssm">The Edgar McDonald papers include correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald's honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank.</field>
++    <field name="abstract_teim">The Edgar McDonald papers include correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald&#39;s honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank.</field>
++    <field name="abstract_ssm">The Edgar McDonald papers include correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald&#39;s honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank.</field>
+     <field name="creator_teim">McDonald, Edgar</field>
+     <field name="creator_ssm">McDonald, Edgar</field>
+     <field name="creator_ssm">McDonald, Edgar</field>
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1903/1911</field>
+     <field name="unitdate_bulk_teim">1903-1911</field>
+     <field name="unitdate_inclusive_teim">1862-1919</field>
+-    <field name="scopecontent_teim">The Edgar McDonald papers span the period 1862 to 1919, while the bulk of the papers derive from the period 1903 to 1911. Included in the papers are correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald's honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank. Materials related to a dinner honoring McDonald's 40 years of service to Nassau National Bank include a program, an invitation, and a seating arrangement. The collection also includes a promissory note from Horatio Fisher to John Ackerman, dated 1888; two printed poems; newspaper clippings of McDonald's obituary; and miscellaneous invitations, programs, and calling cards.</field>
++    <field name="scopecontent_teim">The Edgar McDonald papers span the period 1862 to 1919, while the bulk of the papers derive from the period 1903 to 1911. Included in the papers are correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald&#39;s honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank. Materials related to a dinner honoring McDonald&#39;s 40 years of service to Nassau National Bank include a program, an invitation, and a seating arrangement. The collection also includes a promissory note from Horatio Fisher to John Ackerman, dated 1888; two printed poems; newspaper clippings of McDonald&#39;s obituary; and miscellaneous invitations, programs, and calling cards.</field>
+     <field name="bioghist_teim">Edgar McDonald (1845-1919) was a Brooklyn businessman who served as President and Director of Nassau National Bank. He married Emma Ackerman in 1868.</field>
+     <field name="acqinfo_teim">Gift of J.S. Hall, 1937.</field>
+     <field name="corpname_teim">Brooklyn Historical Society</field>
+@@ -47,6 +47,7 @@
+     <field name="persname_teim">McDonald, Edgar</field>
+     <field name="persname_ssm">McDonald, Edgar</field>
+     <field name="persname_ssm">McDonald, Edgar</field>
++    <field name="subject_teim">Bankers --New York (State) --Kings County</field>
+     <field name="collection_sim">Edgar McDonald papers</field>
+     <field name="collection_ssm">Edgar McDonald papers</field>
+     <field name="collection_teim">Edgar McDonald papers</field>
+@@ -63,8 +64,7 @@
+     <field name="name_teim">McDonald, Edgar</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+-    <field name="subject_sim">Bankers -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Bankers -- New York (State) -- Kings County</field>
++    <field name="subject_sim">Bankers --New York (State) --Kings County</field>
+     <field name="material_type_sim">Promissory notes</field>
+     <field name="material_type_sim">Obituaries</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

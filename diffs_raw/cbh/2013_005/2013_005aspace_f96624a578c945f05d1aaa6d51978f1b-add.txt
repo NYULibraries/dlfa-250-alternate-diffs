@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Theobald Wilson photographs</field>
+     <field name="collection_unitid_ssm">2013.005</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Thomas and Rebecca Campbell's son</field>
+-    <field name="unittitle_teim">Thomas and Rebecca Campbell's son</field>
++    <field name="unittitle_ssm">Thomas and Rebecca Campbell&#39;s son</field>
++    <field name="unittitle_teim">Thomas and Rebecca Campbell&#39;s son</field>
+     <field name="unitdate_normal_ssm">1962/1962</field>
+     <field name="unitdate_normal_teim">1962/1962</field>
+     <field name="unitdate_normal_sim">1962/1962</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Binder: 28</field>
+     <field name="location_si">Binder: 28</field>
+     <field name="collection_teim">Theobald Wilson photographs</field>
++    <field name="author_teim">John Zarrillo</field>
+     <field name="collection_unitid_teim">2013.005</field>
+     <field name="series_sim">Series 3: Personal photographs</field>
+-    <field name="series_si">Series 3: Personal photographs &gt;&gt; Thomas and Rebecca Campbell's son</field>
+-    <field name="heading_ssm">Thomas and Rebecca Campbell's son</field>
++    <field name="series_si">Series 3: Personal photographs &gt;&gt; Thomas and Rebecca Campbell&#39;s son</field>
++    <field name="heading_ssm">Thomas and Rebecca Campbell&#39;s son</field>
+     <field name="unitdate_start_sim">1962</field>
+     <field name="unitdate_start_ssm">1962</field>
+     <field name="unitdate_start_si">1962</field>
