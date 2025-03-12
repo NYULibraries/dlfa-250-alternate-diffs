@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1970/1980</field>
+     <field name="unitdate_normal_sim">1970/1980</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Donald Cudsville discuss the Harlem Urban Development Corporation's improvement of housing and economic conditions in Harlem.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Donald Cudsville discuss the Harlem Urban Development Corporation&#39;s improvement of housing and economic conditions in Harlem.</field>
+     <field name="dao_teim">Cudsville, Donald -- President of the Harlem Urban Development Corporation (HUDC).: Unknown</field>
+     <field name="dao_ssm">Cudsville, Donald -- President of the Harlem Urban Development Corporation (HUDC).: Unknown</field>
+     <field name="ref_ssi">aspace_ref4239</field>
+@@ -40,6 +40,7 @@
+     <field name="location_si">Box: Shared University Archives 116, Item: 10</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

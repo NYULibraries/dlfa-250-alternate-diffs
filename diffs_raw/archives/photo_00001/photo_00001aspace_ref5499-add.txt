@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref5329</field>
+     <field name="parent_ssm">aspace_ref5496</field>
+     <field name="parent_unittitles_ssm">University Building</field>
+-    <field name="parent_unittitles_ssm">University Building - Interior, Chancellor's Office</field>
++    <field name="parent_unittitles_ssm">University Building - Interior, Chancellor&amp;#39;s Office</field>
+     <field name="parent_unittitles_teim">University Building</field>
+-    <field name="parent_unittitles_teim">University Building - Interior, Chancellor's Office</field>
++    <field name="parent_unittitles_teim">University Building - Interior, Chancellor&amp;#39;s Office</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">University Building, Interior - Chancellor's Room</field>
+-    <field name="unittitle_teim">University Building, Interior - Chancellor's Room</field>
++    <field name="unittitle_ssm">University Building, Interior - Chancellor&#39;s Room</field>
++    <field name="unittitle_teim">University Building, Interior - Chancellor&#39;s Room</field>
+     <field name="unitid_teim">CB_UB_4_1_02</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636661</field>
+     <field name="unitid_ssm">CB_UB_4_1_02</field>
+@@ -30,8 +30,8 @@
+     <field name="corpname_ssm">New York University -- Buildings</field>
+     <field name="persname_teim">MacCracken, Henry Mitchell, 1840-1918</field>
+     <field name="persname_ssm">MacCracken, Henry Mitchell, 1840-1918</field>
+-    <field name="dao_teim">University Building, Interior - Chancellor's Room: 1892</field>
+-    <field name="dao_ssm">University Building, Interior - Chancellor's Room: 1892</field>
++    <field name="dao_teim">University Building, Interior - Chancellor&#39;s Room: 1892</field>
++    <field name="dao_ssm">University Building, Interior - Chancellor&#39;s Room: 1892</field>
+     <field name="ref_ssi">aspace_ref5499</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -46,11 +46,12 @@
+     <field name="name_teim">MacCracken, Henry Mitchell, 1840-1918</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">University Building</field>
+-    <field name="series_sim">University Building - Interior, Chancellor's Office</field>
+-    <field name="series_si">University Building &gt;&gt; University Building - Interior, Chancellor's Office &gt;&gt; University Building, Interior - Chancellor's Room</field>
+-    <field name="heading_ssm">University Building, Interior - Chancellor's Room</field>
++    <field name="series_sim">University Building - Interior, Chancellor&amp;#39;s Office</field>
++    <field name="series_si">University Building &gt;&gt; University Building - Interior, Chancellor&#39;s Office &gt;&gt; University Building, Interior - Chancellor&#39;s Room</field>
++    <field name="heading_ssm">University Building, Interior - Chancellor&#39;s Room</field>
+     <field name="unitdate_start_sim">1892</field>
+     <field name="unitdate_start_ssm">1892</field>
+     <field name="unitdate_start_si">1892</field>

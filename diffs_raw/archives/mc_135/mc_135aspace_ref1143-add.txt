@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Books</field>
+     <field name="unittitle_teim">Series I: Books</field>
+-    <field name="scopecontent_teim">Series I contains copies of Falnes' two published books, as well as books from his personal collection, mostly relating to Nordic history.</field>
++    <field name="scopecontent_teim">Series I contains copies of Falnes&#39; two published books, as well as books from his personal collection, mostly relating to Nordic history.</field>
+     <field name="ref_ssi">aspace_ref1143</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Oscar J. Falnes Papers</field>
++    <field name="author_teim">University Archives staff. Electronic inventory prepared by Laura Thiessen in 2005. Reprocessed in 2012 by Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MC.135</field>
+     <field name="series_si">Series I: Books</field>
+     <field name="heading_ssm">Series I: Books</field>

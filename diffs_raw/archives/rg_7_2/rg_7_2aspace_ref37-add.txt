@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series I. Administrative Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Records of the Office of the Vice President for University Relations (John J. O'Connor)</field>
+-    <field name="collection_ssm">Records of the Office of the Vice President for University Relations (John J. O'Connor)</field>
++    <field name="collection_sim">Records of the Office of the Vice President for University Relations (John J. O&#39;Connor)</field>
++    <field name="collection_ssm">Records of the Office of the Vice President for University Relations (John J. O&#39;Connor)</field>
+     <field name="collection_unitid_ssm">RG.7.2</field>
+     <field name="level_sim">file</field>
+     <field name="unitdate_teim">Sep 1988</field>
+@@ -22,10 +22,11 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2, Folder: 7</field>
+     <field name="location_si">Box: 2, Folder: 7</field>
+-    <field name="collection_teim">Records of the Office of the Vice President for University Relations (John J. O'Connor)</field>
++    <field name="collection_teim">Records of the Office of the Vice President for University Relations (John J. O&#39;Connor)</field>
++    <field name="author_teim">University Archives staff. Additional processing by Marissa De Simone and Bernadette Siddiqi.</field>
+     <field name="collection_unitid_teim">RG.7.2</field>
+     <field name="series_sim">Series I. Administrative Files</field>
+-    <field name="series_si">Series I. Administrative Files &gt;&gt;</field>
++    <field name="series_si">Series I. Administrative Files</field>
+     <field name="unitdate_ssm">Sep 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Collection of Student and Alumni Surveys of Service in World War I</field>
+     <field name="collection_unitid_ssm">MC.92</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Compiler's Note, Letter, Abbreviations</field>
+-    <field name="unittitle_teim">Compiler's Note, Letter, Abbreviations</field>
++    <field name="unittitle_ssm">Compiler&#39;s Note, Letter, Abbreviations</field>
++    <field name="unittitle_teim">Compiler&#39;s Note, Letter, Abbreviations</field>
+     <field name="unitdate_normal_ssm">1924/1924</field>
+     <field name="unitdate_normal_teim">1924/1924</field>
+     <field name="unitdate_normal_sim">1924/1924</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Collection of Student and Alumni Surveys of Service in World War I</field>
++    <field name="author_teim">Kerry Heimer</field>
+     <field name="collection_unitid_teim">MC.92</field>
+-    <field name="series_si">Compiler's Note, Letter, Abbreviations</field>
+-    <field name="heading_ssm">Compiler's Note, Letter, Abbreviations</field>
++    <field name="series_si">Compiler&#39;s Note, Letter, Abbreviations</field>
++    <field name="heading_ssm">Compiler&#39;s Note, Letter, Abbreviations</field>
+     <field name="unitdate_start_sim">1924</field>
+     <field name="unitdate_start_ssm">1924</field>
+     <field name="unitdate_start_si">1924</field>

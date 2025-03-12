@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Filming of "Soup for One"</field>
+-    <field name="unittitle_teim">Filming of "Soup for One"</field>
++    <field name="unittitle_ssm">Filming of &#34;Soup for One&#34;</field>
++    <field name="unittitle_teim">Filming of &#34;Soup for One&#34;</field>
+     <field name="unitid_teim">wsa_2_5_29</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636152</field>
+     <field name="unitid_ssm">wsa_2_5_29</field>
+@@ -31,8 +31,8 @@
+     <field name="unitdate_inclusive_teim">1981</field>
+     <field name="persname_teim">Katz, Ken</field>
+     <field name="persname_ssm">Katz, Ken</field>
+-    <field name="dao_teim">Filming of "Soup for One": 1981</field>
+-    <field name="dao_ssm">Filming of "Soup for One": 1981</field>
++    <field name="dao_teim">Filming of &#34;Soup for One&#34;: 1981</field>
++    <field name="dao_ssm">Filming of &#34;Soup for One&#34;: 1981</field>
+     <field name="ref_ssi">aspace_ref3825</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -46,11 +46,12 @@
+     <field name="name_teim">Katz, Ken</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Films and Filming in NYU Area</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Filming of "Soup for One"</field>
+-    <field name="heading_ssm">Filming of "Soup for One"</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Filming of &#34;Soup for One&#34;</field>
++    <field name="heading_ssm">Filming of &#34;Soup for One&#34;</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,11 +25,11 @@
+     <field name="persname_teim">Gitlin, Todd</field>
+     <field name="persname_ssm">Gitlin, Todd</field>
+     <field name="subject_teim">Mass media.</field>
+-    <field name="subject_teim">Internet |z United States.</field>
+-    <field name="subject_teim">Mass media.</field>
+-    <field name="subject_teim">Internet -- United States.</field>
++    <field name="subject_teim">Internet |z United States. </field>
++    <field name="subject_teim">Mass media.</field>
++    <field name="subject_teim">Internet --United States. </field>
+     <field name="subject_ssm">Mass media.</field>
+-    <field name="subject_ssm">Internet |z United States.</field>
++    <field name="subject_ssm">Internet |z United States. </field>
+     <field name="ref_ssi">aspace_ref2326</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -41,8 +41,9 @@
+     <field name="name_sim">Gitlin, Todd</field>
+     <field name="name_teim">Gitlin, Todd</field>
+     <field name="subject_sim">Mass media.</field>
+-    <field name="subject_sim">Internet -- United States.</field>
++    <field name="subject_sim">Internet --United States. </field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

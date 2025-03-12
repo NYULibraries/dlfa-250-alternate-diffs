@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1917/1935</field>
+     <field name="unitdate_normal_sim">1917/1935</field>
+     <field name="unitdate_inclusive_teim">1917-1935, undated</field>
+-    <field name="scopecontent_teim">Series II includes one folder of notes and correspondence related to Marshall S. Brown's research related to his manuscript, "NYU in World War I."</field>
++    <field name="scopecontent_teim">Series II includes one folder of notes and correspondence related to Marshall S. Brown&#39;s research related to his manuscript, &#34;NYU in World War I.&#34;</field>
+     <field name="ref_ssi">aspace_ref6</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Marshall Brown Collection on New York University Faculty and Students in World War I</field>
++    <field name="author_teim">Catriona Schlosser</field>
+     <field name="collection_unitid_teim">MC.66</field>
+     <field name="series_si">Series II: Correspondence</field>
+     <field name="heading_ssm">Series II: Correspondence</field>

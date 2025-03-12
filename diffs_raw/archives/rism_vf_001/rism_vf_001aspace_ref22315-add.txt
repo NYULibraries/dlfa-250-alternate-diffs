@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">A Season of Plays, by Derek Walcott: "Ti Jean &amp; His Brothers" and "Dream on Monkey Mountain"</field>
+-    <field name="unittitle_teim">A Season of Plays, by Derek Walcott: "Ti Jean &amp; His Brothers" and "Dream on Monkey Mountain"</field>
++    <field name="unittitle_ssm">A Season of Plays, by Derek Walcott: &#34;Ti Jean &amp; His Brothers&#34; and &#34;Dream on Monkey Mountain&#34;</field>
++    <field name="unittitle_teim">A Season of Plays, by Derek Walcott: &#34;Ti Jean &amp; His Brothers&#34; and &#34;Dream on Monkey Mountain&#34;</field>
+     <field name="unitid_teim">RISM 22534</field>
+     <field name="unitid_ssm">RISM 22534</field>
+     <field name="creator_teim">Walcott, Derek</field>
+@@ -38,11 +38,12 @@
+     <field name="name_sim">Walcott, Derek</field>
+     <field name="name_teim">Walcott, Derek</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Individuals</field>
+     <field name="series_sim">Walcott, Derek</field>
+-    <field name="series_si">Individuals &gt;&gt; Walcott, Derek &gt;&gt; A Season of Plays, by Derek Walcott: "Ti Jean &amp; His Brothers" and "Dream on Monkey Mountain"</field>
+-    <field name="heading_ssm">A Season of Plays, by Derek Walcott: "Ti Jean &amp; His Brothers" and "Dream on Monkey Mountain"</field>
++    <field name="series_si">Individuals &gt;&gt; Walcott, Derek &gt;&gt; A Season of Plays, by Derek Walcott: &#34;Ti Jean &amp; His Brothers&#34; and &#34;Dream on Monkey Mountain&#34;</field>
++    <field name="heading_ssm">A Season of Plays, by Derek Walcott: &#34;Ti Jean &amp; His Brothers&#34; and &#34;Dream on Monkey Mountain&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7088</field>

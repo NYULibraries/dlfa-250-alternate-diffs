@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Hobbes and His Theory of Natural Mind and Civil Society"</field>
+-    <field name="unittitle_teim">"Hobbes and His Theory of Natural Mind and Civil Society"</field>
++    <field name="unittitle_ssm">&#34;Hobbes and His Theory of Natural Mind and Civil Society&#34;</field>
++    <field name="unittitle_teim">&#34;Hobbes and His Theory of Natural Mind and Civil Society&#34;</field>
+     <field name="unitid_teim">AV2037</field>
+     <field name="unitid_ssm">AV2037</field>
+     <field name="unitdate_normal_ssm">1960/1960</field>
+@@ -35,10 +35,11 @@
+     <field name="name_sim">Magid, Henry Meyer, 1917-</field>
+     <field name="name_teim">Magid, Henry Meyer, 1917-</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "Hobbes and His Theory of Natural Mind and Civil Society"</field>
+-    <field name="heading_ssm">"Hobbes and His Theory of Natural Mind and Civil Society"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;Hobbes and His Theory of Natural Mind and Civil Society&#34;</field>
++    <field name="heading_ssm">&#34;Hobbes and His Theory of Natural Mind and Civil Society&#34;</field>
+     <field name="unitdate_start_sim">1960</field>
+     <field name="unitdate_start_ssm">1960</field>
+     <field name="unitdate_start_si">1960</field>

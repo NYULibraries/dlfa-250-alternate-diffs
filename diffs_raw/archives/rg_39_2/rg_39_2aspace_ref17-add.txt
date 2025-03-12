@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Official Correspondence</field>
+     <field name="unittitle_teim">Series I: Official Correspondence</field>
+-    <field name="scopecontent_teim">Series I: Official Records ("v" indicates a volume and "f" indicates a folder)</field>
++    <field name="scopecontent_teim">Series I: Official Records (&#34;v&#34; indicates a volume and &#34;f&#34; indicates a folder)</field>
+     <field name="ref_ssi">aspace_ref17</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Philomathean Society</field>
++    <field name="author_teim">Phyllis Klein</field>
+     <field name="collection_unitid_teim">RG.39.2</field>
+     <field name="series_si">Series I: Official Correspondence</field>
+     <field name="heading_ssm">Series I: Official Correspondence</field>

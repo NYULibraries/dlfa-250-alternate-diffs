@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">'Jim Brown' Is Still Dead, Isn't He?: A Jamaican Mystery</field>
+-    <field name="unittitle_teim">'Jim Brown' Is Still Dead, Isn't He?: A Jamaican Mystery</field>
++    <field name="unittitle_ssm">&#39;Jim Brown&#39; Is Still Dead, Isn&#39;t He?: A Jamaican Mystery</field>
++    <field name="unittitle_teim">&#39;Jim Brown&#39; Is Still Dead, Isn&#39;t He?: A Jamaican Mystery</field>
+     <field name="unitid_teim">RISM 23232</field>
+     <field name="unitid_ssm">RISM 23232</field>
+     <field name="creator_teim">Reiss, Spencer</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Jamaica.</field>
+     <field name="subject_sim">Crime and criminals</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Jamaica</field>
+     <field name="series_sim">Jamaica: Crime and Criminals</field>
+-    <field name="series_si">Jamaica &gt;&gt; Jamaica: Crime and Criminals &gt;&gt; 'Jim Brown' Is Still Dead, Isn't He?: A Jamaican Mystery</field>
+-    <field name="heading_ssm">'Jim Brown' Is Still Dead, Isn't He?: A Jamaican Mystery</field>
++    <field name="series_si">Jamaica &gt;&gt; Jamaica: Crime and Criminals &gt;&gt; &#39;Jim Brown&#39; Is Still Dead, Isn&#39;t He?: A Jamaican Mystery</field>
++    <field name="heading_ssm">&#39;Jim Brown&#39; Is Still Dead, Isn&#39;t He?: A Jamaican Mystery</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

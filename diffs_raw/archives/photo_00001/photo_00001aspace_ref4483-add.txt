@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Googie's Bar</field>
+-    <field name="unittitle_teim">Googie's Bar</field>
++    <field name="unittitle_ssm">Googie&#39;s Bar</field>
++    <field name="unittitle_teim">Googie&#39;s Bar</field>
+     <field name="unitid_teim">wsa_4_2_03</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636335</field>
+     <field name="unitid_ssm">wsa_4_2_03</field>
+@@ -33,8 +33,8 @@
+     <field name="geogname_ssm">Greenwich Village (New York, N.Y.)</field>
+     <field name="persname_teim">Katz, Ken</field>
+     <field name="persname_ssm">Katz, Ken</field>
+-    <field name="dao_teim">Googie's Bar: 1981</field>
+-    <field name="dao_ssm">Googie's Bar: 1981</field>
++    <field name="dao_teim">Googie&#39;s Bar: 1981</field>
++    <field name="dao_ssm">Googie&#39;s Bar: 1981</field>
+     <field name="ref_ssi">aspace_ref4483</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -50,11 +50,12 @@
+     <field name="place_ssm">Greenwich Village (New York, N.Y.)</field>
+     <field name="place_sim">Greenwich Village (New York, N.Y.)</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Sullivan Street</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Sullivan Street &gt;&gt; Googie's Bar</field>
+-    <field name="heading_ssm">Googie's Bar</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Sullivan Street &gt;&gt; Googie&#39;s Bar</field>
++    <field name="heading_ssm">Googie&#39;s Bar</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

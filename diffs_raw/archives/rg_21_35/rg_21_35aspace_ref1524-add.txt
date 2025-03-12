@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Asian/Pacific/American Institute</field>
+     <field name="collection_unitid_ssm">RG.21.35</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Felicia Lowe's Carved in Silence</field>
+-    <field name="unittitle_teim">Felicia Lowe's Carved in Silence</field>
++    <field name="unittitle_ssm">Felicia Lowe&#39;s Carved in Silence</field>
++    <field name="unittitle_teim">Felicia Lowe&#39;s Carved in Silence</field>
+     <field name="unitid_teim">RG2135_36</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/654056</field>
+     <field name="unitid_ssm">RG2135_36</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 20</field>
+     <field name="location_si">Box: 20</field>
+     <field name="collection_teim">Records of the Asian/Pacific/American Institute</field>
++    <field name="author_teim">Lesley Espenship, John Bence and Lindsay Dumas.  Additional accessions processed by Megan Findling and Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">RG.21.35</field>
+     <field name="series_sim">Series VI: Media</field>
+     <field name="series_sim">DVCs</field>
+-    <field name="series_si">Series VI: Media &gt;&gt; DVCs &gt;&gt; Felicia Lowe's Carved in Silence</field>
+-    <field name="heading_ssm">Felicia Lowe's Carved in Silence</field>
++    <field name="series_si">Series VI: Media &gt;&gt; DVCs &gt;&gt; Felicia Lowe&#39;s Carved in Silence</field>
++    <field name="heading_ssm">Felicia Lowe&#39;s Carved in Silence</field>
+     <field name="unitdate_ssm">2002 January 30</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">853</field>

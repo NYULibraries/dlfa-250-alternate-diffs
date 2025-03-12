@@ -1,0 +1,180 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,14 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Finding aid prepared by David O'Neill and Lisa Darms.</field>
+-    <field name="author_ssm">Finding aid prepared by David O'Neill and Lisa Darms.</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
++    <field name="author_ssm">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="unittitle_teim">New York University Archives Photograph Collection</field>
+     <field name="unittitle_ssm">New York University Archives Photograph Collection</field>
+     <field name="unitid_teim">PHOTO.00001</field>
+     <field name="unitid_ssm">PHOTO.00001</field>
+-    <field name="abstract_teim">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU's various component schools and its former University Heights campus (now Bronx Community College).</field>
+-    <field name="abstract_ssm">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU's various component schools and its former University Heights campus (now Bronx Community College).</field>
++    <field name="abstract_teim">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU&#39;s various component schools and its former University Heights campus (now Bronx Community College).</field>
++    <field name="abstract_ssm">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU&#39;s various component schools and its former University Heights campus (now Bronx Community College).</field>
+     <field name="creator_teim">New York University</field>
+     <field name="creator_ssm">New York University</field>
+     <field name="creator_ssm">New York University</field>
+@@ -120,7 +120,7 @@
+     <field name="creator_ssm">Orling, Alan S.</field>
+     <field name="creator_ssm">Rose, Ken</field>
+     <field name="creator_ssm">Imperatore, India</field>
+-    <field name="creator_ssm">Simmons, William R.</field>
++    <field name="creator_ssm">Simmons, William R. </field>
+     <field name="creator_ssm">Hutchings, C. D.</field>
+     <field name="creator_ssm">Rhychs, Will</field>
+     <field name="creator_ssm">Nguyễn, Huệ Chi</field>
+@@ -137,12 +137,12 @@
+     <field name="unitdate_normal_teim">1850/2010</field>
+     <field name="unitdate_normal_sim">1850/2010</field>
+     <field name="unitdate_inclusive_teim">1850s-2000s</field>
+-    <field name="scopecontent_teim">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU's various component schools and its former University Heights campus (now Bronx Community College).</field>
+-    <field name="bioghist_teim">The bulk of this collection contains photographic and print images of Washington Square Park and the surrounding area. Buildings that are part of New York University's Washington Square campus, extant as well as demolished are included in this collection.</field>
+-    <field name="bioghist_teim">There is a separate series for the the University Building, New York University's first permanent home. It was constructed on the northeast corner of the park between Washington Place and Waverly Place in 1833-34. Architects Ithiel Town, Alexander Jackson Davis, and James Dakin as well as NYU engineering professor David B. Douglass designed the university's first building in the Gothic Revival-style. This type of architectural style was meant to evoke the medieval buildings of Oxford and Cambridge and link the more modern and practical American curriculum the university was founded on to the long, rich tradition of English education.</field>
++    <field name="scopecontent_teim">The collection contains photographs that document the history of New York University and it surrounding environs, especially Washington Square Park and Greenwich Village. It includes images associated with NYU&#39;s various component schools and its former University Heights campus (now Bronx Community College).</field>
++    <field name="bioghist_teim">The bulk of this collection contains photographic and print images of Washington Square Park and the surrounding area. Buildings that are part of New York University&#39;s Washington Square campus, extant as well as demolished are included in this collection. </field>
++    <field name="bioghist_teim">There is a separate series for the the University Building, New York University&#39;s first permanent home. It was constructed on the northeast corner of the park between Washington Place and Waverly Place in 1833-34. Architects Ithiel Town, Alexander Jackson Davis, and James Dakin as well as NYU engineering professor David B. Douglass designed the university&#39;s first building in the Gothic Revival-style. This type of architectural style was meant to evoke the medieval buildings of Oxford and Cambridge and link the more modern and practical American curriculum the university was founded on to the long, rich tradition of English education.</field>
+     <field name="bioghist_teim">Initially, the building was too large for the student body to fill so residential rooms, studios, and laboratories were rented out to a variety of artists and inventors including Winslow Homer and Samuel F.B. Morse. In the late 19th century as the university expanded, the undergraduate college moved to the more spacious University Heights campus in the Bronx initially leading to the decline of the Washington Square campus and in 1894 the University Building was demolished. It was replaced by Main Building (now the Silver Center).</field>
+     <field name="bioghist_teim">Sources:</field>
+-    <field name="bioghist_teim">"The University Building." The University Quarterly 17 (May 1894): 116-123. "University Building." New York University Education Quarterly (Spring 1981): 20.</field>
++    <field name="bioghist_teim">&#34;The University Building.&#34; The University Quarterly 17 (May 1894): 116-123. &#34;University Building.&#34; New York University Education Quarterly (Spring 1981): 20.</field>
+     <field name="custodhist_teim">The Photography Collection consists of photographs that were separated from university administrative collections or received as part of regular accessions from the University Photo Bureau. The Photo Bureau was founded in 1952, and archived their own collections until the mid-1980s, when they began regularly transferring prints, contact sheets and negatives to the University archives. All prints received from the Photo Bureau and those separated from administrative collections were incoporated into existing subject-based series. The Washington Square Park and Washington Square Area series represent the subject categories selected by the University Archives for digitization in the Spring of 2008.</field>
+     <field name="corpname_teim">New York University Archives</field>
+     <field name="corpname_teim">New York University</field>
+@@ -158,6 +158,25 @@
+     <field name="geogname_teim">Washington Square (New York, N.Y.)</field>
+     <field name="geogname_ssm">Greenwich Village (New York, N.Y.)</field>
+     <field name="geogname_ssm">Washington Square (New York, N.Y.)</field>
++    <field name="subject_teim">Student activities.</field>
++    <field name="subject_teim">Chemistry.</field>
++    <field name="subject_teim">Pedagogy.</field>
++    <field name="subject_teim">Physics --Study and teaching --19th century.</field>
++    <field name="subject_teim">Theater.</field>
++    <field name="subject_teim">Architecture</field>
++    <field name="subject_teim">Historic buildings -- New York (State) -- New York.</field>
++    <field name="subject_teim">Church buildings.</field>
++    <field name="subject_teim">Windmills.</field>
++    <field name="subject_teim">Solar energy</field>
++    <field name="subject_teim">Business Education</field>
++    <field name="subject_teim">Crime and criminals</field>
++    <field name="subject_teim">Art.</field>
++    <field name="subject_teim">Dwellings.</field>
++    <field name="subject_teim">Medical care.</field>
++    <field name="subject_teim">Fraternal organizations</field>
++    <field name="subject_teim">Greek letter societies.</field>
++    <field name="subject_teim">Acculturation -- Brazil</field>
++    <field name="subject_teim">Architects and builders.</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
+@@ -278,7 +297,7 @@
+     <field name="creator_sim">Orling, Alan S.</field>
+     <field name="creator_sim">Rose, Ken</field>
+     <field name="creator_sim">Imperatore, India</field>
+-    <field name="creator_sim">Simmons, William R.</field>
++    <field name="creator_sim">Simmons, William R. </field>
+     <field name="creator_sim">Hutchings, C. D.</field>
+     <field name="creator_sim">Rhychs, Will</field>
+     <field name="creator_sim">Nguyễn, Huệ Chi</field>
+@@ -324,7 +343,7 @@
+     <field name="name_sim">New York University. School of Education, Health, Nursing, and Arts Professions</field>
+     <field name="name_sim">New York University -- Students</field>
+     <field name="name_sim">New York University. University Heights</field>
+-    <field name="name_sim">William A. Berbusse, Jr. Inc.</field>
++    <field name="name_sim">William A. Berbusse, Jr. Inc. </field>
+     <field name="name_sim">New York University. Main Building</field>
+     <field name="name_sim">Sihler, Henry J.</field>
+     <field name="name_sim">Sozio, A.F.</field>
+@@ -467,7 +486,7 @@
+     <field name="name_sim">Lee, Spike</field>
+     <field name="name_sim">Baldwin, Alec, 1958-</field>
+     <field name="name_sim">Cantor, Norman F.</field>
+-    <field name="name_sim">Simmons, William R.</field>
++    <field name="name_sim">Simmons, William R. </field>
+     <field name="name_sim">Hester, James M., 1924-</field>
+     <field name="name_sim">Wagner, Lindsay</field>
+     <field name="name_sim">Hutchings, C. D.</field>
+@@ -525,7 +544,7 @@
+     <field name="name_teim">New York University. School of Education, Health, Nursing, and Arts Professions</field>
+     <field name="name_teim">New York University -- Students</field>
+     <field name="name_teim">New York University. University Heights</field>
+-    <field name="name_teim">William A. Berbusse, Jr. Inc.</field>
++    <field name="name_teim">William A. Berbusse, Jr. Inc. </field>
+     <field name="name_teim">New York University. Main Building</field>
+     <field name="name_teim">Sihler, Henry J.</field>
+     <field name="name_teim">Sozio, A.F.</field>
+@@ -668,7 +687,7 @@
+     <field name="name_teim">Lee, Spike</field>
+     <field name="name_teim">Baldwin, Alec, 1958-</field>
+     <field name="name_teim">Cantor, Norman F.</field>
+-    <field name="name_teim">Simmons, William R.</field>
++    <field name="name_teim">Simmons, William R. </field>
+     <field name="name_teim">Hester, James M., 1924-</field>
+     <field name="name_teim">Wagner, Lindsay</field>
+     <field name="name_teim">Hutchings, C. D.</field>
+@@ -699,7 +718,7 @@
+     <field name="subject_sim">Student activities.</field>
+     <field name="subject_sim">Chemistry.</field>
+     <field name="subject_sim">Pedagogy.</field>
+-    <field name="subject_sim">Physics -- Study and teaching -- 19th century.</field>
++    <field name="subject_sim">Physics --Study and teaching --19th century.</field>
+     <field name="subject_sim">Theater.</field>
+     <field name="subject_sim">Architecture</field>
+     <field name="subject_sim">Historic buildings -- New York (State) -- New York.</field>
+@@ -715,25 +734,6 @@
+     <field name="subject_sim">Greek letter societies.</field>
+     <field name="subject_sim">Acculturation -- Brazil</field>
+     <field name="subject_sim">Architects and builders.</field>
+-    <field name="subject_teim">Student activities.</field>
+-    <field name="subject_teim">Chemistry.</field>
+-    <field name="subject_teim">Pedagogy.</field>
+-    <field name="subject_teim">Physics -- Study and teaching -- 19th century.</field>
+-    <field name="subject_teim">Theater.</field>
+-    <field name="subject_teim">Architecture</field>
+-    <field name="subject_teim">Historic buildings -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Church buildings.</field>
+-    <field name="subject_teim">Windmills.</field>
+-    <field name="subject_teim">Solar energy</field>
+-    <field name="subject_teim">Business Education</field>
+-    <field name="subject_teim">Crime and criminals</field>
+-    <field name="subject_teim">Art.</field>
+-    <field name="subject_teim">Dwellings.</field>
+-    <field name="subject_teim">Medical care.</field>
+-    <field name="subject_teim">Fraternal organizations</field>
+-    <field name="subject_teim">Greek letter societies.</field>
+-    <field name="subject_teim">Acculturation -- Brazil</field>
+-    <field name="subject_teim">Architects and builders.</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="material_type_sim">Aerial photographs</field>
+     <field name="material_type_sim">Photographs.</field>
+@@ -741,10 +741,10 @@
+     <field name="material_type_sim">stereoscopic photographs.</field>
+     <field name="material_type_sim">Engraving.</field>
+     <field name="material_type_sim">Negatives.</field>
+-    <field name="material_type_sim">blueprints (reprographic copies)</field>
++    <field name="material_type_sim">blueprints (reprographic copies) </field>
+     <field name="material_type_sim">Floor plans.</field>
+     <field name="material_type_sim">Architectural drawings (visual works)</field>
+-    <field name="material_type_sim">Construction and architecture.</field>
++    <field name="material_type_sim">Construction and architecture. </field>
+     <field name="material_type_ssm">Aerial photographs</field>
+     <field name="material_type_ssm">Photographs.</field>
+     <field name="material_type_ssm">Charcoal drawings.</field>
+@@ -751,10 +751,10 @@
+     <field name="material_type_ssm">stereoscopic photographs.</field>
+     <field name="material_type_ssm">Engraving.</field>
+     <field name="material_type_ssm">Negatives.</field>
+-    <field name="material_type_ssm">blueprints (reprographic copies)</field>
++    <field name="material_type_ssm">blueprints (reprographic copies) </field>
+     <field name="material_type_ssm">Floor plans.</field>
+     <field name="material_type_ssm">Architectural drawings (visual works)</field>
+-    <field name="material_type_ssm">Construction and architecture.</field>
++    <field name="material_type_ssm">Construction and architecture. </field>
+     <field name="heading_ssm">New York University Archives Photograph Collection</field>
+     <field name="unitdate_start_sim">1850</field>
+     <field name="unitdate_start_ssm">1850</field>

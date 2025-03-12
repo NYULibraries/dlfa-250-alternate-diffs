@@ -1,0 +1,73 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,14 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Annie Grunow. Additional materials were integrated and described by Margaret Fraser in 2010.</field>
+-    <field name="author_ssm">Annie Grunow. Additional materials were integrated and described by Margaret Fraser in 2010.</field>
++    <field name="author_teim">Annie Grunow.  Additional materials were integrated and described by Margaret Fraser in 2010.</field>
++    <field name="author_ssm">Annie Grunow.  Additional materials were integrated and described by Margaret Fraser in 2010.</field>
+     <field name="unittitle_teim">Records of the Jewish Culture Foundation</field>
+     <field name="unittitle_ssm">Records of the Jewish Culture Foundation</field>
+     <field name="unitid_teim">RG.12.11</field>
+     <field name="unitid_ssm">RG.12.11</field>
+-    <field name="abstract_teim">The Jewish Culture Foundation was a student group at NYU, and its records relate to the organization's administration and functions.</field>
+-    <field name="abstract_ssm">The Jewish Culture Foundation was a student group at NYU, and its records relate to the organization's administration and functions.</field>
++    <field name="abstract_teim">The Jewish Culture Foundation was a student group at NYU, and its records relate to the organization&#39;s administration and functions.</field>
++    <field name="abstract_ssm">The Jewish Culture Foundation was a student group at NYU, and its records relate to the organization&#39;s administration and functions.</field>
+     <field name="creator_teim">Jewish Culture Foundation</field>
+     <field name="creator_ssm">Jewish Culture Foundation</field>
+     <field name="creator_ssm">Jewish Culture Foundation</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_bulk_teim">1955-1990</field>
+     <field name="unitdate_inclusive_teim">1929-2001</field>
+     <field name="scopecontent_teim">The Jewish Culture Foundation was an NYU student organization representing and serving the Jewish students on campus. The collection covers the social, political and financial activities of the organization from its founding in 1937 until 2001, when student members were involved in relief efforts relating to September 11, 2001. The records include correspondence, budgets, election information, event flyers, calendars, JCF and related publications, and information about Jewish groups at other institutions.</field>
+-    <field name="bioghist_teim">The Jewish Culture Foundation was founded in 1937 by Abraham Katsh, chairman of the Department of Hebrew Culture and Education at NYU. Its goal was to serve the religious, cultural, and social needs of the Jewish student body on both the University Heights and Washington Square campuses. The group lobbied for kosher dining and university breaks on Jewish holidays and also organized events for Jewish holidays. They published the Shofar Press, NYU Pride, and Te'chiyat Hanefesh.</field>
++    <field name="bioghist_teim">The Jewish Culture Foundation was founded in 1937 by Abraham Katsh, chairman of the Department of Hebrew Culture and Education at NYU. Its goal was to serve the religious, cultural, and social needs of the Jewish student body on both the University Heights and Washington Square campuses. The group lobbied for kosher dining and university breaks on Jewish holidays and also organized events for Jewish holidays. They published the Shofar Press, NYU Pride, and Te&#39;chiyat Hanefesh.</field>
+     <field name="custodhist_teim">The first part of the records were transferred to the University Archives in 1981 by Naomi Olkon, who was the director of the Jewish Culture Foundation at that time. In 2010, the second half of the collection was moved to the University Archives and integrated with the earlier materials.</field>
+     <field name="corpname_teim">New York University Archives</field>
+     <field name="corpname_teim">Jewish Culture Foundation</field>
+@@ -50,19 +50,19 @@
+     <field name="subject_teim">Judaism.</field>
+     <field name="subject_teim">Passover.</field>
+     <field name="subject_teim">September 11 Terrorist Attacks, 2001.</field>
+-    <field name="subject_teim">Fasts and feasts |x Judaism.</field>
+-    <field name="subject_teim">Jewish college students.</field>
+-    <field name="subject_teim">Jews -- Dietary laws.</field>
+-    <field name="subject_teim">Judaism.</field>
+-    <field name="subject_teim">Passover.</field>
+-    <field name="subject_teim">September 11 Terrorist Attacks, 2001.</field>
+-    <field name="subject_teim">Fasts and feasts -- Judaism.</field>
++    <field name="subject_teim">Fasts and feasts |x Judaism. </field>
++    <field name="subject_teim">Jewish college students.</field>
++    <field name="subject_teim">Jews --Dietary laws.</field>
++    <field name="subject_teim">Judaism.</field>
++    <field name="subject_teim">Passover.</field>
++    <field name="subject_teim">September 11 Terrorist Attacks, 2001.</field>
++    <field name="subject_teim">Fasts and feasts --Judaism. </field>
+     <field name="subject_ssm">Jewish college students.</field>
+     <field name="subject_ssm">Jews |x Dietary laws.</field>
+     <field name="subject_ssm">Judaism.</field>
+     <field name="subject_ssm">Passover.</field>
+     <field name="subject_ssm">September 11 Terrorist Attacks, 2001.</field>
+-    <field name="subject_ssm">Fasts and feasts |x Judaism.</field>
++    <field name="subject_ssm">Fasts and feasts |x Judaism. </field>
+     <field name="collection_sim">Records of the Jewish Culture Foundation</field>
+     <field name="collection_ssm">Records of the Jewish Culture Foundation</field>
+     <field name="collection_teim">Records of the Jewish Culture Foundation</field>
+@@ -96,11 +96,11 @@
+     <field name="name_teim">Osserman, Wendy</field>
+     <field name="name_teim">Katsh, Abraham Isaac, 1908-1998</field>
+     <field name="subject_sim">Jewish college students.</field>
+-    <field name="subject_sim">Jews -- Dietary laws.</field>
++    <field name="subject_sim">Jews --Dietary laws.</field>
+     <field name="subject_sim">Judaism.</field>
+     <field name="subject_sim">Passover.</field>
+     <field name="subject_sim">September 11 Terrorist Attacks, 2001.</field>
+-    <field name="subject_sim">Fasts and feasts -- Judaism.</field>
++    <field name="subject_sim">Fasts and feasts --Judaism. </field>
+     <field name="heading_ssm">Records of the Jewish Culture Foundation</field>
+     <field name="unitdate_start_sim">1929</field>
+     <field name="unitdate_start_sim">1955</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[#21 Football]</field>
+-    <field name="unittitle_teim">[#21 Football]</field>
++    <field name="unittitle_ssm">[#21 Football] </field>
++    <field name="unittitle_teim">[#21 Football] </field>
+     <field name="unitid_teim">AV2990</field>
+     <field name="unitid_ssm">AV2990</field>
+     <field name="unitdate_teim">unknown</field>
+@@ -35,10 +35,11 @@
+     <field name="name_teim">New York University -- Sports</field>
+     <field name="subject_sim">Football.</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; [#21 Football]</field>
+-    <field name="heading_ssm">[#21 Football]</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; [#21 Football] </field>
++    <field name="heading_ssm">[#21 Football] </field>
+     <field name="unitdate_ssm">unknown</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

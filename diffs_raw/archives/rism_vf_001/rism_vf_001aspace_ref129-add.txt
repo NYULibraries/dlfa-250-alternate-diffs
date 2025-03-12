@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,8 +18,8 @@
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Annual Report of the Department of Agriculture and Fisheries</field>
+     <field name="unittitle_teim">Annual Report of the Department of Agriculture and Fisheries</field>
+-    <field name="unitid_teim">audience="internal" RISM 7465</field>
+-    <field name="unitid_ssm">audience="internal" RISM 7465</field>
++    <field name="unitid_teim">audience=&#34;internal&#34; RISM 7465</field>
++    <field name="unitid_ssm">audience=&#34;internal&#34; RISM 7465</field>
+     <field name="creator_teim">Anguilla. Agriculture &amp; Fisheries Department</field>
+     <field name="creator_ssm">Anguilla. Agriculture &amp; Fisheries Department</field>
+     <field name="creator_ssm">Anguilla. Agriculture &amp; Fisheries Department</field>
+@@ -49,6 +49,7 @@
+     <field name="place_sim">Anguilla</field>
+     <field name="subject_sim">Agriculture.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Anguilla</field>
+     <field name="series_sim">Anguilla: Agriculture</field>

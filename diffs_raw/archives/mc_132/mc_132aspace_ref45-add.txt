@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,10 @@
+     <field name="collection_ssm">The 1968 Revisited Exhibition Collection</field>
+     <field name="collection_unitid_ssm">MC.132</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series III: Additional Material</field>
+-    <field name="unittitle_teim">Series III: Additional Material</field>
++    <field name="unittitle_ssm">Series III: Additional Material
++</field>
++    <field name="unittitle_teim">Series III: Additional Material
++</field>
+     <field name="unitdate_teim">1969-1993</field>
+     <field name="ref_ssi">aspace_ref45</field>
+     <field name="repository_ssi">archives</field>
+@@ -19,9 +21,12 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">The 1968 Revisited Exhibition Collection</field>
++    <field name="author_teim">Elizabeth Alleva.</field>
+     <field name="collection_unitid_teim">MC.132</field>
+-    <field name="series_si">Series III: Additional Material</field>
+-    <field name="heading_ssm">Series III: Additional Material</field>
++    <field name="series_si">Series III: Additional Material
++</field>
++    <field name="heading_ssm">Series III: Additional Material
++</field>
+     <field name="unitdate_ssm">1969-1993</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

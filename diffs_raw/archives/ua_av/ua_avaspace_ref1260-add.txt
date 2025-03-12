@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">AV1999c</field>
+     <field name="unitid_ssm">AV1999c</field>
+     <field name="unitdate_teim">Around 1963</field>
+-    <field name="scopecontent_teim">This appears to be a lecture or demonstration for a dental or medical class. The label indicated it to be recordings of Dr. Sidney Hook's 1963 Introduction to Ethics class from Sunrise Semester.</field>
++    <field name="scopecontent_teim">This appears to be a lecture or demonstration for a dental or medical class. The label indicated it to be recordings of Dr. Sidney Hook&#39;s 1963 Introduction to Ethics class from Sunrise Semester.</field>
+     <field name="ref_ssi">aspace_ref1260</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -26,6 +26,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Dental or Medical Lecture</field>

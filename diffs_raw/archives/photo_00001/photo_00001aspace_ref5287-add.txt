@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref2866</field>
+     <field name="parent_ssm">aspace_ref5286</field>
+     <field name="parent_unittitles_ssm">Washington Square Area</field>
+-    <field name="parent_unittitles_ssm">West 11th Street #34 - Chancellor's Residence</field>
++    <field name="parent_unittitles_ssm">West 11th Street #34 - Chancellor&amp;#39;s Residence</field>
+     <field name="parent_unittitles_teim">Washington Square Area</field>
+-    <field name="parent_unittitles_teim">West 11th Street #34 - Chancellor's Residence</field>
++    <field name="parent_unittitles_teim">West 11th Street #34 - Chancellor&amp;#39;s Residence</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+@@ -38,10 +38,11 @@
+     <field name="location_si">Box: 182, Folder: 4, Item: 1</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+-    <field name="series_sim">West 11th Street #34 - Chancellor's Residence</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; West 11th Street #34 - Chancellor's Residence &gt;&gt; 34 West 11th Street, Backyard</field>
++    <field name="series_sim">West 11th Street #34 - Chancellor&amp;#39;s Residence</field>
++    <field name="series_si">Washington Square Area &gt;&gt; West 11th Street #34 - Chancellor&#39;s Residence &gt;&gt; 34 West 11th Street, Backyard</field>
+     <field name="heading_ssm">34 West 11th Street, Backyard</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>

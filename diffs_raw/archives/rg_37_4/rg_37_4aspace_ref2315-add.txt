@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4162</field>
+     <field name="unitid_ssm">cuid4162</field>
+     <field name="unitdate_teim">February 12, 1986</field>
+-    <field name="scopecontent_teim">Discussion and criticism of current practice in law school education. One speaker is NYU Professor of Law David A.J. Burns; the other is identified on the tape label only as "Burns." In the course of conversation it is learned that he attended Yale Law School in the 1960s.</field>
++    <field name="scopecontent_teim">Discussion and criticism of current practice in law school education. One speaker is NYU Professor of Law David A.J. Burns; the other is identified on the tape label only as &#34;Burns.&#34; In the course of conversation it is learned that he attended Yale Law School in the 1960s.</field>
+     <field name="corpname_teim">New York University. School of Law</field>
+     <field name="corpname_ssm">New York University. School of Law</field>
+     <field name="persname_teim">Richards, David A.J.</field>
+@@ -29,7 +29,7 @@
+     <field name="subject_teim">Law schools -- United States.</field>
+     <field name="subject_teim">Law teachers -- Cambridge (Mass.)</field>
+     <field name="subject_teim">Lawyer.</field>
+-    <field name="subject_teim">Law -- Study and teaching -- United States.</field>
++    <field name="subject_teim">Law --  Study and teaching -- United States.</field>
+     <field name="subject_teim">Law |x Study and teaching.</field>
+     <field name="subject_teim">Law -- United States.</field>
+     <field name="subject_teim">Law.</field>
+@@ -36,14 +36,14 @@
+     <field name="subject_teim">Law schools -- United States.</field>
+     <field name="subject_teim">Law teachers -- Cambridge (Mass.)</field>
+     <field name="subject_teim">Lawyer.</field>
+-    <field name="subject_teim">Law -- Study and teaching -- United States.</field>
+-    <field name="subject_teim">Law -- Study and teaching.</field>
++    <field name="subject_teim">Law --  Study and teaching -- United States.</field>
++    <field name="subject_teim">Law --Study and teaching.</field>
+     <field name="subject_teim">Law -- United States.</field>
+     <field name="subject_teim">Law.</field>
+     <field name="subject_ssm">Law schools -- United States.</field>
+     <field name="subject_ssm">Law teachers -- Cambridge (Mass.)</field>
+     <field name="subject_ssm">Lawyer.</field>
+-    <field name="subject_ssm">Law -- Study and teaching -- United States.</field>
++    <field name="subject_ssm">Law --  Study and teaching -- United States.</field>
+     <field name="subject_ssm">Law |x Study and teaching.</field>
+     <field name="subject_ssm">Law -- United States.</field>
+     <field name="subject_ssm">Law.</field>
+@@ -62,11 +62,12 @@
+     <field name="subject_sim">Law schools -- United States.</field>
+     <field name="subject_sim">Law teachers -- Cambridge (Mass.)</field>
+     <field name="subject_sim">Lawyer.</field>
+-    <field name="subject_sim">Law -- Study and teaching -- United States.</field>
+-    <field name="subject_sim">Law -- Study and teaching.</field>
++    <field name="subject_sim">Law --  Study and teaching -- United States.</field>
++    <field name="subject_sim">Law --Study and teaching.</field>
+     <field name="subject_sim">Law -- United States.</field>
+     <field name="subject_sim">Law.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/6/archival_objects/603479</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/603479</field>
+     <field name="unitdate_teim">1934-1936</field>
+-    <field name="scopecontent_teim">Includes correspondence with son Ernst, brother Fritz and mother Martha Courant as well as Hans Reich, Arthur Boehm, and Harald Cramer. Contains a copy of Martha Courant's last will and testament.</field>
++    <field name="scopecontent_teim">Includes correspondence with son Ernst, brother Fritz and mother Martha Courant as well as Hans Reich, Arthur Boehm, and Harald Cramer. Contains a copy of Martha Courant&#39;s last will and testament.</field>
+     <field name="ref_ssi">aspace_ref47</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 3, Folder: 16</field>
+     <field name="location_si">Box: 3, Folder: 16</field>
+     <field name="collection_teim">Richard Courant Papers</field>
++    <field name="author_teim">Katie Ehrlich. Additional processing and German translation by Ryan Dahn</field>
+     <field name="collection_unitid_teim">MC.150</field>
+     <field name="series_sim">Series I: Files from the Home of Ernst Courant</field>
+     <field name="series_sim">Subseries A: Correspondence</field>

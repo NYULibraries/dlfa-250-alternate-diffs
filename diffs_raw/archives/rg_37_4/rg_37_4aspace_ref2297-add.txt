@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,10 +21,10 @@
+     <field name="unitid_teim">cuid4149</field>
+     <field name="unitid_ssm">cuid4149</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">Unidentified speaker discusses Albert Einstein and religion, followed by Q&amp;A. The title of the talk seems to be based on the Einstein quote, "The Lord God is subtle, but malicious he is not."</field>
+-    <field name="persname_teim">Spinoza, Benedictus de, 1632-1677</field>
++    <field name="scopecontent_teim">Unidentified speaker discusses Albert Einstein and religion, followed by Q&amp;A. The title of the talk seems to be based on the Einstein quote, &#34;The Lord God is subtle, but malicious he is not.&#34;</field>
++    <field name="persname_teim">Spinoza,  Benedictus de, 1632-1677</field>
+     <field name="persname_teim">Einstein, Albert, 1879-1955</field>
+-    <field name="persname_ssm">Spinoza, Benedictus de, 1632-1677</field>
++    <field name="persname_ssm">Spinoza,  Benedictus de, 1632-1677</field>
+     <field name="persname_ssm">Einstein, Albert, 1879-1955</field>
+     <field name="subject_teim">Astrophysics</field>
+     <field name="subject_teim">Mathematical physics</field>
+@@ -33,7 +33,7 @@
+     <field name="subject_teim">Religion</field>
+     <field name="subject_teim">Astrophysics</field>
+     <field name="subject_teim">Mathematical physics</field>
+-    <field name="subject_teim">Physics -- Social aspects.</field>
++    <field name="subject_teim">Physics --Social aspects.</field>
+     <field name="subject_teim">Physics -- Study and teaching -- United States</field>
+     <field name="subject_teim">Religion</field>
+     <field name="subject_ssm">Astrophysics</field>
+@@ -50,16 +50,17 @@
+     <field name="location_ssm">Box: 72, Folder: 43</field>
+     <field name="location_ssm">Box: Shared University Archives 111, Item: 23</field>
+     <field name="location_si">Box: Shared University Archives 111, Item: 23</field>
+-    <field name="name_sim">Spinoza, Benedictus de, 1632-1677</field>
++    <field name="name_sim">Spinoza,  Benedictus de, 1632-1677</field>
+     <field name="name_sim">Einstein, Albert, 1879-1955</field>
+-    <field name="name_teim">Spinoza, Benedictus de, 1632-1677</field>
++    <field name="name_teim">Spinoza,  Benedictus de, 1632-1677</field>
+     <field name="name_teim">Einstein, Albert, 1879-1955</field>
+     <field name="subject_sim">Astrophysics</field>
+     <field name="subject_sim">Mathematical physics</field>
+-    <field name="subject_sim">Physics -- Social aspects.</field>
++    <field name="subject_sim">Physics --Social aspects.</field>
+     <field name="subject_sim">Physics -- Study and teaching -- United States</field>
+     <field name="subject_sim">Religion</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

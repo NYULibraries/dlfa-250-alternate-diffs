@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4169</field>
+     <field name="unitid_ssm">cuid4169</field>
+     <field name="unitdate_teim">2002</field>
+-    <field name="scopecontent_teim">David Rieff presents a thumbnail sketch the humanitatrian emergencies such as wars and disasters he has witnessed and written about over the last 10 years. Recently dubbed "Mr. Pessimism" by Time magazine, Rieff tries to offer, not so much pessimism, but "a warning about good things." He argues against the dangerous assumption that "all good things go together."</field>
++    <field name="scopecontent_teim">David Rieff presents a thumbnail sketch the humanitatrian emergencies such as wars and disasters he has witnessed and written about over the last 10 years. Recently dubbed &#34;Mr. Pessimism&#34; by Time magazine, Rieff tries to offer, not so much pessimism, but &#34;a warning about good things.&#34; He argues against the dangerous assumption that &#34;all good things go together.&#34;</field>
+     <field name="geogname_teim">Sarajevo (Bosnia and Hercegovina)</field>
+     <field name="geogname_ssm">Sarajevo (Bosnia and Hercegovina)</field>
+     <field name="persname_teim">Rieff, David</field>
+@@ -51,6 +51,7 @@
+     <field name="subject_sim">Humanitarian assistance</field>
+     <field name="subject_sim">Humanitarianism</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

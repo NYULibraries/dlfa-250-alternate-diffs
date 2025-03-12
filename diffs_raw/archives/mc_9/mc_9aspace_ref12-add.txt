@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1903/1906</field>
+     <field name="unitdate_normal_sim">1903/1906</field>
+     <field name="unitdate_inclusive_teim">Between 1903-1906</field>
+-    <field name="scopecontent_teim">Several handwritten lectures (and drafts) of North's travel lectures; advertisements for North's services as lecturer.</field>
++    <field name="scopecontent_teim">Several handwritten lectures (and drafts) of North&#39;s travel lectures; advertisements for North&#39;s services as lecturer.</field>
+     <field name="ref_ssi">aspace_ref12</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Frederick Alonzo North Papers</field>
++    <field name="author_teim">Susan Meier, April 1983.  Electronic version prepared by Catriona Schlosser.</field>
+     <field name="collection_unitid_teim">MC.9</field>
+     <field name="series_si">Series IV: Lectures</field>
+     <field name="heading_ssm">Series IV: Lectures</field>

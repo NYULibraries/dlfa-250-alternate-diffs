@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,12 +21,12 @@
+     <field name="unitid_teim">cuid4212</field>
+     <field name="unitid_ssm">cuid4212</field>
+     <field name="unitdate_teim">About 2003</field>
+-    <field name="scopecontent_teim">Former NYIH Fellow, Wolfgang Schivelbusch discusses the nature of shock taking into consideration both recent and distant events, specifically referencing the terrorist attacks of September 11, 2001 as well as World War I. He goes into events as "raw events" and then what the media portrays and creates in its wake.</field>
++    <field name="scopecontent_teim">Former NYIH Fellow, Wolfgang Schivelbusch discusses the nature of shock taking into consideration both recent and distant events, specifically referencing the terrorist attacks of September 11, 2001 as well as World War I. He goes into events as &#34;raw events&#34; and then what the media portrays and creates in its wake.</field>
+     <field name="persname_teim">Schivelbusch, Wolfgang</field>
+     <field name="persname_ssm">Schivelbusch, Wolfgang</field>
+     <field name="subject_teim">World War |y 1914-1918 |x History</field>
+     <field name="subject_teim">September 11 Terrorist Attacks, 2001.</field>
+-    <field name="subject_teim">World War -- 1914-1918 -- History</field>
++    <field name="subject_teim">World War --1914-1918 --History</field>
+     <field name="subject_teim">September 11 Terrorist Attacks, 2001.</field>
+     <field name="subject_ssm">World War |y 1914-1918 |x History</field>
+     <field name="subject_ssm">September 11 Terrorist Attacks, 2001.</field>
+@@ -40,9 +40,10 @@
+     <field name="location_si">Box: 72, Folder: 121</field>
+     <field name="name_sim">Schivelbusch, Wolfgang</field>
+     <field name="name_teim">Schivelbusch, Wolfgang</field>
+-    <field name="subject_sim">World War -- 1914-1918 -- History</field>
++    <field name="subject_sim">World War --1914-1918 --History</field>
+     <field name="subject_sim">September 11 Terrorist Attacks, 2001.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

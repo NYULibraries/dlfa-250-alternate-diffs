@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1977-07-28/1977-07-28</field>
+     <field name="unitdate_normal_sim">1977-07-28/1977-07-28</field>
+     <field name="unitdate_teim">1977-07-28</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr., artists Romare Bearden and John Roden, and sponsor Larry Wilson discuss the Brooklyn Museum of Art's exhibition Two Centuries of Black American Art.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr., artists Romare Bearden and John Roden, and sponsor Larry Wilson discuss the Brooklyn Museum of Art&#39;s exhibition Two Centuries of Black American Art.</field>
+     <field name="dao_teim">Rhoden, John, Romare Bearden, and Larry Wilson -- a sculptor, an artist, and a representative from Philip Morris, Inc.: 1977 July 28</field>
+     <field name="dao_ssm">Rhoden, John, Romare Bearden, and Larry Wilson -- a sculptor, an artist, and a representative from Philip Morris, Inc.: 1977 July 28</field>
+     <field name="ref_ssi">aspace_ref3919</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 50, Folder: 132</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

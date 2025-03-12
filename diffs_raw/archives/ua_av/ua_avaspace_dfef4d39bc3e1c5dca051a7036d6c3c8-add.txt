@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The NYU Lecture Series - 1978-79: "The Business Media: Ally, Analyst, Apologist or Antagonist?" with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
+-    <field name="unittitle_teim">The NYU Lecture Series - 1978-79: "The Business Media: Ally, Analyst, Apologist or Antagonist?" with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
++    <field name="unittitle_ssm">The NYU Lecture Series - 1978-79: &#34;The Business Media: Ally, Analyst, Apologist or Antagonist?&#34; with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
++    <field name="unittitle_teim">The NYU Lecture Series - 1978-79: &#34;The Business Media: Ally, Analyst, Apologist or Antagonist?&#34; with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
+     <field name="unitid_teim">AV284</field>
+     <field name="unitid_ssm">AV284</field>
+     <field name="unitdate_normal_ssm">1978-09-27/1978-09-27</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_teim">1978-09-27</field>
+     <field name="unitdate_teim">1979-03-05</field>
+     <field name="scopecontent_teim">From the Media 78 Conference.</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 25 min.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 25 min.</field>
+     <field name="ref_ssi">aspace_dfef4d39bc3e1c5dca051a7036d6c3c8</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -37,10 +37,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV284</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV284</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - 1978-79: "The Business Media: Ally, Analyst, Apologist or Antagonist?" with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
+-    <field name="heading_ssm">The NYU Lecture Series - 1978-79: "The Business Media: Ally, Analyst, Apologist or Antagonist?" with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - 1978-79: &#34;The Business Media: Ally, Analyst, Apologist or Antagonist?&#34; with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
++    <field name="heading_ssm">The NYU Lecture Series - 1978-79: &#34;The Business Media: Ally, Analyst, Apologist or Antagonist?&#34; with Bob Bartley, WSJ; Bob Flaherty, Forbes; and Prof. Irving Kristol, NYU. Reel II of II.</field>
+     <field name="unitdate_ssm">1978-09-27 1979-03-05</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">263</field>

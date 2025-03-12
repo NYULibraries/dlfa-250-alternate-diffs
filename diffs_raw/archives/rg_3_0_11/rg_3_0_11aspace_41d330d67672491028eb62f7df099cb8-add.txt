@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of the President (Oliva)</field>
+     <field name="collection_unitid_ssm">RG.3.0.11</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Gallatin Dean's Council</field>
+-    <field name="unittitle_teim">Gallatin Dean's Council</field>
++    <field name="unittitle_ssm">Gallatin Dean&#39;s Council</field>
++    <field name="unittitle_teim">Gallatin Dean&#39;s Council</field>
+     <field name="unitdate_normal_ssm">1996/1997</field>
+     <field name="unitdate_normal_teim">1996/1997</field>
+     <field name="unitdate_normal_sim">1996/1997</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 103, Folder: 6</field>
+     <field name="location_si">Box: 103, Folder: 6</field>
+     <field name="collection_teim">Records of the Office of the President (Oliva)</field>
++    <field name="author_teim">Finding aid prepared by University Archives staff. Inventory prepared by Stephanie Schmeling with assistance from Hester Goodwin. Final container list prepared by Lauren Stark.</field>
+     <field name="collection_unitid_teim">RG.3.0.11</field>
+     <field name="series_sim">Series VII. Governance</field>
+-    <field name="series_si">Series VII. Governance &gt;&gt; Gallatin Dean's Council</field>
+-    <field name="heading_ssm">Gallatin Dean's Council</field>
++    <field name="series_si">Series VII. Governance &gt;&gt; Gallatin Dean&#39;s Council</field>
++    <field name="heading_ssm">Gallatin Dean&#39;s Council</field>
+     <field name="unitdate_start_sim">1996</field>
+     <field name="unitdate_start_ssm">1996</field>
+     <field name="unitdate_start_si">1996</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Just a "Plane" Hop and You're In Cuba</field>
+-    <field name="unittitle_teim">Just a "Plane" Hop and You're In Cuba</field>
++    <field name="unittitle_ssm">Just a &#34;Plane&#34; Hop and You&#39;re In Cuba</field>
++    <field name="unittitle_teim">Just a &#34;Plane&#34; Hop and You&#39;re In Cuba</field>
+     <field name="creator_teim">Instituto Cubano del Turismo</field>
+     <field name="creator_ssm">Instituto Cubano del Turismo</field>
+     <field name="creator_ssm">Instituto Cubano del Turismo</field>
+@@ -40,11 +40,12 @@
+     <field name="place_ssm">Cuba.</field>
+     <field name="place_sim">Cuba.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Cuba</field>
+     <field name="series_sim">Cuba: Description and Travel</field>
+-    <field name="series_si">Cuba &gt;&gt; Cuba: Description and Travel &gt;&gt; Just a "Plane" Hop and You're In Cuba</field>
+-    <field name="heading_ssm">Just a "Plane" Hop and You're In Cuba</field>
++    <field name="series_si">Cuba &gt;&gt; Cuba: Description and Travel &gt;&gt; Just a &#34;Plane&#34; Hop and You&#39;re In Cuba</field>
++    <field name="heading_ssm">Just a &#34;Plane&#34; Hop and You&#39;re In Cuba</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

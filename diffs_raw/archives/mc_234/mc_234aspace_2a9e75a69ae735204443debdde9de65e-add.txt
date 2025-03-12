@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Reddish-brown ceramic warthog with the text "Arkansas Razorback" on its back</field>
++    <field name="scopecontent_teim">Reddish-brown ceramic warthog with the text &#34;Arkansas Razorback&#34; on its back</field>
+     <field name="ref_ssi">aspace_2a9e75a69ae735204443debdde9de65e</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 22, Item: 8</field>
+     <field name="location_si">Box: 22, Item: 8</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series I: Single Pig Figurines</field>
+     <field name="series_sim">Subseries I J: Marzipan, Soap, and Clay Pig Figurines</field>

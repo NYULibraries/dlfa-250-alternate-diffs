@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Collection of Late 19th Century Photographic Materials</field>
+     <field name="collection_unitid_ssm">MC.230</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Diagram -- Rowland's Apparatus</field>
+-    <field name="unittitle_teim">Diagram -- Rowland's Apparatus</field>
++    <field name="unittitle_ssm">Diagram -- Rowland&#39;s Apparatus</field>
++    <field name="unittitle_teim">Diagram -- Rowland&#39;s Apparatus</field>
+     <field name="unitid_teim">cuid14762</field>
+     <field name="unitid_ssm">cuid14762</field>
+     <field name="unitdate_normal_ssm">1863/1899</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1863/1899</field>
+     <field name="unitdate_normal_sim">1863/1899</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="dao_teim">Rowland's apparatus (4): undated</field>
+-    <field name="dao_ssm">Rowland's apparatus (4): undated</field>
++    <field name="dao_teim">Rowland&#39;s apparatus (4): undated</field>
++    <field name="dao_ssm">Rowland&#39;s apparatus (4): undated</field>
+     <field name="ref_ssi">aspace_ref841</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,10 +33,11 @@
+     <field name="location_si">Box: 33, Folder: 4</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.230</field>
+     <field name="series_sim">Series VII. Lecture Presentation Support Images</field>
+-    <field name="series_si">Series VII. Lecture Presentation Support Images &gt;&gt; Diagram -- Rowland's Apparatus</field>
+-    <field name="heading_ssm">Diagram -- Rowland's Apparatus</field>
++    <field name="series_si">Series VII. Lecture Presentation Support Images &gt;&gt; Diagram -- Rowland&#39;s Apparatus</field>
++    <field name="heading_ssm">Diagram -- Rowland&#39;s Apparatus</field>
+     <field name="unitdate_start_sim">1863</field>
+     <field name="unitdate_start_ssm">1863</field>
+     <field name="unitdate_start_si">1863</field>

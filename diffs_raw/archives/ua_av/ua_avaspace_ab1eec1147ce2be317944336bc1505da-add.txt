@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">University Broadcast Lab - Fall 1976: "Lance Hayward: His Music, His Magic," produced by Tom Solomon. Reel I of I.</field>
+-    <field name="unittitle_teim">University Broadcast Lab - Fall 1976: "Lance Hayward: His Music, His Magic," produced by Tom Solomon. Reel I of I.</field>
++    <field name="unittitle_ssm">University Broadcast Lab - Fall 1976: &#34;Lance Hayward: His Music, His Magic,&#34; produced by Tom Solomon. Reel I of I. </field>
++    <field name="unittitle_teim">University Broadcast Lab - Fall 1976: &#34;Lance Hayward: His Music, His Magic,&#34; produced by Tom Solomon. Reel I of I. </field>
+     <field name="unitid_teim">AV274</field>
+     <field name="unitid_ssm">AV274</field>
+     <field name="unitdate_normal_ssm">1976-11-01/1976-11-01</field>
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1976-11-01/1976-11-01</field>
+     <field name="unitdate_teim">1976-11-01</field>
+     <field name="scopecontent_teim">Housing annotations: The series program is included with the tape.</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 30 min., Preservation Note: Original recording contains noticeable electronic hum.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 30 min., Preservation Note: Original recording contains noticeable electronic hum.</field>
+     <field name="ref_ssi">aspace_ab1eec1147ce2be317944336bc1505da</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,10 +33,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV274</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV274</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; University Broadcast Lab - Fall 1976: "Lance Hayward: His Music, His Magic," produced by Tom Solomon. Reel I of I.</field>
+-    <field name="heading_ssm">University Broadcast Lab - Fall 1976: "Lance Hayward: His Music, His Magic," produced by Tom Solomon. Reel I of I.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; University Broadcast Lab - Fall 1976: &#34;Lance Hayward: His Music, His Magic,&#34; produced by Tom Solomon. Reel I of I. </field>
++    <field name="heading_ssm">University Broadcast Lab - Fall 1976: &#34;Lance Hayward: His Music, His Magic,&#34; produced by Tom Solomon. Reel I of I. </field>
+     <field name="unitdate_ssm">1976-11-01</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">264</field>

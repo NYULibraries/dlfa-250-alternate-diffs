@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4204</field>
+     <field name="unitid_ssm">cuid4204</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">This tape is labeled "Censorship Seminar 2/25, SCAMMEL," which may have been referencing a talk given by author and translator Michael Scammell during the February 25 session of the NYIH 1982 Censorship Seminar. However, on listening to the tape, the content is of a discussion and slideshow lead by art historian Anne Hollander. Hollander, an art historian whose focus is on the pictorial depiction of dress and fashion in works of art throughout history discusses fashion and clothing in early cinema.</field>
++    <field name="scopecontent_teim">This tape is labeled &#34;Censorship Seminar 2/25, SCAMMEL,&#34; which may have been referencing a talk given by author and translator Michael Scammell during the February 25 session of the NYIH 1982 Censorship Seminar. However, on listening to the tape, the content is of a discussion and slideshow lead by art historian Anne Hollander. Hollander, an art historian whose focus is on the pictorial depiction of dress and fashion in works of art throughout history discusses fashion and clothing in early cinema.</field>
+     <field name="genreform_teim">Film.</field>
+     <field name="genreform_ssm">Film.</field>
+     <field name="persname_teim">Hollander, Anne</field>
+@@ -53,6 +53,7 @@
+     <field name="subject_sim">Fashion in art</field>
+     <field name="subject_sim">Silent films</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

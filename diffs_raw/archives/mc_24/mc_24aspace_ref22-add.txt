@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">University College Senior Theses</field>
+     <field name="collection_unitid_ssm">MC.24</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Gorton, James Treat, "Jean Baptiste de Lemark: His Life and Work"</field>
+-    <field name="unittitle_teim">Gorton, James Treat, "Jean Baptiste de Lemark: His Life and Work"</field>
++    <field name="unittitle_ssm">Gorton, James Treat, &#34;Jean Baptiste de Lemark: His Life and Work&#34;</field>
++    <field name="unittitle_teim">Gorton, James Treat, &#34;Jean Baptiste de Lemark: His Life and Work&#34;</field>
+     <field name="unitdate_teim">March 1898</field>
+     <field name="ref_ssi">aspace_ref22</field>
+     <field name="repository_ssi">archives</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 1, Folder: 4</field>
+     <field name="location_si">Box: 1, Folder: 4</field>
+     <field name="collection_teim">University College Senior Theses</field>
++    <field name="author_teim">Steven A. Walker.</field>
+     <field name="collection_unitid_teim">MC.24</field>
+-    <field name="series_si">Gorton, James Treat, "Jean Baptiste de Lemark: His Life and Work"</field>
+-    <field name="heading_ssm">Gorton, James Treat, "Jean Baptiste de Lemark: His Life and Work"</field>
++    <field name="series_si">Gorton, James Treat, &#34;Jean Baptiste de Lemark: His Life and Work&#34;</field>
++    <field name="heading_ssm">Gorton, James Treat, &#34;Jean Baptiste de Lemark: His Life and Work&#34;</field>
+     <field name="unitdate_ssm">March 1898</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4</field>

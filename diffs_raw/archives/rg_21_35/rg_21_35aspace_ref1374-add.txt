@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Asian/Pacific/American Institute</field>
+     <field name="collection_unitid_ssm">RG.21.35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Who's Next? North Korea and Beyond Teach In</field>
+-    <field name="unittitle_teim">Who's Next? North Korea and Beyond Teach In</field>
++    <field name="unittitle_ssm">Who&#39;s Next? North Korea and Beyond Teach In</field>
++    <field name="unittitle_teim">Who&#39;s Next? North Korea and Beyond Teach In</field>
+     <field name="unitid_teim">cuid530</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/654230</field>
+     <field name="unitid_ssm">cuid530</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 19</field>
+     <field name="location_si">Box: 19</field>
+     <field name="collection_teim">Records of the Asian/Pacific/American Institute</field>
++    <field name="author_teim">Lesley Espenship, John Bence and Lindsay Dumas.  Additional accessions processed by Megan Findling and Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">RG.21.35</field>
+     <field name="series_sim">Series VI: Media</field>
+     <field name="series_sim">DVCAM</field>
+-    <field name="series_si">Series VI: Media &gt;&gt; DVCAM &gt;&gt; Who's Next? North Korea and Beyond Teach In</field>
+-    <field name="heading_ssm">Who's Next? North Korea and Beyond Teach In</field>
++    <field name="series_si">Series VI: Media &gt;&gt; DVCAM &gt;&gt; Who&#39;s Next? North Korea and Beyond Teach In</field>
++    <field name="heading_ssm">Who&#39;s Next? North Korea and Beyond Teach In</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1026</field>
+   </doc>

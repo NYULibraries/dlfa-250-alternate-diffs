@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1957/1957</field>
+     <field name="unitdate_normal_sim">1957/1957</field>
+     <field name="unitdate_inclusive_teim">8 January 1957</field>
+-    <field name="scopecontent_teim">The game was played at Princeton University's Dillon Gymnasium.</field>
++    <field name="scopecontent_teim">The game was played at Princeton University&#39;s Dillon Gymnasium.</field>
+     <field name="corpname_teim">Winik Films Corporation</field>
+     <field name="corpname_teim">Princeton University</field>
+     <field name="corpname_teim">Columbia University</field>
+@@ -55,6 +55,7 @@
+     <field name="name_teim">New York University -- Sports</field>
+     <field name="subject_sim">Basketball.</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Columbia University vs. Princeton University</field>

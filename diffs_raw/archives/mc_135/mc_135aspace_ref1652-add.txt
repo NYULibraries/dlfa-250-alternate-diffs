@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1937/1954</field>
+     <field name="unitdate_normal_sim">1937/1954</field>
+     <field name="unitdate_inclusive_teim">circa 1937-1954</field>
+-    <field name="scopecontent_teim">Series VIII contains film footage of different cities and countries around the world including Paris, San Francisco, and Mexico. Also included is footage of the 1939 World's Fair.</field>
++    <field name="scopecontent_teim">Series VIII contains film footage of different cities and countries around the world including Paris, San Francisco, and Mexico. Also included is footage of the 1939 World&#39;s Fair.</field>
+     <field name="ref_ssi">aspace_ref1652</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Oscar J. Falnes Papers</field>
++    <field name="author_teim">University Archives staff. Electronic inventory prepared by Laura Thiessen in 2005. Reprocessed in 2012 by Aleksandr Gelfand</field>
+     <field name="collection_unitid_teim">MC.135</field>
+     <field name="series_si">Series VIII: Films</field>
+     <field name="heading_ssm">Series VIII: Films</field>

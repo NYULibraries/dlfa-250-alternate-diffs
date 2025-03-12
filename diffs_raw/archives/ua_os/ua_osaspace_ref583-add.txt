@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">2003/2003</field>
+     <field name="unitdate_normal_sim">2003/2003</field>
+     <field name="unitdate_teim">March 3, 2003</field>
+-    <field name="scopecontent_teim">2003 Legislative Resolution honoring John Sexton and NYU's dedication to the community of New York City, signed by June Egeland (clerk).</field>
++    <field name="scopecontent_teim">2003 Legislative Resolution honoring John Sexton and NYU&#39;s dedication to the community of New York City, signed by June Egeland (clerk).</field>
+     <field name="ref_ssi">aspace_ref583</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">oversize: OS Box 2</field>
+     <field name="location_si">oversize: OS Box 2</field>
+     <field name="collection_teim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
++    <field name="author_teim">Hester Goodwin. Additional processing by Salome Jeronimo and Stacey Flatt.</field>
+     <field name="collection_unitid_teim">OS</field>
+     <field name="series_sim">Series IV: Certificates, Diplomas, and Proclamations</field>
+     <field name="series_sim">Subseries A: Awards and Certificates</field>

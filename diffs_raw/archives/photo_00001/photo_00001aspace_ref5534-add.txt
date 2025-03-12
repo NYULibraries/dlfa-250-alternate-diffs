@@ -1,0 +1,53 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref5329</field>
+     <field name="parent_ssm">aspace_ref5533</field>
+     <field name="parent_unittitles_ssm">University Building</field>
+-    <field name="parent_unittitles_ssm">University Building - Interior, Hennessy's Studio</field>
++    <field name="parent_unittitles_ssm">University Building - Interior, Hennessy&amp;#39;s Studio</field>
+     <field name="parent_unittitles_teim">University Building</field>
+-    <field name="parent_unittitles_teim">University Building - Interior, Hennessy's Studio</field>
++    <field name="parent_unittitles_teim">University Building - Interior, Hennessy&amp;#39;s Studio</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">University Building, Interior - Hennessy's Studio</field>
+-    <field name="unittitle_teim">University Building, Interior - Hennessy's Studio</field>
++    <field name="unittitle_ssm">University Building, Interior - Hennessy&#39;s Studio</field>
++    <field name="unittitle_teim">University Building, Interior - Hennessy&#39;s Studio</field>
+     <field name="unitid_teim">CB_UB_4_7_01</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636680</field>
+     <field name="unitid_ssm">CB_UB_4_7_01</field>
+@@ -35,8 +35,8 @@
+     <field name="persname_teim">Hennessy, William John, 1839-1917</field>
+     <field name="persname_ssm">Jones, Theodore Francis, 1885-1968</field>
+     <field name="persname_ssm">Hennessy, William John, 1839-1917</field>
+-    <field name="dao_teim">University Building, Interior - Hennessy's Studio: 1866</field>
+-    <field name="dao_ssm">University Building, Interior - Hennessy's Studio: 1866</field>
++    <field name="dao_teim">University Building, Interior - Hennessy&#39;s Studio: 1866</field>
++    <field name="dao_ssm">University Building, Interior - Hennessy&#39;s Studio: 1866</field>
+     <field name="ref_ssi">aspace_ref5534</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -54,11 +54,12 @@
+     <field name="name_teim">Hennessy, William John, 1839-1917</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">University Building</field>
+-    <field name="series_sim">University Building - Interior, Hennessy's Studio</field>
+-    <field name="series_si">University Building &gt;&gt; University Building - Interior, Hennessy's Studio &gt;&gt; University Building, Interior - Hennessy's Studio</field>
+-    <field name="heading_ssm">University Building, Interior - Hennessy's Studio</field>
++    <field name="series_sim">University Building - Interior, Hennessy&amp;#39;s Studio</field>
++    <field name="series_si">University Building &gt;&gt; University Building - Interior, Hennessy&#39;s Studio &gt;&gt; University Building, Interior - Hennessy&#39;s Studio</field>
++    <field name="heading_ssm">University Building, Interior - Hennessy&#39;s Studio</field>
+     <field name="unitdate_start_sim">1866</field>
+     <field name="unitdate_start_ssm">1866</field>
+     <field name="unitdate_start_si">1866</field>

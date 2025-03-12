@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Cultural Symbols and High Population Density in Bermuda's Game Society</field>
+-    <field name="unittitle_teim">Cultural Symbols and High Population Density in Bermuda's Game Society</field>
++    <field name="unittitle_ssm">Cultural Symbols and High Population Density in Bermuda&#39;s Game Society</field>
++    <field name="unittitle_teim">Cultural Symbols and High Population Density in Bermuda&#39;s Game Society</field>
+     <field name="unitid_teim">RISM 16943</field>
+     <field name="unitid_ssm">RISM 16943</field>
+     <field name="creator_teim">Manning, Frank E.</field>
+@@ -45,11 +45,12 @@
+     <field name="place_ssm">Bermuda Islands.</field>
+     <field name="place_sim">Bermuda Islands.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Bermuda</field>
+     <field name="series_sim">Bermuda: Social Conditions</field>
+-    <field name="series_si">Bermuda &gt;&gt; Bermuda: Social Conditions &gt;&gt; Cultural Symbols and High Population Density in Bermuda's Game Society</field>
+-    <field name="heading_ssm">Cultural Symbols and High Population Density in Bermuda's Game Society</field>
++    <field name="series_si">Bermuda &gt;&gt; Bermuda: Social Conditions &gt;&gt; Cultural Symbols and High Population Density in Bermuda&#39;s Game Society</field>
++    <field name="heading_ssm">Cultural Symbols and High Population Density in Bermuda&#39;s Game Society</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

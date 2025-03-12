@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_88</field>
+     <field name="parent_ssi">aspace_ref27</field>
+     <field name="parent_ssm">aspace_ref27</field>
+-    <field name="parent_unittitles_ssm">Series II: SDS Material, Chi-Reston Papers, SDS "Successors"</field>
+-    <field name="parent_unittitles_teim">Series II: SDS Material, Chi-Reston Papers, SDS "Successors"</field>
++    <field name="parent_unittitles_ssm">Series II: SDS Material, Chi-Reston Papers, SDS &amp;#34;Successors&amp;#34;</field>
++    <field name="parent_unittitles_teim">Series II: SDS Material, Chi-Reston Papers, SDS &amp;#34;Successors&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John G. Mason Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 1, Folder: 8</field>
+     <field name="location_si">Box: 1, Folder: 8</field>
+     <field name="collection_teim">John G. Mason Papers</field>
++    <field name="author_teim">Peter Braunstein.</field>
+     <field name="collection_unitid_teim">MC.88</field>
+-    <field name="series_sim">Series II: SDS Material, Chi-Reston Papers, SDS "Successors"</field>
+-    <field name="series_si">Series II: SDS Material, Chi-Reston Papers, SDS "Successors" &gt;&gt; SDS Period #2: Regional &amp; NYU Chapter</field>
++    <field name="series_sim">Series II: SDS Material, Chi-Reston Papers, SDS &amp;#34;Successors&amp;#34;</field>
++    <field name="series_si">Series II: SDS Material, Chi-Reston Papers, SDS &#34;Successors&#34; &gt;&gt; SDS Period #2: Regional &amp; NYU Chapter</field>
+     <field name="heading_ssm">SDS Period #2: Regional &amp; NYU Chapter</field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_ssm">1966</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Secretary's Day</field>
+-    <field name="unittitle_teim">The Secretary's Day</field>
++    <field name="unittitle_ssm">The Secretary&#39;s Day</field>
++    <field name="unittitle_teim">The Secretary&#39;s Day</field>
+     <field name="unitid_teim">AV5160</field>
+     <field name="unitid_ssm">AV5160</field>
+     <field name="creator_teim">Agnew, Peter Lawrence, 1901-</field>
+@@ -42,10 +42,11 @@
+     <field name="name_teim">Coronet Instructional Films</field>
+     <field name="name_teim">Agnew, Peter Lawrence, 1901-</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; The Secretary's Day</field>
+-    <field name="heading_ssm">The Secretary's Day</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; The Secretary&#39;s Day</field>
++    <field name="heading_ssm">The Secretary&#39;s Day</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

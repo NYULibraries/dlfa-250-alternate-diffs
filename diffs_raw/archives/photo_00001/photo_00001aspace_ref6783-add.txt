@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref5578</field>
+     <field name="parent_ssm">aspace_ref6782</field>
+     <field name="parent_unittitles_ssm">Washington Square Campus Buildings</field>
+-    <field name="parent_unittitles_ssm">Galleria (Philip Johnson's Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
++    <field name="parent_unittitles_ssm">Galleria (Philip Johnson&amp;#39;s Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
+     <field name="parent_unittitles_teim">Washington Square Campus Buildings</field>
+-    <field name="parent_unittitles_teim">Galleria (Philip Johnson's Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
++    <field name="parent_unittitles_teim">Galleria (Philip Johnson&amp;#39;s Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Galleria Proposal, Rendering</field>
+-    <field name="unittitle_teim">Galleria Proposal, Rendering</field>
++    <field name="unittitle_ssm">Galleria Proposal,  Rendering</field>
++    <field name="unittitle_teim">Galleria Proposal,  Rendering</field>
+     <field name="unitid_teim">UA_PHOTO_001_ref6783</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/637319</field>
+     <field name="unitid_ssm">UA_PHOTO_001_ref6783</field>
+@@ -44,11 +44,12 @@
+     <field name="name_teim">New York University -- Buildings</field>
+     <field name="subject_sim">Architecture</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Campus Buildings</field>
+-    <field name="series_sim">Galleria (Philip Johnson's Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
+-    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Galleria (Philip Johnson's Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations) &gt;&gt; Galleria Proposal, Rendering</field>
+-    <field name="heading_ssm">Galleria Proposal, Rendering</field>
++    <field name="series_sim">Galleria (Philip Johnson&amp;#39;s Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations)</field>
++    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Galleria (Philip Johnson&#39;s Proposed Enclosure of Washington Sq. East, Model/Rendering and Presentations) &gt;&gt; Galleria Proposal,  Rendering</field>
++    <field name="heading_ssm">Galleria Proposal,  Rendering</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

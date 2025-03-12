@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,10 @@
+     <field name="collection_ssm">New York University Archives Photographic Slides Collection</field>
+     <field name="collection_unitid_ssm">MC.339</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Binder 47A: Slide Presentations</field>
+-    <field name="unittitle_teim">Binder 47A: Slide Presentations</field>
++    <field name="unittitle_ssm">Binder 47A: Slide Presentations
++</field>
++    <field name="unittitle_teim">Binder 47A: Slide Presentations
++</field>
+     <field name="unitdate_normal_ssm">1987/1995</field>
+     <field name="unitdate_normal_teim">1987/1995</field>
+     <field name="unitdate_normal_sim">1987/1995</field>
+@@ -24,9 +26,12 @@
+     <field name="location_ssm">Box: 47A</field>
+     <field name="location_si">Box: 47A</field>
+     <field name="collection_teim">New York University Archives Photographic Slides Collection</field>
++    <field name="author_teim">Megan O&#39;Shea</field>
+     <field name="collection_unitid_teim">MC.339</field>
+-    <field name="series_si">Binder 47A: Slide Presentations</field>
+-    <field name="heading_ssm">Binder 47A: Slide Presentations</field>
++    <field name="series_si">Binder 47A: Slide Presentations
++</field>
++    <field name="heading_ssm">Binder 47A: Slide Presentations
++</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

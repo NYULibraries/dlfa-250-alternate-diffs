@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1974-10-09/1974-10-09</field>
+     <field name="unitdate_normal_sim">1974-10-09/1974-10-09</field>
+     <field name="unitdate_teim">1974-10-09</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Dick Gidron discuss the scope and meaning of Gidron's business Dick Gidron Cadillacs, which became the first Black-owned Cadillac dealership in New York City when it opened in the Bronx in 1972.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Dick Gidron discuss the scope and meaning of Gidron&#39;s business Dick Gidron Cadillacs, which became the first Black-owned Cadillac dealership in New York City when it opened in the Bronx in 1972.</field>
+     <field name="dao_teim">Gidron, Dick -- business owner of Dick Gidron Cadillacs.: 1974 October 9</field>
+     <field name="dao_ssm">Gidron, Dick -- business owner of Dick Gidron Cadillacs.: 1974 October 9</field>
+     <field name="ref_ssi">aspace_ref4030</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 55, Folder: 191</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Clippings</field>
+     <field name="unittitle_teim">Series I: Clippings</field>
+-    <field name="scopecontent_teim">Materials in Series I include newspaper and magazine clippings from 1960-1973 including articles related to student strikes and Hester's reflections on serving ten years as NYU's President.</field>
++    <field name="scopecontent_teim">Materials in Series I include newspaper and magazine clippings from 1960-1973 including articles related to student strikes and Hester&#39;s reflections on serving ten years as NYU&#39;s President.</field>
+     <field name="ref_ssi">aspace_ref2</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">James Hester Clippings Collection</field>
++    <field name="author_teim">Tanya Elder in 1997. Additional processing by Nathasha Alvarez in 2012.</field>
+     <field name="collection_unitid_teim">MC.149</field>
+     <field name="series_si">Series I: Clippings</field>
+     <field name="heading_ssm">Series I: Clippings</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frederick Alonzo North Papers</field>
+     <field name="collection_unitid_ssm">MC.9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Address: Supt. North's address before the Ocean County School Board Association</field>
+-    <field name="unittitle_teim">Address: Supt. North's address before the Ocean County School Board Association</field>
++    <field name="unittitle_ssm">Address: Supt. North&#39;s address before the Ocean County School Board Association</field>
++    <field name="unittitle_teim">Address: Supt. North&#39;s address before the Ocean County School Board Association</field>
+     <field name="unitdate_normal_ssm">1900/1900</field>
+     <field name="unitdate_normal_teim">1900/1900</field>
+     <field name="unitdate_normal_sim">1900/1900</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 3, Folder: 8</field>
+     <field name="location_si">Box: 3, Folder: 8</field>
+     <field name="collection_teim">Frederick Alonzo North Papers</field>
++    <field name="author_teim">Susan Meier, April 1983.  Electronic version prepared by Catriona Schlosser.</field>
+     <field name="collection_unitid_teim">MC.9</field>
+     <field name="series_sim">Series VI: Ocean County Schools</field>
+-    <field name="series_si">Series VI: Ocean County Schools &gt;&gt; Address: Supt. North's address before the Ocean County School Board Association</field>
+-    <field name="heading_ssm">Address: Supt. North's address before the Ocean County School Board Association</field>
++    <field name="series_si">Series VI: Ocean County Schools &gt;&gt; Address: Supt. North&#39;s address before the Ocean County School Board Association</field>
++    <field name="heading_ssm">Address: Supt. North&#39;s address before the Ocean County School Board Association</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>
+     <field name="unitdate_start_si">1900</field>

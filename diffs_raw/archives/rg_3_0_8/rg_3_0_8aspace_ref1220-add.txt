@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">rg_3_0_8</field>
+     <field name="parent_ssi">aspace_ref1203</field>
+     <field name="parent_ssm">aspace_ref1203</field>
+-    <field name="parent_unittitles_ssm">Addendum I: MSS: "Energy: Managing the Transition," Trilateral Commission</field>
+-    <field name="parent_unittitles_teim">Addendum I: MSS: "Energy: Managing the Transition," Trilateral Commission</field>
++    <field name="parent_unittitles_ssm">Addendum I: MSS: &amp;#34;Energy: Managing the Transition,&amp;#34; Trilateral Commission</field>
++    <field name="parent_unittitles_teim">Addendum I: MSS: &amp;#34;Energy: Managing the Transition,&amp;#34; Trilateral Commission</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Office of the President (John Crittenden Sawhill)</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 80, Folder: 6</field>
+     <field name="location_si">Box: 80, Folder: 6</field>
+     <field name="collection_teim">Records of the Office of the President (John Crittenden Sawhill)</field>
++    <field name="author_teim">Nancy Greenberg.</field>
+     <field name="collection_unitid_teim">RG.3.0.8</field>
+-    <field name="series_sim">Addendum I: MSS: "Energy: Managing the Transition," Trilateral Commission</field>
+-    <field name="series_si">Addendum I: MSS: "Energy: Managing the Transition," Trilateral Commission &gt;&gt; Working Version (Bound Discussion Draft)</field>
++    <field name="series_sim">Addendum I: MSS: &amp;#34;Energy: Managing the Transition,&amp;#34; Trilateral Commission</field>
++    <field name="series_si">Addendum I: MSS: &#34;Energy: Managing the Transition,&#34; Trilateral Commission &gt;&gt; Working Version (Bound Discussion Draft)</field>
+     <field name="heading_ssm">Working Version (Bound Discussion Draft)</field>
+     <field name="unitdate_ssm">Jun 1978</field>
+     <field name="date_range_sim">undated &amp; other</field>

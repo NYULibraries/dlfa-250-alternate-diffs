@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Brace Research Institute: Energy as a Major Factor in Man's Development</field>
+-    <field name="unittitle_teim">Brace Research Institute: Energy as a Major Factor in Man's Development</field>
++    <field name="unittitle_ssm">Brace Research Institute: Energy as a Major Factor in Man&#39;s Development</field>
++    <field name="unittitle_teim">Brace Research Institute: Energy as a Major Factor in Man&#39;s Development</field>
+     <field name="unitid_teim">RISM 20093</field>
+     <field name="unitid_ssm">RISM 20093</field>
+     <field name="creator_teim">Ward, G. T. (Gerald Templeton)</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Barbados.</field>
+     <field name="subject_sim">Power resources.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Barbados</field>
+     <field name="series_sim">Barbados: Power Resources</field>
+-    <field name="series_si">Barbados &gt;&gt; Barbados: Power Resources &gt;&gt; Brace Research Institute: Energy as a Major Factor in Man's Development</field>
+-    <field name="heading_ssm">Brace Research Institute: Energy as a Major Factor in Man's Development</field>
++    <field name="series_si">Barbados &gt;&gt; Barbados: Power Resources &gt;&gt; Brace Research Institute: Energy as a Major Factor in Man&#39;s Development</field>
++    <field name="heading_ssm">Brace Research Institute: Energy as a Major Factor in Man&#39;s Development</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>
+     <field name="unitdate_start_si">1964</field>

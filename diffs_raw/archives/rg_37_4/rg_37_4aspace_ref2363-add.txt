@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4201</field>
+     <field name="unitid_ssm">cuid4201</field>
+     <field name="unitdate_teim">October, 1989</field>
+-    <field name="scopecontent_teim">This is actually a commercially released compilation album entitled "Brazil Classics, Vol. 1: Beleza Tropical." Full of Latin and Tropicalia songs by artists such as Milton Nascimento and Nazare Pereira, this album was compiled by the Talk Heads front man David Byrne and released in October of 1989.</field>
++    <field name="scopecontent_teim">This is actually a commercially released compilation album entitled &#34;Brazil Classics, Vol. 1: Beleza Tropical.&#34; Full of Latin and Tropicalia songs by artists such as Milton Nascimento and Nazare Pereira, this album was compiled by the Talk Heads front man David Byrne and released in October of 1989.</field>
+     <field name="geogname_teim">Brazil.</field>
+     <field name="geogname_ssm">Brazil.</field>
+     <field name="ref_ssi">aspace_ref2363</field>
+@@ -35,6 +35,7 @@
+     <field name="place_ssm">Brazil.</field>
+     <field name="place_sim">Brazil.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

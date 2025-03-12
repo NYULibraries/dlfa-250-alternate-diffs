@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of the President/Chancellor</field>
+     <field name="collection_unitid_ssm">RG.3.0.6</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Provost's Office: Memoranda</field>
+-    <field name="unittitle_teim">Provost's Office: Memoranda</field>
++    <field name="unittitle_ssm">Provost&#39;s Office: Memoranda</field>
++    <field name="unittitle_teim">Provost&#39;s Office: Memoranda</field>
+     <field name="unitdate_normal_ssm">1951/1951</field>
+     <field name="unitdate_normal_teim">1951/1951</field>
+     <field name="unitdate_normal_sim">1951/1951</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 13, Folder: 16</field>
+     <field name="location_si">Box: 13, Folder: 16</field>
+     <field name="collection_teim">Records of the Office of the President/Chancellor</field>
++    <field name="author_teim">Steven A. Walker</field>
+     <field name="collection_unitid_teim">RG.3.0.6</field>
+     <field name="series_sim">Series I: Records</field>
+-    <field name="series_si">Series I: Records &gt;&gt; Provost's Office: Memoranda</field>
+-    <field name="heading_ssm">Provost's Office: Memoranda</field>
++    <field name="series_si">Series I: Records &gt;&gt; Provost&#39;s Office: Memoranda</field>
++    <field name="heading_ssm">Provost&#39;s Office: Memoranda</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>
+     <field name="unitdate_start_si">1951</field>

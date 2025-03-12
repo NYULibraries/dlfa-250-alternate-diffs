@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1976-02-04/1976-02-04</field>
+     <field name="unitdate_normal_sim">1976-02-04/1976-02-04</field>
+     <field name="unitdate_teim">1976-02-04</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Jean Blackwell Hutson discuss how a grant from the National Endowment for the Humanities allowed the Schomburg Center to gain bibliographic control over its collections. They discuss different aspects of the center's history with the New York Public Library and speak about fundraising efforts for a new, larger structure.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Jean Blackwell Hutson discuss how a grant from the National Endowment for the Humanities allowed the Schomburg Center to gain bibliographic control over its collections. They discuss different aspects of the center&#39;s history with the New York Public Library and speak about fundraising efforts for a new, larger structure.</field>
+     <field name="dao_teim">Hutson, Jean Blackwell -- Chief of the Schomburg Center for Research in Black Culture.: 1976 February 4</field>
+     <field name="dao_ssm">Hutson, Jean Blackwell -- Chief of the Schomburg Center for Research in Black Culture.: 1976 February 4</field>
+     <field name="ref_ssi">aspace_ref3737</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 40, Folder: 22</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

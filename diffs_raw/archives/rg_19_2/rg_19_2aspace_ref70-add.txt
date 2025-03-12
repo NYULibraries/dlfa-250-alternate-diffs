@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1937/2009</field>
+     <field name="unitdate_normal_sim">1937/2009</field>
+     <field name="unitdate_inclusive_teim">1937-2009</field>
+-    <field name="scopecontent_teim">This series contains FBI files, articles, and periodicals related to Bradley's case.</field>
++    <field name="scopecontent_teim">This series contains FBI files, articles, and periodicals related to Bradley&#39;s case.</field>
+     <field name="ref_ssi">aspace_ref70</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Records of the Lyman R. Bradley Academic Freedom Case</field>
++    <field name="author_teim">Processed by Diana Maull and Marilyn Pettit</field>
+     <field name="collection_unitid_teim">RG.19.2</field>
+     <field name="series_si">Series IV: Related Materials</field>
+     <field name="heading_ssm">Series IV: Related Materials</field>

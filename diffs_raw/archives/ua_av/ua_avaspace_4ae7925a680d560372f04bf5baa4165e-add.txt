@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The NYU Lecture Series - Spring Semester 1978 PGM #9: "Reflections on 'The Man Who Cried I Am." Guest: John A. Williams, author and essayist. Reel I of II.</field>
+-    <field name="unittitle_teim">The NYU Lecture Series - Spring Semester 1978 PGM #9: "Reflections on 'The Man Who Cried I Am." Guest: John A. Williams, author and essayist. Reel I of II.</field>
++    <field name="unittitle_ssm">The NYU Lecture Series - Spring Semester 1978 PGM #9: &#34;Reflections on &#39;The Man Who Cried I Am.&#34; Guest: John A. Williams, author and essayist. Reel I of II.</field>
++    <field name="unittitle_teim">The NYU Lecture Series - Spring Semester 1978 PGM #9: &#34;Reflections on &#39;The Man Who Cried I Am.&#34; Guest: John A. Williams, author and essayist. Reel I of II.</field>
+     <field name="unitid_teim">AV361</field>
+     <field name="unitid_ssm">AV361</field>
+     <field name="unitdate_normal_ssm">1978-03-20/1978-03-20</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1978-03-20/1978-03-20</field>
+     <field name="unitdate_normal_sim">1978-03-20/1978-03-20</field>
+     <field name="unitdate_teim">1978-03-20</field>
+-    <field name="scopecontent_teim">Housing annotations: The lecture series program is included with the tape. "For WNYU BDCST 3-20-78, 8:30-9:30pm" marked on container label in red ink.</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 32 min.</field>
++    <field name="scopecontent_teim">Housing annotations: The lecture series program is included with the tape. &#34;For WNYU BDCST 3-20-78, 8:30-9:30pm&#34; marked on container label in red ink.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 32 min.</field>
+     <field name="ref_ssi">aspace_4ae7925a680d560372f04bf5baa4165e</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,10 +33,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV361</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV361</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Spring Semester 1978 PGM #9: "Reflections on 'The Man Who Cried I Am." Guest: John A. Williams, author and essayist. Reel I of II.</field>
+-    <field name="heading_ssm">The NYU Lecture Series - Spring Semester 1978 PGM #9: "Reflections on 'The Man Who Cried I Am." Guest: John A. Williams, author and essayist. Reel I of II.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Spring Semester 1978 PGM #9: &#34;Reflections on &#39;The Man Who Cried I Am.&#34; Guest: John A. Williams, author and essayist. Reel I of II.</field>
++    <field name="heading_ssm">The NYU Lecture Series - Spring Semester 1978 PGM #9: &#34;Reflections on &#39;The Man Who Cried I Am.&#34; Guest: John A. Williams, author and essayist. Reel I of II.</field>
+     <field name="unitdate_ssm">1978-03-20</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">341</field>

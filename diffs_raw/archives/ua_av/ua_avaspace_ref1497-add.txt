@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1998/1999</field>
+     <field name="unitdate_normal_sim">1998/1999</field>
+     <field name="unitdate_inclusive_teim">November 18, 1998 &amp; December 15, 1999</field>
+-    <field name="scopecontent_teim">Two episodes of "The Open Mind" with Richard D. Heffner, Dowling Professor of Communications and Public Policy at Rutgers University. Both episodes feature conversations with Dean of NYU School of Law, John Sexton.</field>
++    <field name="scopecontent_teim">Two episodes of &#34;The Open Mind&#34; with Richard D. Heffner, Dowling Professor of Communications and Public Policy at Rutgers University. Both episodes feature conversations with Dean of NYU School of Law, John Sexton.</field>
+     <field name="ref_ssi">aspace_ref1497</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: Shared University Archives 113, Item: 28</field>
+     <field name="location_si">Box: Shared University Archives 113, Item: 28</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; An Open Mind - Discussions with Dean John Sexton</field>

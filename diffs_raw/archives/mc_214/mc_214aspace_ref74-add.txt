@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,13 +9,17 @@
+     <field name="collection_ssm">Robert Raymo Papers</field>
+     <field name="collection_unitid_ssm">MC.214</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series III. Administrative Papers</field>
+-    <field name="unittitle_teim">Series III. Administrative Papers</field>
++    <field name="unittitle_ssm">Series III. Administrative Papers
++
++    </field>
++    <field name="unittitle_teim">Series III. Administrative Papers
++
++    </field>
+     <field name="unitdate_normal_ssm">1966/2002</field>
+     <field name="unitdate_normal_teim">1966/2002</field>
+     <field name="unitdate_normal_sim">1966/2002</field>
+     <field name="unitdate_inclusive_teim">1966 - 2002</field>
+-    <field name="scopecontent_teim">Series III encompasses Raymo's administrative responsibilities at NYU as Dean of the Graduate School of Arts and Science and thereafter, and includes reports he authored on undergraduate and graduate education at the university, as well as well as books on graduate education.</field>
++    <field name="scopecontent_teim">Series III encompasses Raymo&#39;s administrative responsibilities at NYU as Dean of the Graduate School of Arts and Science and thereafter, and includes reports he authored on undergraduate and graduate education at the university, as well as well as books on graduate education.</field>
+     <field name="ref_ssi">aspace_ref74</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,9 +27,14 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Robert Raymo Papers</field>
++    <field name="author_teim">Ashley Sena-Levine</field>
+     <field name="collection_unitid_teim">MC.214</field>
+-    <field name="series_si">Series III. Administrative Papers</field>
+-    <field name="heading_ssm">Series III. Administrative Papers</field>
++    <field name="series_si">Series III. Administrative Papers
++
++    </field>
++    <field name="heading_ssm">Series III. Administrative Papers
++
++    </field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_ssm">1966</field>
+     <field name="unitdate_start_si">1966</field>

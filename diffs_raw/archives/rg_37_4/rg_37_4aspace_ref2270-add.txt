@@ -1,0 +1,77 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">2003/2003</field>
+     <field name="unitdate_normal_sim">2003/2003</field>
+     <field name="unitdate_inclusive_teim">24-Oct-03</field>
+-    <field name="scopecontent_teim">Simon Schama discusses a work in progress that would become his 2005 publication Rough Crossings, a book about the rocky relationship between the United States and Great Britain in the century following America's independence in regard to each nation's stance on slavery.</field>
++    <field name="scopecontent_teim">Simon Schama discusses a work in progress that would become his 2005 publication Rough Crossings, a book about the rocky relationship between the United States and Great Britain in the century following America&#39;s independence in regard to each nation&#39;s stance on slavery.</field>
+     <field name="geogname_teim">Great Britain |z Colonies.</field>
+     <field name="geogname_teim">Great Britain.</field>
+     <field name="geogname_teim">Great Britain |z Colonies |z Africa.</field>
+@@ -47,14 +47,14 @@
+     <field name="subject_teim">Slavery |z Barbados.</field>
+     <field name="subject_teim">United States. Declaration of Independence</field>
+     <field name="subject_teim">Slavery in American history</field>
+-    <field name="subject_teim">Slave-trade -- Great Britain.</field>
+-    <field name="subject_teim">West Indians -- Great Britain.</field>
+-    <field name="subject_teim">Slavery.</field>
+-    <field name="subject_teim">Slavery -- Virgin Islands of the United States.</field>
+-    <field name="subject_teim">Slavery -- Bermuda Islands.</field>
+-    <field name="subject_teim">Slavery -- United States.</field>
+-    <field name="subject_teim">Slavery -- Economic aspects.</field>
+-    <field name="subject_teim">Slavery -- Barbados.</field>
++    <field name="subject_teim">Slave-trade --Great Britain.</field>
++    <field name="subject_teim">West Indians --Great Britain.</field>
++    <field name="subject_teim">Slavery.</field>
++    <field name="subject_teim">Slavery --Virgin Islands of the United States.</field>
++    <field name="subject_teim">Slavery --Bermuda Islands.</field>
++    <field name="subject_teim">Slavery --United States.</field>
++    <field name="subject_teim">Slavery --Economic aspects.</field>
++    <field name="subject_teim">Slavery --Barbados.</field>
+     <field name="subject_teim">United States. Declaration of Independence</field>
+     <field name="subject_teim">Slavery in American history</field>
+     <field name="subject_ssm">Slave-trade |z Great Britain.</field>
+@@ -78,27 +78,28 @@
+     <field name="location_si">Box: Shared University Archives 110, Item: 43</field>
+     <field name="name_sim">Schama, Simon</field>
+     <field name="name_teim">Schama, Simon</field>
+-    <field name="place_ssm">Great Britain -- Colonies.</field>
++    <field name="place_ssm">Great Britain --Colonies.</field>
+     <field name="place_ssm">Great Britain.</field>
+-    <field name="place_ssm">Great Britain -- Colonies -- Africa.</field>
+-    <field name="place_ssm">Great Britain -- Colonies -- Caribbean Area.</field>
++    <field name="place_ssm">Great Britain --Colonies --Africa.</field>
++    <field name="place_ssm">Great Britain --Colonies --Caribbean Area.</field>
+     <field name="place_ssm">United States -- History -- Revolution, 1775-1783</field>
+-    <field name="place_sim">Great Britain -- Colonies.</field>
++    <field name="place_sim">Great Britain --Colonies.</field>
+     <field name="place_sim">Great Britain.</field>
+-    <field name="place_sim">Great Britain -- Colonies -- Africa.</field>
+-    <field name="place_sim">Great Britain -- Colonies -- Caribbean Area.</field>
++    <field name="place_sim">Great Britain --Colonies --Africa.</field>
++    <field name="place_sim">Great Britain --Colonies --Caribbean Area.</field>
+     <field name="place_sim">United States -- History -- Revolution, 1775-1783</field>
+-    <field name="subject_sim">Slave-trade -- Great Britain.</field>
+-    <field name="subject_sim">West Indians -- Great Britain.</field>
++    <field name="subject_sim">Slave-trade --Great Britain.</field>
++    <field name="subject_sim">West Indians --Great Britain.</field>
+     <field name="subject_sim">Slavery.</field>
+-    <field name="subject_sim">Slavery -- Virgin Islands of the United States.</field>
+-    <field name="subject_sim">Slavery -- Bermuda Islands.</field>
+-    <field name="subject_sim">Slavery -- United States.</field>
+-    <field name="subject_sim">Slavery -- Economic aspects.</field>
+-    <field name="subject_sim">Slavery -- Barbados.</field>
++    <field name="subject_sim">Slavery --Virgin Islands of the United States.</field>
++    <field name="subject_sim">Slavery --Bermuda Islands.</field>
++    <field name="subject_sim">Slavery --United States.</field>
++    <field name="subject_sim">Slavery --Economic aspects.</field>
++    <field name="subject_sim">Slavery --Barbados.</field>
+     <field name="subject_sim">United States. Declaration of Independence</field>
+     <field name="subject_sim">Slavery in American history</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

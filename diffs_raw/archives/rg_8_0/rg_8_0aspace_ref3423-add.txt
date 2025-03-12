@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of Administration and Facilities (Eileen Buckley)</field>
+     <field name="collection_unitid_ssm">RG.8.0</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">President's Committee on the Arts and the Humanities II</field>
+-    <field name="unittitle_teim">President's Committee on the Arts and the Humanities II</field>
++    <field name="unittitle_ssm">President&#39;s Committee on the Arts and the Humanities II</field>
++    <field name="unittitle_teim">President&#39;s Committee on the Arts and the Humanities II</field>
+     <field name="unitdate_normal_ssm">1959/1995</field>
+     <field name="unitdate_normal_teim">1959/1995</field>
+     <field name="unitdate_normal_sim">1959/1995</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 31, Folder: 47</field>
+     <field name="location_si">Box: 31, Folder: 47</field>
+     <field name="collection_teim">Records of the Office of Administration and Facilities (Eileen Buckley)</field>
++    <field name="author_teim">University Archives Staff</field>
+     <field name="collection_unitid_teim">RG.8.0</field>
+     <field name="series_sim">Series I: General Files</field>
+-    <field name="series_si">Series I: General Files &gt;&gt; President's Committee on the Arts and the Humanities II</field>
+-    <field name="heading_ssm">President's Committee on the Arts and the Humanities II</field>
++    <field name="series_si">Series I: General Files &gt;&gt; President&#39;s Committee on the Arts and the Humanities II</field>
++    <field name="heading_ssm">President&#39;s Committee on the Arts and the Humanities II</field>
+     <field name="unitdate_start_sim">1959</field>
+     <field name="unitdate_start_ssm">1959</field>
+     <field name="unitdate_start_si">1959</field>

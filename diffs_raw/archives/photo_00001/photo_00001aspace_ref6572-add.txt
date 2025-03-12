@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">D'Agostino Hall Construction</field>
+-    <field name="unittitle_teim">D'Agostino Hall Construction</field>
++    <field name="unittitle_ssm">D&#39;Agostino Hall Construction</field>
++    <field name="unittitle_teim">D&#39;Agostino Hall Construction</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/637208</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/637208</field>
+     <field name="ref_ssi">aspace_ref6572</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Campus Buildings</field>
+-    <field name="series_si">Washington Square Campus Buildings &gt;&gt; D'Agostino Hall Construction</field>
+-    <field name="heading_ssm">D'Agostino Hall Construction</field>
++    <field name="series_si">Washington Square Campus Buildings &gt;&gt; D&#39;Agostino Hall Construction</field>
++    <field name="heading_ssm">D&#39;Agostino Hall Construction</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

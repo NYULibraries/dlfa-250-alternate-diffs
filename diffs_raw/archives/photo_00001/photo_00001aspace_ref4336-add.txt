@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">New Sailors' Snug Harbor Properties</field>
+-    <field name="unittitle_teim">New Sailors' Snug Harbor Properties</field>
++    <field name="unittitle_ssm">New Sailors&#39; Snug Harbor Properties</field>
++    <field name="unittitle_teim">New Sailors&#39; Snug Harbor Properties</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636263</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/636263</field>
+     <field name="unitdate_normal_ssm">1947/1955</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 178</field>
+     <field name="location_si">Box: 178</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; New Sailors' Snug Harbor Properties</field>
+-    <field name="heading_ssm">New Sailors' Snug Harbor Properties</field>
++    <field name="series_si">Washington Square Area &gt;&gt; New Sailors&#39; Snug Harbor Properties</field>
++    <field name="heading_ssm">New Sailors&#39; Snug Harbor Properties</field>
+     <field name="unitdate_start_sim">1947</field>
+     <field name="unitdate_start_ssm">1947</field>
+     <field name="unitdate_start_si">1947</field>

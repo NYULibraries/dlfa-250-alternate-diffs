@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref18</field>
+     <field name="parent_ssm">aspace_ref19</field>
+     <field name="parent_unittitles_ssm">The Wealthy 100</field>
+-    <field name="parent_unittitles_ssm">Book</field>
++    <field name="parent_unittitles_ssm">Book&amp;#xA;</field>
+     <field name="parent_unittitles_teim">The Wealthy 100</field>
+-    <field name="parent_unittitles_teim">Book</field>
++    <field name="parent_unittitles_teim">Book&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Michael Klepper Papers</field>
+@@ -28,10 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 13</field>
+     <field name="location_si">Box: 1, Folder: 13</field>
+     <field name="collection_teim">Michael Klepper Papers</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.145</field>
+     <field name="series_sim">The Wealthy 100</field>
+-    <field name="series_sim">Book</field>
+-    <field name="series_si">The Wealthy 100 &gt;&gt; Book &gt;&gt; &lt;em&gt;The Wealthy 100&lt;/em&gt;</field>
++    <field name="series_sim">Book&amp;#xA;</field>
++    <field name="series_si">The Wealthy 100 &gt;&gt; Book
++ &gt;&gt; &lt;em&gt;The Wealthy 100&lt;/em&gt;</field>
+     <field name="heading_ssm">The Wealthy 100</field>
+     <field name="unitdate_ssm">1996</field>
+     <field name="date_range_sim">undated &amp; other</field>

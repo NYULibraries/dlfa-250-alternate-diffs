@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Liberalization!: What's In It For Me?</field>
+-    <field name="unittitle_teim">Liberalization!: What's In It For Me?</field>
++    <field name="unittitle_ssm">Liberalization!: What&#39;s In It For Me?</field>
++    <field name="unittitle_teim">Liberalization!: What&#39;s In It For Me?</field>
+     <field name="unitid_teim">RISM 21195</field>
+     <field name="unitid_ssm">RISM 21195</field>
+     <field name="creator_teim">Jamaica Information Service (Jamaica)</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Jamaica.</field>
+     <field name="subject_sim">Economic conditions.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Jamaica</field>
+     <field name="series_sim">Jamaica: Economic Conditions</field>
+-    <field name="series_si">Jamaica &gt;&gt; Jamaica: Economic Conditions &gt;&gt; Liberalization!: What's In It For Me?</field>
+-    <field name="heading_ssm">Liberalization!: What's In It For Me?</field>
++    <field name="series_si">Jamaica &gt;&gt; Jamaica: Economic Conditions &gt;&gt; Liberalization!: What&#39;s In It For Me?</field>
++    <field name="heading_ssm">Liberalization!: What&#39;s In It For Me?</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>
+     <field name="unitdate_start_si">1992</field>

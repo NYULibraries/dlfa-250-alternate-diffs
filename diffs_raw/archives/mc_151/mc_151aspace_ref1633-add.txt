@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">1976 April 27</field>
+-    <field name="phystech_teim">Audio Cassette. Original housing also included the label "A) Abby: Return from France, 1st Art Purchases - Salt Lake City."</field>
++    <field name="phystech_teim">Audio Cassette.  Original housing also included the label &#34;A)  Abby:  Return from France, 1st Art Purchases - Salt Lake City.&#34;</field>
+     <field name="ref_ssi">aspace_ref1633</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 32, Cassette: 6</field>
+     <field name="location_si">Box: 32, Cassette: 6</field>
+     <field name="collection_teim">Abby Weed Grey Papers</field>
++    <field name="author_teim">Amy Surak. Additional processing by Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVI: Audiovisual Materials</field>
+     <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; 1) Art Purchases from 1st - Thru Clara 2) Paris letters (4/27/76)</field>

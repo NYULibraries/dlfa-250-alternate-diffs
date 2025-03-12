@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Prize-Winning Student Essays Collection</field>
+     <field name="collection_unitid_ssm">MC.86</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Divergent Estimates of Napoleon III," Burton S. Sklarin</field>
+-    <field name="unittitle_teim">"Divergent Estimates of Napoleon III," Burton S. Sklarin</field>
++    <field name="unittitle_ssm">&#34;Divergent Estimates of Napoleon III,&#34; Burton S. Sklarin</field>
++    <field name="unittitle_teim">&#34;Divergent Estimates of Napoleon III,&#34; Burton S. Sklarin</field>
+     <field name="unitdate_normal_ssm">1952/1952</field>
+     <field name="unitdate_normal_teim">1952/1952</field>
+     <field name="unitdate_normal_sim">1952/1952</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 4, Folder: 1</field>
+     <field name="location_si">Box: 4, Folder: 1</field>
+     <field name="collection_teim">Prize-Winning Student Essays Collection</field>
++    <field name="author_teim">Celeste Brewer</field>
+     <field name="collection_unitid_teim">MC.86</field>
+     <field name="series_sim">Helen M. Jones Prize in History</field>
+-    <field name="series_si">Helen M. Jones Prize in History &gt;&gt; "Divergent Estimates of Napoleon III," Burton S. Sklarin</field>
+-    <field name="heading_ssm">"Divergent Estimates of Napoleon III," Burton S. Sklarin</field>
++    <field name="series_si">Helen M. Jones Prize in History &gt;&gt; &#34;Divergent Estimates of Napoleon III,&#34; Burton S. Sklarin</field>
++    <field name="heading_ssm">&#34;Divergent Estimates of Napoleon III,&#34; Burton S. Sklarin</field>
+     <field name="unitdate_start_sim">1952</field>
+     <field name="unitdate_start_ssm">1952</field>
+     <field name="unitdate_start_si">1952</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+     <field name="collection_unitid_ssm">CAP.1</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Extrait du Catalogue Général; Matériel d'Atelier Pour Photographes Professionnels</field>
+-    <field name="unittitle_teim">Extrait du Catalogue Général; Matériel d'Atelier Pour Photographes Professionnels</field>
++    <field name="unittitle_ssm">Extrait du Catalogue Général; Matériel d&#39;Atelier Pour Photographes Professionnels</field>
++    <field name="unittitle_teim">Extrait du Catalogue Général; Matériel d&#39;Atelier Pour Photographes Professionnels</field>
+     <field name="unitid_teim">cuid1859</field>
+     <field name="unitid_ssm">cuid1859</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">object: 368</field>
+     <field name="location_si">object: 368</field>
+     <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
++    <field name="author_teim">Jonathan Lawler, Olivia Jane Mueller, and John Zarrillo</field>
+     <field name="collection_unitid_teim">CAP.1</field>
+     <field name="series_sim">Digitized Publications</field>
+-    <field name="series_si">Digitized Publications &gt;&gt; Extrait du Catalogue Général; Matériel d'Atelier Pour Photographes Professionnels</field>
+-    <field name="heading_ssm">Extrait du Catalogue Général; Matériel d'Atelier Pour Photographes Professionnels</field>
++    <field name="series_si">Digitized Publications &gt;&gt; Extrait du Catalogue Général; Matériel d&#39;Atelier Pour Photographes Professionnels</field>
++    <field name="heading_ssm">Extrait du Catalogue Général; Matériel d&#39;Atelier Pour Photographes Professionnels</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">369</field>

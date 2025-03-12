@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+     <field name="collection_unitid_ssm">CAP.1</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Towles' Portrait Lightings</field>
+-    <field name="unittitle_teim">Towles' Portrait Lightings</field>
++    <field name="unittitle_ssm">Towles&#39; Portrait Lightings</field>
++    <field name="unittitle_teim">Towles&#39; Portrait Lightings</field>
+     <field name="unitid_teim">cap1_ref300</field>
+     <field name="unitid_ssm">cap1_ref300</field>
+     <field name="unitdate_normal_ssm">1925/1925</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">object: 148</field>
+     <field name="location_si">object: 148</field>
+     <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
++    <field name="author_teim">Jonathan Lawler, Olivia Jane Mueller, and John Zarrillo</field>
+     <field name="collection_unitid_teim">CAP.1</field>
+     <field name="series_sim">Digitized Publications</field>
+-    <field name="series_si">Digitized Publications &gt;&gt; Towles' Portrait Lightings</field>
+-    <field name="heading_ssm">Towles' Portrait Lightings</field>
++    <field name="series_si">Digitized Publications &gt;&gt; Towles&#39; Portrait Lightings</field>
++    <field name="heading_ssm">Towles&#39; Portrait Lightings</field>
+     <field name="unitdate_start_sim">1925</field>
+     <field name="unitdate_start_ssm">1925</field>
+     <field name="unitdate_start_si">1925</field>

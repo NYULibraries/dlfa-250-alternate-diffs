@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Knowledge"</field>
+-    <field name="unittitle_teim">"Knowledge"</field>
++    <field name="unittitle_ssm">&#34;Knowledge&#34;</field>
++    <field name="unittitle_teim">&#34;Knowledge&#34;</field>
+     <field name="unitid_teim">AV376</field>
+     <field name="unitid_ssm">AV376</field>
+     <field name="unitdate_normal_ssm">1980-06-12/1980-06-12</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1980-06-12/1980-06-12</field>
+     <field name="unitdate_normal_sim">1980-06-12/1980-06-12</field>
+     <field name="unitdate_teim">1980-06-12</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 30 min.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 30 min.</field>
+     <field name="ref_ssi">aspace_412474ad488480a503a767fdcd616a71</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV376</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV376</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "Knowledge"</field>
+-    <field name="heading_ssm">"Knowledge"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;Knowledge&#34;</field>
++    <field name="heading_ssm">&#34;Knowledge&#34;</field>
+     <field name="unitdate_ssm">1980-06-12</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">326</field>

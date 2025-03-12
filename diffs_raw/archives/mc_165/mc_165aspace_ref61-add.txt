@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_165</field>
+     <field name="parent_ssi">aspace_ref15</field>
+     <field name="parent_ssm">aspace_ref15</field>
+-    <field name="parent_unittitles_ssm">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology</field>
+-    <field name="parent_unittitles_teim">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology</field>
++    <field name="parent_unittitles_ssm">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology&amp;#xA;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Julius Silver Papers</field>
+@@ -27,9 +27,11 @@
+     <field name="location_ssm">Box: 3, Folder: 6</field>
+     <field name="location_si">Box: 3, Folder: 6</field>
+     <field name="collection_teim">Julius Silver Papers</field>
++    <field name="author_teim">Lindsay Dumas. Additional processing by Shannon McDonald in 2013.</field>
+     <field name="collection_unitid_teim">MC.165</field>
+-    <field name="series_sim">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology</field>
+-    <field name="series_si">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology &gt;&gt; Julius Silver Institute Floor Plans photos</field>
++    <field name="series_sim">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology&amp;#xA;</field>
++    <field name="series_si">Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology
++ &gt;&gt; Julius Silver Institute Floor Plans photos</field>
+     <field name="heading_ssm">Julius Silver Institute Floor Plans photos</field>
+     <field name="unitdate_ssm">n.d.</field>
+     <field name="date_range_sim">undated &amp; other</field>

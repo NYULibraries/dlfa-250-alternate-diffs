@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Calypso and Politics in Barbados: The Mighty Gabby is a "Nest of Ants" for Prime Minister Tom Adams</field>
+-    <field name="unittitle_teim">Calypso and Politics in Barbados: The Mighty Gabby is a "Nest of Ants" for Prime Minister Tom Adams</field>
++    <field name="unittitle_ssm">Calypso and Politics in Barbados: The Mighty Gabby is a &#34;Nest of Ants&#34; for Prime Minister Tom Adams</field>
++    <field name="unittitle_teim">Calypso and Politics in Barbados: The Mighty Gabby is a &#34;Nest of Ants&#34; for Prime Minister Tom Adams</field>
+     <field name="unitid_teim">RISM 20064</field>
+     <field name="unitid_ssm">RISM 20064</field>
+     <field name="creator_teim">Manning, Frank E.</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Barbados.</field>
+     <field name="subject_sim">Calypso (Music).</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Barbados</field>
+     <field name="series_sim">Barbados: Calypso</field>
+-    <field name="series_si">Barbados &gt;&gt; Barbados: Calypso &gt;&gt; Calypso and Politics in Barbados: The Mighty Gabby is a "Nest of Ants" for Prime Minister Tom Adams</field>
+-    <field name="heading_ssm">Calypso and Politics in Barbados: The Mighty Gabby is a "Nest of Ants" for Prime Minister Tom Adams</field>
++    <field name="series_si">Barbados &gt;&gt; Barbados: Calypso &gt;&gt; Calypso and Politics in Barbados: The Mighty Gabby is a &#34;Nest of Ants&#34; for Prime Minister Tom Adams</field>
++    <field name="heading_ssm">Calypso and Politics in Barbados: The Mighty Gabby is a &#34;Nest of Ants&#34; for Prime Minister Tom Adams</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

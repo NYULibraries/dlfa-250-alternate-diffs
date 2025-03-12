@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,10 +20,9 @@
+     <field name="unitdate_normal_ssm">2018/2018</field>
+     <field name="unitdate_normal_teim">2018/2018</field>
+     <field name="unitdate_normal_sim">2018/2018</field>
+-    <field name="unitdate_teim"></field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Housing Annotations: Alternate spelling "Greenwald." No other identifying information.</field>
+-    <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 15 min.</field>
++    <field name="scopecontent_teim">Housing Annotations: Alternate spelling &#34;Greenwald.&#34; No other identifying information.</field>
++    <field name="phystech_teim">Original Format: ¼&#34; Open Reel Audio, Duration: 15 min.</field>
+     <field name="ref_ssi">aspace_d276c9ae58f7b5bd0cb0a70a10bc699b</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -34,6 +33,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV54</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV54</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Greenwalt</field>
+@@ -44,7 +44,6 @@
+     <field name="unitdate_end_sim">2018</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm"></field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

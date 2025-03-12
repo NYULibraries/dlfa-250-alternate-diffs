@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,14 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tour of Bobst's Instructional Materials Center</field>
+-    <field name="unittitle_teim">Tour of Bobst's Instructional Materials Center</field>
++    <field name="unittitle_ssm">Tour of Bobst&#39;s Instructional Materials Center</field>
++    <field name="unittitle_teim">Tour of Bobst&#39;s Instructional Materials Center</field>
+     <field name="unitid_teim">AV5017</field>
+     <field name="unitid_ssm">AV5017</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Format: 1/2" open reel video; Duration: 30 minutes; Transfer Technician Notes: "This tape contains only about 4 minutes of content. All the video content is very unstable and has poor vertical hold. Most of the content has extremely low audio levels, but the audio could not be raised without clipping the louder audio in the last segment. Headswitch error in underscan"</field>
+-    <field name="dao_teim">Tour of Bobst's Instructional Materials Center</field>
+-    <field name="dao_ssm">Tour of Bobst's Instructional Materials Center</field>
++    <field name="phystech_teim">Format: 1/2&#34; open reel video; Duration: 30 minutes; Transfer Technician Notes: &#34;This tape contains only about 4 minutes of content. All the video content is very unstable and has poor vertical hold. Most of the content has extremely low audio levels, but the audio could not be raised without clipping the louder audio in the last segment. Headswitch error in underscan&#34;</field>
++    <field name="dao_teim">Tour of Bobst&#39;s Instructional Materials Center</field>
++    <field name="dao_ssm">Tour of Bobst&#39;s Instructional Materials Center</field>
+     <field name="ref_ssi">aspace_2091052d798d1224ed812b7bbeb9ce13</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,10 +31,11 @@
+     <field name="location_si">Box: 156, reel: AV5017</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Tour of Bobst's Instructional Materials Center</field>
+-    <field name="heading_ssm">Tour of Bobst's Instructional Materials Center</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Tour of Bobst&#39;s Instructional Materials Center</field>
++    <field name="heading_ssm">Tour of Bobst&#39;s Instructional Materials Center</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">949</field>

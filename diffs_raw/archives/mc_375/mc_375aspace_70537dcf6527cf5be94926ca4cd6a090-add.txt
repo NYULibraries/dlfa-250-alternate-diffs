@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">2013-10/2013-10</field>
+     <field name="unitdate_normal_sim">2013-10/2013-10</field>
+     <field name="unitdate_inclusive_teim">October 2013</field>
+-    <field name="scopecontent_teim">The Spring in New York blog is a supplement to the Spring in New York University website and is intended to be the visiting student's preparation guide for coming to NYU for the spring term. Dates from 2012-2013.</field>
++    <field name="scopecontent_teim">The Spring in New York blog is a supplement to the Spring in New York University website and is intended to be the visiting student&#39;s preparation guide for coming to NYU for the spring term. Dates from 2012-2013.</field>
+     <field name="dao_teim">Spring in New York 2013 Archived Website: October 2013</field>
+     <field name="dao_ssm">Spring in New York 2013 Archived Website: October 2013</field>
+     <field name="ref_ssi">aspace_70537dcf6527cf5be94926ca4cd6a090</field>
+@@ -32,6 +32,7 @@
+     <field name="location_si">Box: Electronic Records</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Student Organizations Web Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">MC.375</field>
+     <field name="series_sim">Series I: Student Blogs</field>
+     <field name="series_si">Series I: Student Blogs &gt;&gt; Spring in New York 2013</field>

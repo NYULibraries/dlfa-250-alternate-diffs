@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unittitle_teim">Series III: Personal Papers</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/625471</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/625471</field>
+-    <field name="scopecontent_teim">This series consists mainly of personal correspondence, most of which is in English and some of which is in German. There is also information Edith Kramer compiled about the Bosket family, a family of professional interest to Kramer, as well as short, handwritten autobiographical narratives written by Edith Kramer. The series also contains a number of Edith Kramer's date books.</field>
++    <field name="scopecontent_teim">This series consists mainly of personal correspondence, most of which is in English and some of which is in German. There is also information Edith Kramer compiled about the Bosket family, a family of professional interest to Kramer, as well as short, handwritten autobiographical narratives written by Edith Kramer. The series also contains a number of Edith Kramer&#39;s date books.</field>
+     <field name="ref_ssi">aspace_ref4</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -21,6 +21,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+     <field name="series_si">Series III: Personal Papers</field>
+     <field name="heading_ssm">Series III: Personal Papers</field>

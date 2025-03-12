@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Street Vendor, "Buck-a-Lunch"</field>
+-    <field name="unittitle_teim">Street Vendor, "Buck-a-Lunch"</field>
++    <field name="unittitle_ssm">Street Vendor, &#34;Buck-a-Lunch&#34;</field>
++    <field name="unittitle_teim">Street Vendor, &#34;Buck-a-Lunch&#34;</field>
+     <field name="unitid_teim">wsp_gv_9_2_67</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/635818</field>
+     <field name="unitid_ssm">wsp_gv_9_2_67</field>
+@@ -31,8 +31,8 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="persname_teim">Rodriguez, Robert F.</field>
+     <field name="persname_ssm">Rodriguez, Robert F.</field>
+-    <field name="dao_teim">Street Vendor, "Buck-a-Lunch": undated</field>
+-    <field name="dao_ssm">Street Vendor, "Buck-a-Lunch": undated</field>
++    <field name="dao_teim">Street Vendor, &#34;Buck-a-Lunch&#34;: undated</field>
++    <field name="dao_ssm">Street Vendor, &#34;Buck-a-Lunch&#34;: undated</field>
+     <field name="ref_ssi">aspace_ref2545</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -46,12 +46,13 @@
+     <field name="name_teim">Rodriguez, Robert F.</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Park</field>
+     <field name="series_sim">Subseries G: General Views</field>
+     <field name="series_sim">General Views - People (2 of 3)</field>
+-    <field name="series_si">Washington Square Park &gt;&gt; Subseries G: General Views &gt;&gt; General Views - People (2 of 3) &gt;&gt; Street Vendor, "Buck-a-Lunch"</field>
+-    <field name="heading_ssm">Street Vendor, "Buck-a-Lunch"</field>
++    <field name="series_si">Washington Square Park &gt;&gt; Subseries G: General Views &gt;&gt; General Views - People (2 of 3) &gt;&gt; Street Vendor, &#34;Buck-a-Lunch&#34;</field>
++    <field name="heading_ssm">Street Vendor, &#34;Buck-a-Lunch&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

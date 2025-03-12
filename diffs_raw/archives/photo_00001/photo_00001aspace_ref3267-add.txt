@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,15 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Captain's Table</field>
+-    <field name="unittitle_teim">The Captain's Table</field>
++    <field name="unittitle_ssm">The Captain&#39;s Table</field>
++    <field name="unittitle_teim">The Captain&#39;s Table</field>
+     <field name="unitid_teim">wsa_2_1_26</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636010</field>
+     <field name="unitid_ssm">wsa_2_1_26</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/636010</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="dao_teim">The Captain's Table: undated</field>
+-    <field name="dao_ssm">The Captain's Table: undated</field>
++    <field name="dao_teim">The Captain&#39;s Table: undated</field>
++    <field name="dao_ssm">The Captain&#39;s Table: undated</field>
+     <field name="ref_ssi">aspace_ref3267</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -35,11 +35,12 @@
+     <field name="location_si">Box: 176, Folder: 1, Item: 26</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Area</field>
+     <field name="series_sim">Diners, Cafes, Restaurants (1 of 2)</field>
+-    <field name="series_si">Washington Square Area &gt;&gt; Diners, Cafes, Restaurants (1 of 2) &gt;&gt; The Captain's Table</field>
+-    <field name="heading_ssm">The Captain's Table</field>
++    <field name="series_si">Washington Square Area &gt;&gt; Diners, Cafes, Restaurants (1 of 2) &gt;&gt; The Captain&#39;s Table</field>
++    <field name="heading_ssm">The Captain&#39;s Table</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref24</field>
+     <field name="parent_ssm">aspace_ref23</field>
+     <field name="parent_ssm">aspace_ref24</field>
+-    <field name="parent_unittitles_ssm">Gone The Sun</field>
++    <field name="parent_unittitles_ssm">Gone The Sun&amp;#xA;</field>
+     <field name="parent_unittitles_ssm">Notes and chapter printouts of book</field>
+-    <field name="parent_unittitles_teim">Gone The Sun</field>
++    <field name="parent_unittitles_teim">Gone The Sun&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Notes and chapter printouts of book</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -28,10 +28,12 @@
+     <field name="location_ssm">Box: 2, Folder: 16</field>
+     <field name="location_si">Box: 2, Folder: 16</field>
+     <field name="collection_teim">Michael Klepper Papers</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.145</field>
+-    <field name="series_sim">Gone The Sun</field>
++    <field name="series_sim">Gone The Sun&amp;#xA;</field>
+     <field name="series_sim">Notes and chapter printouts of book</field>
+-    <field name="series_si">Gone The Sun &gt;&gt; Notes and chapter printouts of book &gt;&gt; &lt;em&gt;Gone The Sun&lt;/em&gt; Chapter Printouts 16</field>
++    <field name="series_si">Gone The Sun
++ &gt;&gt; Notes and chapter printouts of book &gt;&gt; &lt;em&gt;Gone The Sun&lt;/em&gt; Chapter Printouts 16</field>
+     <field name="heading_ssm">Gone The Sun Chapter Printouts 16</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

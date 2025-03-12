@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Alice Keliher Papers</field>
+     <field name="collection_unitid_ssm">MC.139</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Citizen's Committee on Children of New York City, Inc. &lt;em&gt;Children Absent from School.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Citizen's Committee on Children of New York City, Inc. Children Absent from School.</field>
++    <field name="unittitle_ssm">Citizen&#39;s Committee on Children of New York City, Inc. &lt;em&gt;Children Absent from School.&lt;/em&gt;</field>
++    <field name="unittitle_teim">Citizen&#39;s Committee on Children of New York City, Inc. Children Absent from School.</field>
+     <field name="unitdate_teim">1949</field>
+     <field name="ref_ssi">aspace_ref113</field>
+     <field name="repository_ssi">archives</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 3, Folder: data_value_missing_f7b60871e2edd7b4c9ff6d23b63c8ed7</field>
+     <field name="location_si">Box: 3, Folder: data_value_missing_f7b60871e2edd7b4c9ff6d23b63c8ed7</field>
+     <field name="collection_teim">Alice Keliher Papers</field>
++    <field name="author_teim">University Archives staff. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">MC.139</field>
+     <field name="series_sim">Series I: Printed Material</field>
+     <field name="series_sim">Subseries B: Books</field>
+-    <field name="series_si">Series I: Printed Material &gt;&gt; Subseries B: Books &gt;&gt; Citizen's Committee on Children of New York City, Inc. &lt;em&gt;Children Absent from School.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Citizen's Committee on Children of New York City, Inc. Children Absent from School.</field>
++    <field name="series_si">Series I: Printed Material &gt;&gt; Subseries B: Books &gt;&gt; Citizen&#39;s Committee on Children of New York City, Inc. &lt;em&gt;Children Absent from School.&lt;/em&gt;</field>
++    <field name="heading_ssm">Citizen&#39;s Committee on Children of New York City, Inc. Children Absent from School.</field>
+     <field name="unitdate_ssm">1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">52</field>

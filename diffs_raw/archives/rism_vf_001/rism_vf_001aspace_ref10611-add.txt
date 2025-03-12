@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Haiti et l'Ambivalence Socialisee une Reconsideration</field>
+-    <field name="unittitle_teim">Haiti et l'Ambivalence Socialisee une Reconsideration</field>
++    <field name="unittitle_ssm">Haiti et l&#39;Ambivalence Socialisee une Reconsideration</field>
++    <field name="unittitle_teim">Haiti et l&#39;Ambivalence Socialisee une Reconsideration</field>
+     <field name="unitid_teim">RISM 23156</field>
+     <field name="unitid_ssm">RISM 23156</field>
+     <field name="creator_teim">Bourguignon, Erika, 1924-2015</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Haiti</field>
+     <field name="subject_sim">Mental illness.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Haiti</field>
+     <field name="series_sim">Haiti: Mental Illness</field>
+-    <field name="series_si">Haiti &gt;&gt; Haiti: Mental Illness &gt;&gt; Haiti et l'Ambivalence Socialisee une Reconsideration</field>
+-    <field name="heading_ssm">Haiti et l'Ambivalence Socialisee une Reconsideration</field>
++    <field name="series_si">Haiti &gt;&gt; Haiti: Mental Illness &gt;&gt; Haiti et l&#39;Ambivalence Socialisee une Reconsideration</field>
++    <field name="heading_ssm">Haiti et l&#39;Ambivalence Socialisee une Reconsideration</field>
+     <field name="unitdate_start_sim">1969</field>
+     <field name="unitdate_start_ssm">1969</field>
+     <field name="unitdate_start_si">1969</field>

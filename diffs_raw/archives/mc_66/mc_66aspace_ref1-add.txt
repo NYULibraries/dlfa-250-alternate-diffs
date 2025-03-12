@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1920/1920</field>
+     <field name="unitdate_normal_sim">1920/1920</field>
+     <field name="unitdate_teim">1920</field>
+-    <field name="scopecontent_teim">Series I includes Marshall S. Brown's seventy-seven page manuscript, entitled "NYU in World War I," regarding students and professors who were serving or who had served in the U.S. military.</field>
++    <field name="scopecontent_teim">Series I includes Marshall S. Brown&#39;s seventy-seven page manuscript, entitled &#34;NYU in World War I,&#34; regarding students and professors who were serving or who had served in the U.S. military.</field>
+     <field name="ref_ssi">aspace_ref1</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Marshall Brown Collection on New York University Faculty and Students in World War I</field>
++    <field name="author_teim">Catriona Schlosser</field>
+     <field name="collection_unitid_teim">MC.66</field>
+     <field name="series_si">Series I: New York University in World War I</field>
+     <field name="heading_ssm">Series I: New York University in World War I</field>

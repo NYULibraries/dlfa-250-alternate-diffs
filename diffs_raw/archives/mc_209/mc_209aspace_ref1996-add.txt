@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_209</field>
+     <field name="parent_ssi">aspace_ref868</field>
+     <field name="parent_ssm">aspace_ref868</field>
+-    <field name="parent_unittitles_ssm">Series VII: Personal Materials</field>
+-    <field name="parent_unittitles_teim">Series VII: Personal Materials</field>
++    <field name="parent_unittitles_ssm">Series VII:  Personal Materials</field>
++    <field name="parent_unittitles_teim">Series VII:  Personal Materials</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Larry Spruch Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Larry Spruch Papers</field>
+     <field name="collection_unitid_ssm">MC.209</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">List of political "Little-Known Facts" from &lt;em&gt;The Nation&lt;/em&gt;</field>
+-    <field name="unittitle_teim">List of political "Little-Known Facts" from The Nation</field>
++    <field name="unittitle_ssm">List of political &#34;Little-Known Facts&#34; from &lt;em&gt;The Nation&lt;/em&gt;</field>
++    <field name="unittitle_teim">List of political &#34;Little-Known Facts&#34; from The Nation</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref1996</field>
+     <field name="repository_ssi">archives</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 37, Folder: 38</field>
+     <field name="location_si">Box: 37, Folder: 38</field>
+     <field name="collection_teim">Larry Spruch Papers</field>
++    <field name="author_teim">Alex Starace and revised by Norma Chaires.  Inventory prepared by Catriona Schlosser and Celeste Brewer. Additional description by Celeste Brewer.</field>
+     <field name="collection_unitid_teim">MC.209</field>
+-    <field name="series_sim">Series VII: Personal Materials</field>
+-    <field name="series_si">Series VII: Personal Materials &gt;&gt; List of political "Little-Known Facts" from &lt;em&gt;The Nation&lt;/em&gt;</field>
+-    <field name="heading_ssm">List of political "Little-Known Facts" from The Nation</field>
++    <field name="series_sim">Series VII:  Personal Materials</field>
++    <field name="series_si">Series VII:  Personal Materials &gt;&gt; List of political &#34;Little-Known Facts&#34; from &lt;em&gt;The Nation&lt;/em&gt;</field>
++    <field name="heading_ssm">List of political &#34;Little-Known Facts&#34; from The Nation</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

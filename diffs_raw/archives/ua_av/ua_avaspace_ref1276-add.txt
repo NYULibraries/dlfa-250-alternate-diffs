@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1960/1960</field>
+     <field name="unitdate_normal_sim">1960/1960</field>
+     <field name="unitdate_inclusive_teim">1960</field>
+-    <field name="scopecontent_teim">Audio of television shows, news, and ads aken from a reel presumed to contain recordings of Professor Richard C. Harrier's class "Shakespeare: Complete Works," televised in fall 1960 as part of the Sunrise Semester program.</field>
++    <field name="scopecontent_teim">Audio of television shows, news, and ads aken from a reel presumed to contain recordings of Professor Richard C. Harrier&#39;s class &#34;Shakespeare: Complete Works,&#34; televised in fall 1960 as part of the Sunrise Semester program.</field>
+     <field name="ref_ssi">aspace_ref1276</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 2</field>
+     <field name="location_si">Box: 2</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Untitled: Television programming and ads</field>

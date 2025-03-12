@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,12 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Great Speakers Series II #2: Ralph Nader</field>
+-    <field name="unittitle_teim">Great Speakers Series II #2: Ralph Nader</field>
++    <field name="unittitle_ssm">Great Speakers Series II #2: Ralph Nader
++
++</field>
++    <field name="unittitle_teim">Great Speakers Series II #2: Ralph Nader
++
++</field>
+     <field name="unitid_teim">AV2900</field>
+     <field name="unitid_ssm">AV2900</field>
+     <field name="creator_teim">Nader, Ralph</field>
+@@ -24,8 +28,8 @@
+     <field name="unitdate_normal_teim">1974-10-24/1974-10-24</field>
+     <field name="unitdate_normal_sim">1974-10-24/1974-10-24</field>
+     <field name="unitdate_teim">1974-10-24</field>
+-    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2900: "Headswitch error in underscan. Severe skew error across top of frame throughout entire frame. Attempted to fix this by trying multiple TBCs and decks, this was the best possible quality. Mild Dropouts throughout."</field>
+-    <field name="phystech_teim">Transfer Technician Notes AV2901: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging and image jitter throughout, as a result of the inherent control track error. Aside from these anomalies, there is recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Image is less stable when camera moves to feature audience questions."</field>
++    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2900: &#34;Headswitch error in underscan. Severe skew error across top of frame throughout entire frame. Attempted to fix this by trying multiple TBCs and decks, this was the best possible quality. Mild Dropouts throughout.&#34;</field>
++    <field name="phystech_teim">Transfer Technician Notes AV2901: &#34;Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging and image jitter throughout, as a result of the inherent control track error. Aside from these anomalies, there is recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Image is less stable when camera moves to feature audience questions.&#34;</field>
+     <field name="persname_teim">Nader, Ralph</field>
+     <field name="persname_ssm">Nader, Ralph</field>
+     <field name="dao_teim">Great Speakers Series II #2: Ralph Nader</field>
+@@ -46,10 +50,15 @@
+     <field name="name_teim">Nader, Ralph</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series II #2: Ralph Nader</field>
+-    <field name="heading_ssm">Great Speakers Series II #2: Ralph Nader</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series II #2: Ralph Nader
++
++</field>
++    <field name="heading_ssm">Great Speakers Series II #2: Ralph Nader
++
++</field>
+     <field name="unitdate_ssm">1974-10-24</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

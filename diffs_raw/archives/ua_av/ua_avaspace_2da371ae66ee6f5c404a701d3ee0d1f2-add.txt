@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,13 +13,14 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Campus Dateline with Herb Livesey 3' Cuts</field>
+-    <field name="unittitle_teim">Campus Dateline with Herb Livesey 3' Cuts</field>
++    <field name="unittitle_ssm">Campus Dateline with Herb Livesey 3&#39; Cuts</field>
++    <field name="unittitle_teim">Campus Dateline with Herb Livesey 3&#39; Cuts</field>
+     <field name="unitid_teim">AV382</field>
+     <field name="unitid_ssm">AV382</field>
+     <field name="unitdate_teim">unknown</field>
+-    <field name="scopecontent_teim">Housing annotation: 1) "Afterword for Parents" 2) "It Really Is a Different World" 3) "Joe College Is Dead" 4) "The Old Quad Downtown" 5) "Colleges Ideal for Late-Bloomers" 6) "Parents' Survival Kit" 7) "Over-sell at the End of the Rainbow"</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 22 min.</field>
++    <field name="scopecontent_teim">Housing annotation: 1) &#34;Afterword for Parents&#34; 2) &#34;It Really Is a Different World&#34; 
++3) &#34;Joe College Is Dead&#34; 4) &#34;The Old Quad Downtown&#34; 5) &#34;Colleges Ideal for Late-Bloomers&#34; 6) &#34;Parents&#39; Survival Kit&#34; 7) &#34;Over-sell at the End of the Rainbow&#34;</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 22 min.</field>
+     <field name="ref_ssi">aspace_2da371ae66ee6f5c404a701d3ee0d1f2</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -30,10 +31,11 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV382</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV382</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Campus Dateline with Herb Livesey 3' Cuts</field>
+-    <field name="heading_ssm">Campus Dateline with Herb Livesey 3' Cuts</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Campus Dateline with Herb Livesey 3&#39; Cuts</field>
++    <field name="heading_ssm">Campus Dateline with Herb Livesey 3&#39; Cuts</field>
+     <field name="unitdate_ssm">unknown</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">331</field>

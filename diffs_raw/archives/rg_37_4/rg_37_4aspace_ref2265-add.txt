@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">2002/2002</field>
+     <field name="unitdate_normal_sim">2002/2002</field>
+     <field name="unitdate_inclusive_teim">14-Feb-02</field>
+-    <field name="scopecontent_teim">This is a panel discussion about pre-adolescent intellectuals and society's prejudice against precosity featuring Susan Sontag, Oliver Sacks, and Freeman Dyson.</field>
++    <field name="scopecontent_teim">This is a panel discussion about pre-adolescent intellectuals and society&#39;s prejudice against precosity featuring Susan Sontag, Oliver Sacks, and Freeman Dyson.</field>
+     <field name="persname_teim">Sontag, Susan, 1933-2004</field>
+     <field name="persname_teim">Dyson, Freeman J.</field>
+     <field name="persname_teim">Sacks, Oliver, 1933-2015</field>
+@@ -52,6 +52,7 @@
+     <field name="name_teim">Sacks, Oliver, 1933-2015</field>
+     <field name="subject_sim">Youth.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

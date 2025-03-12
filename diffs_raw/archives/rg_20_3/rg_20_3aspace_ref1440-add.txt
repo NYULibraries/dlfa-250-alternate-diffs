@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Program in Archival Management</field>
+     <field name="collection_unitid_ssm">RG.20.3</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Buchen, Philip: "Secrets of History &amp; The Law of Secrets"</field>
+-    <field name="unittitle_teim">Buchen, Philip: "Secrets of History &amp; The Law of Secrets"</field>
++    <field name="unittitle_ssm">Buchen, Philip: &#34;Secrets of History &amp; The Law of Secrets&#34;</field>
++    <field name="unittitle_teim">Buchen, Philip: &#34;Secrets of History &amp; The Law of Secrets&#34;</field>
+     <field name="unitdate_normal_ssm">1977/1977</field>
+     <field name="unitdate_normal_teim">1977/1977</field>
+     <field name="unitdate_normal_sim">1977/1977</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 12, Folder: 25</field>
+     <field name="location_si">Box: 12, Folder: 25</field>
+     <field name="collection_teim">Records of the Program in Archival Management</field>
++    <field name="author_teim">Annie Grunow. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">RG.20.3</field>
+     <field name="series_sim">Series I: Materials</field>
+-    <field name="series_si">Series I: Materials &gt;&gt; Buchen, Philip: "Secrets of History &amp; The Law of Secrets"</field>
+-    <field name="heading_ssm">Buchen, Philip: "Secrets of History &amp; The Law of Secrets"</field>
++    <field name="series_si">Series I: Materials &gt;&gt; Buchen, Philip: &#34;Secrets of History &amp; The Law of Secrets&#34;</field>
++    <field name="heading_ssm">Buchen, Philip: &#34;Secrets of History &amp; The Law of Secrets&#34;</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

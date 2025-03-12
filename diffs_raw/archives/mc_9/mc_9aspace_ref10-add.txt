@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1890/1890</field>
+     <field name="unitdate_normal_sim">1890/1890</field>
+     <field name="unitdate_inclusive_teim">1890</field>
+-    <field name="scopecontent_teim">North's notes presumably for three debates in which he participated, 1890.</field>
++    <field name="scopecontent_teim">North&#39;s notes presumably for three debates in which he participated, 1890.</field>
+     <field name="ref_ssi">aspace_ref10</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Frederick Alonzo North Papers</field>
++    <field name="author_teim">Susan Meier, April 1983.  Electronic version prepared by Catriona Schlosser.</field>
+     <field name="collection_unitid_teim">MC.9</field>
+     <field name="series_si">Series III: Debate Notes</field>
+     <field name="heading_ssm">Series III: Debate Notes</field>

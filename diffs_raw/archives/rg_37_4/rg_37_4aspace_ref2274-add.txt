@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">2005/2005</field>
+     <field name="unitdate_normal_sim">2005/2005</field>
+     <field name="unitdate_inclusive_teim">23-Feb-05</field>
+-    <field name="scopecontent_teim">Less than two months after her death, friends and admirers of Susan Sontag gather to discuss their memories of her, her works and her legacy. The event is introduced by Lawrence Weschler. Many unidentified speakers contribute. The event was organized by Susan's friend and designer of many of her books, William Drenttel. It is a somber and quiet event, described by one of the participants breaking a heavy silence, as being "like a Quaker meeting."</field>
++    <field name="scopecontent_teim">Less than two months after her death, friends and admirers of Susan Sontag gather to discuss their memories of her, her works and her legacy. The event is introduced by Lawrence Weschler. Many unidentified speakers contribute. The event was organized by Susan&#39;s friend and designer of many of her books, William Drenttel. It is a somber and quiet event, described by one of the participants breaking a heavy silence, as being &#34;like a Quaker meeting.&#34;</field>
+     <field name="genreform_teim">Eulogies</field>
+     <field name="genreform_ssm">Eulogies</field>
+     <field name="persname_teim">Weschler, Lawrence</field>
+@@ -50,6 +50,7 @@
+     <field name="name_teim">Drenttel, William</field>
+     <field name="name_teim">Sontag, Susan, 1933-2004</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

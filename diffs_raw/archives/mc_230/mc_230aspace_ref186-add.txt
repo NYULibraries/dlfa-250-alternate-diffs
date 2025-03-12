@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1890/1899</field>
+     <field name="unitdate_normal_sim">1890/1899</field>
+     <field name="unitdate_inclusive_teim">circa 1890s</field>
+-    <field name="dao_teim">NYU Exhibit at World's Columbian Exposition, Chicago -- by C.L. Bristol: 1893</field>
+-    <field name="dao_ssm">NYU Exhibit at World's Columbian Exposition, Chicago -- by C.L. Bristol: 1893</field>
++    <field name="dao_teim">NYU Exhibit at World&#39;s Columbian Exposition, Chicago -- by C.L. Bristol: 1893</field>
++    <field name="dao_ssm">NYU Exhibit at World&#39;s Columbian Exposition, Chicago -- by C.L. Bristol: 1893</field>
+     <field name="ref_ssi">aspace_ref186</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,6 +33,7 @@
+     <field name="location_si">Box: 9, Folder: 9</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
++    <field name="author_teim">Megan Findling</field>
+     <field name="collection_unitid_teim">MC.230</field>
+     <field name="series_sim">Series VI. NYU Campus, Students, and Related Images</field>
+     <field name="series_si">Series VI. NYU Campus, Students, and Related Images &gt;&gt; NYU Campus in the Snow</field>

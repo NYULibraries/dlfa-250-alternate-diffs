@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Alice Keliher Papers</field>
+     <field name="collection_unitid_ssm">MC.139</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Slides: Peterborough, Acoma, David and Pam's wedding</field>
+-    <field name="unittitle_teim">Slides: Peterborough, Acoma, David and Pam's wedding</field>
++    <field name="unittitle_ssm">Slides: Peterborough, Acoma, David and Pam&#39;s wedding</field>
++    <field name="unittitle_teim">Slides: Peterborough, Acoma, David and Pam&#39;s wedding</field>
+     <field name="unitdate_teim">1970-1971</field>
+     <field name="ref_ssi">aspace_ref1259</field>
+     <field name="repository_ssi">archives</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 20, Folder: 3</field>
+     <field name="location_si">Box: 20, Folder: 3</field>
+     <field name="collection_teim">Alice Keliher Papers</field>
++    <field name="author_teim">University Archives staff. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">MC.139</field>
+     <field name="series_sim">Series IV: Personal Memorabilia</field>
+-    <field name="series_si">Series IV: Personal Memorabilia &gt;&gt; Slides: Peterborough, Acoma, David and Pam's wedding</field>
+-    <field name="heading_ssm">Slides: Peterborough, Acoma, David and Pam's wedding</field>
++    <field name="series_si">Series IV: Personal Memorabilia &gt;&gt; Slides: Peterborough, Acoma, David and Pam&#39;s wedding</field>
++    <field name="heading_ssm">Slides: Peterborough, Acoma, David and Pam&#39;s wedding</field>
+     <field name="unitdate_ssm">1970-1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">614</field>

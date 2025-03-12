@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Insertion of Herman Smith's testimony on "Housing and the Economy," H9754</field>
+-    <field name="unittitle_teim">Insertion of Herman Smith's testimony on "Housing and the Economy," H9754</field>
++    <field name="unittitle_ssm">Insertion of Herman Smith&#39;s testimony on &#34;Housing and the Economy,&#34; H9754</field>
++    <field name="unittitle_teim">Insertion of Herman Smith&#39;s testimony on &#34;Housing and the Economy,&#34; H9754</field>
+     <field name="unitid_teim">cuid10443</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/613860</field>
+     <field name="unitid_ssm">cuid10443</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: III:19, Folder: 51</field>
+     <field name="location_si">Box: III:19, Folder: 51</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries II: Speeches and Appearances</field>
+-    <field name="series_si">Series III: Media &gt;&gt; Subseries II: Speeches and Appearances &gt;&gt; Insertion of Herman Smith's testimony on "Housing and the Economy," H9754</field>
+-    <field name="heading_ssm">Insertion of Herman Smith's testimony on "Housing and the Economy," H9754</field>
++    <field name="series_si">Series III: Media &gt;&gt; Subseries II: Speeches and Appearances &gt;&gt; Insertion of Herman Smith&#39;s testimony on &#34;Housing and the Economy,&#34; H9754</field>
++    <field name="heading_ssm">Insertion of Herman Smith&#39;s testimony on &#34;Housing and the Economy,&#34; H9754</field>
+     <field name="unitdate_ssm">Sep 25, 1980</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5248</field>

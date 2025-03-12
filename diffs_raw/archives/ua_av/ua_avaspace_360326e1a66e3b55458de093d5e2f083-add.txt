@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1975-06-05/1975-06-05</field>
+     <field name="unitdate_normal_sim">1975-06-05/1975-06-05</field>
+     <field name="unitdate_teim">1975-06-05</field>
+-    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 97 min.</field>
++    <field name="phystech_teim">Format: 1/4&#34; Open Reel Audio, Duration: 97 min.</field>
+     <field name="ref_ssi">aspace_360326e1a66e3b55458de093d5e2f083</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: AV176</field>
+     <field name="location_si">Box: Digitized Access Files, file: AV176</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Graduation [1]</field>

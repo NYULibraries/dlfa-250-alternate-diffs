@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,10 +6,10 @@
+     <field name="parent_ssi">aspace_ref14</field>
+     <field name="parent_ssm">aspace_ref11</field>
+     <field name="parent_ssm">aspace_ref14</field>
+-    <field name="parent_unittitles_ssm">Series I: Manuscripts</field>
+-    <field name="parent_unittitles_ssm">Subseries C: Volume III, 1949-1957</field>
+-    <field name="parent_unittitles_teim">Series I: Manuscripts</field>
+-    <field name="parent_unittitles_teim">Subseries C: Volume III, 1949-1957</field>
++    <field name="parent_unittitles_ssm">Series I:  Manuscripts</field>
++    <field name="parent_unittitles_ssm">Subseries C:  Volume III, 1949-1957</field>
++    <field name="parent_unittitles_teim">Series I:  Manuscripts</field>
++    <field name="parent_unittitles_teim">Subseries C:  Volume III, 1949-1957</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Arthur Gordon Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Arthur Gordon Papers</field>
+     <field name="collection_unitid_ssm">MC.160</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Journal entries: "Fallacy of the Bright Fragment" and correspondence with Bill Mowery</field>
+-    <field name="unittitle_teim">Journal entries: "Fallacy of the Bright Fragment" and correspondence with Bill Mowery</field>
++    <field name="unittitle_ssm">Journal entries:  &#34;Fallacy of the Bright Fragment&#34; and correspondence with Bill Mowery</field>
++    <field name="unittitle_teim">Journal entries:  &#34;Fallacy of the Bright Fragment&#34; and correspondence with Bill Mowery</field>
+     <field name="unitdate_normal_ssm">1949/1950</field>
+     <field name="unitdate_normal_teim">1949/1950</field>
+     <field name="unitdate_normal_sim">1949/1950</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 2, Folder: 29</field>
+     <field name="location_si">Box: 2, Folder: 29</field>
+     <field name="collection_teim">Arthur Gordon Papers</field>
++    <field name="author_teim">Celeste Brewer.</field>
+     <field name="collection_unitid_teim">MC.160</field>
+-    <field name="series_sim">Series I: Manuscripts</field>
+-    <field name="series_sim">Subseries C: Volume III, 1949-1957</field>
+-    <field name="series_si">Series I: Manuscripts &gt;&gt; Subseries C: Volume III, 1949-1957 &gt;&gt; Journal entries: "Fallacy of the Bright Fragment" and correspondence with Bill Mowery</field>
+-    <field name="heading_ssm">Journal entries: "Fallacy of the Bright Fragment" and correspondence with Bill Mowery</field>
++    <field name="series_sim">Series I:  Manuscripts</field>
++    <field name="series_sim">Subseries C:  Volume III, 1949-1957</field>
++    <field name="series_si">Series I:  Manuscripts &gt;&gt; Subseries C:  Volume III, 1949-1957 &gt;&gt; Journal entries:  &#34;Fallacy of the Bright Fragment&#34; and correspondence with Bill Mowery</field>
++    <field name="heading_ssm">Journal entries:  &#34;Fallacy of the Bright Fragment&#34; and correspondence with Bill Mowery</field>
+     <field name="unitdate_start_sim">1949</field>
+     <field name="unitdate_start_ssm">1949</field>
+     <field name="unitdate_start_si">1949</field>

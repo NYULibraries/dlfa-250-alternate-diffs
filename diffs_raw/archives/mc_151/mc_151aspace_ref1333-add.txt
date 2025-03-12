@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,12 @@
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
+-    <field name="unittitle_teim">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
++    <field name="unittitle_teim">1.) Barbara Manning
++ 2.) Jane Rubin 6/1/66
++Hilly and Abby Weed Grey 6/6/66 re attorney and Walker
++Jim Haseltine (his voice)
++Letter to Paul Schettler (slip inside)
++Iran cable; Inez Quin</field>
+     <field name="unitid_teim">ref1333</field>
+     <field name="unitid_ssm">ref1333</field>
+     <field name="unitdate_normal_ssm">1966/1966</field>
+@@ -23,9 +28,8 @@
+     <field name="unitdate_normal_teim">2019/2019</field>
+     <field name="unitdate_normal_sim">1966/1966</field>
+     <field name="unitdate_normal_sim">2019/2019</field>
+-    <field name="unitdate_teim"></field>
+     <field name="unitdate_inclusive_teim">1966</field>
+-    <field name="phystech_teim">Format: 1/4" open reel audio, Size: 3" reel, Other: 1.0 mil. acetate, 900 ft.</field>
++    <field name="phystech_teim">Format: 1/4&#34; open reel audio, Size: 3&#34; reel, Other: 1.0 mil. acetate, 900 ft.</field>
+     <field name="ref_ssi">aspace_ref1333</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -36,10 +40,16 @@
+     <field name="location_ssm">E-records: nyuarchives_MC151, E-records: ref1333</field>
+     <field name="location_si">E-records: nyuarchives_MC151, E-records: ref1333</field>
+     <field name="collection_teim">Abby Weed Grey Papers</field>
++    <field name="author_teim">Amy Surak. Additional processing by Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVI: Audiovisual Materials</field>
+     <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; 1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
+-    <field name="heading_ssm">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
++    <field name="heading_ssm">1.) Barbara Manning
++ 2.) Jane Rubin 6/1/66
++Hilly and Abby Weed Grey 6/6/66 re attorney and Walker
++Jim Haseltine (his voice)
++Letter to Paul Schettler (slip inside)
++Iran cable; Inez Quin</field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_sim">2019</field>
+     <field name="unitdate_start_ssm">1966</field>
+@@ -50,7 +60,6 @@
+     <field name="unitdate_end_ssm">1966</field>
+     <field name="unitdate_end_ssm">2019</field>
+     <field name="unitdate_end_si">2019</field>
+-    <field name="unitdate_ssm"></field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">429</field>

@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_inclusive_teim">3-Oct-86</field>
+-    <field name="scopecontent_teim">Round table conversation of unnamed participants, on the working class and its relationship with commercial culture and art in the 19th century. A good portion of the conversation revolves around T.J. Clark's book, The Painting of Modern Life: Paris in the Art of Manet and His Followers. The formal conversation ends about 5 minutes before the recording and that time is filled with layered banter between the participants.</field>
++    <field name="scopecontent_teim">Round table conversation of unnamed participants, on the working class and its relationship with commercial culture and art in the 19th century. A good portion of the conversation revolves around T.J. Clark&#39;s book, The Painting of Modern Life: Paris in the Art of Manet and His Followers. The formal conversation ends about 5 minutes before the recording and that time is filled with layered banter between the participants.</field>
+     <field name="geogname_teim">Paris (France) |x Intellectual life |y 19th century.</field>
+     <field name="geogname_teim">Paris (France) -- History.</field>
+     <field name="geogname_teim">Paris (France)</field>
+@@ -72,10 +72,10 @@
+     <field name="name_sim">Clark, T. J. (Timothy J.)</field>
+     <field name="name_teim">Manet, Édouard, 1832-1883</field>
+     <field name="name_teim">Clark, T. J. (Timothy J.)</field>
+-    <field name="place_ssm">Paris (France) -- Intellectual life -- 19th century.</field>
++    <field name="place_ssm">Paris (France) --Intellectual life --19th century.</field>
+     <field name="place_ssm">Paris (France) -- History.</field>
+     <field name="place_ssm">Paris (France)</field>
+-    <field name="place_sim">Paris (France) -- Intellectual life -- 19th century.</field>
++    <field name="place_sim">Paris (France) --Intellectual life --19th century.</field>
+     <field name="place_sim">Paris (France) -- History.</field>
+     <field name="place_sim">Paris (France)</field>
+     <field name="subject_sim">Realism in art</field>
+@@ -87,6 +87,7 @@
+     <field name="subject_sim">Art.</field>
+     <field name="subject_sim">Impressionism (Art)</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

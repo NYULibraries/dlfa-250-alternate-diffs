@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref189</field>
+     <field name="parent_unittitles_ssm">Series II: James Buell Munn</field>
+     <field name="parent_unittitles_ssm">Subseries B: Harvard University</field>
+-    <field name="parent_unittitles_ssm">Sub-subseries 1: Student Years at Harvard</field>
++    <field name="parent_unittitles_ssm">Sub-subseries 1: Student Years at Harvard </field>
+     <field name="parent_unittitles_teim">Series II: James Buell Munn</field>
+     <field name="parent_unittitles_teim">Subseries B: Harvard University</field>
+-    <field name="parent_unittitles_teim">Sub-subseries 1: Student Years at Harvard</field>
++    <field name="parent_unittitles_teim">Sub-subseries 1: Student Years at Harvard </field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James Buell Munn Papers</field>
+@@ -19,8 +19,9 @@
+     <field name="collection_ssm">James Buell Munn Papers</field>
+     <field name="collection_unitid_ssm">MC.2</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Student Records JBM's report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
+-    <field name="unittitle_teim">Student Records JBM's report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
++    <field name="unittitle_ssm">Student Records  JBM&#39;s report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
++    <field name="unittitle_teim">Student Records 
++ JBM&#39;s report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
+     <field name="unitdate_normal_ssm">1909/1912</field>
+     <field name="unitdate_normal_teim">1909/1912</field>
+     <field name="unitdate_normal_sim">1909/1912</field>
+@@ -34,12 +35,14 @@
+     <field name="location_ssm">Box: 2, Folder: 2</field>
+     <field name="location_si">Box: 2, Folder: 2</field>
+     <field name="collection_teim">James Buell Munn Papers</field>
++    <field name="author_teim">Brenda Parnes</field>
+     <field name="collection_unitid_teim">MC.2</field>
+     <field name="series_sim">Series II: James Buell Munn</field>
+     <field name="series_sim">Subseries B: Harvard University</field>
+-    <field name="series_sim">Sub-subseries 1: Student Years at Harvard</field>
+-    <field name="series_si">Series II: James Buell Munn &gt;&gt; Subseries B: Harvard University &gt;&gt; Sub-subseries 1: Student Years at Harvard &gt;&gt; Student Records JBM's report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
+-    <field name="heading_ssm">Student Records JBM's report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
++    <field name="series_sim">Sub-subseries 1: Student Years at Harvard </field>
++    <field name="series_si">Series II: James Buell Munn &gt;&gt; Subseries B: Harvard University &gt;&gt; Sub-subseries 1: Student Years at Harvard  &gt;&gt; Student Records  JBM&#39;s report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
++    <field name="heading_ssm">Student Records 
++ JBM&#39;s report card (1909-1910 academic year); questionnaire, Class of 1912.</field>
+     <field name="unitdate_start_sim">1909</field>
+     <field name="unitdate_start_ssm">1909</field>
+     <field name="unitdate_start_si">1909</field>

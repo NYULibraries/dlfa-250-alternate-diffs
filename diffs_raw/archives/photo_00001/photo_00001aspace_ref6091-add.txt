@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref5578</field>
+     <field name="parent_ssm">aspace_ref6088</field>
+     <field name="parent_unittitles_ssm">Washington Square Campus Buildings</field>
+-    <field name="parent_unittitles_ssm">Iris and B. Gerald Cantor Film Center</field>
++    <field name="parent_unittitles_ssm">Iris and B. Gerald Cantor Film Center&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Washington Square Campus Buildings</field>
+-    <field name="parent_unittitles_teim">Iris and B. Gerald Cantor Film Center</field>
++    <field name="parent_unittitles_teim">Iris and B. Gerald Cantor Film Center&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Photograph Collection</field>
+@@ -40,10 +40,12 @@
+     <field name="name_teim">New York University. Washington Square Campus</field>
+     <field name="name_teim">New York University -- Buildings</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Campus Buildings</field>
+-    <field name="series_sim">Iris and B. Gerald Cantor Film Center</field>
+-    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Iris and B. Gerald Cantor Film Center &gt;&gt; Iris and B. Gerald Cantor Film Center, Looking South</field>
++    <field name="series_sim">Iris and B. Gerald Cantor Film Center&amp;#xA;</field>
++    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Iris and B. Gerald Cantor Film Center
++ &gt;&gt; Iris and B. Gerald Cantor Film Center, Looking South</field>
+     <field name="heading_ssm">Iris and B. Gerald Cantor Film Center, Looking South</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

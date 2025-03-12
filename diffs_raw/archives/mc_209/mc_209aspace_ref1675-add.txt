@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_209</field>
+     <field name="parent_ssi">aspace_ref867</field>
+     <field name="parent_ssm">aspace_ref867</field>
+-    <field name="parent_unittitles_ssm">Series VI: University of Pennsylvania Coursework</field>
+-    <field name="parent_unittitles_teim">Series VI: University of Pennsylvania Coursework</field>
++    <field name="parent_unittitles_ssm">Series VI:  University of Pennsylvania Coursework</field>
++    <field name="parent_unittitles_teim">Series VI:  University of Pennsylvania Coursework</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Larry Spruch Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 36, Folder: 8</field>
+     <field name="location_si">Box: 36, Folder: 8</field>
+     <field name="collection_teim">Larry Spruch Papers</field>
++    <field name="author_teim">Alex Starace and revised by Norma Chaires.  Inventory prepared by Catriona Schlosser and Celeste Brewer. Additional description by Celeste Brewer.</field>
+     <field name="collection_unitid_teim">MC.209</field>
+-    <field name="series_sim">Series VI: University of Pennsylvania Coursework</field>
+-    <field name="series_si">Series VI: University of Pennsylvania Coursework &gt;&gt; University of Pennsylvania exam forms</field>
++    <field name="series_sim">Series VI:  University of Pennsylvania Coursework</field>
++    <field name="series_si">Series VI:  University of Pennsylvania Coursework &gt;&gt; University of Pennsylvania exam forms</field>
+     <field name="heading_ssm">University of Pennsylvania exam forms</field>
+     <field name="unitdate_start_sim">1947</field>
+     <field name="unitdate_start_ssm">1947</field>

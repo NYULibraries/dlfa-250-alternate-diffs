@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1926/1983</field>
+     <field name="unitdate_normal_sim">1926/1983</field>
+     <field name="unitdate_inclusive_teim">1926-1983</field>
+-    <field name="scopecontent_teim">"Administrative Papers" consists largely of NYU publications, press releases and schedules, along with those from other organizations for the study of Hebrew language with which Katsh was involved.</field>
++    <field name="scopecontent_teim">&#34;Administrative Papers&#34; consists largely of NYU publications, press releases and schedules, along with those from other organizations for the study of Hebrew language with which Katsh was involved.</field>
+     <field name="ref_ssi">aspace_ref6</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Abraham I. Katsh Papers</field>
++    <field name="author_teim">Rina Eisenberg</field>
+     <field name="collection_unitid_teim">MC.26</field>
+     <field name="series_si">Series IV: Administrative Papers</field>
+     <field name="heading_ssm">Series IV: Administrative Papers</field>

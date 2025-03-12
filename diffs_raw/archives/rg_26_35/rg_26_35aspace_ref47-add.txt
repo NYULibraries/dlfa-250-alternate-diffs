@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">School of Education, Health, Nursing, and Arts Professions (SEHNAP) of Dissertations and Theses</field>
+     <field name="collection_unitid_ssm">RG.26.35</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">An Analysis of the Concept of the Artist's Intention in the Visual Arts, by Gertrude Kessel</field>
+-    <field name="unittitle_teim">An Analysis of the Concept of the Artist's Intention in the Visual Arts, by Gertrude Kessel</field>
++    <field name="unittitle_ssm">An Analysis of the Concept of the Artist&#39;s Intention in the Visual Arts, by Gertrude Kessel</field>
++    <field name="unittitle_teim">An Analysis of the Concept of the Artist&#39;s Intention in the Visual Arts, by Gertrude Kessel</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 3</field>
+     <field name="location_si">Box: 2, Folder: 3</field>
+     <field name="collection_teim">School of Education, Health, Nursing, and Arts Professions (SEHNAP) of Dissertations and Theses</field>
++    <field name="author_teim">Lisa Darms</field>
+     <field name="collection_unitid_teim">RG.26.35</field>
+     <field name="series_sim">Series I: Department of Art and Art Professions Dissertations</field>
+-    <field name="series_si">Series I: Department of Art and Art Professions Dissertations &gt;&gt; An Analysis of the Concept of the Artist's Intention in the Visual Arts, by Gertrude Kessel</field>
+-    <field name="heading_ssm">An Analysis of the Concept of the Artist's Intention in the Visual Arts, by Gertrude Kessel</field>
++    <field name="series_si">Series I: Department of Art and Art Professions Dissertations &gt;&gt; An Analysis of the Concept of the Artist&#39;s Intention in the Visual Arts, by Gertrude Kessel</field>
++    <field name="heading_ssm">An Analysis of the Concept of the Artist&#39;s Intention in the Visual Arts, by Gertrude Kessel</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">cuid4153</field>
+     <field name="unitid_ssm">cuid4153</field>
+     <field name="unitdate_teim">April 5, 1996</field>
+-    <field name="scopecontent_teim">New York Times staff writer William Finnegan discusses the topic of a book in progress - youth, race and poverty in America and the trend of downward mobility. Before Finnegan's lecture, Charles Halpern eulogizes W. Hayword Burns, who had been killed in an automobile accident the previous Tuesday.</field>
++    <field name="scopecontent_teim">New York Times staff writer William Finnegan discusses the topic of a book in progress - youth, race and poverty in America and the trend of downward mobility. Before Finnegan&#39;s lecture, Charles Halpern eulogizes W. Hayword Burns, who had been killed in an automobile accident the previous Tuesday.</field>
+     <field name="persname_teim">Finnegan, William</field>
+     <field name="persname_ssm">Finnegan, William</field>
+     <field name="subject_teim">Children of minorities</field>
+@@ -60,6 +60,7 @@
+     <field name="subject_sim">Poverty.</field>
+     <field name="subject_sim">Ethnic groups.</field>
+     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
++    <field name="author_teim">Lisa Darms. Additional media items processed by Marissa De Simone.</field>
+     <field name="collection_unitid_teim">RG.37.4</field>
+     <field name="series_sim">Series III: Audio and Video Recordings</field>
+     <field name="series_sim">Subseries A: Cassette Tapes</field>

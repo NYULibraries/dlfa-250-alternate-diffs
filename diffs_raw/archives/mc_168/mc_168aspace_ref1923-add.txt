@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">House of Representatives: "Task Force on Administrative Units &amp; Task Force on Work Management"</field>
+-    <field name="unittitle_teim">House of Representatives: "Task Force on Administrative Units &amp; Task Force on Work Management"</field>
++    <field name="unittitle_ssm">House of Representatives: &#34;Task Force on Administrative Units &amp; Task Force on Work Management&#34;</field>
++    <field name="unittitle_teim">House of Representatives: &#34;Task Force on Administrative Units &amp; Task Force on Work Management&#34;</field>
+     <field name="unitid_teim">cuid6161</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/609568</field>
+     <field name="unitid_ssm">cuid6161</field>
+@@ -35,11 +35,12 @@
+     <field name="location_ssm">Box: I:25, Folder: 8</field>
+     <field name="location_si">Box: I:25, Folder: 8</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series I : Legislative</field>
+     <field name="series_sim">Subseries V: Topical Files</field>
+-    <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Topical Files &gt;&gt; House of Representatives: "Task Force on Administrative Units &amp; Task Force on Work Management"</field>
+-    <field name="heading_ssm">House of Representatives: "Task Force on Administrative Units &amp; Task Force on Work Management"</field>
++    <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Topical Files &gt;&gt; House of Representatives: &#34;Task Force on Administrative Units &amp; Task Force on Work Management&#34;</field>
++    <field name="heading_ssm">House of Representatives: &#34;Task Force on Administrative Units &amp; Task Force on Work Management&#34;</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

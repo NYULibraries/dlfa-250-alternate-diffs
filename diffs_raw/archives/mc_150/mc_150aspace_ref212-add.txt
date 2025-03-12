@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unittitle_teim">Admin.--Correspondence--A up to 1950 incl. (2 of 3)</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/603663</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/603663</field>
+-    <field name="unitdate_teim">1937-1944</field>
++    <field name="unitdate_teim">1937-1944 </field>
+     <field name="ref_ssi">aspace_ref212</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -30,12 +30,13 @@
+     <field name="location_ssm">Box: 16, Folder: 6</field>
+     <field name="location_si">Box: 16, Folder: 6</field>
+     <field name="collection_teim">Richard Courant Papers</field>
++    <field name="author_teim">Katie Ehrlich. Additional processing and German translation by Ryan Dahn</field>
+     <field name="collection_unitid_teim">MC.150</field>
+     <field name="series_sim">Series II: Files from the Office of Richard Courant</field>
+     <field name="series_sim">Subseries A: General Files</field>
+     <field name="series_si">Series II: Files from the Office of Richard Courant &gt;&gt; Subseries A: General Files &gt;&gt; Admin.--Correspondence--A up to 1950 incl. (2 of 3)</field>
+     <field name="heading_ssm">Admin.--Correspondence--A up to 1950 incl. (2 of 3)</field>
+-    <field name="unitdate_ssm">1937-1944</field>
++    <field name="unitdate_ssm">1937-1944 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1975-03-15/1975-03-15</field>
+     <field name="unitdate_normal_sim">1975-03-15/1975-03-15</field>
+     <field name="unitdate_teim">1975-03-15</field>
+-    <field name="phystech_teim">Format: 1/4" open reel audio</field>
++    <field name="phystech_teim">Format: 1/4&#34; open reel audio</field>
+     <field name="ref_ssi">aspace_219d14f29ed04d4ca412e66ca2f03c4b</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 6, reel: AV260</field>
+     <field name="location_si">Box: 6, reel: AV260</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Non Fiction Writers Workshop, Loeb Student Center, NYU, Tape #5.</field>

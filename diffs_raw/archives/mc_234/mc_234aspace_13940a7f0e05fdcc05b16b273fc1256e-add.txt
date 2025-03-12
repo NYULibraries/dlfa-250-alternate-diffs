@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Ceramic, female pig ringing a bell that reads "The Dinner Bell" for two peering over piglets</field>
++    <field name="scopecontent_teim">Ceramic, female pig ringing a bell that reads &#34;The Dinner Bell&#34; for two peering over piglets</field>
+     <field name="ref_ssi">aspace_13940a7f0e05fdcc05b16b273fc1256e</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 24, Item: 23</field>
+     <field name="location_si">Box: 24, Item: 23</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series III: Utilitarian Objects</field>
+     <field name="series_sim">Subseries III K: Jewelry Containers</field>

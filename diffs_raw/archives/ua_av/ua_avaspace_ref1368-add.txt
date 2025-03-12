@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out"</field>
+-    <field name="unittitle_teim">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out"</field>
++    <field name="unittitle_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show &#34;School&#39;s Out&#34; </field>
++    <field name="unittitle_teim">Interview with Louis Scheeder on MSG Metro Learning Center TV show &#34;School&#39;s Out&#34; </field>
+     <field name="unitid_teim">AV3344</field>
+     <field name="unitid_ssm">AV3344</field>
+     <field name="unitdate_teim">February 23, 1999</field>
+-    <field name="scopecontent_teim">Interview segment from "School's Out" a TV show geared toward teens interested in arts and humanities. Director of NYU's Classical Studio, Louis Scheeder is interviewed, discussing Shakespeare and the film Shakespeare in Love.</field>
++    <field name="scopecontent_teim">Interview segment from &#34;School&#39;s Out&#34; a TV show geared toward teens interested in arts and humanities. Director of NYU&#39;s Classical Studio, Louis Scheeder is interviewed, discussing Shakespeare and the film Shakespeare in Love.</field>
+     <field name="corpname_teim">Tisch School of the Arts</field>
+     <field name="corpname_ssm">Tisch School of the Arts</field>
+     <field name="persname_teim">Scheeder, Louis</field>
+@@ -42,10 +42,11 @@
+     <field name="name_teim">Scheeder, Louis</field>
+     <field name="name_teim">Shakespeare, William, 1564-1616</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out"</field>
+-    <field name="heading_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out"</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Interview with Louis Scheeder on MSG Metro Learning Center TV show &#34;School&#39;s Out&#34; </field>
++    <field name="heading_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show &#34;School&#39;s Out&#34; </field>
+     <field name="unitdate_ssm">February 23, 1999</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

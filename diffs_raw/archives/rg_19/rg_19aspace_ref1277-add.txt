@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,10 +7,10 @@
+     <field name="parent_ssm">aspace_ref13</field>
+     <field name="parent_ssm">aspace_ref752</field>
+     <field name="parent_ssm">aspace_ref1279</field>
+-    <field name="parent_unittitles_ssm">Series I: Washington Square Dean's Files</field>
++    <field name="parent_unittitles_ssm">Series I: Washington Square Dean&amp;#39;s Files</field>
+     <field name="parent_unittitles_ssm">Subseries D: Administrative Subject Files</field>
+     <field name="parent_unittitles_ssm">GSAS Fellowships</field>
+-    <field name="parent_unittitles_teim">Series I: Washington Square Dean's Files</field>
++    <field name="parent_unittitles_teim">Series I: Washington Square Dean&amp;#39;s Files</field>
+     <field name="parent_unittitles_teim">Subseries D: Administrative Subject Files</field>
+     <field name="parent_unittitles_teim">GSAS Fellowships</field>
+     <field name="component_level_isim">4</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 29, Folder: 24</field>
+     <field name="location_si">Box: 29, Folder: 24</field>
+     <field name="collection_teim">Records of the Office of the Dean of Washington Square College</field>
++    <field name="author_teim">University Archives staff, including Evan Friss and Rachel Harrison.</field>
+     <field name="collection_unitid_teim">RG.19</field>
+-    <field name="series_sim">Series I: Washington Square Dean's Files</field>
++    <field name="series_sim">Series I: Washington Square Dean&amp;#39;s Files</field>
+     <field name="series_sim">Subseries D: Administrative Subject Files</field>
+     <field name="series_sim">GSAS Fellowships</field>
+-    <field name="series_si">Series I: Washington Square Dean's Files &gt;&gt; Subseries D: Administrative Subject Files &gt;&gt; GSAS Fellowships &gt;&gt; GSAS Deanship</field>
++    <field name="series_si">Series I: Washington Square Dean&#39;s Files &gt;&gt; Subseries D: Administrative Subject Files &gt;&gt; GSAS Fellowships &gt;&gt; GSAS Deanship</field>
+     <field name="heading_ssm">GSAS Deanship</field>
+     <field name="unitdate_start_sim">1964</field>
+     <field name="unitdate_start_ssm">1964</field>

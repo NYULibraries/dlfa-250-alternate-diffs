@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"NYU On the Air" - Clip Reel of NYU-related segments on TV shows</field>
+-    <field name="unittitle_teim">"NYU On the Air" - Clip Reel of NYU-related segments on TV shows</field>
++    <field name="unittitle_ssm">&#34;NYU On the Air&#34; - Clip Reel of NYU-related segments on TV shows</field>
++    <field name="unittitle_teim">&#34;NYU On the Air&#34; - Clip Reel of NYU-related segments on TV shows</field>
+     <field name="unitid_teim">AV3349</field>
+     <field name="unitid_ssm">AV3349</field>
+     <field name="unitdate_teim">1998</field>
+-    <field name="scopecontent_teim">Entitled "NYU on the Air," this reel is composed mostly of clips from news shows featuring professors or administrators from NYU. Clips come from The Late Show with David Letterman, Inside the Law, Giraldo Rivera, Legal Cafe, CNN News, CNN Showbiz, Seinfeld, and Cosby. Some of the featured guests are Dean of Stern School of Business George Daly, then Dean of NYU Law School John Sexton, Financial Aid Director Keith Jepsen, Director of Africana Studies Manthia Diawara and President Jay Oliva The reel was produced by the Elisa Guarino in the Department of Media Production and the Office of Public Affairs.</field>
++    <field name="scopecontent_teim">Entitled &#34;NYU on the Air,&#34; this reel is composed mostly of clips from news shows featuring professors or administrators from NYU. Clips come from The Late Show with David Letterman, Inside the Law, Giraldo Rivera, Legal Cafe, CNN News, CNN Showbiz, Seinfeld, and Cosby. Some of the featured guests are Dean of Stern School of Business George Daly, then Dean of NYU Law School John Sexton, Financial Aid Director Keith Jepsen, Director of Africana Studies Manthia Diawara and President Jay Oliva The reel was produced by the Elisa Guarino in the Department of Media Production and the Office of Public Affairs.</field>
+     <field name="corpname_teim">New York University. Office of Media Production</field>
+     <field name="corpname_ssm">New York University. Office of Media Production</field>
+     <field name="persname_teim">Richards, Michael, 1949-</field>
+@@ -84,10 +84,11 @@
+     <field name="name_teim">Daly, George G.</field>
+     <field name="name_teim">Sexton, John Edward, 1942-</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; "NYU On the Air" - Clip Reel of NYU-related segments on TV shows</field>
+-    <field name="heading_ssm">"NYU On the Air" - Clip Reel of NYU-related segments on TV shows</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; &#34;NYU On the Air&#34; - Clip Reel of NYU-related segments on TV shows</field>
++    <field name="heading_ssm">&#34;NYU On the Air&#34; - Clip Reel of NYU-related segments on TV shows</field>
+     <field name="unitdate_ssm">1998</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

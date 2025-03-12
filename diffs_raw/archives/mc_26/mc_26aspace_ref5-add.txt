@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1905/1985</field>
+     <field name="unitdate_normal_sim">1905/1985</field>
+     <field name="unitdate_inclusive_teim">1905-1985</field>
+-    <field name="scopecontent_teim">"Event Files" includes programs and speech notes from events at which Katsh spoke or was honored over the course of his career.</field>
++    <field name="scopecontent_teim">&#34;Event Files&#34; includes programs and speech notes from events at which Katsh spoke or was honored over the course of his career.</field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Abraham I. Katsh Papers</field>
++    <field name="author_teim">Rina Eisenberg</field>
+     <field name="collection_unitid_teim">MC.26</field>
+     <field name="series_si">Series III: Event Files</field>
+     <field name="heading_ssm">Series III: Event Files</field>

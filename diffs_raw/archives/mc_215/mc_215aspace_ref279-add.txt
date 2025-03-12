@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_215</field>
+     <field name="parent_ssi">aspace_ref278</field>
+     <field name="parent_ssm">aspace_ref278</field>
+-    <field name="parent_unittitles_ssm">Series IV: Audiovisual Material</field>
+-    <field name="parent_unittitles_teim">Series IV: Audiovisual Material</field>
++    <field name="parent_unittitles_ssm">Series IV: Audiovisual Material </field>
++    <field name="parent_unittitles_teim">Series IV: Audiovisual Material </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Edith Kramer Papers</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2010/2010</field>
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">2010, undated</field>
+-    <field name="scopecontent_teim">This disc contains over 200 digital images of Edith Kramer's works of art.</field>
++    <field name="scopecontent_teim">This disc contains over 200 digital images of Edith Kramer&#39;s works of art.</field>
+     <field name="ref_ssi">aspace_ref279</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -31,9 +31,10 @@
+     <field name="location_ssm">Box: 9, disc: 1</field>
+     <field name="location_si">Box: 9, disc: 1</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+-    <field name="series_sim">Series IV: Audiovisual Material</field>
+-    <field name="series_si">Series IV: Audiovisual Material &gt;&gt; Edith Kramer Artwork</field>
++    <field name="series_sim">Series IV: Audiovisual Material </field>
++    <field name="series_si">Series IV: Audiovisual Material  &gt;&gt; Edith Kramer Artwork</field>
+     <field name="heading_ssm">Edith Kramer Artwork</field>
+     <field name="unitdate_start_sim">2010</field>
+     <field name="unitdate_start_ssm">2010</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Abby Weed Grey Papers</field>
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Notes on course "Iran in Black &amp; White," by Sam Peterson</field>
+-    <field name="unittitle_teim">Notes on course "Iran in Black &amp; White," by Sam Peterson</field>
++    <field name="unittitle_ssm">Notes on course &#34;Iran in Black &amp; White,&#34; by Sam Peterson</field>
++    <field name="unittitle_teim">Notes on course &#34;Iran in Black &amp; White,&#34; by Sam Peterson</field>
+     <field name="unitdate_normal_ssm">1967/1967</field>
+     <field name="unitdate_normal_teim">1967/1967</field>
+     <field name="unitdate_normal_sim">1967/1967</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 16, Folder: 1</field>
+     <field name="location_si">Box: 16, Folder: 1</field>
+     <field name="collection_teim">Abby Weed Grey Papers</field>
++    <field name="author_teim">Amy Surak. Additional processing by Aleksandr Gelfand.</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series VII: Misc. Activities and Memorabilia, 1959-1975</field>
+-    <field name="series_si">Series VII: Misc. Activities and Memorabilia, 1959-1975 &gt;&gt; Notes on course "Iran in Black &amp; White," by Sam Peterson</field>
+-    <field name="heading_ssm">Notes on course "Iran in Black &amp; White," by Sam Peterson</field>
++    <field name="series_si">Series VII: Misc. Activities and Memorabilia, 1959-1975 &gt;&gt; Notes on course &#34;Iran in Black &amp; White,&#34; by Sam Peterson</field>
++    <field name="heading_ssm">Notes on course &#34;Iran in Black &amp; White,&#34; by Sam Peterson</field>
+     <field name="unitdate_start_sim">1967</field>
+     <field name="unitdate_start_ssm">1967</field>
+     <field name="unitdate_start_si">1967</field>

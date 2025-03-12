@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,12 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Great Speakers Series 1974 #2: Jimmy Breslin</field>
+-    <field name="unittitle_teim">Great Speakers Series 1974 #2: Jimmy Breslin</field>
++    <field name="unittitle_ssm">Great Speakers Series 1974 #2: Jimmy Breslin
++
++</field>
++    <field name="unittitle_teim">Great Speakers Series 1974 #2: Jimmy Breslin
++
++</field>
+     <field name="unitid_teim">AV2896</field>
+     <field name="unitid_ssm">AV2896</field>
+     <field name="creator_teim">Breslin, Jimmy</field>
+@@ -24,7 +28,7 @@
+     <field name="unitdate_normal_teim">1974-02-28/1974-02-28</field>
+     <field name="unitdate_normal_sim">1974-02-28/1974-02-28</field>
+     <field name="unitdate_teim">1974-02-28</field>
+-    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "Content is almost entirely a static shot of Jimmy Breslin speaking at a podium, and it plays with very little error. The TBC used introduces a mild skew error in bottom third of frame, but was deemed to yield the best image among a number of TBCs. Mild ghosting throughout. Audio buzzing throughout, which intensifies when Breslin stops for audience questions. Mild head switch error visible throughout."</field>
++    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: &#34;Content is almost entirely a static shot of Jimmy Breslin speaking at a podium, and it plays with very little error. The TBC used introduces a mild skew error in bottom third of frame, but was deemed to yield the best image among a number of TBCs. Mild ghosting throughout. Audio buzzing throughout, which intensifies when Breslin stops for audience questions. Mild head switch error visible throughout.&#34;</field>
+     <field name="persname_teim">Breslin, Jimmy</field>
+     <field name="persname_ssm">Breslin, Jimmy</field>
+     <field name="dao_teim">Great Speakers Series 1974 #2: Jimmy Breslin</field>
+@@ -42,10 +46,15 @@
+     <field name="name_teim">Breslin, Jimmy</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series 1974 #2: Jimmy Breslin</field>
+-    <field name="heading_ssm">Great Speakers Series 1974 #2: Jimmy Breslin</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series 1974 #2: Jimmy Breslin
++
++</field>
++    <field name="heading_ssm">Great Speakers Series 1974 #2: Jimmy Breslin
++
++</field>
+     <field name="unitdate_ssm">1974-02-28</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

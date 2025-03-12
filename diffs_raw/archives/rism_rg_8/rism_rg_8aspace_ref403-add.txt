@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series VI. Surveys and Questionnaires</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+-    <field name="collection_ssm">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
++    <field name="collection_sim">Records of the Research Institute for the Study of Man&#39;s (RISM) Medical and Social Anthropological Research in Bolivia</field>
++    <field name="collection_ssm">Records of the Research Institute for the Study of Man&#39;s (RISM) Medical and Social Anthropological Research in Bolivia</field>
+     <field name="collection_unitid_ssm">RISM.RG.8</field>
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries A. Attitudinal Questionnaire / Cedula de Creencias</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1965/1966</field>
+     <field name="unitdate_normal_sim">1965/1966</field>
+     <field name="unitdate_inclusive_teim">1965-1966</field>
+-    <field name="scopecontent_teim">This subseries. contains 229 Attitudinal Questionnaires/Cedulas de Creencias. These questionnaires are organized by community and include the names of persons who were interviewed, mainly teenagers to middle aged men. These names may also appear in the Biographical Index in Subseries III. A. The questionnaires include questions on family, life, work, aspirations, and broad social and cultural attitudes. Specific topics include looking for work, repairing water sources, and raising children. Hypothetical situations are offered on each topic, followed by a series of questions based on these topics.</field>
++    <field name="scopecontent_teim">This subseries. contains 229 Attitudinal Questionnaires/Cedulas de Creencias. These questionnaires are organized by community and include the names of persons who were interviewed, mainly teenagers to middle aged men. These names may also appear in the Biographical Index in Subseries III. A.  The questionnaires include questions on family, life, work, aspirations, and broad social and cultural attitudes.  Specific topics include looking for work, repairing water sources, and raising children.  Hypothetical situations are offered on each topic, followed by a series of questions based on these topics.</field>
+     <field name="ref_ssi">aspace_ref403</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -28,7 +28,8 @@
+     <field name="repository_ssm">archives</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
++    <field name="collection_teim">Records of the Research Institute for the Study of Man&#39;s (RISM) Medical and Social Anthropological Research in Bolivia</field>
++    <field name="author_teim">Ulla S. Holmequist and Ani Rivera. Processed with new finding aid by Emilyn L. Brown and Hillina Seife, June 2006.  </field>
+     <field name="collection_unitid_teim">RISM.RG.8</field>
+     <field name="series_sim">Series VI. Surveys and Questionnaires</field>
+     <field name="series_si">Series VI. Surveys and Questionnaires &gt;&gt; Subseries A. Attitudinal Questionnaire / Cedula de Creencias</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Dark gray, metal pig head with back inscription that reads "Ralph Langer Porceltian Club 1903"</field>
++    <field name="scopecontent_teim">Dark gray, metal pig head with back inscription that reads &#34;Ralph Langer Porceltian Club 1903&#34;</field>
+     <field name="ref_ssi">aspace_cbffd22386f3271bd0e0fcdfba56d1f8</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 16, Item: 11</field>
+     <field name="location_si">Box: 16, Item: 11</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series I: Single Pig Figurines</field>
+     <field name="series_sim">Subseries I H: Metal Pig Figurines</field>

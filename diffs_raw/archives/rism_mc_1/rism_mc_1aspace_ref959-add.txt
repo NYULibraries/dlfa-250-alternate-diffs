@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Appendix</field>
+     <field name="unittitle_teim">Appendix</field>
+-    <field name="scopecontent_teim">This series contains a binder of copies of Withers materials that were included in an exhibition titled "Retrospect and Prospect: Research Collections and Archives 1955-1985."</field>
++    <field name="scopecontent_teim">This series contains a binder of copies of Withers materials that were included in an exhibition titled &#34;Retrospect and Prospect: Research Collections and Archives 1955-1985.&#34;</field>
+     <field name="ref_ssi">aspace_ref959</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Carl L. Withers Manuscript Collection</field>
++    <field name="author_teim">Emilyn L. Brown, Sep 2005.  Inventory revised by John Bence and Margaret Fraser, Oct 2010.  Series X processed by Catriona Schlosser.</field>
+     <field name="collection_unitid_teim">RISM.MC.1</field>
+     <field name="series_si">Appendix</field>
+     <field name="heading_ssm">Appendix</field>

@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,12 @@
+     <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+     <field name="collection_unitid_ssm">CAP.1</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
+-    <field name="unittitle_teim">A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
++    <field name="unittitle_ssm">A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
++    <field name="unittitle_teim">A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
+     <field name="unitid_teim">cap1_ref162</field>
+     <field name="unitid_ssm">cap1_ref162</field>
+-    <field name="dao_teim">A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
+-    <field name="dao_ssm">A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
++    <field name="dao_teim">A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
++    <field name="dao_ssm">A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
+     <field name="ref_ssi">aspace_ref162</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -29,10 +29,11 @@
+     <field name="location_si">object: 75</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
++    <field name="author_teim">Jonathan Lawler, Olivia Jane Mueller, and John Zarrillo</field>
+     <field name="collection_unitid_teim">CAP.1</field>
+     <field name="series_sim">Digitized Publications</field>
+-    <field name="series_si">Digitized Publications &gt;&gt; A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
+-    <field name="heading_ssm">A Catalog of Cooke Anastigmats For Fine Photography with "Helps to Photographers"</field>
++    <field name="series_si">Digitized Publications &gt;&gt; A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
++    <field name="heading_ssm">A Catalog of Cooke Anastigmats For Fine Photography with &#34;Helps to Photographers&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">76</field>
+   </doc>

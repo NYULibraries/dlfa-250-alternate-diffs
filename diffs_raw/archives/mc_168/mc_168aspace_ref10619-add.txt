@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Brademas Host South Bend Blacks" South Bend Communicator</field>
+-    <field name="unittitle_teim">"Brademas Host South Bend Blacks" South Bend Communicator</field>
++    <field name="unittitle_ssm">&#34;Brademas Host South Bend Blacks&#34; South Bend Communicator</field>
++    <field name="unittitle_teim">&#34;Brademas Host South Bend Blacks&#34; South Bend Communicator</field>
+     <field name="unitid_teim">cuid10500</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/613919</field>
+     <field name="unitid_ssm">cuid10500</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: III:20, Folder: 1</field>
+     <field name="location_si">Box: III:20, Folder: 1</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries IV: Clippings</field>
+-    <field name="series_si">Series III: Media &gt;&gt; Subseries IV: Clippings &gt;&gt; "Brademas Host South Bend Blacks" South Bend Communicator</field>
+-    <field name="heading_ssm">"Brademas Host South Bend Blacks" South Bend Communicator</field>
++    <field name="series_si">Series III: Media &gt;&gt; Subseries IV: Clippings &gt;&gt; &#34;Brademas Host South Bend Blacks&#34; South Bend Communicator</field>
++    <field name="heading_ssm">&#34;Brademas Host South Bend Blacks&#34; South Bend Communicator</field>
+     <field name="unitdate_ssm">May 31, 1980</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5307</field>

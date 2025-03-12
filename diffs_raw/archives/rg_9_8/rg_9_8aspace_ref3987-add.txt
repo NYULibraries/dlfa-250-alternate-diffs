@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1973-01-14/1973-01-14</field>
+     <field name="unitdate_normal_sim">1973-01-14/1973-01-14</field>
+     <field name="unitdate_teim">1973-01-14</field>
+-    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Dr. Hilda Fortune discuss whether or not the City University of New York is meeting the needs of minority and low-income youth, including if adequate counseling services are available. They also discuss the diversity of CUNY's faculty.</field>
++    <field name="scopecontent_teim">Dr. Roscoe C. Brown, Jr. and Dr. Hilda Fortune discuss whether or not the City University of New York is meeting the needs of minority and low-income youth, including if adequate counseling services are available. They also discuss the diversity of CUNY&#39;s faculty.</field>
+     <field name="dao_teim">Fortune, Dr. Hilda -- Professor of Sociology at York College of the City University of New York.: 1973 January 14</field>
+     <field name="dao_ssm">Fortune, Dr. Hilda -- Professor of Sociology at York College of the City University of New York.: 1973 January 14</field>
+     <field name="ref_ssi">aspace_ref3987</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: 53, Folder: 166</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Records of the Institute of African American Affairs</field>
++    <field name="author_teim">University Archives staff and Stacey Flatt</field>
+     <field name="collection_unitid_teim">RG.9.8</field>
+     <field name="series_sim">Series IV. Audiovisual Recordings</field>
+     <field name="series_sim">Subseries IV.A. The Soul of Reason Audio Recordings</field>

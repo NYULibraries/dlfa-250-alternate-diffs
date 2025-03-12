@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Oval, wooden plaque depicting a pink pig outside; "Eat To Live, Don't Live To Eat" text across pig's back</field>
++    <field name="scopecontent_teim">Oval, wooden plaque depicting a pink pig outside; &#34;Eat To Live, Don&#39;t Live To Eat&#34; text across pig&#39;s back</field>
+     <field name="ref_ssi">aspace_eb4dbb062d8ea59b0622afb18c0315a2</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 1, Item: 11</field>
+     <field name="location_si">Box: 1, Item: 11</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series III: Utilitarian Objects</field>
+     <field name="series_sim">Subseries III I: Wall Hangings and Artwork</field>

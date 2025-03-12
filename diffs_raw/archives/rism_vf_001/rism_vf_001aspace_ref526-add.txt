@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Bahamians' British Roots Traced</field>
+-    <field name="unittitle_teim">Bahamians' British Roots Traced</field>
++    <field name="unittitle_ssm">Bahamians&#39; British Roots Traced</field>
++    <field name="unittitle_teim">Bahamians&#39; British Roots Traced</field>
+     <field name="unitid_teim">RISM 17755</field>
+     <field name="unitid_ssm">RISM 17755</field>
+     <field name="creator_teim">Holm, John A.</field>
+@@ -49,11 +49,12 @@
+     <field name="place_sim">Bahamas.</field>
+     <field name="subject_sim">Creole dialects, English.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Bahamas</field>
+     <field name="series_sim">Bahamas: Creole Dialects, English</field>
+-    <field name="series_si">Bahamas &gt;&gt; Bahamas: Creole Dialects, English &gt;&gt; Bahamians' British Roots Traced</field>
+-    <field name="heading_ssm">Bahamians' British Roots Traced</field>
++    <field name="series_si">Bahamas &gt;&gt; Bahamas: Creole Dialects, English &gt;&gt; Bahamians&#39; British Roots Traced</field>
++    <field name="heading_ssm">Bahamians&#39; British Roots Traced</field>
+     <field name="unitdate_start_sim">1980</field>
+     <field name="unitdate_start_ssm">1980</field>
+     <field name="unitdate_start_si">1980</field>

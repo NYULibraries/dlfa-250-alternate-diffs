@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,8 +24,9 @@
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">7 October 1974</field>
+-    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2911: "As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate to severe flagging and mild image jitter throughout. Elsewhere, there are occasional mild dropouts and tape wear. There exists one extended instance of tape creasing. Occasional inherent exposure adjustments and mild ghosting. Luma is adjusted to mitigate clipping from glare. There are occasional instances of high frequency noise and mild audio distortion inherent to the content."</field>
+-    <field name="phystech_teim">Transfer Technician Notes AV2912: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging throughout, as a result of the inherent control track error. Recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Mild audio distortion is inherent to original recording."</field>
++    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2911: &#34;As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate to severe flagging and mild image jitter throughout. Elsewhere, there are occasional mild dropouts and tape wear. There exists one extended instance of tape creasing. Occasional inherent exposure adjustments and mild ghosting. Luma is adjusted to mitigate clipping from glare. There are occasional instances of high frequency noise and mild audio distortion inherent to the content.&#34;</field>
++    <field name="phystech_teim">
++Transfer Technician Notes AV2912: &#34;Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging throughout, as a result of the inherent control track error. Recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Mild audio distortion is inherent to original recording.&#34;</field>
+     <field name="genreform_teim">Jazz</field>
+     <field name="genreform_ssm">Jazz</field>
+     <field name="persname_teim">Kleinsinger, Jack</field>
+@@ -47,6 +48,7 @@
+     <field name="name_teim">Kleinsinger, Jack</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Highlights in Jazz: Latin Jam</field>

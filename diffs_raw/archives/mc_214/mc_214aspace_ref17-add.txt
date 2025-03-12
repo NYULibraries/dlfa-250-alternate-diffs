@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref12</field>
+     <field name="parent_unittitles_ssm">Series I. Publications and Related Bound Materials</field>
+-    <field name="parent_unittitles_ssm">Subseries IB. "Manuscripts of Religious and Philosophical Instruction," (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).</field>
++    <field name="parent_unittitles_ssm">Subseries IB. &amp;#34;Manuscripts of Religious and Philosophical Instruction,&amp;#34; (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).  &amp;#xA;&amp;#xA;&amp;#xA;&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series I. Publications and Related Bound Materials</field>
+-    <field name="parent_unittitles_teim">Subseries IB. "Manuscripts of Religious and Philosophical Instruction," (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).</field>
++    <field name="parent_unittitles_teim">Subseries IB. &amp;#34;Manuscripts of Religious and Philosophical Instruction,&amp;#34; (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).  &amp;#xA;&amp;#xA;&amp;#xA;&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Raymo Papers</field>
+@@ -31,10 +31,15 @@
+     <field name="location_ssm">Box: 1, Folder: 12</field>
+     <field name="location_si">Box: 1, Folder: 12</field>
+     <field name="collection_teim">Robert Raymo Papers</field>
++    <field name="author_teim">Ashley Sena-Levine</field>
+     <field name="collection_unitid_teim">MC.214</field>
+     <field name="series_sim">Series I. Publications and Related Bound Materials</field>
+-    <field name="series_sim">Subseries IB. "Manuscripts of Religious and Philosophical Instruction," (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).</field>
+-    <field name="series_si">Series I. Publications and Related Bound Materials &gt;&gt; Subseries IB. "Manuscripts of Religious and Philosophical Instruction," (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986). &gt;&gt; &lt;em&gt;British Museum: The Catalogues of the Manuscript Collections&lt;/em&gt;</field>
++    <field name="series_sim">Subseries IB. &amp;#34;Manuscripts of Religious and Philosophical Instruction,&amp;#34; (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).  &amp;#xA;&amp;#xA;&amp;#xA;&amp;#xA;</field>
++    <field name="series_si">Series I. Publications and Related Bound Materials &gt;&gt; Subseries IB. &#34;Manuscripts of Religious and Philosophical Instruction,&#34; (edited by Robert Raymo) in Manual of Writings in Middle English vol. 7 (1986).  
++
++
++
++ &gt;&gt; &lt;em&gt;British Museum: The Catalogues of the Manuscript Collections&lt;/em&gt;</field>
+     <field name="heading_ssm">British Museum: The Catalogues of the Manuscript Collections</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

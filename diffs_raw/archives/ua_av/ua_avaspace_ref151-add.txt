@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Urban League Presents: Let's Get Rid of Rats</field>
+-    <field name="unittitle_teim">Urban League Presents: Let's Get Rid of Rats</field>
++    <field name="unittitle_ssm">Urban League Presents: Let&#39;s Get Rid of Rats</field>
++    <field name="unittitle_teim">Urban League Presents: Let&#39;s Get Rid of Rats</field>
+     <field name="unitid_teim">AV567</field>
+     <field name="unitid_ssm">AV567</field>
+     <field name="unitdate_normal_ssm">1961/1961</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 14, reel: 567</field>
+     <field name="location_si">Box: 14, reel: 567</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Urban League Presents: Let's Get Rid of Rats</field>
+-    <field name="heading_ssm">Urban League Presents: Let's Get Rid of Rats</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Urban League Presents: Let&#39;s Get Rid of Rats</field>
++    <field name="heading_ssm">Urban League Presents: Let&#39;s Get Rid of Rats</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1958/1972</field>
+     <field name="unitdate_normal_sim">1958/1972</field>
+     <field name="unitdate_inclusive_teim">ca. 1958-1979</field>
+-    <field name="scopecontent_teim">This artwork is titled "Hercunles" but it appears to be a depiction of Hercules.</field>
++    <field name="scopecontent_teim">This artwork is titled &#34;Hercunles&#34; but it appears to be a depiction of Hercules.</field>
+     <field name="scopecontent_teim">12 x 18 inches, charcoal on paper</field>
+     <field name="phystech_teim">Do not remove tape; it conceals private health information and was applied by Edith Kramer.</field>
+     <field name="ref_ssi">aspace_776be3fe93d044fa9d5116cf141ca9a6</field>
+@@ -34,6 +34,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+     <field name="series_sim">Series V: Artwork</field>
+     <field name="series_sim">Sub-Series B: Artwork Created During Art Therapy</field>

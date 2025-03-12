@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref71</field>
+     <field name="parent_ssm">aspace_ref449</field>
+     <field name="parent_unittitles_ssm">Series II: Professional Papers</field>
+-    <field name="parent_unittitles_ssm">Subseries H: Benet's U.S./USSR Aging and Longevity Studies</field>
++    <field name="parent_unittitles_ssm">Subseries H: Benet&amp;#39;s U.S./USSR Aging and Longevity Studies</field>
+     <field name="parent_unittitles_teim">Series II: Professional Papers</field>
+-    <field name="parent_unittitles_teim">Subseries H: Benet's U.S./USSR Aging and Longevity Studies</field>
++    <field name="parent_unittitles_teim">Subseries H: Benet&amp;#39;s U.S./USSR Aging and Longevity Studies</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sula Benet Papers</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 28, Folder: 1</field>
+     <field name="location_si">Box: 28, Folder: 1</field>
+     <field name="collection_teim">Sula Benet Papers</field>
++    <field name="author_teim">RISM staff.  Inventory revised by Margaret Fraser and Samantha Gibson, September 2010.</field>
+     <field name="collection_unitid_teim">RISM.RG.2</field>
+     <field name="series_sim">Series II: Professional Papers</field>
+-    <field name="series_sim">Subseries H: Benet's U.S./USSR Aging and Longevity Studies</field>
+-    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries H: Benet's U.S./USSR Aging and Longevity Studies &gt;&gt; Research Proposal</field>
++    <field name="series_sim">Subseries H: Benet&amp;#39;s U.S./USSR Aging and Longevity Studies</field>
++    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries H: Benet&#39;s U.S./USSR Aging and Longevity Studies &gt;&gt; Research Proposal</field>
+     <field name="heading_ssm">Research Proposal</field>
+     <field name="unitdate_ssm">circa 1980s</field>
+     <field name="date_range_sim">undated &amp; other</field>

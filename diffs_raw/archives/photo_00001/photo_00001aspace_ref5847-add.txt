@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York University Archives Photograph Collection</field>
+     <field name="collection_unitid_ssm">PHOTO.00001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place</field>
+-    <field name="unittitle_teim">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place</field>
++    <field name="unittitle_ssm">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place </field>
++    <field name="unittitle_teim">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place </field>
+     <field name="unitid_teim">NYU_ARCH_PHOTO_00001_ref5847</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/636849</field>
+     <field name="unitid_ssm">NYU_ARCH_PHOTO_00001_ref5847</field>
+@@ -36,11 +36,12 @@
+     <field name="name_sim">New York University -- Buildings</field>
+     <field name="name_teim">New York University -- Buildings</field>
+     <field name="collection_teim">New York University Archives Photograph Collection</field>
++    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+     <field name="collection_unitid_teim">PHOTO.00001</field>
+     <field name="series_sim">Washington Square Campus Buildings</field>
+     <field name="series_sim">Washington Square Book Center (Bookstore)</field>
+-    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Washington Square Book Center (Bookstore) &gt;&gt; Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place</field>
+-    <field name="heading_ssm">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place</field>
++    <field name="series_si">Washington Square Campus Buildings &gt;&gt; Washington Square Book Center (Bookstore) &gt;&gt; Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place </field>
++    <field name="heading_ssm">Basement Checkout Lines from Security Camera, New York University Bookstore, 18 Washington Place </field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

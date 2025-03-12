@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Prof. Raiken's class/Gallatin promo/Gallatin tape 13</field>
+-    <field name="unittitle_teim">Prof. Raiken's class/Gallatin promo/Gallatin tape 13</field>
++    <field name="unittitle_ssm">Prof. Raiken&#39;s class/Gallatin promo/Gallatin tape 13</field>
++    <field name="unittitle_teim">Prof. Raiken&#39;s class/Gallatin promo/Gallatin tape 13</field>
+     <field name="unitid_teim">AV5144</field>
+     <field name="unitid_ssm">AV5144</field>
+     <field name="unitdate_teim">undated</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: Shared University Archives 116, Item: 55</field>
+     <field name="location_si">Box: Shared University Archives 116, Item: 55</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Prof. Raiken's class/Gallatin promo/Gallatin tape 13</field>
+-    <field name="heading_ssm">Prof. Raiken's class/Gallatin promo/Gallatin tape 13</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Prof. Raiken&#39;s class/Gallatin promo/Gallatin tape 13</field>
++    <field name="heading_ssm">Prof. Raiken&#39;s class/Gallatin promo/Gallatin tape 13</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

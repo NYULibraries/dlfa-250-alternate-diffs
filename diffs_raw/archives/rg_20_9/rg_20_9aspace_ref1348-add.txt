@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Records of the Public History Program</field>
+     <field name="collection_unitid_ssm">RG.20.9</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">'Image as Artifact,' John E. O'Connor, American Historical Association, 1987</field>
+-    <field name="unittitle_teim">'Image as Artifact,' John E. O'Connor, American Historical Association, 1987</field>
++    <field name="unittitle_ssm">&#39;Image as Artifact,&#39; John E. O&#39;Connor, American Historical Association, 1987</field>
++    <field name="unittitle_teim">&#39;Image as Artifact,&#39; John E. O&#39;Connor, American Historical Association, 1987</field>
+     <field name="unitid_teim">cuid3365</field>
+     <field name="unitid_ssm">cuid3365</field>
+     <field name="unitdate_normal_ssm">1987/1987</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 15, object: 1</field>
+     <field name="location_si">Box: 15, object: 1</field>
+     <field name="collection_teim">Records of the Public History Program</field>
++    <field name="author_teim">Ashley Jones and Julianna Monjeau. Additional processing by Claire Wolford.</field>
+     <field name="collection_unitid_teim">RG.20.9</field>
+     <field name="series_sim">Series VI: Media</field>
+     <field name="series_sim">1978-1988</field>
+-    <field name="series_si">Series VI: Media &gt;&gt; 1978-1988 &gt;&gt; 'Image as Artifact,' John E. O'Connor, American Historical Association, 1987</field>
+-    <field name="heading_ssm">'Image as Artifact,' John E. O'Connor, American Historical Association, 1987</field>
++    <field name="series_si">Series VI: Media &gt;&gt; 1978-1988 &gt;&gt; &#39;Image as Artifact,&#39; John E. O&#39;Connor, American Historical Association, 1987</field>
++    <field name="heading_ssm">&#39;Image as Artifact,&#39; John E. O&#39;Connor, American Historical Association, 1987</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>
+     <field name="unitdate_start_si">1987</field>

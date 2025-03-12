@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_ssm">1930/1939</field>
+     <field name="unitdate_normal_teim">1930/1939</field>
+     <field name="unitdate_normal_sim">1930/1939</field>
+-    <field name="unitdate_inclusive_teim">ca. 1930's</field>
++    <field name="unitdate_inclusive_teim">ca. 1930&#39;s</field>
+     <field name="ref_ssi">aspace_91a0d9e8f4baee8b9060b116723404e4</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Flat-File-Folder: 2</field>
+     <field name="location_si">Flat-File-Folder: 2</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+     <field name="series_sim">Series V: Artwork</field>
+     <field name="series_sim">Sub-Series A: Artwork by Edith Kramer</field>
+@@ -44,7 +45,7 @@
+     <field name="unitdate_end_sim">1939</field>
+     <field name="unitdate_end_ssm">1939</field>
+     <field name="unitdate_end_si">1939</field>
+-    <field name="unitdate_ssm">Inclusive, ca. 1930's</field>
++    <field name="unitdate_ssm">Inclusive, ca. 1930&#39;s</field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">380</field>
+   </doc>

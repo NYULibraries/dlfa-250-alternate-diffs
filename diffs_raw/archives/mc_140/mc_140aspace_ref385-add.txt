@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_140</field>
+     <field name="parent_ssi">aspace_ref20</field>
+     <field name="parent_ssm">aspace_ref20</field>
+-    <field name="parent_unittitles_ssm">Series I.a: Research on Chaucer's Man of Law's Tale for the Chaucer Variorum</field>
+-    <field name="parent_unittitles_teim">Series I.a: Research on Chaucer's Man of Law's Tale for the Chaucer Variorum</field>
++    <field name="parent_unittitles_ssm">Series I.a: Research on Chaucer&amp;#39;s Man of Law&amp;#39;s Tale for the Chaucer Variorum</field>
++    <field name="parent_unittitles_teim">Series I.a: Research on Chaucer&amp;#39;s Man of Law&amp;#39;s Tale for the Chaucer Variorum</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lillian Herlands Hornstein Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Lillian Herlands Hornstein Papers</field>
+     <field name="collection_unitid_ssm">MC.140</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law's Tale.</field>
+-    <field name="unittitle_teim">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law's Tale.</field>
++    <field name="unittitle_ssm">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law&#39;s Tale.</field>
++    <field name="unittitle_teim">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law&#39;s Tale.</field>
+     <field name="unitdate_normal_ssm">1930/1980</field>
+     <field name="unitdate_normal_teim">1930/1980</field>
+     <field name="unitdate_normal_sim">1930/1980</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 6, Folder: 2</field>
+     <field name="location_si">Box: 6, Folder: 2</field>
+     <field name="collection_teim">Lillian Herlands Hornstein Papers</field>
++    <field name="author_teim">Ariana Huberman</field>
+     <field name="collection_unitid_teim">MC.140</field>
+-    <field name="series_sim">Series I.a: Research on Chaucer's Man of Law's Tale for the Chaucer Variorum</field>
+-    <field name="series_si">Series I.a: Research on Chaucer's Man of Law's Tale for the Chaucer Variorum &gt;&gt; Prior to last draft-First part. Roughly the first 100 pages of the Man of Law's Tale.</field>
+-    <field name="heading_ssm">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law's Tale.</field>
++    <field name="series_sim">Series I.a: Research on Chaucer&amp;#39;s Man of Law&amp;#39;s Tale for the Chaucer Variorum</field>
++    <field name="series_si">Series I.a: Research on Chaucer&#39;s Man of Law&#39;s Tale for the Chaucer Variorum &gt;&gt; Prior to last draft-First part. Roughly the first 100 pages of the Man of Law&#39;s Tale.</field>
++    <field name="heading_ssm">Prior to last draft-First part. Roughly the first 100 pages of the Man of Law&#39;s Tale.</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>
+     <field name="unitdate_start_si">1930</field>

@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,9 +31,9 @@
+     <field name="corpname_teim">WNDU-TV (Television station : South Bend, Ind.)</field>
+     <field name="corpname_ssm">WNDU-TV (Television station : South Bend, Ind.)</field>
+     <field name="persname_teim">Kevorkian, Harry</field>
+-    <field name="persname_teim">Brademas, John, 1927-2016</field>
++    <field name="persname_teim">Brademas, John,  1927-2016</field>
+     <field name="persname_ssm">Kevorkian, Harry</field>
+-    <field name="persname_ssm">Brademas, John, 1927-2016</field>
++    <field name="persname_ssm">Brademas, John,  1927-2016</field>
+     <field name="ref_ssi">aspace_ref10913</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -40,15 +40,18 @@
+     <field name="repository_ssm">archives</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: III:22, Folder:</field>
+-    <field name="location_si">Box: III:22, Folder:</field>
++    <field name="location_ssm">Box: III:22, Folder: 
++</field>
++    <field name="location_si">Box: III:22, Folder: 
++</field>
+     <field name="name_sim">WNDU-TV (Television station : South Bend, Ind.)</field>
+     <field name="name_sim">Kevorkian, Harry</field>
+-    <field name="name_sim">Brademas, John, 1927-2016</field>
++    <field name="name_sim">Brademas, John,  1927-2016</field>
+     <field name="name_teim">WNDU-TV (Television station : South Bend, Ind.)</field>
+     <field name="name_teim">Kevorkian, Harry</field>
+-    <field name="name_teim">Brademas, John, 1927-2016</field>
++    <field name="name_teim">Brademas, John,  1927-2016</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_sim">Subseries V: Audiovisual Materials</field>

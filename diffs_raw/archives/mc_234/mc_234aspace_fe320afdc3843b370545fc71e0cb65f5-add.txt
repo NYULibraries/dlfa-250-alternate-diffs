@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_teim">1900/2013</field>
+     <field name="unitdate_normal_sim">1900/2013</field>
+     <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+-    <field name="scopecontent_teim">Ceramic man in chef's uniform with apron that reads "menu" holding two white pigs; set of two. Related to item 9 in box 5.</field>
++    <field name="scopecontent_teim">Ceramic man in chef&#39;s uniform with apron that reads &#34;menu&#34; holding two white pigs; set of two. Related to item 9 in box 5.</field>
+     <field name="ref_ssi">aspace_fe320afdc3843b370545fc71e0cb65f5</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 10, Item: 10</field>
+     <field name="location_si">Box: 10, Item: 10</field>
+     <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
++    <field name="author_teim">Andrea Kutsenkow and Kate Fisher</field>
+     <field name="collection_unitid_teim">MC.234</field>
+     <field name="series_sim">Series II: Complex Pig Figurines and Sets</field>
+     <field name="series_sim">Subseries II B: Ceramic Pig Figurines with Humans</field>

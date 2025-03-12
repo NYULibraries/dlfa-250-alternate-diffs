@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">John Brademas Congressional Papers</field>
+     <field name="collection_unitid_ssm">MC.168</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Robert Rauschenberg "Untitled '73" prints</field>
+-    <field name="unittitle_teim">Robert Rauschenberg "Untitled '73" prints</field>
++    <field name="unittitle_ssm">Robert Rauschenberg &#34;Untitled &#39;73&#34; prints</field>
++    <field name="unittitle_teim">Robert Rauschenberg &#34;Untitled &#39;73&#34; prints</field>
+     <field name="unitid_teim">cuid14525</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/748649</field>
+     <field name="unitid_ssm">cuid14525</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Flat-File-Folder: 1</field>
+     <field name="location_si">Flat-File-Folder: 1</field>
+     <field name="collection_teim">John Brademas Congressional Papers</field>
++    <field name="author_teim">Katie Senft. Additional description by Rachel Harrison and Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.168</field>
+     <field name="series_sim">Series VI: Memorabilia</field>
+-    <field name="series_si">Series VI: Memorabilia &gt;&gt; Robert Rauschenberg "Untitled '73" prints</field>
+-    <field name="heading_ssm">Robert Rauschenberg "Untitled '73" prints</field>
++    <field name="series_si">Series VI: Memorabilia &gt;&gt; Robert Rauschenberg &#34;Untitled &#39;73&#34; prints</field>
++    <field name="heading_ssm">Robert Rauschenberg &#34;Untitled &#39;73&#34; prints</field>
+     <field name="unitdate_start_sim">1973</field>
+     <field name="unitdate_start_ssm">1973</field>
+     <field name="unitdate_start_si">1973</field>

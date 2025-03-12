@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Listen, I Dare You! Program #7: "What is an Opera?" Reel I of I.</field>
+-    <field name="unittitle_teim">Listen, I Dare You! Program #7: "What is an Opera?" Reel I of I.</field>
++    <field name="unittitle_ssm">Listen, I Dare You! Program #7: &#34;What is an Opera?&#34; Reel I of I.</field>
++    <field name="unittitle_teim">Listen, I Dare You! Program #7: &#34;What is an Opera?&#34; Reel I of I.</field>
+     <field name="unitid_teim">AV250</field>
+     <field name="unitid_ssm">AV250</field>
+     <field name="unitdate_normal_ssm">1975-07-16/1975-07-16</field>
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1975-07-16/1975-07-16</field>
+     <field name="unitdate_normal_sim">1975-07-16/1975-07-16</field>
+     <field name="unitdate_teim">1975-07-16</field>
+-    <field name="scopecontent_teim">Housing annotations: "WNYU-FM BDCST 7-16-75, 8:30pm" marked on containerl label in red ink.</field>
+-    <field name="phystech_teim">Format: 1/4" open reel audio, Duration: 29 min. 00 sec.</field>
++    <field name="scopecontent_teim">Housing annotations: &#34;WNYU-FM BDCST 7-16-75, 8:30pm&#34; marked on containerl label in red ink.</field>
++    <field name="phystech_teim">Format: 1/4&#34; open reel audio, Duration: 29 min. 00 sec.</field>
+     <field name="ref_ssi">aspace_82c2089f54277f9fc8c1cf77f2ed7b53</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 6, reel: AV250</field>
+     <field name="location_si">Box: 6, reel: AV250</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; Listen, I Dare You! Program #7: "What is an Opera?" Reel I of I.</field>
+-    <field name="heading_ssm">Listen, I Dare You! Program #7: "What is an Opera?" Reel I of I.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; Listen, I Dare You! Program #7: &#34;What is an Opera?&#34; Reel I of I.</field>
++    <field name="heading_ssm">Listen, I Dare You! Program #7: &#34;What is an Opera?&#34; Reel I of I.</field>
+     <field name="unitdate_ssm">1975-07-16</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">232</field>

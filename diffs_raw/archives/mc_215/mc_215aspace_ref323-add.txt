@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Edith Kramer Papers</field>
+     <field name="collection_unitid_ssm">MC.215</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Patient's Handwritten Narrative with Contributions from Edith Kramer</field>
+-    <field name="unittitle_teim">Patient's Handwritten Narrative with Contributions from Edith Kramer</field>
++    <field name="unittitle_ssm">Patient&#39;s Handwritten Narrative with Contributions from Edith Kramer</field>
++    <field name="unittitle_teim">Patient&#39;s Handwritten Narrative with Contributions from Edith Kramer</field>
+     <field name="unitid_teim">/repositories/6/archival_objects/625517</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/625517</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 8, Folder: 46</field>
+     <field name="location_si">Box: 8, Folder: 46</field>
+     <field name="collection_teim">Edith Kramer Papers</field>
++    <field name="author_teim">Stephanie Schmeling.  Inventory prepared by Claire Wolford. Abstract and biography written by David Henley. Additional description by Janet Bunde.</field>
+     <field name="collection_unitid_teim">MC.215</field>
+     <field name="series_sim">Series III: Personal Papers</field>
+-    <field name="series_si">Series III: Personal Papers &gt;&gt; Patient's Handwritten Narrative with Contributions from Edith Kramer</field>
+-    <field name="heading_ssm">Patient's Handwritten Narrative with Contributions from Edith Kramer</field>
++    <field name="series_si">Series III: Personal Papers &gt;&gt; Patient&#39;s Handwritten Narrative with Contributions from Edith Kramer</field>
++    <field name="heading_ssm">Patient&#39;s Handwritten Narrative with Contributions from Edith Kramer</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref9</field>
+     <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Annual Reports of the Board of Trustees</field>
++    <field name="parent_unittitles_ssm">Subseries B: Annual Reports of the Board of Trustees </field>
+     <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+-    <field name="parent_unittitles_teim">Subseries B: Annual Reports of the Board of Trustees</field>
++    <field name="parent_unittitles_teim">Subseries B: Annual Reports of the Board of Trustees </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Northern Dispensary</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 7, volume: 1-8</field>
+     <field name="location_si">Box: 7, volume: 1-8</field>
+     <field name="collection_teim">Records of the Northern Dispensary</field>
++    <field name="author_teim">A.J. Muhammad.</field>
+     <field name="collection_unitid_teim">MC.99</field>
+     <field name="series_sim">Series I: Administrative Records</field>
+-    <field name="series_sim">Subseries B: Annual Reports of the Board of Trustees</field>
+-    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries B: Annual Reports of the Board of Trustees &gt;&gt; Annual Reports of the Board of Trustees</field>
++    <field name="series_sim">Subseries B: Annual Reports of the Board of Trustees </field>
++    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries B: Annual Reports of the Board of Trustees  &gt;&gt; Annual Reports of the Board of Trustees</field>
+     <field name="heading_ssm">Annual Reports of the Board of Trustees</field>
+     <field name="unitdate_start_sim">1828</field>
+     <field name="unitdate_start_ssm">1828</field>

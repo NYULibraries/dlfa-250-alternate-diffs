@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_ssm">RISM.VF.001</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Contemporary Puerto Rican Fiction: An Outsider's View</field>
+-    <field name="unittitle_teim">Contemporary Puerto Rican Fiction: An Outsider's View</field>
++    <field name="unittitle_ssm">Contemporary Puerto Rican Fiction: An Outsider&#39;s View</field>
++    <field name="unittitle_teim">Contemporary Puerto Rican Fiction: An Outsider&#39;s View</field>
+     <field name="unitid_teim">RISM 25304</field>
+     <field name="unitid_ssm">RISM 25304</field>
+     <field name="creator_teim">Guinness, Gerald</field>
+@@ -57,11 +57,12 @@
+     <field name="subject_sim">Literature.</field>
+     <field name="subject_sim">Puerto Rican literature.</field>
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
++    <field name="author_teim">Finding aid prepared by RISM staff and Laura Zeccardi.</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Puerto Rico</field>
+     <field name="series_sim">Puerto Rico: Literature</field>
+-    <field name="series_si">Puerto Rico &gt;&gt; Puerto Rico: Literature &gt;&gt; Contemporary Puerto Rican Fiction: An Outsider's View</field>
+-    <field name="heading_ssm">Contemporary Puerto Rican Fiction: An Outsider's View</field>
++    <field name="series_si">Puerto Rico &gt;&gt; Puerto Rico: Literature &gt;&gt; Contemporary Puerto Rican Fiction: An Outsider&#39;s View</field>
++    <field name="heading_ssm">Contemporary Puerto Rican Fiction: An Outsider&#39;s View</field>
+     <field name="unitdate_start_sim">1979</field>
+     <field name="unitdate_start_ssm">1979</field>
+     <field name="unitdate_start_si">1979</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">AV2128</field>
+     <field name="unitid_ssm">AV2128</field>
+     <field name="unitdate_teim">1989</field>
+-    <field name="scopecontent_teim">PHysicians' HIV/AIDS Update Program 2: Managing HIV/AIDS. From RG 26.13, Regional AIDS Education and Training Center/AIDS Mental Health Project</field>
++    <field name="scopecontent_teim">PHysicians&#39; HIV/AIDS Update Program 2: Managing HIV/AIDS. From RG 26.13, Regional AIDS Education and Training Center/AIDS Mental Health Project</field>
+     <field name="corpname_teim">New York University. School of Education, Health, Nursing, and Arts Professions</field>
+     <field name="corpname_ssm">New York University. School of Education, Health, Nursing, and Arts Professions</field>
+     <field name="subject_teim">HIV infections</field>
+@@ -69,6 +69,7 @@
+     <field name="subject_sim">Health education.</field>
+     <field name="subject_sim">Primary health care</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+     <field name="series_si">Audiovisual Recordings &gt;&gt; Physicians HIV/AIDS Update. Program #2: Managing HIV/AIDS</field>

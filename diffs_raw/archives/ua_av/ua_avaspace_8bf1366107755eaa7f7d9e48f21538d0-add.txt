@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+     <field name="collection_unitid_ssm">AV</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The NYU Lecture Series - Fall Semester 1982 PGM #4: "The Principle of Hope." Professor Joyce Appleby, author and historian. Reel II of II.</field>
+-    <field name="unittitle_teim">The NYU Lecture Series - Fall Semester 1982 PGM #4: "The Principle of Hope." Professor Joyce Appleby, author and historian. Reel II of II.</field>
++    <field name="unittitle_ssm">The NYU Lecture Series - Fall Semester 1982 PGM #4: &#34;The Principle of Hope.&#34; Professor Joyce Appleby, author and historian. Reel II of II.</field>
++    <field name="unittitle_teim">The NYU Lecture Series - Fall Semester 1982 PGM #4: &#34;The Principle of Hope.&#34; Professor Joyce Appleby, author and historian. Reel II of II.</field>
+     <field name="unitid_teim">AV266</field>
+     <field name="unitid_ssm">AV266</field>
+     <field name="unitdate_normal_ssm">1982-10-13/1982-10-13</field>
+@@ -25,8 +25,9 @@
+     <field name="unitdate_normal_sim">1983-01-04/1983-01-04</field>
+     <field name="unitdate_teim">1982-10-13</field>
+     <field name="unitdate_teim">1983-01-04</field>
+-    <field name="scopecontent_teim">Housing annotations: The lecture series program is included with the tape. For Air 1/4/83, 8:30-9:30 PM</field>
+-    <field name="phystech_teim">Format: 1/4" open reel audio, Duration: 27 min. 00 sec.</field>
++    <field name="scopecontent_teim">Housing annotations: The lecture series program is included with the tape.
++For Air 1/4/83, 8:30-9:30 PM</field>
++    <field name="phystech_teim">Format: 1/4&#34; open reel audio, Duration: 27 min. 00 sec.</field>
+     <field name="ref_ssi">aspace_8bf1366107755eaa7f7d9e48f21538d0</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -36,10 +37,11 @@
+     <field name="location_ssm">Box: 8, reel: AV266</field>
+     <field name="location_si">Box: 8, reel: AV266</field>
+     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
++    <field name="author_teim">University Archives staff.</field>
+     <field name="collection_unitid_teim">AV</field>
+     <field name="series_sim">Audiovisual Recordings</field>
+-    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Fall Semester 1982 PGM #4: "The Principle of Hope." Professor Joyce Appleby, author and historian. Reel II of II.</field>
+-    <field name="heading_ssm">The NYU Lecture Series - Fall Semester 1982 PGM #4: "The Principle of Hope." Professor Joyce Appleby, author and historian. Reel II of II.</field>
++    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Fall Semester 1982 PGM #4: &#34;The Principle of Hope.&#34; Professor Joyce Appleby, author and historian. Reel II of II.</field>
++    <field name="heading_ssm">The NYU Lecture Series - Fall Semester 1982 PGM #4: &#34;The Principle of Hope.&#34; Professor Joyce Appleby, author and historian. Reel II of II.</field>
+     <field name="unitdate_ssm">1982-10-13 1983-01-04</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">248</field>

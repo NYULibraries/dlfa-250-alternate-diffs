@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unitdate_normal_sim">1997/2005</field>
+     <field name="unitdate_inclusive_teim">1997-2005</field>
+     <field name="scopecontent_teim">This series consists of video recordings on VHS and optical disc submitted for Asian Film Night.</field>
+-    <field name="phystech_teim">Video recordings are not available for playback. Researchers may view an item's original container, with the exception of containers with personal student information written on them.</field>
++    <field name="phystech_teim">Video recordings are not available for playback. Researchers may view an item&#39;s original container, with the exception of containers with personal student information written on them.</field>
+     <field name="ref_ssi">aspace_f99796c1f92dd83c07cd4f558a495bda</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -24,6 +24,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Laura Chen-Schultz Collection on Asian Working Artists</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MC.369</field>
+     <field name="series_si">Series II. Video Recordings</field>
+     <field name="heading_ssm">Series II. Video Recordings</field>

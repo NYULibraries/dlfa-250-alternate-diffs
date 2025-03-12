@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_140</field>
+     <field name="parent_ssi">aspace_ref759</field>
+     <field name="parent_ssm">aspace_ref759</field>
+-    <field name="parent_unittitles_ssm">Series I.c: Chaucer's Manuscripts</field>
+-    <field name="parent_unittitles_teim">Series I.c: Chaucer's Manuscripts</field>
++    <field name="parent_unittitles_ssm">Series I.c: Chaucer&amp;#39;s Manuscripts</field>
++    <field name="parent_unittitles_teim">Series I.c: Chaucer&amp;#39;s Manuscripts</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lillian Herlands Hornstein Papers</field>
+@@ -28,9 +28,10 @@
+     <field name="location_ssm">Box: 10, Folder: 6</field>
+     <field name="location_si">Box: 10, Folder: 6</field>
+     <field name="collection_teim">Lillian Herlands Hornstein Papers</field>
++    <field name="author_teim">Ariana Huberman</field>
+     <field name="collection_unitid_teim">MC.140</field>
+-    <field name="series_sim">Series I.c: Chaucer's Manuscripts</field>
+-    <field name="series_si">Series I.c: Chaucer's Manuscripts &gt;&gt; Caxton and the Early Printers. A collection of contemporary documents and Prints compiled by Sylvie Nichels</field>
++    <field name="series_sim">Series I.c: Chaucer&amp;#39;s Manuscripts</field>
++    <field name="series_si">Series I.c: Chaucer&#39;s Manuscripts &gt;&gt; Caxton and the Early Printers. A collection of contemporary documents and Prints compiled by Sylvie Nichels</field>
+     <field name="heading_ssm">Caxton and the Early Printers. A collection of contemporary documents and Prints compiled by Sylvie Nichels</field>
+     <field name="unitdate_start_sim">1930</field>
+     <field name="unitdate_start_ssm">1930</field>

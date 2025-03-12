@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Records of the Office of the Treasurer (Muriel L. Mantel)</field>
+     <field name="collection_unitid_ssm">RG.10</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">5 Washington Square North (Chancellor's Residence)</field>
+-    <field name="unittitle_teim">5 Washington Square North (Chancellor's Residence)</field>
++    <field name="unittitle_ssm">5 Washington Square North (Chancellor&#39;s Residence)</field>
++    <field name="unittitle_teim">5 Washington Square North (Chancellor&#39;s Residence)</field>
+     <field name="unitdate_normal_ssm">1940/1940</field>
+     <field name="unitdate_normal_teim">1940/1940</field>
+     <field name="unitdate_normal_sim">1940/1940</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 50, Folder: 4</field>
+     <field name="location_si">Box: 50, Folder: 4</field>
+     <field name="collection_teim">Records of the Office of the Treasurer (Muriel L. Mantel)</field>
++    <field name="author_teim">New York University Archives staff.</field>
+     <field name="collection_unitid_teim">RG.10</field>
+     <field name="series_sim">Series II: Washington Square</field>
+-    <field name="series_si">Series II: Washington Square &gt;&gt; 5 Washington Square North (Chancellor's Residence)</field>
+-    <field name="heading_ssm">5 Washington Square North (Chancellor's Residence)</field>
++    <field name="series_si">Series II: Washington Square &gt;&gt; 5 Washington Square North (Chancellor&#39;s Residence)</field>
++    <field name="heading_ssm">5 Washington Square North (Chancellor&#39;s Residence)</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Prize-Winning Student Essays Collection</field>
+     <field name="collection_unitid_ssm">MC.86</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Senate Confirmation Debate on David E. Lilienthal," Lawrence H. Fuchs</field>
+-    <field name="unittitle_teim">"Senate Confirmation Debate on David E. Lilienthal," Lawrence H. Fuchs</field>
++    <field name="unittitle_ssm">&#34;Senate Confirmation Debate on David E. Lilienthal,&#34; Lawrence H. Fuchs</field>
++    <field name="unittitle_teim">&#34;Senate Confirmation Debate on David E. Lilienthal,&#34; Lawrence H. Fuchs</field>
+     <field name="unitdate_normal_ssm">1950/1950</field>
+     <field name="unitdate_normal_teim">1950/1950</field>
+     <field name="unitdate_normal_sim">1950/1950</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2, Folder: 15</field>
+     <field name="location_si">Box: 2, Folder: 15</field>
+     <field name="collection_teim">Prize-Winning Student Essays Collection</field>
++    <field name="author_teim">Celeste Brewer</field>
+     <field name="collection_unitid_teim">MC.86</field>
+     <field name="series_sim">Minnie Kramer Cowin Prize Essays</field>
+-    <field name="series_si">Minnie Kramer Cowin Prize Essays &gt;&gt; "Senate Confirmation Debate on David E. Lilienthal," Lawrence H. Fuchs</field>
+-    <field name="heading_ssm">"Senate Confirmation Debate on David E. Lilienthal," Lawrence H. Fuchs</field>
++    <field name="series_si">Minnie Kramer Cowin Prize Essays &gt;&gt; &#34;Senate Confirmation Debate on David E. Lilienthal,&#34; Lawrence H. Fuchs</field>
++    <field name="heading_ssm">&#34;Senate Confirmation Debate on David E. Lilienthal,&#34; Lawrence H. Fuchs</field>
+     <field name="unitdate_start_sim">1950</field>
+     <field name="unitdate_start_ssm">1950</field>
+     <field name="unitdate_start_si">1950</field>

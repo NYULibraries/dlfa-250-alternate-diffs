@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1972/1986</field>
+     <field name="unitdate_normal_sim">1972/1986</field>
+     <field name="unitdate_inclusive_teim">1972-1986</field>
+-    <field name="scopecontent_teim">Series I contains materials pertaining to NYU's Stern School of Business alumni reunions, dinners, awards ceremonies, and other events.</field>
++    <field name="scopecontent_teim">Series I contains materials pertaining to NYU&#39;s Stern School of Business alumni reunions, dinners, awards ceremonies, and other events.</field>
+     <field name="ref_ssi">aspace_ref100</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Abraham Gitlow Papers</field>
++    <field name="author_teim">University Archives staff. Additional processing by Erin Shaw.</field>
+     <field name="collection_unitid_teim">MC.27</field>
+     <field name="series_si">Series I: Stern School of Business Alumni Relations</field>
+     <field name="heading_ssm">Series I: Stern School of Business Alumni Relations</field>
