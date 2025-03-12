@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Here's a Program! Smash Hitler - Vote NMU!.&lt;/em&gt; National Maritime Union. </field>
+-    <field name="unittitle_teim">Here's a Program! Smash Hitler - Vote NMU!. National Maritime Union. </field>
++    <field name="unittitle_ssm">&lt;em&gt;Here&#39;s a Program! Smash Hitler - Vote NMU!.&lt;/em&gt; National Maritime Union. </field>
++    <field name="unittitle_teim">Here&#39;s a Program! Smash Hitler - Vote NMU!. National Maritime Union. </field>
+     <field name="unitdate_teim">1942</field>
+     <field name="ref_ssi">aspace_ref3193</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 64, Folder: 3</field>
+     <field name="location_si">Box: 64, Folder: 3</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Labor: N.M.U. I (10 pamphlets)</field>
+-    <field name="series_si">Labor: N.M.U. I (10 pamphlets) &gt;&gt; &lt;em&gt;Here's a Program! Smash Hitler - Vote NMU!.&lt;/em&gt; National Maritime Union. </field>
+-    <field name="heading_ssm">Here's a Program! Smash Hitler - Vote NMU!. National Maritime Union. </field>
++    <field name="series_si">Labor: N.M.U. I (10 pamphlets) &gt;&gt; &lt;em&gt;Here&#39;s a Program! Smash Hitler - Vote NMU!.&lt;/em&gt; National Maritime Union. </field>
++    <field name="heading_ssm">Here&#39;s a Program! Smash Hitler - Vote NMU!. National Maritime Union. </field>
+     <field name="unitdate_ssm">1942</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3737</field>

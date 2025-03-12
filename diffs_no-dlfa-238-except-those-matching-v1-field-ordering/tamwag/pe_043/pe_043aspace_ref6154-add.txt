@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Nation: Martin Dies and His Committee on "un-Americanism." &lt;/em&gt;The Nation, New York, NY. </field>
+-    <field name="unittitle_teim">The Nation: Martin Dies and His Committee on "un-Americanism." The Nation, New York, NY. </field>
++    <field name="unittitle_ssm">&lt;em&gt;The Nation: Martin Dies and His Committee on &#34;un-Americanism.&#34; &lt;/em&gt;The Nation, New York, NY. </field>
++    <field name="unittitle_teim">The Nation: Martin Dies and His Committee on &#34;un-Americanism.&#34; The Nation, New York, NY. </field>
+     <field name="unitdate_normal_ssm">1942/1942</field>
+     <field name="unitdate_normal_teim">1942/1942</field>
+     <field name="unitdate_normal_sim">1942/1942</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 29, Folder: 7</field>
+     <field name="location_si">Box: 29, Folder: 7</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Dies Committee I (contains an edition of The Nation (1942) about Martin Dies)</field>
+-    <field name="series_si">Dies Committee I (contains an edition of The Nation (1942) about Martin Dies) &gt;&gt; &lt;em&gt;The Nation: Martin Dies and His Committee on "un-Americanism." &lt;/em&gt;The Nation, New York, NY. </field>
+-    <field name="heading_ssm">The Nation: Martin Dies and His Committee on "un-Americanism." The Nation, New York, NY. </field>
++    <field name="series_si">Dies Committee I (contains an edition of The Nation (1942) about Martin Dies) &gt;&gt; &lt;em&gt;The Nation: Martin Dies and His Committee on &#34;un-Americanism.&#34; &lt;/em&gt;The Nation, New York, NY. </field>
++    <field name="heading_ssm">The Nation: Martin Dies and His Committee on &#34;un-Americanism.&#34; The Nation, New York, NY. </field>
+     <field name="unitdate_start_sim">1942</field>
+     <field name="unitdate_start_ssm">1942</field>
+     <field name="unitdate_start_si">1942</field>

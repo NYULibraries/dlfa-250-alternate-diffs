@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Barnett, John. &lt;em&gt;Farm-Dollar Blight: The "New Deal" in Agriculture.&lt;/em&gt; Workers Library Publishers, New York, NY.</field>
+-    <field name="unittitle_teim">Barnett, John. Farm-Dollar Blight: The "New Deal" in Agriculture. Workers Library Publishers, New York, NY.</field>
++    <field name="unittitle_ssm">Barnett, John. &lt;em&gt;Farm-Dollar Blight: The &#34;New Deal&#34; in Agriculture.&lt;/em&gt; Workers Library Publishers, New York, NY.</field>
++    <field name="unittitle_teim">Barnett, John. Farm-Dollar Blight: The &#34;New Deal&#34; in Agriculture. Workers Library Publishers, New York, NY.</field>
+     <field name="unitdate_normal_ssm">1933/1933</field>
+     <field name="unitdate_normal_teim">1933/1933</field>
+     <field name="unitdate_normal_sim">1933/1933</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 35, Folder: 7</field>
+     <field name="location_si">Box: 35, Folder: 7</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Farmers II (18 pamphlets)</field>
+-    <field name="series_si">Farmers II (18 pamphlets) &gt;&gt; Barnett, John. &lt;em&gt;Farm-Dollar Blight: The "New Deal" in Agriculture.&lt;/em&gt; Workers Library Publishers, New York, NY.</field>
+-    <field name="heading_ssm">Barnett, John. Farm-Dollar Blight: The "New Deal" in Agriculture. Workers Library Publishers, New York, NY.</field>
++    <field name="series_si">Farmers II (18 pamphlets) &gt;&gt; Barnett, John. &lt;em&gt;Farm-Dollar Blight: The &#34;New Deal&#34; in Agriculture.&lt;/em&gt; Workers Library Publishers, New York, NY.</field>
++    <field name="heading_ssm">Barnett, John. Farm-Dollar Blight: The &#34;New Deal&#34; in Agriculture. Workers Library Publishers, New York, NY.</field>
+     <field name="unitdate_start_sim">1933</field>
+     <field name="unitdate_start_ssm">1933</field>
+     <field name="unitdate_start_si">1933</field>

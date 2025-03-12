@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Britain's young citizens.&lt;/em&gt; The Communist Party, London.</field>
+-    <field name="unittitle_teim">Britain's young citizens. The Communist Party, London.</field>
++    <field name="unittitle_ssm">&lt;em&gt;Britain&#39;s young citizens.&lt;/em&gt; The Communist Party, London.</field>
++    <field name="unittitle_teim">Britain&#39;s young citizens. The Communist Party, London.</field>
+     <field name="unitdate_normal_ssm">1946/1946</field>
+     <field name="unitdate_normal_teim">1946/1946</field>
+     <field name="unitdate_normal_sim">1946/1946</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 45, Folder: 2</field>
+     <field name="location_si">Box: 45, Folder: 2</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Great Britain: Youth (15 pamphlets)</field>
+-    <field name="series_si">Great Britain: Youth (15 pamphlets) &gt;&gt; &lt;em&gt;Britain's young citizens.&lt;/em&gt; The Communist Party, London.</field>
+-    <field name="heading_ssm">Britain's young citizens. The Communist Party, London.</field>
++    <field name="series_si">Great Britain: Youth (15 pamphlets) &gt;&gt; &lt;em&gt;Britain&#39;s young citizens.&lt;/em&gt; The Communist Party, London.</field>
++    <field name="heading_ssm">Britain&#39;s young citizens. The Communist Party, London.</field>
+     <field name="unitdate_start_sim">1946</field>
+     <field name="unitdate_start_ssm">1946</field>
+     <field name="unitdate_start_si">1946</field>

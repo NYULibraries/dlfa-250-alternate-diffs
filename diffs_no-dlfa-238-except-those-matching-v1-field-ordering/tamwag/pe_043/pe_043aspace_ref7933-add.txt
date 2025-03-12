@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Rust, W. &lt;em&gt;Finland: Press Lies. &lt;/em&gt;Workers' Press, London. </field>
+-    <field name="unittitle_teim">Rust, W. Finland: Press Lies. Workers' Press, London. </field>
++    <field name="unittitle_ssm">Rust, W. &lt;em&gt;Finland: Press Lies. &lt;/em&gt;Workers&#39; Press, London. </field>
++    <field name="unittitle_teim">Rust, W. Finland: Press Lies. Workers&#39; Press, London. </field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref7933</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 45, Folder: 1</field>
+     <field name="location_si">Box: 45, Folder: 1</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Great Britain: World War II (18 pamphlets)</field>
+-    <field name="series_si">Great Britain: World War II (18 pamphlets) &gt;&gt; Rust, W. &lt;em&gt;Finland: Press Lies. &lt;/em&gt;Workers' Press, London. </field>
+-    <field name="heading_ssm">Rust, W. Finland: Press Lies. Workers' Press, London. </field>
++    <field name="series_si">Great Britain: World War II (18 pamphlets) &gt;&gt; Rust, W. &lt;em&gt;Finland: Press Lies. &lt;/em&gt;Workers&#39; Press, London. </field>
++    <field name="heading_ssm">Rust, W. Finland: Press Lies. Workers&#39; Press, London. </field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2718</field>

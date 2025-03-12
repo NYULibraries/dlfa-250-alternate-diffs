@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Williams, Maxine and Pamela Newman. &lt;em&gt;Black Women's Liberation.&lt;/em&gt; Pathfinder Press, New York, NY.</field>
+-    <field name="unittitle_teim">Williams, Maxine and Pamela Newman. Black Women's Liberation. Pathfinder Press, New York, NY.</field>
++    <field name="unittitle_ssm">Williams, Maxine and Pamela Newman. &lt;em&gt;Black Women&#39;s Liberation.&lt;/em&gt; Pathfinder Press, New York, NY.</field>
++    <field name="unittitle_teim">Williams, Maxine and Pamela Newman. Black Women&#39;s Liberation. Pathfinder Press, New York, NY.</field>
+     <field name="unitdate_teim">1970</field>
+     <field name="ref_ssi">aspace_ref1597</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 4, Folder: 5</field>
+     <field name="location_si">Box: 4, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">African-Americans: Women (12 pamphlets)</field>
+-    <field name="series_si">African-Americans: Women (12 pamphlets) &gt;&gt; Williams, Maxine and Pamela Newman. &lt;em&gt;Black Women's Liberation.&lt;/em&gt; Pathfinder Press, New York, NY.</field>
+-    <field name="heading_ssm">Williams, Maxine and Pamela Newman. Black Women's Liberation. Pathfinder Press, New York, NY.</field>
++    <field name="series_si">African-Americans: Women (12 pamphlets) &gt;&gt; Williams, Maxine and Pamela Newman. &lt;em&gt;Black Women&#39;s Liberation.&lt;/em&gt; Pathfinder Press, New York, NY.</field>
++    <field name="heading_ssm">Williams, Maxine and Pamela Newman. Black Women&#39;s Liberation. Pathfinder Press, New York, NY.</field>
+     <field name="unitdate_ssm">1970</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">191</field>

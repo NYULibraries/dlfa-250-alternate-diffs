@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Israel: "Therefore Justify Not Yourselves."&lt;/em&gt; Arab Information Center, New York, NY.</field>
+-    <field name="unittitle_teim">Israel: "Therefore Justify Not Yourselves." Arab Information Center, New York, NY.</field>
++    <field name="unittitle_ssm">&lt;em&gt;Israel: &#34;Therefore Justify Not Yourselves.&#34;&lt;/em&gt; Arab Information Center, New York, NY.</field>
++    <field name="unittitle_teim">Israel: &#34;Therefore Justify Not Yourselves.&#34; Arab Information Center, New York, NY.</field>
+     <field name="unitdate_normal_ssm">1935/1935</field>
+     <field name="unitdate_normal_teim">1935/1935</field>
+     <field name="unitdate_normal_sim">1935/1935</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 54, Folder: 2</field>
+     <field name="location_si">Box: 54, Folder: 2</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Israel II (12 pamphlets)</field>
+-    <field name="series_si">Israel II (12 pamphlets) &gt;&gt; &lt;em&gt;Israel: "Therefore Justify Not Yourselves."&lt;/em&gt; Arab Information Center, New York, NY.</field>
+-    <field name="heading_ssm">Israel: "Therefore Justify Not Yourselves." Arab Information Center, New York, NY.</field>
++    <field name="series_si">Israel II (12 pamphlets) &gt;&gt; &lt;em&gt;Israel: &#34;Therefore Justify Not Yourselves.&#34;&lt;/em&gt; Arab Information Center, New York, NY.</field>
++    <field name="heading_ssm">Israel: &#34;Therefore Justify Not Yourselves.&#34; Arab Information Center, New York, NY.</field>
+     <field name="unitdate_start_sim">1935</field>
+     <field name="unitdate_start_ssm">1935</field>
+     <field name="unitdate_start_si">1935</field>

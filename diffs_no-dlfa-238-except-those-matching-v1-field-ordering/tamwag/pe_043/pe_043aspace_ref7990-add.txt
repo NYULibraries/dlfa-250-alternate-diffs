@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Jagan, Cheddi and Ram Karran. &lt;em&gt;Race and Politics in Guyana&lt;/em&gt;. People's Progressive Party.</field>
+-    <field name="unittitle_teim">Jagan, Cheddi and Ram Karran. Race and Politics in Guyana. People's Progressive Party.</field>
++    <field name="unittitle_ssm">Jagan, Cheddi and Ram Karran. &lt;em&gt;Race and Politics in Guyana&lt;/em&gt;. People&#39;s Progressive Party.</field>
++    <field name="unittitle_teim">Jagan, Cheddi and Ram Karran. Race and Politics in Guyana. People&#39;s Progressive Party.</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 46, Folder: 2</field>
+     <field name="location_si">Box: 46, Folder: 2</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Guyana (18 pamphlets)</field>
+-    <field name="series_si">Guyana (18 pamphlets) &gt;&gt; Jagan, Cheddi and Ram Karran. &lt;em&gt;Race and Politics in Guyana&lt;/em&gt;. People's Progressive Party.</field>
+-    <field name="heading_ssm">Jagan, Cheddi and Ram Karran. Race and Politics in Guyana. People's Progressive Party.</field>
++    <field name="series_si">Guyana (18 pamphlets) &gt;&gt; Jagan, Cheddi and Ram Karran. &lt;em&gt;Race and Politics in Guyana&lt;/em&gt;. People&#39;s Progressive Party.</field>
++    <field name="heading_ssm">Jagan, Cheddi and Ram Karran. Race and Politics in Guyana. People&#39;s Progressive Party.</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

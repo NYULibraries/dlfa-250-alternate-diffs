@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">&lt;em&gt;William Gallacher's Speeches in Parliament.&lt;/em&gt; Communist Party of Great Britain, London.</field>
+-    <field name="unittitle_teim">William Gallacher's Speeches in Parliament. Communist Party of Great Britain, London.</field>
++    <field name="unittitle_ssm">&lt;em&gt;William Gallacher&#39;s Speeches in Parliament.&lt;/em&gt; Communist Party of Great Britain, London.</field>
++    <field name="unittitle_teim">William Gallacher&#39;s Speeches in Parliament. Communist Party of Great Britain, London.</field>
+     <field name="unitdate_normal_ssm">1938/1938</field>
+     <field name="unitdate_normal_teim">1938/1938</field>
+     <field name="unitdate_normal_sim">1938/1938</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 44, Folder: 7</field>
+     <field name="location_si">Box: 44, Folder: 7</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Great Britain: Writings of William Gallacher (12 pamphlets)</field>
+-    <field name="series_si">Great Britain: Writings of William Gallacher (12 pamphlets) &gt;&gt; &lt;em&gt;William Gallacher's Speeches in Parliament.&lt;/em&gt; Communist Party of Great Britain, London.</field>
+-    <field name="heading_ssm">William Gallacher's Speeches in Parliament. Communist Party of Great Britain, London.</field>
++    <field name="series_si">Great Britain: Writings of William Gallacher (12 pamphlets) &gt;&gt; &lt;em&gt;William Gallacher&#39;s Speeches in Parliament.&lt;/em&gt; Communist Party of Great Britain, London.</field>
++    <field name="heading_ssm">William Gallacher&#39;s Speeches in Parliament. Communist Party of Great Britain, London.</field>
+     <field name="unitdate_start_sim">1938</field>
+     <field name="unitdate_start_ssm">1938</field>
+     <field name="unitdate_start_si">1938</field>

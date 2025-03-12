@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Castro, Fidel. &lt;em&gt;Prensa Latina: July 26, 1965, "Year of the Agriculture."&lt;/em&gt; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
+-    <field name="unittitle_teim">Castro, Fidel. Prensa Latina: July 26, 1965, "Year of the Agriculture." Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
++    <field name="unittitle_ssm">Castro, Fidel. &lt;em&gt;Prensa Latina: July 26, 1965, &#34;Year of the Agriculture.&#34;&lt;/em&gt; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
++    <field name="unittitle_teim">Castro, Fidel. Prensa Latina: July 26, 1965, &#34;Year of the Agriculture.&#34; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
+     <field name="unitdate_normal_ssm">1965/1965</field>
+     <field name="unitdate_normal_teim">1965/1965</field>
+     <field name="unitdate_normal_sim">1965/1965</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 25, Folder: 7</field>
+     <field name="location_si">Box: 25, Folder: 7</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Cuba: Agrarian Reform (3 pamphlets as well as an edition of a serial and a translation of a speech)</field>
+-    <field name="series_si">Cuba: Agrarian Reform (3 pamphlets as well as an edition of a serial and a translation of a speech) &gt;&gt; Castro, Fidel. &lt;em&gt;Prensa Latina: July 26, 1965, "Year of the Agriculture."&lt;/em&gt; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
+-    <field name="heading_ssm">Castro, Fidel. Prensa Latina: July 26, 1965, "Year of the Agriculture." Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
++    <field name="series_si">Cuba: Agrarian Reform (3 pamphlets as well as an edition of a serial and a translation of a speech) &gt;&gt; Castro, Fidel. &lt;em&gt;Prensa Latina: July 26, 1965, &#34;Year of the Agriculture.&#34;&lt;/em&gt; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
++    <field name="heading_ssm">Castro, Fidel. Prensa Latina: July 26, 1965, &#34;Year of the Agriculture.&#34; Agencia Informativa Latinoamericana, Santa Clara, Cuba.</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

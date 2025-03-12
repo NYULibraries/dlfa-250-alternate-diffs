@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pe_043</field>
+     <field name="parent_ssi">aspace_ref2786</field>
+     <field name="parent_ssm">aspace_ref2786</field>
+-    <field name="parent_unittitles_ssm">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
+-    <field name="parent_unittitles_teim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
++    <field name="parent_unittitles_ssm">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
++    <field name="parent_unittitles_teim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Reference Center for Marxist Studies Pamphlet Collection</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 114, Folder: 5</field>
+     <field name="location_si">Box: 114, Folder: 5</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+-    <field name="series_sim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors")</field>
+-    <field name="series_si">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to "Northern Neighbors") &gt;&gt; Lamont, Corliss. &lt;em&gt;Soviet Russia versus Nazi Germany.&lt;/em&gt; American Council on Soviet Relations, New York, NY. (2 copies)</field>
++    <field name="series_sim">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &amp;#34;Northern Neighbors&amp;#34;)</field>
++    <field name="series_si">U.S.S.R.: WWII II (19 pamphlets as well as an article and a supplement to &#34;Northern Neighbors&#34;) &gt;&gt; Lamont, Corliss. &lt;em&gt;Soviet Russia versus Nazi Germany.&lt;/em&gt; American Council on Soviet Relations, New York, NY. (2 copies)</field>
+     <field name="heading_ssm">Lamont, Corliss. Soviet Russia versus Nazi Germany. American Council on Soviet Relations, New York, NY. (2 copies)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

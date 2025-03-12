@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Reference Center for Marxist Studies Pamphlet Collection</field>
+     <field name="collection_unitid_ssm">PE.043</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Coe, Charles J. &lt;em&gt;Eisenhower's Farm Crisis.&lt;/em&gt; Farm Research, New York, NY (2 copies).</field>
+-    <field name="unittitle_teim">Coe, Charles J. Eisenhower's Farm Crisis. Farm Research, New York, NY (2 copies).</field>
++    <field name="unittitle_ssm">Coe, Charles J. &lt;em&gt;Eisenhower&#39;s Farm Crisis.&lt;/em&gt; Farm Research, New York, NY (2 copies).</field>
++    <field name="unittitle_teim">Coe, Charles J. Eisenhower&#39;s Farm Crisis. Farm Research, New York, NY (2 copies).</field>
+     <field name="unitdate_normal_ssm">1953/1953</field>
+     <field name="unitdate_normal_teim">1953/1953</field>
+     <field name="unitdate_normal_sim">1953/1953</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 35, Folder: 7</field>
+     <field name="location_si">Box: 35, Folder: 7</field>
+     <field name="collection_teim">Reference Center for Marxist Studies Pamphlet Collection</field>
++    <field name="author_teim">Adrien Hilton</field>
+     <field name="collection_unitid_teim">PE.043</field>
+     <field name="series_sim">Farmers II (18 pamphlets)</field>
+-    <field name="series_si">Farmers II (18 pamphlets) &gt;&gt; Coe, Charles J. &lt;em&gt;Eisenhower's Farm Crisis.&lt;/em&gt; Farm Research, New York, NY (2 copies).</field>
+-    <field name="heading_ssm">Coe, Charles J. Eisenhower's Farm Crisis. Farm Research, New York, NY (2 copies).</field>
++    <field name="series_si">Farmers II (18 pamphlets) &gt;&gt; Coe, Charles J. &lt;em&gt;Eisenhower&#39;s Farm Crisis.&lt;/em&gt; Farm Research, New York, NY (2 copies).</field>
++    <field name="heading_ssm">Coe, Charles J. Eisenhower&#39;s Farm Crisis. Farm Research, New York, NY (2 copies).</field>
+     <field name="unitdate_start_sim">1953</field>
+     <field name="unitdate_start_ssm">1953</field>
+     <field name="unitdate_start_si">1953</field>
