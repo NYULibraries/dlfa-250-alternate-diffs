@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Woodhull &amp;amp; Claflin's Weekly&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp;amp; Tennie C. Claflin</field>
+-    <field name="unittitle_teim">Woodhull &amp; Claflin's Weekly
++    <field name="unittitle_ssm">&lt;em&gt;Woodhull &amp; Claflin&#39;s Weekly&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp; Tennie C. Claflin</field>
++    <field name="unittitle_teim">Woodhull &amp; Claflin&#39;s Weekly
+ 
+ Place of publication: New York , N.Y. 
+ 
+@@ -26,8 +26,8 @@
+     <field name="phystech_teim">Researchers must use microfilm (Film R-7793)</field>
+     <field name="corpname_teim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+     <field name="corpname_ssm">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+-    <field name="title_teim">Woodhull &amp; Claflin's Weekly</field>
+-    <field name="title_ssm">Woodhull &amp; Claflin's Weekly</field>
++    <field name="title_teim">Woodhull &amp; Claflin&#39;s Weekly</field>
++    <field name="title_ssm">Woodhull &amp; Claflin&#39;s Weekly</field>
+     <field name="ref_ssi">aspace_a36c80d8855d4ddf6e938be303063787</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -39,13 +39,14 @@
+     <field name="name_sim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+     <field name="name_teim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Woodhull &amp;amp; Claflin's Weekly&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp;amp; Tennie C. Claflin</field>
+-    <field name="heading_ssm">Woodhull &amp; Claflin's Weekly
++    <field name="series_si">&lt;em&gt;Woodhull &amp; Claflin&#39;s Weekly&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp; Tennie C. Claflin</field>
++    <field name="heading_ssm">Woodhull &amp; Claflin&#39;s Weekly
+ 
+ Place of publication: New York , N.Y. 
+ 

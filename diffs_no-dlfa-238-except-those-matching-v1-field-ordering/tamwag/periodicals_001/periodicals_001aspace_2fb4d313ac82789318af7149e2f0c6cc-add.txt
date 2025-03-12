@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Railroad Workers' Link&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+-    <field name="unittitle_teim">Railroad Workers' Link
++    <field name="unittitle_ssm">&lt;em&gt;Railroad Workers&#39; Link&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
++    <field name="unittitle_teim">Railroad Workers&#39; Link
+ 
+ Place of publication: N.Y. 
+ 
+@@ -25,8 +25,8 @@
+     <field name="unitdate_inclusive_teim">1948</field>
+     <field name="corpname_teim">Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+     <field name="corpname_ssm">Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+-    <field name="title_teim">Railroad Workers' Link</field>
+-    <field name="title_ssm">Railroad Workers' Link</field>
++    <field name="title_teim">Railroad Workers&#39; Link</field>
++    <field name="title_ssm">Railroad Workers&#39; Link</field>
+     <field name="ref_ssi">aspace_2fb4d313ac82789318af7149e2f0c6cc</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,13 +38,14 @@
+     <field name="name_sim">Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+     <field name="name_teim">Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Railroad Workers' Link&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
+-    <field name="heading_ssm">Railroad Workers' Link
++    <field name="series_si">&lt;em&gt;Railroad Workers&#39; Link&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Communist Party of the U.S. of A. New York (State) Railroad Committee</field>
++    <field name="heading_ssm">Railroad Workers&#39; Link
+ 
+ Place of publication: N.Y. 
+ 

@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Workers' Action&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Emeryville , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Committee for a Labor Party</field>
+-    <field name="unittitle_teim">Workers' Action
++    <field name="unittitle_ssm">&lt;em&gt;Workers&#39; Action&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Emeryville , N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Committee for a Labor Party</field>
++    <field name="unittitle_teim">Workers&#39; Action
+ 
+ Place of publication: Emeryville , N.Y. 
+ 
+@@ -25,8 +25,8 @@
+     <field name="unitdate_inclusive_teim">1968-1971</field>
+     <field name="corpname_teim">Committee for a Labor Party</field>
+     <field name="corpname_ssm">Committee for a Labor Party</field>
+-    <field name="title_teim">Workers' Action</field>
+-    <field name="title_ssm">Workers' Action</field>
++    <field name="title_teim">Workers&#39; Action</field>
++    <field name="title_ssm">Workers&#39; Action</field>
+     <field name="ref_ssi">aspace_fb4fb15dd6057482fabb782989fb0fbd</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,13 +38,14 @@
+     <field name="name_sim">Committee for a Labor Party</field>
+     <field name="name_teim">Committee for a Labor Party</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Workers' Action&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Emeryville , N.Y. 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Committee for a Labor Party</field>
+-    <field name="heading_ssm">Workers' Action
++    <field name="series_si">&lt;em&gt;Workers&#39; Action&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Emeryville , N.Y. 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Committee for a Labor Party</field>
++    <field name="heading_ssm">Workers&#39; Action
+ 
+ Place of publication: Emeryville , N.Y. 
+ 

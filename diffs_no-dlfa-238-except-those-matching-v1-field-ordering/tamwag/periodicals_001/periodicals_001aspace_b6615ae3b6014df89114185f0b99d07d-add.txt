@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Workers' Advocate&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Cleveland , Ohio 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: American Communist Workers Movement</field>
+-    <field name="unittitle_teim">The Workers' Advocate
++    <field name="unittitle_ssm">&lt;em&gt;The Workers&#39; Advocate&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Cleveland , Ohio 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: American Communist Workers Movement</field>
++    <field name="unittitle_teim">The Workers&#39; Advocate
+ 
+ Place of publication: Cleveland , Ohio 
+ 
+@@ -25,8 +25,8 @@
+     <field name="unitdate_inclusive_teim">1969-1970</field>
+     <field name="corpname_teim">American Communist Workers Movement</field>
+     <field name="corpname_ssm">American Communist Workers Movement</field>
+-    <field name="title_teim">The Workers' Advocate</field>
+-    <field name="title_ssm">The Workers' Advocate</field>
++    <field name="title_teim">The Workers&#39; Advocate</field>
++    <field name="title_ssm">The Workers&#39; Advocate</field>
+     <field name="ref_ssi">aspace_b6615ae3b6014df89114185f0b99d07d</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,13 +38,14 @@
+     <field name="name_sim">American Communist Workers Movement</field>
+     <field name="name_teim">American Communist Workers Movement</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;The Workers' Advocate&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: Cleveland , Ohio 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: American Communist Workers Movement</field>
+-    <field name="heading_ssm">The Workers' Advocate
++    <field name="series_si">&lt;em&gt;The Workers&#39; Advocate&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: Cleveland , Ohio 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: American Communist Workers Movement</field>
++    <field name="heading_ssm">The Workers&#39; Advocate
+ 
+ Place of publication: Cleveland , Ohio 
+ 

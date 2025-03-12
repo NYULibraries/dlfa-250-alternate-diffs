@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,12 @@
+     <field name="collection_ssm">Tamiment Library Newspapers</field>
+     <field name="collection_unitid_ssm">PERIODICALS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Where It's At&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: West Berlin , Germany 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Students for a Democratic Society in West Berlin</field>
+-    <field name="unittitle_teim">Where It's At
++    <field name="unittitle_ssm">&lt;em&gt;Where It&#39;s At&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: West Berlin , Germany 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Students for a Democratic Society in West Berlin</field>
++    <field name="unittitle_teim">Where It&#39;s At
+ 
+ Place of publication: West Berlin , Germany 
+ 
+@@ -25,8 +25,8 @@
+     <field name="unitdate_inclusive_teim">1967-1968</field>
+     <field name="corpname_teim">Students for a Democratic Society in West Berlin</field>
+     <field name="corpname_ssm">Students for a Democratic Society in West Berlin</field>
+-    <field name="title_teim">Where It's At</field>
+-    <field name="title_ssm">Where It's At</field>
++    <field name="title_teim">Where It&#39;s At</field>
++    <field name="title_ssm">Where It&#39;s At</field>
+     <field name="ref_ssi">aspace_0ec199a6c16883decf13c8229108ccb2</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -38,13 +38,14 @@
+     <field name="name_sim">Students for a Democratic Society in West Berlin</field>
+     <field name="name_teim">Students for a Democratic Society in West Berlin</field>
+     <field name="collection_teim">Tamiment Library Newspapers</field>
++    <field name="author_teim">Collection processed by Ryan Nuckel, Rachel Yood, and Tamiment Library staff.</field>
+     <field name="collection_unitid_teim">PERIODICALS.001</field>
+-    <field name="series_si">&lt;em&gt;Where It's At&lt;/em&gt;
+-
+-&lt;strong&gt;Place of publication&lt;/strong&gt;: West Berlin , Germany 
+-
+-&lt;strong&gt;Publisher&lt;/strong&gt;: Students for a Democratic Society in West Berlin</field>
+-    <field name="heading_ssm">Where It's At
++    <field name="series_si">&lt;em&gt;Where It&#39;s At&lt;/em&gt;
++
++&lt;strong&gt;Place of publication&lt;/strong&gt;: West Berlin , Germany 
++
++&lt;strong&gt;Publisher&lt;/strong&gt;: Students for a Democratic Society in West Berlin</field>
++    <field name="heading_ssm">Where It&#39;s At
+ 
+ Place of publication: West Berlin , Germany 
+ 
