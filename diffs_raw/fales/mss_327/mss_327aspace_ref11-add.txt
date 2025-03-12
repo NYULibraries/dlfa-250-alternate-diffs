@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Pamela Sneed presents "One Sings the Other Doesn't," Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
+-    <field name="unittitle_teim">Pamela Sneed presents "One Sings the Other Doesn't," Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
++    <field name="unittitle_ssm">Pamela Sneed presents &#34;One Sings the Other Doesn&#39;t,&#34; Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
++    <field name="unittitle_teim">Pamela Sneed presents &#34;One Sings the Other Doesn&#39;t,&#34; Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
+     <field name="unitid_teim">ID: 327.0002, 327.0003, 327.0004</field>
+     <field name="unitid_ssm">ID: 327.0002, 327.0003, 327.0004</field>
+     <field name="unitdate_normal_ssm">2010/2010</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">December 13, 2010</field>
+     <field name="scopecontent_teim">Featured: Adam Baran and Ira Sachs (Queer/Art/Film Curators), Pamela Sneed (Presenter)</field>
+     <field name="scopecontent_teim">Videographer: Ursula Mann</field>
+-    <field name="scopecontent_teim">Program Content: Poet and performance artist Pamela Sneed presents this rare screening of Agnes Varda's film "One Sings the Other Doesn't," a story about an intimate friendship between two very different women. Inspired by Varda's experiences traveling in the US and witnessing the birth of Women's Liberation at the end of the 1960s.</field>
++    <field name="scopecontent_teim">Program Content: Poet and performance artist Pamela Sneed presents this rare screening of  Agnes Varda&#39;s film &#34;One Sings the Other Doesn&#39;t,&#34; a story about an intimate friendship between two very different women.  Inspired by Varda&#39;s experiences traveling in the US and witnessing the birth of Women&#39;s Liberation at the end of the 1960s. </field>
+     <field name="phystech_teim">Original format: DVD-R (three discs)</field>
+     <field name="phystech_teim">Duration: 31 minutes</field>
+     <field name="phystech_teim">Color, Sound</field>
+@@ -40,11 +40,12 @@
+     <field name="location_ssm">case: 327.0004</field>
+     <field name="location_si">case: 327.0004</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Pamela Sneed presents "One Sings the Other Doesn't," Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
+-    <field name="heading_ssm">Pamela Sneed presents "One Sings the Other Doesn't," Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Pamela Sneed presents &#34;One Sings the Other Doesn&#39;t,&#34; Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
++    <field name="heading_ssm">Pamela Sneed presents &#34;One Sings the Other Doesn&#39;t,&#34; Introduction and Q&amp;A (Part 1, 2, &amp; 3)</field>
+     <field name="unitdate_start_sim">2010</field>
+     <field name="unitdate_start_ssm">2010</field>
+     <field name="unitdate_start_si">2010</field>

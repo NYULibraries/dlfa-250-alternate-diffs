@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwall Foundation Archive</field>
+     <field name="collection_unitid_ssm">MSS.336</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Amato: A Love Affair with Opera"</field>
+-    <field name="unittitle_teim">"Amato: A Love Affair with Opera"</field>
++    <field name="unittitle_ssm">&#34;Amato: A Love Affair with Opera&#34;</field>
++    <field name="unittitle_teim">&#34;Amato: A Love Affair with Opera&#34;</field>
+     <field name="unitid_teim">ID: 336.0016</field>
+     <field name="unitid_ssm">ID: 336.0016</field>
+     <field name="unitdate_teim">undated</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 36, Media: ID: 336.0016</field>
+     <field name="location_si">Box: 36, Media: ID: 336.0016</field>
+     <field name="collection_teim">Greenwall Foundation Archive</field>
++    <field name="author_teim">Laura Newsome</field>
+     <field name="collection_unitid_teim">MSS.336</field>
+     <field name="series_sim">Series II: Media</field>
+     <field name="series_sim">Subseries A: Media</field>
+-    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; "Amato: A Love Affair with Opera"</field>
+-    <field name="heading_ssm">"Amato: A Love Affair with Opera"</field>
++    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; &#34;Amato: A Love Affair with Opera&#34;</field>
++    <field name="heading_ssm">&#34;Amato: A Love Affair with Opera&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">504</field>

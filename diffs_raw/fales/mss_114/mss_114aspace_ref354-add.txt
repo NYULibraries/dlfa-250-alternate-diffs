@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Robert Alexander Papers</field>
+     <field name="collection_unitid_ssm">MSS.114</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Thelonius Monk's funeral, 1982</field>
+-    <field name="unittitle_teim">Thelonius Monk's funeral, 1982</field>
++    <field name="unittitle_ssm">Thelonius Monk&#39;s funeral, 1982</field>
++    <field name="unittitle_teim">Thelonius Monk&#39;s funeral, 1982</field>
+     <field name="unitdate_teim">1982</field>
+     <field name="ref_ssi">aspace_ref354</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 19, Folder: 6</field>
+     <field name="location_si">Box: 19, Folder: 6</field>
+     <field name="collection_teim">Robert Alexander Papers</field>
++    <field name="author_teim">Bronwyn Law-Viljoen, September - December 2001. Media updates by Rhyannon Rodriguez, December 2009.</field>
+     <field name="collection_unitid_teim">MSS.114</field>
+     <field name="series_sim">Series II: Slides</field>
+     <field name="series_sim">Subseries B: Events</field>
+-    <field name="series_si">Series II: Slides &gt;&gt; Subseries B: Events &gt;&gt; Thelonius Monk's funeral, 1982</field>
+-    <field name="heading_ssm">Thelonius Monk's funeral, 1982</field>
++    <field name="series_si">Series II: Slides &gt;&gt; Subseries B: Events &gt;&gt; Thelonius Monk&#39;s funeral, 1982</field>
++    <field name="heading_ssm">Thelonius Monk&#39;s funeral, 1982</field>
+     <field name="unitdate_ssm">1982</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">340</field>

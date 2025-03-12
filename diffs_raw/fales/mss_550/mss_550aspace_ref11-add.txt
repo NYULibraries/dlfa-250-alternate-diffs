@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I A: Correspondence, 1931-1970.</field>
+     <field name="unittitle_teim">Series I A: Correspondence, 1931-1970.</field>
+-    <field name="scopecontent_teim">Correspondence to and from individuals, including authors, relating to Adimari's dime novel research.</field>
++    <field name="scopecontent_teim">Correspondence to and from individuals, including authors, relating to Adimari&#39;s dime novel research.</field>
+     <field name="ref_ssi">aspace_ref11</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Ralph Adimari Papers</field>
++    <field name="author_teim">Collection processed by Maxime La Fantasie, with portions reprocessed by William J. Levay in 2006.</field>
+     <field name="collection_unitid_teim">MSS.550</field>
+     <field name="series_si">Series I A: Correspondence, 1931-1970.</field>
+     <field name="heading_ssm">Series I A: Correspondence, 1931-1970.</field>

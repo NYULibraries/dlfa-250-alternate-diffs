@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fales Library and Special Collections Audio/Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.306</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Roy Cohn," Brown University</field>
+-    <field name="unittitle_teim">"Roy Cohn," Brown University</field>
++    <field name="unittitle_ssm">&#34;Roy Cohn,&#34; Brown University</field>
++    <field name="unittitle_teim">&#34;Roy Cohn,&#34; Brown University</field>
+     <field name="unitid_teim">cuid21590</field>
+     <field name="unitid_ssm">cuid21590</field>
+     <field name="unitdate_normal_ssm">1993-03-20/1993-03-20</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Fales Library and Special Collections Audio/Video Collection</field>
++    <field name="author_teim">Ashley Todd, 2011.</field>
+     <field name="collection_unitid_teim">MSS.306</field>
+     <field name="series_sim">Series II: Video</field>
+-    <field name="series_si">Series II: Video &gt;&gt; "Roy Cohn," Brown University</field>
+-    <field name="heading_ssm">"Roy Cohn," Brown University</field>
++    <field name="series_si">Series II: Video &gt;&gt; &#34;Roy Cohn,&#34; Brown University</field>
++    <field name="heading_ssm">&#34;Roy Cohn,&#34; Brown University</field>
+     <field name="unitdate_ssm">1993-03-20</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">98</field>

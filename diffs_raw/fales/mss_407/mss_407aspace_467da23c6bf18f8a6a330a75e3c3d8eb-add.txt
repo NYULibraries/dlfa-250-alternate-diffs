@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,8 @@
+     <field name="unitdate_normal_teim">1990-05-04/1990-05-04</field>
+     <field name="unitdate_normal_sim">1990-05-04/1990-05-04</field>
+     <field name="unitdate_teim">May 4, 1990</field>
+-    <field name="phystech_teim">407.0035 Duration: 59 Minutes 407.0059 Duration: 95 Minutes</field>
++    <field name="phystech_teim">407.0035 Duration: 59 Minutes
++407.0059 Duration: 95 Minutes</field>
+     <field name="dao_teim">Rogers 58th Birthday</field>
+     <field name="dao_teim">Rogers 58th Birthday</field>
+     <field name="dao_ssm">Rogers 58th Birthday</field>
+@@ -36,6 +37,7 @@
+     <field name="location_si">Box: 15, audiocassette: 407.0035, 407.0059</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alva Rogers Papers</field>
++    <field name="author_teim">Nicholas Caldwell</field>
+     <field name="collection_unitid_teim">MSS.407</field>
+     <field name="series_sim">Series II. Biographical Materials</field>
+     <field name="series_si">Series II. Biographical Materials &gt;&gt; Rogers 58th Birthday</field>

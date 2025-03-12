@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1968/1995</field>
+     <field name="unitdate_normal_sim">1968/1995</field>
+     <field name="unitdate_inclusive_teim">1968-1995</field>
+-    <field name="scopecontent_teim">Series V contains processed uncut rolls of film, a few letters, three inscribed photography books, five posters, and four audiocassettes that accompany several of Winslow's slide carousels.</field>
++    <field name="scopecontent_teim">Series V contains processed uncut rolls of film, a few letters, three inscribed photography books, five posters, and four audiocassettes that accompany several of Winslow&#39;s slide carousels.</field>
+     <field name="ref_ssi">aspace_48b1f6f4c19ce315c273809a774f73f6</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Kirk Winslow Papers</field>
++    <field name="author_teim">Jacqueline Rider</field>
+     <field name="collection_unitid_teim">MSS.317</field>
+     <field name="series_si">Series V: Other formats</field>
+     <field name="heading_ssm">Series V: Other formats</field>

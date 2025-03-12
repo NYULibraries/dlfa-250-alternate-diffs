@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series I: Correspondence</field>
+     <field name="unittitle_teim">Series I: Correspondence</field>
+-    <field name="scopecontent_teim">Series I: Correspondence pertains to Margaret Strickland's personal and professional life, including correspondence from her closest friends, family, and colleagues in the publishing industry. This series features over 146 letters (over 660 pages) from Strickland's sweetheart "Louis", in addition to letters from her husband Richard Hugh Worley while he was on active service with the British Expeditionary Force and Kings Royal Rifle Corps during World War I.</field>
++    <field name="scopecontent_teim">Series I: Correspondence pertains to Margaret Strickland&#39;s personal and professional life, including correspondence from her closest friends, family, and colleagues in the publishing industry. This series features over 146 letters (over 660 pages) from Strickland&#39;s sweetheart &#34;Louis&#34;, in addition to letters from her husband Richard Hugh Worley while he was on active service with the British Expeditionary Force and Kings Royal Rifle Corps during World War I.</field>
+     <field name="genreform_teim">Personal correspondence.</field>
+     <field name="genreform_teim">Personal papers.</field>
+     <field name="genreform_teim">Commercial correspondence</field>
+@@ -29,9 +29,9 @@
+     <field name="subject_teim">Authors, English |x Correspondence.</field>
+     <field name="subject_teim">Authors, English -- 20th century -- Correspondence.</field>
+     <field name="subject_teim">World War, 1914-1918 -- Correspondence.</field>
+-    <field name="subject_teim">English fiction -- 20th century.</field>
+-    <field name="subject_teim">Women authors, English.</field>
+-    <field name="subject_teim">Authors, English -- Correspondence.</field>
++    <field name="subject_teim">English fiction --20th century.</field>
++    <field name="subject_teim">Women authors, English.</field>
++    <field name="subject_teim">Authors, English --Correspondence.</field>
+     <field name="subject_teim">Authors, English -- 20th century -- Correspondence.</field>
+     <field name="subject_teim">World War, 1914-1918 -- Correspondence.</field>
+     <field name="subject_ssm">English fiction |y 20th century.</field>
+@@ -51,12 +51,13 @@
+     <field name="place_sim">Manitoba, Canada</field>
+     <field name="place_sim">Kent, England</field>
+     <field name="place_sim">London (England).</field>
+-    <field name="subject_sim">English fiction -- 20th century.</field>
++    <field name="subject_sim">English fiction --20th century.</field>
+     <field name="subject_sim">Women authors, English.</field>
+-    <field name="subject_sim">Authors, English -- Correspondence.</field>
++    <field name="subject_sim">Authors, English --Correspondence.</field>
+     <field name="subject_sim">Authors, English -- 20th century -- Correspondence.</field>
+     <field name="subject_sim">World War, 1914-1918 -- Correspondence.</field>
+     <field name="collection_teim">Margaret Strickland Papers</field>
++    <field name="author_teim">Matt Moore, 2001. Edited by Rhyannon J. Rodriguez 2012, 2014, and 2015.</field>
+     <field name="collection_unitid_teim">MSS.077</field>
+     <field name="series_si">Series I: Correspondence</field>
+     <field name="material_type_sim">Personal correspondence.</field>

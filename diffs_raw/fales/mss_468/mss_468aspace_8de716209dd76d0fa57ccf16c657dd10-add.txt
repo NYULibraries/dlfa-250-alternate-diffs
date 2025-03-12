@@ -1,0 +1,51 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_468</field>
+     <field name="parent_ssi">aspace_677d309ffe7f29cda55ddd8cd563b8b7</field>
+     <field name="parent_ssm">aspace_677d309ffe7f29cda55ddd8cd563b8b7</field>
+-    <field name="parent_unittitles_ssm">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
+-    <field name="parent_unittitles_teim">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
++    <field name="parent_unittitles_ssm">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
++    <field name="parent_unittitles_teim">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Coca Crystal Video Recordings and Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Coca Crystal Video Recordings and Papers</field>
+     <field name="collection_unitid_ssm">MSS.468</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Vincent's Memorial</field>
+-    <field name="unittitle_teim">Vincent's Memorial</field>
++    <field name="unittitle_ssm">Vincent&#39;s Memorial</field>
++    <field name="unittitle_teim">Vincent&#39;s Memorial</field>
+     <field name="unitid_teim">cuid29786</field>
+     <field name="unitid_ssm">cuid29786</field>
+     <field name="unitdate_normal_ssm">1985-03-13/1985-03-13</field>
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_sim">1985-03-13/1985-03-13</field>
+     <field name="unitdate_teim">March 13, 1985</field>
+     <field name="phystech_teim">Duration: 60 minutes</field>
+-    <field name="dao_teim">Vincent's Memorial: March 13, 1985</field>
+-    <field name="dao_ssm">Vincent's Memorial: March 13, 1985</field>
++    <field name="dao_teim">Vincent&#39;s Memorial: March 13, 1985</field>
++    <field name="dao_ssm">Vincent&#39;s Memorial: March 13, 1985</field>
+     <field name="ref_ssi">aspace_8de716209dd76d0fa57ccf16c657dd10</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,10 +34,11 @@
+     <field name="location_si">Box: 14, U-matic: 468_183</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Coca Crystal Video Recordings and Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.468</field>
+-    <field name="series_sim">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
+-    <field name="series_si">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution &gt;&gt; Vincent's Memorial</field>
+-    <field name="heading_ssm">Vincent's Memorial</field>
++    <field name="series_sim">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
++    <field name="series_si">Series II. The Coca Crystal Show: If I Can&#39;t Dance, You Can Keep Your Revolution &gt;&gt; Vincent&#39;s Memorial</field>
++    <field name="heading_ssm">Vincent&#39;s Memorial</field>
+     <field name="unitdate_ssm">March 13, 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">219</field>

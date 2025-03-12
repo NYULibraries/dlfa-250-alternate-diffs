@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref8</field>
+     <field name="parent_ssm">aspace_ref27</field>
+     <field name="parent_unittitles_ssm">Series VIII: Film</field>
+-    <field name="parent_unittitles_ssm">Subseries C: Juvenilia and Family</field>
++    <field name="parent_unittitles_ssm">Subseries C: Juvenilia and Family </field>
+     <field name="parent_unittitles_teim">Series VIII: Film</field>
+-    <field name="parent_unittitles_teim">Subseries C: Juvenilia and Family</field>
++    <field name="parent_unittitles_teim">Subseries C: Juvenilia and Family </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Nick Zedd Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Nick Zedd Papers</field>
+     <field name="collection_unitid_ssm">MSS.311</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"The Giant Fly Invincible - Part 2"</field>
+-    <field name="unittitle_teim">"The Giant Fly Invincible - Part 2"</field>
++    <field name="unittitle_ssm">&#34;The Giant Fly Invincible - Part 2&#34;</field>
++    <field name="unittitle_teim">&#34;The Giant Fly Invincible - Part 2&#34;</field>
+     <field name="unitid_teim">ID: 311.0107</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/555495</field>
+     <field name="unitid_ssm">ID: 311.0107</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Film: 311.0107</field>
+     <field name="location_si">Film: 311.0107</field>
+     <field name="collection_teim">Nick Zedd Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2011.</field>
+     <field name="collection_unitid_teim">MSS.311</field>
+     <field name="series_sim">Series VIII: Film</field>
+-    <field name="series_sim">Subseries C: Juvenilia and Family</field>
+-    <field name="series_si">Series VIII: Film &gt;&gt; Subseries C: Juvenilia and Family &gt;&gt; "The Giant Fly Invincible - Part 2"</field>
+-    <field name="heading_ssm">"The Giant Fly Invincible - Part 2"</field>
++    <field name="series_sim">Subseries C: Juvenilia and Family </field>
++    <field name="series_si">Series VIII: Film &gt;&gt; Subseries C: Juvenilia and Family  &gt;&gt; &#34;The Giant Fly Invincible - Part 2&#34;</field>
++    <field name="heading_ssm">&#34;The Giant Fly Invincible - Part 2&#34;</field>
+     <field name="unitdate_ssm">1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">722</field>

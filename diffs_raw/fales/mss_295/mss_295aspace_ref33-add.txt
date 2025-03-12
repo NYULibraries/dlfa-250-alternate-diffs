@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1894/1894</field>
+     <field name="unitdate_normal_sim">1894/1894</field>
+     <field name="unitdate_inclusive_teim">1893-1894</field>
+-    <field name="scopecontent_teim">American Cereal Co. America's Cereal Foods and How to Cook Them. Chicago, IL: American Cereal Co., 1894.</field>
+-    <field name="scopecontent_teim">American Cereal Co. America's Cereal Foods and How to Cook Them. Chicago, IL: American Cereal Co., 1893.</field>
++    <field name="scopecontent_teim">American Cereal Co. America&#39;s Cereal Foods and How to Cook Them. Chicago, IL: American Cereal Co., 1894.</field>
++    <field name="scopecontent_teim"> American Cereal Co. America&#39;s Cereal Foods and How to Cook Them. Chicago, IL: American Cereal Co., 1893.</field>
+     <field name="ref_ssi">aspace_ref33</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 1, Folder: 25</field>
+     <field name="location_si">Box: 1, Folder: 25</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The American Cereal Company</field>

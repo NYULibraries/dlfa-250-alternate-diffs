@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,8 @@
+     <field name="unitdate_normal_sim">1994/1994</field>
+     <field name="unitdate_inclusive_teim">1994</field>
+     <field name="phystech_teim">Format: VHS</field>
+-    <field name="phystech_teim">TRT: 00:05:00</field>
++    <field name="phystech_teim">
++TRT: 00:05:00</field>
+     <field name="ref_ssi">aspace_ref2192</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +36,7 @@
+     <field name="location_ssm">case: 270.0107</field>
+     <field name="location_si">case: 270.0107</field>
+     <field name="collection_teim">Public Art Fund Archive</field>
++    <field name="author_teim">Tara Hart, 2011. Previous processing by David Kim, Jaclyn Barcewski, Joey Cabrera, Peter Loring, Craig P. Savino, Lilli Schestag. Finding aid created by Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.270</field>
+     <field name="series_sim">Series X: Video</field>
+     <field name="series_sim">Subseries X.A: Access Copies</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Guerrilla TV Archive</field>
+     <field name="collection_unitid_ssm">MSS.138</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Business Cards labeled "Interviews(notes on reverse)</field>
+-    <field name="unittitle_teim">Business Cards labeled "Interviews(notes on reverse)</field>
++    <field name="unittitle_ssm">Business Cards labeled &#34;Interviews(notes on reverse)</field>
++    <field name="unittitle_teim">Business Cards labeled &#34;Interviews(notes on reverse)</field>
+     <field name="unitdate_teim">1981-1992</field>
+     <field name="ref_ssi">aspace_ref243</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 6, Folder: 226</field>
+     <field name="location_si">Box: 6, Folder: 226</field>
+     <field name="collection_teim">Guerrilla TV Archive</field>
++    <field name="author_teim">Processed by Jessica Shimmin, September 2003-February 2004.</field>
+     <field name="collection_unitid_teim">MSS.138</field>
+     <field name="series_sim">Series III: Notes</field>
+-    <field name="series_si">Series III: Notes &gt;&gt; Business Cards labeled "Interviews(notes on reverse)</field>
+-    <field name="heading_ssm">Business Cards labeled "Interviews(notes on reverse)</field>
++    <field name="series_si">Series III: Notes &gt;&gt; Business Cards labeled &#34;Interviews(notes on reverse)</field>
++    <field name="heading_ssm">Business Cards labeled &#34;Interviews(notes on reverse)</field>
+     <field name="unitdate_ssm">1981-1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">231</field>

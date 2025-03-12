@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+     <field name="collection_unitid_ssm">MSS.295</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Huyler's Cocoa &amp; Chocolate</field>
+-    <field name="unittitle_teim">Huyler's Cocoa &amp; Chocolate</field>
++    <field name="unittitle_ssm">Huyler&#39;s Cocoa &amp; Chocolate</field>
++    <field name="unittitle_teim">Huyler&#39;s Cocoa &amp; Chocolate</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/729584</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/729584</field>
+     <field name="unitdate_normal_ssm">1913/1913</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1913/1913</field>
+     <field name="unitdate_normal_sim">1913/1913</field>
+     <field name="unitdate_inclusive_teim">1913</field>
+-    <field name="scopecontent_teim">Huyler's. Recipes for the Use of Huyler's Cocoa and Chocolate. New York, NY: Huyler's, 1913.</field>
++    <field name="scopecontent_teim">Huyler&#39;s. Recipes for the Use of Huyler&#39;s Cocoa and Chocolate. New York, NY: Huyler&#39;s, 1913.</field>
+     <field name="ref_ssi">aspace_ref346</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 19, Folder: 18</field>
+     <field name="location_si">Box: 19, Folder: 18</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+-    <field name="series_si">Cookery Ephemera &gt;&gt; Huyler's Cocoa &amp; Chocolate</field>
+-    <field name="heading_ssm">Huyler's Cocoa &amp; Chocolate</field>
++    <field name="series_si">Cookery Ephemera &gt;&gt; Huyler&#39;s Cocoa &amp; Chocolate</field>
++    <field name="heading_ssm">Huyler&#39;s Cocoa &amp; Chocolate</field>
+     <field name="unitdate_start_sim">1913</field>
+     <field name="unitdate_start_ssm">1913</field>
+     <field name="unitdate_start_si">1913</field>

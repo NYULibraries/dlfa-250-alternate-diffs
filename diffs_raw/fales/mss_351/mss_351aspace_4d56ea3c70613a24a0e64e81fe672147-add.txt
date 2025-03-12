@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Yoshio Kishi Papers</field>
+     <field name="collection_unitid_ssm">MSS.351</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Last Will &amp; Testament" (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
+-    <field name="unittitle_teim">"Last Will &amp; Testament" (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
++    <field name="unittitle_ssm">&#34;Last Will &amp; Testament&#34; (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
++    <field name="unittitle_teim">&#34;Last Will &amp; Testament&#34; (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
+     <field name="unitdate_normal_ssm">1981/1981</field>
+     <field name="unitdate_normal_teim">1981/1981</field>
+     <field name="unitdate_normal_sim">1981/1981</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 5, Folder: 25</field>
+     <field name="location_si">Box: 5, Folder: 25</field>
+     <field name="collection_teim">Yoshio Kishi Papers</field>
++    <field name="author_teim">Eri Matsuda and Aki Snyder </field>
+     <field name="collection_unitid_teim">MSS.351</field>
+     <field name="series_sim">Series II: Collection of Asian American Materials</field>
+-    <field name="series_si">Series II: Collection of Asian American Materials &gt;&gt; "Last Will &amp; Testament" (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
+-    <field name="heading_ssm">"Last Will &amp; Testament" (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
++    <field name="series_si">Series II: Collection of Asian American Materials &gt;&gt; &#34;Last Will &amp; Testament&#34; (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
++    <field name="heading_ssm">&#34;Last Will &amp; Testament&#34; (Asian American Legal Defense &amp; Education Fund Pamphlet)</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>
+     <field name="unitdate_start_si">1981</field>

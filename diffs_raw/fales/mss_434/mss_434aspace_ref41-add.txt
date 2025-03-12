@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Kathy Acker Notebooks</field>
+     <field name="collection_unitid_ssm">MSS.434</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Movie Buzz" by Leonard Neufeld</field>
+-    <field name="unittitle_teim">"Movie Buzz" by Leonard Neufeld</field>
++    <field name="unittitle_ssm">&#34;Movie Buzz&#34; by Leonard Neufeld</field>
++    <field name="unittitle_teim">&#34;Movie Buzz&#34; by Leonard Neufeld</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 3, Folder: 12</field>
+     <field name="location_si">Box: 3, Folder: 12</field>
+     <field name="collection_teim">Kathy Acker Notebooks</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2015.</field>
+     <field name="collection_unitid_teim">MSS.434</field>
+-    <field name="series_si">"Movie Buzz" by Leonard Neufeld</field>
+-    <field name="heading_ssm">"Movie Buzz" by Leonard Neufeld</field>
++    <field name="series_si">&#34;Movie Buzz&#34; by Leonard Neufeld</field>
++    <field name="heading_ssm">&#34;Movie Buzz&#34; by Leonard Neufeld</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

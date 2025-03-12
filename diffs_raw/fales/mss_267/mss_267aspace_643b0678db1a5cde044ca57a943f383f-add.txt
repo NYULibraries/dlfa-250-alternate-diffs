@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1960/2000</field>
+     <field name="unitdate_normal_sim">1960/2000</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">This tape contains poetry and musical performances by Paula Claire and the Paxton Group, which includes Steven Paxton, John Griffith, Ray Dillard, and Cynthia Cole. Performances include "Spiderunes," "The Dundee Telgrams, "The Patmost Poems," "Still Life," "Zen Inscriptions," "Through Glass," and "OIF."</field>
++    <field name="scopecontent_teim">This tape contains  poetry and musical performances by Paula Claire and the Paxton Group, which includes Steven Paxton, John Griffith, Ray Dillard, and Cynthia Cole. Performances include &#34;Spiderunes,&#34; &#34;The Dundee Telgrams, &#34;The Patmost Poems,&#34; &#34;Still Life,&#34; &#34;Zen Inscriptions,&#34; &#34;Through Glass,&#34; and &#34;OIF.&#34;</field>
+     <field name="phystech_teim">Duration: 65 minutes.</field>
+     <field name="dao_teim">Paula Claire and the Paxton Group Performances</field>
+     <field name="dao_ssm">Paula Claire and the Paxton Group Performances</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 12, audiocassette: 267_208</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series III. Musical Recordings</field>
+     <field name="series_si">Series III. Musical Recordings &gt;&gt; Paula Claire and the Paxton Group Performances</field>

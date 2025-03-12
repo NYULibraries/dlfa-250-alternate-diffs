@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/556732</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/556732</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Series III: Photographs contains photographs, contact sheets, negatives, and slides pertaining to Vaccaro's productions and personal collection. Most of the people and plays in the photographs in the collection are unidentified at this time. Materials are undated.</field>
++    <field name="scopecontent_teim">Series III: Photographs contains photographs, contact sheets, negatives, and slides pertaining to Vaccaro&#39;s productions and personal collection. Most of the people and plays in the photographs in the collection are unidentified at this time. Materials are undated.</field>
+     <field name="ref_ssi">aspace_ref3</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -22,6 +22,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">John Vaccaro and the Play-House of the Ridiculous Papers</field>
++    <field name="author_teim">Colin Torre</field>
+     <field name="collection_unitid_teim">MSS.321</field>
+     <field name="series_si">Series III: Photographs</field>
+     <field name="heading_ssm">Series III: Photographs</field>

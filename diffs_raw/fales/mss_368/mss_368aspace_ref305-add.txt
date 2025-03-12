@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1</field>
+     <field name="parent_ssm">aspace_ref47</field>
+     <field name="parent_unittitles_ssm">Series I: Auction and Exhibit Materials</field>
+-    <field name="parent_unittitles_ssm">Subseries C: Sotheby Catalogs</field>
++    <field name="parent_unittitles_ssm">Subseries C: Sotheby Catalogs&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series I: Auction and Exhibit Materials</field>
+-    <field name="parent_unittitles_teim">Subseries C: Sotheby Catalogs</field>
++    <field name="parent_unittitles_teim">Subseries C: Sotheby Catalogs&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+@@ -33,10 +33,12 @@
+     <field name="location_ssm">Box: 8, Folder: 15</field>
+     <field name="location_si">Box: 8, Folder: 15</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
++    <field name="author_teim">Marissa Hiller, with Charlie Morgan, 2015. Sophie Glidden-Lyon, 2016.</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+     <field name="series_sim">Series I: Auction and Exhibit Materials</field>
+-    <field name="series_sim">Subseries C: Sotheby Catalogs</field>
+-    <field name="series_si">Series I: Auction and Exhibit Materials &gt;&gt; Subseries C: Sotheby Catalogs &gt;&gt; Sotheby and Co.</field>
++    <field name="series_sim">Subseries C: Sotheby Catalogs&amp;#xA;</field>
++    <field name="series_si">Series I: Auction and Exhibit Materials &gt;&gt; Subseries C: Sotheby Catalogs
++ &gt;&gt; Sotheby and Co.</field>
+     <field name="heading_ssm">Sotheby and Co.</field>
+     <field name="unitdate_start_sim">1963</field>
+     <field name="unitdate_start_ssm">1963</field>

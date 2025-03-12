@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2003-08-24/2003-08-24</field>
+     <field name="unitdate_normal_sim">2003-08-24/2003-08-24</field>
+     <field name="unitdate_teim">August 24, 2003</field>
+-    <field name="scopecontent_teim">Content includes Al Andaluz Rooftop; Iraq Women's Freedom Rally at Ferdoz Square</field>
++    <field name="scopecontent_teim">Content includes Al Andaluz Rooftop; Iraq Women&#39;s Freedom Rally at Ferdoz Square</field>
+     <field name="ref_ssi">aspace_8e441f73186d82ed6d496acee05e64ab</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 151, MiniDV: 312_1166</field>
+     <field name="location_si">Box: 151, MiniDV: 312_1166</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; Clip Compilation</field>

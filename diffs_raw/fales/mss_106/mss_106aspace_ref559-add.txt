@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">David Trinidad Papers</field>
+     <field name="collection_unitid_ssm">MSS.106</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">SOMETHING'S GOT TO GIVE. 10/12/92.</field>
+-    <field name="unittitle_teim">SOMETHING'S GOT TO GIVE. 10/12/92.</field>
++    <field name="unittitle_ssm">SOMETHING&#39;S GOT TO GIVE. 10/12/92.</field>
++    <field name="unittitle_teim">SOMETHING&#39;S GOT TO GIVE. 10/12/92.</field>
+     <field name="unitdate_teim">1992</field>
+     <field name="ref_ssi">aspace_ref559</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 7, Folder: 165</field>
+     <field name="location_si">Box: 7, Folder: 165</field>
+     <field name="collection_teim">David Trinidad Papers</field>
++    <field name="author_teim">Processed by: Philip Lauer, Marvin J. Taylor, May - Sept. 2000</field>
+     <field name="collection_unitid_teim">MSS.106</field>
+     <field name="series_sim">Series II: Writing</field>
+     <field name="series_sim">Subseries B[4]: Poetry Worksheets 5/17/92-7/25/97</field>
+-    <field name="series_si">Series II: Writing &gt;&gt; Subseries B[4]: Poetry Worksheets 5/17/92-7/25/97 &gt;&gt; SOMETHING'S GOT TO GIVE. 10/12/92.</field>
+-    <field name="heading_ssm">SOMETHING'S GOT TO GIVE. 10/12/92.</field>
++    <field name="series_si">Series II: Writing &gt;&gt; Subseries B[4]: Poetry Worksheets 5/17/92-7/25/97 &gt;&gt; SOMETHING&#39;S GOT TO GIVE. 10/12/92.</field>
++    <field name="heading_ssm">SOMETHING&#39;S GOT TO GIVE. 10/12/92.</field>
+     <field name="unitdate_ssm">1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">540</field>

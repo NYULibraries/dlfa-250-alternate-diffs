@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,11 @@
+     <field name="collection_ssm">John Watts Papers</field>
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Foreman, Laura&lt;em&gt;Note&lt;/em&gt;: Songs - music &amp; lyrics by Laura, 1968&lt;em&gt;Brand&lt;/em&gt;: Sam Goody&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="unittitle_teim">Foreman, LauraNote: Songs - music &amp; lyrics by Laura, 1968Brand: Sam GoodyFormat: 1/4" sm.</field>
++    <field name="unittitle_ssm">Foreman, Laura&lt;em&gt;Note&lt;/em&gt;: Songs - music &amp; lyrics by Laura, 1968&lt;em&gt;Brand&lt;/em&gt;: Sam Goody&lt;em&gt;Format&lt;/em&gt;: 1/4&#34; sm.</field>
++    <field name="unittitle_teim">Foreman, Laura
++Note: Songs - music &amp; lyrics by Laura, 1968
++Brand: Sam Goody
++Format: 1/4&#34; sm.</field>
+     <field name="unitdate_teim">1968</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Brand</field>
+@@ -34,11 +37,15 @@
+     <field name="location_ssm">Box: 59, Folder: data_value_missing_154a904a02777afd459951e28e8eabc7</field>
+     <field name="location_si">Box: 59, Folder: data_value_missing_154a904a02777afd459951e28e8eabc7</field>
+     <field name="collection_teim">John Watts Papers</field>
++    <field name="author_teim">Gina Genova, August 2000-August 2002. Media updated by Luke Martin and Brent Phillips, 2008; YZ Chin, 2010.</field>
+     <field name="collection_unitid_teim">MSS.093</field>
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries C: Concerts - Live Recordings</field>
+-    <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries C: Concerts - Live Recordings &gt;&gt; Foreman, Laura&lt;em&gt;Note&lt;/em&gt;: Songs - music &amp; lyrics by Laura, 1968&lt;em&gt;Brand&lt;/em&gt;: Sam Goody&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="heading_ssm">Foreman, LauraNote: Songs - music &amp; lyrics by Laura, 1968Brand: Sam GoodyFormat: 1/4" sm.</field>
++    <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries C: Concerts - Live Recordings &gt;&gt; Foreman, Laura&lt;em&gt;Note&lt;/em&gt;: Songs - music &amp; lyrics by Laura, 1968&lt;em&gt;Brand&lt;/em&gt;: Sam Goody&lt;em&gt;Format&lt;/em&gt;: 1/4&#34; sm.</field>
++    <field name="heading_ssm">Foreman, Laura
++Note: Songs - music &amp; lyrics by Laura, 1968
++Brand: Sam Goody
++Format: 1/4&#34; sm.</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">979</field>

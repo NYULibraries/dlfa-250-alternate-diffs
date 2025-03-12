@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Album 9 (cont'd): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
+-    <field name="unittitle_teim">Album 9 (cont'd): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
++    <field name="unittitle_ssm">Album 9 (cont&#39;d): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
++    <field name="unittitle_teim">Album 9 (cont&#39;d): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/547936</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547936</field>
+     <field name="unitdate_teim">1985-98, undated</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">binder: B13</field>
+     <field name="location_si">binder: B13</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series III: Photographic Material</field>
+     <field name="series_sim">Subseries B: Photo Albums</field>
+-    <field name="series_si">Series III: Photographic Material &gt;&gt; Subseries B: Photo Albums &gt;&gt; Album 9 (cont'd): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
+-    <field name="heading_ssm">Album 9 (cont'd): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
++    <field name="series_si">Series III: Photographic Material &gt;&gt; Subseries B: Photo Albums &gt;&gt; Album 9 (cont&#39;d): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
++    <field name="heading_ssm">Album 9 (cont&#39;d): Climax Band, East 13th St., Band &amp; Phoebe Legere</field>
+     <field name="unitdate_ssm">1985-98, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1099</field>

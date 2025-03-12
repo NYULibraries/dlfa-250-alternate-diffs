@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries A: Paper Files</field>
+     <field name="unittitle_teim">Subseries A: Paper Files</field>
+-    <field name="scopecontent_teim">This Subseries includes correspondence, annual reports, and memos from Silverman's tenure as CEO and chairman of Book of the Month Club.</field>
++    <field name="scopecontent_teim">This Subseries includes correspondence, annual reports, and memos from Silverman&#39;s tenure as CEO and chairman of Book of the Month Club.</field>
+     <field name="ref_ssi">aspace_ref230</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Al Silverman Papers</field>
++    <field name="author_teim">Processed by Tania Friedel and Mimi Martin, 2003-2004. Updated in 2013 by Laura Newsome.</field>
+     <field name="collection_unitid_teim">MSS.136</field>
+     <field name="series_sim">Series II: Book of the Month Club</field>
+     <field name="series_si">Series II: Book of the Month Club &gt;&gt; Subseries A: Paper Files</field>

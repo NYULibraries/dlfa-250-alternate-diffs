@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_teim">2020-05/2021-01</field>
+     <field name="unitdate_normal_sim">2020-05/2021-01</field>
+     <field name="unitdate_inclusive_teim">May 2020-January 2021</field>
+-    <field name="scopecontent_teim">Postcards from the Edge is an annual benefit for Visual AIDS. The sale features postcard-sized artworks by well-known and emerging artists all sold for $85 each and the artist's name is only revealed after purchase. In 2021, the sale was held virtually due to the COVID-19 pandemic.</field>
++    <field name="scopecontent_teim">Postcards from the Edge is an annual benefit for Visual AIDS. The sale features postcard-sized artworks by well-known and emerging artists all sold for $85 each and the artist&#39;s name is only revealed after purchase. In 2021, the sale was held virtually due to the COVID-19 pandemic.</field>
+     <field name="corpname_teim">Visual AIDS (Organization)</field>
+     <field name="corpname_ssm">Visual AIDS (Organization)</field>
+     <field name="dao_teim">Postcards from the Edge 2021 Archived Website: May 2020-January 2021</field>
+@@ -36,6 +36,7 @@
+     <field name="name_teim">Visual AIDS (Organization)</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York City Arts Community COVID-19 Response Web Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">MSS.603</field>
+     <field name="series_si">Postcards from the Edge 2021</field>
+     <field name="heading_ssm">Postcards from the Edge 2021</field>

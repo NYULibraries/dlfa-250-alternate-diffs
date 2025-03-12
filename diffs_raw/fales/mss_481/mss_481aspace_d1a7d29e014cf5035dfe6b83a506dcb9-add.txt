@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1965/2010</field>
+     <field name="unitdate_normal_sim">1965/2010</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">This is a handmade cassette published by Bill Dixon, Inc. and Metamorphosis Music, BMI. This tape contains music excerpts, including "Dusty Rose," "Waltz for Jack Moore," Dance Pieces, Untitled Pieces</field>
++    <field name="scopecontent_teim">This is a handmade cassette published by Bill Dixon, Inc. and Metamorphosis Music, BMI. This tape contains music excerpts, including &#34;Dusty Rose,&#34; &#34;Waltz for Jack Moore,&#34; Dance Pieces, Untitled Pieces</field>
+     <field name="ref_ssi">aspace_d1a7d29e014cf5035dfe6b83a506dcb9</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Box: 42, audiocassette: 481_2046</field>
+     <field name="location_si">Box: 42, audiocassette: 481_2046</field>
+     <field name="collection_teim">Bill Dixon Papers</field>
++    <field name="author_teim">Stacey Flatt, Rachel Mahre, Lyric Evans-Hunter, and Maddie DeLaere</field>
+     <field name="collection_unitid_teim">MSS.481</field>
+     <field name="series_sim">Series I. Music</field>
+     <field name="series_sim">Subseries I.A: Commercial and Studio Recordings</field>

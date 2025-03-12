@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,9 @@
+     <field name="unitid_ssm">ID: 249.0007</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/531177</field>
+     <field name="unitdate_teim">c.a. 1981</field>
+-    <field name="phystech_teim">Gauge: 16mm Length:100 ft</field>
++    <field name="phystech_teim">Gauge: 16mm
++
++Length:100 ft</field>
+     <field name="ref_ssi">aspace_ref20</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,6 +35,7 @@
+     <field name="location_ssm">Box: 2, Media: ID: 249.0007</field>
+     <field name="location_si">Box: 2, Media: ID: 249.0007</field>
+     <field name="collection_teim">Lisa Fox and Curt Royston Papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MSS.249</field>
+     <field name="series_sim">Series III: Film</field>
+     <field name="series_sim">Subseries B: Originals</field>

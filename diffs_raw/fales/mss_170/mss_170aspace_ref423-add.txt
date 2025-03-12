@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_170</field>
+     <field name="parent_ssi">aspace_ref7</field>
+     <field name="parent_ssm">aspace_ref7</field>
+-    <field name="parent_unittitles_ssm">Series II: Non-Mail Art Periodicals, Announcements and Flyers</field>
+-    <field name="parent_unittitles_teim">Series II: Non-Mail Art Periodicals, Announcements and Flyers</field>
++    <field name="parent_unittitles_ssm">Series II: Non-Mail Art Periodicals,&amp;#xA;Announcements and Flyers </field>
++    <field name="parent_unittitles_teim">Series II: Non-Mail Art Periodicals,&amp;#xA;Announcements and Flyers </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Mark Bloch Postal Art Network (PAN) Archive</field>
+@@ -31,9 +31,11 @@
+     <field name="location_ssm">Box: 105, Folder: 7</field>
+     <field name="location_si">Box: 105, Folder: 7</field>
+     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
++    <field name="author_teim">Rachel Greer and Sana Masood, 2015. Data entry by Sana Masood, 2015.</field>
+     <field name="collection_unitid_teim">MSS.170</field>
+-    <field name="series_sim">Series II: Non-Mail Art Periodicals, Announcements and Flyers</field>
+-    <field name="series_si">Series II: Non-Mail Art Periodicals, Announcements and Flyers &gt;&gt; USPS [United States Postal Service]</field>
++    <field name="series_sim">Series II: Non-Mail Art Periodicals,&amp;#xA;Announcements and Flyers </field>
++    <field name="series_si">Series II: Non-Mail Art Periodicals,
++Announcements and Flyers  &gt;&gt; USPS [United States Postal Service]</field>
+     <field name="heading_ssm">USPS [United States Postal Service]</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>

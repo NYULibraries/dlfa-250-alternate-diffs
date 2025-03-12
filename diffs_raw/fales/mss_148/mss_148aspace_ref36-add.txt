@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref19</field>
+     <field name="parent_ssm">aspace_ref28</field>
+     <field name="parent_unittitles_ssm">Series II: Publications</field>
+-    <field name="parent_unittitles_ssm">Subseries B: "The Knight Letter"</field>
++    <field name="parent_unittitles_ssm">Subseries B: &amp;#34;The Knight Letter&amp;#34;</field>
+     <field name="parent_unittitles_teim">Series II: Publications</field>
+-    <field name="parent_unittitles_teim">Subseries B: "The Knight Letter"</field>
++    <field name="parent_unittitles_teim">Subseries B: &amp;#34;The Knight Letter&amp;#34;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lewis Carroll Society of North America Archives</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 8</field>
+     <field name="location_si">Box: 1, Folder: 8</field>
+     <field name="collection_teim">Lewis Carroll Society of North America Archives</field>
++    <field name="author_teim">Melanie Meyers Cushman in 2003 with edits by Nicholas Martin in 2012 and additions by Andrea Kutsenkow in 2016.</field>
+     <field name="collection_unitid_teim">MSS.148</field>
+     <field name="series_sim">Series II: Publications</field>
+-    <field name="series_sim">Subseries B: "The Knight Letter"</field>
+-    <field name="series_si">Series II: Publications &gt;&gt; Subseries B: "The Knight Letter" &gt;&gt; The Knight Letter, n. 49-53</field>
++    <field name="series_sim">Subseries B: &amp;#34;The Knight Letter&amp;#34;</field>
++    <field name="series_si">Series II: Publications &gt;&gt; Subseries B: &#34;The Knight Letter&#34; &gt;&gt; The Knight Letter, n. 49-53</field>
+     <field name="heading_ssm">The Knight Letter, n. 49-53</field>
+     <field name="unitdate_ssm">1995-1996</field>
+     <field name="date_range_sim">undated &amp; other</field>

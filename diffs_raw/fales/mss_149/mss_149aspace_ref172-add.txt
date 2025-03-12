@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_149</field>
+     <field name="parent_ssi">aspace_ref170</field>
+     <field name="parent_ssm">aspace_ref170</field>
+-    <field name="parent_unittitles_ssm">Series XVIII: W. D. Snodgrass, Vivaldi's Four Seasons, Targ Editions No. 20</field>
+-    <field name="parent_unittitles_teim">Series XVIII: W. D. Snodgrass, Vivaldi's Four Seasons, Targ Editions No. 20</field>
++    <field name="parent_unittitles_ssm">Series XVIII: W. D. Snodgrass, Vivaldi&amp;#39;s Four Seasons, Targ Editions No. 20</field>
++    <field name="parent_unittitles_teim">Series XVIII: W. D. Snodgrass, Vivaldi&amp;#39;s Four Seasons, Targ Editions No. 20</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Targ Editions Archive</field>
+@@ -25,9 +25,10 @@
+     <field name="location_ssm">Box: 6, Folder: 125</field>
+     <field name="location_si">Box: 6, Folder: 125</field>
+     <field name="collection_teim">Targ Editions Archive</field>
++    <field name="author_teim">Processed by Melanie Meyers Cushman</field>
+     <field name="collection_unitid_teim">MSS.149</field>
+-    <field name="series_sim">Series XVIII: W. D. Snodgrass, Vivaldi's Four Seasons, Targ Editions No. 20</field>
+-    <field name="series_si">Series XVIII: W. D. Snodgrass, Vivaldi's Four Seasons, Targ Editions No. 20 &gt;&gt; Financial correspondence, Snodgrass, &lt;em&gt;The Four Seasons&lt;/em&gt;</field>
++    <field name="series_sim">Series XVIII: W. D. Snodgrass, Vivaldi&amp;#39;s Four Seasons, Targ Editions No. 20</field>
++    <field name="series_si">Series XVIII: W. D. Snodgrass, Vivaldi&#39;s Four Seasons, Targ Editions No. 20 &gt;&gt; Financial correspondence, Snodgrass, &lt;em&gt;The Four Seasons&lt;/em&gt;</field>
+     <field name="heading_ssm">Financial correspondence, Snodgrass, The Four Seasons</field>
+     <field name="unitdate_ssm">1983-1984</field>
+     <field name="date_range_sim">undated &amp; other</field>

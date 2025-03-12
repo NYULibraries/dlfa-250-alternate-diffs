@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Judson Memorial Church Archive</field>
+     <field name="collection_unitid_ssm">MSS.094</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Treasurer's Correspondence (tissue carbons)</field>
+-    <field name="unittitle_teim">Treasurer's Correspondence (tissue carbons)</field>
++    <field name="unittitle_ssm">Treasurer&#39;s Correspondence (tissue carbons)</field>
++    <field name="unittitle_teim">Treasurer&#39;s Correspondence (tissue carbons)</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/434685</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/434685</field>
+     <field name="unitdate_teim">1906-1908</field>
+@@ -33,12 +33,13 @@
+     <field name="location_ssm">Box: 88</field>
+     <field name="location_si">Box: 88</field>
+     <field name="collection_teim">Judson Memorial Church Archive</field>
++    <field name="author_teim">Tania Friedel and Matt Moore, 2000-01; 2001 accretion processed by Gwynneth Malin. Processing of media materials by Brent Phillips, 2006. 2009 Accretion processed by Nicholas Martin, 2010. Scrapbooks and yearbooks re-processed by Kristen Joy Owens, 2015.</field>
+     <field name="collection_unitid_teim">MSS.094</field>
+     <field name="series_sim">OVERSIZE Series C: General Archives - Ledgers</field>
+     <field name="series_sim">Subseries 3: Membership</field>
+     <field name="series_sim">Series C, Subseries 4: Financial Records</field>
+-    <field name="series_si">OVERSIZE Series C: General Archives - Ledgers &gt;&gt; Subseries 3: Membership &gt;&gt; Series C, Subseries 4: Financial Records &gt;&gt; Treasurer's Correspondence (tissue carbons)</field>
+-    <field name="heading_ssm">Treasurer's Correspondence (tissue carbons)</field>
++    <field name="series_si">OVERSIZE Series C: General Archives - Ledgers &gt;&gt; Subseries 3: Membership &gt;&gt; Series C, Subseries 4: Financial Records &gt;&gt; Treasurer&#39;s Correspondence (tissue carbons)</field>
++    <field name="heading_ssm">Treasurer&#39;s Correspondence (tissue carbons)</field>
+     <field name="unitdate_ssm">1906-1908</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6012</field>

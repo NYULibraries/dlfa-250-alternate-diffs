@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,9 @@
+     <field name="collection_ssm">Beach Archive</field>
+     <field name="collection_unitid_ssm">MSS.005</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Allen Ginsberg "Television Was a Baby"</field>
+-    <field name="unittitle_teim">Allen Ginsberg "Television Was a Baby"</field>
++    <field name="unittitle_ssm">Allen Ginsberg &#34;Television Was a Baby&#34;</field>
++    <field name="unittitle_teim">Allen Ginsberg 
++&#34;Television Was a Baby&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389632</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389632</field>
+     <field name="unitdate_teim">1964</field>
+@@ -27,10 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">Beach Archive</field>
++    <field name="author_teim">Processed by Tania Friedel, April 1999</field>
+     <field name="collection_unitid_teim">MSS.005</field>
+     <field name="series_sim">Series I: Correspondence and Manuscripts</field>
+-    <field name="series_si">Series I: Correspondence and Manuscripts &gt;&gt; Allen Ginsberg "Television Was a Baby"</field>
+-    <field name="heading_ssm">Allen Ginsberg "Television Was a Baby"</field>
++    <field name="series_si">Series I: Correspondence and Manuscripts &gt;&gt; Allen Ginsberg &#34;Television Was a Baby&#34;</field>
++    <field name="heading_ssm">Allen Ginsberg 
++&#34;Television Was a Baby&#34;</field>
+     <field name="unitdate_ssm">1964</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">8</field>

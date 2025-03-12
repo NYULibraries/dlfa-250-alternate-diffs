@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwall Foundation Archive</field>
+     <field name="collection_unitid_ssm">MSS.336</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Builders Association - "Master Builder"</field>
+-    <field name="unittitle_teim">The Builders Association - "Master Builder"</field>
++    <field name="unittitle_ssm">The Builders Association - &#34;Master Builder&#34;</field>
++    <field name="unittitle_teim">The Builders Association - &#34;Master Builder&#34;</field>
+     <field name="unitid_teim">ID: 336.0018</field>
+     <field name="unitid_ssm">ID: 336.0018</field>
+     <field name="unitdate_normal_ssm">1994/1994</field>
+@@ -35,11 +35,12 @@
+     <field name="location_ssm">Box: 36, Media: ID: 336.0018</field>
+     <field name="location_si">Box: 36, Media: ID: 336.0018</field>
+     <field name="collection_teim">Greenwall Foundation Archive</field>
++    <field name="author_teim">Laura Newsome</field>
+     <field name="collection_unitid_teim">MSS.336</field>
+     <field name="series_sim">Series II: Media</field>
+     <field name="series_sim">Subseries A: Media</field>
+-    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; The Builders Association - "Master Builder"</field>
+-    <field name="heading_ssm">The Builders Association - "Master Builder"</field>
++    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; The Builders Association - &#34;Master Builder&#34;</field>
++    <field name="heading_ssm">The Builders Association - &#34;Master Builder&#34;</field>
+     <field name="unitdate_start_sim">1994</field>
+     <field name="unitdate_start_ssm">1994</field>
+     <field name="unitdate_start_si">1994</field>

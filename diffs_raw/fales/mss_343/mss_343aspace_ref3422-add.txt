@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Michael James O'Brien [1993.05]: Promotional Materials [Photographs]</field>
+-    <field name="unittitle_teim">Michael James O'Brien [1993.05]: Promotional Materials [Photographs]</field>
++    <field name="unittitle_ssm">Michael James O&#39;Brien [1993.05]: Promotional Materials [Photographs]</field>
++    <field name="unittitle_teim">Michael James O&#39;Brien [1993.05]: Promotional Materials [Photographs]</field>
+     <field name="unitid_teim">cuid13405</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/566819</field>
+     <field name="unitid_ssm">cuid13405</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 139, Folder: 12</field>
+     <field name="location_si">Box: 139, Folder: 12</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series II: Jeanette Ingberman Files</field>
+     <field name="series_sim">Subseries A: Jeanette Ingberman Exhibition Files</field>
+-    <field name="series_si">Series II: Jeanette Ingberman Files &gt;&gt; Subseries A: Jeanette Ingberman Exhibition Files &gt;&gt; Michael James O'Brien [1993.05]: Promotional Materials [Photographs]</field>
+-    <field name="heading_ssm">Michael James O'Brien [1993.05]: Promotional Materials [Photographs]</field>
++    <field name="series_si">Series II: Jeanette Ingberman Files &gt;&gt; Subseries A: Jeanette Ingberman Exhibition Files &gt;&gt; Michael James O&#39;Brien [1993.05]: Promotional Materials [Photographs]</field>
++    <field name="heading_ssm">Michael James O&#39;Brien [1993.05]: Promotional Materials [Photographs]</field>
+     <field name="unitdate_ssm">1993</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3872</field>

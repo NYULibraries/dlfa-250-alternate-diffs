@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_414</field>
+     <field name="parent_ssi">aspace_ref21</field>
+     <field name="parent_ssm">aspace_ref21</field>
+-    <field name="parent_unittitles_ssm">OVERSIZE: Series I</field>
+-    <field name="parent_unittitles_teim">OVERSIZE: Series I</field>
++    <field name="parent_unittitles_ssm">OVERSIZE: Series I </field>
++    <field name="parent_unittitles_teim">OVERSIZE: Series I </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Christopher Knowles Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Christopher Knowles Papers</field>
+     <field name="collection_unitid_ssm">MSS.414</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">This is Christopher's Book &amp; At the Beach Book</field>
+-    <field name="unittitle_teim">This is Christopher's Book &amp; At the Beach Book</field>
++    <field name="unittitle_ssm">This is Christopher&#39;s Book &amp; At the Beach Book</field>
++    <field name="unittitle_teim">This is Christopher&#39;s Book &amp; At the Beach Book</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/582986</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/582986</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 9, Folder: 7</field>
+     <field name="location_si">Box: 9, Folder: 7</field>
+     <field name="collection_teim">Christopher Knowles Papers</field>
++    <field name="author_teim">Sophie Glidden-Lyon. </field>
+     <field name="collection_unitid_teim">MSS.414</field>
+-    <field name="series_sim">OVERSIZE: Series I</field>
+-    <field name="series_si">OVERSIZE: Series I &gt;&gt; This is Christopher's Book &amp; At the Beach Book</field>
+-    <field name="heading_ssm">This is Christopher's Book &amp; At the Beach Book</field>
++    <field name="series_sim">OVERSIZE: Series I </field>
++    <field name="series_si">OVERSIZE: Series I  &gt;&gt; This is Christopher&#39;s Book &amp; At the Beach Book</field>
++    <field name="heading_ssm">This is Christopher&#39;s Book &amp; At the Beach Book</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

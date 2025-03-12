@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1792</field>
+     <field name="parent_ssm">aspace_ref7074</field>
+     <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_ssm">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_ssm">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_teim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_teim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sylvester Manor Archive</field>
+@@ -26,13 +26,13 @@
+     <field name="unitdate_normal_teim">1830/1839</field>
+     <field name="unitdate_normal_sim">1830/1839</field>
+     <field name="unitdate_inclusive_teim">undated, circa 1830s</field>
+-    <field name="scopecontent_teim">1 Letter, 1 Handmade Booklet with Gold Foiling</field>
+-    <field name="scopecontent_teim">Addressed To: "Mrs. Mary [Catherine L'Hommedieu] Gardiner, Shelter Island," [NY]</field>
+-    <field name="scopecontent_teim">Sent From: "Phebe [Dayton] Gardiner" [Daughter of Mary Catherine L'Hommedieu Gardiner]</field>
++    <field name="scopecontent_teim">1 Letter, 1 Handmade Booklet with Gold Foiling </field>
++    <field name="scopecontent_teim">Addressed To: &#34;Mrs. Mary [Catherine L&#39;Hommedieu] Gardiner, Shelter Island,&#34; [NY]</field>
++    <field name="scopecontent_teim">Sent From: &#34;Phebe [Dayton] Gardiner&#34; [Daughter of Mary Catherine L&#39;Hommedieu Gardiner]</field>
+     <field name="scopecontent_teim">In Reference To: Family / Friendship / Poetry / Social</field>
+     <field name="scopecontent_teim">4 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 2.5" x 2.5" - 7.75" x 6.5"</field>
++    <field name="scopecontent_teim">Measurements: 2.5&#34; x 2.5&#34; - 7.75&#34; x 6.5&#34;</field>
+     <field name="dao_teim">Personal Correspondence with Ephemera: undated, circa 1830s</field>
+     <field name="dao_ssm">Personal Correspondence with Ephemera: undated, circa 1830s</field>
+     <field name="ref_ssi">aspace_ref7092</field>
+@@ -45,10 +45,11 @@
+     <field name="location_si">Box: 54, Folder: 36</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+-    <field name="series_sim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
+-    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L'Hommedieu Gardiner &gt;&gt; Personal Correspondence with Ephemera</field>
++    <field name="series_sim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
++    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L&#39;Hommedieu Gardiner &gt;&gt; Personal Correspondence with Ephemera</field>
+     <field name="heading_ssm">Personal Correspondence with Ephemera</field>
+     <field name="unitdate_start_sim">1830</field>
+     <field name="unitdate_start_ssm">1830</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,12 +30,12 @@
+     <field name="unitdate_normal_sim">1909/1909</field>
+     <field name="unitdate_inclusive_teim">1909 June 26</field>
+     <field name="scopecontent_teim">3 Letters, 1 Envelope with Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "Miss [Mary] Katherine Horsford, Carter's Hotel, 14 &amp; 15 Albemarle Street West, London," [England]; "Mr. [Nathaniel] West, High Street, London," [England] ; "Mr. William Robinson"</field>
+-    <field name="scopecontent_teim">Sent From: "Assistant Overseer, Collector of Taxes, Estate Agent, Etc., William Robinson, The Bungalow, Iver Heath, Uxbridge, [London, England], Telegrams: Iver" ; "Nathaniel West"</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Miss [Mary] Katherine Horsford, Carter&#39;s Hotel, 14 &amp; 15 Albemarle Street West, London,&#34; [England]; &#34;Mr. [Nathaniel] West, High Street, London,&#34; [England] ; &#34;Mr. William Robinson&#34;</field>
++    <field name="scopecontent_teim">Sent From: &#34;Assistant Overseer, Collector of Taxes, Estate Agent, Etc., William Robinson, The Bungalow, Iver Heath, Uxbridge, [London, England], Telegrams: Iver&#34; ; &#34;Nathaniel West&#34;</field>
+     <field name="scopecontent_teim">In Reference To: Academic / Business / Education / Genealogy / History / Professional; 17th Century Church Registers; Reverend E.R. Whalley</field>
+     <field name="scopecontent_teim">5 Pages, Bound &amp; Unbound</field>
+-    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil</field>
+-    <field name="scopecontent_teim">Measurements: 4.75" x 3.75" - 5" x 8"</field>
++    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil </field>
++    <field name="scopecontent_teim">Measurements: 4.75&#34; x 3.75&#34; - 5&#34; x 8&#34;</field>
+     <field name="dao_teim">Robinson, William: Uxbridge, England: 1909 June 26</field>
+     <field name="dao_ssm">Robinson, William: Uxbridge, England: 1909 June 26</field>
+     <field name="ref_ssi">aspace_ref7335</field>
+@@ -48,6 +48,7 @@
+     <field name="location_si">Box: 100, Folder: 17</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series E: Mary Katherine Horsford (Kate)</field>

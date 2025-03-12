@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,13 +16,13 @@
+     <field name="collection_ssm">E. L. Doctorow Papers</field>
+     <field name="collection_unitid_ssm">MSS.056</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Braver Than We Thought" book review of &lt;em&gt;The Garden of Eden &lt;/em&gt;by Ernest Hemingway</field>
+-    <field name="unittitle_teim">"Braver Than We Thought" book review of The Garden of Eden by Ernest Hemingway</field>
++    <field name="unittitle_ssm">&#34;Braver Than We Thought&#34; book review of &lt;em&gt;The Garden of Eden &lt;/em&gt;by Ernest Hemingway</field>
++    <field name="unittitle_teim">&#34;Braver Than We Thought&#34; book review of The Garden of Eden by Ernest Hemingway</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/407560</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/407560</field>
+     <field name="unitdate_teim">May 18, 1986</field>
+-    <field name="title_teim">The Garden of Eden</field>
+-    <field name="title_ssm">The Garden of Eden</field>
++    <field name="title_teim">The Garden of Eden </field>
++    <field name="title_ssm">The Garden of Eden </field>
+     <field name="ref_ssi">aspace_ref2651</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 46, Folder: 24</field>
+     <field name="location_si">Box: 46, Folder: 24</field>
+     <field name="collection_teim">E. L. Doctorow Papers</field>
++    <field name="author_teim">Processed by Tania Friedel, May - August 2001, and Matt Moore, September 2001 - January 2003.</field>
+     <field name="collection_unitid_teim">MSS.056</field>
+     <field name="series_sim">Series II: Manuscripts</field>
+     <field name="series_sim">Subseries C: Essays and Nonfiction</field>
+-    <field name="series_si">Series II: Manuscripts &gt;&gt; Subseries C: Essays and Nonfiction &gt;&gt; "Braver Than We Thought" book review of &lt;em&gt;The Garden of Eden &lt;/em&gt;by Ernest Hemingway</field>
+-    <field name="heading_ssm">"Braver Than We Thought" book review of The Garden of Eden by Ernest Hemingway</field>
++    <field name="series_si">Series II: Manuscripts &gt;&gt; Subseries C: Essays and Nonfiction &gt;&gt; &#34;Braver Than We Thought&#34; book review of &lt;em&gt;The Garden of Eden &lt;/em&gt;by Ernest Hemingway</field>
++    <field name="heading_ssm">&#34;Braver Than We Thought&#34; book review of The Garden of Eden by Ernest Hemingway</field>
+     <field name="unitdate_ssm">May 18, 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2671</field>

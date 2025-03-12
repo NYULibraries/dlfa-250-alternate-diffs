@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1981/2000</field>
+     <field name="unitdate_normal_sim">1981/2000</field>
+     <field name="unitdate_inclusive_teim">1981-2000</field>
+-    <field name="scopecontent_teim">This series contains the paper files donated to Fales by Jack Waters, and includes draft articles; research on Valerie Caris; shooting scripts, technical information, and financial documents relating to Waters's films; and project files from the Mix Festival.</field>
++    <field name="scopecontent_teim">This series contains the paper files donated to Fales by Jack Waters, and includes draft articles; research on Valerie Caris; shooting scripts, technical information, and financial documents relating to Waters&#39;s films; and project files from the Mix Festival.</field>
+     <field name="ref_ssi">aspace_a1a6edf0727a69b7a337dcfc085705fb</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jack Waters Papers</field>
++    <field name="author_teim">Fales Staff</field>
+     <field name="collection_unitid_teim">MSS.111</field>
+     <field name="series_si">Series I: Files</field>
+     <field name="heading_ssm">Series I: Files</field>

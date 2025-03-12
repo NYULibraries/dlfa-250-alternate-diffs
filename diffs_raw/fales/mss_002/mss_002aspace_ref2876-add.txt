@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Map of Canada's natural resources, 1928</field>
+-    <field name="unittitle_teim">Map of Canada's natural resources, 1928</field>
++    <field name="unittitle_ssm">Map of Canada&#39;s natural resources, 1928</field>
++    <field name="unittitle_teim">Map of Canada&#39;s natural resources, 1928</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389492</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389492</field>
+     <field name="unitdate_normal_ssm">1928/1928</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Folder: 10</field>
+     <field name="location_si">Folder: 10</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Mapcase - Series XII: Printed Material</field>
+     <field name="series_sim">Subseries J: Maps</field>
+-    <field name="series_si">Mapcase - Series XII: Printed Material &gt;&gt; Subseries J: Maps &gt;&gt; Map of Canada's natural resources, 1928</field>
+-    <field name="heading_ssm">Map of Canada's natural resources, 1928</field>
++    <field name="series_si">Mapcase - Series XII: Printed Material &gt;&gt; Subseries J: Maps &gt;&gt; Map of Canada&#39;s natural resources, 1928</field>
++    <field name="heading_ssm">Map of Canada&#39;s natural resources, 1928</field>
+     <field name="unitdate_start_sim">1928</field>
+     <field name="unitdate_start_ssm">1928</field>
+     <field name="unitdate_start_si">1928</field>

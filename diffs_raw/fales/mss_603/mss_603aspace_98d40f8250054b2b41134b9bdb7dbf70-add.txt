@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_teim">2020-05/2020-05</field>
+     <field name="unitdate_normal_sim">2020-05/2020-05</field>
+     <field name="unitdate_teim">May 2020-ongoing</field>
+-    <field name="scopecontent_teim">Creative Time is a public arts organization that works with artists to contribute to the dialogues, debates, and dreams of the present day. The Creative Time Comics 2020 highlights artist's responses to the global shift caused by the COVID-19 pandemic.</field>
++    <field name="scopecontent_teim">Creative Time is a public arts organization that works with artists to contribute to the dialogues, debates, and dreams of the present day. The Creative Time Comics 2020 highlights artist&#39;s responses to the global shift caused by the COVID-19 pandemic.</field>
+     <field name="corpname_teim">Creative Time, Inc.</field>
+     <field name="corpname_ssm">Creative Time, Inc.</field>
+     <field name="dao_teim">Creative Time Comics 2020 Archived Website: May 2020-ongoing</field>
+@@ -36,6 +36,7 @@
+     <field name="name_teim">Creative Time, Inc.</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York City Arts Community COVID-19 Response Web Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">MSS.603</field>
+     <field name="series_si">Creative Time Comics 2020</field>
+     <field name="heading_ssm">Creative Time Comics 2020</field>

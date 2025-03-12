@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Sahin, Timucin</field>
+@@ -18,7 +18,9 @@
+     <field name="unitdate_normal_sim">2017-11/2017-11</field>
+     <field name="unitdate_teim">November 2017- ongoing</field>
+     <field name="scopecontent_teim">The website contains a biography of the artist, information about his compositions and projects, a calendar of his events, a discography of his published albums, links to press about Sahin and his music, and examples of his works in the form of embedded video files. The compositions featured on the site highlight his work as a guitarist and composer of contemporary jazz with elements of improvisation. His trademarks include playing the double-neck guitar and fretless electric guitar. Capture of the site began in November 2017. This description is based on the November 2017 capture of the site.</field>
+-    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. Crawl was limited to domains and subdomains of http://www.timucinsahin.net/ in order to remain within the collection scope and data constraints.</field>
++    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. 
++ 
++Crawl was limited to domains and subdomains of http://www.timucinsahin.net/ in order to remain within the collection scope and data constraints.</field>
+     <field name="appraisal_teim">Embedded Youtube and Vimeo video files on the site were not captured due to technological constraints.</field>
+     <field name="dao_teim">Archived website of Timucin Sahin</field>
+     <field name="dao_ssm">Archived website of Timucin Sahin</field>
+@@ -29,7 +31,8 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Sahin, Timucin</field>
+     <field name="heading_ssm">Sahin, Timucin</field>

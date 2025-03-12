@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_ssm">2000/2000</field>
+     <field name="unitdate_normal_teim">2000/2000</field>
+     <field name="unitdate_normal_sim">2000/2000</field>
+-    <field name="unitdate_inclusive_teim">2000</field>
++    <field name="unitdate_inclusive_teim">2000 </field>
+     <field name="ref_ssi">aspace_ref835</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 49, Folder: 11</field>
+     <field name="location_si">Box: 49, Folder: 11</field>
+     <field name="collection_teim">Public Art Fund Archive</field>
++    <field name="author_teim">Tara Hart, 2011. Previous processing by David Kim, Jaclyn Barcewski, Joey Cabrera, Peter Loring, Craig P. Savino, Lilli Schestag. Finding aid created by Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.270</field>
+     <field name="series_sim">Series VI: Public Art Fund - Project Files</field>
+     <field name="series_sim">Subseries VI.A: Exhibitions and Projects (1977 - 2009)</field>
+@@ -44,7 +45,7 @@
+     <field name="unitdate_end_sim">2000</field>
+     <field name="unitdate_end_ssm">2000</field>
+     <field name="unitdate_end_si">2000</field>
+-    <field name="unitdate_ssm">Inclusive, 2000</field>
++    <field name="unitdate_ssm">Inclusive, 2000 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">880</field>
+   </doc>

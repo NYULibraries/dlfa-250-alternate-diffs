@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1993/1993</field>
+     <field name="unitdate_normal_sim">1993/1993</field>
+     <field name="unitdate_teim">Circa 1993</field>
+-    <field name="scopecontent_teim">These tapes inlude "Latino Youth in the U.S.A." and "Debt Game"</field>
++    <field name="scopecontent_teim">These tapes inlude &#34;Latino Youth in the U.S.A.&#34; and &#34;Debt Game&#34;</field>
+     <field name="ref_ssi">aspace_ab152f42239a45fe158ea82c0cb059a7</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 144, MiniDV: 312_0692</field>
+     <field name="location_si">Box: 144, MiniDV: 312_0692</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Democracy in Communications&lt;/em&gt; -- Compilation Tapes</field>

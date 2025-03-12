@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1930/1950</field>
+     <field name="unitdate_normal_sim">1930/1950</field>
+     <field name="unitdate_inclusive_teim">1930, circa 1950</field>
+-    <field name="scopecontent_teim">Seidner. Seidner's Mayonnaise; A Manual of New Recipes. Westerly, RI: Otto Seidner, Inc., 1930.</field>
+-    <field name="scopecontent_teim">Seidner. Mayonnaise by Seidner. Westerly, RI: Otto Seidner, Inc, circa 1950.</field>
++    <field name="scopecontent_teim">Seidner. Seidner&#39;s Mayonnaise; A Manual of New Recipes. Westerly, RI: Otto Seidner, Inc., 1930.</field>
++    <field name="scopecontent_teim"> Seidner. Mayonnaise by Seidner. Westerly, RI: Otto Seidner, Inc, circa 1950.</field>
+     <field name="ref_ssi">aspace_ref545</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 29, Folder: 15</field>
+     <field name="location_si">Box: 29, Folder: 15</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Otto Seidner, Inc.</field>

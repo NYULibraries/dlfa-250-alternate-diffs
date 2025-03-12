@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_496</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+-    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_sim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="collection_ssm">New York University Collection of Contemporary Composers&#39; Websites</field>
+     <field name="collection_unitid_ssm">MSS.496</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Eisenberg, Jewlia</field>
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_sim">2014-02/2014-02</field>
+     <field name="unitdate_teim">February 2014- ongoing</field>
+     <field name="scopecontent_teim">The website contains a biography of the artist, information about her compositions and projects, a calendar of her events, press excerpts about Eisenberg and her projects, discography of her published albums, and examples of her works in the form of embedded audio and video files. The compositions featured on the site highlight her work as a member of the group Charming Hostess and a composer of music that explores the full expressive capabilities of the human voice. Capture of the site began in February 2014. This description is based on the December 2017 capture of the site.</field>
+-    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.</field>
++    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. </field>
+     <field name="appraisal_teim">Crawl was limited to domains and subdomains of http://charminghostess.com/ in order to remain within the collection scope and data constraints.</field>
+     <field name="corpname_teim">Charming Hostess (Musical group)</field>
+     <field name="corpname_ssm">Charming Hostess (Musical group)</field>
+@@ -33,7 +33,8 @@
+     <field name="name_sim">Charming Hostess (Musical group)</field>
+     <field name="name_teim">Charming Hostess (Musical group)</field>
+     <field name="dao_sim">Online Access</field>
+-    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
++    <field name="collection_teim">New York University Collection of Contemporary Composers&#39; Websites</field>
++    <field name="author_teim">Bess Pittman and Caroline Oliveira</field>
+     <field name="collection_unitid_teim">MSS.496</field>
+     <field name="series_si">Eisenberg, Jewlia</field>
+     <field name="heading_ssm">Eisenberg, Jewlia</field>

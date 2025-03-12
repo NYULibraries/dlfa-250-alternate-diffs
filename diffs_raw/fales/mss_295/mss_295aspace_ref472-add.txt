@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1942/1962</field>
+     <field name="unitdate_normal_sim">1942/1962</field>
+     <field name="unitdate_inclusive_teim">circa 1952</field>
+-    <field name="scopecontent_teim">Miles Laboratories. 20th Anniversary Souvenir One Man's Family Mother Barbour's Favorite Recipes. Elkhart, IN: Miles Laboratories, Inc., circa 1952.</field>
++    <field name="scopecontent_teim">Miles Laboratories. 20th Anniversary Souvenir One Man&#39;s Family Mother Barbour&#39;s Favorite Recipes. Elkhart, IN: Miles Laboratories, Inc., circa 1952.</field>
+     <field name="ref_ssi">aspace_ref472</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 25, Folder: 14</field>
+     <field name="location_si">Box: 25, Folder: 14</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Miles Laboratories, Inc.</field>

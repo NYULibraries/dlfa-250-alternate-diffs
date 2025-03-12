@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref3</field>
+     <field name="parent_ssm">aspace_ref63</field>
+     <field name="parent_unittitles_ssm">Series I: Journals</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Journals</field>
++    <field name="parent_unittitles_ssm">Subseries A: Journals&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series I: Journals</field>
+-    <field name="parent_unittitles_teim">Subseries A: Journals</field>
++    <field name="parent_unittitles_teim">Subseries A: Journals&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Martha Wilson Papers</field>
+@@ -33,10 +33,12 @@
+     <field name="location_ssm">Box: 97, Folder: 4</field>
+     <field name="location_si">Box: 97, Folder: 4</field>
+     <field name="collection_teim">Martha Wilson Papers</field>
++    <field name="author_teim">Lydia Brawner (2011); Finding aid completed by Rachel Greer (2012).</field>
+     <field name="collection_unitid_teim">MSS.175</field>
+     <field name="series_sim">Series I: Journals</field>
+-    <field name="series_sim">Subseries A: Journals</field>
+-    <field name="series_si">Series I: Journals &gt;&gt; Subseries A: Journals &gt;&gt; 2020 Accretion: Journal, July 11, 2018 to November 1, 2019</field>
++    <field name="series_sim">Subseries A: Journals&amp;#xA;</field>
++    <field name="series_si">Series I: Journals &gt;&gt; Subseries A: Journals
++ &gt;&gt; 2020 Accretion: Journal, July 11, 2018 to November 1, 2019</field>
+     <field name="heading_ssm">2020 Accretion: Journal, July 11, 2018 to November 1, 2019</field>
+     <field name="unitdate_start_sim">2018</field>
+     <field name="unitdate_start_ssm">2018</field>

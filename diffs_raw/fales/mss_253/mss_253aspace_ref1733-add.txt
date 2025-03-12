@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_253</field>
+     <field name="parent_ssi">aspace_ref1730</field>
+     <field name="parent_ssm">aspace_ref1730</field>
+-    <field name="parent_unittitles_ssm">Series XI: 2015 Accretion</field>
+-    <field name="parent_unittitles_teim">Series XI: 2015 Accretion</field>
++    <field name="parent_unittitles_ssm">Series XI: 2015 Accretion </field>
++    <field name="parent_unittitles_teim">Series XI: 2015 Accretion </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Paul Langland Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Paul Langland Papers</field>
+     <field name="collection_unitid_ssm">MSS.253</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Marfa Motion" by Nancy Wozny, &lt;em&gt;Texas Monthly&lt;/em&gt;</field>
+-    <field name="unittitle_teim">"Marfa Motion" by Nancy Wozny, Texas Monthly</field>
++    <field name="unittitle_ssm">&#34;Marfa Motion&#34; by Nancy Wozny, &lt;em&gt;Texas Monthly&lt;/em&gt;</field>
++    <field name="unittitle_teim">&#34;Marfa Motion&#34; by Nancy Wozny, Texas Monthly</field>
+     <field name="unitid_teim">cuid29333</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/532396</field>
+     <field name="unitid_ssm">cuid29333</field>
+@@ -34,10 +34,11 @@
+     <field name="location_ssm">Box: 43, Folder: 3</field>
+     <field name="location_si">Box: 43, Folder: 3</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+-    <field name="series_sim">Series XI: 2015 Accretion</field>
+-    <field name="series_si">Series XI: 2015 Accretion &gt;&gt; "Marfa Motion" by Nancy Wozny, &lt;em&gt;Texas Monthly&lt;/em&gt;</field>
+-    <field name="heading_ssm">"Marfa Motion" by Nancy Wozny, Texas Monthly</field>
++    <field name="series_sim">Series XI: 2015 Accretion </field>
++    <field name="series_si">Series XI: 2015 Accretion  &gt;&gt; &#34;Marfa Motion&#34; by Nancy Wozny, &lt;em&gt;Texas Monthly&lt;/em&gt;</field>
++    <field name="heading_ssm">&#34;Marfa Motion&#34; by Nancy Wozny, Texas Monthly</field>
+     <field name="unitdate_start_sim">2015</field>
+     <field name="unitdate_start_ssm">2015</field>
+     <field name="unitdate_start_si">2015</field>

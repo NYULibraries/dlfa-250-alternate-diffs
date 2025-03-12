@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">John Watts Papers</field>
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="unittitle_teim">FantasyNote: Recorded at CT concert 1968 (demo)Format: 1/4" sm.</field>
++    <field name="unittitle_ssm">Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4&#34; sm.</field>
++    <field name="unittitle_teim">Fantasy
++Note: Recorded at CT concert 1968 (demo)
++Format: 1/4&#34; sm.</field>
+     <field name="unitdate_teim">1968</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Format</field>
+@@ -32,11 +34,14 @@
+     <field name="location_ssm">Box: 43, Folder: data_value_missing_536190f2e1820cf5282104178b5f85b7</field>
+     <field name="location_si">Box: 43, Folder: data_value_missing_536190f2e1820cf5282104178b5f85b7</field>
+     <field name="collection_teim">John Watts Papers</field>
++    <field name="author_teim">Gina Genova, August 2000-August 2002. Media updated by Luke Martin and Brent Phillips, 2008; YZ Chin, 2010.</field>
+     <field name="collection_unitid_teim">MSS.093</field>
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries A: Watts - Works on Tape</field>
+-    <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries A: Watts - Works on Tape &gt;&gt; Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="heading_ssm">FantasyNote: Recorded at CT concert 1968 (demo)Format: 1/4" sm.</field>
++    <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries A: Watts - Works on Tape &gt;&gt; Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4&#34; sm.</field>
++    <field name="heading_ssm">Fantasy
++Note: Recorded at CT concert 1968 (demo)
++Format: 1/4&#34; sm.</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">692</field>

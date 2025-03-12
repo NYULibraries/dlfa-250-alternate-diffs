@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,8 +26,9 @@
+     <field name="unitdate_normal_teim">1982/2001</field>
+     <field name="unitdate_normal_sim">1982/2001</field>
+     <field name="unitdate_inclusive_teim">1982-1986, 1991, 2001</field>
+-    <field name="phystech_teim">1/2" Open Reel (Video), Count: 2</field>
+-    <field name="phystech_teim">Video8, Count: 2</field>
++    <field name="phystech_teim">1/2&#34; Open Reel (Video), Count: 2</field>
++    <field name="phystech_teim">
++Video8, Count: 2</field>
+     <field name="ref_ssi">aspace_c9e40d42320e75e223e1d9506624acbb</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,6 +38,7 @@
+     <field name="location_ssm">Box: 115</field>
+     <field name="location_si">Box: 115</field>
+     <field name="collection_teim">Larry Polansky Papers</field>
++    <field name="author_teim">Stacey Flatt and Samantha Rowe.</field>
+     <field name="collection_unitid_teim">MSS.405</field>
+     <field name="series_sim">Series III. Frog Peak Music</field>
+     <field name="series_sim">Subseries III. A. General</field>

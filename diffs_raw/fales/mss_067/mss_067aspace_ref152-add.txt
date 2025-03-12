@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
+     <field name="collection_unitid_ssm">MSS.067</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst's contribution to the war effort</field>
+-    <field name="unittitle_teim">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst's contribution to the war effort</field>
++    <field name="unittitle_ssm">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst&#39;s contribution to the war effort</field>
++    <field name="unittitle_teim">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst&#39;s contribution to the war effort</field>
+     <field name="unitid_teim">MSS.067.cuid20326</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/792402</field>
+     <field name="unitid_ssm">MSS.067.cuid20326</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 66</field>
+     <field name="location_si">Box: 66</field>
+     <field name="collection_teim">Elmer Holmes Bobst Collection</field>
++    <field name="author_teim">Nancy Cricco</field>
+     <field name="collection_unitid_teim">MSS.067</field>
+     <field name="series_sim">Series III: Awards, Plaques, Medals, Certificates and Honors.</field>
+     <field name="series_sim">Subseries B: Framed Awards on Display.</field>
+-    <field name="series_si">Series III: Awards, Plaques, Medals, Certificates and Honors. &gt;&gt; Subseries B: Framed Awards on Display. &gt;&gt; U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst's contribution to the war effort</field>
+-    <field name="heading_ssm">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst's contribution to the war effort</field>
++    <field name="series_si">Series III: Awards, Plaques, Medals, Certificates and Honors. &gt;&gt; Subseries B: Framed Awards on Display. &gt;&gt; U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst&#39;s contribution to the war effort</field>
++    <field name="heading_ssm">U.S. War Production Board. Certificate in recognition of Elmer Holmes Bobst&#39;s contribution to the war effort</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">149</field>

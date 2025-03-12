@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Erich Maria Remarque Papers</field>
+     <field name="collection_unitid_ssm">MSS.095</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Landlord's Report of Lease</field>
+-    <field name="unittitle_teim">Landlord's Report of Lease</field>
++    <field name="unittitle_ssm">Landlord&#39;s Report of Lease</field>
++    <field name="unittitle_teim">Landlord&#39;s Report of Lease</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/985047</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/985047</field>
+     <field name="unitdate_normal_ssm">1958/1958</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 92, Folder: 6, Item: 10</field>
+     <field name="location_si">Box: 92, Folder: 6, Item: 10</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_sim">Series 6A: Personal Documents</field>
+-    <field name="series_si">Series 6A: Personal Documents &gt;&gt; Landlord's Report of Lease</field>
+-    <field name="heading_ssm">Landlord's Report of Lease</field>
++    <field name="series_si">Series 6A: Personal Documents &gt;&gt; Landlord&#39;s Report of Lease</field>
++    <field name="heading_ssm">Landlord&#39;s Report of Lease</field>
+     <field name="unitdate_start_sim">1958</field>
+     <field name="unitdate_start_ssm">1958</field>
+     <field name="unitdate_start_si">1958</field>

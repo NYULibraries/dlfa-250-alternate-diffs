@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fugs Archive</field>
+     <field name="collection_unitid_ssm">MSS.013</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ken Weaver, Taken from Notebooks [Reel 1]</field>
+-    <field name="unittitle_teim">Ken Weaver, Taken from Notebooks [Reel 1]</field>
++    <field name="unittitle_ssm">Ken Weaver, Taken from Notebooks [Reel 1] </field>
++    <field name="unittitle_teim">Ken Weaver, Taken from Notebooks [Reel 1] </field>
+     <field name="unitid_teim">cuid6289</field>
+     <field name="unitid_ssm">cuid6289</field>
+     <field name="unitdate_normal_ssm">1969-02-06/1969-02-06</field>
+@@ -25,8 +25,8 @@
+     <field name="unitdate_normal_sim">2018-02/2018-02</field>
+     <field name="unitdate_teim">1969-02-06</field>
+     <field name="unitdate_teim">2018-02</field>
+-    <field name="scopecontent_teim">An audio recording of Fugs member, Ken Weaver, titled "Taken from notebooks," on February 6th, 1969, recorded in New York City from 6pm-6:30pm.</field>
+-    <field name="phystech_teim">Original format: 1/4" Open Reel Audio, Duration: 49 min.</field>
++    <field name="scopecontent_teim">An audio recording of Fugs member, Ken Weaver, titled &#34;Taken from notebooks,&#34; on February 6th, 1969, recorded in New York City from 6pm-6:30pm.</field>
++    <field name="phystech_teim">Original format: 1/4&#34; Open Reel Audio, Duration: 49 min.</field>
+     <field name="ref_ssi">aspace_c923895ee3423cefc338269e3c80e91c</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,10 +37,11 @@
+     <field name="location_ssm">E-records: fales_MSS013, E-records: fales_MSS013_cuid6289</field>
+     <field name="location_si">E-records: fales_MSS013, E-records: fales_MSS013_cuid6289</field>
+     <field name="collection_teim">Fugs Archive</field>
++    <field name="author_teim">Tania Friedel</field>
+     <field name="collection_unitid_teim">MSS.013</field>
+     <field name="series_sim">Series II: Audio</field>
+-    <field name="series_si">Series II: Audio &gt;&gt; Ken Weaver, Taken from Notebooks [Reel 1]</field>
+-    <field name="heading_ssm">Ken Weaver, Taken from Notebooks [Reel 1]</field>
++    <field name="series_si">Series II: Audio &gt;&gt; Ken Weaver, Taken from Notebooks [Reel 1] </field>
++    <field name="heading_ssm">Ken Weaver, Taken from Notebooks [Reel 1] </field>
+     <field name="unitdate_ssm">1969-02-06 2018-02</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1977/1995</field>
+     <field name="unitdate_normal_sim">1977/1995</field>
+     <field name="unitdate_inclusive_teim">1977-1995</field>
+-    <field name="scopecontent_teim">Moers '77 Sound-Engenieur: H. Schlosser Scotch 262 1/4-inch Audio Reel</field>
++    <field name="scopecontent_teim">Moers &#39;77 Sound-Engenieur: H. Schlosser Scotch 262 1/4-inch Audio Reel</field>
+     <field name="dao_teim">WSQ</field>
+     <field name="dao_ssm">WSQ</field>
+     <field name="ref_ssi">aspace_fabce312e4c66b2a30fbf6b12bb73496</field>
+@@ -32,6 +32,7 @@
+     <field name="location_si">Box: 8, Quarter_Inch_Audio_Reel: 120</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">WSQ</field>
+     <field name="heading_ssm">WSQ</field>

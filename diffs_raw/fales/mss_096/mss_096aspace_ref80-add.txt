@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Sparrow Papers</field>
+     <field name="collection_unitid_ssm">MSS.096</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Articles-"Light In Our Catskills, A Sparrow." The Mountain Eagle, 7/17/1997</field>
+-    <field name="unittitle_teim">Articles-"Light In Our Catskills, A Sparrow." The Mountain Eagle, 7/17/1997</field>
++    <field name="unittitle_ssm">Articles-&#34;Light In Our Catskills, A Sparrow.&#34; The Mountain Eagle, 7/17/1997</field>
++    <field name="unittitle_teim">Articles-&#34;Light In Our Catskills, A Sparrow.&#34; The Mountain Eagle, 7/17/1997</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/435486</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/435486</field>
+     <field name="unitdate_teim">1997</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 4, Folder: 4</field>
+     <field name="location_si">Box: 4, Folder: 4</field>
+     <field name="collection_teim">Sparrow Papers</field>
++    <field name="author_teim">Matt Moore</field>
+     <field name="collection_unitid_teim">MSS.096</field>
+     <field name="series_sim">Series III: Personal</field>
+-    <field name="series_si">Series III: Personal &gt;&gt; Articles-"Light In Our Catskills, A Sparrow." The Mountain Eagle, 7/17/1997</field>
+-    <field name="heading_ssm">Articles-"Light In Our Catskills, A Sparrow." The Mountain Eagle, 7/17/1997</field>
++    <field name="series_si">Series III: Personal &gt;&gt; Articles-&#34;Light In Our Catskills, A Sparrow.&#34; The Mountain Eagle, 7/17/1997</field>
++    <field name="heading_ssm">Articles-&#34;Light In Our Catskills, A Sparrow.&#34; The Mountain Eagle, 7/17/1997</field>
+     <field name="unitdate_ssm">1997</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">69</field>

@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,11 +30,13 @@
+     <field name="unitdate_normal_sim">1886/1886</field>
+     <field name="unitdate_inclusive_teim">1886 September 17</field>
+     <field name="scopecontent_teim">1 Letter, 1 Envelope with Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "Miss Lilian [Mary Leila] Horsford [Farlow], Shelter Island, Suffolk County, NY" Sent From: "Nina Prime, Bar Harbor, ME," [Sister of Temple Prime]</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Miss Lilian [Mary Leila] Horsford [Farlow], Shelter Island, Suffolk County, NY&#34;
++ 
++Sent From: &#34;Nina Prime, Bar Harbor, ME,&#34; [Sister of Temple Prime]</field>
+     <field name="scopecontent_teim">In Reference To: Friendship / Personal / Social / Travel</field>
+     <field name="scopecontent_teim">5 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 4.75" x 3.75" - 4.5" x 7"</field>
++    <field name="scopecontent_teim">Measurements: 4.75&#34; x 3.75&#34; - 4.5&#34; x 7&#34;</field>
+     <field name="dao_teim">Prime, Nina: Bar Harbor, ME: 1886 September 17</field>
+     <field name="dao_ssm">Prime, Nina: Bar Harbor, ME: 1886 September 17</field>
+     <field name="ref_ssi">aspace_ref4771</field>
+@@ -47,6 +49,7 @@
+     <field name="location_si">Box: 98, Folder: 33</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series D: Mary Leila Horsford Farlow (Lilian)</field>

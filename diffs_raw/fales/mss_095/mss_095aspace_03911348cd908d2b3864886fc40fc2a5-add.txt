@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1921/1990</field>
+     <field name="unitdate_normal_sim">1921/1990</field>
+     <field name="unitdate_inclusive_teim">1921-1969</field>
+-    <field name="scopecontent_teim">This series contains correspondence with literary agents and publishers regarding international publication rights to Remarque's works.</field>
++    <field name="scopecontent_teim">This series contains correspondence with literary agents and publishers regarding international publication rights to Remarque&#39;s works.</field>
+     <field name="ref_ssi">aspace_03911348cd908d2b3864886fc40fc2a5</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Erich Maria Remarque Papers</field>
++    <field name="author_teim">Nicole Greenhouse. 2003 Accretion processed by Liza Harrell-Edge in 2013.</field>
+     <field name="collection_unitid_teim">MSS.095</field>
+     <field name="series_si">Series 6F: Correspondence with Publishers</field>
+     <field name="heading_ssm">Series 6F: Correspondence with Publishers</field>

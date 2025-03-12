@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">James Beard Papers</field>
+     <field name="collection_unitid_ssm">MSS.263</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Hors d'Oeuvres (Definitions)</field>
+-    <field name="unittitle_teim">Hors d'Oeuvres (Definitions)</field>
++    <field name="unittitle_ssm">Hors d&#39;Oeuvres (Definitions)</field>
++    <field name="unittitle_teim">Hors d&#39;Oeuvres (Definitions)</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/533664</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/533664</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 2, Folder: 26</field>
+     <field name="location_si">Box: 2, Folder: 26</field>
+     <field name="collection_teim">James Beard Papers</field>
++    <field name="author_teim">Ashley Todd</field>
+     <field name="collection_unitid_teim">MSS.263</field>
+     <field name="series_sim">Series I: Manuscripts</field>
+     <field name="series_sim">Subseries G: Italian Notes</field>
+-    <field name="series_si">Series I: Manuscripts &gt;&gt; Subseries G: Italian Notes &gt;&gt; Hors d'Oeuvres (Definitions)</field>
+-    <field name="heading_ssm">Hors d'Oeuvres (Definitions)</field>
++    <field name="series_si">Series I: Manuscripts &gt;&gt; Subseries G: Italian Notes &gt;&gt; Hors d&#39;Oeuvres (Definitions)</field>
++    <field name="heading_ssm">Hors d&#39;Oeuvres (Definitions)</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">65</field>

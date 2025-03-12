@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Malcolm Goldstein Papers</field>
+     <field name="collection_unitid_ssm">MSS.350</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"L'usine" Concert solo with Rainer Wiens</field>
+-    <field name="unittitle_teim">"L'usine" Concert solo with Rainer Wiens</field>
++    <field name="unittitle_ssm">&#34;L&#39;usine&#34; Concert solo with Rainer Wiens</field>
++    <field name="unittitle_teim">&#34;L&#39;usine&#34; Concert solo with Rainer Wiens</field>
+     <field name="unitid_teim">ID: 350.0063</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/574919</field>
+     <field name="unitid_ssm">ID: 350.0063</field>
+@@ -26,8 +26,10 @@
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+     <field name="unitdate_inclusive_teim">March 1996</field>
+-    <field name="scopecontent_teim">A) Duet with Rainer Wiens (23'25") B) Soundings for Solo Violin (20'40") at "L'usine" Montreal</field>
+-    <field name="phystech_teim">Original format: 1/4" audiocassette</field>
++    <field name="scopecontent_teim">A) Duet with Rainer Wiens (23&#39;25&#34;)
++B) Soundings for Solo Violin (20&#39;40&#34;)
++at &#34;L&#39;usine&#34; Montreal</field>
++    <field name="phystech_teim">Original format: 1/4&#34; audiocassette</field>
+     <field name="ref_ssi">aspace_ref1129</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,11 +39,12 @@
+     <field name="location_ssm">Box: 40, Media: ID: 350.0063</field>
+     <field name="location_si">Box: 40, Media: ID: 350.0063</field>
+     <field name="collection_teim">Malcolm Goldstein Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter</field>
+     <field name="collection_unitid_teim">MSS.350</field>
+     <field name="series_sim">Series VI: Non-commercially Released Audio</field>
+     <field name="series_sim">Subseries A: Performances</field>
+-    <field name="series_si">Series VI: Non-commercially Released Audio &gt;&gt; Subseries A: Performances &gt;&gt; "L'usine" Concert solo with Rainer Wiens</field>
+-    <field name="heading_ssm">"L'usine" Concert solo with Rainer Wiens</field>
++    <field name="series_si">Series VI: Non-commercially Released Audio &gt;&gt; Subseries A: Performances &gt;&gt; &#34;L&#39;usine&#34; Concert solo with Rainer Wiens</field>
++    <field name="heading_ssm">&#34;L&#39;usine&#34; Concert solo with Rainer Wiens</field>
+     <field name="unitdate_start_sim">1996</field>
+     <field name="unitdate_start_ssm">1996</field>
+     <field name="unitdate_start_si">1996</field>

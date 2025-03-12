@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stephen Mass Papers</field>
+     <field name="collection_unitid_ssm">MSS.592</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">366 B'way</field>
+-    <field name="unittitle_teim">366 B'way</field>
++    <field name="unittitle_ssm">366 B&#39;way</field>
++    <field name="unittitle_teim">366 B&#39;way</field>
+     <field name="unitdate_normal_ssm">2008/2008</field>
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 1, Folder: 1</field>
+     <field name="location_si">Box: 1, Folder: 1</field>
+     <field name="collection_teim">Stephen Mass Papers</field>
++    <field name="author_teim">Rachel Searcy, Amy C. Vo</field>
+     <field name="collection_unitid_teim">MSS.592</field>
+     <field name="series_sim">Series I. Mudd Club</field>
+-    <field name="series_si">Series I. Mudd Club &gt;&gt; 366 B'way</field>
+-    <field name="heading_ssm">366 B'way</field>
++    <field name="series_si">Series I. Mudd Club &gt;&gt; 366 B&#39;way</field>
++    <field name="heading_ssm">366 B&#39;way</field>
+     <field name="unitdate_start_sim">2008</field>
+     <field name="unitdate_start_ssm">2008</field>
+     <field name="unitdate_start_si">2008</field>

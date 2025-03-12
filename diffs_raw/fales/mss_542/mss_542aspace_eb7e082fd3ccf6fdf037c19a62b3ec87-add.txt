@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1968/1995</field>
+     <field name="unitdate_normal_sim">1968/1995</field>
+     <field name="unitdate_inclusive_teim">1968-1995</field>
+-    <field name="scopecontent_teim">Foran brand manuscript notebook with hand-written title "A guide to the reckless conservatism of musical notation as expressed via M. Boyé."</field>
++    <field name="scopecontent_teim">Foran brand manuscript notebook with hand-written title &#34;A guide to the reckless conservatism of musical notation as expressed via M. Boyé.&#34;</field>
+     <field name="ref_ssi">aspace_eb7e082fd3ccf6fdf037c19a62b3ec87</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 7</field>
+     <field name="location_si">Box: 7</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">Foran Notebook</field>
+     <field name="heading_ssm">Foran Notebook</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+     <field name="collection_unitid_ssm">MSS.292</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">A Teacher's Guide for an Illustrated History of the Chinese in America</field>
+-    <field name="unittitle_teim">A Teacher's Guide for an Illustrated History of the Chinese in America</field>
++    <field name="unittitle_ssm">A Teacher&#39;s Guide for an Illustrated History of the Chinese in America</field>
++    <field name="unittitle_teim">A Teacher&#39;s Guide for an Illustrated History of the Chinese in America</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/544983</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/544983</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 11, Folder: 25</field>
+     <field name="location_si">Box: 11, Folder: 25</field>
+     <field name="collection_teim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
++    <field name="author_teim">Emily Chu, Lawrence Giffin, and Laura Newsome. Finding aid created by Laura Newsome, 2012.</field>
+     <field name="collection_unitid_teim">MSS.292</field>
+     <field name="series_sim">Series III: Curricular Studies</field>
+     <field name="series_sim">Subseries B: Diversity in Education</field>
+-    <field name="series_si">Series III: Curricular Studies &gt;&gt; Subseries B: Diversity in Education &gt;&gt; A Teacher's Guide for an Illustrated History of the Chinese in America</field>
+-    <field name="heading_ssm">A Teacher's Guide for an Illustrated History of the Chinese in America</field>
++    <field name="series_si">Series III: Curricular Studies &gt;&gt; Subseries B: Diversity in Education &gt;&gt; A Teacher&#39;s Guide for an Illustrated History of the Chinese in America</field>
++    <field name="heading_ssm">A Teacher&#39;s Guide for an Illustrated History of the Chinese in America</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">484</field>

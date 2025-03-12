@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New American Library Archive</field>
+     <field name="collection_unitid_ssm">MSS.070</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Toland, John, "Battle: The Story of the Bulge,"</field>
+-    <field name="unittitle_teim">Toland, John, "Battle: The Story of the Bulge,"</field>
++    <field name="unittitle_ssm">Toland, John, &#34;Battle: The Story of the Bulge,&#34;</field>
++    <field name="unittitle_teim">Toland, John, &#34;Battle: The Story of the Bulge,&#34;</field>
+     <field name="unitdate_teim">1959</field>
+     <field name="ref_ssi">aspace_ref2814</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 82, Folder: 2697</field>
+     <field name="location_si">Box: 82, Folder: 2697</field>
+     <field name="collection_teim">New American Library Archive</field>
++    <field name="author_teim">Jenny Hillyer, from September-October 2000. Updated by Nicholas Martin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.070</field>
+     <field name="series_sim">Series III: New American Library, Editorial/Author Files</field>
+-    <field name="series_si">Series III: New American Library, Editorial/Author Files &gt;&gt; Toland, John, "Battle: The Story of the Bulge,"</field>
+-    <field name="heading_ssm">Toland, John, "Battle: The Story of the Bulge,"</field>
++    <field name="series_si">Series III: New American Library, Editorial/Author Files &gt;&gt; Toland, John, &#34;Battle: The Story of the Bulge,&#34;</field>
++    <field name="heading_ssm">Toland, John, &#34;Battle: The Story of the Bulge,&#34;</field>
+     <field name="unitdate_ssm">1959</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2802</field>

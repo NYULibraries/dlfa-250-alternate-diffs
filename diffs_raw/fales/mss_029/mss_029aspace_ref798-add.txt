@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Fales Family Papers</field>
+     <field name="collection_unitid_ssm">MSS.029</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by "Susan Marya Fales"]</field>
+-    <field name="unittitle_teim">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by "Susan Marya Fales"]</field>
++    <field name="unittitle_ssm">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by &#34;Susan Marya Fales&#34;]</field>
++    <field name="unittitle_teim">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by &#34;Susan Marya Fales&#34;]</field>
+     <field name="unitdate_inclusive_teim">1973</field>
+     <field name="ref_ssi">aspace_ref798</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 40, Folder: 215</field>
+     <field name="location_si">Box: 40, Folder: 215</field>
+     <field name="collection_teim">Fales Family Papers</field>
++    <field name="author_teim">Amber Creger</field>
+     <field name="collection_unitid_teim">MSS.029</field>
+     <field name="series_sim">Accretion 2001 B: Series I, Fales Family</field>
+-    <field name="series_si">Accretion 2001 B: Series I, Fales Family &gt;&gt; McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by "Susan Marya Fales"]</field>
+-    <field name="heading_ssm">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by "Susan Marya Fales"]</field>
++    <field name="series_si">Accretion 2001 B: Series I, Fales Family &gt;&gt; McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by &#34;Susan Marya Fales&#34;]</field>
++    <field name="heading_ssm">McCormick, Paul, et. Al. , eds. Adventures in English Literature. New York: Harcourt Brace Jovanovich, 1973. [inscribed in front by &#34;Susan Marya Fales&#34;]</field>
+     <field name="unitdate_ssm">Inclusive, 1973</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">778</field>

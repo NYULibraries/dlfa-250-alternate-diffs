@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,19 +16,25 @@
+     <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Freeman's Journal: or, the North-American Intelligencer&lt;/em&gt;no. 51 &lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
+-    <field name="unittitle_teim">The Freeman's Journal: or, the North-American Intelligencerno. 51 place: Philadelphia</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Freeman&#39;s Journal: or, the North-American Intelligencer&lt;/em&gt;no. 51 &lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
++    <field name="unittitle_teim">The Freeman&#39;s Journal: or, the North-American Intelligencer
++no. 51 
++place: Philadelphia</field>
+     <field name="unitid_teim">055-005-A-1612</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404701</field>
+     <field name="unitid_ssm">055-005-A-1612</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/404701</field>
+     <field name="unitdate_teim">Apr 10, 1782</field>
+-    <field name="title_teim">The Freeman's Journal: or, the North-American Intelligencer</field>
+-    <field name="title_teim">The Freeman's Journal: or, the North-American Intelligencer</field>
+-    <field name="title_ssm">The Freeman's Journal: or, the North-American Intelligencer</field>
+-    <field name="title_ssm">The Freeman's Journal: or, the North-American Intelligencer</field>
+-    <field name="dao_teim">The Freeman's Journal: or, the North-American Intelligencerno. 51 place: Philadelphia: Apr 10, 1782</field>
+-    <field name="dao_ssm">The Freeman's Journal: or, the North-American Intelligencerno. 51 place: Philadelphia: Apr 10, 1782</field>
++    <field name="title_teim">The Freeman&#39;s Journal: or, the North-American Intelligencer</field>
++    <field name="title_teim">The Freeman&#39;s Journal: or, the North-American Intelligencer</field>
++    <field name="title_ssm">The Freeman&#39;s Journal: or, the North-American Intelligencer</field>
++    <field name="title_ssm">The Freeman&#39;s Journal: or, the North-American Intelligencer</field>
++    <field name="dao_teim">The Freeman&#39;s Journal: or, the North-American Intelligencer
++no. 51 
++place: Philadelphia: Apr 10, 1782</field>
++    <field name="dao_ssm">The Freeman&#39;s Journal: or, the North-American Intelligencer
++no. 51 
++place: Philadelphia: Apr 10, 1782</field>
+     <field name="ref_ssi">aspace_ref2110</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -39,11 +45,14 @@
+     <field name="location_si">Box: 15, Folder: 37</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
++    <field name="author_teim">Helice Koffler, April 1996 - September 1997; Mike Kelly, August 2000 - May 2004. Partially reprocessed and updated by Zachary Dabbs, 2009.</field>
+     <field name="collection_unitid_teim">MSS.055</field>
+     <field name="series_sim">Series V: Printed Materials</field>
+     <field name="series_sim">Subseries A: Newspapers and Other Printed Materials</field>
+-    <field name="series_si">Series V: Printed Materials &gt;&gt; Subseries A: Newspapers and Other Printed Materials &gt;&gt; &lt;em&gt;The Freeman's Journal: or, the North-American Intelligencer&lt;/em&gt;no. 51 &lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
+-    <field name="heading_ssm">The Freeman's Journal: or, the North-American Intelligencerno. 51 place: Philadelphia</field>
++    <field name="series_si">Series V: Printed Materials &gt;&gt; Subseries A: Newspapers and Other Printed Materials &gt;&gt; &lt;em&gt;The Freeman&#39;s Journal: or, the North-American Intelligencer&lt;/em&gt;no. 51 &lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
++    <field name="heading_ssm">The Freeman&#39;s Journal: or, the North-American Intelligencer
++no. 51 
++place: Philadelphia</field>
+     <field name="unitdate_ssm">Apr 10, 1782</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">569</field>

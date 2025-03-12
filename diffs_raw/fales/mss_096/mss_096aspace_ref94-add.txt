@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1988/1995</field>
+     <field name="unitdate_normal_sim">1988/1995</field>
+     <field name="unitdate_inclusive_teim">1988-1995</field>
+-    <field name="scopecontent_teim">Series IV contains Sparrow's collection of periodicals, books, and chapbooks. Published books and chapbooks written by Sparrow have been catalogued and are located within the downtown collection at Fales Library.</field>
++    <field name="scopecontent_teim">Series IV contains Sparrow&#39;s collection of periodicals, books, and chapbooks. Published books and chapbooks written by Sparrow have been catalogued and are located within the downtown collection at Fales Library.</field>
+     <field name="ref_ssi">aspace_ref94</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sparrow Papers</field>
++    <field name="author_teim">Matt Moore</field>
+     <field name="collection_unitid_teim">MSS.096</field>
+     <field name="series_si">Series IV: Books/Periodicals</field>
+     <field name="heading_ssm">Series IV: Books/Periodicals</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1978/1987</field>
+     <field name="unitdate_normal_sim">1978/1987</field>
+     <field name="unitdate_inclusive_teim">1978-1987</field>
+-    <field name="scopecontent_teim">Artist: Christopher Scott</field>
++    <field name="scopecontent_teim">Artist:  Christopher Scott</field>
+     <field name="genreform_teim">Information signs.</field>
+     <field name="genreform_ssm">Information signs.</field>
+     <field name="ref_ssi">aspace_93c40265d068f036e02f4331a0f3c70d</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Item: MSS.509.cuid6042</field>
+     <field name="location_si">Item: MSS.509.cuid6042</field>
+     <field name="collection_teim">Fales Library Collection of Artwork and Memorabilia</field>
++    <field name="author_teim">Jennifer E. Neal</field>
+     <field name="collection_unitid_teim">MSS.509</field>
+     <field name="series_si">Sign: The Ridiculous Theatrical Company</field>
+     <field name="material_type_sim">Information signs.</field>

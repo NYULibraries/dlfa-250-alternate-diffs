@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1996/1997</field>
+     <field name="unitdate_normal_sim">1996/1997</field>
+     <field name="unitdate_inclusive_teim">1996-1997</field>
+-    <field name="scopecontent_teim">This subseries consists of notes and materials pertaining to Waters' life and works, such as reviews of his works, teaching applications and resumes.</field>
++    <field name="scopecontent_teim">This subseries consists of notes and materials pertaining to Waters&#39; life and works, such as reviews of his works, teaching applications and resumes.</field>
+     <field name="ref_ssi">aspace_7a69fe70d8cf3f349b2c14d5247bcda9</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Jack Waters Papers</field>
++    <field name="author_teim">Fales Staff</field>
+     <field name="collection_unitid_teim">MSS.111</field>
+     <field name="series_sim">Series I: Files</field>
+     <field name="series_si">Series I: Files &gt;&gt; Subseries B: Biographical Notes/Materials</field>

@@ -1,0 +1,55 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,12 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
+-    <field name="unittitle_teim">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
++    <field name="unittitle_ssm">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA
++
++</field>
++    <field name="unittitle_teim">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA
++
++</field>
+     <field name="unitid_teim">cuid3570</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/511542</field>
+     <field name="unitid_ssm">cuid3570</field>
+@@ -30,12 +34,12 @@
+     <field name="unitdate_normal_sim">1886/1886</field>
+     <field name="unitdate_inclusive_teim">1886 August 23, September 23</field>
+     <field name="scopecontent_teim">2 Letters, 2 Envelopes with Postage &amp; Seal</field>
+-    <field name="scopecontent_teim">Addressed To: "Mrs. [Eben Norton] Horsford, [Phoebe Dayton Gardiner], Sylvester Manor, Shelter Island, NY"</field>
+-    <field name="scopecontent_teim">Sent From: "Ellen A. Gordwin, The Mullins, Cambridge, MA," "Clark's Island, Plymouth, MA"</field>
+-    <field name="scopecontent_teim">In Reference To: Family / Friendship / Personal / Social / Travel; Mrs. Curtis</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Mrs. [Eben Norton] Horsford, [Phoebe Dayton Gardiner], Sylvester Manor, Shelter Island, NY&#34;</field>
++    <field name="scopecontent_teim">Sent From: &#34;Ellen A. Gordwin, The Mullins, Cambridge, MA,&#34; &#34;Clark&#39;s Island, Plymouth, MA&#34; </field>
++    <field name="scopecontent_teim">In Reference To: Family / Friendship / Personal / Social / Travel; Mrs. Curtis </field>
+     <field name="scopecontent_teim">14 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 4.25" x 3.25" - 8" x 6"</field>
++    <field name="scopecontent_teim">Measurements: 4.25&#34; x 3.25&#34; - 8&#34; x 6&#34;</field>
+     <field name="dao_teim">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
+     <field name="dao_teim">: 1886 August 23, September 23</field>
+     <field name="dao_ssm">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
+@@ -50,12 +54,17 @@
+     <field name="location_si">Box: 92, Folder: 48</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series C: Phoebe Dayton Gardiner Horsford</field>
+     <field name="series_sim">Subseries 1: Correspondence</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
+-    <field name="heading_ssm">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Gorwin, Ellen A: Cambridge &amp; Plymouth, MA
++
++</field>
++    <field name="heading_ssm">Gorwin, Ellen A: Cambridge &amp; Plymouth, MA
++
++</field>
+     <field name="unitdate_start_sim">1886</field>
+     <field name="unitdate_start_ssm">1886</field>
+     <field name="unitdate_start_si">1886</field>

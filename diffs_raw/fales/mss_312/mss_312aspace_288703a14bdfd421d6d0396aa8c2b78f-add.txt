@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">2000/2000</field>
+     <field name="unitdate_normal_sim">2000/2000</field>
+     <field name="unitdate_teim">2000</field>
+-    <field name="scopecontent_teim">Collaboration between Deep Dish TV and Washington DC's Independent Media Center</field>
++    <field name="scopecontent_teim">Collaboration between Deep Dish TV and Washington DC&#39;s Independent Media Center</field>
+     <field name="dao_teim">Breaking the Bank: circa 2000</field>
+     <field name="dao_ssm">Breaking the Bank: circa 2000</field>
+     <field name="ref_ssi">aspace_288703a14bdfd421d6d0396aa8c2b78f</field>
+@@ -39,6 +39,7 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_125</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Breaking the Bank&lt;/em&gt;</field>

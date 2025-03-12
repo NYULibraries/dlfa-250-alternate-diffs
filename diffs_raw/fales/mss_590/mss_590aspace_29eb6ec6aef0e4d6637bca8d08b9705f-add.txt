@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Lydia Lunch Papers</field>
+     <field name="collection_unitid_ssm">MSS.590</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Big Sexy Noise -- Live in Paris, Main D'Oeuvre</field>
+-    <field name="unittitle_teim">Big Sexy Noise -- Live in Paris, Main D'Oeuvre</field>
++    <field name="unittitle_ssm">Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre</field>
++    <field name="unittitle_teim">Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre</field>
+     <field name="unitid_teim">cuid30235</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/927152</field>
+     <field name="unitid_ssm">cuid30235</field>
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">2009-11-01/2009-11-01</field>
+     <field name="unitdate_normal_sim">2009-11-01/2009-11-01</field>
+     <field name="unitdate_teim">2009-11-01</field>
+-    <field name="dao_teim">Big Sexy Noise -- Live in Paris, Main D'Oeuvre: 2009-11-01-</field>
+-    <field name="dao_ssm">Big Sexy Noise -- Live in Paris, Main D'Oeuvre: 2009-11-01-</field>
++    <field name="dao_teim">Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre: 2009-11-01-</field>
++    <field name="dao_ssm">Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre: 2009-11-01-</field>
+     <field name="ref_ssi">aspace_29eb6ec6aef0e4d6637bca8d08b9705f</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,10 +35,11 @@
+     <field name="location_si">Box: Electronic Record, E-records: FA_MSS_590_ER_26</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Lydia Lunch Papers</field>
++    <field name="author_teim">Stacey Flatt and Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.590</field>
+     <field name="series_sim">Series II. Performance and Studio Recordings</field>
+-    <field name="series_si">Series II. Performance and Studio Recordings &gt;&gt; Big Sexy Noise -- Live in Paris, Main D'Oeuvre</field>
+-    <field name="heading_ssm">Big Sexy Noise -- Live in Paris, Main D'Oeuvre</field>
++    <field name="series_si">Series II. Performance and Studio Recordings &gt;&gt; Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre</field>
++    <field name="heading_ssm">Big Sexy Noise -- Live in Paris, Main D&#39;Oeuvre</field>
+     <field name="unitdate_ssm">2009-11-01</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">201</field>

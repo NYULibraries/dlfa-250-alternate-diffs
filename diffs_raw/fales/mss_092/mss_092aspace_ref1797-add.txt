@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1643</field>
+     <field name="parent_ssm">aspace_ref1710</field>
+     <field name="parent_unittitles_ssm">Series X: Video and Film</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Video</field>
++    <field name="parent_unittitles_ssm">Subseries A: Video </field>
+     <field name="parent_unittitles_teim">Series X: Video and Film</field>
+-    <field name="parent_unittitles_teim">Subseries A: Video</field>
++    <field name="parent_unittitles_teim">Subseries A: Video </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">David Wojnarowicz Papers</field>
+@@ -24,7 +24,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/425566</field>
+     <field name="unitdate_teim">[undated]</field>
+     <field name="phystech_teim">Source Format: Betacam SP</field>
+-    <field name="phystech_teim">Duration: 30 min.</field>
++    <field name="phystech_teim">Duration: 30 min. </field>
+     <field name="dao_teim">[WOJO NEA #2]</field>
+     <field name="dao_ssm">[WOJO NEA #2]</field>
+     <field name="ref_ssi">aspace_ref1797</field>
+@@ -39,10 +39,11 @@
+     <field name="location_si">Box: 110, Item: 092_0044</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series X: Video and Film</field>
+-    <field name="series_sim">Subseries A: Video</field>
+-    <field name="series_si">Series X: Video and Film &gt;&gt; Subseries A: Video &gt;&gt; [WOJO NEA #2]</field>
++    <field name="series_sim">Subseries A: Video </field>
++    <field name="series_si">Series X: Video and Film &gt;&gt; Subseries A: Video  &gt;&gt; [WOJO NEA #2]</field>
+     <field name="heading_ssm">[WOJO NEA #2]</field>
+     <field name="unitdate_ssm">[undated]</field>
+     <field name="date_range_sim">undated &amp; other</field>

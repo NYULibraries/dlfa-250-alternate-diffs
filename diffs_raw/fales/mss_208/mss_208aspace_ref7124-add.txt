@@ -1,0 +1,46 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1792</field>
+     <field name="parent_ssm">aspace_ref7074</field>
+     <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_ssm">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_ssm">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_teim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_teim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sylvester Manor Archive</field>
+@@ -26,12 +26,12 @@
+     <field name="unitdate_normal_teim">1820/1820</field>
+     <field name="unitdate_normal_sim">1820/1820</field>
+     <field name="unitdate_inclusive_teim">undated, circa 1820</field>
+-    <field name="scopecontent_teim">1 "Rand's Writing Books" Penmanship Practice Booklet</field>
+-    <field name="scopecontent_teim">Owner: Mary Catherine L'Hommedieu</field>
++    <field name="scopecontent_teim">1 &#34;Rand&#39;s Writing Books&#34; Penmanship Practice Booklet </field>
++    <field name="scopecontent_teim">Owner: Mary Catherine L&#39;Hommedieu</field>
+     <field name="scopecontent_teim">In Reference To: Education / Personal / Writing</field>
+-    <field name="scopecontent_teim">25 Pages, Bound by String</field>
++    <field name="scopecontent_teim">25 Pages, Bound by String </field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 7.75" x 6"</field>
++    <field name="scopecontent_teim">Measurements: 7.75&#34; x 6&#34;</field>
+     <field name="dao_teim">Juvenilia with Notation: undated, circa 1820</field>
+     <field name="dao_ssm">Juvenilia with Notation: undated, circa 1820</field>
+     <field name="ref_ssi">aspace_ref7124</field>
+@@ -44,10 +44,11 @@
+     <field name="location_si">Box: 55, Folder: 15</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+-    <field name="series_sim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
+-    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L'Hommedieu Gardiner &gt;&gt; Juvenilia with Notation</field>
++    <field name="series_sim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
++    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L&#39;Hommedieu Gardiner &gt;&gt; Juvenilia with Notation</field>
+     <field name="heading_ssm">Juvenilia with Notation</field>
+     <field name="unitdate_start_sim">1820</field>
+     <field name="unitdate_start_ssm">1820</field>

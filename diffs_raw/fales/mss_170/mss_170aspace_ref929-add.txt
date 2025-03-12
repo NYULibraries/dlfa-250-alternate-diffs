@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mark Bloch Postal Art Network (PAN) Archive</field>
+     <field name="collection_unitid_ssm">MSS.170</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Investor's Business Daily [vol. 6 no. 155]</field>
+-    <field name="unittitle_teim">Investor's Business Daily [vol. 6 no. 155]</field>
++    <field name="unittitle_ssm">Investor&#39;s Business Daily [vol. 6 no. 155]</field>
++    <field name="unittitle_teim">Investor&#39;s Business Daily [vol. 6 no. 155]</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/486699</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/486699</field>
+     <field name="unitdate_teim">December 3, 1991</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: Shared Fales 080, Folder: 9</field>
+     <field name="location_si">Box: Shared Fales 080, Folder: 9</field>
+     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
++    <field name="author_teim">Rachel Greer and Sana Masood, 2015. Data entry by Sana Masood, 2015.</field>
+     <field name="collection_unitid_teim">MSS.170</field>
+     <field name="series_sim">OVERSIZE: Series IV: Serials</field>
+-    <field name="series_si">OVERSIZE: Series IV: Serials &gt;&gt; Investor's Business Daily [vol. 6 no. 155]</field>
+-    <field name="heading_ssm">Investor's Business Daily [vol. 6 no. 155]</field>
++    <field name="series_si">OVERSIZE: Series IV: Serials &gt;&gt; Investor&#39;s Business Daily [vol. 6 no. 155]</field>
++    <field name="heading_ssm">Investor&#39;s Business Daily [vol. 6 no. 155]</field>
+     <field name="unitdate_ssm">December 3, 1991</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">766</field>

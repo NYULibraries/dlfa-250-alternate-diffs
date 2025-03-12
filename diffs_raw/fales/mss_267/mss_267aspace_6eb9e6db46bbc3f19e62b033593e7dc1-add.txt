@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1991/1992</field>
+     <field name="unitdate_normal_sim">1991/1992</field>
+     <field name="unitdate_inclusive_teim">1991-1992</field>
+-    <field name="scopecontent_teim">The tape's label notes that it was transferred from Hi8 tapes. Recordings on this tape include "Home," "Desert," "South," "Nature of the Universe," "Vail," and "Garden 1-3."</field>
++    <field name="scopecontent_teim">The tape&#39;s label notes that it was transferred from Hi8 tapes. Recordings on this tape include &#34;Home,&#34; &#34;Desert,&#34; &#34;South,&#34; &#34;Nature of the Universe,&#34; &#34;Vail,&#34; and &#34;Garden 1-3.&#34;</field>
+     <field name="ref_ssi">aspace_6eb9e6db46bbc3f19e62b033593e7dc1</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 21, VHS: 267_659</field>
+     <field name="location_si">Box: 21, VHS: 267_659</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series IV. Film and Video Recordings</field>
+     <field name="series_si">Series IV. Film and Video Recordings &gt;&gt; Alan Sondheim Assorted Works</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1890/1936</field>
+     <field name="unitdate_inclusive_teim">1890, 1919, 1936</field>
+     <field name="scopecontent_teim">Boston Woven Hose &amp; Rubber Co. Cold Pack Canning. Cambridge, MA: Boston Woven Hose &amp; Rubber Co., 1919.</field>
+-    <field name="scopecontent_teim">Boston Woven Hose &amp; Rubber Co. Home Canners' Text Book. Cambridge, MA: Boston Woven Hose &amp; Rubber Co., 1936.</field>
++    <field name="scopecontent_teim"> Boston Woven Hose &amp; Rubber Co. Home Canners&#39; Text Book. Cambridge, MA: Boston Woven Hose &amp; Rubber Co., 1936.</field>
+     <field name="ref_ssi">aspace_ref87</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 4, Folder: 11</field>
+     <field name="location_si">Box: 4, Folder: 11</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Boston Woven Hose &amp; Rubber Company; The Bowker Company</field>

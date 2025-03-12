@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1643</field>
+     <field name="parent_ssm">aspace_ref1710</field>
+     <field name="parent_unittitles_ssm">Series X: Video and Film</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Video</field>
++    <field name="parent_unittitles_ssm">Subseries A: Video </field>
+     <field name="parent_unittitles_teim">Series X: Video and Film</field>
+-    <field name="parent_unittitles_teim">Subseries A: Video</field>
++    <field name="parent_unittitles_teim">Subseries A: Video </field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">David Wojnarowicz Papers</field>
+@@ -39,10 +39,11 @@
+     <field name="location_si">Box: 110, Item: 092_0042</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series X: Video and Film</field>
+-    <field name="series_sim">Subseries A: Video</field>
+-    <field name="series_si">Series X: Video and Film &gt;&gt; Subseries A: Video &gt;&gt; Eleventh Hour - broadcast</field>
++    <field name="series_sim">Subseries A: Video </field>
++    <field name="series_si">Series X: Video and Film &gt;&gt; Subseries A: Video  &gt;&gt; Eleventh Hour - broadcast</field>
+     <field name="heading_ssm">Eleventh Hour - broadcast</field>
+     <field name="unitdate_ssm">[1989]</field>
+     <field name="date_range_sim">undated &amp; other</field>

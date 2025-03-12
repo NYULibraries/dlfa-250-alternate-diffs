@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_325</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Melbourne Rock 'n' Roll High School Archive</field>
+-    <field name="collection_ssm">Melbourne Rock 'n' Roll High School Archive</field>
++    <field name="collection_sim">Melbourne Rock &#39;n&#39; Roll High School Archive</field>
++    <field name="collection_ssm">Melbourne Rock &#39;n&#39; Roll High School Archive</field>
+     <field name="collection_unitid_ssm">MSS.325</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Audio</field>
+@@ -17,7 +17,8 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Melbourne Rock 'n' Roll High School Archive</field>
++    <field name="collection_teim">Melbourne Rock &#39;n&#39; Roll High School Archive</field>
++    <field name="author_teim">Liza Harrell-Edge, 2011.</field>
+     <field name="collection_unitid_teim">MSS.325</field>
+     <field name="series_si">Series II: Audio</field>
+     <field name="heading_ssm">Series II: Audio</field>

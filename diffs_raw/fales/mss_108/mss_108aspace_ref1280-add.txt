@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries B: Correspondence</field>
+     <field name="unittitle_teim">Subseries B: Correspondence</field>
+-    <field name="scopecontent_teim">Contains correspondence relating to the lawsuit, a majority sourced from Evelyn Einstein's lawyer, Quentin Kopp. Arranged alphabetically by correspondent.</field>
++    <field name="scopecontent_teim">Contains correspondence relating to the lawsuit, a majority sourced from Evelyn Einstein&#39;s lawyer, Quentin Kopp. Arranged alphabetically by correspondent.</field>
+     <field name="ref_ssi">aspace_ref1280</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Michele Zackheim Papers</field>
++    <field name="author_teim">Yookyung Kwon (March-July 2003), Leif Sorensen (July-September 2004), Melanie Meyers-Cushman (December 2004)</field>
+     <field name="collection_unitid_teim">MSS.108</field>
+     <field name="series_sim">Series IV: Albert Einstein Family Correspondence Trust</field>
+     <field name="series_si">Series IV: Albert Einstein Family Correspondence Trust &gt;&gt; Subseries B: Correspondence</field>

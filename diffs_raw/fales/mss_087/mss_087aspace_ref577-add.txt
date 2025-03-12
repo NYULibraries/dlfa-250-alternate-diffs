@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Tim Dlugos Papers</field>
+     <field name="collection_unitid_ssm">MSS.087</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Kennedys -- America's Royal Family.</field>
+-    <field name="unittitle_teim">The Kennedys -- America's Royal Family.</field>
++    <field name="unittitle_ssm">The Kennedys -- America&#39;s Royal Family.</field>
++    <field name="unittitle_teim">The Kennedys -- America&#39;s Royal Family.</field>
+     <field name="unitid_teim">31142040616644</field>
+     <field name="unitid_ssm">31142040616644</field>
+     <field name="unitdate_teim">1962</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 7, Folder: 256</field>
+     <field name="location_si">Box: 7, Folder: 256</field>
+     <field name="collection_teim">Tim Dlugos Papers</field>
++    <field name="author_teim">Matthew Barton (February - July 1997), Media Material updated by Luke Martin and Brent Phillips, July, 2008</field>
+     <field name="collection_unitid_teim">MSS.087</field>
+     <field name="series_sim">Accretion 1998 - Series IV: Readings, reviews, periodical contributions</field>
+     <field name="series_sim">Subseries F: Source Materials</field>
+-    <field name="series_si">Accretion 1998 - Series IV: Readings, reviews, periodical contributions &gt;&gt; Subseries F: Source Materials &gt;&gt; The Kennedys -- America's Royal Family.</field>
+-    <field name="heading_ssm">The Kennedys -- America's Royal Family.</field>
++    <field name="series_si">Accretion 1998 - Series IV: Readings, reviews, periodical contributions &gt;&gt; Subseries F: Source Materials &gt;&gt; The Kennedys -- America&#39;s Royal Family.</field>
++    <field name="heading_ssm">The Kennedys -- America&#39;s Royal Family.</field>
+     <field name="unitdate_ssm">1962</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">298</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">cuid6938</field>
+     <field name="unitid_ssm">cuid6938</field>
+     <field name="unitdate_bulk_teim">undated</field>
+-    <field name="scopecontent_teim">Interior footage of Nelson's cat, Douglas, wet and grooming himself. Includes footage of the window and outside buildings.</field>
++    <field name="scopecontent_teim">Interior footage of Nelson&#39;s cat, Douglas, wet and grooming himself. Includes footage of the window and outside buildings.</field>
+     <field name="phystech_teim">Original format: Super 8mm film, Duration: 4 min.</field>
+     <field name="ref_ssi">aspace_137ac2598b8ac219341437bc2bbb1c5c</field>
+     <field name="repository_ssi">fales</field>
+@@ -30,6 +30,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, file: mss357_cuid6938</field>
+     <field name="location_si">Box: Digitized Access Files, file: mss357_cuid6938</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series II: Film</field>
+     <field name="series_si">Series II: Film &gt;&gt; wet Douglas</field>

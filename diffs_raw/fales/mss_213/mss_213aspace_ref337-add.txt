@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,10 +26,10 @@
+     <field name="unitdate_normal_teim">1976/1976</field>
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">December 29, 1976</field>
+-    <field name="scopecontent_teim">Content</field>
++    <field name="scopecontent_teim">Content </field>
+     <field name="scopecontent_teim">Side A (Church &amp; Anthrax): Church of Anthrax, The Hall of Mirrors in the Palace at Versailles, The Soul of Patrick Lee, Ides of March, The Protégé. Terry Riley, John Cale, Adam Miller</field>
+-    <field name="scopecontent_teim">Side B (Vintage Violence): Hello There, Gideon's Bible, Adelaine, Big White Cloud, Cleo, Please, Charlemagne, Bring It On Up, Amsterdam, Ghost Story, Fairweather Friend</field>
+-    <field name="scopecontent_teim">Container Annotation: Singles- Feel Good, Roxette, Keep It Out of Sight. Eddie &amp; the Hot Rods- Wooly Bully, Horse Play.</field>
++    <field name="scopecontent_teim">Side B (Vintage Violence): Hello There, Gideon&#39;s Bible, Adelaine, Big White Cloud, Cleo, Please, Charlemagne, Bring It On Up, Amsterdam, Ghost Story, Fairweather Friend</field>
++    <field name="scopecontent_teim">Container Annotation: Singles- Feel Good, Roxette, Keep It Out of Sight. Eddie &amp; the Hot Rods- Wooly Bully, Horse Play. </field>
+     <field name="phystech_teim">Format: 1/4 in. Audiocassette</field>
+     <field name="phystech_teim">Tape Length: 90 minutes</field>
+     <field name="ref_ssi">aspace_ref337</field>
+@@ -43,6 +43,7 @@
+     <field name="location_ssm">case: 213.0156_pt.2</field>
+     <field name="location_si">case: 213.0156_pt.2</field>
+     <field name="collection_teim">Peter Dougherty Collection</field>
++    <field name="author_teim">Caroline Partamian with Rhyannon J. Rodriguez, 2012.</field>
+     <field name="collection_unitid_teim">MSS.213</field>
+     <field name="series_sim">Series I: Sound recordings</field>
+     <field name="series_sim">Subseries A: Audio Works</field>

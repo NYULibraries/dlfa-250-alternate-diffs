@@ -1,0 +1,86 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_sim">1990/2003</field>
+     <field name="unitdate_inclusive_teim">1990-2003</field>
+     <field name="scopecontent_teim">The Godzilla Asian American Art Network Archive contains documents relating to the activities and goals of the Godzilla Asian American Art Network. Included are documents detailing the administrative and artistic aspects of Godzilla and related arts organizations.</field>
+-    <field name="bioghist_teim">Godzilla was an Asian American art collective and support network founded in 1990. Godzilla's founding members believed that Asian American artists did not have a suitable organization to support, promote, and encourage their visual arts, and Godzilla sought to fill this need. Godzilla disbanded in 2001.</field>
++    <field name="bioghist_teim">Godzilla was an Asian American art collective and support network founded in 1990. Godzilla&#39;s founding members believed that Asian American artists did not have a suitable organization to support, promote, and encourage their visual arts, and Godzilla sought to fill this need. Godzilla disbanded in 2001.</field>
+     <field name="acqinfo_teim">Ken Chu, founder of the Godzilla: Asian American Art Network, donated the materials to the Fales Library in 2005.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">Godzilla Asian American Art Network</field>
+@@ -66,7 +66,7 @@
+     <field name="subject_teim">Asian American art -- 21st century -- Exhibitions.</field>
+     <field name="subject_teim">Asian American art -- Periodicals.</field>
+     <field name="subject_teim">Asian American artists -- Exhibitions</field>
+-    <field name="subject_teim">Asian American artists -- New York (State) -- New York -- Exhibitions.</field>
++    <field name="subject_teim">Asian American artists --  New York (State) -- New York -- Exhibitions.</field>
+     <field name="subject_teim">Asian American artists -- New York (State) -- New York -- Societies.</field>
+     <field name="subject_teim">Asian American artists |z United States |v Periodicals.</field>
+     <field name="subject_teim">Art |x Finance |z United States</field>
+@@ -75,18 +75,18 @@
+     <field name="subject_teim">Art and society.</field>
+     <field name="subject_teim">Racism.</field>
+     <field name="subject_teim">Asian American artists.</field>
+-    <field name="subject_teim">Asian American arts -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Asian American arts -- New York (State) -- New York -- Periodicals.</field>
+-    <field name="subject_teim">Asian Americans -- Ethnic identity.</field>
+-    <field name="subject_teim">Artists and community -- United States</field>
+-    <field name="subject_teim">Asian American art -- 20th century -- Exhibitions.</field>
+-    <field name="subject_teim">Asian American art -- 21st century -- Exhibitions.</field>
+-    <field name="subject_teim">Asian American art -- Periodicals.</field>
+-    <field name="subject_teim">Asian American artists -- Exhibitions</field>
+-    <field name="subject_teim">Asian American artists -- New York (State) -- New York -- Exhibitions.</field>
+-    <field name="subject_teim">Asian American artists -- New York (State) -- New York -- Societies.</field>
+-    <field name="subject_teim">Asian American artists -- United States -- Periodicals.</field>
+-    <field name="subject_teim">Art -- Finance -- United States</field>
++    <field name="subject_teim">Asian American arts --New York (State) --New York.</field>
++    <field name="subject_teim">Asian American arts --New York (State) --New York --Periodicals.</field>
++    <field name="subject_teim">Asian Americans -- Ethnic identity.</field>
++    <field name="subject_teim">Artists and community -- United States</field>
++    <field name="subject_teim">Asian American art -- 20th century -- Exhibitions.</field>
++    <field name="subject_teim">Asian American art -- 21st century -- Exhibitions.</field>
++    <field name="subject_teim">Asian American art -- Periodicals.</field>
++    <field name="subject_teim">Asian American artists -- Exhibitions</field>
++    <field name="subject_teim">Asian American artists --  New York (State) -- New York -- Exhibitions.</field>
++    <field name="subject_teim">Asian American artists -- New York (State) -- New York -- Societies.</field>
++    <field name="subject_teim">Asian American artists --United States --Periodicals.</field>
++    <field name="subject_teim">Art --Finance --United States</field>
+     <field name="subject_ssm">Multiculturalism.</field>
+     <field name="subject_ssm">Art -- Finance</field>
+     <field name="subject_ssm">Art and society.</field>
+@@ -100,7 +100,7 @@
+     <field name="subject_ssm">Asian American art -- 21st century -- Exhibitions.</field>
+     <field name="subject_ssm">Asian American art -- Periodicals.</field>
+     <field name="subject_ssm">Asian American artists -- Exhibitions</field>
+-    <field name="subject_ssm">Asian American artists -- New York (State) -- New York -- Exhibitions.</field>
++    <field name="subject_ssm">Asian American artists --  New York (State) -- New York -- Exhibitions.</field>
+     <field name="subject_ssm">Asian American artists -- New York (State) -- New York -- Societies.</field>
+     <field name="subject_ssm">Asian American artists |z United States |v Periodicals.</field>
+     <field name="subject_ssm">Art |x Finance |z United States</field>
+@@ -132,8 +132,8 @@
+     <field name="subject_sim">Art and society.</field>
+     <field name="subject_sim">Racism.</field>
+     <field name="subject_sim">Asian American artists.</field>
+-    <field name="subject_sim">Asian American arts -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Asian American arts -- New York (State) -- New York -- Periodicals.</field>
++    <field name="subject_sim">Asian American arts --New York (State) --New York.</field>
++    <field name="subject_sim">Asian American arts --New York (State) --New York --Periodicals.</field>
+     <field name="subject_sim">Asian Americans -- Ethnic identity.</field>
+     <field name="subject_sim">Artists and community -- United States</field>
+     <field name="subject_sim">Asian American art -- 20th century -- Exhibitions.</field>
+@@ -140,10 +140,10 @@
+     <field name="subject_sim">Asian American art -- 21st century -- Exhibitions.</field>
+     <field name="subject_sim">Asian American art -- Periodicals.</field>
+     <field name="subject_sim">Asian American artists -- Exhibitions</field>
+-    <field name="subject_sim">Asian American artists -- New York (State) -- New York -- Exhibitions.</field>
++    <field name="subject_sim">Asian American artists --  New York (State) -- New York -- Exhibitions.</field>
+     <field name="subject_sim">Asian American artists -- New York (State) -- New York -- Societies.</field>
+-    <field name="subject_sim">Asian American artists -- United States -- Periodicals.</field>
+-    <field name="subject_sim">Art -- Finance -- United States</field>
++    <field name="subject_sim">Asian American artists --United States --Periodicals.</field>
++    <field name="subject_sim">Art --Finance --United States</field>
+     <field name="material_type_sim">Photographs.</field>
+     <field name="material_type_sim">Correspondence.</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

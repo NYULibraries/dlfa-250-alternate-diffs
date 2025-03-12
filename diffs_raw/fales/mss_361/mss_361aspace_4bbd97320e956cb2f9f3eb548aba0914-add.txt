@@ -1,0 +1,45 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Michael Lally Papers</field>
+     <field name="collection_unitid_ssm">MSS.361</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Lally's Alley Archived Website</field>
+-    <field name="unittitle_teim">Lally's Alley Archived Website</field>
++    <field name="unittitle_ssm">Lally&#39;s Alley Archived Website</field>
++    <field name="unittitle_teim">Lally&#39;s Alley Archived Website</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/849450</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/849450</field>
+     <field name="unitdate_normal_ssm">2019-06-13/2019-06-13</field>
+@@ -25,11 +25,11 @@
+     <field name="unitdate_normal_sim">2019-06-13/2019-06-13</field>
+     <field name="unitdate_teim">2019-ongoing</field>
+     <field name="scopecontent_teim">Personal culture blog of Michael Lally.</field>
+-    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.</field>
++    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. </field>
+     <field name="appraisal_teim">Crawl was limited to domains and subdomains of lallysalley.blogspot.com in order to remain within the collection scope and data constraints.</field>
+-    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+-    <field name="dao_teim">Lally's Alley Archived Website: 2019-ongoing</field>
+-    <field name="dao_ssm">Lally's Alley Archived Website: 2019-ongoing</field>
++    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text  searches of archived websites are available at https://archive-it.org/organizations/567.</field>
++    <field name="dao_teim">Lally&#39;s Alley Archived Website: 2019-ongoing</field>
++    <field name="dao_ssm">Lally&#39;s Alley Archived Website: 2019-ongoing</field>
+     <field name="ref_ssi">aspace_4bbd97320e956cb2f9f3eb548aba0914</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -40,11 +40,12 @@
+     <field name="location_si">Box: Electronic Records</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Michael Lally Papers</field>
++    <field name="author_teim">Stacey Flatt</field>
+     <field name="collection_unitid_teim">MSS.361</field>
+     <field name="series_sim">Series III. Personal</field>
+     <field name="series_sim">Subseries III.A. General</field>
+-    <field name="series_si">Series III. Personal &gt;&gt; Subseries III.A. General &gt;&gt; Lally's Alley Archived Website</field>
+-    <field name="heading_ssm">Lally's Alley Archived Website</field>
++    <field name="series_si">Series III. Personal &gt;&gt; Subseries III.A. General &gt;&gt; Lally&#39;s Alley Archived Website</field>
++    <field name="heading_ssm">Lally&#39;s Alley Archived Website</field>
+     <field name="unitdate_ssm">2019-ongoing</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">542</field>

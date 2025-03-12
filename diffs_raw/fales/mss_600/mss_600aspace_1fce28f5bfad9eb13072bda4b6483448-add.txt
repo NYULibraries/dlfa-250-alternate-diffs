@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1911/2010</field>
+     <field name="unitdate_normal_sim">1911/2010</field>
+     <field name="unitdate_inclusive_teim">1911-2010</field>
+-    <field name="scopecontent_teim">This subseries contains photographs, some negatives, and albums of Crimp's family, friends, colleagues, ACT UP events, and vacations. Presumably, many of these photographs were taken by Crimp himself.</field>
++    <field name="scopecontent_teim">This subseries contains photographs, some negatives, and albums of Crimp&#39;s family, friends, colleagues, ACT UP events, and vacations. Presumably, many of these photographs were taken by Crimp himself.</field>
+     <field name="ref_ssi">aspace_1fce28f5bfad9eb13072bda4b6483448</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Douglas Crimp Papers</field>
++    <field name="author_teim">Rachel Searcy and Lauren Stark</field>
+     <field name="collection_unitid_teim">MSS.600</field>
+     <field name="series_sim">Series I. Personal</field>
+     <field name="series_si">Series I. Personal &gt;&gt; Subseries ID. Photographs</field>

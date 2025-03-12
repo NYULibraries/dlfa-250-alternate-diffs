@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,9 @@
+     <field name="unitdate_normal_teim">1905/1922</field>
+     <field name="unitdate_normal_sim">1905/1922</field>
+     <field name="unitdate_inclusive_teim">1905-1922</field>
+-    <field name="scopecontent_teim">Olney Canning Co. Burt Olney's Soups, Salads and Desserts. Oneida, NY: The Burt Olney Canning Company, 1905.</field>
+-    <field name="scopecontent_teim">Olney Canning Co. Burt Olney's Soups, Salads and Desserts. Eighth Edition. Oneida, NY: The Burt Olney Canning Company, 1910.</field>
+-    <field name="scopecontent_teim">Olney Canning Co. Burt Olney's Soups, Salads and Desserts. Fourteenth Edition. Oneida, NY: The Burt Olney Canning Company, 1922.</field>
++    <field name="scopecontent_teim">Olney Canning Co. Burt Olney&#39;s Soups, Salads and Desserts. Oneida, NY: The Burt Olney Canning Company, 1905.</field>
++    <field name="scopecontent_teim"> Olney Canning Co. Burt Olney&#39;s Soups, Salads and Desserts. Eighth Edition. Oneida, NY: The Burt Olney Canning Company, 1910.</field>
++    <field name="scopecontent_teim"> Olney Canning Co. Burt Olney&#39;s Soups, Salads and Desserts. Fourteenth Edition. Oneida, NY: The Burt Olney Canning Company, 1922.</field>
+     <field name="ref_ssi">aspace_ref101</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 5, Folder: 5</field>
+     <field name="location_si">Box: 5, Folder: 5</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The Burt Olney Canning Company--New York Canners, Inc.</field>

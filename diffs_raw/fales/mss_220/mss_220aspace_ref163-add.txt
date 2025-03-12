@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
+     <field name="collection_unitid_ssm">MSS.220</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Blanchon's Filofax diary</field>
+-    <field name="unittitle_teim">Blanchon's Filofax diary</field>
++    <field name="unittitle_ssm">Blanchon&#39;s Filofax diary</field>
++    <field name="unittitle_teim">Blanchon&#39;s Filofax diary</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/521458</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/521458</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 7, object: ID: 220.2.0064</field>
+     <field name="location_si">Box: 7, object: ID: 220.2.0064</field>
+     <field name="collection_teim">Robert Blanchon Papers and Collection</field>
++    <field name="author_teim">Bethany Martin-Breen and Lisa Darms, 2009.</field>
+     <field name="collection_unitid_teim">MSS.220</field>
+     <field name="series_sim">Series VII: Objects</field>
+-    <field name="series_si">Series VII: Objects &gt;&gt; Blanchon's Filofax diary</field>
+-    <field name="heading_ssm">Blanchon's Filofax diary</field>
++    <field name="series_si">Series VII: Objects &gt;&gt; Blanchon&#39;s Filofax diary</field>
++    <field name="heading_ssm">Blanchon&#39;s Filofax diary</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">288</field>

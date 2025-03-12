@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">ID: 357.0300</field>
+     <field name="unitid_ssm">ID: 357.0300</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Note: "The tape is silent at beginning. Unstable signal causing lost frames throughout. Content on tape suggest that the camera was broken and Nelson was testing it."</field>
++    <field name="phystech_teim">Original format: Video8mm; Transfer Technician Note: &#34;The tape is silent at beginning. Unstable signal causing lost frames throughout. Content on tape suggest that the camera was broken and Nelson was testing it.&#34;</field>
+     <field name="dao_teim">Test Tape</field>
+     <field name="dao_ssm">Test Tape</field>
+     <field name="ref_ssi">aspace_ref1019</field>
+@@ -32,6 +32,7 @@
+     <field name="location_si">case: 357.0299/357.0300</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Test Tape</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Peter Straub Papers</field>
+     <field name="collection_unitid_ssm">MSS.185</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Ruppert's Bar/Resaurant matchbox</field>
+-    <field name="unittitle_teim">Ruppert's Bar/Resaurant matchbox</field>
++    <field name="unittitle_ssm">Ruppert&#39;s Bar/Resaurant matchbox</field>
++    <field name="unittitle_teim">Ruppert&#39;s Bar/Resaurant matchbox</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/500780</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/500780</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 62, object: ID: 185.2.0004</field>
+     <field name="location_si">Box: 62, object: ID: 185.2.0004</field>
+     <field name="collection_teim">Peter Straub Papers</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.185</field>
+     <field name="series_sim">Series XIV: Objects</field>
+-    <field name="series_si">Series XIV: Objects &gt;&gt; Ruppert's Bar/Resaurant matchbox</field>
+-    <field name="heading_ssm">Ruppert's Bar/Resaurant matchbox</field>
++    <field name="series_si">Series XIV: Objects &gt;&gt; Ruppert&#39;s Bar/Resaurant matchbox</field>
++    <field name="heading_ssm">Ruppert&#39;s Bar/Resaurant matchbox</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

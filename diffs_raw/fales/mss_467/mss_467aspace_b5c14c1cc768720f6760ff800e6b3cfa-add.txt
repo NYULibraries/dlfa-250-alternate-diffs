@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Kathe Burkhart Papers</field>
+     <field name="collection_unitid_ssm">MSS.467</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Zapp Magazine on Video&lt;/em&gt; -- Features Burkhart's Piece, "Bobby's Fluff"</field>
+-    <field name="unittitle_teim">Zapp Magazine on Video -- Features Burkhart's Piece, "Bobby's Fluff"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Zapp Magazine on Video&lt;/em&gt; -- Features Burkhart&#39;s Piece, &#34;Bobby&#39;s Fluff&#34;</field>
++    <field name="unittitle_teim">Zapp Magazine on Video -- Features Burkhart&#39;s Piece, &#34;Bobby&#39;s Fluff&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/934550</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/934550</field>
+     <field name="unitdate_normal_ssm">1994/1994</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 46, VHS: 467.0018</field>
+     <field name="location_si">Box: 46, VHS: 467.0018</field>
+     <field name="collection_teim">Kathe Burkhart Papers</field>
++    <field name="author_teim">Stacey Flatt, Rachel Searcy, and Emma Griffin</field>
+     <field name="collection_unitid_teim">MSS.467</field>
+     <field name="series_sim">Series III. Writing</field>
+-    <field name="series_si">Series III. Writing &gt;&gt; &lt;em&gt;Zapp Magazine on Video&lt;/em&gt; -- Features Burkhart's Piece, "Bobby's Fluff"</field>
+-    <field name="heading_ssm">Zapp Magazine on Video -- Features Burkhart's Piece, "Bobby's Fluff"</field>
++    <field name="series_si">Series III. Writing &gt;&gt; &lt;em&gt;Zapp Magazine on Video&lt;/em&gt; -- Features Burkhart&#39;s Piece, &#34;Bobby&#39;s Fluff&#34;</field>
++    <field name="heading_ssm">Zapp Magazine on Video -- Features Burkhart&#39;s Piece, &#34;Bobby&#39;s Fluff&#34;</field>
+     <field name="unitdate_start_sim">1994</field>
+     <field name="unitdate_start_ssm">1994</field>
+     <field name="unitdate_start_si">1994</field>

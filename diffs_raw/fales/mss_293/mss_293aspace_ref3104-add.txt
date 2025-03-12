@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,18 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[TV Program with Zebras, Giraffes &amp; Lions for "Peter Beard's Backyard"]</field>
+-    <field name="unittitle_teim">[TV Program with Zebras, Giraffes &amp; Lions for "Peter Beard's Backyard"]</field>
++    <field name="unittitle_ssm">[TV Program with Zebras, Giraffes &amp; Lions for &#34;Peter Beard&#39;s Backyard&#34;]</field>
++    <field name="unittitle_teim">[TV Program with Zebras, Giraffes &amp; Lions for &#34;Peter Beard&#39;s Backyard&#34;]</field>
+     <field name="unitid_teim">ID: 293.1161_a</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/551645</field>
+     <field name="unitid_ssm">ID: 293.1161_a</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/551645</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Dub recording of a television program, "The World of Survival", about African wildlife and game reserves.</field>
++    <field name="scopecontent_teim">Dub recording of a television program, &#34;The World of Survival&#34;, about African wildlife and game reserves.</field>
+     <field name="scopecontent_teim">TV Zebras</field>
+-    <field name="phystech_teim">Color/SoundTRT: 00:22:18Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Color/Sound
++TRT: 00:22:18
++Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3104</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,11 +38,12 @@
+     <field name="location_ssm">case: 293.1161_a</field>
+     <field name="location_si">case: 293.1161_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>
+-    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; [TV Program with Zebras, Giraffes &amp; Lions for "Peter Beard's Backyard"]</field>
+-    <field name="heading_ssm">[TV Program with Zebras, Giraffes &amp; Lions for "Peter Beard's Backyard"]</field>
++    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; [TV Program with Zebras, Giraffes &amp; Lions for &#34;Peter Beard&#39;s Backyard&#34;]</field>
++    <field name="heading_ssm">[TV Program with Zebras, Giraffes &amp; Lions for &#34;Peter Beard&#39;s Backyard&#34;]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4610</field>

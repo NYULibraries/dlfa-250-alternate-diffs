@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">John Hall Papers</field>
+     <field name="unitid_teim">MSS.098</field>
+     <field name="unitid_ssm">MSS.098</field>
+-    <field name="abstract_teim">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992.</field>
+-    <field name="abstract_ssm">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992.</field>
++    <field name="abstract_teim">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz&#39; with whom Hall remained close to up until Wojnarowicz&#39; death in 1992.</field>
++    <field name="abstract_ssm">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz&#39; with whom Hall remained close to up until Wojnarowicz&#39; death in 1992.</field>
+     <field name="creator_teim">Hall, John</field>
+     <field name="creator_teim">Wojnarowicz, David</field>
+     <field name="creator_ssm">Hall, John</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_inclusive_teim">1977-1978</field>
+     <field name="scopecontent_teim">The John Hall Papers are a part of the Downtown Collection at the Fales Library, New York University. The Fales Library is the primary special collections division of the NYU libraries, housing over 200,000 volumes of English and American literature from 1700 to the present. Strengths of the collection include the development of the English and American novel, with an emphasis on the Gothic and the Victorian novel.</field>
+     <field name="scopecontent_teim">The collection consists of four letters, one postcard and photos that were sent to Hall from David Wojnarowicz when the latter was in Paris during 1977-1978.</field>
+-    <field name="bioghist_teim">The John Hall Papers include a small collection of letters from photographer, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992. Hall is often noted in the David Wojnarowicz Papers.</field>
++    <field name="bioghist_teim">The John Hall Papers include a small collection of letters from photographer, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz&#39; with whom Hall remained close to up until Wojnarowicz&#39; death in 1992. Hall is often noted in the David Wojnarowicz Papers.</field>
+     <field name="custodhist_teim">The letters were acquired in April 1999 through purchase from Hall.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>
+@@ -39,7 +39,7 @@
+     <field name="persname_ssm">Wojnarowicz, David</field>
+     <field name="subject_teim">Photographers |z United States |x Biography.</field>
+     <field name="subject_teim">Artists and community -- United States</field>
+-    <field name="subject_teim">Photographers -- United States -- Biography.</field>
++    <field name="subject_teim">Photographers --United States --Biography.</field>
+     <field name="subject_teim">Artists and community -- United States</field>
+     <field name="subject_ssm">Photographers |z United States |x Biography.</field>
+     <field name="subject_ssm">Artists and community -- United States</field>
+@@ -61,7 +61,7 @@
+     <field name="name_teim">Hall, John</field>
+     <field name="name_teim">Wojnarowicz, David</field>
+     <field name="place_sim">New York (N.Y.) -- Intellectual life -- 20th century.</field>
+-    <field name="subject_sim">Photographers -- United States -- Biography.</field>
++    <field name="subject_sim">Photographers --United States --Biography.</field>
+     <field name="subject_sim">Artists and community -- United States</field>
+     <field name="material_type_sim">Postcards.</field>
+     <field name="material_type_sim">Correspondence.</field>

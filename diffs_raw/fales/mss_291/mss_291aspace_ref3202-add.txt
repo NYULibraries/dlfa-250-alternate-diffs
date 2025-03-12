@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, "Mappaemundi"</field>
+-    <field name="unittitle_teim">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, "Mappaemundi"</field>
++    <field name="unittitle_ssm">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, &#34;Mappaemundi&#34;</field>
++    <field name="unittitle_teim">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, &#34;Mappaemundi&#34;</field>
+     <field name="unitid_teim">ID: 291.0101</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/543893</field>
+     <field name="unitid_ssm">ID: 291.0101</field>
+@@ -36,11 +36,12 @@
+     <field name="location_ssm">Box: 243, Media: ID: 291.0101</field>
+     <field name="location_si">Box: 243, Media: ID: 291.0101</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series VIII: Media</field>
+     <field name="series_sim">Subseries A: Sound recordings, video recordings, and films</field>
+-    <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, "Mappaemundi"</field>
+-    <field name="heading_ssm">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, "Mappaemundi"</field>
++    <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, &#34;Mappaemundi&#34;</field>
++    <field name="heading_ssm">Painting as Paradox: Sue Hettmansperger, Lawrence Fritts, &#34;Mappaemundi&#34;</field>
+     <field name="unitdate_start_sim">2001</field>
+     <field name="unitdate_start_ssm">2001</field>
+     <field name="unitdate_start_si">2001</field>

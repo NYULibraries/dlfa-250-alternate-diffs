@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1971-01/1971-01</field>
+     <field name="unitdate_normal_sim">1971-01/1971-01</field>
+     <field name="unitdate_teim">January, 1971</field>
+-    <field name="scopecontent_teim">The tape's label reads, "Improvisations; Derek Bailey - Guitar; David Holland - Cello; Live in London, January, 1971"</field>
++    <field name="scopecontent_teim">The tape&#39;s label reads, &#34;Improvisations; Derek Bailey - Guitar; David Holland - Cello; Live in London, January, 1971&#34;</field>
+     <field name="phystech_teim">Duration: 36 minutes.</field>
+     <field name="dao_teim">Improvisations by Derek Bailey and David Holland</field>
+     <field name="dao_ssm">Improvisations by Derek Bailey and David Holland</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: 24, Quarter_Inch_Audio_Reel: 267_137</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series III. Musical Recordings</field>
+     <field name="series_si">Series III. Musical Recordings &gt;&gt; Improvisations by Derek Bailey and David Holland</field>

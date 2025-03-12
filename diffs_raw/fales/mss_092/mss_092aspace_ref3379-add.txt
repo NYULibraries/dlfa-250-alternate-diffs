@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,9 +26,9 @@
+     <field name="unitdate_normal_teim">1950/1986</field>
+     <field name="unitdate_normal_sim">1950/1986</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="phystech_teim">Description: Sno-globe with Disney character "Donald Duck" dressed as Santa Claus, riding a sled, carrying presents: water partially evaporated.</field>
++    <field name="phystech_teim">Description: Sno-globe with Disney character &#34;Donald Duck&#34; dressed as Santa Claus, riding a sled, carrying presents: water partially evaporated.</field>
+     <field name="phystech_teim">Maker: non</field>
+-    <field name="phystech_teim">Where Made: "Made in Hong Kong" stamped on bottom</field>
++    <field name="phystech_teim">Where Made: &#34;Made in Hong Kong&#34; stamped on bottom</field>
+     <field name="phystech_teim">Materials: plastic, paint, water</field>
+     <field name="phystech_teim">Dimensions: 3.75 x 2.85</field>
+     <field name="ref_ssi">aspace_ref3379</field>
+@@ -40,6 +40,7 @@
+     <field name="location_ssm">Box: 151, object: 092.2.0251</field>
+     <field name="location_si">Box: 151, object: 092.2.0251</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries A: General Objects and Artifacts</field>

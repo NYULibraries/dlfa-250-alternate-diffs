@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1990/1999</field>
+     <field name="unitdate_normal_sim">1990/1999</field>
+     <field name="unitdate_inclusive_teim">circa 1990s</field>
+-    <field name="scopecontent_teim">Larsen Company. The Veg-All I'm too Tired to Cook Book. Green Bay, WI: The Larsen Company undated.</field>
++    <field name="scopecontent_teim">Larsen Company. The Veg-All I&#39;m too Tired to Cook Book. Green Bay, WI: The Larsen Company undated.</field>
+     <field name="ref_ssi">aspace_ref1002</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 23, Folder: 10</field>
+     <field name="location_si">Box: 23, Folder: 10</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The Larsen Company</field>

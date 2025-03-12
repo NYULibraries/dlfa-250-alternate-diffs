@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Gary Indiana Papers</field>
+     <field name="collection_unitid_ssm">MSS.168</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"&lt;em&gt;Curse of the Dog People&lt;/em&gt; (original typescript)"</field>
+-    <field name="unittitle_teim">"Curse of the Dog People (original typescript)"</field>
++    <field name="unittitle_ssm">&#34;&lt;em&gt;Curse of the Dog People&lt;/em&gt; (original typescript)&#34;</field>
++    <field name="unittitle_teim">&#34;Curse of the Dog People (original typescript)&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/485659</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/485659</field>
+     <field name="unitdate_teim">1980</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 1, Folder: 29</field>
+     <field name="location_si">Box: 1, Folder: 29</field>
+     <field name="collection_teim">Gary Indiana Papers</field>
++    <field name="author_teim">/ collection processed by Joseph Ketner, 2007.</field>
+     <field name="collection_unitid_teim">MSS.168</field>
+     <field name="series_sim">Series I: Manuscripts</field>
+     <field name="series_sim">Subseries B: Manuscripts for Plays and Film</field>
+-    <field name="series_si">Series I: Manuscripts &gt;&gt; Subseries B: Manuscripts for Plays and Film &gt;&gt; "&lt;em&gt;Curse of the Dog People&lt;/em&gt; (original typescript)"</field>
+-    <field name="heading_ssm">"Curse of the Dog People (original typescript)"</field>
++    <field name="series_si">Series I: Manuscripts &gt;&gt; Subseries B: Manuscripts for Plays and Film &gt;&gt; &#34;&lt;em&gt;Curse of the Dog People&lt;/em&gt; (original typescript)&#34;</field>
++    <field name="heading_ssm">&#34;Curse of the Dog People (original typescript)&#34;</field>
+     <field name="unitdate_ssm">1980</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>

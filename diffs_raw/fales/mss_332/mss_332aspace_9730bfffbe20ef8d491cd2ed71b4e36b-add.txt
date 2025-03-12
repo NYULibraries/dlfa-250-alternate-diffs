@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,8 @@
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+     <field name="unitdate_teim">1995</field>
+-    <field name="dao_teim">"Gorilla My Love, Jim in 2nd half": undated</field>
+-    <field name="dao_ssm">"Gorilla My Love, Jim in 2nd half": undated</field>
++    <field name="dao_teim">&#34;Gorilla My Love, Jim in 2nd half&#34;: undated</field>
++    <field name="dao_ssm">&#34;Gorilla My Love, Jim in 2nd half&#34;: undated</field>
+     <field name="ref_ssi">aspace_9730bfffbe20ef8d491cd2ed71b4e36b</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_332_ER_17</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Jim Neu Papers</field>
++    <field name="author_teim">Aki Snyder</field>
+     <field name="collection_unitid_teim">MSS.332</field>
+     <field name="series_si">Gorilla My Love</field>
+     <field name="heading_ssm">Gorilla My Love</field>

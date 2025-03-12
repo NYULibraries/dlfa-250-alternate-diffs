@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_normal_ssm">1986/1989</field>
+     <field name="unitdate_normal_teim">1986/1989</field>
+     <field name="unitdate_normal_sim">1986/1989</field>
+-    <field name="unitdate_inclusive_teim">1986; 1989; undated</field>
++    <field name="unitdate_inclusive_teim">1986; 1989; undated </field>
+     <field name="ref_ssi">aspace_ref1189</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: 21, Folder: 3</field>
+     <field name="location_si">Box: 21, Folder: 3</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+     <field name="series_sim">Series IV: Posters, Programs and Flyers</field>
+     <field name="series_sim">Subseries A: Artists</field>
+@@ -46,7 +47,7 @@
+     <field name="unitdate_end_sim">1989</field>
+     <field name="unitdate_end_ssm">1989</field>
+     <field name="unitdate_end_si">1989</field>
+-    <field name="unitdate_ssm">Inclusive, 1986; 1989; undated</field>
++    <field name="unitdate_ssm">Inclusive, 1986; 1989; undated </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="sort_ii">295</field>
+   </doc>

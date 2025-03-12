@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1860/1860</field>
+     <field name="unitdate_normal_sim">1860/1860</field>
+     <field name="unitdate_inclusive_teim">1860</field>
+-    <field name="scopecontent_teim">Manumission document for Higinio Guillermo, a boy in Habana born to an enslaved woman named Juana Paula. Higinio Guillermo's father is not named.</field>
++    <field name="scopecontent_teim">Manumission document for Higinio Guillermo, a boy in Habana born to an enslaved woman named Juana Paula. Higinio Guillermo&#39;s father is not named.</field>
+     <field name="ref_ssi">aspace_15998165204f2cb49e2b776621f1c443</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 2, Folder: 76</field>
+     <field name="location_si">Box: 2, Folder: 76</field>
+     <field name="collection_teim">Collection on Enslavement in Cuba</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.569</field>
+     <field name="series_si">Manumission Document for Higinio Guillermo</field>
+     <field name="heading_ssm">Manumission Document for Higinio Guillermo</field>

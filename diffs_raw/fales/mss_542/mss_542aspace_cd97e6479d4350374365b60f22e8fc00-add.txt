@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1977/1995</field>
+     <field name="unitdate_normal_sim">1977/1995</field>
+     <field name="unitdate_inclusive_teim">1977-1995</field>
+-    <field name="scopecontent_teim">Photocopy of a holograph score from Foran Notebook, for a work for flute, soprano saxophone, and alto saxophone, recorded through an overdub process on the album Blue Boyé (1977). The piece is titled "C.M.E." on the album and "Seventh (Roots)" in the notebook.</field>
++    <field name="scopecontent_teim">Photocopy of a holograph score from Foran Notebook, for a work for flute, soprano saxophone, and alto saxophone, recorded through an overdub process on the album Blue Boyé (1977). The piece is titled &#34;C.M.E.&#34; on the album and &#34;Seventh (Roots)&#34; in the notebook.</field>
+     <field name="ref_ssi">aspace_cd97e6479d4350374365b60f22e8fc00</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 27</field>
+     <field name="location_si">Box: 1, Folder: 27</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">C. M. E.</field>
+     <field name="heading_ssm">C. M. E.</field>

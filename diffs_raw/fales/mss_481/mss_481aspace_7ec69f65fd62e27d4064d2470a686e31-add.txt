@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Bill Dixon Papers</field>
+     <field name="collection_unitid_ssm">MSS.481</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Summerdance" Performances</field>
+-    <field name="unittitle_teim">"Summerdance" Performances</field>
++    <field name="unittitle_ssm">&#34;Summerdance&#34; Performances</field>
++    <field name="unittitle_teim">&#34;Summerdance&#34; Performances</field>
+     <field name="unitid_teim">cuid36929</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/971500</field>
+     <field name="unitid_ssm">cuid36929</field>
+@@ -26,9 +26,9 @@
+     <field name="unitdate_normal_teim">1971-07/1971-08</field>
+     <field name="unitdate_normal_sim">1971-07/1971-08</field>
+     <field name="unitdate_inclusive_teim">July-August, 1971</field>
+-    <field name="phystech_teim">Duration: 64 minutes; Preservation note: The right channel sounds like an echo of the left channel, there's also audio breakup noticeable in the right channel. The conversation heard between musical takes is in the left channel only</field>
+-    <field name="dao_teim">"Summerdance" Performances</field>
+-    <field name="dao_ssm">"Summerdance" Performances</field>
++    <field name="phystech_teim">Duration: 64 minutes; Preservation note: The right channel sounds like an echo of the left channel, there&#39;s also audio breakup noticeable in the right channel. The conversation heard between musical takes is in the left channel only</field>
++    <field name="dao_teim">&#34;Summerdance&#34; Performances</field>
++    <field name="dao_ssm">&#34;Summerdance&#34; Performances</field>
+     <field name="ref_ssi">aspace_7ec69f65fd62e27d4064d2470a686e31</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -40,11 +40,12 @@
+     <field name="location_si">Box: 54, Quarter_Inch_Audio_Reel: 481_1335</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Bill Dixon Papers</field>
++    <field name="author_teim">Stacey Flatt, Rachel Mahre, Lyric Evans-Hunter, and Maddie DeLaere</field>
+     <field name="collection_unitid_teim">MSS.481</field>
+     <field name="series_sim">Series I. Music</field>
+     <field name="series_sim">Subseries I.B: Performance Recordings</field>
+-    <field name="series_si">Series I. Music &gt;&gt; Subseries I.B: Performance Recordings &gt;&gt; "Summerdance" Performances</field>
+-    <field name="heading_ssm">"Summerdance" Performances</field>
++    <field name="series_si">Series I. Music &gt;&gt; Subseries I.B: Performance Recordings &gt;&gt; &#34;Summerdance&#34; Performances</field>
++    <field name="heading_ssm">&#34;Summerdance&#34; Performances</field>
+     <field name="unitdate_ssm">Inclusive, July-August, 1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">492</field>

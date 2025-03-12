@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Christmas '74 Pageant, Charles &amp; Mary, "Carmen"</field>
+-    <field name="unittitle_teim">Christmas '74 Pageant, Charles &amp; Mary, "Carmen"</field>
++    <field name="unittitle_ssm">Christmas &#39;74 Pageant, Charles &amp; Mary, &#34;Carmen&#34;</field>
++    <field name="unittitle_teim">Christmas &#39;74 Pageant, Charles &amp; Mary, &#34;Carmen&#34;</field>
+     <field name="unitid_teim">ID: 293.0219_a</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/550701</field>
+     <field name="unitid_ssm">ID: 293.0219_a</field>
+@@ -26,9 +26,11 @@
+     <field name="unitdate_normal_teim">1974/1974</field>
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">1974</field>
+-    <field name="scopecontent_teim">Christmas '74</field>
+-    <field name="phystech_teim">Color/Sound</field>
+-    <field name="phystech_teim">Duration: 20 minutes</field>
++    <field name="scopecontent_teim">Christmas &#39;74</field>
++    <field name="phystech_teim">Color/Sound
++</field>
++    <field name="phystech_teim">Duration: 20 minutes
++</field>
+     <field name="phystech_teim">Original format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref659</field>
+     <field name="repository_ssi">fales</field>
+@@ -39,11 +41,12 @@
+     <field name="location_ssm">Box: 120, Media: ID: 293.0219_a</field>
+     <field name="location_si">Box: 120, Media: ID: 293.0219_a</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>
+-    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Christmas '74 Pageant, Charles &amp; Mary, "Carmen"</field>
+-    <field name="heading_ssm">Christmas '74 Pageant, Charles &amp; Mary, "Carmen"</field>
++    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Christmas &#39;74 Pageant, Charles &amp; Mary, &#34;Carmen&#34;</field>
++    <field name="heading_ssm">Christmas &#39;74 Pageant, Charles &amp; Mary, &#34;Carmen&#34;</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

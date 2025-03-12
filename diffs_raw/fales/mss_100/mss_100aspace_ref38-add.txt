@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Mendez Mural Community Garden Archive</field>
+     <field name="collection_unitid_ssm">MSS.100</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Trial documents, cont'd.</field>
+-    <field name="unittitle_teim">Trial documents, cont'd.</field>
++    <field name="unittitle_ssm">Trial documents, cont&#39;d.</field>
++    <field name="unittitle_teim">Trial documents, cont&#39;d.</field>
+     <field name="unitid_teim">31142040617196</field>
+     <field name="unitid_ssm">31142040617196</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 8e.</field>
+     <field name="location_si">Box: 1, Folder: 8e.</field>
+     <field name="collection_teim">Mendez Mural Community Garden Archive</field>
++    <field name="author_teim">Marvin Taylor/Alyssa Shirley in May 2000. Accretion processed by Luke Martin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.100</field>
+     <field name="series_sim">Series I: Legal Materials</field>
+-    <field name="series_si">Series I: Legal Materials &gt;&gt; Trial documents, cont'd.</field>
+-    <field name="heading_ssm">Trial documents, cont'd.</field>
++    <field name="series_si">Series I: Legal Materials &gt;&gt; Trial documents, cont&#39;d.</field>
++    <field name="heading_ssm">Trial documents, cont&#39;d.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>

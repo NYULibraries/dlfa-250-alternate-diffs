@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Stephen Facey Collection on Theatre Genesis</field>
+     <field name="collection_unitid_ssm">MSS.595</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Beggar's Opera&lt;/em&gt;, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
+-    <field name="unittitle_teim">The Beggar's Opera, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Beggar&#39;s Opera&lt;/em&gt;, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
++    <field name="unittitle_teim">The Beggar&#39;s Opera, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
+     <field name="unitdate_normal_ssm">1968-03/1968-03</field>
+     <field name="unitdate_normal_teim">1968-03/1968-03</field>
+     <field name="unitdate_normal_sim">1968-03/1968-03</field>
+@@ -24,9 +24,10 @@
+     <field name="location_ssm">Box: 2, Folder: 11</field>
+     <field name="location_si">Box: 2, Folder: 11</field>
+     <field name="collection_teim">Stephen Facey Collection on Theatre Genesis</field>
++    <field name="author_teim">Rachel Searcy</field>
+     <field name="collection_unitid_teim">MSS.595</field>
+-    <field name="series_si">&lt;em&gt;The Beggar's Opera&lt;/em&gt;, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
+-    <field name="heading_ssm">The Beggar's Opera, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
++    <field name="series_si">&lt;em&gt;The Beggar&#39;s Opera&lt;/em&gt;, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
++    <field name="heading_ssm">The Beggar&#39;s Opera, Written by Tom Sankey and Janet Day, Directed by Lee Kissman and Ralph Cook</field>
+     <field name="unitdate_ssm">Inclusive, 1968-03</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">30</field>

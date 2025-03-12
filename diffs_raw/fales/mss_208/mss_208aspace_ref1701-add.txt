@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,12 +7,12 @@
+     <field name="parent_ssm">aspace_ref121</field>
+     <field name="parent_ssm">aspace_ref1689</field>
+     <field name="parent_ssm">aspace_ref1696</field>
+-    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+-    <field name="parent_unittitles_ssm">L'Hommedieu: Oversize</field>
+-    <field name="parent_unittitles_ssm">Oversize Series B, Subseries 1: Ezra L'Hommedieu Correspondence</field>
+-    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+-    <field name="parent_unittitles_teim">L'Hommedieu: Oversize</field>
+-    <field name="parent_unittitles_teim">Oversize Series B, Subseries 1: Ezra L'Hommedieu Correspondence</field>
++    <field name="parent_unittitles_ssm">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="parent_unittitles_ssm">L&amp;#39;Hommedieu: Oversize </field>
++    <field name="parent_unittitles_ssm">Oversize Series B, Subseries 1: Ezra L&amp;#39;Hommedieu Correspondence</field>
++    <field name="parent_unittitles_teim">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="parent_unittitles_teim">L&amp;#39;Hommedieu: Oversize </field>
++    <field name="parent_unittitles_teim">Oversize Series B, Subseries 1: Ezra L&amp;#39;Hommedieu Correspondence</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sylvester Manor Archive</field>
+@@ -41,11 +41,12 @@
+     <field name="location_si">Box: 142, Folder: 21</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+-    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+-    <field name="series_sim">L'Hommedieu: Oversize</field>
+-    <field name="series_sim">Oversize Series B, Subseries 1: Ezra L'Hommedieu Correspondence</field>
+-    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; L'Hommedieu: Oversize &gt;&gt; Oversize Series B, Subseries 1: Ezra L'Hommedieu Correspondence &gt;&gt; Clinton, DeWitt</field>
++    <field name="series_sim">Record Group II: L&amp;#39;Hommedieu Family</field>
++    <field name="series_sim">L&amp;#39;Hommedieu: Oversize </field>
++    <field name="series_sim">Oversize Series B, Subseries 1: Ezra L&amp;#39;Hommedieu Correspondence</field>
++    <field name="series_si">Record Group II: L&#39;Hommedieu Family &gt;&gt; L&#39;Hommedieu: Oversize  &gt;&gt; Oversize Series B, Subseries 1: Ezra L&#39;Hommedieu Correspondence &gt;&gt; Clinton, DeWitt</field>
+     <field name="heading_ssm">Clinton, DeWitt</field>
+     <field name="unitdate_start_sim">1810</field>
+     <field name="unitdate_start_ssm">1810</field>

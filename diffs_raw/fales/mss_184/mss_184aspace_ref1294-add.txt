@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,8 +23,8 @@
+     <field name="unitdate_normal_teim">1991/1991</field>
+     <field name="unitdate_normal_sim">1991/1991</field>
+     <field name="unitdate_inclusive_teim">November 14, 1991</field>
+-    <field name="phystech_teim">Original format: Audiocassette, Maxell XLII-S 90; contains sticker with "Stephanie Bernheim 50 Walker St. 4A New York, NY 10013"</field>
+-    <field name="phystech_teim">Duration: 20 minutes</field>
++    <field name="phystech_teim">Original format: Audiocassette, Maxell XLII-S 90; contains sticker with &#34;Stephanie Bernheim 50 Walker St. 4A New York, NY 10013&#34;</field>
++    <field name="phystech_teim">Duration: 20 minutes </field>
+     <field name="ref_ssi">aspace_ref1294</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">case: 184.0019</field>
+     <field name="location_si">case: 184.0019</field>
+     <field name="collection_teim">A.I.R. Gallery Archives</field>
++    <field name="author_teim">Joseph Gallucci, 2007. Media updated by YZ Chin, 2009.</field>
+     <field name="collection_unitid_teim">MSS.184</field>
+     <field name="series_sim">Series V: Sound recordings</field>
+     <field name="series_si">Series V: Sound recordings &gt;&gt; Who Cares About Feminism: Art + Politics in the 1990s; A.I.R. Gallery, tape II</field>

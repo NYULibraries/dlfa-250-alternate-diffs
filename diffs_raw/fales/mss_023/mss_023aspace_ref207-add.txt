@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Second Aeon Archive</field>
+     <field name="collection_unitid_ssm">MSS.023</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series III: Subseries B: Manuscripts for Second Aeon's small press</field>
+-    <field name="unittitle_teim">Series III: Subseries B: Manuscripts for Second Aeon's small press</field>
++    <field name="unittitle_ssm">Series III: Subseries B: Manuscripts for Second Aeon&#39;s small press</field>
++    <field name="unittitle_teim">Series III: Subseries B: Manuscripts for Second Aeon&#39;s small press</field>
+     <field name="ref_ssi">aspace_ref207</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -18,9 +18,10 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Second Aeon Archive</field>
++    <field name="author_teim">Amber Creger, March 1999</field>
+     <field name="collection_unitid_teim">MSS.023</field>
+-    <field name="series_si">Series III: Subseries B: Manuscripts for Second Aeon's small press</field>
+-    <field name="heading_ssm">Series III: Subseries B: Manuscripts for Second Aeon's small press</field>
++    <field name="series_si">Series III: Subseries B: Manuscripts for Second Aeon&#39;s small press</field>
++    <field name="heading_ssm">Series III: Subseries B: Manuscripts for Second Aeon&#39;s small press</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">194</field>
+   </doc>

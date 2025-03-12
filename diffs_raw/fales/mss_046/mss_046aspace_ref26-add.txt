@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref16</field>
+     <field name="parent_ssm">aspace_ref17</field>
+     <field name="parent_unittitles_ssm">Series I: Alexander Lipsky</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Alexander Lipsky's annotated musical scores</field>
++    <field name="parent_unittitles_ssm">Subseries A: Alexander Lipsky&amp;#39;s annotated musical scores</field>
+     <field name="parent_unittitles_teim">Series I: Alexander Lipsky</field>
+-    <field name="parent_unittitles_teim">Subseries A: Alexander Lipsky's annotated musical scores</field>
++    <field name="parent_unittitles_teim">Subseries A: Alexander Lipsky&amp;#39;s annotated musical scores</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Brody/Klooster Performance Practice Collection</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">Brody/Klooster Performance Practice Collection</field>
++    <field name="author_teim">Amber Creger</field>
+     <field name="collection_unitid_teim">MSS.046</field>
+     <field name="series_sim">Series I: Alexander Lipsky</field>
+-    <field name="series_sim">Subseries A: Alexander Lipsky's annotated musical scores</field>
+-    <field name="series_si">Series I: Alexander Lipsky &gt;&gt; Subseries A: Alexander Lipsky's annotated musical scores &gt;&gt; Bach, J.S., preludes and fugues.</field>
++    <field name="series_sim">Subseries A: Alexander Lipsky&amp;#39;s annotated musical scores</field>
++    <field name="series_si">Series I: Alexander Lipsky &gt;&gt; Subseries A: Alexander Lipsky&#39;s annotated musical scores &gt;&gt; Bach, J.S., preludes and fugues.</field>
+     <field name="heading_ssm">Bach, J.S., preludes and fugues.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Terrorvision [2004.01]: Michael Hermann "Fevers of Apathy," "Circumcision of the Dictator"</field>
+-    <field name="unittitle_teim">Terrorvision [2004.01]: Michael Hermann "Fevers of Apathy," "Circumcision of the Dictator"</field>
++    <field name="unittitle_ssm">Terrorvision [2004.01]: Michael Hermann &#34;Fevers of Apathy,&#34; &#34;Circumcision of the Dictator&#34; </field>
++    <field name="unittitle_teim">Terrorvision [2004.01]: Michael Hermann &#34;Fevers of Apathy,&#34; &#34;Circumcision of the Dictator&#34; </field>
+     <field name="unitid_teim">cuid19381</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/572847</field>
+     <field name="unitid_ssm">cuid19381</field>
+@@ -31,10 +31,11 @@
+     <field name="location_ssm">Box: 456</field>
+     <field name="location_si">Box: 456</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+-    <field name="series_si">Series XIV: Video &gt;&gt; Terrorvision [2004.01]: Michael Hermann "Fevers of Apathy," "Circumcision of the Dictator"</field>
+-    <field name="heading_ssm">Terrorvision [2004.01]: Michael Hermann "Fevers of Apathy," "Circumcision of the Dictator"</field>
++    <field name="series_si">Series XIV: Video &gt;&gt; Terrorvision [2004.01]: Michael Hermann &#34;Fevers of Apathy,&#34; &#34;Circumcision of the Dictator&#34; </field>
++    <field name="heading_ssm">Terrorvision [2004.01]: Michael Hermann &#34;Fevers of Apathy,&#34; &#34;Circumcision of the Dictator&#34; </field>
+     <field name="unitdate_ssm">[2004]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9479</field>

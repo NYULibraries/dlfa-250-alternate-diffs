@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,9 @@
+     <field name="collection_ssm">Mabou Mines Archive</field>
+     <field name="collection_unitid_ssm">MSS.133</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt; Lies &lt;/em&gt; "The Lie" manuscript/typescript; "add-ons, new scenes, changes, notes, etc."</field>
+-    <field name="unittitle_teim">Lies "The Lie" manuscript/typescript; "add-ons, new scenes, changes, notes, etc."</field>
++    <field name="unittitle_ssm">&lt;em&gt; Lies &lt;/em&gt; &#34;The Lie&#34; manuscript/typescript; &#34;add-ons, new scenes, changes, notes, etc.&#34;</field>
++    <field name="unittitle_teim"> Lies 
++ &#34;The Lie&#34; manuscript/typescript; &#34;add-ons, new scenes, changes, notes, etc.&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/457449</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/457449</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +31,13 @@
+     <field name="location_ssm">Box: 20, Folder: 890</field>
+     <field name="location_si">Box: 20, Folder: 890</field>
+     <field name="collection_teim">Mabou Mines Archive</field>
++    <field name="author_teim">Sharon Lehner, 2003; and William J. Levay, 2006-2007. Media updated by Luke Martin and Brent Phillips, 2008; YZ Chin, 2009. Further processing and description by Luke Martin, 2009. </field>
+     <field name="collection_unitid_teim">MSS.133</field>
+     <field name="series_sim">Series III: Production Files</field>
+     <field name="series_sim">Subseries C: Mabou Mines-related productions</field>
+-    <field name="series_si">Series III: Production Files &gt;&gt; Subseries C: Mabou Mines-related productions &gt;&gt; &lt;em&gt; Lies &lt;/em&gt; "The Lie" manuscript/typescript; "add-ons, new scenes, changes, notes, etc."</field>
+-    <field name="heading_ssm">Lies "The Lie" manuscript/typescript; "add-ons, new scenes, changes, notes, etc."</field>
++    <field name="series_si">Series III: Production Files &gt;&gt; Subseries C: Mabou Mines-related productions &gt;&gt; &lt;em&gt; Lies &lt;/em&gt; &#34;The Lie&#34; manuscript/typescript; &#34;add-ons, new scenes, changes, notes, etc.&#34;</field>
++    <field name="heading_ssm"> Lies 
++ &#34;The Lie&#34; manuscript/typescript; &#34;add-ons, new scenes, changes, notes, etc.&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">973</field>

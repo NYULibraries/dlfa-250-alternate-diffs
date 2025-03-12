@@ -1,0 +1,108 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Manuscripts</field>
+     <field name="unittitle_teim">Series II: Manuscripts</field>
+-    <field name="scopecontent_teim">Series II: Manuscripts documents Strickland's professional writing in the form of original typescript drafts with handwritten editing notation of over sixty-two titles, separated into four different subseries: A: Biographical, B: Novels, C: Plays, and D: Short Fiction &amp; Non-Fiction. The final subseries, D: Short Fiction &amp; Non-Fiction features small collections of Strickland's published work. "Five Animal Short Stories" [Box 4, Folder 20] and "Twelve Uncanny Stories" [Box 6, Folder 2] are handmade portfolio booklets of Strickland's stories that were published in The Blue Magazine &amp; The Red Magazine, The Violet Magazine, and The Yellow Magazine, which were part of a small British popular fiction pulp format separated by subject and printed by the Amalgamated Press between July 1922 and December 1929. This series also comprises drafts of writing in various genres including adult mystery and romance fiction, children's adventure and detective fiction, historical fiction and creative non-fiction, as well as tests about animal care, food recipes and home remedy instructions.</field>
++    <field name="scopecontent_teim">Series II: Manuscripts documents Strickland&#39;s professional writing in the form of original typescript drafts with handwritten editing notation of over sixty-two titles, separated into four different subseries: A: Biographical, B: Novels, C: Plays, and D: Short Fiction &amp; Non-Fiction. The final subseries, D: Short Fiction &amp; Non-Fiction features small collections of Strickland&#39;s published work. &#34;Five Animal Short Stories&#34; [Box 4, Folder 20] and &#34;Twelve Uncanny Stories&#34; [Box 6, Folder 2] are handmade portfolio booklets of Strickland&#39;s stories that were published in The Blue Magazine &amp; The Red Magazine, The Violet Magazine, and The Yellow Magazine, which were part of a small British popular fiction pulp format separated by subject and printed by the Amalgamated Press between July 1922 and December 1929. This series also comprises drafts of writing in various genres including adult mystery and romance fiction, children&#39;s adventure and detective fiction, historical fiction and creative non-fiction, as well as tests about animal care, food recipes and home remedy instructions.</field>
+     <field name="genreform_teim">Booklets.</field>
+     <field name="genreform_teim">Animal Stories.</field>
+     <field name="genreform_teim">Creative nonfiction.</field>
+@@ -26,10 +26,10 @@
+     <field name="genreform_teim">Novels.</field>
+     <field name="genreform_teim">Commercial correspondence</field>
+     <field name="genreform_teim">Recipes.</field>
+-    <field name="genreform_teim">Formulas, recipes, etc.</field>
++    <field name="genreform_teim">Formulas, recipes, etc. </field>
+     <field name="genreform_teim">Romantic Fiction.</field>
+     <field name="genreform_teim">Pulp Literature, English</field>
+-    <field name="genreform_teim">Children's Literature, English</field>
++    <field name="genreform_teim">Children&#39;s Literature, English</field>
+     <field name="genreform_teim">Articles.</field>
+     <field name="genreform_teim">Feature articles.</field>
+     <field name="genreform_ssm">Booklets.</field>
+@@ -46,10 +46,10 @@
+     <field name="genreform_ssm">Novels.</field>
+     <field name="genreform_ssm">Commercial correspondence</field>
+     <field name="genreform_ssm">Recipes.</field>
+-    <field name="genreform_ssm">Formulas, recipes, etc.</field>
++    <field name="genreform_ssm">Formulas, recipes, etc. </field>
+     <field name="genreform_ssm">Romantic Fiction.</field>
+     <field name="genreform_ssm">Pulp Literature, English</field>
+-    <field name="genreform_ssm">Children's Literature, English</field>
++    <field name="genreform_ssm">Children&#39;s Literature, English</field>
+     <field name="genreform_ssm">Articles.</field>
+     <field name="genreform_ssm">Feature articles.</field>
+     <field name="geogname_teim">Rhodesia, Africa.</field>
+@@ -64,14 +64,14 @@
+     <field name="subject_teim">Women novelists.</field>
+     <field name="subject_teim">Novelists, English |y 19th century.</field>
+     <field name="subject_teim">Novelists, English |y 20th century.</field>
+-    <field name="subject_teim">Women -- Novels.</field>
+-    <field name="subject_teim">English fiction.</field>
+-    <field name="subject_teim">English drama -- 20th century.</field>
+-    <field name="subject_teim">Manuscript preparation (Authorship).</field>
+-    <field name="subject_teim">Manuscripts -- Editing.</field>
+-    <field name="subject_teim">Women novelists.</field>
+-    <field name="subject_teim">Novelists, English -- 19th century.</field>
+-    <field name="subject_teim">Novelists, English -- 20th century.</field>
++    <field name="subject_teim">Women --Novels.</field>
++    <field name="subject_teim">English fiction.</field>
++    <field name="subject_teim">English drama -- 20th century.</field>
++    <field name="subject_teim">Manuscript preparation (Authorship).</field>
++    <field name="subject_teim">Manuscripts --Editing.</field>
++    <field name="subject_teim">Women novelists.</field>
++    <field name="subject_teim">Novelists, English --19th century.</field>
++    <field name="subject_teim">Novelists, English --20th century.</field>
+     <field name="subject_ssm">Women |x Novels.</field>
+     <field name="subject_ssm">English fiction.</field>
+     <field name="subject_ssm">English drama -- 20th century.</field>
+@@ -90,15 +90,16 @@
+     <field name="place_ssm">London (England).</field>
+     <field name="place_sim">Rhodesia, Africa.</field>
+     <field name="place_sim">London (England).</field>
+-    <field name="subject_sim">Women -- Novels.</field>
++    <field name="subject_sim">Women --Novels.</field>
+     <field name="subject_sim">English fiction.</field>
+     <field name="subject_sim">English drama -- 20th century.</field>
+     <field name="subject_sim">Manuscript preparation (Authorship).</field>
+-    <field name="subject_sim">Manuscripts -- Editing.</field>
++    <field name="subject_sim">Manuscripts --Editing.</field>
+     <field name="subject_sim">Women novelists.</field>
+-    <field name="subject_sim">Novelists, English -- 19th century.</field>
+-    <field name="subject_sim">Novelists, English -- 20th century.</field>
++    <field name="subject_sim">Novelists, English --19th century.</field>
++    <field name="subject_sim">Novelists, English --20th century.</field>
+     <field name="collection_teim">Margaret Strickland Papers</field>
++    <field name="author_teim">Matt Moore, 2001. Edited by Rhyannon J. Rodriguez 2012, 2014, and 2015.</field>
+     <field name="collection_unitid_teim">MSS.077</field>
+     <field name="series_si">Series II: Manuscripts</field>
+     <field name="material_type_sim">Booklets.</field>
+@@ -115,10 +116,10 @@
+     <field name="material_type_sim">Novels.</field>
+     <field name="material_type_sim">Commercial correspondence</field>
+     <field name="material_type_sim">Recipes.</field>
+-    <field name="material_type_sim">Formulas, recipes, etc.</field>
++    <field name="material_type_sim">Formulas, recipes, etc. </field>
+     <field name="material_type_sim">Romantic Fiction.</field>
+     <field name="material_type_sim">Pulp Literature, English</field>
+-    <field name="material_type_sim">Children's Literature, English</field>
++    <field name="material_type_sim">Children&#39;s Literature, English</field>
+     <field name="material_type_sim">Articles.</field>
+     <field name="material_type_sim">Feature articles.</field>
+     <field name="material_type_ssm">Booklets.</field>
+@@ -135,10 +136,10 @@
+     <field name="material_type_ssm">Novels.</field>
+     <field name="material_type_ssm">Commercial correspondence</field>
+     <field name="material_type_ssm">Recipes.</field>
+-    <field name="material_type_ssm">Formulas, recipes, etc.</field>
++    <field name="material_type_ssm">Formulas, recipes, etc. </field>
+     <field name="material_type_ssm">Romantic Fiction.</field>
+     <field name="material_type_ssm">Pulp Literature, English</field>
+-    <field name="material_type_ssm">Children's Literature, English</field>
++    <field name="material_type_ssm">Children&#39;s Literature, English</field>
+     <field name="material_type_ssm">Articles.</field>
+     <field name="material_type_ssm">Feature articles.</field>
+     <field name="heading_ssm">Series II: Manuscripts</field>

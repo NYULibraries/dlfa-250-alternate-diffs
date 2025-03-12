@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">Ivanhoe</field>
+     <field name="unittitle_teim">Ivanhoe</field>
+     <field name="unitdate_teim">1833</field>
+-    <field name="scopecontent_teim">Performance City and Venue: Teatro in via della Pergola</field>
++    <field name="scopecontent_teim">Performance City and Venue:  Teatro in via della Pergola</field>
+     <field name="scopecontent_teim">Performance Season/Date: Primavera 1833</field>
+     <field name="scopecontent_teim">Publication City and Publisher: Firenze: nella stamperia Fantosini</field>
+     <field name="ref_ssi">aspace_ref487</field>
+@@ -28,6 +28,7 @@
+     <field name="location_ssm">Box: 8, Folder: 23</field>
+     <field name="location_si">Box: 8, Folder: 23</field>
+     <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
++    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+     <field name="collection_unitid_teim">MSS.383</field>
+     <field name="series_sim">Series LV: Rossini</field>
+     <field name="series_si">Series LV: Rossini &gt;&gt; Ivanhoe</field>

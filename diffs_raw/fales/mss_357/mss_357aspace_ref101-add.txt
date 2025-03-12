@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1985/1985</field>
+     <field name="unitdate_normal_sim">1985/1985</field>
+     <field name="unitdate_inclusive_teim">November 19, 1985</field>
+-    <field name="scopecontent_teim">Nelson is backstage with Buster Poindexter and the other musicians while they warm up before their show at Limelight on November 19, 1985, then heads out to the audience. The show is celebrating Buster Poindexter's birthday. Susan Kirschner joins Buster on stage for several songs. Afterwards, Nelson goes backstage again briefly.</field>
++    <field name="scopecontent_teim">Nelson is backstage with Buster Poindexter and the other musicians while they warm up before their show at Limelight on November 19, 1985, then heads out to the audience. The show is celebrating Buster Poindexter&#39;s birthday. Susan Kirschner joins Buster on stage for several songs. Afterwards, Nelson goes backstage again briefly.</field>
+     <field name="phystech_teim">Original format: VHS</field>
+     <field name="ref_ssi">aspace_ref101</field>
+     <field name="repository_ssi">fales</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">case: 357.0024</field>
+     <field name="location_si">case: 357.0024</field>
+     <field name="collection_teim">Nelson Sullivan Video Collection</field>
++    <field name="author_teim">Cristina Vignone, 2013. Photographic material processed by Emily B. King, 2013.</field>
+     <field name="collection_unitid_teim">MSS.357</field>
+     <field name="series_sim">Series I: Video recordings</field>
+     <field name="series_si">Series I: Video recordings &gt;&gt; Buster Poindexter at Limelight</field>

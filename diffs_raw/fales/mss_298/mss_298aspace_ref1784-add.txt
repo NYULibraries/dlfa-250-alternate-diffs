@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+     <field name="collection_unitid_ssm">MSS.298</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Sold Connelly's</field>
+-    <field name="unittitle_teim">Sold Connelly's</field>
++    <field name="unittitle_ssm">Sold Connelly&#39;s</field>
++    <field name="unittitle_teim">Sold Connelly&#39;s</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/553235</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/553235</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">album: BD</field>
+     <field name="location_si">album: BD</field>
+     <field name="collection_teim">Annina Nosei Gallery Archive</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.298</field>
+     <field name="series_sim">Series III: Artist Files</field>
+     <field name="series_sim">Subseries F: Polaroids</field>
+-    <field name="series_si">Series III: Artist Files &gt;&gt; Subseries F: Polaroids &gt;&gt; Sold Connelly's</field>
+-    <field name="heading_ssm">Sold Connelly's</field>
++    <field name="series_si">Series III: Artist Files &gt;&gt; Subseries F: Polaroids &gt;&gt; Sold Connelly&#39;s</field>
++    <field name="heading_ssm">Sold Connelly&#39;s</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1312</field>

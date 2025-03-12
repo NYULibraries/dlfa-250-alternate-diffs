@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Karen Swenson Papers</field>
+     <field name="collection_unitid_ssm">MSS.069</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Sex in the Golden Years: What's Ahead May Be Worth Aging For</field>
+-    <field name="unittitle_teim">Sex in the Golden Years: What's Ahead May Be Worth Aging For</field>
++    <field name="unittitle_ssm">Sex in the Golden Years: What&#39;s Ahead May Be Worth Aging For</field>
++    <field name="unittitle_teim">Sex in the Golden Years: What&#39;s Ahead May Be Worth Aging For</field>
+     <field name="unitdate_teim">1994</field>
+     <field name="ref_ssi">aspace_344bc49267b8e74626a6d3e1009bdae4</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 13, Folder: 4</field>
+     <field name="location_si">Box: 13, Folder: 4</field>
+     <field name="collection_teim">Karen Swenson Papers</field>
++    <field name="author_teim">Jennifer E. Neal</field>
+     <field name="collection_unitid_teim">MSS.069</field>
+     <field name="series_sim">Series VI: Printed Publications</field>
+     <field name="series_sim">Series VI.A.: Printed Publications</field>
+-    <field name="series_si">Series VI: Printed Publications &gt;&gt; Series VI.A.: Printed Publications &gt;&gt; Sex in the Golden Years: What's Ahead May Be Worth Aging For</field>
+-    <field name="heading_ssm">Sex in the Golden Years: What's Ahead May Be Worth Aging For</field>
++    <field name="series_si">Series VI: Printed Publications &gt;&gt; Series VI.A.: Printed Publications &gt;&gt; Sex in the Golden Years: What&#39;s Ahead May Be Worth Aging For</field>
++    <field name="heading_ssm">Sex in the Golden Years: What&#39;s Ahead May Be Worth Aging For</field>
+     <field name="unitdate_ssm">1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

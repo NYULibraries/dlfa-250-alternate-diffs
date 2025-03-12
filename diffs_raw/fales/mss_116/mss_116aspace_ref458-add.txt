@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">Gay and Lesbian Pulp Fiction Collection</field>
+     <field name="collection_unitid_ssm">MSS.116</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Gay Collection Series. Smith, Houston: &lt;em&gt; J Way-The Only Way.&lt;/em&gt; (Publisher's Consultants)</field>
+-    <field name="unittitle_teim">Gay Collection Series. Smith, Houston: J Way-The Only Way. (Publisher's Consultants)</field>
++    <field name="unittitle_ssm">Gay Collection Series. Smith, Houston: &lt;em&gt; J Way-The Only Way.&lt;/em&gt; (Publisher&#39;s Consultants)</field>
++    <field name="unittitle_teim">Gay Collection Series. Smith, Houston:  J Way-The Only Way. (Publisher&#39;s Consultants)</field>
+     <field name="unitdate_teim">1977</field>
+     <field name="ref_ssi">aspace_ref458</field>
+     <field name="repository_ssi">fales</field>
+@@ -21,9 +21,10 @@
+     <field name="location_ssm">Box: 10, Folder: 7</field>
+     <field name="location_si">Box: 10, Folder: 7</field>
+     <field name="collection_teim">Gay and Lesbian Pulp Fiction Collection</field>
++    <field name="author_teim">Collection processed by Theresa Smalec; revised finding aid written by Anna Björnsson McCormick</field>
+     <field name="collection_unitid_teim">MSS.116</field>
+-    <field name="series_si">Gay Collection Series. Smith, Houston: &lt;em&gt; J Way-The Only Way.&lt;/em&gt; (Publisher's Consultants)</field>
+-    <field name="heading_ssm">Gay Collection Series. Smith, Houston: J Way-The Only Way. (Publisher's Consultants)</field>
++    <field name="series_si">Gay Collection Series. Smith, Houston: &lt;em&gt; J Way-The Only Way.&lt;/em&gt; (Publisher&#39;s Consultants)</field>
++    <field name="heading_ssm">Gay Collection Series. Smith, Houston:  J Way-The Only Way. (Publisher&#39;s Consultants)</field>
+     <field name="unitdate_ssm">1977</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">224</field>

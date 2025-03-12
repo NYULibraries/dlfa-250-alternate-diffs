@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1970/2004</field>
+     <field name="unitdate_normal_sim">1970/2004</field>
+     <field name="unitdate_inclusive_teim">1970-2004</field>
+-    <field name="scopecontent_teim">Subseries A contains manuscripts and typescripts of Peter Straub's published novels. Correspondence accompanying particular manuscripts and typescripts were not removed but were kept in their original locations.</field>
++    <field name="scopecontent_teim">Subseries A contains manuscripts and typescripts of Peter Straub&#39;s published novels. Correspondence accompanying particular manuscripts and typescripts were not removed but were kept in their original locations.</field>
+     <field name="ref_ssi">aspace_ref12</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Peter Straub Papers</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.185</field>
+     <field name="series_sim">Series I: Work by Peter Straub</field>
+     <field name="series_si">Series I: Work by Peter Straub &gt;&gt; Subseries A: MSS and TSS of Published Books</field>

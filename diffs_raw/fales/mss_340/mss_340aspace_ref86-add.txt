@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Darinka Archive</field>
+     <field name="collection_unitid_ssm">MSS.340</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"This Performance Sold Out" sign</field>
+-    <field name="unittitle_teim">"This Performance Sold Out" sign</field>
++    <field name="unittitle_ssm">&#34;This Performance Sold Out&#34; sign</field>
++    <field name="unittitle_teim">&#34;This Performance Sold Out&#34; sign</field>
+     <field name="unitid_teim">340.2.0005</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/561983</field>
+     <field name="unitid_ssm">340.2.0005</field>
+@@ -34,12 +34,13 @@
+     <field name="location_ssm">object: ID: 340.2.0005</field>
+     <field name="location_si">object: ID: 340.2.0005</field>
+     <field name="collection_teim">Darinka Archive</field>
++    <field name="author_teim">Colin Torre; Finding aid created by Laura Newsome. Media updates by Rhyannon J. Rodriguez.</field>
+     <field name="collection_unitid_teim">MSS.340</field>
+     <field name="series_sim">Series I: Darinka Files</field>
+-    <field name="series_si">Series I: Darinka Files &gt;&gt; "This Performance Sold Out" sign</field>
++    <field name="series_si">Series I: Darinka Files &gt;&gt; &#34;This Performance Sold Out&#34; sign</field>
+     <field name="material_type_sim">Information signs.</field>
+     <field name="material_type_ssm">Information signs.</field>
+-    <field name="heading_ssm">"This Performance Sold Out" sign</field>
++    <field name="heading_ssm">&#34;This Performance Sold Out&#34; sign</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_ssm">1984</field>
+     <field name="unitdate_start_si">1984</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,11 +30,13 @@
+     <field name="unitdate_normal_sim">1818/1819</field>
+     <field name="unitdate_inclusive_teim">1818 March 12 - 1819 July 10</field>
+     <field name="scopecontent_teim">7 Letters with Notation, Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "Samuel Smith Gardiner, Esq., No. 1 / 12 Wall Street, New York, NY" ; "Bate, Esq. Counsellor at Law, Newburgh, NY"</field>
+-    <field name="scopecontent_teim">Sent From: "Charles H. Ogden of Morristown, NY" ; "F.B. Irvine" ; "H. Atkinson of Plattsburgh, NY" ; "H. Spooner" ; "James McKown of Albany, NY" ; "J. Champlin of Kingston, NY" ; "William J. Steele of Monticello, GA"</field>
+-    <field name="scopecontent_teim">In Reference To: Business / Financial / Legal / Professional; "Letters in relation to the business of Gould, Banks &amp; Gould" 16 Pages, Unbound</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Samuel Smith Gardiner, Esq., No. 1 / 12 Wall Street, New York, NY&#34; ; &#34;Bate, Esq. Counsellor at Law, Newburgh, NY&#34; </field>
++    <field name="scopecontent_teim">Sent From: &#34;Charles H. Ogden of Morristown, NY&#34; ; &#34;F.B. Irvine&#34; ; &#34;H. Atkinson of Plattsburgh, NY&#34; ; &#34;H. Spooner&#34; ; &#34;James McKown of Albany, NY&#34; ; &#34;J. Champlin of Kingston, NY&#34; ; &#34;William J. Steele of Monticello, GA&#34;</field>
++    <field name="scopecontent_teim">In Reference To: Business / Financial / Legal / Professional; &#34;Letters in relation to the business of Gould, Banks &amp; Gould&#34;
++ 
++16 Pages, Unbound</field>
+     <field name="scopecontent_teim">Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 8" x 10" - 8.25" x 12"</field>
++    <field name="scopecontent_teim">Measurements: 8&#34; x 10&#34; - 8.25&#34; x 12&#34;</field>
+     <field name="dao_teim">Gould, Banks &amp; Gould: Monticello, NY: 1818 March 12 - 1819 July 10</field>
+     <field name="dao_ssm">Gould, Banks &amp; Gould: Monticello, NY: 1818 March 12 - 1819 July 10</field>
+     <field name="ref_ssi">aspace_ref4218</field>
+@@ -47,6 +49,7 @@
+     <field name="location_si">Box: 35, Folder: 8</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+     <field name="series_sim">Series A: Samuel Smith Gardiner</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+     <field name="collection_unitid_ssm">MSS.128</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">The Last Poets Original from the Hit Movie "Right On!;" Juggernaut Records</field>
+-    <field name="unittitle_teim">The Last Poets Original from the Hit Movie "Right On!;" Juggernaut Records</field>
++    <field name="unittitle_ssm">The Last Poets Original from the Hit Movie &#34;Right On!;&#34; Juggernaut Records</field>
++    <field name="unittitle_teim">The Last Poets Original from the Hit Movie &#34;Right On!;&#34; Juggernaut Records</field>
+     <field name="ref_ssi">aspace_ref2105</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,11 +27,12 @@
+     <field name="location_ssm">Box: 40</field>
+     <field name="location_si">Box: 40</field>
+     <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
++    <field name="author_teim">Zachary Dabbs, 2009; collection processed by Brent Phillips, 2009. Media updates by Rhyannon Rodriguez, 2009.</field>
+     <field name="collection_unitid_teim">MSS.128</field>
+     <field name="series_sim">Series XII: Vinyl Sound Recordings</field>
+     <field name="series_sim">Subseries C: Vinyl Recordings - African American</field>
+-    <field name="series_si">Series XII: Vinyl Sound Recordings &gt;&gt; Subseries C: Vinyl Recordings - African American &gt;&gt; The Last Poets Original from the Hit Movie "Right On!;" Juggernaut Records</field>
+-    <field name="heading_ssm">The Last Poets Original from the Hit Movie "Right On!;" Juggernaut Records</field>
++    <field name="series_si">Series XII: Vinyl Sound Recordings &gt;&gt; Subseries C: Vinyl Recordings - African American &gt;&gt; The Last Poets Original from the Hit Movie &#34;Right On!;&#34; Juggernaut Records</field>
++    <field name="heading_ssm">The Last Poets Original from the Hit Movie &#34;Right On!;&#34; Juggernaut Records</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1128</field>
+   </doc>

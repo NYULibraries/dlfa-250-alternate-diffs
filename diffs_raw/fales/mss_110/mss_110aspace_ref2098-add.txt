@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1970/1990</field>
+     <field name="unitdate_normal_sim">1970/1990</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Artist: Carl Apfelschnitt</field>
++    <field name="scopecontent_teim">Artist:  Carl Apfelschnitt</field>
+     <field name="genreform_teim">Paintings (visual works)</field>
+     <field name="genreform_ssm">Paintings (visual works)</field>
+     <field name="ref_ssi">aspace_ref2098</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">object: 110.2.0001</field>
+     <field name="location_si">object: 110.2.0001</field>
+     <field name="collection_teim">Ira Silverberg Papers</field>
++    <field name="author_teim">Matt Moore, Will Culinan and Lisa Darms.</field>
+     <field name="collection_unitid_teim">MSS.110</field>
+     <field name="series_sim">Group 3, Series X: Ephemera</field>
+     <field name="series_si">Group 3, Series X: Ephemera &gt;&gt; &lt;em&gt;Sarcophogus&lt;/em&gt;</field>

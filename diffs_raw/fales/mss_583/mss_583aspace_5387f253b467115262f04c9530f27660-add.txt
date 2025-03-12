@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_583</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Judy Nylon Collection on New York City Tenants' Rights</field>
+-    <field name="collection_ssm">Judy Nylon Collection on New York City Tenants' Rights</field>
++    <field name="collection_sim">Judy Nylon Collection on New York City Tenants&#39; Rights</field>
++    <field name="collection_ssm">Judy Nylon Collection on New York City Tenants&#39; Rights</field>
+     <field name="collection_unitid_ssm">MSS.583</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Legal Correspondence and Retainer</field>
+@@ -23,7 +23,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 1, Folder: 5-6</field>
+     <field name="location_si">Box: 1, Folder: 5-6</field>
+-    <field name="collection_teim">Judy Nylon Collection on New York City Tenants' Rights</field>
++    <field name="collection_teim">Judy Nylon Collection on New York City Tenants&#39; Rights</field>
++    <field name="author_teim">Stacey Flatt</field>
+     <field name="collection_unitid_teim">MSS.583</field>
+     <field name="series_si">Legal Correspondence and Retainer</field>
+     <field name="heading_ssm">Legal Correspondence and Retainer</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1974/1977</field>
+     <field name="unitdate_normal_sim">1974/1977</field>
+     <field name="unitdate_inclusive_teim">1974-1977, undated</field>
+-    <field name="scopecontent_teim">This subseries includes articles written by Berkowitz for Rutgers' campus newspaper, The Daily Targum; student films he produced; financial aid documents; and a poster for a film panel in which he participated.</field>
++    <field name="scopecontent_teim">This subseries includes articles written by Berkowitz for Rutgers&#39; campus newspaper, The Daily Targum; student films he produced; financial aid documents; and a poster for a film panel in which he participated.</field>
+     <field name="ref_ssi">aspace_892577ba690e3c15dc3cccb917ec693a</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,6 +27,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Richard Berkowitz Papers</field>
++    <field name="author_teim">Megan O&#39;Shea</field>
+     <field name="collection_unitid_teim">MSS.421</field>
+     <field name="series_sim">Series II. Education</field>
+     <field name="series_si">Series II. Education &gt;&gt; Subseries II.A. Rutgers University</field>

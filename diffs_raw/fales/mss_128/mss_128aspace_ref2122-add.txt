@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Subseries E: Vinyl Recordings - Allen Ginsberg</field>
+     <field name="unittitle_teim">Subseries E: Vinyl Recordings - Allen Ginsberg</field>
+-    <field name="scopecontent_teim">This group of Allen Ginsberg recordings was purchased at an October 1999 Sotheby's auction by Bob Holman.</field>
++    <field name="scopecontent_teim">This group of Allen Ginsberg recordings was purchased at an October 1999 Sotheby&#39;s auction by Bob Holman.</field>
+     <field name="ref_ssi">aspace_ref2122</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
++    <field name="author_teim">Zachary Dabbs, 2009; collection processed by Brent Phillips, 2009. Media updates by Rhyannon Rodriguez, 2009.</field>
+     <field name="collection_unitid_teim">MSS.128</field>
+     <field name="series_sim">Series XII: Vinyl Sound Recordings</field>
+     <field name="series_si">Series XII: Vinyl Sound Recordings &gt;&gt; Subseries E: Vinyl Recordings - Allen Ginsberg</field>

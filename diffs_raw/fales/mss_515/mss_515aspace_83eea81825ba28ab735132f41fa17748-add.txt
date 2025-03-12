@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Administrative/Human Resources, NYFA Learning, "Make Your Life Living Campaign"</field>
+-    <field name="unittitle_teim">Administrative/Human Resources, NYFA Learning, "Make Your Life Living Campaign"</field>
++    <field name="unittitle_ssm">Administrative/Human Resources, NYFA Learning, &#34;Make Your Life Living Campaign&#34;</field>
++    <field name="unittitle_teim">Administrative/Human Resources, NYFA Learning, &#34;Make Your Life Living Campaign&#34;</field>
+     <field name="unitdate_normal_ssm">2007/2009</field>
+     <field name="unitdate_normal_teim">2007/2009</field>
+     <field name="unitdate_normal_sim">2007/2009</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 138, Folder: 46</field>
+     <field name="location_si">Box: 138, Folder: 46</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series I. Administrative and Human Resources Records</field>
+-    <field name="series_si">Series I. Administrative and Human Resources Records &gt;&gt; Administrative/Human Resources, NYFA Learning, "Make Your Life Living Campaign"</field>
+-    <field name="heading_ssm">Administrative/Human Resources, NYFA Learning, "Make Your Life Living Campaign"</field>
++    <field name="series_si">Series I. Administrative and Human Resources Records &gt;&gt; Administrative/Human Resources, NYFA Learning, &#34;Make Your Life Living Campaign&#34;</field>
++    <field name="heading_ssm">Administrative/Human Resources, NYFA Learning, &#34;Make Your Life Living Campaign&#34;</field>
+     <field name="unitdate_start_sim">2007</field>
+     <field name="unitdate_start_ssm">2007</field>
+     <field name="unitdate_start_si">2007</field>

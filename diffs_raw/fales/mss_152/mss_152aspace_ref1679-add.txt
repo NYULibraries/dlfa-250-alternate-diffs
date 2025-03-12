@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1659</field>
+     <field name="parent_ssm">aspace_ref1660</field>
+     <field name="parent_unittitles_ssm">Series VIII: Other Writing and Projects</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Richard Foreman's Manuscripts</field>
++    <field name="parent_unittitles_ssm">Subseries A: Richard Foreman&amp;#39;s Manuscripts</field>
+     <field name="parent_unittitles_teim">Series VIII: Other Writing and Projects</field>
+-    <field name="parent_unittitles_teim">Subseries A: Richard Foreman's Manuscripts</field>
++    <field name="parent_unittitles_teim">Subseries A: Richard Foreman&amp;#39;s Manuscripts</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Richard Foreman and Kate Manheim Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Richard Foreman and Kate Manheim Papers</field>
+     <field name="collection_unitid_ssm">MSS.152</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">untitled manuscript, opens "The first thing to say is that I believe in the effecacy of false starts."</field>
+-    <field name="unittitle_teim">untitled manuscript, opens "The first thing to say is that I believe in the effecacy of false starts."</field>
++    <field name="unittitle_ssm">untitled manuscript, opens &#34;The first thing to say is that I believe in the effecacy of false starts.&#34;</field>
++    <field name="unittitle_teim">untitled manuscript, opens &#34;The first thing to say is that I believe in the effecacy of false starts.&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/474936</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/474936</field>
+     <field name="unitdate_teim">undated</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 34, Folder: 1683B</field>
+     <field name="location_si">Box: 34, Folder: 1683B</field>
+     <field name="collection_teim">Richard Foreman and Kate Manheim Papers</field>
++    <field name="author_teim">Jessica Shimmin, 2006; Media updated by Luke Martin and Brent Phillips, 2008.</field>
+     <field name="collection_unitid_teim">MSS.152</field>
+     <field name="series_sim">Series VIII: Other Writing and Projects</field>
+-    <field name="series_sim">Subseries A: Richard Foreman's Manuscripts</field>
+-    <field name="series_si">Series VIII: Other Writing and Projects &gt;&gt; Subseries A: Richard Foreman's Manuscripts &gt;&gt; untitled manuscript, opens "The first thing to say is that I believe in the effecacy of false starts."</field>
+-    <field name="heading_ssm">untitled manuscript, opens "The first thing to say is that I believe in the effecacy of false starts."</field>
++    <field name="series_sim">Subseries A: Richard Foreman&amp;#39;s Manuscripts</field>
++    <field name="series_si">Series VIII: Other Writing and Projects &gt;&gt; Subseries A: Richard Foreman&#39;s Manuscripts &gt;&gt; untitled manuscript, opens &#34;The first thing to say is that I believe in the effecacy of false starts.&#34;</field>
++    <field name="heading_ssm">untitled manuscript, opens &#34;The first thing to say is that I believe in the effecacy of false starts.&#34;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1665</field>

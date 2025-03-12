@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Coca Crystal Video Recordings and Papers</field>
+     <field name="collection_unitid_ssm">MSS.468</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul"</field>
+-    <field name="unittitle_teim">Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul"</field>
++    <field name="unittitle_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;</field>
++    <field name="unittitle_teim">Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;</field>
+     <field name="unitid_teim">cuid30026</field>
+     <field name="unitid_ssm">cuid30026</field>
+     <field name="unitdate_normal_ssm">1970/2000</field>
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_sim">1970/2000</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+     <field name="phystech_teim">Duration: 60 minutes</field>
+-    <field name="dao_teim">Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul": Undated</field>
+-    <field name="dao_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul": Undated</field>
++    <field name="dao_teim">Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;: Undated</field>
++    <field name="dao_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;: Undated</field>
+     <field name="ref_ssi">aspace_dafdf1f34d1a1a97ce513e57c24bc49e</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,10 +34,11 @@
+     <field name="location_si">Box: 31, U-matic: 468_441</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Coca Crystal Video Recordings and Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.468</field>
+     <field name="series_sim">Series III. Biographical and Promotional Materials</field>
+-    <field name="series_si">Series III. Biographical and Promotional Materials &gt;&gt; Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul"</field>
+-    <field name="heading_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov "Eating Raoul"</field>
++    <field name="series_si">Series III. Biographical and Promotional Materials &gt;&gt; Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;</field>
++    <field name="heading_ssm">Refuge Temple Night Service Tape #3 / Mary Woronov &#34;Eating Raoul&#34;</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>
+     <field name="unitdate_start_si">1970</field>

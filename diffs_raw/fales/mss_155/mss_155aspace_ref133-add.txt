@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Jaime Davidovich Collection</field>
+     <field name="collection_unitid_ssm">MSS.155</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Fundacion Banco Patricios, artist's notes.</field>
+-    <field name="unittitle_teim">Fundacion Banco Patricios, artist's notes.</field>
++    <field name="unittitle_ssm">Fundacion Banco Patricios, artist&#39;s notes.</field>
++    <field name="unittitle_teim">Fundacion Banco Patricios, artist&#39;s notes.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/478478</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/478478</field>
+     <field name="unitdate_teim">1991-1992</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 3, Folder: 119</field>
+     <field name="location_si">Box: 3, Folder: 119</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series I: Jaime Davidovich Art Files</field>
+     <field name="series_sim">Subseries B: Production Materials</field>
+-    <field name="series_si">Series I: Jaime Davidovich Art Files &gt;&gt; Subseries B: Production Materials &gt;&gt; Fundacion Banco Patricios, artist's notes.</field>
+-    <field name="heading_ssm">Fundacion Banco Patricios, artist's notes.</field>
++    <field name="series_si">Series I: Jaime Davidovich Art Files &gt;&gt; Subseries B: Production Materials &gt;&gt; Fundacion Banco Patricios, artist&#39;s notes.</field>
++    <field name="heading_ssm">Fundacion Banco Patricios, artist&#39;s notes.</field>
+     <field name="unitdate_ssm">1991-1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">123</field>

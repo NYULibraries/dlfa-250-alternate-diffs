@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,12 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Palfrey, Anna R: England &amp; Massachusetts</field>
+-    <field name="unittitle_teim">Palfrey, Anna R: England &amp; Massachusetts</field>
++    <field name="unittitle_ssm">Palfrey, Anna R: England &amp; Massachusetts
++
++</field>
++    <field name="unittitle_teim">Palfrey, Anna R: England &amp; Massachusetts
++
++</field>
+     <field name="unitid_teim">cuid3643</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/511615</field>
+     <field name="unitid_ssm">cuid3643</field>
+@@ -30,12 +34,12 @@
+     <field name="unitdate_normal_sim">1871/1886</field>
+     <field name="unitdate_inclusive_teim">1871 August 5; 1886 September 4; [no year April 10, July 13 &amp; 31 &amp; August 21, circa 1871 - 1886</field>
+     <field name="scopecontent_teim">6 Letters, 6 Envelopes with Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "Mrs. [Eben Norton] Horsford," [Phoebe Dayton Gardiner], 27 Craigie Street, Cambridge, MA," "Fifth Avenue Hotel, New York, NY," "Professor [Eben Norton] Horsford, for Mrs. Horsford, Shelter Island, NY"</field>
+-    <field name="scopecontent_teim">Sent From: "A.R. Palfrey / Anna R.P. / [Anna R. Palfrey], Cambridge, MA," "London, England," "Nahant, MA"</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Mrs. [Eben Norton] Horsford,&#34; [Phoebe Dayton Gardiner], 27 Craigie Street, Cambridge, MA,&#34; &#34;Fifth Avenue Hotel, New York, NY,&#34; &#34;Professor [Eben Norton] Horsford, for Mrs. Horsford, Shelter Island, NY&#34;</field>
++    <field name="scopecontent_teim">Sent From: &#34;A.R. Palfrey / Anna R.P. / [Anna R. Palfrey], Cambridge, MA,&#34; &#34;London, England,&#34; &#34;Nahant, MA&#34;</field>
+     <field name="scopecontent_teim">In Reference To: Family / Friendship / Personal / Social / Travel</field>
+     <field name="scopecontent_teim">32 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 4.5" x 3.5" - 5.25" x 8"</field>
++    <field name="scopecontent_teim">Measurements: 4.5&#34; x 3.5&#34; - 5.25&#34; x 8&#34; </field>
+     <field name="dao_teim">Palfrey, Anna R: England &amp; Massachusetts</field>
+     <field name="dao_teim">: 1871 August 5; 1886 September 4; [no year April 10, July 13 &amp; 31 &amp; August 21, circa 1871 - 1886</field>
+     <field name="dao_ssm">Palfrey, Anna R: England &amp; Massachusetts</field>
+@@ -50,12 +54,17 @@
+     <field name="location_si">Box: 95, Folder: 1</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series C: Phoebe Dayton Gardiner Horsford</field>
+     <field name="series_sim">Subseries 1: Correspondence</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Palfrey, Anna R: England &amp; Massachusetts</field>
+-    <field name="heading_ssm">Palfrey, Anna R: England &amp; Massachusetts</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Palfrey, Anna R: England &amp; Massachusetts
++
++</field>
++    <field name="heading_ssm">Palfrey, Anna R: England &amp; Massachusetts
++
++</field>
+     <field name="unitdate_start_sim">1871</field>
+     <field name="unitdate_start_ssm">1871</field>
+     <field name="unitdate_start_si">1871</field>

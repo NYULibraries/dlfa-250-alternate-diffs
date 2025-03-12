@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1976/1981</field>
+     <field name="unitdate_normal_sim">1976/1981</field>
+     <field name="unitdate_inclusive_teim">1976-1981</field>
+-    <field name="scopecontent_teim">This series documents Group Materials early formations and the activities surrounding Group Material's exhibition space at 244 East 13th Street.</field>
++    <field name="scopecontent_teim">This series documents Group Materials early formations and the activities surrounding Group Material&#39;s exhibition space at 244 East 13th Street.</field>
+     <field name="ref_ssi">aspace_ref387</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Group Material Archive</field>
++    <field name="author_teim">Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.215</field>
+     <field name="series_sim">Series I: Project Files</field>
+     <field name="series_si">Series I: Project Files &gt;&gt; Subseries A: Projects at Group Material, 244 East 13th Street</field>

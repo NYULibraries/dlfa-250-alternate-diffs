@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Vernon Robins and "Uncle Carl"</field>
+-    <field name="unittitle_teim">Vernon Robins and "Uncle Carl"</field>
++    <field name="unittitle_ssm">Vernon Robins and &#34;Uncle Carl&#34;</field>
++    <field name="unittitle_teim">Vernon Robins and &#34;Uncle Carl&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/389092</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/389092</field>
+     <field name="ref_ssi">aspace_ref2314</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">album: 211, Photograph: 51</field>
+     <field name="location_si">album: 211, Photograph: 51</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Series IX: Photographic Material</field>
+     <field name="series_sim">Subseries C: Robins Family</field>
+-    <field name="series_si">Series IX: Photographic Material &gt;&gt; Subseries C: Robins Family &gt;&gt; Vernon Robins and "Uncle Carl"</field>
+-    <field name="heading_ssm">Vernon Robins and "Uncle Carl"</field>
++    <field name="series_si">Series IX: Photographic Material &gt;&gt; Subseries C: Robins Family &gt;&gt; Vernon Robins and &#34;Uncle Carl&#34;</field>
++    <field name="heading_ssm">Vernon Robins and &#34;Uncle Carl&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2055</field>
+   </doc>

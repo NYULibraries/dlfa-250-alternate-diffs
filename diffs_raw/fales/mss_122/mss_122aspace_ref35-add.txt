@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1973/1985</field>
+     <field name="unitdate_normal_sim">1973/1985</field>
+     <field name="unitdate_inclusive_teim">1973-1985</field>
+-    <field name="scopecontent_teim">Series VI contains Foreman's collection of video documentation of her dance performances and other artworks and exhibitions.</field>
++    <field name="scopecontent_teim">Series VI contains Foreman&#39;s collection of video documentation of her dance performances and other artworks and exhibitions.</field>
+     <field name="ref_ssi">aspace_ref35</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Laura Foreman Papers</field>
++    <field name="author_teim">Nicholas Martin, 2010.</field>
+     <field name="collection_unitid_teim">MSS.122</field>
+     <field name="series_si">Series VI: Video recordings</field>
+     <field name="heading_ssm">Series VI: Video recordings</field>

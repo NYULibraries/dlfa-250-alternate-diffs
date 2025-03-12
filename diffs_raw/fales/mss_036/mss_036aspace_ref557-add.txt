@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Coleman Dowell Papers</field>
+     <field name="collection_unitid_ssm">MSS.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Slaff, Bertram: The Snake's House</field>
+-    <field name="unittitle_teim">Slaff, Bertram: The Snake's House</field>
++    <field name="unittitle_ssm">Slaff, Bertram: The Snake&#39;s House</field>
++    <field name="unittitle_teim">Slaff, Bertram: The Snake&#39;s House</field>
+     <field name="unitdate_normal_ssm">1996/1996</field>
+     <field name="unitdate_normal_teim">1996/1996</field>
+     <field name="unitdate_normal_sim">1996/1996</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2008.IV-V.2, Folder: 3</field>
+     <field name="location_si">Box: 2008.IV-V.2, Folder: 3</field>
+     <field name="collection_teim">Coleman Dowell Papers</field>
++    <field name="author_teim">Fales staff.</field>
+     <field name="collection_unitid_teim">MSS.036</field>
+     <field name="series_sim">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>
+-    <field name="series_si">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials &gt;&gt; Slaff, Bertram: The Snake's House</field>
+-    <field name="heading_ssm">Slaff, Bertram: The Snake's House</field>
++    <field name="series_si">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials &gt;&gt; Slaff, Bertram: The Snake&#39;s House</field>
++    <field name="heading_ssm">Slaff, Bertram: The Snake&#39;s House</field>
+     <field name="unitdate_start_sim">1996</field>
+     <field name="unitdate_start_ssm">1996</field>
+     <field name="unitdate_start_si">1996</field>

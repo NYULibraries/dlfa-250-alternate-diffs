@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/462356</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/462356</field>
+     <field name="unitdate_teim">1985</field>
+-    <field name="phystech_teim">Videorecording, 3/4" Umatic, UCA 20s videocassette.</field>
++    <field name="phystech_teim">Videorecording, 3/4&#34; Umatic, UCA 20s videocassette.</field>
+     <field name="ref_ssi">aspace_ref2173</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 25A, Folder: ID: 135.0266</field>
+     <field name="location_si">Box: 25A, Folder: ID: 135.0266</field>
+     <field name="collection_teim">Frank Moore Papers</field>
++    <field name="author_teim">Tania Friedel (August 2003); Jessica Shimmin (May-December 2004); Luke Martin (2008), Brent Phillips (2008) updated by Zachary Dabbs (2009)</field>
+     <field name="collection_unitid_teim">MSS.135</field>
+     <field name="series_sim">Series VII: Additional Moving Image and Sound Recordings</field>
+     <field name="series_sim">Subseries B: Video and Sound Recordings and Motion Picture Film - Originals</field>

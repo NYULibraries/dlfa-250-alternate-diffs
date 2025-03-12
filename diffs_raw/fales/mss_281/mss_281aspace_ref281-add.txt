@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1983/1999</field>
+     <field name="unitdate_normal_sim">1983/1999</field>
+     <field name="unitdate_inclusive_teim">1983-1999</field>
+-    <field name="scopecontent_teim">Subseries comprises promotional videocassettes and videocassettes of Lukins's television appearances.</field>
++    <field name="scopecontent_teim">Subseries comprises promotional videocassettes and videocassettes of Lukins&#39;s television appearances.</field>
+     <field name="ref_ssi">aspace_ref281</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Sheila Lukins Papers</field>
++    <field name="author_teim">Lawrence Giffin and Caitlyn Hain, 2011.</field>
+     <field name="collection_unitid_teim">MSS.281</field>
+     <field name="series_sim">Series III: Media</field>
+     <field name="series_si">Series III: Media &gt;&gt; Subseries C: Television and Promotional Appearances</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1998/1998</field>
+     <field name="unitdate_normal_sim">1998/1998</field>
+     <field name="unitdate_inclusive_teim">1998, undated</field>
+-    <field name="scopecontent_teim">Stance &amp; Lavender Dress, "Plexiglass Playmate", De Frosch, LR Singing, Dark Spring.</field>
++    <field name="scopecontent_teim">Stance &amp; Lavender Dress, &#34;Plexiglass Playmate&#34;, De Frosch, LR Singing, Dark Spring.</field>
+     <field name="ref_ssi">aspace_ref7181</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 69, Folder: 1</field>
+     <field name="location_si">Box: 69, Folder: 1</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series V: Source Material</field>
+     <field name="series_sim">Subseries A: Source File</field>

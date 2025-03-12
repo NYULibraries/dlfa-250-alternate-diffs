@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Accretion 2016 - Series XII</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+-    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_sim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="collection_ssm">Les Dames d&#39;Escoffier New York Archive</field>
+     <field name="collection_unitid_ssm">MSS.150</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Old LDEI Directories</field>
+@@ -18,7 +18,7 @@
+     <field name="unitdate_normal_ssm">1996/2006</field>
+     <field name="unitdate_normal_teim">1996/2006</field>
+     <field name="unitdate_normal_sim">1996/2006</field>
+-    <field name="unitdate_inclusive_teim">1996, 2006</field>
++    <field name="unitdate_inclusive_teim">1996, 2006 </field>
+     <field name="ref_ssi">aspace_ref469</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -27,7 +27,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 28, Folder: 9</field>
+     <field name="location_si">Box: 28, Folder: 9</field>
+-    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_teim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="author_teim">Gabriella Ekman</field>
+     <field name="collection_unitid_teim">MSS.150</field>
+     <field name="series_sim">Accretion 2016 - Series XII</field>
+     <field name="series_si">Accretion 2016 - Series XII &gt;&gt; Old LDEI Directories</field>
+@@ -38,7 +39,7 @@
+     <field name="unitdate_end_sim">2006</field>
+     <field name="unitdate_end_ssm">2006</field>
+     <field name="unitdate_end_si">2006</field>
+-    <field name="unitdate_ssm">Inclusive, 1996, 2006</field>
++    <field name="unitdate_ssm">Inclusive, 1996, 2006 </field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">425</field>

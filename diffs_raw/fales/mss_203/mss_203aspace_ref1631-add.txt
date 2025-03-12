@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref1630</field>
+     <field name="parent_ssm">aspace_ref24</field>
+     <field name="parent_ssm">aspace_ref1630</field>
+-    <field name="parent_unittitles_ssm">Series VIII: Film</field>
++    <field name="parent_unittitles_ssm">Series VIII: Film&amp;#xA;</field>
+     <field name="parent_unittitles_ssm">Series VIII, Subseries C: Film Documentation</field>
+-    <field name="parent_unittitles_teim">Series VIII: Film</field>
++    <field name="parent_unittitles_teim">Series VIII: Film&amp;#xA;</field>
+     <field name="parent_unittitles_teim">Series VIII, Subseries C: Film Documentation</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -30,10 +30,12 @@
+     <field name="location_ssm">Box: 44</field>
+     <field name="location_si">Box: 44</field>
+     <field name="collection_teim">Amos Poe Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2009 - 2010. Finding aid completed by Ashley Todd, 2010</field>
+     <field name="collection_unitid_teim">MSS.203</field>
+-    <field name="series_sim">Series VIII: Film</field>
++    <field name="series_sim">Series VIII: Film&amp;#xA;</field>
+     <field name="series_sim">Series VIII, Subseries C: Film Documentation</field>
+-    <field name="series_si">Series VIII: Film &gt;&gt; Series VIII, Subseries C: Film Documentation &gt;&gt; Laboratory Forms</field>
++    <field name="series_si">Series VIII: Film
++ &gt;&gt; Series VIII, Subseries C: Film Documentation &gt;&gt; Laboratory Forms</field>
+     <field name="heading_ssm">Laboratory Forms</field>
+     <field name="unitdate_ssm">1975 - 1978, 1990 - 1991, 2009</field>
+     <field name="date_range_sim">undated &amp; other</field>

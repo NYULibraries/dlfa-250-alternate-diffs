@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_397</field>
+     <field name="parent_ssi">aspace_ref5</field>
+     <field name="parent_ssm">aspace_ref5</field>
+-    <field name="parent_unittitles_ssm">Series V: Press &amp; Ephemera</field>
+-    <field name="parent_unittitles_teim">Series V: Press &amp; Ephemera</field>
++    <field name="parent_unittitles_ssm">Series V: Press &amp;amp; Ephemera</field>
++    <field name="parent_unittitles_teim">Series V: Press &amp;amp; Ephemera</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Chloe Faith Dzubilo Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Chloe Faith Dzubilo Papers</field>
+     <field name="collection_unitid_ssm">MSS.397</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Tanyth Berkeley "Love Parade" Invitation [from Tanyth]</field>
+-    <field name="unittitle_teim">Tanyth Berkeley "Love Parade" Invitation [from Tanyth]</field>
++    <field name="unittitle_ssm">Tanyth Berkeley &#34;Love Parade&#34; Invitation [from Tanyth]</field>
++    <field name="unittitle_teim">Tanyth Berkeley &#34;Love Parade&#34; Invitation [from Tanyth]</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/582150</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/582150</field>
+     <field name="unitdate_teim">2005</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 2, Folder: 33</field>
+     <field name="location_si">Box: 2, Folder: 33</field>
+     <field name="collection_teim">Chloe Faith Dzubilo Papers</field>
++    <field name="author_teim">Sana Masood, 2015.</field>
+     <field name="collection_unitid_teim">MSS.397</field>
+-    <field name="series_sim">Series V: Press &amp; Ephemera</field>
+-    <field name="series_si">Series V: Press &amp; Ephemera &gt;&gt; Tanyth Berkeley "Love Parade" Invitation [from Tanyth]</field>
+-    <field name="heading_ssm">Tanyth Berkeley "Love Parade" Invitation [from Tanyth]</field>
++    <field name="series_sim">Series V: Press &amp;amp; Ephemera</field>
++    <field name="series_si">Series V: Press &amp; Ephemera &gt;&gt; Tanyth Berkeley &#34;Love Parade&#34; Invitation [from Tanyth]</field>
++    <field name="heading_ssm">Tanyth Berkeley &#34;Love Parade&#34; Invitation [from Tanyth]</field>
+     <field name="unitdate_ssm">2005</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">93</field>

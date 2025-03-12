@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">2000/2000</field>
+     <field name="unitdate_normal_sim">2000/2000</field>
+     <field name="unitdate_teim">2000</field>
+-    <field name="scopecontent_teim">An off-air recording of the feature-length documentary "Into the Arms of Strangers: Stories of the Kindertransport" (2000).</field>
++    <field name="scopecontent_teim">An off-air recording of the feature-length documentary &#34;Into the Arms of Strangers: Stories of the Kindertransport&#34; (2000).</field>
+     <field name="phystech_teim">Format: DVD</field>
+     <field name="phystech_teim">TRT: 01:58:00</field>
+     <field name="phystech_teim">Original Format: VHS</field>
+@@ -39,6 +39,7 @@
+     <field name="location_ssm">case: 221.0557</field>
+     <field name="location_si">case: 221.0557</field>
+     <field name="collection_teim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
++    <field name="author_teim">Christine M. Woody; data entry completed by Laura Newsome and Liza Harrell-Edge, 2011.</field>
+     <field name="collection_unitid_teim">MSS.221</field>
+     <field name="series_sim">Series X: Video</field>
+     <field name="series_sim">Subseries A: Access Copies - Video</field>

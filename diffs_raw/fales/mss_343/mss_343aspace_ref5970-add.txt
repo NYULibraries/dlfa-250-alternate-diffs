@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Exit Art Archive</field>
+     <field name="collection_unitid_ssm">MSS.343</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Terrorvision [2004.01]: "Nurit Newman 'Previous Works' "</field>
+-    <field name="unittitle_teim">Terrorvision [2004.01]: "Nurit Newman 'Previous Works' "</field>
++    <field name="unittitle_ssm">Terrorvision [2004.01]: &#34;Nurit Newman &#39;Previous Works&#39; &#34;</field>
++    <field name="unittitle_teim">Terrorvision [2004.01]: &#34;Nurit Newman &#39;Previous Works&#39; &#34;</field>
+     <field name="unitid_teim">cuid19389</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/572855</field>
+     <field name="unitid_ssm">cuid19389</field>
+@@ -22,7 +22,13 @@
+     <field name="unitdate_teim">2003</field>
+     <field name="phystech_teim">Original Format: DVD-R</field>
+     <field name="phystech_teim">TRT: [00:23:00]</field>
+-    <field name="phystech_teim">Track Listing: 1. "Glare" (2003) 2. "Adieu" (2003) 3. "Lore" (2003) 4. "Untitled: Portrait" (2003) 5. "Underneath" (2000) 6. "Beware of the Worms" (2000)</field>
++    <field name="phystech_teim">Track Listing:
++1. &#34;Glare&#34; (2003)
++2. &#34;Adieu&#34; (2003)
++3. &#34;Lore&#34; (2003)
++4. &#34;Untitled: Portrait&#34; (2003)
++5. &#34;Underneath&#34; (2000)
++6. &#34;Beware of the Worms&#34; (2000)</field>
+     <field name="ref_ssi">aspace_ref5970</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,10 +38,11 @@
+     <field name="location_ssm">Box: 456</field>
+     <field name="location_si">Box: 456</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+-    <field name="series_si">Series XIV: Video &gt;&gt; Terrorvision [2004.01]: "Nurit Newman 'Previous Works' "</field>
+-    <field name="heading_ssm">Terrorvision [2004.01]: "Nurit Newman 'Previous Works' "</field>
++    <field name="series_si">Series XIV: Video &gt;&gt; Terrorvision [2004.01]: &#34;Nurit Newman &#39;Previous Works&#39; &#34;</field>
++    <field name="heading_ssm">Terrorvision [2004.01]: &#34;Nurit Newman &#39;Previous Works&#39; &#34;</field>
+     <field name="unitdate_ssm">2003</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">9487</field>

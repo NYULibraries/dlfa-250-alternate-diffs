@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Coleman Dowell Papers</field>
+     <field name="collection_unitid_ssm">MSS.036</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photocopies - Photos of Dowell's Ancestors</field>
+-    <field name="unittitle_teim">Photocopies - Photos of Dowell's Ancestors</field>
++    <field name="unittitle_ssm">Photocopies - Photos of Dowell&#39;s Ancestors</field>
++    <field name="unittitle_teim">Photocopies - Photos of Dowell&#39;s Ancestors</field>
+     <field name="unitdate_normal_ssm">1999/1999</field>
+     <field name="unitdate_normal_teim">1999/1999</field>
+     <field name="unitdate_normal_sim">1999/1999</field>
+@@ -28,10 +28,11 @@
+     <field name="location_ssm">Box: 2008.I-IV.1, Folder: 57</field>
+     <field name="location_si">Box: 2008.I-IV.1, Folder: 57</field>
+     <field name="collection_teim">Coleman Dowell Papers</field>
++    <field name="author_teim">Fales staff.</field>
+     <field name="collection_unitid_teim">MSS.036</field>
+     <field name="series_sim">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials</field>
+-    <field name="series_si">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials &gt;&gt; Photocopies - Photos of Dowell's Ancestors</field>
+-    <field name="heading_ssm">Photocopies - Photos of Dowell's Ancestors</field>
++    <field name="series_si">Accretion 2008 - Series IV: Works by Others and Miscellaneous Materials &gt;&gt; Photocopies - Photos of Dowell&#39;s Ancestors</field>
++    <field name="heading_ssm">Photocopies - Photos of Dowell&#39;s Ancestors</field>
+     <field name="unitdate_start_sim">1999</field>
+     <field name="unitdate_start_ssm">1999</field>
+     <field name="unitdate_start_si">1999</field>

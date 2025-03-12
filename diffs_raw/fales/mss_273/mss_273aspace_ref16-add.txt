@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,10 +6,10 @@
+     <field name="parent_ssi">aspace_ref8</field>
+     <field name="parent_ssm">aspace_ref2</field>
+     <field name="parent_ssm">aspace_ref8</field>
+-    <field name="parent_unittitles_ssm">Series II: Personal</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Visual Art</field>
+-    <field name="parent_unittitles_teim">Series II: Personal</field>
+-    <field name="parent_unittitles_teim">Subseries A: Visual Art</field>
++    <field name="parent_unittitles_ssm">Series II: Personal </field>
++    <field name="parent_unittitles_ssm">Subseries A: Visual Art&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series II: Personal </field>
++    <field name="parent_unittitles_teim">Subseries A: Visual Art&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Becca Albee Riot Grrrl Collection</field>
+@@ -28,10 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 7</field>
+     <field name="location_si">Box: 1, Folder: 7</field>
+     <field name="collection_teim">Becca Albee Riot Grrrl Collection</field>
++    <field name="author_teim">Rosemary K. J. Davis</field>
+     <field name="collection_unitid_teim">MSS.273</field>
+-    <field name="series_sim">Series II: Personal</field>
+-    <field name="series_sim">Subseries A: Visual Art</field>
+-    <field name="series_si">Series II: Personal &gt;&gt; Subseries A: Visual Art &gt;&gt; Photos, Press Releases, and &lt;em&gt;Compact&lt;/em&gt;</field>
++    <field name="series_sim">Series II: Personal </field>
++    <field name="series_sim">Subseries A: Visual Art&amp;#xA;</field>
++    <field name="series_si">Series II: Personal  &gt;&gt; Subseries A: Visual Art
++ &gt;&gt; Photos, Press Releases, and &lt;em&gt;Compact&lt;/em&gt;</field>
+     <field name="heading_ssm">Photos, Press Releases, and Compact</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

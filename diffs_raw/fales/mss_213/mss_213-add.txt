@@ -1,0 +1,69 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,8 +7,8 @@
+     <field name="unittitle_ssm">Peter Dougherty Collection</field>
+     <field name="unitid_teim">MSS.213</field>
+     <field name="unitid_ssm">MSS.213</field>
+-    <field name="abstract_teim">Peter Dougherty is a marketing professional with extensive international experience, including working with MTV from its early days. The Peter Dougherty Collection documents American and British punk rock and hip hop, in addition to Dougherty's work with MTV, and includes audiovisual materials, ephemera, flyers, production manuscripts, and promotional materials.</field>
+-    <field name="abstract_ssm">Peter Dougherty is a marketing professional with extensive international experience, including working with MTV from its early days. The Peter Dougherty Collection documents American and British punk rock and hip hop, in addition to Dougherty's work with MTV, and includes audiovisual materials, ephemera, flyers, production manuscripts, and promotional materials.</field>
++    <field name="abstract_teim">Peter Dougherty is a marketing professional with extensive international experience, including working with MTV from its early days. The Peter Dougherty Collection documents American and British punk rock and hip hop, in addition to Dougherty&#39;s work with MTV, and includes audiovisual materials, ephemera, flyers, production manuscripts, and promotional materials.</field>
++    <field name="abstract_ssm">Peter Dougherty is a marketing professional with extensive international experience, including working with MTV from its early days. The Peter Dougherty Collection documents American and British punk rock and hip hop, in addition to Dougherty&#39;s work with MTV, and includes audiovisual materials, ephemera, flyers, production manuscripts, and promotional materials.</field>
+     <field name="creator_teim">Dougherty, Peter</field>
+     <field name="creator_ssm">Dougherty, Peter</field>
+     <field name="creator_ssm">Dougherty, Peter</field>
+@@ -20,9 +20,12 @@
+     <field name="unitdate_normal_sim">1974/1987</field>
+     <field name="unitdate_bulk_teim">1974-1987</field>
+     <field name="unitdate_inclusive_teim">1965-2001</field>
+-    <field name="scopecontent_teim">The Peter Dougherty Collection preserves audio and video recordings documenting British and American punk rock and hip hop. The collection is largely Dougherty's personal music-related collection, from the years before he became a marketing professional. The collection also preserves marketing literature, business manuals, production manuscripts for artists Beastie Boys and Run-D.M.C., in addition to awards programs that document Dougherty's work with MTV Europe. This acquisition also includes Dougherty's personal collection of New York and London art, music, and film events ephemera and promotional materials from the late 1970s through the 1990s.</field>
+-    <field name="bioghist_teim">Peter Dougherty was born in Queens, NY in 1955, and attended his first rock concert at Shea Stadium during the summer of 1966. After witnessing the madness of The Beatles he then saw Simon and Garfunkel the following summer, and from there, Janis Joplin, The Byrds, Sly and The Family Stone,The Allman Brothers Band, etc. By the mid 1970s, once he was old enough to gain admittance, he starting attending clubs such as Max's Kansas City, CBGB, and Club 82, and began recording these shows.</field>
+-    <field name="bioghist_teim">He later began working with his brother Paul and other friends videotaping bands, and as an assistant in the first 'video lounges' at Peppermint Lounge and Danceteria. In 1982 he started as a production assistant in MTV's creative/promotional department, and remained there until 1990 when he moved to London to become Creative Director of MTV Europe.</field>
++    <field name="scopecontent_teim">The Peter Dougherty Collection preserves audio and video recordings documenting British and American punk rock 
++and hip hop. The collection is largely Dougherty&#39;s personal music-related collection, from the years before he became a marketing professional. The collection also preserves marketing literature, business manuals, production manuscripts for artists Beastie Boys and Run-D.M.C., in addition to awards programs that document Dougherty&#39;s work with MTV Europe. This acquisition also includes Dougherty&#39;s personal collection of New York and London art, music, and film events ephemera and promotional materials from the late 1970s through the 1990s.</field>
++    <field name="bioghist_teim">Peter Dougherty was born in Queens, NY in 1955, and attended his first rock concert at Shea Stadium during the summer of 1966. After witnessing the madness of The Beatles he then saw Simon and Garfunkel the following summer, and from there, Janis Joplin, The Byrds, Sly and The Family Stone,The Allman Brothers Band, etc.
++By the mid 1970s, once he was old enough to gain admittance, he starting attending clubs such as Max&#39;s Kansas City, CBGB, and Club 82, and began recording these shows.</field>
++    <field name="bioghist_teim">He later began working with his brother Paul and other friends videotaping bands, and as an assistant in the 
++first &#39;video lounges&#39; at Peppermint Lounge and Danceteria. In 1982 he started as a production assistant in MTV&#39;s creative/promotional department, and remained there until 1990 when he moved to London to become Creative Director of MTV Europe.</field>
+     <field name="acqinfo_teim">The collection was acquired by the Fales Library from Peter Dougherty in 2008.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">Beastie Boys</field>
+@@ -67,13 +70,13 @@
+     <field name="subject_teim">Graffiti artists</field>
+     <field name="subject_teim">Art -- Exhibitions.</field>
+     <field name="subject_teim">Musicians -- 1990-2000</field>
+-    <field name="subject_teim">Music -- Competitions -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Music -- Societies, etc. -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Rap (Music) -- History and criticism.</field>
+-    <field name="subject_teim">Punk culture -- New York (State) -- New York</field>
+-    <field name="subject_teim">Punk rock music.</field>
+-    <field name="subject_teim">Music business -- New York</field>
+-    <field name="subject_teim">Music -- Social aspects.</field>
++    <field name="subject_teim">Music --Competitions --New York (State) --New York.</field>
++    <field name="subject_teim">Music --Societies, etc. --New York (State) --New York.</field>
++    <field name="subject_teim">Rap (Music) -- History and criticism.</field>
++    <field name="subject_teim">Punk culture -- New York (State) -- New York</field>
++    <field name="subject_teim">Punk rock music.</field>
++    <field name="subject_teim">Music business --New York</field>
++    <field name="subject_teim">Music --Social aspects.</field>
+     <field name="subject_teim">Rock music -- United States -- 1991-2000</field>
+     <field name="subject_teim">Alternative rock music.</field>
+     <field name="subject_teim">Graffiti artists</field>
+@@ -119,13 +122,13 @@
+     <field name="name_teim">Hell, Richard</field>
+     <field name="name_teim">Smith, Patti</field>
+     <field name="subject_sim">Musicians -- 1990-2000</field>
+-    <field name="subject_sim">Music -- Competitions -- New York (State) -- New York.</field>
+-    <field name="subject_sim">Music -- Societies, etc. -- New York (State) -- New York.</field>
++    <field name="subject_sim">Music --Competitions --New York (State) --New York.</field>
++    <field name="subject_sim">Music --Societies, etc. --New York (State) --New York.</field>
+     <field name="subject_sim">Rap (Music) -- History and criticism.</field>
+     <field name="subject_sim">Punk culture -- New York (State) -- New York</field>
+     <field name="subject_sim">Punk rock music.</field>
+-    <field name="subject_sim">Music business -- New York</field>
+-    <field name="subject_sim">Music -- Social aspects.</field>
++    <field name="subject_sim">Music business --New York</field>
++    <field name="subject_sim">Music --Social aspects.</field>
+     <field name="subject_sim">Rock music -- United States -- 1991-2000</field>
+     <field name="subject_sim">Alternative rock music.</field>
+     <field name="subject_sim">Graffiti artists</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/547909</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547909</field>
+     <field name="unitdate_teim">1982-84, 88, undated</field>
+-    <field name="scopecontent_teim">E. 13th St. Jazz Band, Including performance at the"Mudd Club, shots of members, i.e. Dave Levy, Phoebe Legere.</field>
++    <field name="scopecontent_teim">E. 13th St. Jazz Band, Including performance at the&#34;Mudd Club, shots of members, i.e. Dave Levy, Phoebe Legere.</field>
+     <field name="ref_ssi">aspace_ref4887</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">binder: A15</field>
+     <field name="location_si">binder: A15</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series III: Photographic Material</field>
+     <field name="series_sim">Subseries A: Slide Cases</field>

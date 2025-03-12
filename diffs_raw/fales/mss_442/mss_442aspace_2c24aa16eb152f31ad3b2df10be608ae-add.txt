@@ -1,0 +1,49 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Chris Kraus Papers</field>
+     <field name="collection_unitid_ssm">MSS.442</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Foolproof Illusion&lt;/em&gt; -- "Artaud Dungeon Scenes" [1 of 2] -- Digitized Video</field>
+-    <field name="unittitle_teim">Foolproof Illusion -- "Artaud Dungeon Scenes" [1 of 2] -- Digitized Video</field>
++    <field name="unittitle_ssm">&lt;em&gt;Foolproof Illusion&lt;/em&gt; -- &#34;Artaud Dungeon Scenes&#34;  [1 of 2] -- Digitized Video</field>
++    <field name="unittitle_teim">Foolproof Illusion -- &#34;Artaud Dungeon Scenes&#34;  [1 of 2] -- Digitized Video</field>
+     <field name="unitid_teim">cuid7003</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/771780</field>
+     <field name="unitid_ssm">cuid7003</field>
+@@ -25,10 +25,9 @@
+     <field name="unitdate_normal_teim">2018/2018</field>
+     <field name="unitdate_normal_sim">1984/1986</field>
+     <field name="unitdate_normal_sim">2018/2018</field>
+-    <field name="unitdate_teim"></field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">Housing annotations read: "Artaud Dungeon Scenes; Session 1 - Total Garbage; Marat/Sade + Terry's worm speech in midshot; bandage knife + blood"</field>
+-    <field name="phystech_teim">Format: 3/4" umatic, Duration: 22 min.</field>
++    <field name="scopecontent_teim">Housing annotations read: &#34;Artaud Dungeon Scenes; Session 1 - Total Garbage; Marat/Sade + Terry&#39;s worm speech in midshot; bandage knife + blood&#34;</field>
++    <field name="phystech_teim">Format: 3/4&#34; umatic, Duration: 22 min.</field>
+     <field name="ref_ssi">aspace_2c24aa16eb152f31ad3b2df10be608ae</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -39,10 +38,11 @@
+     <field name="location_ssm">Box: 71, Cassette: mss.442.cuid7003</field>
+     <field name="location_si">Box: 71, Cassette: mss.442.cuid7003</field>
+     <field name="collection_teim">Chris Kraus Papers</field>
++    <field name="author_teim">Megan O&#39;Shea and Jennipher Ambrose</field>
+     <field name="collection_unitid_teim">MSS.442</field>
+     <field name="series_sim">Series II. Films</field>
+-    <field name="series_si">Series II. Films &gt;&gt; &lt;em&gt;Foolproof Illusion&lt;/em&gt; -- "Artaud Dungeon Scenes" [1 of 2] -- Digitized Video</field>
+-    <field name="heading_ssm">Foolproof Illusion -- "Artaud Dungeon Scenes" [1 of 2] -- Digitized Video</field>
++    <field name="series_si">Series II. Films &gt;&gt; &lt;em&gt;Foolproof Illusion&lt;/em&gt; -- &#34;Artaud Dungeon Scenes&#34;  [1 of 2] -- Digitized Video</field>
++    <field name="heading_ssm">Foolproof Illusion -- &#34;Artaud Dungeon Scenes&#34;  [1 of 2] -- Digitized Video</field>
+     <field name="unitdate_start_sim">1984</field>
+     <field name="unitdate_start_sim">2018</field>
+     <field name="unitdate_start_ssm">1984</field>
+@@ -53,7 +53,6 @@
+     <field name="unitdate_end_ssm">1986</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm"></field>
+     <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">47</field>

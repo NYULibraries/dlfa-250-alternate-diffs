@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Accretion 2016</field>
+     <field name="unittitle_teim">Accretion 2016</field>
+-    <field name="scopecontent_teim">This accretion contains documents that date between 2007 and 2015, including correspondence, receipts, and a few Alice's Adventures in Wonderland pins, one of which is from the 150th Anniversary. The correspondence within the accretion consists of both cards and letters, many of which are addressed to Clare Imholtz.</field>
++    <field name="scopecontent_teim">This accretion contains documents that date between 2007 and 2015, including correspondence, receipts, and a few Alice&#39;s Adventures in Wonderland  pins, one of which is from the 150th Anniversary. The correspondence within the accretion consists of both cards and letters, many of which are addressed to Clare Imholtz.</field>
+     <field name="ref_ssi">aspace_c5a7ec461833def0387eb897cf9231ba</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Lewis Carroll Society of North America Archives</field>
++    <field name="author_teim">Melanie Meyers Cushman in 2003 with edits by Nicholas Martin in 2012 and additions by Andrea Kutsenkow in 2016.</field>
+     <field name="collection_unitid_teim">MSS.148</field>
+     <field name="series_si">Accretion 2016</field>
+     <field name="heading_ssm">Accretion 2016</field>

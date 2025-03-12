@@ -1,0 +1,44 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -8,10 +8,10 @@
+     <field name="parent_ssm">aspace_ref4132</field>
+     <field name="parent_ssm">aspace_ref6040</field>
+     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+-    <field name="parent_unittitles_ssm">Horsford: Oversize</field>
++    <field name="parent_unittitles_ssm">Horsford: Oversize </field>
+     <field name="parent_unittitles_ssm">Oversize Series A, Subseries 10: Newspapers and Magazines</field>
+     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+-    <field name="parent_unittitles_teim">Horsford: Oversize</field>
++    <field name="parent_unittitles_teim">Horsford: Oversize </field>
+     <field name="parent_unittitles_teim">Oversize Series A, Subseries 10: Newspapers and Magazines</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+@@ -19,8 +19,8 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Flood and Field&lt;/em&gt;, "A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island"</field>
+-    <field name="unittitle_teim">Flood and Field, "A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Flood and Field&lt;/em&gt;, &#34;A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island&#34;</field>
++    <field name="unittitle_teim">Flood and Field, &#34;A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island&#34;</field>
+     <field name="unitid_teim">cuid4460</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/512468</field>
+     <field name="unitid_ssm">cuid4460</field>
+@@ -38,12 +38,13 @@
+     <field name="location_ssm">Box: 128, Folder: 8</field>
+     <field name="location_si">Box: 128, Folder: 8</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+-    <field name="series_sim">Horsford: Oversize</field>
++    <field name="series_sim">Horsford: Oversize </field>
+     <field name="series_sim">Oversize Series A, Subseries 10: Newspapers and Magazines</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Horsford: Oversize &gt;&gt; Oversize Series A, Subseries 10: Newspapers and Magazines &gt;&gt; &lt;em&gt;Flood and Field&lt;/em&gt;, "A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island"</field>
+-    <field name="heading_ssm">Flood and Field, "A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island"</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Horsford: Oversize  &gt;&gt; Oversize Series A, Subseries 10: Newspapers and Magazines &gt;&gt; &lt;em&gt;Flood and Field&lt;/em&gt;, &#34;A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island&#34;</field>
++    <field name="heading_ssm">Flood and Field, &#34;A Record of Field and Aquatic Sports and Guide to Summer Resorts of Long Island&#34;</field>
+     <field name="unitdate_start_sim">1875</field>
+     <field name="unitdate_start_ssm">1875</field>
+     <field name="unitdate_start_si">1875</field>

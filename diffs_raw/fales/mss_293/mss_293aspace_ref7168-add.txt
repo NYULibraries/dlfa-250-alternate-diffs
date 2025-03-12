@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1997/1997</field>
+     <field name="unitdate_normal_sim">1997/1997</field>
+     <field name="unitdate_inclusive_teim">1997, undated</field>
+-    <field name="scopecontent_teim">Courbet's "Woman with Parrot", "Four and a Half", "Blue Playsuit", "Crosswalk", "Judo Pose", "The Salute".</field>
++    <field name="scopecontent_teim">Courbet&#39;s &#34;Woman with Parrot&#34;, &#34;Four and a Half&#34;, &#34;Blue Playsuit&#34;, &#34;Crosswalk&#34;, &#34;Judo Pose&#34;, &#34;The Salute&#34;.</field>
+     <field name="ref_ssi">aspace_ref7168</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -34,6 +34,7 @@
+     <field name="location_ssm">Box: 68, Folder: 8</field>
+     <field name="location_si">Box: 68, Folder: 8</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series V: Source Material</field>
+     <field name="series_sim">Subseries A: Source File</field>

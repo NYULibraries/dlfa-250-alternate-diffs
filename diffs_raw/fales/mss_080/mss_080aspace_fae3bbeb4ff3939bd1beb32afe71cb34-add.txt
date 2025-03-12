@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1970/2007</field>
+     <field name="unitdate_normal_sim">1970/2007</field>
+     <field name="unitdate_inclusive_teim">undated</field>
+-    <field name="scopecontent_teim">This accretion contains Bob Witz's sketchbook (undated).</field>
++    <field name="scopecontent_teim">This accretion contains Bob Witz&#39;s sketchbook (undated).</field>
+     <field name="ref_ssi">aspace_fae3bbeb4ff3939bd1beb32afe71cb34</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Bob Witz Papers</field>
++    <field name="author_teim">Daniel Sokolow in 1997. Updated in 2012 by Laura Newsome.</field>
+     <field name="collection_unitid_teim">MSS.080</field>
+     <field name="series_si">Series VI: 2007 Accretion, Sketchbook</field>
+     <field name="heading_ssm">Series VI: 2007 Accretion, Sketchbook</field>

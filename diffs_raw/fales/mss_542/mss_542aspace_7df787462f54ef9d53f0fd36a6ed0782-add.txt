@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1968/1995</field>
+     <field name="unitdate_normal_sim">1968/1995</field>
+     <field name="unitdate_inclusive_teim">1968-1995</field>
+-    <field name="scopecontent_teim">Photocopy of holograph score from Schirmer's Notebook for alto saxophone, tenor saxophone, and bass.</field>
++    <field name="scopecontent_teim">Photocopy of holograph score from Schirmer&#39;s Notebook for alto saxophone, tenor saxophone, and bass.</field>
+     <field name="ref_ssi">aspace_7df787462f54ef9d53f0fd36a6ed0782</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 55</field>
+     <field name="location_si">Box: 1, Folder: 55</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">Fat Web</field>
+     <field name="heading_ssm">Fat Web</field>

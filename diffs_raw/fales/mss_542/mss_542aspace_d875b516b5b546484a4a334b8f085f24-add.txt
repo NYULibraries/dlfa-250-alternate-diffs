@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1991/1995</field>
+     <field name="unitdate_normal_sim">1991/1995</field>
+     <field name="unitdate_inclusive_teim">1991-1995</field>
+-    <field name="scopecontent_teim">Holograph score for saxophone, cello, and drums. The page also bears the title "One Groove," and the second page of the score features the composition "Sixteen."</field>
++    <field name="scopecontent_teim">Holograph score for saxophone, cello, and drums. The page also bears the title &#34;One Groove,&#34; and the second page of the score features the composition &#34;Sixteen.&#34;</field>
+     <field name="ref_ssi">aspace_d875b516b5b546484a4a334b8f085f24</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 1, Folder: 56</field>
+     <field name="location_si">Box: 1, Folder: 56</field>
+     <field name="collection_teim">Julius Hemphill Papers</field>
++    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+     <field name="collection_unitid_teim">MSS.542</field>
+     <field name="series_si">Fifteen</field>
+     <field name="heading_ssm">Fifteen</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,10 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/580358</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/580358</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Binder M includes: Family Album 1, Family Album 2, Family Album 3</field>
++    <field name="scopecontent_teim">Binder M includes:
++Family Album 1,
++Family Album 2,
++Family Album 3</field>
+     <field name="ref_ssi">aspace_ref758</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -28,6 +31,7 @@
+     <field name="location_ssm">binder: M</field>
+     <field name="location_si">binder: M</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series V: Family and Juvenilia</field>
+     <field name="series_si">Series V: Family and Juvenilia &gt;&gt; Photographic Material</field>

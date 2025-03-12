@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1986/2016</field>
+     <field name="unitdate_normal_sim">1986/2016</field>
+     <field name="unitdate_inclusive_teim">1986-2016</field>
+-    <field name="scopecontent_teim">This accretion to the Paul Langland Papers consists of paper and electronic files related to Langland's projects, performances, teaching, and professional involvement with modern dance techniques, including programs, printed email correspondence, and other ephemera.</field>
++    <field name="scopecontent_teim">This accretion to the Paul Langland Papers consists of paper and electronic files related to Langland&#39;s projects, performances, teaching, and professional involvement with modern dance techniques, including programs, printed email correspondence, and other ephemera.</field>
+     <field name="ref_ssi">aspace_8018c86c2d9d26410bac8e6abb8ba7ba</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Paul Langland Papers</field>
++    <field name="author_teim">Cassandra Brewer</field>
+     <field name="collection_unitid_teim">MSS.253</field>
+     <field name="series_si">Series XII. 2016-2017 Accretions</field>
+     <field name="heading_ssm">Series XII. 2016-2017 Accretions</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series II: Board Meeting Minutes</field>
+     <field name="unittitle_teim">Series II: Board Meeting Minutes</field>
+-    <field name="scopecontent_teim">This series contains minutes from the Roundtable's board meetings.</field>
++    <field name="scopecontent_teim">This series contains minutes from the Roundtable&#39;s board meetings.</field>
+     <field name="scopecontent_teim">Materials are arranged chronologically, as received from RWF. Each folder listed contains a number of folders labeled by RWF administrators.</field>
+     <field name="ref_ssi">aspace_ref44</field>
+     <field name="repository_ssi">fales</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Roundtable for Women in Foodservice Archive</field>
++    <field name="author_teim">Nicholas Martin, 2010</field>
+     <field name="collection_unitid_teim">MSS.229</field>
+     <field name="series_si">Series II: Board Meeting Minutes</field>
+     <field name="heading_ssm">Series II: Board Meeting Minutes</field>

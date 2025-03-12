@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,15 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Minnie's Mix</field>
+-    <field name="unittitle_teim">Minnie's Mix</field>
++    <field name="unittitle_ssm">Minnie&#39;s Mix</field>
++    <field name="unittitle_teim">Minnie&#39;s Mix</field>
+     <field name="unitid_teim">ID: 293.1772</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/550144</field>
+     <field name="unitid_ssm">ID: 293.1772</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/550144</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Original format: Audiocassette</field>
++    <field name="phystech_teim">Original format: Audiocassette
++</field>
+     <field name="phystech_teim">Duration: 90 minutes</field>
+     <field name="ref_ssi">aspace_ref8997</field>
+     <field name="repository_ssi">fales</field>
+@@ -31,10 +32,11 @@
+     <field name="location_ssm">Box: 157, Media: ID: 293.1772</field>
+     <field name="location_si">Box: 157, Media: ID: 293.1772</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XIV: Sound recordings</field>
+-    <field name="series_si">Series XIV: Sound recordings &gt;&gt; Minnie's Mix</field>
+-    <field name="heading_ssm">Minnie's Mix</field>
++    <field name="series_si">Series XIV: Sound recordings &gt;&gt; Minnie&#39;s Mix</field>
++    <field name="heading_ssm">Minnie&#39;s Mix</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3115</field>

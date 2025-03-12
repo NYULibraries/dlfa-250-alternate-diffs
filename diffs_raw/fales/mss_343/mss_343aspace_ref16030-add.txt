@@ -1,0 +1,31 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,9 +23,8 @@
+     <field name="unitdate_normal_teim">2018/2018</field>
+     <field name="unitdate_normal_sim">2018/2018</field>
+     <field name="unitdate_teim">September 18, 1990</field>
+-    <field name="unitdate_teim"></field>
+     <field name="phystech_teim">Original Format: Sony Audio Cassette Tape</field>
+-    <field name="phystech_teim">Exit Art "Old Number" : 41b</field>
++    <field name="phystech_teim">Exit Art &#34;Old Number&#34; : 41b</field>
+     <field name="ref_ssi">aspace_ref16030</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,6 +35,7 @@
+     <field name="location_ssm">Box: Digitized Access Files, Box: cuid17226</field>
+     <field name="location_si">Box: Digitized Access Files, Box: cuid17226</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XI: Audio</field>
+     <field name="series_si">Series XI: Audio &gt;&gt; David Hammons [1989.04]: [Interview]</field>
+@@ -46,7 +46,7 @@
+     <field name="unitdate_end_sim">2018</field>
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+-    <field name="unitdate_ssm">September 18, 1990</field>
++    <field name="unitdate_ssm">September 18, 1990  </field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">7685</field>
+   </doc>

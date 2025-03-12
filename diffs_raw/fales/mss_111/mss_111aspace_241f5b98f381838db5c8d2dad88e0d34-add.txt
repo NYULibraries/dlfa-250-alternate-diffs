@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,10 +19,10 @@
+     <field name="unittitle_ssm">Diotima Serial #7 - Negative Roll #6</field>
+     <field name="unittitle_teim">Diotima Serial #7 - Negative Roll #6</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Credit info: "Jack Waters/Allied Prod. "</field>
+-    <field name="phystech_teim">Gauge: 16mm</field>
+-    <field name="phystech_teim">Footage count: [100 feet]</field>
+-    <field name="phystech_teim">Extent: 2/3</field>
++    <field name="phystech_teim">Credit info: &#34;Jack Waters/Allied Prod. &#34;</field>
++    <field name="phystech_teim"> Gauge: 16mm</field>
++    <field name="phystech_teim"> Footage count: [100 feet]</field>
++    <field name="phystech_teim"> Extent: 2/3</field>
+     <field name="ref_ssi">aspace_241f5b98f381838db5c8d2dad88e0d34</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 2, Folder: 111.0025</field>
+     <field name="location_si">Box: 2, Folder: 111.0025</field>
+     <field name="collection_teim">Jack Waters Papers</field>
++    <field name="author_teim">Fales Staff</field>
+     <field name="collection_unitid_teim">MSS.111</field>
+     <field name="series_sim">Series II: Film and Audio</field>
+     <field name="series_sim">Subseries A: Original Elements</field>

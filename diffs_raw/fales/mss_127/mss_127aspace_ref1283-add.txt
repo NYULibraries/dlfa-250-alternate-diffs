@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series 4: Video Recordings</field>
+     <field name="unittitle_teim">Series 4: Video Recordings</field>
+-    <field name="scopecontent_teim">The majority of these recordings are of performances of works from the IACD. However one recording is of the production of Anna Deavere Smith's House Arrest at the Papp Theater in 2000. Another recording, from the Massachusetts Foundation for the Humanities, bears an uncertain relation to the IACD.</field>
++    <field name="scopecontent_teim">The majority of these recordings are of performances of works from the IACD. However one recording is of the production of Anna Deavere Smith&#39;s House Arrest at the Papp Theater in 2000. Another recording, from the Massachusetts Foundation for the Humanities, bears an uncertain relation to the IACD.</field>
+     <field name="ref_ssi">aspace_ref1283</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Institute on the Arts and Civic Dialogue Archive</field>
++    <field name="author_teim">Jonathan Lill</field>
+     <field name="collection_unitid_teim">MSS.127</field>
+     <field name="series_si">Series 4: Video Recordings</field>
+     <field name="heading_ssm">Series 4: Video Recordings</field>

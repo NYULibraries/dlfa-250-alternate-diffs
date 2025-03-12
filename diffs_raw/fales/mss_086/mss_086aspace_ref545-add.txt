@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries A: High Risk author files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Serpent's Tail/High Risk Archive</field>
+-    <field name="collection_ssm">Serpent's Tail/High Risk Archive</field>
++    <field name="collection_sim">Serpent&#39;s Tail/High Risk Archive</field>
++    <field name="collection_ssm">Serpent&#39;s Tail/High Risk Archive</field>
+     <field name="collection_unitid_ssm">MSS.086</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Wurlitzer, Rudolph--reviews</field>
+@@ -31,7 +31,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 4, Folder: 264</field>
+     <field name="location_si">Box: 4, Folder: 264</field>
+-    <field name="collection_teim">Serpent's Tail/High Risk Archive</field>
++    <field name="collection_teim">Serpent&#39;s Tail/High Risk Archive</field>
++    <field name="author_teim">Tania Friedel from November 1997-July 1998</field>
+     <field name="collection_unitid_teim">MSS.086</field>
+     <field name="series_sim">Series I: Author Files</field>
+     <field name="series_sim">Subseries A: High Risk author files</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Patty Mucha Papers</field>
+     <field name="collection_unitid_ssm">MSS.342</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Photograph -- St. Helen's High School Graduates</field>
+-    <field name="unittitle_teim">Photograph -- St. Helen's High School Graduates</field>
++    <field name="unittitle_ssm">Photograph -- St. Helen&#39;s High School Graduates</field>
++    <field name="unittitle_teim">Photograph -- St. Helen&#39;s High School Graduates</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/966263</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/966263</field>
+     <field name="unitdate_normal_ssm">1949/1949</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">Box: Shared Fales 042, Folder: 3</field>
+     <field name="location_si">Box: Shared Fales 042, Folder: 3</field>
+     <field name="collection_teim">Patty Mucha Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2012. Accretion processed by Laura Newsome, 2013.</field>
+     <field name="collection_unitid_teim">MSS.342</field>
+     <field name="series_sim">Series VII. 2023 Accretion</field>
+-    <field name="series_si">Series VII. 2023 Accretion &gt;&gt; Photograph -- St. Helen's High School Graduates</field>
+-    <field name="heading_ssm">Photograph -- St. Helen's High School Graduates</field>
++    <field name="series_si">Series VII. 2023 Accretion &gt;&gt; Photograph -- St. Helen&#39;s High School Graduates</field>
++    <field name="heading_ssm">Photograph -- St. Helen&#39;s High School Graduates</field>
+     <field name="unitdate_start_sim">1949</field>
+     <field name="unitdate_start_ssm">1949</field>
+     <field name="unitdate_start_si">1949</field>

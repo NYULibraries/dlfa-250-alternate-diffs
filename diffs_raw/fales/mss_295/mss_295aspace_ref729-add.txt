@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1866/2003</field>
+     <field name="unitdate_normal_sim">1866/2003</field>
+     <field name="unitdate_inclusive_teim">1866-1920s, 1989-2003</field>
+-    <field name="scopecontent_teim">Mullen-Blackledge Co. "The Taste that Tell" Catsup, Chili Sauce and Soups. Indianapolis, IN: Mullen-Blackledge Co., undated.</field>
+-    <field name="scopecontent_teim">Palm Beach Groves. Leo &amp; Paul's First Quality Vine-Ripe Tomatoes. Lantana, FL: Palm Beach Groves, undated.</field>
++    <field name="scopecontent_teim">Mullen-Blackledge Co. &#34;The Taste that Tell&#34; Catsup, Chili Sauce and Soups. Indianapolis, IN: Mullen-Blackledge Co., undated.</field>
++    <field name="scopecontent_teim"> Palm Beach Groves. Leo &amp; Paul&#39;s First Quality Vine-Ripe Tomatoes. Lantana, FL: Palm Beach Groves, undated.</field>
+     <field name="ref_ssi">aspace_ref729</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -35,6 +35,7 @@
+     <field name="location_ssm">Box: Shared Fales 093, Folder: 25</field>
+     <field name="location_si">Box: Shared Fales 093, Folder: 25</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Tomato Research</field>

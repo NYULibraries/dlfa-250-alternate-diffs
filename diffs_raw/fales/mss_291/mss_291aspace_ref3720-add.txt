@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/543945</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/543945</field>
+     <field name="unitdate_teim">2000 - 2001</field>
+-    <field name="phystech_teim">Original Format: 3.5" Floppy Disk</field>
++    <field name="phystech_teim">Original Format: 3.5&#34; Floppy Disk</field>
+     <field name="phystech_teim">Capacity: Unknown</field>
+     <field name="ref_ssi">aspace_ref3720</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 129, disk: ID: 291.3.0021</field>
+     <field name="location_si">Box: 129, disk: ID: 291.3.0021</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series VIII: Media</field>
+     <field name="series_sim">Subseries B: Data Storage</field>

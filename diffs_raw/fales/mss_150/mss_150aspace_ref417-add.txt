@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries A: Rules and Regulations</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+-    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_sim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="collection_ssm">Les Dames d&#39;Escoffier New York Archive</field>
+     <field name="collection_unitid_ssm">MSS.150</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">LDENY By-Laws and Constitution</field>
+@@ -30,7 +30,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 26, Folder: 6</field>
+     <field name="location_si">Box: 26, Folder: 6</field>
+-    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
++    <field name="collection_teim">Les Dames d&#39;Escoffier New York Archive</field>
++    <field name="author_teim">Gabriella Ekman</field>
+     <field name="collection_unitid_teim">MSS.150</field>
+     <field name="series_sim">Accretion 2008 - Series VII: Administrative Material</field>
+     <field name="series_sim">Subseries A: Rules and Regulations</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1950/1959</field>
+     <field name="unitdate_normal_sim">1950/1959</field>
+     <field name="unitdate_inclusive_teim">1950-1959</field>
+-    <field name="phystech_teim">16mm film, 400 ft, Black and White, Silent, Preservation note: "Dupe reversal negative."</field>
++    <field name="phystech_teim">16mm film, 400 ft, Black and White, Silent, Preservation note: &#34;Dupe reversal negative.&#34;</field>
+     <field name="dao_teim">Film, 16mm. Home Movies</field>
+     <field name="dao_ssm">Film, 16mm. Home Movies</field>
+     <field name="ref_ssi">aspace_ref278</field>
+@@ -37,6 +37,7 @@
+     <field name="location_si">Box: Digitized Access Files, file: fales_mss067_cuid21393</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Elmer Holmes Bobst Collection</field>
++    <field name="author_teim">Nancy Cricco</field>
+     <field name="collection_unitid_teim">MSS.067</field>
+     <field name="series_sim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+     <field name="series_si">Series V: Film, Audio and Video Tape, Slides and Recordings. &gt;&gt; Film, 16mm. Home Movies</field>

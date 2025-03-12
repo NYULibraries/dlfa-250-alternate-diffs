@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1970/1986</field>
+     <field name="unitdate_normal_sim">1970/1986</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="phystech_teim">Description: Ashtray depicting the White House with fountains in front. Top reads "White House, Washington, DC" price tag of $1.59 on back</field>
++    <field name="phystech_teim">Description: Ashtray depicting the White House with fountains in front. Top reads &#34;White House, Washington, DC&#34; price tag of $1.59 on back</field>
+     <field name="phystech_teim">Maker: none</field>
+     <field name="phystech_teim">Where Made: n.p.</field>
+     <field name="phystech_teim">Materials: plastic</field>
+@@ -42,6 +42,7 @@
+     <field name="location_ssm">Box: 151, object: 092.2.0249</field>
+     <field name="location_si">Box: 151, object: 092.2.0249</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries A: General Objects and Artifacts</field>

@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">William J. Benners Papers</field>
+     <field name="collection_unitid_ssm">MSS.548</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Digman's Magazine [E.J. Wood]</field>
+-    <field name="unittitle_teim">Digman's Magazine [E.J. Wood]</field>
++    <field name="unittitle_ssm">Digman&#39;s Magazine [E.J. Wood]</field>
++    <field name="unittitle_teim">Digman&#39;s Magazine [E.J. Wood]</field>
+     <field name="unitdate_teim">1907</field>
+     <field name="ref_ssi">aspace_ref27</field>
+     <field name="repository_ssi">fales</field>
+@@ -25,10 +25,11 @@
+     <field name="location_ssm">Box: 1, Folder: 15</field>
+     <field name="location_si">Box: 1, Folder: 15</field>
+     <field name="collection_teim">William J. Benners Papers</field>
++    <field name="author_teim">Maxime La Fantasie, with portions reprocessed by William J. Levay.</field>
+     <field name="collection_unitid_teim">MSS.548</field>
+     <field name="series_sim">Series I A: Correspondence, 1869-1940.</field>
+-    <field name="series_si">Series I A: Correspondence, 1869-1940. &gt;&gt; Digman's Magazine [E.J. Wood]</field>
+-    <field name="heading_ssm">Digman's Magazine [E.J. Wood]</field>
++    <field name="series_si">Series I A: Correspondence, 1869-1940. &gt;&gt; Digman&#39;s Magazine [E.J. Wood]</field>
++    <field name="heading_ssm">Digman&#39;s Magazine [E.J. Wood]</field>
+     <field name="unitdate_ssm">1907</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

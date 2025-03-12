@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Explore and More . . . A Children's Museum</field>
+-    <field name="unittitle_teim">Explore and More . . . A Children's Museum</field>
++    <field name="unittitle_ssm">Explore and More . . . A Children&#39;s Museum</field>
++    <field name="unittitle_teim">Explore and More . . . A Children&#39;s Museum</field>
+     <field name="unitdate_normal_ssm">2000/2001</field>
+     <field name="unitdate_normal_teim">2000/2001</field>
+     <field name="unitdate_normal_sim">2000/2001</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 46, Folder: 58</field>
+     <field name="location_si">Box: 46, Folder: 58</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series VIII. Other NYFA Programs</field>
+     <field name="series_sim">Subseries J. Arts and Technology</field>
+-    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries J. Arts and Technology &gt;&gt; Explore and More . . . A Children's Museum</field>
+-    <field name="heading_ssm">Explore and More . . . A Children's Museum</field>
++    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries J. Arts and Technology &gt;&gt; Explore and More . . . A Children&#39;s Museum</field>
++    <field name="heading_ssm">Explore and More . . . A Children&#39;s Museum</field>
+     <field name="unitdate_start_sim">2000</field>
+     <field name="unitdate_start_ssm">2000</field>
+     <field name="unitdate_start_si">2000</field>

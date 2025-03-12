@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitid_teim">/repositories/3/archival_objects/547411</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547411</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">One undated note on Max's Kansas City letterhead.</field>
++    <field name="scopecontent_teim">One undated note on Max&#39;s Kansas City letterhead.</field>
+     <field name="ref_ssi">aspace_ref6645</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 13, Folder: 16</field>
+     <field name="location_si">Box: 13, Folder: 16</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries A: Known Senders</field>

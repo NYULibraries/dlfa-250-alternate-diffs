@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,7 +12,7 @@
+     <field name="unittitle_ssm">Series VI: Guest Books</field>
+     <field name="unittitle_teim">Series VI: Guest Books</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Series contains guest books from an unknown exhibition. Each guest book has a question printed on the cover which the messages inside attempt to address.</field>
++    <field name="scopecontent_teim">Series contains guest books from an unknown exhibition. Each guest book has a question printed on the cover  which the messages inside attempt to address.</field>
+     <field name="ref_ssi">aspace_ref6</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -20,6 +20,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">The New Museum Library Lucy Lippard Collection</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.169</field>
+     <field name="series_si">Series VI: Guest Books</field>
+     <field name="heading_ssm">Series VI: Guest Books</field>

@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1926/1951</field>
+     <field name="unitdate_inclusive_teim">1926, 1951</field>
+     <field name="scopecontent_teim">Delco-Light Co. Frozen Desserts and Salads Made in Frigidaire. Dayton, OH: Delco-Light Company, 1926.</field>
+-    <field name="scopecontent_teim">General Motors. Recipes from Many Lands; Women's International Exposition 1951. Place of publication unknown: General Motors, undated.</field>
++    <field name="scopecontent_teim"> General Motors. Recipes from Many Lands; Women&#39;s International Exposition 1951. Place of publication unknown: General Motors, undated.</field>
+     <field name="ref_ssi">aspace_ref266</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 16, Folder: 10</field>
+     <field name="location_si">Box: 16, Folder: 10</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; General Motors Corporation</field>

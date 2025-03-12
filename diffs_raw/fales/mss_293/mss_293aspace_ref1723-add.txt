@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,15 +16,16 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Ahmet's Birthday, Meet the Turk</field>
+-    <field name="unittitle_teim">Ahmet's Birthday, Meet the Turk</field>
++    <field name="unittitle_ssm">Ahmet&#39;s Birthday, Meet the Turk</field>
++    <field name="unittitle_teim">Ahmet&#39;s Birthday, Meet the Turk</field>
+     <field name="unitid_teim">ID: 293.0627</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/551112</field>
+     <field name="unitid_ssm">ID: 293.0627</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/551112</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="scopecontent_teim">Ahmet's Birthday</field>
+-    <field name="phystech_teim">Original format: VHS</field>
++    <field name="scopecontent_teim">Ahmet&#39;s Birthday</field>
++    <field name="phystech_teim">Original format: VHS
++</field>
+     <field name="phystech_teim">Duration: 120 minutes</field>
+     <field name="ref_ssi">aspace_ref1723</field>
+     <field name="repository_ssi">fales</field>
+@@ -35,11 +36,12 @@
+     <field name="location_ssm">Box: 129, Media: ID: 293.0627</field>
+     <field name="location_si">Box: 129, Media: ID: 293.0627</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series XVI: Video recordings</field>
+     <field name="series_sim">Subseries A: Video Recordings</field>
+-    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Ahmet's Birthday, Meet the Turk</field>
+-    <field name="heading_ssm">Ahmet's Birthday, Meet the Turk</field>
++    <field name="series_si">Series XVI: Video recordings &gt;&gt; Subseries A: Video Recordings &gt;&gt; Ahmet&#39;s Birthday, Meet the Turk</field>
++    <field name="heading_ssm">Ahmet&#39;s Birthday, Meet the Turk</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">4079</field>

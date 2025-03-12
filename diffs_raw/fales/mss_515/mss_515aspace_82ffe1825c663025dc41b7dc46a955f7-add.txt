@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+     <field name="collection_unitid_ssm">MSS.515</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">ArtsConnection, "Dance" A Social Study," by Elizabeth Zimmer and Mindy Levine</field>
+-    <field name="unittitle_teim">ArtsConnection, "Dance" A Social Study," by Elizabeth Zimmer and Mindy Levine</field>
++    <field name="unittitle_ssm">ArtsConnection, &#34;Dance&#34; A Social Study,&#34; by Elizabeth Zimmer and Mindy Levine</field>
++    <field name="unittitle_teim">ArtsConnection, &#34;Dance&#34; A Social Study,&#34; by Elizabeth Zimmer and Mindy Levine</field>
+     <field name="unitdate_normal_ssm">1983/1983</field>
+     <field name="unitdate_normal_teim">1983/1983</field>
+     <field name="unitdate_normal_sim">1983/1983</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 3, Folder: 3</field>
+     <field name="location_si">Box: 3, Folder: 3</field>
+     <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
++    <field name="author_teim">Nicholas Long and Kris Santos</field>
+     <field name="collection_unitid_teim">MSS.515</field>
+     <field name="series_sim">Series VIII. Other NYFA Programs</field>
+     <field name="series_sim">Subseries A. Arts in Education</field>
+-    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries A. Arts in Education &gt;&gt; ArtsConnection, "Dance" A Social Study," by Elizabeth Zimmer and Mindy Levine</field>
+-    <field name="heading_ssm">ArtsConnection, "Dance" A Social Study," by Elizabeth Zimmer and Mindy Levine</field>
++    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries A. Arts in Education &gt;&gt; ArtsConnection, &#34;Dance&#34; A Social Study,&#34; by Elizabeth Zimmer and Mindy Levine</field>
++    <field name="heading_ssm">ArtsConnection, &#34;Dance&#34; A Social Study,&#34; by Elizabeth Zimmer and Mindy Levine</field>
+     <field name="unitdate_start_sim">1983</field>
+     <field name="unitdate_start_ssm">1983</field>
+     <field name="unitdate_start_si">1983</field>

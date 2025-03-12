@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Linda Mary Montano Papers</field>
+     <field name="collection_unitid_ssm">MSS.386</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">"Different Drum" Linda Ronstadt</field>
+-    <field name="unittitle_teim">"Different Drum" Linda Ronstadt</field>
++    <field name="unittitle_ssm">&#34;Different Drum&#34; Linda Ronstadt</field>
++    <field name="unittitle_teim">&#34;Different Drum&#34; Linda Ronstadt</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/580474</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/580474</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+@@ -34,11 +34,12 @@
+     <field name="location_ssm">Box: 58</field>
+     <field name="location_si">Box: 58</field>
+     <field name="collection_teim">Linda Mary Montano Papers</field>
++    <field name="author_teim">Emily King</field>
+     <field name="collection_unitid_teim">MSS.386</field>
+     <field name="series_sim">Series VI: Commercially Released Media</field>
+     <field name="series_sim">Subseries C: Vinyl sound discs</field>
+-    <field name="series_si">Series VI: Commercially Released Media &gt;&gt; Subseries C: Vinyl sound discs &gt;&gt; "Different Drum" Linda Ronstadt</field>
+-    <field name="heading_ssm">"Different Drum" Linda Ronstadt</field>
++    <field name="series_si">Series VI: Commercially Released Media &gt;&gt; Subseries C: Vinyl sound discs &gt;&gt; &#34;Different Drum&#34; Linda Ronstadt</field>
++    <field name="heading_ssm">&#34;Different Drum&#34; Linda Ronstadt</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>
+     <field name="unitdate_start_si">1974</field>

@@ -1,0 +1,42 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">New York City COVID-19 Food Studies Web Collection</field>
+     <field name="collection_unitid_ssm">MSS.607</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">NYC's Chinatown Through COVID</field>
+-    <field name="unittitle_teim">NYC's Chinatown Through COVID</field>
++    <field name="unittitle_ssm">NYC&#39;s Chinatown Through COVID</field>
++    <field name="unittitle_teim">NYC&#39;s Chinatown Through COVID</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/948854</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/948854</field>
+     <field name="creator_teim">Bentley, Amy, 1962-</field>
+@@ -20,11 +20,11 @@
+     <field name="unitdate_normal_teim">2022-03/2022-05</field>
+     <field name="unitdate_normal_sim">2022-03/2022-05</field>
+     <field name="unitdate_inclusive_teim">March-May 2022</field>
+-    <field name="scopecontent_teim">Part of the Food and COVID-19 NYC Digital Archive and Collection. This website explores some of the challenges uniquely faced by businesses in NYC's Chinatown during the first nine months of the coronavirus pandemic by Liana Kindler.</field>
++    <field name="scopecontent_teim">Part of the Food and COVID-19 NYC Digital Archive and Collection. This website explores some of the challenges uniquely faced by businesses in NYC&#39;s Chinatown during the first nine months of the coronavirus pandemic by Liana Kindler.</field>
+     <field name="persname_teim">Bentley, Amy, 1962-</field>
+     <field name="persname_ssm">Bentley, Amy, 1962-</field>
+-    <field name="dao_teim">NYC's Chinatown Through COVID Archived Website: March-May 2022</field>
+-    <field name="dao_ssm">NYC's Chinatown Through COVID Archived Website: March-May 2022</field>
++    <field name="dao_teim">NYC&#39;s Chinatown Through COVID Archived Website: March-May 2022</field>
++    <field name="dao_ssm">NYC&#39;s Chinatown Through COVID Archived Website: March-May 2022</field>
+     <field name="ref_ssi">aspace_59736f63efee90707e8e3070a087d9ae</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,9 +38,10 @@
+     <field name="name_teim">Bentley, Amy, 1962-</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York City COVID-19 Food Studies Web Collection</field>
++    <field name="author_teim">Nicole Greenhouse</field>
+     <field name="collection_unitid_teim">MSS.607</field>
+-    <field name="series_si">NYC's Chinatown Through COVID</field>
+-    <field name="heading_ssm">NYC's Chinatown Through COVID</field>
++    <field name="series_si">NYC&#39;s Chinatown Through COVID</field>
++    <field name="heading_ssm">NYC&#39;s Chinatown Through COVID</field>
+     <field name="unitdate_ssm">Inclusive, March-May 2022</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">5</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Jaime Davidovich Collection</field>
+     <field name="collection_unitid_ssm">MSS.155</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Peppermint Lounge Fliers, "VJ meets DJ"</field>
+-    <field name="unittitle_teim">Peppermint Lounge Fliers, "VJ meets DJ"</field>
++    <field name="unittitle_ssm">Peppermint Lounge Fliers, &#34;VJ meets DJ&#34;</field>
++    <field name="unittitle_teim">Peppermint Lounge Fliers, &#34;VJ meets DJ&#34;</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/479296</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/479296</field>
+     <field name="ref_ssi">aspace_ref1033</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">Box: 16, Folder: 799</field>
+     <field name="location_si">Box: 16, Folder: 799</field>
+     <field name="collection_teim">Jaime Davidovich Collection</field>
++    <field name="author_teim">Jessica Shimmin, 2007; videotapes processed by Brent Phillips, 2006-2007</field>
+     <field name="collection_unitid_teim">MSS.155</field>
+     <field name="series_sim">Series VIII: Source Material</field>
+     <field name="series_sim">Subseries B: Subject Files</field>
+-    <field name="series_si">Series VIII: Source Material &gt;&gt; Subseries B: Subject Files &gt;&gt; Peppermint Lounge Fliers, "VJ meets DJ"</field>
+-    <field name="heading_ssm">Peppermint Lounge Fliers, "VJ meets DJ"</field>
++    <field name="series_si">Series VIII: Source Material &gt;&gt; Subseries B: Subject Files &gt;&gt; Peppermint Lounge Fliers, &#34;VJ meets DJ&#34;</field>
++    <field name="heading_ssm">Peppermint Lounge Fliers, &#34;VJ meets DJ&#34;</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">943</field>
+   </doc>

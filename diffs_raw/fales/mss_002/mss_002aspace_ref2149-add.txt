@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Elizabeth Robins Papers</field>
+     <field name="collection_unitid_ssm">MSS.002</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">O'Leary, Miriam</field>
+-    <field name="unittitle_teim">O'Leary, Miriam</field>
++    <field name="unittitle_ssm">O&#39;Leary, Miriam</field>
++    <field name="unittitle_teim">O&#39;Leary, Miriam</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/388952</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/388952</field>
+     <field name="ref_ssi">aspace_ref2149</field>
+@@ -29,11 +29,12 @@
+     <field name="location_ssm">album: 210, Photograph: 221</field>
+     <field name="location_si">album: 210, Photograph: 221</field>
+     <field name="collection_teim">Elizabeth Robins Papers</field>
++    <field name="author_teim">Janet Evander.</field>
+     <field name="collection_unitid_teim">MSS.002</field>
+     <field name="series_sim">Series IX: Photographic Material</field>
+     <field name="series_sim">Subseries B: General Portraits</field>
+-    <field name="series_si">Series IX: Photographic Material &gt;&gt; Subseries B: General Portraits &gt;&gt; O'Leary, Miriam</field>
+-    <field name="heading_ssm">O'Leary, Miriam</field>
++    <field name="series_si">Series IX: Photographic Material &gt;&gt; Subseries B: General Portraits &gt;&gt; O&#39;Leary, Miriam</field>
++    <field name="heading_ssm">O&#39;Leary, Miriam</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1915</field>
+   </doc>

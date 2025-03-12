@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Larry Rivers Papers</field>
+     <field name="collection_unitid_ssm">MSS.293</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Stern, Odile &amp; Richard</field>
+-    <field name="unittitle_teim">Stern, Odile &amp; Richard</field>
++    <field name="unittitle_ssm">Stern, Odile &amp; Richard
++</field>
++    <field name="unittitle_teim">Stern, Odile &amp; Richard
++</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/547469</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/547469</field>
+     <field name="unitdate_normal_ssm">1977/2000</field>
+@@ -37,11 +39,14 @@
+     <field name="location_ssm">Box: 14, Folder: 15</field>
+     <field name="location_si">Box: 14, Folder: 15</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
++    <field name="author_teim">Nicholas Martin</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries A: Known Senders</field>
+-    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries A: Known Senders &gt;&gt; Stern, Odile &amp; Richard</field>
+-    <field name="heading_ssm">Stern, Odile &amp; Richard</field>
++    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries A: Known Senders &gt;&gt; Stern, Odile &amp; Richard
++</field>
++    <field name="heading_ssm">Stern, Odile &amp; Richard
++</field>
+     <field name="unitdate_start_sim">1977</field>
+     <field name="unitdate_start_ssm">1977</field>
+     <field name="unitdate_start_si">1977</field>

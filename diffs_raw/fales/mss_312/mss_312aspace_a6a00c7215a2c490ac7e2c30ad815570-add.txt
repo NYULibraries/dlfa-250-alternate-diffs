@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1980/2010</field>
+     <field name="unitdate_normal_sim">1980/2010</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="scopecontent_teim">Content includes Vigil, street scenes; Amal's Oil Refinery</field>
++    <field name="scopecontent_teim">Content includes Vigil, street scenes; Amal&#39;s Oil Refinery</field>
+     <field name="ref_ssi">aspace_a6a00c7215a2c490ac7e2c30ad815570</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 150, MiniDV: 312_1146</field>
+     <field name="location_si">Box: 150, MiniDV: 312_1146</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+     <field name="series_si">Series I. Video Productions &gt;&gt; Clip Compilation</field>

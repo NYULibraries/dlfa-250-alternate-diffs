@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1888/1888</field>
+     <field name="unitdate_normal_sim">1888/1888</field>
+     <field name="unitdate_inclusive_teim">circa 1888</field>
+-    <field name="scopecontent_teim">The Fair. Herbert Kinsley, ed. The Fair's Original Household Recipes. Chicago, IL: The Fair, 1888.</field>
++    <field name="scopecontent_teim">The Fair. Herbert Kinsley, ed.  The Fair&#39;s Original Household Recipes. Chicago, IL: The Fair, 1888.</field>
+     <field name="ref_ssi">aspace_ref405</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 22, Folder: 7</field>
+     <field name="location_si">Box: 22, Folder: 7</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Kinsley, H. M.</field>

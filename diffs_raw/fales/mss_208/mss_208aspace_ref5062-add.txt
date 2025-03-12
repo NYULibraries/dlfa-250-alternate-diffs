@@ -1,0 +1,26 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,12 +30,12 @@
+     <field name="unitdate_normal_sim">1904/1904</field>
+     <field name="unitdate_inclusive_teim">1904 August 21</field>
+     <field name="scopecontent_teim">1 Letter, 1 Envelope</field>
+-    <field name="scopecontent_teim">Addressed To: "My little darling," [Family of Cornelia Conway Felton Horsford]</field>
++    <field name="scopecontent_teim">Addressed To: &#34;My little darling,&#34; [Family of Cornelia Conway Felton Horsford]</field>
+     <field name="scopecontent_teim">Sent From: [Cornelia Conway Felton Horsford, 27 Craigie Street, Cambridge, MA / Sylvester Manor, Shelter Island, NY]</field>
+     <field name="scopecontent_teim">In Reference to: Family / Friendship / Personal / Social</field>
+     <field name="scopecontent_teim">4 Pages, Bound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 5.25" x 3.25" - 5.5" x 6"</field>
++    <field name="scopecontent_teim">Measurements: 5.25&#34; x 3.25&#34; - 5.5&#34; x 6&#34; </field>
+     <field name="dao_teim">[Unknown]: Cambridge, MA; Shelter Island, NY: 1904 August 21</field>
+     <field name="dao_ssm">[Unknown]: Cambridge, MA; Shelter Island, NY: 1904 August 21</field>
+     <field name="ref_ssi">aspace_ref5062</field>
+@@ -48,6 +48,7 @@
+     <field name="location_si">Box: 104, Folder: 59</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series H: Cornelia Conway Felton Horsford (Nellie)</field>

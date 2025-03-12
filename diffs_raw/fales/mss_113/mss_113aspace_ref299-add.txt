@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">REPOhistory Archive</field>
+     <field name="collection_unitid_ssm">MSS.113</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">'Building Histories' at Apex Art</field>
+-    <field name="unittitle_teim">'Building Histories' at Apex Art</field>
++    <field name="unittitle_ssm">&#39;Building Histories&#39; at Apex Art</field>
++    <field name="unittitle_teim">&#39;Building Histories&#39; at Apex Art</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/441103</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/441103</field>
+     <field name="unitdate_teim">1999</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 9, Folder: 5</field>
+     <field name="location_si">Box: 9, Folder: 5</field>
+     <field name="collection_teim">REPOhistory Archive</field>
++    <field name="author_teim">Alan Moore, Jim Costanzo, and Koo Lee - 2001; Leif Sorensen, 2003. Updated by Nicholas Martin, 2012</field>
+     <field name="collection_unitid_teim">MSS.113</field>
+     <field name="series_sim">Series II: Projects</field>
+     <field name="series_sim">Subseries I: Related Projects</field>
+-    <field name="series_si">Series II: Projects &gt;&gt; Subseries I: Related Projects &gt;&gt; 'Building Histories' at Apex Art</field>
+-    <field name="heading_ssm">'Building Histories' at Apex Art</field>
++    <field name="series_si">Series II: Projects &gt;&gt; Subseries I: Related Projects &gt;&gt; &#39;Building Histories&#39; at Apex Art</field>
++    <field name="heading_ssm">&#39;Building Histories&#39; at Apex Art</field>
+     <field name="unitdate_ssm">1999</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">289</field>

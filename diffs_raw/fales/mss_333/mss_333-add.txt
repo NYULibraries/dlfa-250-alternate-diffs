@@ -1,0 +1,84 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <add>
+   <doc>
+-    <field name="author_teim">Rachel Pedderson and Rhyannon J. Rodriguez, 2012.</field>
+-    <field name="author_ssm">Rachel Pedderson and Rhyannon J. Rodriguez, 2012.</field>
++    <field name="author_teim">Rachel Pedderson and Rhyannon J. Rodriguez, 2012. </field>
++    <field name="author_ssm">Rachel Pedderson and Rhyannon J. Rodriguez, 2012. </field>
+     <field name="unittitle_teim">Parasite Archive</field>
+     <field name="unittitle_ssm">Parasite Archive</field>
+     <field name="unitid_teim">MSS.333</field>
+@@ -21,10 +21,11 @@
+     <field name="unitdate_bulk_teim">1991-1999</field>
+     <field name="unitdate_inclusive_teim">1966-1999</field>
+     <field name="scopecontent_teim">The Parasite Archive includes administrative records, articles, correspondence, ephemera, photography, promotional materials, objects, and audiovisual elements. The bulk of the collection is from the Parasite Document Collection, which was a resource of contemporary and historical documents relating to project-based activity, created by the collective during their active years, and is supplemented by administrative records saved by the Collective, and by their treasurer Ben Kinmont.</field>
+-    <field name="bioghist_teim">Parasite was an artist-run organization that was committed to supporting, documenting, and presenting project-based artwork. Primarily active between the years 1997 - 1998, Parasite aimed to establish a discursive context for project work and related issues. As a secondary (or para) site for projects undertaken at other locations, Parasite aspired to develop this discursive context by a variety of activities undertaken from within "host" organizations. Through these activities, Parasite sought to challenge existing modes of the presentation and distribution of art, and to develop new modes of individual and organizational participation in artists' projects.</field>
+-    <field name="bioghist_teim">Among Parasite's activities were the temporary occupation of existing organizations for the purpose of presenting projects in various stages of development. Presentations, symposia, discussion groups, and other public programs concentrated on issues taken up by particular artists as well as concerns relevant to the field, such as artistic autonomy, censorship, and sponsorship. In addition, Parasite continuously updated the "Parasite Document Collection," which developed into an aquisition of contemporary and historical documents relating to project-based activity, including records of completed projects and, where possible, proposals, contracts, and correspondence.</field>
+-    <field name="bioghist_teim">-- Adapted from The Parasite Mission Statement, 1997 (The Parasite Archive; MSS 333; Box 4; Folder 96; Fales Library and Special Collections, New York University Libraries).</field>
+-    <field name="custodhist_teim">The Parasite Archive was donated to the Fales Library in 2011 by members of the collective. The bulk of the collection (the Parasite Document Collection, as well as Services Files and some administrative files) had been stored in a filing cabinet created by Parasite as a public resource. The filing cabinet was transferred to Fales from the Shedhalle in Zurich, Switzerland, where it had been shipped as part of a project in the late 1990s. The remainder of the collection was donated directly from Ben Kinmont, who was the group's treasurer.</field>
++    <field name="bioghist_teim">Parasite was an artist-run organization that was committed to supporting, documenting, and presenting project-based artwork. Primarily active between the years 1997 - 1998, Parasite aimed to establish a discursive context for project work and related issues. As a secondary (or para) site for projects undertaken at other locations, Parasite aspired to develop this discursive context by a variety of activities undertaken from within &#34;host&#34; organizations. Through these activities, Parasite sought to challenge existing modes of the presentation and distribution of art, and to develop new modes of individual and organizational participation in artists&#39; projects.</field>
++    <field name="bioghist_teim">Among Parasite&#39;s activities were the temporary occupation of existing organizations for the purpose of presenting projects in various stages of development. Presentations, symposia, discussion groups, and other public programs concentrated on issues taken up by particular artists as well as concerns relevant to the field, such as artistic autonomy, censorship, and sponsorship. In addition, Parasite continuously updated the &#34;Parasite Document Collection,&#34; which developed into an aquisition of contemporary and historical documents relating to project-based activity, including records of completed projects and, where possible, proposals, contracts, and correspondence. </field>
++    <field name="bioghist_teim">
++-- Adapted from The Parasite Mission Statement, 1997 (The Parasite Archive; MSS 333; Box 4; Folder 96; Fales Library and Special Collections, New York University Libraries).</field>
++    <field name="custodhist_teim">The Parasite Archive was donated to the Fales Library in 2011 by members of the collective. The bulk of the collection (the Parasite Document Collection, as well as Services Files and some administrative files) had been stored in a filing cabinet created by Parasite as a public resource. The filing cabinet was transferred to Fales from the Shedhalle in Zurich, Switzerland, where it had been shipped as part of a project in the late 1990s. The remainder of the collection was donated directly from Ben Kinmont, who was the group&#39;s treasurer.</field>
+     <field name="phystech_teim">Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">Parasite</field>
+@@ -43,7 +44,7 @@
+     <field name="persname_teim">Kafehsy, Sylvia</field>
+     <field name="persname_teim">Karamustafa, Gülsün</field>
+     <field name="persname_teim">Fraser, Andrea</field>
+-    <field name="persname_teim">Green, Renée</field>
++    <field name="persname_teim">Green,  Renée</field>
+     <field name="persname_teim">Dion, Mark, 1961-</field>
+     <field name="persname_teim">Fend, Peter</field>
+     <field name="persname_teim">Cottingham, Laura</field>
+@@ -64,7 +65,7 @@
+     <field name="persname_ssm">Kafehsy, Sylvia</field>
+     <field name="persname_ssm">Karamustafa, Gülsün</field>
+     <field name="persname_ssm">Fraser, Andrea</field>
+-    <field name="persname_ssm">Green, Renée</field>
++    <field name="persname_ssm">Green,  Renée</field>
+     <field name="persname_ssm">Dion, Mark, 1961-</field>
+     <field name="persname_ssm">Fend, Peter</field>
+     <field name="persname_ssm">Cottingham, Laura</field>
+@@ -92,7 +93,7 @@
+     <field name="subject_teim">Art -- Collectors and collecting.</field>
+     <field name="subject_teim">Art patronage.</field>
+     <field name="subject_teim">Alternative spaces (Arts facilities).</field>
+-    <field name="subject_teim">Art -- Management -- United States</field>
++    <field name="subject_teim">Art --Management --United States</field>
+     <field name="subject_teim">Art -- Censorship -- United States.</field>
+     <field name="subject_teim">Art and society.</field>
+     <field name="subject_teim">Art and state.</field>
+@@ -134,7 +135,7 @@
+     <field name="name_sim">Kafehsy, Sylvia</field>
+     <field name="name_sim">Karamustafa, Gülsün</field>
+     <field name="name_sim">Fraser, Andrea</field>
+-    <field name="name_sim">Green, Renée</field>
++    <field name="name_sim">Green,  Renée</field>
+     <field name="name_sim">Dion, Mark, 1961-</field>
+     <field name="name_sim">Fend, Peter</field>
+     <field name="name_sim">Cottingham, Laura</field>
+@@ -154,7 +155,7 @@
+     <field name="name_teim">Kafehsy, Sylvia</field>
+     <field name="name_teim">Karamustafa, Gülsün</field>
+     <field name="name_teim">Fraser, Andrea</field>
+-    <field name="name_teim">Green, Renée</field>
++    <field name="name_teim">Green,  Renée</field>
+     <field name="name_teim">Dion, Mark, 1961-</field>
+     <field name="name_teim">Fend, Peter</field>
+     <field name="name_teim">Cottingham, Laura</field>
+@@ -168,7 +169,7 @@
+     <field name="subject_sim">Art -- Collectors and collecting.</field>
+     <field name="subject_sim">Art patronage.</field>
+     <field name="subject_sim">Alternative spaces (Arts facilities).</field>
+-    <field name="subject_sim">Art -- Management -- United States</field>
++    <field name="subject_sim">Art --Management --United States</field>
+     <field name="subject_sim">Art -- Censorship -- United States.</field>
+     <field name="subject_sim">Art and society.</field>
+     <field name="subject_sim">Art and state.</field>

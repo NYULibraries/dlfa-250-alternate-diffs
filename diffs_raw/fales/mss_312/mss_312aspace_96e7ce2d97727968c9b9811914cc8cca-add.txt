@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Rock the Boat&lt;/em&gt; -- "No Hay Paz"</field>
+-    <field name="unittitle_teim">Rock the Boat -- "No Hay Paz"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Rock the Boat&lt;/em&gt; -- &#34;No Hay Paz&#34;</field>
++    <field name="unittitle_teim">Rock the Boat -- &#34;No Hay Paz&#34;</field>
+     <field name="unitid_teim">cuid39353</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974297</field>
+     <field name="unitid_ssm">cuid39353</field>
+@@ -24,8 +24,8 @@
+     <field name="unitdate_normal_sim">1992-09-29/1992-10-01</field>
+     <field name="unitdate_inclusive_teim">September 29 - October 1, 1992</field>
+     <field name="scopecontent_teim">Produced by Roberto Arevalo with Somerville Community Access TV</field>
+-    <field name="dao_teim">Rock the Boat -- "No Hay Paz": circa 1992</field>
+-    <field name="dao_ssm">Rock the Boat -- "No Hay Paz": circa 1992</field>
++    <field name="dao_teim">Rock the Boat -- &#34;No Hay Paz&#34;: circa 1992</field>
++    <field name="dao_ssm">Rock the Boat -- &#34;No Hay Paz&#34;: circa 1992</field>
+     <field name="ref_ssi">aspace_96e7ce2d97727968c9b9811914cc8cca</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -38,10 +38,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_83</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Rock the Boat&lt;/em&gt; -- "No Hay Paz"</field>
+-    <field name="heading_ssm">Rock the Boat -- "No Hay Paz"</field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Rock the Boat&lt;/em&gt; -- &#34;No Hay Paz&#34;</field>
++    <field name="heading_ssm">Rock the Boat -- &#34;No Hay Paz&#34;</field>
+     <field name="unitdate_ssm">Inclusive, September 29 - October 1, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">262</field>

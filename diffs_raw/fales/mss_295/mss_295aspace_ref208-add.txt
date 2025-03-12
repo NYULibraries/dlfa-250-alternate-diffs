@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1892/1892</field>
+     <field name="unitdate_normal_sim">1892/1892</field>
+     <field name="unitdate_inclusive_teim">1892</field>
+-    <field name="scopecontent_teim">Ayer &amp; Co. Ayer's Preserve Book. Lowell, MA: Dr. J. C. Ayer &amp; Co., undated.</field>
+-    <field name="scopecontent_teim">Ayer &amp; Co. Ayer's Book of Pies and Puddings. Lowell, MA: Dr. J. C. Ayers, 1892.</field>
++    <field name="scopecontent_teim">Ayer &amp; Co. Ayer&#39;s Preserve Book. Lowell, MA: Dr. J. C. Ayer &amp; Co., undated.</field>
++    <field name="scopecontent_teim"> Ayer &amp; Co. Ayer&#39;s Book of Pies and Puddings. Lowell, MA: Dr. J. C. Ayers, 1892.</field>
+     <field name="ref_ssi">aspace_ref208</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 11, Folder: 19</field>
+     <field name="location_si">Box: 11, Folder: 19</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Dr. J. C. Ayer &amp; Company</field>

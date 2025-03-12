@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1889/1889</field>
+     <field name="unitdate_normal_sim">1889/1889</field>
+     <field name="unitdate_inclusive_teim">1889</field>
+-    <field name="scopecontent_teim">Mrs. Lincoln's Baking Powder Co. Lincoln, Mary J. Mrs. Lincoln's Baking Powder Company Cook Book. Boston, MA: Mrs. Lincoln's Baking Powder Co., 1899.</field>
+-    <field name="scopecontent_teim">Mrs. Lincoln's Baking Powder Co. Lincoln, Mary J. A Cook Book for a Month at a Time. Boston, MA: Mrs Lincoln's Baking Powder Co, 1899.</field>
++    <field name="scopecontent_teim">Mrs. Lincoln&#39;s Baking Powder Co. Lincoln, Mary J. Mrs. Lincoln&#39;s Baking Powder Company Cook Book. Boston, MA: Mrs. Lincoln&#39;s Baking Powder Co., 1899.</field>
++    <field name="scopecontent_teim"> Mrs. Lincoln&#39;s Baking Powder Co. Lincoln, Mary J. A Cook Book for a Month at a Time. Boston, MA: Mrs Lincoln&#39;s Baking Powder Co, 1899.</field>
+     <field name="ref_ssi">aspace_ref1027</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 26, Folder: 5</field>
+     <field name="location_si">Box: 26, Folder: 5</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; Mrs. Mary J. Lincoln</field>

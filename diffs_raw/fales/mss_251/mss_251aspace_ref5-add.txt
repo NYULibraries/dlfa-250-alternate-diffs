@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Split Britches Archive</field>
+     <field name="collection_unitid_ssm">MSS.251</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subseries C: Women's One World Festival Materials</field>
+-    <field name="unittitle_teim">Subseries C: Women's One World Festival Materials</field>
++    <field name="unittitle_ssm">Subseries C: Women&#39;s One World Festival Materials</field>
++    <field name="unittitle_teim">Subseries C: Women&#39;s One World Festival Materials</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/531707</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/531707</field>
+     <field name="ref_ssi">aspace_ref5</field>
+@@ -24,10 +24,11 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Split Britches Archive</field>
++    <field name="author_teim">Rosemary K. J. Davis, 2011.</field>
+     <field name="collection_unitid_teim">MSS.251</field>
+     <field name="series_sim">Series II: Promotion, Press, and Clippings</field>
+-    <field name="series_si">Series II: Promotion, Press, and Clippings &gt;&gt; Subseries C: Women's One World Festival Materials</field>
+-    <field name="heading_ssm">Subseries C: Women's One World Festival Materials</field>
++    <field name="series_si">Series II: Promotion, Press, and Clippings &gt;&gt; Subseries C: Women&#39;s One World Festival Materials</field>
++    <field name="heading_ssm">Subseries C: Women&#39;s One World Festival Materials</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">91</field>
+   </doc>

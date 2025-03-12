@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Floristas" Third World Newsreel Workshop</field>
+-    <field name="unittitle_teim">"Floristas" Third World Newsreel Workshop</field>
++    <field name="unittitle_ssm">&#34;Floristas&#34; Third World Newsreel Workshop</field>
++    <field name="unittitle_teim">&#34;Floristas&#34; Third World Newsreel Workshop</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974497</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/974497</field>
+     <field name="unitdate_normal_ssm">1994-05-12/1994-05-13</field>
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1994-05-12/1994-05-13</field>
+     <field name="unitdate_normal_sim">1994-05-12/1994-05-13</field>
+     <field name="unitdate_inclusive_teim">May 12-13, 1994</field>
+-    <field name="scopecontent_teim">Produced by Ruben Gonzalez; includes "Leticia Goes to Work" and "Leticia's Interview"</field>
++    <field name="scopecontent_teim">Produced by Ruben Gonzalez; includes &#34;Leticia Goes to Work&#34; and &#34;Leticia&#39;s Interview&#34;</field>
+     <field name="ref_ssi">aspace_a2728e3ce14234935c9780810b8667c2</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 123, U-matic: 312_0515, 312_0517</field>
+     <field name="location_si">Box: 123, U-matic: 312_0515, 312_0517</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series III. Events</field>
+-    <field name="series_si">Series III. Events &gt;&gt; "Floristas" Third World Newsreel Workshop</field>
+-    <field name="heading_ssm">"Floristas" Third World Newsreel Workshop</field>
++    <field name="series_si">Series III. Events &gt;&gt; &#34;Floristas&#34; Third World Newsreel Workshop</field>
++    <field name="heading_ssm">&#34;Floristas&#34; Third World Newsreel Workshop</field>
+     <field name="unitdate_ssm">Inclusive, May 12-13, 1994</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1590</field>

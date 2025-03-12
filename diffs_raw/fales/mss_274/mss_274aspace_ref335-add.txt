@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,8 +27,7 @@
+     <field name="unitdate_normal_sim">2008-09-24/2008-09-24</field>
+     <field name="unitdate_normal_sim">2019/2019</field>
+     <field name="unitdate_teim">2008-09-24</field>
+-    <field name="unitdate_teim"></field>
+-    <field name="phystech_teim">4.5" CD-R</field>
++    <field name="phystech_teim">4.5&#34; CD-R</field>
+     <field name="ref_ssi">aspace_ref335</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -36,9 +35,10 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 9, Media: ID: 274.0013</field>
+-    <field name="location_ssm">E-records: fales_mss274, E-records: FA_MSS_274_3</field>
+-    <field name="location_si">E-records: fales_mss274, E-records: FA_MSS_274_3</field>
++    <field name="location_ssm">E-records: fales_mss274, E-records: FA_MSS_274_3 </field>
++    <field name="location_si">E-records: fales_mss274, E-records: FA_MSS_274_3 </field>
+     <field name="collection_teim">Guerrilla Girls Archive</field>
++    <field name="author_teim">Rosemary K. J. Davis.</field>
+     <field name="collection_unitid_teim">MSS.274</field>
+     <field name="series_sim">Series VII: Media</field>
+     <field name="series_sim">Subseries A: Originals</field>
+@@ -50,8 +50,7 @@
+     <field name="unitdate_end_sim">2019</field>
+     <field name="unitdate_end_ssm">2019</field>
+     <field name="unitdate_end_si">2019</field>
+-    <field name="unitdate_ssm">2008-09-24</field>
+-    <field name="date_range_sim">2001-2100</field>
++    <field name="unitdate_ssm">2008-09-24  </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">242</field>
+   </doc>

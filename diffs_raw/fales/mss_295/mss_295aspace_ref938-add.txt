@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1912/1912</field>
+     <field name="unitdate_normal_sim">1912/1912</field>
+     <field name="unitdate_inclusive_teim">1912</field>
+-    <field name="scopecontent_teim">Great Atlantic &amp; Pacific Tea Company. Colonel Goodbody's Red Setter Menus. Place of publication unknown: The Great Atlantic &amp; Pacific Tea Co., undated.</field>
+-    <field name="scopecontent_teim">Great Atlantic &amp; Pacific Tea Company. Grocery Catalogue 1912. Wheeler Block, Glen Cove, NY: Great Atlantic &amp; Pacific Tea Company, 1912.</field>
++    <field name="scopecontent_teim">Great Atlantic &amp; Pacific Tea Company. Colonel Goodbody&#39;s Red Setter Menus. Place of publication unknown: The Great Atlantic &amp; Pacific Tea Co., undated.</field>
++    <field name="scopecontent_teim"> Great Atlantic &amp; Pacific Tea Company. Grocery Catalogue 1912. Wheeler Block, Glen Cove, NY: Great Atlantic &amp; Pacific Tea Company, 1912.</field>
+     <field name="ref_ssi">aspace_ref938</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 17, Folder: 11</field>
+     <field name="location_si">Box: 17, Folder: 11</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The Great Atlantic &amp; Pacific Tea Company</field>

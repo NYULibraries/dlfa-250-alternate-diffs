@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1972/2008</field>
+     <field name="unitdate_normal_sim">1972/2008</field>
+     <field name="unitdate_inclusive_teim">1972-2008</field>
+-    <field name="scopecontent_teim">Series IV contains financial records, charitable contributions, contracts and agreements, royalty statements, board minutes (Fence magazine), material (including correspondence) relating to a Columbia University writing class taught by Straub, and material regarding Straub's appearance on One Life to Live.</field>
++    <field name="scopecontent_teim">Series IV contains financial records, charitable contributions, contracts and agreements, royalty statements, board minutes (Fence magazine), material (including correspondence) relating to a Columbia University writing class taught by Straub, and material regarding Straub&#39;s appearance on One Life to Live.</field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -25,6 +25,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Peter Straub Papers</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.185</field>
+     <field name="series_si">Series IV: Administrative Files</field>
+     <field name="heading_ssm">Series IV: Administrative Files</field>

@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Geoffrey T. Hellman Papers</field>
+     <field name="collection_unitid_ssm">MSS.050</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">American Museum of Natural History Frank M. Chapman's Scrapbook (on shelf)</field>
+-    <field name="unittitle_teim">American Museum of Natural History Frank M. Chapman's Scrapbook (on shelf)</field>
++    <field name="unittitle_ssm">American Museum of Natural History Frank M. Chapman&#39;s Scrapbook (on shelf)</field>
++    <field name="unittitle_teim">American Museum of Natural History Frank M. Chapman&#39;s Scrapbook (on shelf)</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/403013</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/403013</field>
+     <field name="unitdate_teim">1933-1934</field>
+@@ -27,10 +27,12 @@
+     <field name="location_ssm">Box: 39, Folder: 189</field>
+     <field name="location_si">Box: 39, Folder: 189</field>
+     <field name="collection_teim">Geoffrey T. Hellman Papers</field>
++    <field name="author_teim">Frank Walker, Jeanne Mixon, and Marilyn Petit. 
++ Additional assistance: Marion Casey, Joan Grant, Russell James, William Koss, Robert Mcdermott, John-Paul Richiuso, and Pamela Smith.</field>
+     <field name="collection_unitid_teim">MSS.050</field>
+     <field name="series_sim">Oversize - Series 3: Subject Category</field>
+-    <field name="series_si">Oversize - Series 3: Subject Category &gt;&gt; American Museum of Natural History Frank M. Chapman's Scrapbook (on shelf)</field>
+-    <field name="heading_ssm">American Museum of Natural History Frank M. Chapman's Scrapbook (on shelf)</field>
++    <field name="series_si">Oversize - Series 3: Subject Category &gt;&gt; American Museum of Natural History Frank M. Chapman&#39;s Scrapbook (on shelf)</field>
++    <field name="heading_ssm">American Museum of Natural History Frank M. Chapman&#39;s Scrapbook (on shelf)</field>
+     <field name="unitdate_ssm">1933-1934</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">617</field>

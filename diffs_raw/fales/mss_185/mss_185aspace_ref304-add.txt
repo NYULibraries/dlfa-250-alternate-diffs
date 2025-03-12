@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Peter Straub Papers</field>
+     <field name="collection_unitid_ssm">MSS.185</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Churchill's Mass. Inst of Technology Speech. Part Two</field>
+-    <field name="unittitle_teim">Churchill's Mass. Inst of Technology Speech. Part Two</field>
++    <field name="unittitle_ssm">Churchill&#39;s Mass. Inst of Technology Speech. Part Two</field>
++    <field name="unittitle_teim">Churchill&#39;s Mass. Inst of Technology Speech. Part Two</field>
+     <field name="unitid_teim">ID: 185.0027</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/500757</field>
+     <field name="unitid_ssm">ID: 185.0027</field>
+@@ -33,11 +33,12 @@
+     <field name="location_ssm">Box: 68, Media: ID: 185.0027</field>
+     <field name="location_si">Box: 68, Media: ID: 185.0027</field>
+     <field name="collection_teim">Peter Straub Papers</field>
++    <field name="author_teim">Lawrence Giffin</field>
+     <field name="collection_unitid_teim">MSS.185</field>
+     <field name="series_sim">Series XI: Audio</field>
+     <field name="series_sim">Subseries B: Originals</field>
+-    <field name="series_si">Series XI: Audio &gt;&gt; Subseries B: Originals &gt;&gt; Churchill's Mass. Inst of Technology Speech. Part Two</field>
+-    <field name="heading_ssm">Churchill's Mass. Inst of Technology Speech. Part Two</field>
++    <field name="series_si">Series XI: Audio &gt;&gt; Subseries B: Originals &gt;&gt; Churchill&#39;s Mass. Inst of Technology Speech. Part Two</field>
++    <field name="heading_ssm">Churchill&#39;s Mass. Inst of Technology Speech. Part Two</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>

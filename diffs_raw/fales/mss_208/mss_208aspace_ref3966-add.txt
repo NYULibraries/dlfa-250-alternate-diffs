@@ -1,0 +1,54 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,12 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Kinne, Helen: Shelter Island, NY</field>
+-    <field name="unittitle_teim">Kinne, Helen: Shelter Island, NY</field>
++    <field name="unittitle_ssm">Kinne, Helen: Shelter Island, NY
++
++</field>
++    <field name="unittitle_teim">Kinne, Helen: Shelter Island, NY
++
++</field>
+     <field name="unitid_teim">cuid3612</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/511584</field>
+     <field name="unitid_ssm">cuid3612</field>
+@@ -30,12 +34,12 @@
+     <field name="unitdate_normal_sim">1886/1886</field>
+     <field name="unitdate_inclusive_teim">1886 September 22</field>
+     <field name="scopecontent_teim">1 Letter, 1 Envelope with Postage</field>
+-    <field name="scopecontent_teim">Addressed To: "Mrs. [Eben Norton] Horsford, Sylvester Manor, Shelter Island, NY"</field>
+-    <field name="scopecontent_teim">Sent From: "Librarian Helen Kinne, Shelter Island, NY"</field>
++    <field name="scopecontent_teim">Addressed To: &#34;Mrs. [Eben Norton] Horsford, Sylvester Manor, Shelter Island, NY&#34;</field>
++    <field name="scopecontent_teim">Sent From: &#34;Librarian Helen Kinne, Shelter Island, NY&#34;</field>
+     <field name="scopecontent_teim">In Reference To: Academic / Business / Education / Professional</field>
+     <field name="scopecontent_teim">2 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 4.75" x 3.25" - 4.5" x 6.75"</field>
++    <field name="scopecontent_teim">Measurements: 4.75&#34; x 3.25&#34; - 4.5&#34; x 6.75&#34;</field>
+     <field name="dao_teim">Kinne, Helen: Shelter Island, NY</field>
+     <field name="dao_teim">: 1886 September 22</field>
+     <field name="dao_ssm">Kinne, Helen: Shelter Island, NY</field>
+@@ -50,12 +54,17 @@
+     <field name="location_si">Box: 94, Folder: 10</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series C: Phoebe Dayton Gardiner Horsford</field>
+     <field name="series_sim">Subseries 1: Correspondence</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Kinne, Helen: Shelter Island, NY</field>
+-    <field name="heading_ssm">Kinne, Helen: Shelter Island, NY</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Kinne, Helen: Shelter Island, NY
++
++</field>
++    <field name="heading_ssm">Kinne, Helen: Shelter Island, NY
++
++</field>
+     <field name="unitdate_start_sim">1886</field>
+     <field name="unitdate_start_ssm">1886</field>
+     <field name="unitdate_start_si">1886</field>

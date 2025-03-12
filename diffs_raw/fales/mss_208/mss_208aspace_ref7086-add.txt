@@ -1,0 +1,47 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1792</field>
+     <field name="parent_ssm">aspace_ref7074</field>
+     <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_ssm">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_ssm">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+-    <field name="parent_unittitles_teim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
++    <field name="parent_unittitles_teim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sylvester Manor Archive</field>
+@@ -26,13 +26,13 @@
+     <field name="unitdate_normal_teim">1825/1825</field>
+     <field name="unitdate_normal_sim">1825/1825</field>
+     <field name="unitdate_inclusive_teim">1825 January 25; undated, circa 1825</field>
+-    <field name="scopecontent_teim">2 Letters</field>
+-    <field name="scopecontent_teim">Addressed To: "Miss Sarah F. Dering, Shelter Island," [NY] [Cousin of Mary Catherine L'Hommedieu Gardiner]</field>
+-    <field name="scopecontent_teim">Sent From: "Mary Catherine L'Hommedieu Gardiner, No 10, Liberty Street, New York," [NY]</field>
++    <field name="scopecontent_teim">2 Letters </field>
++    <field name="scopecontent_teim">Addressed To: &#34;Miss Sarah F. Dering, Shelter Island,&#34; [NY] [Cousin of Mary Catherine L&#39;Hommedieu Gardiner]</field>
++    <field name="scopecontent_teim">Sent From: &#34;Mary Catherine L&#39;Hommedieu Gardiner, No 10, Liberty Street, New York,&#34; [NY]</field>
+     <field name="scopecontent_teim">In Reference To: Family / Friendship / Social; Captain Brinley; Cousin Charles; Cousin Eliza; Lionel Lincoln; Miss Halsey; Mr. Cooper; Mrs. Laurence; Mr. Nicoll; Providence, RI; Richard Smith</field>
+     <field name="scopecontent_teim">6 Pages, Bound &amp; Unbound</field>
+     <field name="scopecontent_teim">Handwritten in Ink</field>
+-    <field name="scopecontent_teim">Measurements: 7.75" x 9.5"</field>
++    <field name="scopecontent_teim">Measurements: 7.75&#34; x 9.5&#34;</field>
+     <field name="dao_teim">Personal Correspondence: 1825 January 25; undated, circa 1825</field>
+     <field name="dao_ssm">Personal Correspondence: 1825 January 25; undated, circa 1825</field>
+     <field name="ref_ssi">aspace_ref7086</field>
+@@ -45,10 +45,11 @@
+     <field name="location_si">Box: 54, Folder: 33</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group III: Gardiner Family</field>
+-    <field name="series_sim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
+-    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L'Hommedieu Gardiner &gt;&gt; Personal Correspondence</field>
++    <field name="series_sim">Series B: Mary Catherine L&amp;#39;Hommedieu Gardiner</field>
++    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L&#39;Hommedieu Gardiner &gt;&gt; Personal Correspondence</field>
+     <field name="heading_ssm">Personal Correspondence</field>
+     <field name="unitdate_start_sim">1825</field>
+     <field name="unitdate_start_ssm">1825</field>

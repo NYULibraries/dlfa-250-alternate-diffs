@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,8 @@
+     <field name="collection_unitid_ssm">MSS.133</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;em&gt; Imagination Dead Imagine &lt;/em&gt; The Performing Garage, New York, NY; June 5-July 1</field>
+-    <field name="unittitle_teim">Imagination Dead Imagine The Performing Garage, New York, NY; June 5-July 1</field>
++    <field name="unittitle_teim"> Imagination Dead Imagine 
++ The Performing Garage, New York, NY; June 5-July 1</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/456652</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/456652</field>
+     <field name="unitdate_teim">1984</field>
+@@ -30,11 +31,13 @@
+     <field name="location_ssm">Box: 4, Folder: 170</field>
+     <field name="location_si">Box: 4, Folder: 170</field>
+     <field name="collection_teim">Mabou Mines Archive</field>
++    <field name="author_teim">Sharon Lehner, 2003; and William J. Levay, 2006-2007. Media updated by Luke Martin and Brent Phillips, 2008; YZ Chin, 2009. Further processing and description by Luke Martin, 2009. </field>
+     <field name="collection_unitid_teim">MSS.133</field>
+     <field name="series_sim">Series II: Programs</field>
+     <field name="series_sim">Subseries A: Mabou Mines productions</field>
+     <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; &lt;em&gt; Imagination Dead Imagine &lt;/em&gt; The Performing Garage, New York, NY; June 5-July 1</field>
+-    <field name="heading_ssm">Imagination Dead Imagine The Performing Garage, New York, NY; June 5-July 1</field>
++    <field name="heading_ssm"> Imagination Dead Imagine 
++ The Performing Garage, New York, NY; June 5-July 1</field>
+     <field name="unitdate_ssm">1984</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">175</field>

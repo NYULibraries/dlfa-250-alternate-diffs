@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">William Zinsser Papers</field>
+     <field name="collection_unitid_ssm">MSS.031</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Letters: What's the Point, CD</field>
+-    <field name="unittitle_teim">Letters: What's the Point, CD</field>
++    <field name="unittitle_ssm">Letters: What&#39;s the Point, CD</field>
++    <field name="unittitle_teim">Letters: What&#39;s the Point, CD</field>
+     <field name="unitdate_normal_ssm">2004/2004</field>
+     <field name="unitdate_normal_teim">2004/2004</field>
+     <field name="unitdate_normal_sim">2004/2004</field>
+@@ -31,11 +31,12 @@
+     <field name="location_ssm">Box: 11, Folder: 13</field>
+     <field name="location_si">Box: 11, Folder: 13</field>
+     <field name="collection_teim">William Zinsser Papers</field>
++    <field name="author_teim">Katherine Harris, June-November 1998</field>
+     <field name="collection_unitid_teim">MSS.031</field>
+     <field name="series_sim">Series I: Letters</field>
+     <field name="series_sim">Subseries D, Regarding his other books</field>
+-    <field name="series_si">Series I: Letters &gt;&gt; Subseries D, Regarding his other books &gt;&gt; Letters: What's the Point, CD</field>
+-    <field name="heading_ssm">Letters: What's the Point, CD</field>
++    <field name="series_si">Series I: Letters &gt;&gt; Subseries D, Regarding his other books &gt;&gt; Letters: What&#39;s the Point, CD</field>
++    <field name="heading_ssm">Letters: What&#39;s the Point, CD</field>
+     <field name="unitdate_start_sim">2004</field>
+     <field name="unitdate_start_ssm">2004</field>
+     <field name="unitdate_start_si">2004</field>

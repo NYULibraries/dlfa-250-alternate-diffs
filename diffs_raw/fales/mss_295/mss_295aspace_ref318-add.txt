@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,8 +21,8 @@
+     <field name="unitdate_normal_teim">1920/1939</field>
+     <field name="unitdate_normal_sim">1920/1939</field>
+     <field name="unitdate_inclusive_teim">circa 1920s, circa 1930s</field>
+-    <field name="scopecontent_teim">Hecker Cereal. Starting Right– Heckers' Cream Farina. New York, NY: Hecker Cereal Company, undated.</field>
+-    <field name="scopecontent_teim">Hecker-H-O Company. Presto Flour (Self-Rising) Recipe Book. Buffalo, NY: Hecker-H-O Company, undated.</field>
++    <field name="scopecontent_teim">Hecker Cereal. Starting Right– Heckers&#39; Cream Farina. New York, NY: Hecker Cereal Company, undated.</field>
++    <field name="scopecontent_teim"> Hecker-H-O Company. Presto Flour (Self-Rising) Recipe Book. Buffalo, NY: Hecker-H-O Company, undated.</field>
+     <field name="ref_ssi">aspace_ref318</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 18, Folder: 12</field>
+     <field name="location_si">Box: 18, Folder: 12</field>
+     <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
++    <field name="author_teim">Rhyannon Joy Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.295</field>
+     <field name="series_sim">Cookery Ephemera</field>
+     <field name="series_si">Cookery Ephemera &gt;&gt; The Hecker Cereal Company; The Heckler H-O Company</field>

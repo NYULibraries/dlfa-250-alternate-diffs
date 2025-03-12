@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_355</field>
+     <field name="parent_ssi">aspace_ref630</field>
+     <field name="parent_ssm">aspace_ref630</field>
+-    <field name="parent_unittitles_ssm">Oversize Series IV: Performance Group "Wooster Group"</field>
+-    <field name="parent_unittitles_teim">Oversize Series IV: Performance Group "Wooster Group"</field>
++    <field name="parent_unittitles_ssm">Oversize Series IV: Performance Group &amp;#34;Wooster Group&amp;#34;</field>
++    <field name="parent_unittitles_teim">Oversize Series IV: Performance Group &amp;#34;Wooster Group&amp;#34;</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Stefan Brecht Papers</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Stefan Brecht Papers</field>
+     <field name="collection_unitid_ssm">MSS.355</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"To You, The Birdie" (Phedre) [with Naropa poster]</field>
+-    <field name="unittitle_teim">"To You, The Birdie" (Phedre) [with Naropa poster]</field>
++    <field name="unittitle_ssm">&#34;To You, The Birdie&#34; (Phedre) [with Naropa poster]</field>
++    <field name="unittitle_teim">&#34;To You, The Birdie&#34; (Phedre) [with Naropa poster]</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/576114</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/576114</field>
+     <field name="unitdate_teim">[undated]</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Folder: 8</field>
+     <field name="location_si">Folder: 8</field>
+     <field name="collection_teim">Stefan Brecht Papers</field>
++    <field name="author_teim">Anna Gurton-Wachter, 2013 and Laurainne Ojo- Ohikuare, 2015.</field>
+     <field name="collection_unitid_teim">MSS.355</field>
+-    <field name="series_sim">Oversize Series IV: Performance Group "Wooster Group"</field>
+-    <field name="series_si">Oversize Series IV: Performance Group "Wooster Group" &gt;&gt; "To You, The Birdie" (Phedre) [with Naropa poster]</field>
+-    <field name="heading_ssm">"To You, The Birdie" (Phedre) [with Naropa poster]</field>
++    <field name="series_sim">Oversize Series IV: Performance Group &amp;#34;Wooster Group&amp;#34;</field>
++    <field name="series_si">Oversize Series IV: Performance Group &#34;Wooster Group&#34; &gt;&gt; &#34;To You, The Birdie&#34; (Phedre) [with Naropa poster]</field>
++    <field name="heading_ssm">&#34;To You, The Birdie&#34; (Phedre) [with Naropa poster]</field>
+     <field name="unitdate_ssm">[undated]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">738</field>

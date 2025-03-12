@@ -1,0 +1,48 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,10 +6,10 @@
+     <field name="parent_ssi">aspace_ref30</field>
+     <field name="parent_ssm">aspace_ref24</field>
+     <field name="parent_ssm">aspace_ref30</field>
+-    <field name="parent_unittitles_ssm">Series VIII: Film</field>
+-    <field name="parent_unittitles_ssm">Series VIII, Subseries B: Originals</field>
+-    <field name="parent_unittitles_teim">Series VIII: Film</field>
+-    <field name="parent_unittitles_teim">Series VIII, Subseries B: Originals</field>
++    <field name="parent_unittitles_ssm">Series VIII: Film&amp;#xA;</field>
++    <field name="parent_unittitles_ssm">Series VIII, Subseries B: Originals&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series VIII: Film&amp;#xA;</field>
++    <field name="parent_unittitles_teim">Series VIII, Subseries B: Originals&amp;#xA;</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Amos Poe Papers</field>
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Amos Poe Papers</field>
+     <field name="collection_unitid_ssm">MSS.203</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">[M &amp; M Candies "Cowboy" through "Puppet On A Chain" TV Spot]</field>
+-    <field name="unittitle_teim">[M &amp; M Candies "Cowboy" through "Puppet On A Chain" TV Spot]</field>
++    <field name="unittitle_ssm">[M &amp; M Candies &#34;Cowboy&#34; through &#34;Puppet On A Chain&#34; TV Spot]</field>
++    <field name="unittitle_teim">[M &amp; M Candies &#34;Cowboy&#34; through &#34;Puppet On A Chain&#34; TV Spot]</field>
+     <field name="unitid_teim">ID: 203.0203 - 203.0205</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/506898</field>
+     <field name="unitid_ssm">ID: 203.0203 - 203.0205</field>
+@@ -32,11 +32,14 @@
+     <field name="location_ssm">shelf: Media, Media: ID: 203.0203 - 203.0205</field>
+     <field name="location_si">shelf: Media, Media: ID: 203.0203 - 203.0205</field>
+     <field name="collection_teim">Amos Poe Papers</field>
++    <field name="author_teim">Rhyannon J. Rodriguez, 2009 - 2010. Finding aid completed by Ashley Todd, 2010</field>
+     <field name="collection_unitid_teim">MSS.203</field>
+-    <field name="series_sim">Series VIII: Film</field>
+-    <field name="series_sim">Series VIII, Subseries B: Originals</field>
+-    <field name="series_si">Series VIII: Film &gt;&gt; Series VIII, Subseries B: Originals &gt;&gt; [M &amp; M Candies "Cowboy" through "Puppet On A Chain" TV Spot]</field>
+-    <field name="heading_ssm">[M &amp; M Candies "Cowboy" through "Puppet On A Chain" TV Spot]</field>
++    <field name="series_sim">Series VIII: Film&amp;#xA;</field>
++    <field name="series_sim">Series VIII, Subseries B: Originals&amp;#xA;</field>
++    <field name="series_si">Series VIII: Film
++ &gt;&gt; Series VIII, Subseries B: Originals
++ &gt;&gt; [M &amp; M Candies &#34;Cowboy&#34; through &#34;Puppet On A Chain&#34; TV Spot]</field>
++    <field name="heading_ssm">[M &amp; M Candies &#34;Cowboy&#34; through &#34;Puppet On A Chain&#34; TV Spot]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1178</field>

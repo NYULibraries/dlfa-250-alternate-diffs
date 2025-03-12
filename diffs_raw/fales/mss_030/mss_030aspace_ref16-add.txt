@@ -1,0 +1,35 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_030</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">true</field>
+-    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+-    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_sim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="collection_ssm">Jill &#34;Billy&#34; Rainsford Papers</field>
+     <field name="collection_unitid_ssm">MSS.030</field>
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series One: Correspondence</field>
+@@ -15,8 +15,8 @@
+     <field name="unitdate_normal_teim">1922/1991</field>
+     <field name="unitdate_normal_sim">1922/1991</field>
+     <field name="unitdate_inclusive_teim">1922-1991</field>
+-    <field name="scopecontent_teim">Subseries A corresponds to the time when Billy was active in show business. It is arranged chronologically. Within this subseries one folder is arranged by subject: the "Rings of Smoke" tour and includes letters written to J.D. Rainsford from Billy.</field>
+-    <field name="scopecontent_teim">Subseries B is divided into subject files and includes: general correspondence, art and writing correspondence, "personal and meaningful" correspondence, and letters to publishers. Each file is arranged chronologically. Of special note are the letters Billy wrote and received from Lillian Gish and Frank Capra (1 each) as she was preparing to write her manuscript. These letters are located in the "personal and meaningful correspondence" file.</field>
++    <field name="scopecontent_teim">Subseries A corresponds to the time when Billy was active in show business. It is arranged chronologically. Within this subseries one folder is arranged by subject: the &#34;Rings of Smoke&#34; tour and includes letters written to J.D. Rainsford from Billy.</field>
++    <field name="scopecontent_teim">Subseries B is divided into subject files and includes: general correspondence, art and writing correspondence, &#34;personal and meaningful&#34; correspondence, and letters to publishers. Each file is arranged chronologically. Of special note are the letters Billy wrote and received from Lillian Gish and Frank Capra (1 each) as she was preparing to write her manuscript. These letters are located in the &#34;personal and meaningful correspondence&#34; file.</field>
+     <field name="scopecontent_teim">Subseries C is arranged by correspondent and chronologically within each folder for any one person who wrote a substantial number of letters to Billy.</field>
+     <field name="ref_ssi">aspace_ref16</field>
+     <field name="repository_ssi">fales</field>
+@@ -24,7 +24,8 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+-    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_teim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="author_teim">Colleen Eklow.</field>
+     <field name="collection_unitid_teim">MSS.030</field>
+     <field name="series_si">Series One: Correspondence</field>
+     <field name="heading_ssm">Series One: Correspondence</field>

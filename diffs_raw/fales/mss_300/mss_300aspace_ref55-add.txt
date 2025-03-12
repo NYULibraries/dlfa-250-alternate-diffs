@@ -1,0 +1,40 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_300</field>
+     <field name="parent_ssi">aspace_ref5</field>
+     <field name="parent_ssm">aspace_ref5</field>
+-    <field name="parent_unittitles_ssm">Series V: The Children's History Theatre</field>
+-    <field name="parent_unittitles_teim">Series V: The Children's History Theatre</field>
++    <field name="parent_unittitles_ssm">Series V: The Children&amp;#39;s History Theatre</field>
++    <field name="parent_unittitles_teim">Series V: The Children&amp;#39;s History Theatre</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Magie Dominic Off Off-Broadway Collection</field>
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Magie Dominic Off Off-Broadway Collection</field>
+     <field name="collection_unitid_ssm">MSS.300</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">The Children's History Theatre</field>
+-    <field name="unittitle_teim">The Children's History Theatre</field>
++    <field name="unittitle_ssm">The Children&#39;s History Theatre</field>
++    <field name="unittitle_teim">The Children&#39;s History Theatre</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/553885</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/553885</field>
+     <field name="unitdate_normal_ssm">1978/1984</field>
+@@ -30,10 +30,11 @@
+     <field name="location_ssm">binder: G</field>
+     <field name="location_si">binder: G</field>
+     <field name="collection_teim">Magie Dominic Off Off-Broadway Collection</field>
++    <field name="author_teim">Robin Preiss, with Nicholas Martin, 2013.</field>
+     <field name="collection_unitid_teim">MSS.300</field>
+-    <field name="series_sim">Series V: The Children's History Theatre</field>
+-    <field name="series_si">Series V: The Children's History Theatre &gt;&gt; The Children's History Theatre</field>
+-    <field name="heading_ssm">The Children's History Theatre</field>
++    <field name="series_sim">Series V: The Children&amp;#39;s History Theatre</field>
++    <field name="series_si">Series V: The Children&#39;s History Theatre &gt;&gt; The Children&#39;s History Theatre</field>
++    <field name="heading_ssm">The Children&#39;s History Theatre</field>
+     <field name="unitdate_start_sim">1978</field>
+     <field name="unitdate_start_ssm">1978</field>
+     <field name="unitdate_start_si">1978</field>

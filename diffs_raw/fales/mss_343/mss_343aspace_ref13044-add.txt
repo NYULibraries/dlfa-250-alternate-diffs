@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,13 @@
+     <field name="unitdate_teim">1988</field>
+     <field name="phystech_teim">Original Format: VHS</field>
+     <field name="phystech_teim">Duration: [01:00:00]</field>
+-    <field name="phystech_teim">Exit Art "Old Number" : 0435</field>
+-    <field name="phystech_teim">Track Listing: 1) "Infinito - 5" by Antoni Cano &amp; Pedro Garhel 2) "Disfraces Para un Cubo - II / Diguises for a Cube II" by Gerardo Armesto 3) "Txalaparta" by Isabel Herguera 4) "For My Art and the People I Love, I Will Gladly Stand till the End &amp; The Castaway" by Joan Pueyo 5) "Rescue &amp; First Aid" by A.R. Reixa</field>
++    <field name="phystech_teim">Exit Art &#34;Old Number&#34; : 0435</field>
++    <field name="phystech_teim">Track Listing:
++1) &#34;Infinito - 5&#34; by Antoni Cano &amp; Pedro Garhel
++2) &#34;Disfraces Para un Cubo - II / Diguises for a Cube II&#34; by Gerardo Armesto 
++3) &#34;Txalaparta&#34; by Isabel Herguera
++4) &#34;For My Art and the People I Love, I Will Gladly Stand till the End &amp; The Castaway&#34; by Joan Pueyo
++5) &#34;Rescue &amp; First Aid&#34; by A.R. Reixa</field>
+     <field name="ref_ssi">aspace_ref13044</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -33,6 +38,7 @@
+     <field name="location_ssm">Box: 463</field>
+     <field name="location_si">Box: 463</field>
+     <field name="collection_teim">Exit Art Archive</field>
++    <field name="author_teim">Rhyannon J. Rodriguez</field>
+     <field name="collection_unitid_teim">MSS.343</field>
+     <field name="series_sim">Series XIV: Video</field>
+     <field name="series_si">Series XIV: Video &gt;&gt; Videospain [1988.05]: Program 2, No. 39</field>

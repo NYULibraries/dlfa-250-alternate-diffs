@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Ira Silverberg Papers</field>
+     <field name="collection_unitid_ssm">MSS.110</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Acker, Kathy-Correspondence re: Acker printed from Silverberg's computer</field>
+-    <field name="unittitle_teim">Acker, Kathy-Correspondence re: Acker printed from Silverberg's computer</field>
++    <field name="unittitle_ssm">Acker, Kathy-Correspondence re: Acker printed from Silverberg&#39;s computer</field>
++    <field name="unittitle_teim">Acker, Kathy-Correspondence re: Acker printed from Silverberg&#39;s computer</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/438689</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/438689</field>
+     <field name="unitdate_teim">undated</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 1, Folder: 5</field>
+     <field name="location_si">Box: 1, Folder: 5</field>
+     <field name="collection_teim">Ira Silverberg Papers</field>
++    <field name="author_teim">Matt Moore, Will Culinan and Lisa Darms.</field>
+     <field name="collection_unitid_teim">MSS.110</field>
+     <field name="series_sim">Group 1, Series I: Correspondence</field>
+-    <field name="series_si">Group 1, Series I: Correspondence &gt;&gt; Acker, Kathy-Correspondence re: Acker printed from Silverberg's computer</field>
+-    <field name="heading_ssm">Acker, Kathy-Correspondence re: Acker printed from Silverberg's computer</field>
++    <field name="series_si">Group 1, Series I: Correspondence &gt;&gt; Acker, Kathy-Correspondence re: Acker printed from Silverberg&#39;s computer</field>
++    <field name="heading_ssm">Acker, Kathy-Correspondence re: Acker printed from Silverberg&#39;s computer</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">6</field>

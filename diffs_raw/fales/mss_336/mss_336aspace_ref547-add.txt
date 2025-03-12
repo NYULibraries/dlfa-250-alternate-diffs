@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Greenwall Foundation Archive</field>
+     <field name="collection_unitid_ssm">MSS.336</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">WNET - "Reel New York #301"</field>
+-    <field name="unittitle_teim">WNET - "Reel New York #301"</field>
++    <field name="unittitle_ssm">WNET - &#34;Reel New York #301&#34;</field>
++    <field name="unittitle_teim">WNET - &#34;Reel New York #301&#34;</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="phystech_teim">Original Format: VHS</field>
+     <field name="phystech_teim">Duration: Unknown</field>
+@@ -30,11 +30,12 @@
+     <field name="location_ssm">Box: 36, Cassette: ID: 336.0041</field>
+     <field name="location_si">Box: 36, Cassette: ID: 336.0041</field>
+     <field name="collection_teim">Greenwall Foundation Archive</field>
++    <field name="author_teim">Laura Newsome</field>
+     <field name="collection_unitid_teim">MSS.336</field>
+     <field name="series_sim">Series II: Media</field>
+     <field name="series_sim">Subseries A: Media</field>
+-    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; WNET - "Reel New York #301"</field>
+-    <field name="heading_ssm">WNET - "Reel New York #301"</field>
++    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; WNET - &#34;Reel New York #301&#34;</field>
++    <field name="heading_ssm">WNET - &#34;Reel New York #301&#34;</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">529</field>

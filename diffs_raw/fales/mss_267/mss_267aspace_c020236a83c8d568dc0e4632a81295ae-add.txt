@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitdate_normal_teim">1986-08-09/1986-08-09</field>
+     <field name="unitdate_normal_sim">1986-08-09/1986-08-09</field>
+     <field name="unitdate_teim">August 9, 1986</field>
+-    <field name="scopecontent_teim">This tape also includes a duplicate master of "Global Report" by Damaged Life.</field>
++    <field name="scopecontent_teim">This tape also includes a duplicate master of &#34;Global Report&#34; by Damaged Life.</field>
+     <field name="phystech_teim">Duration: 94 minutes.</field>
+     <field name="dao_teim">Damaged Life Compilation</field>
+     <field name="dao_ssm">Damaged Life Compilation</field>
+@@ -38,6 +38,7 @@
+     <field name="location_si">Box: 14, audiocassette: 267_356</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.267</field>
+     <field name="series_sim">Series III. Musical Recordings</field>
+     <field name="series_si">Series III. Musical Recordings &gt;&gt; Damaged Life Compilation</field>

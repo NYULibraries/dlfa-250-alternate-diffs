@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,9 @@
+     <field name="unitdate_normal_teim">1992/1992</field>
+     <field name="unitdate_normal_sim">1992/1992</field>
+     <field name="unitdate_teim">1992</field>
+-    <field name="phystech_teim">407.0008 duration: 60 minutes. 407.0011 duration: 60 minutes. 407.0078 Duration: 10 Minutes.</field>
++    <field name="phystech_teim">407.0008 duration: 60 minutes.
++407.0011 duration: 60 minutes.
++407.0078 Duration: 10 Minutes.</field>
+     <field name="dao_teim">Kissing and Telling</field>
+     <field name="dao_teim">Kissing and Telling</field>
+     <field name="dao_teim">Kissing and Telling</field>
+@@ -40,6 +42,7 @@
+     <field name="location_si">Box: 14, audiocassette: 407.0078</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Alva Rogers Papers</field>
++    <field name="author_teim">Nicholas Caldwell</field>
+     <field name="collection_unitid_teim">MSS.407</field>
+     <field name="series_sim">Series I. Artistic Works</field>
+     <field name="series_si">Series I. Artistic Works &gt;&gt; &lt;em&gt;Kissing and Telling&lt;/em&gt;</field>

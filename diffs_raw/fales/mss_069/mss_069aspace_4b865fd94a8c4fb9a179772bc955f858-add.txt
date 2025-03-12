@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1967/2006</field>
+     <field name="unitdate_normal_sim">1967/2006</field>
+     <field name="unitdate_inclusive_teim">1967-2006</field>
+-    <field name="scopecontent_teim">This series includes a selection of inscribed publications from Swenson's personal library.</field>
++    <field name="scopecontent_teim">This series includes a selection of inscribed publications from Swenson&#39;s personal library.</field>
+     <field name="ref_ssi">aspace_4b865fd94a8c4fb9a179772bc955f858</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -23,6 +23,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Karen Swenson Papers</field>
++    <field name="author_teim">Jennifer E. Neal</field>
+     <field name="collection_unitid_teim">MSS.069</field>
+     <field name="series_si">Series VI: Printed Publications</field>
+     <field name="heading_ssm">Series VI: Printed Publications</field>

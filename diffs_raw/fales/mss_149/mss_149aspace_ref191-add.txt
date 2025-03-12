@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">series</field>
+     <field name="unittitle_ssm">Series XX: Norman Mailer, &lt;em&gt;The Last Night&lt;/em&gt;, Targ Editions No. 22</field>
+     <field name="unittitle_teim">Series XX: Norman Mailer, The Last Night, Targ Editions No. 22</field>
+-    <field name="scopecontent_teim">Correspondence, production materials, and press related to the publication of Norman Mailer's story The Last Night by Targ Editions.</field>
++    <field name="scopecontent_teim">Correspondence, production materials, and press related to the publication of Norman Mailer&#39;s story The Last Night by Targ Editions.</field>
+     <field name="ref_ssi">aspace_ref191</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -19,6 +19,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Targ Editions Archive</field>
++    <field name="author_teim">Processed by Melanie Meyers Cushman</field>
+     <field name="collection_unitid_teim">MSS.149</field>
+     <field name="series_si">Series XX: Norman Mailer, &lt;em&gt;The Last Night&lt;/em&gt;, Targ Editions No. 22</field>
+     <field name="heading_ssm">Series XX: Norman Mailer, The Last Night, Targ Editions No. 22</field>

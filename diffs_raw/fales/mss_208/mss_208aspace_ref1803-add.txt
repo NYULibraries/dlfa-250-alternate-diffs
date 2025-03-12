@@ -1,0 +1,52 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,8 +19,10 @@
+     <field name="collection_ssm">Sylvester Manor Archive</field>
+     <field name="collection_unitid_ssm">MSS.208</field>
+     <field name="level_sim">subseries</field>
+-    <field name="unittitle_ssm">Subsubseries a: Academic and Family</field>
+-    <field name="unittitle_teim">Subsubseries a: Academic and Family</field>
++    <field name="unittitle_ssm">Subsubseries a: Academic and Family
++</field>
++    <field name="unittitle_teim">Subsubseries a: Academic and Family
++</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/509592</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/509592</field>
+     <field name="creator_teim">Barnum, P.T. (Phineas Taylor), 1810-1891</field>
+@@ -104,11 +106,12 @@
+     <field name="creator_ssm">Cabot, James Elliot, 1821-1903</field>
+     <field name="creator_ssm">Bothne, Gisle, 1860-1934</field>
+     <field name="creator_ssm">Borden, Gail, 1801-1874</field>
+-    <field name="scopecontent_teim">Record Group IV, Series A, Subseries 1, subsubseries a: Academic and Family pertains to Eben Norton Horsford's personal and professional life in the form of communication records with his family, friends, and vast business network. While the isolation of subsubseries a: Academic and Family is an effort to separate specific social and commercial content from the rest of Series A, this subsubseries features a significant amount of overlap. Although this portion of Eben's correspondence houses personal communication with his immediate and extended family and or concern of private business, such as Cambridge and Shelter Island property management, these materials also illuminate Eben's childhood, education, and professional ascension in chemistry, food science, and local history.</field>
+-    <field name="scopecontent_teim">Academic and Family features over 3,325 letters (8,383 pages) dominated by conversations with local and international academics, professionals across fields of industry, and the general public concerning Eben's public and scholastic circulation of his work with David Zeisberger's Indian Dictionary and the history of Viking settlements in America. Genres include announcements, artwork and illustrations, calling / visiting cards, drafts of unsent correspondence, financial and legal records, invitations, letters and reproductions of letters in the form of photocopies and transcriptions, photographic prints, postcards, printed ephemera in the form of advertisements, clippings, notices, and telegrams. Eben conversed with renown American and international activists, archaeologists, administrators, architects, astronomers, bibliographers, botanists, chemists, economists, editors, educators, historians, indexers, librarians, ministers, philosophers, physicists, poets, politicians, social reformers, social scientists, theologians, and writers. In addition, this unique set of correspondence demonstrates the Horsford family's active social life among their Cambridge and Harvard communities, several members of the "Boston Brahmin," and prominent figures of the New England literary intelligentsia.</field>
+-    <field name="scopecontent_teim">These materials are arranged alphabetically by the company name or surname of the individual in contact.</field>
+-    <field name="scopecontent_teim">Record titles reflect this arrangement by taking the form: [Surname, First Name]: [Location].</field>
+-    <field name="scopecontent_teim">In the case that a set of correspondence includes multiple authors or the surname of the individual are unidentified, record titles reflect administrative categories, first names, initials, or nicknames, with possible surnames and locations provided in brackets. In the case that a record includes more than one date expression, the listing will begin with its earliest. If a record is physically undated, approximate ranges are provided. These records are noted "undated" and followed by a "circa" estimate determined by the range represented in the same subseries.</field>
++    <field name="scopecontent_teim">Record Group IV, Series A, Subseries 1, subsubseries a: Academic and Family pertains to Eben Norton Horsford&#39;s personal and professional life in the form of communication records with his family, friends, and vast business network. While the isolation of subsubseries a: Academic and Family is an effort to separate specific social and commercial content from the rest of Series A, this subsubseries features a significant amount of overlap. Although this portion of Eben&#39;s correspondence houses personal communication with his immediate and extended family and or concern of private business, such as Cambridge and Shelter Island property management, these materials also illuminate Eben&#39;s childhood, education, and professional ascension in chemistry, food science, and local history. </field>
++    <field name="scopecontent_teim">Academic and Family features over 3,325 letters (8,383 pages) dominated by conversations with local and international academics, professionals across fields of industry, and the general public concerning Eben&#39;s public and scholastic circulation of his work with David Zeisberger&#39;s Indian Dictionary and the history of Viking settlements in America. Genres include announcements, artwork and illustrations, calling / visiting cards, drafts of unsent correspondence, financial and legal records, invitations, letters and reproductions of letters in the form of photocopies and transcriptions, photographic prints, postcards, printed ephemera in the form of advertisements, clippings, notices, and telegrams. Eben conversed with renown American and international activists, archaeologists, administrators, architects, astronomers, bibliographers, botanists, chemists, economists, editors, educators, historians, indexers, librarians, ministers, philosophers, physicists, poets, politicians, social reformers, social scientists, theologians, and writers. In addition, this unique set of correspondence demonstrates the Horsford family&#39;s active social life among their Cambridge and Harvard communities, several members of the &#34;Boston Brahmin,&#34; and prominent figures of the New England literary intelligentsia. </field>
++    <field name="scopecontent_teim">These materials are arranged alphabetically by the company name or surname of the individual in contact. </field>
++    <field name="scopecontent_teim">Record titles reflect this arrangement by taking the form: 
++[Surname, First Name]: [Location]. </field>
++    <field name="scopecontent_teim">In the case that a set of correspondence includes multiple authors or the surname of the individual are unidentified, record titles reflect administrative categories, first names, initials, or nicknames, with possible surnames and locations provided in brackets. In the case that a record includes more than one date expression, the listing will begin with its earliest. If a record is physically undated, approximate ranges are provided. These records are noted &#34;undated&#34; and followed by a &#34;circa&#34; estimate determined by the range represented in the same subseries.</field>
+     <field name="corpname_teim">Harvard University -- History -- 19th century</field>
+     <field name="corpname_ssm">Harvard University -- History -- 19th century</field>
+     <field name="geogname_teim">Boston, Massachusetts</field>
+@@ -271,12 +274,15 @@
+     <field name="place_sim">New York (N.Y.).</field>
+     <field name="place_sim">Cambridge (Mass.)</field>
+     <field name="collection_teim">Sylvester Manor Archive</field>
++    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+     <field name="collection_unitid_teim">MSS.208</field>
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series A: Eben Norton Horsford</field>
+     <field name="series_sim">Subseries 1: Correspondence</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family</field>
+-    <field name="heading_ssm">Subsubseries a: Academic and Family</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
++</field>
++    <field name="heading_ssm">Subsubseries a: Academic and Family
++</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2359</field>
+   </doc>

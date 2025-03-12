@@ -1,0 +1,33 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,10 @@
+     <field name="collection_ssm">Group Material Archive</field>
+     <field name="collection_unitid_ssm">MSS.215</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Unisex</field>
+-    <field name="unittitle_teim">Unisex</field>
++    <field name="unittitle_ssm">Unisex
++</field>
++    <field name="unittitle_teim">Unisex
++</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/519579</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/519579</field>
+     <field name="unitdate_teim">undated</field>
+@@ -31,11 +33,14 @@
+     <field name="location_ssm">Box: 31, Folder: ID: 215.3.0005</field>
+     <field name="location_si">Box: 31, Folder: ID: 215.3.0005</field>
+     <field name="collection_teim">Group Material Archive</field>
++    <field name="author_teim">Tara Hart, 2011.</field>
+     <field name="collection_unitid_teim">MSS.215</field>
+     <field name="series_sim">Series IX: Computer Disks</field>
+     <field name="series_sim">Subseries IX.B: Originals</field>
+-    <field name="series_si">Series IX: Computer Disks &gt;&gt; Subseries IX.B: Originals &gt;&gt; Unisex</field>
+-    <field name="heading_ssm">Unisex</field>
++    <field name="series_si">Series IX: Computer Disks &gt;&gt; Subseries IX.B: Originals &gt;&gt; Unisex
++</field>
++    <field name="heading_ssm">Unisex
++</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">427</field>

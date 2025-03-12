@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Café Nicholson Archive</field>
+     <field name="collection_unitid_ssm">MSS.165</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Clipping from unknown publication, "New Johnny's Café a Decorator's Dream," by Clementine Paddleford</field>
+-    <field name="unittitle_teim">Clipping from unknown publication, "New Johnny's Café a Decorator's Dream," by Clementine Paddleford</field>
++    <field name="unittitle_ssm">Clipping from unknown publication, &#34;New Johnny&#39;s Café a Decorator&#39;s Dream,&#34; by Clementine Paddleford</field>
++    <field name="unittitle_teim">Clipping from unknown publication, &#34;New Johnny&#39;s Café a Decorator&#39;s Dream,&#34; by Clementine Paddleford</field>
+     <field name="unitdate_teim">1955</field>
+     <field name="ref_ssi">aspace_ref31</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,11 +28,12 @@
+     <field name="location_ssm">Box: 1, Folder: 18</field>
+     <field name="location_si">Box: 1, Folder: 18</field>
+     <field name="collection_teim">Café Nicholson Archive</field>
++    <field name="author_teim">Processed by Jenny Pachucki, 2006.</field>
+     <field name="collection_unitid_teim">MSS.165</field>
+     <field name="series_sim">Series I: Scrapbooks</field>
+     <field name="series_sim">Subseries B:Scrapbook II</field>
+-    <field name="series_si">Series I: Scrapbooks &gt;&gt; Subseries B:Scrapbook II &gt;&gt; Clipping from unknown publication, "New Johnny's Café a Decorator's Dream," by Clementine Paddleford</field>
+-    <field name="heading_ssm">Clipping from unknown publication, "New Johnny's Café a Decorator's Dream," by Clementine Paddleford</field>
++    <field name="series_si">Series I: Scrapbooks &gt;&gt; Subseries B:Scrapbook II &gt;&gt; Clipping from unknown publication, &#34;New Johnny&#39;s Café a Decorator&#39;s Dream,&#34; by Clementine Paddleford</field>
++    <field name="heading_ssm">Clipping from unknown publication, &#34;New Johnny&#39;s Café a Decorator&#39;s Dream,&#34; by Clementine Paddleford</field>
+     <field name="unitdate_ssm">1955</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">20</field>

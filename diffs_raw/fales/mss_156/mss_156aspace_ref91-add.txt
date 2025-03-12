@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Andrea Callard Papers</field>
+     <field name="collection_unitid_ssm">MSS.156</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">"Ritz 83" AC's file on collaborative show "The Ritz" in Washington DC.</field>
+-    <field name="unittitle_teim">"Ritz 83" AC's file on collaborative show "The Ritz" in Washington DC.</field>
++    <field name="unittitle_ssm">&#34;Ritz 83&#34; AC&#39;s file on collaborative show &#34;The Ritz&#34; in Washington DC.</field>
++    <field name="unittitle_teim">&#34;Ritz 83&#34; AC&#39;s file on collaborative show &#34;The Ritz&#34; in Washington DC.</field>
+     <field name="unitid_teim">cuid22153</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/479467</field>
+     <field name="unitid_ssm">cuid22153</field>
+@@ -32,11 +32,12 @@
+     <field name="location_ssm">Box: 1, Folder: 77</field>
+     <field name="location_si">Box: 1, Folder: 77</field>
+     <field name="collection_teim">Andrea Callard Papers</field>
++    <field name="author_teim">Jessica Shimmin, 2005-2006; media processed by Brent Phillips, 2006; media description input by Joseph Gallucci, 2006, Luke Martin, 2008, Brent Phillips, 2008, 2010.</field>
+     <field name="collection_unitid_teim">MSS.156</field>
+     <field name="series_sim">Series I: Collaborative Projects, Inc. (Colab)</field>
+     <field name="series_sim">Subseries B: Colab Shows and Events</field>
+-    <field name="series_si">Series I: Collaborative Projects, Inc. (Colab) &gt;&gt; Subseries B: Colab Shows and Events &gt;&gt; "Ritz 83" AC's file on collaborative show "The Ritz" in Washington DC.</field>
+-    <field name="heading_ssm">"Ritz 83" AC's file on collaborative show "The Ritz" in Washington DC.</field>
++    <field name="series_si">Series I: Collaborative Projects, Inc. (Colab) &gt;&gt; Subseries B: Colab Shows and Events &gt;&gt; &#34;Ritz 83&#34; AC&#39;s file on collaborative show &#34;The Ritz&#34; in Washington DC.</field>
++    <field name="heading_ssm">&#34;Ritz 83&#34; AC&#39;s file on collaborative show &#34;The Ritz&#34; in Washington DC.</field>
+     <field name="unitdate_ssm">1983</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">81</field>

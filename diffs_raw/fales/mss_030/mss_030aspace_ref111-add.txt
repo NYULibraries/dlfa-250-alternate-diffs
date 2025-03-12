@@ -1,0 +1,43 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,16 +5,16 @@
+     <field name="ead_ssi">mss_030</field>
+     <field name="parent_ssi">aspace_ref105</field>
+     <field name="parent_ssm">aspace_ref105</field>
+-    <field name="parent_unittitles_ssm">Series Six: 'I Was There Charlie' manuscript</field>
+-    <field name="parent_unittitles_teim">Series Six: 'I Was There Charlie' manuscript</field>
++    <field name="parent_unittitles_ssm">Series Six: &amp;#39;I Was There Charlie&amp;#39; manuscript</field>
++    <field name="parent_unittitles_teim">Series Six: &amp;#39;I Was There Charlie&amp;#39; manuscript</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+-    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_sim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="collection_ssm">Jill &#34;Billy&#34; Rainsford Papers</field>
+     <field name="collection_unitid_ssm">MSS.030</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">'I Was There Charlie' manuscript, Chapters 9 and 10</field>
+-    <field name="unittitle_teim">'I Was There Charlie' manuscript, Chapters 9 and 10</field>
++    <field name="unittitle_ssm">&#39;I Was There Charlie&#39; manuscript, Chapters 9 and 10</field>
++    <field name="unittitle_teim">&#39;I Was There Charlie&#39; manuscript, Chapters 9 and 10</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref111</field>
+     <field name="repository_ssi">fales</field>
+@@ -24,11 +24,12 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 4, Folder: 7</field>
+     <field name="location_si">Box: 4, Folder: 7</field>
+-    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
++    <field name="collection_teim">Jill &#34;Billy&#34; Rainsford Papers</field>
++    <field name="author_teim">Colleen Eklow.</field>
+     <field name="collection_unitid_teim">MSS.030</field>
+-    <field name="series_sim">Series Six: 'I Was There Charlie' manuscript</field>
+-    <field name="series_si">Series Six: 'I Was There Charlie' manuscript &gt;&gt; 'I Was There Charlie' manuscript, Chapters 9 and 10</field>
+-    <field name="heading_ssm">'I Was There Charlie' manuscript, Chapters 9 and 10</field>
++    <field name="series_sim">Series Six: &amp;#39;I Was There Charlie&amp;#39; manuscript</field>
++    <field name="series_si">Series Six: &#39;I Was There Charlie&#39; manuscript &gt;&gt; &#39;I Was There Charlie&#39; manuscript, Chapters 9 and 10</field>
++    <field name="heading_ssm">&#39;I Was There Charlie&#39; manuscript, Chapters 9 and 10</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">97</field>

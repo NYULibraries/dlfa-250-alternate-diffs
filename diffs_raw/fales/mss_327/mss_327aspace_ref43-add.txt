@@ -1,0 +1,38 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,8 +16,8 @@
+     <field name="collection_ssm">Queer|Art|Film Collection</field>
+     <field name="collection_unitid_ssm">MSS.327</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">Kate Bornstein presents "All that Jazz," Introduction and Q&amp;A</field>
+-    <field name="unittitle_teim">Kate Bornstein presents "All that Jazz," Introduction and Q&amp;A</field>
++    <field name="unittitle_ssm">Kate Bornstein presents &#34;All that Jazz,&#34; Introduction and Q&amp;A</field>
++    <field name="unittitle_teim">Kate Bornstein presents &#34;All that Jazz,&#34; Introduction and Q&amp;A</field>
+     <field name="unitid_teim">ID: 327.0011</field>
+     <field name="unitid_ssm">ID: 327.0011</field>
+     <field name="unitdate_normal_ssm">2011/2011</field>
+@@ -26,7 +26,7 @@
+     <field name="unitdate_inclusive_teim">July 15, 2011</field>
+     <field name="scopecontent_teim">Featured: Adam Baran (Queer/Art/Film Curator), Kate Bornstein (Presenter)</field>
+     <field name="scopecontent_teim">Videographer: Ryan Colletti</field>
+-    <field name="scopecontent_teim">Program Contents: Director-choreographer Bob Fosse's "All That Jazz" is a favorite film of "sadomasochistic transsexual dyke and gender outlaw" Kate Bornstein, who first saw it upon its release in 1979. "All that Jazz," is a psuedo-autobiographical musical starring Roy Scheider as Fosse's alter-ego Joe Gideon. Gideon, a pill-popping womanizer, is struggling to choreograph his latest show and avoid the beautiful Angel of Death played by Jessica Lange.</field>
++    <field name="scopecontent_teim">Program Contents: Director-choreographer Bob Fosse&#39;s &#34;All That Jazz&#34; is a favorite film of &#34;sadomasochistic transsexual dyke and gender outlaw&#34; Kate Bornstein, who first saw it upon its release in 1979. &#34;All that Jazz,&#34; is a  psuedo-autobiographical musical starring Roy Scheider as Fosse&#39;s alter-ego Joe Gideon.  Gideon, a pill-popping womanizer, is struggling to choreograph his latest show and avoid the beautiful Angel of Death played by Jessica Lange.</field>
+     <field name="phystech_teim">Original format: HDV</field>
+     <field name="phystech_teim">Duration: 39 minutes</field>
+     <field name="phystech_teim">Color, Sound</field>
+@@ -40,11 +40,12 @@
+     <field name="location_ssm">case: 327.0011</field>
+     <field name="location_si">case: 327.0011</field>
+     <field name="collection_teim">Queer|Art|Film Collection</field>
++    <field name="author_teim">John M. Sapp, Brent Phillips, Cristina Vignone</field>
+     <field name="collection_unitid_teim">MSS.327</field>
+     <field name="series_sim">Series II: Video recordings</field>
+     <field name="series_sim">Subseries A: Video recordings</field>
+-    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Kate Bornstein presents "All that Jazz," Introduction and Q&amp;A</field>
+-    <field name="heading_ssm">Kate Bornstein presents "All that Jazz," Introduction and Q&amp;A</field>
++    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Kate Bornstein presents &#34;All that Jazz,&#34; Introduction and Q&amp;A</field>
++    <field name="heading_ssm">Kate Bornstein presents &#34;All that Jazz,&#34; Introduction and Q&amp;A</field>
+     <field name="unitdate_start_sim">2011</field>
+     <field name="unitdate_start_ssm">2011</field>
+     <field name="unitdate_start_si">2011</field>

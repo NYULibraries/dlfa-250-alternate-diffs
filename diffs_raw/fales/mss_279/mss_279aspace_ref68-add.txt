@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="parent_unittitles_teim">Series I: Organizational Records</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">New York Women's Culinary Alliance Archive</field>
+-    <field name="collection_ssm">New York Women's Culinary Alliance Archive</field>
++    <field name="collection_sim">New York Women&#39;s Culinary Alliance Archive</field>
++    <field name="collection_ssm">New York Women&#39;s Culinary Alliance Archive</field>
+     <field name="collection_unitid_ssm">MSS.279</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Newsletters</field>
+@@ -24,7 +24,8 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2, Folder: 22</field>
+     <field name="location_si">Box: 2, Folder: 22</field>
+-    <field name="collection_teim">New York Women's Culinary Alliance Archive</field>
++    <field name="collection_teim">New York Women&#39;s Culinary Alliance Archive</field>
++    <field name="author_teim">Laura Newsome, 2014.</field>
+     <field name="collection_unitid_teim">MSS.279</field>
+     <field name="series_sim">Series I: Organizational Records</field>
+     <field name="series_si">Series I: Organizational Records &gt;&gt; Newsletters</field>

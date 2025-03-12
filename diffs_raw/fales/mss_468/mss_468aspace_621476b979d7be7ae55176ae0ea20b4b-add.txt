@@ -1,0 +1,37 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_468</field>
+     <field name="parent_ssi">aspace_677d309ffe7f29cda55ddd8cd563b8b7</field>
+     <field name="parent_ssm">aspace_677d309ffe7f29cda55ddd8cd563b8b7</field>
+-    <field name="parent_unittitles_ssm">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
+-    <field name="parent_unittitles_teim">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
++    <field name="parent_unittitles_ssm">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
++    <field name="parent_unittitles_teim">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Coca Crystal Video Recordings and Papers</field>
+@@ -21,7 +21,8 @@
+     <field name="unitdate_normal_teim">1985-05-29/1985-05-29</field>
+     <field name="unitdate_normal_sim">1985-05-29/1985-05-29</field>
+     <field name="unitdate_teim">May 29, 1985</field>
+-    <field name="phystech_teim">468_188 duration: 60 minutes; Preservation note: Tape needed to be baked, signal improved. 468_318 duration: 120 minutes.</field>
++    <field name="phystech_teim">468_188 duration: 60 minutes; Preservation note: Tape needed to be baked, signal improved.
++468_318 duration: 120 minutes.</field>
+     <field name="dao_teim">Earl Manning, Holy War, Jack McCrystal, Local 802: May 29, 1985</field>
+     <field name="dao_teim">Earl Manning, Holy War, Jack McCrystal, Local 802: May 29, 1985</field>
+     <field name="dao_ssm">Earl Manning, Holy War, Jack McCrystal, Local 802: May 29, 1985</field>
+@@ -37,9 +38,10 @@
+     <field name="location_si">Box: 23, U-matic: 468_318</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Coca Crystal Video Recordings and Papers</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">MSS.468</field>
+-    <field name="series_sim">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution</field>
+-    <field name="series_si">Series II. The Coca Crystal Show: If I Can't Dance, You Can Keep Your Revolution &gt;&gt; Earl Manning, Holy War, Jack McCrystal, Local 802</field>
++    <field name="series_sim">Series II. The Coca Crystal Show: If I Can&amp;#39;t Dance, You Can Keep Your Revolution</field>
++    <field name="series_si">Series II. The Coca Crystal Show: If I Can&#39;t Dance, You Can Keep Your Revolution &gt;&gt; Earl Manning, Holy War, Jack McCrystal, Local 802</field>
+     <field name="heading_ssm">Earl Manning, Holy War, Jack McCrystal, Local 802</field>
+     <field name="unitdate_ssm">May 29, 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>

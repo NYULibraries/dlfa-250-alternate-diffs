@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Artists Space Archive</field>
+     <field name="collection_unitid_ssm">MSS.291</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Film and Video Catalogues, Brochures: Nancy and Dan's Highlights"</field>
+-    <field name="unittitle_teim">"Film and Video Catalogues, Brochures: Nancy and Dan's Highlights"</field>
++    <field name="unittitle_ssm">&#34;Film and Video Catalogues, Brochures: Nancy and Dan&#39;s Highlights&#34; </field>
++    <field name="unittitle_teim">&#34;Film and Video Catalogues, Brochures: Nancy and Dan&#39;s Highlights&#34; </field>
+     <field name="unitid_teim">/repositories/3/archival_objects/543541</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/543541</field>
+     <field name="unitdate_teim">various</field>
+@@ -27,10 +27,11 @@
+     <field name="location_ssm">Box: 109, Folder: 21</field>
+     <field name="location_si">Box: 109, Folder: 21</field>
+     <field name="collection_teim">Artists Space Archive</field>
++    <field name="author_teim">Rachel E. Greer with Rhyannon J. Rodriguez, 2013.</field>
+     <field name="collection_unitid_teim">MSS.291</field>
+     <field name="series_sim">Series IV: Book Files</field>
+-    <field name="series_si">Series IV: Book Files &gt;&gt; "Film and Video Catalogues, Brochures: Nancy and Dan's Highlights"</field>
+-    <field name="heading_ssm">"Film and Video Catalogues, Brochures: Nancy and Dan's Highlights"</field>
++    <field name="series_si">Series IV: Book Files &gt;&gt; &#34;Film and Video Catalogues, Brochures: Nancy and Dan&#39;s Highlights&#34; </field>
++    <field name="heading_ssm">&#34;Film and Video Catalogues, Brochures: Nancy and Dan&#39;s Highlights&#34; </field>
+     <field name="unitdate_ssm">various</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1692</field>

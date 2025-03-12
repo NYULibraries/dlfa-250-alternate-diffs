@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1982/1999</field>
+     <field name="unitdate_normal_sim">1982/1999</field>
+     <field name="unitdate_inclusive_teim">1982-1999</field>
+-    <field name="scopecontent_teim">This subseries contains Wong's artwork, including sketches, drawings, and sketchbooks.</field>
++    <field name="scopecontent_teim">This subseries contains Wong&#39;s artwork, including sketches, drawings, and sketchbooks.</field>
+     <field name="ref_ssi">aspace_ref83</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -29,6 +29,7 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Martin Wong Papers</field>
++    <field name="author_teim">Jenny Hillyer. Updated by Joseph Gallucci, 2007.  Accretion processed by Colin Wells, 2009.</field>
+     <field name="collection_unitid_teim">MSS.102</field>
+     <field name="series_sim">Series II: Artwork</field>
+     <field name="series_si">Series II: Artwork &gt;&gt; Subseries II.A: Art by Wong</field>

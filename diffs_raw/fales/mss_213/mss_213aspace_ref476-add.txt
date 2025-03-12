@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="unitdate_inclusive_teim">October 1980</field>
+     <field name="scopecontent_teim">Content:</field>
+     <field name="scopecontent_teim">Side A: Sid Vicious and Steve Jones. From interviews recorded during 1977 by Judy Vermorel</field>
+-    <field name="scopecontent_teim">Side B: Paul Cook, Johnny Rotten and Malcolm Maclaren's grandmother. Copyright on the interviews-Bondpen Publishing</field>
++    <field name="scopecontent_teim">Side B: Paul Cook, Johnny Rotten and Malcolm Maclaren&#39;s grandmother. Copyright on the interviews-Bondpen Publishing</field>
+     <field name="phystech_teim">Format: 1/4 in. Audiocassette</field>
+     <field name="phystech_teim">Tape Length: 90 minutes</field>
+     <field name="ref_ssi">aspace_ref476</field>
+@@ -40,6 +40,7 @@
+     <field name="location_ssm">Box: 4, Media: ID: 213.0223</field>
+     <field name="location_si">Box: 4, Media: ID: 213.0223</field>
+     <field name="collection_teim">Peter Dougherty Collection</field>
++    <field name="author_teim">Caroline Partamian with Rhyannon J. Rodriguez, 2012.</field>
+     <field name="collection_unitid_teim">MSS.213</field>
+     <field name="series_sim">Series I: Sound recordings</field>
+     <field name="series_sim">Subseries A: Audio Works</field>

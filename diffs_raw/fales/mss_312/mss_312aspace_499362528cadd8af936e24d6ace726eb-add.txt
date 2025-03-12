@@ -1,0 +1,39 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Deep Dish TV Records</field>
+     <field name="collection_unitid_ssm">MSS.312</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Rock the Boat&lt;/em&gt; -- "USA On Trial: An Indictment Against 500 Years of Oppression"</field>
+-    <field name="unittitle_teim">Rock the Boat -- "USA On Trial: An Indictment Against 500 Years of Oppression"</field>
++    <field name="unittitle_ssm">&lt;em&gt;Rock the Boat&lt;/em&gt; -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; </field>
++    <field name="unittitle_teim">Rock the Boat -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; </field>
+     <field name="unitid_teim">cuid39356</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/974414</field>
+     <field name="unitid_ssm">cuid39356</field>
+@@ -24,8 +24,8 @@
+     <field name="unitdate_normal_sim">1992-12-22/1992-12-24</field>
+     <field name="unitdate_inclusive_teim">December 22-24, 1992</field>
+     <field name="scopecontent_teim">Produced by Paper Tiger TV</field>
+-    <field name="dao_teim">Rock the Boat -- "USA On Trial: An Indictment Against 500 Years of Oppression" : December 22-24, 1992</field>
+-    <field name="dao_ssm">Rock the Boat -- "USA On Trial: An Indictment Against 500 Years of Oppression" : December 22-24, 1992</field>
++    <field name="dao_teim">Rock the Boat -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; : December 22-24, 1992</field>
++    <field name="dao_ssm">Rock the Boat -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; : December 22-24, 1992</field>
+     <field name="ref_ssi">aspace_499362528cadd8af936e24d6ace726eb</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -39,10 +39,11 @@
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_85</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Deep Dish TV Records</field>
++    <field name="author_teim">Rachel Mahre, Lyric Evans-Hunter, Olivija Liepa</field>
+     <field name="collection_unitid_teim">MSS.312</field>
+     <field name="series_sim">Series I. Video Productions</field>
+-    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Rock the Boat&lt;/em&gt; -- "USA On Trial: An Indictment Against 500 Years of Oppression"</field>
+-    <field name="heading_ssm">Rock the Boat -- "USA On Trial: An Indictment Against 500 Years of Oppression"</field>
++    <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;Rock the Boat&lt;/em&gt; -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; </field>
++    <field name="heading_ssm">Rock the Boat -- &#34;USA On Trial: An Indictment Against 500 Years of Oppression&#34; </field>
+     <field name="unitdate_ssm">Inclusive, December 22-24, 1992</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">296</field>

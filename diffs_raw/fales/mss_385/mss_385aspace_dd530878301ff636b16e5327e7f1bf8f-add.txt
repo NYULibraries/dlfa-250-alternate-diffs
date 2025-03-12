@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
+     <field name="collection_unitid_ssm">MSS.385</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">There's Been a Warning About Global Warming</field>
+-    <field name="unittitle_teim">There's Been a Warning About Global Warming</field>
++    <field name="unittitle_ssm">There&#39;s Been a Warning About Global Warming</field>
++    <field name="unittitle_teim">There&#39;s Been a Warning About Global Warming</field>
+     <field name="unitid_teim">cuid33856</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/773229</field>
+     <field name="unitid_ssm">cuid33856</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 127, Folder: 23</field>
+     <field name="location_si">Box: 127, Folder: 23</field>
+     <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
++    <field name="author_teim">Stacey Flatt and Samantha Rowe.</field>
+     <field name="collection_unitid_teim">MSS.385</field>
+     <field name="series_sim">Series II. Cartoons/Collages</field>
+-    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; There's Been a Warning About Global Warming</field>
+-    <field name="heading_ssm">There's Been a Warning About Global Warming</field>
++    <field name="series_si">Series II. Cartoons/Collages &gt;&gt; There&#39;s Been a Warning About Global Warming</field>
++    <field name="heading_ssm">There&#39;s Been a Warning About Global Warming</field>
+     <field name="unitdate_start_sim">2007</field>
+     <field name="unitdate_start_ssm">2007</field>
+     <field name="unitdate_start_si">2007</field>

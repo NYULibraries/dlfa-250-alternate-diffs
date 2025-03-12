@@ -1,0 +1,29 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,9 +26,9 @@
+     <field name="unitdate_normal_teim">1960/1990</field>
+     <field name="unitdate_normal_sim">1960/1990</field>
+     <field name="unitdate_inclusive_teim">Undated</field>
+-    <field name="phystech_teim">Description: Leather wallet containing $2 bill, bank receipts, hotel receipts spanning summer and fall 1991</field>
+-    <field name="phystech_teim">Materials: leather, paper, plastic</field>
+-    <field name="phystech_teim">Dimensions: 3 x 4 x 1 inches</field>
++    <field name="phystech_teim"> Description:  Leather wallet containing $2 bill, bank receipts, hotel receipts spanning summer and fall 1991 </field>
++    <field name="phystech_teim"> Materials:  leather, paper, plastic </field>
++    <field name="phystech_teim"> Dimensions:  3 x 4 x 1 inches </field>
+     <field name="genreform_teim">Wallets.</field>
+     <field name="genreform_ssm">Wallets.</field>
+     <field name="ref_ssi">aspace_ref4139</field>
+@@ -37,9 +37,10 @@
+     <field name="repository_ssm">fales</field>
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+-    <field name="location_ssm">Box: 179, object: 092.2.0509</field>
+-    <field name="location_si">Box: 179, object: 092.2.0509</field>
++    <field name="location_ssm">Box: 179, object: 092.2.0509	</field>
++    <field name="location_si">Box: 179, object: 092.2.0509	</field>
+     <field name="collection_teim">David Wojnarowicz Papers</field>
++    <field name="author_teim">Marvin J. Taylor</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series XIII: Objects and Artifacts</field>
+     <field name="series_sim">Subseries C: Personal Items</field>
