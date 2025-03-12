@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+     <field name="unitdate_teim">1995 November 17</field>
+-    <field name="scopecontent_teim">This interview was conducted on November 17, 1995 by Sandra Nguyen at Seward Park High School in the Lower East Side neighborhood of Manhattan, New York.  The majority of the interview covers Jean Clarence's experience growing up in Haiti.  He discusses his childhood, including the fact that his parents sent him to live with his grandparents in Haiti when he was one year old, his experiences in school, and his recollections of American television programs in Haiti during the 1980s and 1990s.  Clarence sometimes speaks in French and gives little detail in his responses.</field>
++    <field name="scopecontent_teim">This interview was conducted on November 17, 1995 by Sandra Nguyen at Seward Park High School in the Lower East Side neighborhood of Manhattan, New York.  The majority of the interview covers Jean Clarence&#39;s experience growing up in Haiti.  He discusses his childhood, including the fact that his parents sent him to live with his grandparents in Haiti when he was one year old, his experiences in school, and his recollections of American television programs in Haiti during the 1980s and 1990s.  Clarence sometimes speaks in French and gives little detail in his responses.</field>
+     <field name="bioghist_teim">Jean Clarence was born in the United States (US) in the 1970s.  Both of his parents immigrated to the US from Haiti.  When he was  one year old, his parents sent him to live with his grandparents in Haiti, where he lived for about sixteen years before returning to the US.  At the time of the interview he lived with his aunt and cousin in New York, New York.</field>
+     <field name="phystech_teim">Duration:  42:12</field>
+     <field name="ref_ssi">aspace_ref120</field>
+@@ -38,6 +38,7 @@
+     <field name="location_ssm">Box: 6, CD: ref120</field>
+     <field name="location_si">Box: 6, CD: ref120</field>
+     <field name="collection_teim">New York University Department of History Oral History Class Collection</field>
++    <field name="author_teim">Megan O&#39;Shea, Samantha Houck, Manon Gray, and Maria Mejia</field>
+     <field name="collection_unitid_teim">OH.033</field>
+     <field name="series_sim">Series II. 1995 Oral History Class Interviews</field>
+     <field name="series_sim">Immigration and Education Interview</field>

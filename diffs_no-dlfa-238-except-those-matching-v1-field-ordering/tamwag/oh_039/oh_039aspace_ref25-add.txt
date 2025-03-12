@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+     <field name="unitdate_inclusive_teim">Apr 8, 1995</field>
+-    <field name="scopecontent_teim">This interview took place in San Francisco, CA. At this time, Lehmann was described as a "young punk dyke" in her mid-20s. Her interview covers the topics of labor and queer consciousness, union family, factory work in union shop, safeway supermarket strike, conflicts with her brother about crossing the picket line, politics, sexuality and solidarity.</field>
++    <field name="scopecontent_teim">This interview took place in San Francisco, CA. At this time, Lehmann was described as a &#34;young punk dyke&#34; in her mid-20s. Her interview covers the topics of labor and queer consciousness, union family, factory work in union shop, safeway supermarket strike, conflicts with her brother about crossing the picket line, politics, sexuality and solidarity.</field>
+     <field name="ref_ssi">aspace_ref25</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 8, audiocassette: OH_039_039</field>
+     <field name="location_si">Box: 8, audiocassette: OH_039_039</field>
+     <field name="collection_teim">Miriam Frank Oral Histories on Lesbian, Gay, Bisexual, Transgender, and Queer Activists in the Labor Movement</field>
++    <field name="author_teim">Giana Ricci</field>
+     <field name="collection_unitid_teim">OH.039</field>
+     <field name="series_si">Audrey Lehmann</field>
+     <field name="heading_ssm">Audrey Lehmann</field>

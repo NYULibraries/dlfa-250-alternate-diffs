@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1960/1960</field>
+     <field name="unitdate_normal_sim">1960/1960</field>
+     <field name="unitdate_inclusive_teim">Jul 12, 1960</field>
+-    <field name="scopecontent_teim">Recording of a speech titled "Has the Soviet Union Changed?"</field>
++    <field name="scopecontent_teim">Recording of a speech titled &#34;Has the Soviet Union Changed?&#34;</field>
+     <field name="ref_ssi">aspace_ref1716</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 89, audiocassette: 6</field>
+     <field name="location_si">Box: 89, audiocassette: 6</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+     <field name="series_sim">Tamiment Institute Tapes</field>
+     <field name="series_si">Tamiment Institute Tapes &gt;&gt; Bertram Wolfe</field>

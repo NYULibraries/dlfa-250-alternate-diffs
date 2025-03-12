@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1999/1999</field>
+     <field name="unitdate_normal_sim">1999/1999</field>
+     <field name="unitdate_inclusive_teim">Apr 17, 1999</field>
+-    <field name="scopecontent_teim">Interview covers Nelson's family history, education and work, and his involvement in the World Socialist Party (formerly Workers Socialist Party and Socialist Educational Society). </field>
++    <field name="scopecontent_teim">Interview covers Nelson&#39;s family history, education and work, and his involvement in the World Socialist Party (formerly Workers Socialist Party and Socialist Educational Society). </field>
+     <field name="scopecontent_teim">Interview by Katherine Brucher.</field>
+     <field name="ref_ssi">aspace_ref1391</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -32,6 +32,7 @@
+     <field name="location_ssm">Box: 8, Folder: 12</field>
+     <field name="location_si">Box: 8, Folder: 12</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+     <field name="series_sim">Oral History of the American Left Main Series</field>
+     <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Walter Nelson</field>

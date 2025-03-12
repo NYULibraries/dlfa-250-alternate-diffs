@@ -1,0 +1,41 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,14 +6,10 @@
+     <field name="parent_ssi">aspace_ref1612</field>
+     <field name="parent_ssm">aspace_ref1609</field>
+     <field name="parent_ssm">aspace_ref1612</field>
+-    <field name="parent_unittitles_ssm">Filmmakers' Tapes and Transcripts</field>
+-    <field name="parent_unittitles_ssm">
+-      A Crime to Fit the Punishment
+-    </field>
+-    <field name="parent_unittitles_teim">Filmmakers' Tapes and Transcripts</field>
+-    <field name="parent_unittitles_teim">
+-      A Crime to Fit the Punishment
+-    </field>
++    <field name="parent_unittitles_ssm">Filmmakers&amp;#39; Tapes and Transcripts</field>
++    <field name="parent_unittitles_ssm">A Crime to Fit the Punishment</field>
++    <field name="parent_unittitles_teim">Filmmakers&amp;#39; Tapes and Transcripts</field>
++    <field name="parent_unittitles_teim">A Crime to Fit the Punishment</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Oral History of the American Left Collection</field>
+@@ -35,14 +31,11 @@
+     <field name="location_ssm">Box: 72, audiocassette: 53A, 53B, 53C</field>
+     <field name="location_si">Box: 72, audiocassette: 53A, 53B, 53C</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+-    <field name="series_sim">Filmmakers' Tapes and Transcripts</field>
+-    <field name="series_sim">
+-      A Crime to Fit the Punishment
+-    </field>
+-    <field name="series_si">Filmmakers' Tapes and Transcripts &gt;&gt; 
+-      A Crime to Fit the Punishment
+-     &gt;&gt; Scherwin, Jules</field>
++    <field name="series_sim">Filmmakers&amp;#39; Tapes and Transcripts</field>
++    <field name="series_sim">A Crime to Fit the Punishment</field>
++    <field name="series_si">Filmmakers&#39; Tapes and Transcripts &gt;&gt; A Crime to Fit the Punishment &gt;&gt; Scherwin, Jules</field>
+     <field name="heading_ssm">Scherwin, Jules</field>
+     <field name="unitdate_ssm">April 9, 1981</field>
+     <field name="date_range_sim">undated &amp; other</field>

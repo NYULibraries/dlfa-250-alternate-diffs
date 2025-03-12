@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unitdate_normal_teim">1986/1986</field>
+     <field name="unitdate_normal_sim">1986/1986</field>
+     <field name="unitdate_inclusive_teim">Mar 25, 1986</field>
+-    <field name="scopecontent_teim">Subjects discussed include colleagues' resistance to organizing and Al Shanker.</field>
++    <field name="scopecontent_teim">Subjects discussed include colleagues&#39; resistance to organizing and Al Shanker.</field>
+     <field name="ref_ssi">aspace_ref61</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -29,6 +29,7 @@
+     <field name="location_ssm">Box: 3, CD: 9A-C</field>
+     <field name="location_si">Box: 3, CD: 9A-C</field>
+     <field name="collection_teim">United Federation of Teachers Oral History Collection</field>
++    <field name="author_teim">David Olsen</field>
+     <field name="collection_unitid_teim">OH.009</field>
+     <field name="series_si">Eugene Blum</field>
+     <field name="heading_ssm">Eugene Blum</field>

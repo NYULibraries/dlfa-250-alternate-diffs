@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">May 29, 2009</field>
+-    <field name="scopecontent_teim">Interview regarding Green's experiences growing up in the Bronx and working in New York City.</field>
++    <field name="scopecontent_teim">Interview regarding Green&#39;s experiences growing up in the Bronx and working in New York City.</field>
+     <field name="scopecontent_teim">Interview by Jeff Eichler.</field>
+     <field name="ref_ssi">aspace_ref942</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -33,6 +33,7 @@
+     <field name="location_ssm">Box: 10, CD: Green 1</field>
+     <field name="location_si">Box: 10, CD: Green 1</field>
+     <field name="collection_teim">Oral History of the American Left Collection</field>
++    <field name="author_teim">Paul Buhle, Jonathan Bloom, Michael Nash, unattributed Tamiment staff, and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.002</field>
+     <field name="series_sim">Oral History of the American Left Main Series</field>
+     <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Janet Green</field>

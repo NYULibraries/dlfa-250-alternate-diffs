@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1979/1979</field>
+     <field name="unitdate_normal_sim">1979/1979</field>
+     <field name="unitdate_teim">circa 1979</field>
+-    <field name="scopecontent_teim">The participant's name is listed as "Mrs. Douglas" with her first name omitted.</field>
++    <field name="scopecontent_teim">The participant&#39;s name is listed as &#34;Mrs. Douglas&#34; with her first name omitted.</field>
+     <field name="ref_ssi">aspace_6a96f33b3ecc15065b3e8c676bd160c2</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -25,6 +25,7 @@
+     <field name="location_ssm">Box: 1, Folder: 19</field>
+     <field name="location_si">Box: 1, Folder: 19</field>
+     <field name="collection_teim">Women Hospital Workers Oral History Collection</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">OH.006</field>
+     <field name="series_si">Douglas</field>
+     <field name="heading_ssm">Douglas</field>

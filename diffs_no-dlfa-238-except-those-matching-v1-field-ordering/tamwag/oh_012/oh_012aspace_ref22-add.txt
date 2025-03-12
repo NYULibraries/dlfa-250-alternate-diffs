@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">oh_012</field>
+     <field name="component_level_isim">1</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Stewardesses for Women's Rights Oral History Collection</field>
+-    <field name="collection_ssm">Stewardesses for Women's Rights Oral History Collection</field>
++    <field name="collection_sim">Stewardesses for Women&#39;s Rights Oral History Collection</field>
++    <field name="collection_ssm">Stewardesses for Women&#39;s Rights Oral History Collection</field>
+     <field name="collection_unitid_ssm">OH.012</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">SFWR Reunion</field>
+@@ -24,7 +24,8 @@
+     <field name="location_ssm">Box: 1, Cassette: 4A-B</field>
+     <field name="location_ssm">Box: 1, CD: 7</field>
+     <field name="location_si">Box: 1, CD: 7</field>
+-    <field name="collection_teim">Stewardesses for Women's Rights Oral History Collection</field>
++    <field name="collection_teim">Stewardesses for Women&#39;s Rights Oral History Collection</field>
++    <field name="author_teim">Unattributed NYU Libraries staff and David A. Olson</field>
+     <field name="collection_unitid_teim">OH.012</field>
+     <field name="series_si">SFWR Reunion</field>
+     <field name="heading_ssm">SFWR Reunion</field>

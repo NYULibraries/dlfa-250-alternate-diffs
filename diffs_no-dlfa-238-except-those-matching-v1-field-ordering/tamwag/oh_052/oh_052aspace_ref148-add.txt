@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,8 +13,8 @@
+     <field name="collection_ssm">Frederic Ewen Audiotape and Videotape Collection</field>
+     <field name="collection_unitid_ssm">OH.052</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Darwin, Charles: from Francis Darwin's &lt;em&gt;The Life&lt;/em&gt;&lt;em&gt;and Letters of Charles Darwin&lt;/em&gt;(120 minute tape) Damaged</field>
+-    <field name="unittitle_teim">Darwin, Charles: from Francis Darwin's The Lifeand Letters of Charles Darwin(120 minute tape) Damaged</field>
++    <field name="unittitle_ssm">Darwin, Charles: from Francis Darwin&#39;s &lt;em&gt;The Life&lt;/em&gt;&lt;em&gt;and Letters of Charles Darwin&lt;/em&gt;(120 minute tape) Damaged</field>
++    <field name="unittitle_teim">Darwin, Charles: from Francis Darwin&#39;s The Lifeand Letters of Charles Darwin(120 minute tape) Damaged</field>
+     <field name="unitdate_normal_ssm">1954/1990</field>
+     <field name="unitdate_normal_teim">1954/1990</field>
+     <field name="unitdate_normal_sim">1954/1990</field>
+@@ -32,10 +32,11 @@
+     <field name="location_ssm">Box: 5, Folder: OH 52-92</field>
+     <field name="location_si">Box: 5, Folder: OH 52-92</field>
+     <field name="collection_teim">Frederic Ewen Audiotape and Videotape Collection</field>
++    <field name="author_teim">Anne Parsons, Johanna Blokker and Gail Malmgreen, 2005</field>
+     <field name="collection_unitid_teim">OH.052</field>
+     <field name="series_sim">Series III: Readings by Frederic Ewen</field>
+-    <field name="series_si">Series III: Readings by Frederic Ewen &gt;&gt; Darwin, Charles: from Francis Darwin's &lt;em&gt;The Life&lt;/em&gt;&lt;em&gt;and Letters of Charles Darwin&lt;/em&gt;(120 minute tape) Damaged</field>
+-    <field name="heading_ssm">Darwin, Charles: from Francis Darwin's The Lifeand Letters of Charles Darwin(120 minute tape) Damaged</field>
++    <field name="series_si">Series III: Readings by Frederic Ewen &gt;&gt; Darwin, Charles: from Francis Darwin&#39;s &lt;em&gt;The Life&lt;/em&gt;&lt;em&gt;and Letters of Charles Darwin&lt;/em&gt;(120 minute tape) Damaged</field>
++    <field name="heading_ssm">Darwin, Charles: from Francis Darwin&#39;s The Lifeand Letters of Charles Darwin(120 minute tape) Damaged</field>
+     <field name="unitdate_start_sim">1954</field>
+     <field name="unitdate_start_ssm">1954</field>
+     <field name="unitdate_start_si">1954</field>

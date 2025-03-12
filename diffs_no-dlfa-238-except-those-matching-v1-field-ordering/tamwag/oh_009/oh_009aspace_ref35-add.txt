@@ -1,0 +1,27 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,8 +9,8 @@
+     <field name="collection_ssm">United Federation of Teachers Oral History Collection</field>
+     <field name="collection_unitid_ssm">OH.009</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">John O'Neill</field>
+-    <field name="unittitle_teim">John O'Neill</field>
++    <field name="unittitle_ssm">John O&#39;Neill</field>
++    <field name="unittitle_teim">John O&#39;Neill</field>
+     <field name="unitid_teim">cuid442</field>
+     <field name="unitid_ssm">cuid442</field>
+     <field name="unitdate_normal_ssm">1985/1985</field>
+@@ -29,9 +29,10 @@
+     <field name="location_ssm">Box: 4, CD: 35A</field>
+     <field name="location_si">Box: 4, CD: 35A</field>
+     <field name="collection_teim">United Federation of Teachers Oral History Collection</field>
++    <field name="author_teim">David Olsen</field>
+     <field name="collection_unitid_teim">OH.009</field>
+-    <field name="series_si">John O'Neill</field>
+-    <field name="heading_ssm">John O'Neill</field>
++    <field name="series_si">John O&#39;Neill</field>
++    <field name="heading_ssm">John O&#39;Neill</field>
+     <field name="unitdate_start_sim">1985</field>
+     <field name="unitdate_start_ssm">1985</field>
+     <field name="unitdate_start_si">1985</field>

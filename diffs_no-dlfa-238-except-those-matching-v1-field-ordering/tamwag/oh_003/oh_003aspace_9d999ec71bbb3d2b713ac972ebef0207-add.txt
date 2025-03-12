@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1976/1978</field>
+     <field name="unitdate_normal_sim">1976/1978</field>
+     <field name="unitdate_inclusive_teim">1976-1978</field>
+-    <field name="scopecontent_teim">Biller was President of New York Area Postal Union of the American Postal Workers, AFL-CIO, as well as Regional Coordinator for the Northeast Region of the American Workers' Postal Union.</field>
++    <field name="scopecontent_teim">Biller was President of New York Area Postal Union of the American Postal Workers, AFL-CIO, as well as Regional Coordinator for the Northeast Region of the American Workers&#39; Postal Union.</field>
+     <field name="ref_ssi">aspace_9d999ec71bbb3d2b713ac972ebef0207</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -27,6 +27,7 @@
+     <field name="location_ssm">Box: 1, Folder: 1, 2, 3</field>
+     <field name="location_si">Box: 1, Folder: 1, 2, 3</field>
+     <field name="collection_teim">New York Metro Area Postal Union Oral History</field>
++    <field name="author_teim">Rachel Mahre</field>
+     <field name="collection_unitid_teim">OH.003</field>
+     <field name="series_si">Biller, Morris</field>
+     <field name="heading_ssm">Biller, Morris</field>

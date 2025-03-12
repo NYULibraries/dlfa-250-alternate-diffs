@@ -1,0 +1,22 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,9 +19,8 @@
+     <field name="unitdate_normal_teim">2019/2019</field>
+     <field name="unitdate_normal_sim">2001/2001</field>
+     <field name="unitdate_normal_sim">2019/2019</field>
+-    <field name="unitdate_teim"> </field>
+     <field name="unitdate_inclusive_teim">Mar 21, 2001</field>
+-    <field name="phystech_teim">Format: 1/8" audiocassette, Duration: 94 min. [A] and 67 min. [B]</field>
++    <field name="phystech_teim">Format: 1/8&#34; audiocassette, Duration: 94 min. [A] and 67 min. [B]</field>
+     <field name="ref_ssi">aspace_ref12</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -45,7 +44,6 @@
+     <field name="unitdate_end_ssm">2001</field>
+     <field name="unitdate_end_ssm">2019</field>
+     <field name="unitdate_end_si">2019</field>
+-    <field name="unitdate_ssm"> </field>
+     <field name="date_range_sim">2001-2100</field>
+     <field name="sort_ii">15</field>
+   </doc>

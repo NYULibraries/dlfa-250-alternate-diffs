@@ -1,0 +1,20 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="unitid_teim">cuid1062</field>
+     <field name="unitid_ssm">cuid1062</field>
+     <field name="unitdate_teim">Jul 28, 1987</field>
+-    <field name="phystech_teim">Original format: 1/8" audiocassette, Duration: 63 min., Preservation note: Sporadic electronic interference on the source tape</field>
++    <field name="phystech_teim">Original format: 1/8&#34; audiocassette, Duration: 63 min., Preservation note: Sporadic electronic interference on the source tape</field>
+     <field name="ref_ssi">aspace_ref12</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>
+@@ -26,6 +26,7 @@
+     <field name="location_ssm">E-records: tamwag_OH-007, E-records: cuid1062</field>
+     <field name="location_si">E-records: tamwag_OH-007, E-records: cuid1062</field>
+     <field name="collection_teim">New York City Central Labor Council Oral History Collection</field>
++    <field name="author_teim">Kelly Haydon</field>
+     <field name="collection_unitid_teim">OH.007</field>
+     <field name="series_si">Gerald Waters; Businesss rep., Central Labor Council</field>
+     <field name="heading_ssm">Gerald Waters; Businesss rep., Central Labor Council</field>
